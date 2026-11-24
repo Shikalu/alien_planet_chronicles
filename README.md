@@ -1,8 +1,14 @@
 # 异星录：断阶之城
 
+<p align="center">
+  <a href="https://alien-planet-chronicles.pages.dev/">
+    <img src="reader/assets/cover.jpg" alt="《异星录：断阶之城》封面" width="320">
+  </a>
+</p>
+
 岚岬的热海漫进栈城。第七码头水工林渡举起一桶饮用水时，脚下的木板正在下沉。
 
-**免费阅读**　[楔子 · 岚岬与栈城](异星录/正文/第一卷_热海坠城/楔子_岚岬与栈城.md) · [第一章 · 热海越线](异星录/正文/第一卷_热海坠城/第001章_热海越线.md) · [八卷目录](异星录/正文/README.md)
+**免费阅读**　[在线阅读站](https://alien-planet-chronicles.pages.dev/) · [楔子 · 岚岬与栈城](异星录/正文/第一卷_热海坠城/楔子_岚岬与栈城.md) · [第一章 · 热海越线](异星录/正文/第一卷_热海坠城/第001章_热海越线.md) · [八卷目录](异星录/正文/README.md)
 
 **使用写作 Harness**　[工作流程](skills/alien-serial-harness/SKILL.md) · [命令与示例](harness/README.md) · [授权范围](LICENSE.md)
 
@@ -14,7 +20,7 @@
 
 在仓库根目录运行 `python3 reader/build.py`。双击 `dist/index.html` 即可本地试读。正文统一维护在 `异星录/正文/`，构建会生成楔子、800个章节页和八卷目录。
 
-Cloudflare Pages 连接此 GitHub 仓库时，框架预设选 None，根目录使用仓库根目录，构建命令填 `python3 reader/build.py`，输出目录填 `dist`。首次部署成功后，可将 Pages 分配的正式网址放在本页“免费阅读”旁。
+Cloudflare Pages 连接此 GitHub 仓库时，框架预设选 None，根目录使用仓库根目录，构建命令填 `python3 reader/build.py`，输出目录填 `dist`。已部署的阅读站：[异星录：断阶之城](https://alien-planet-chronicles.pages.dev/)。
 
 通用框架允许 MIT 条款下的商业使用。本书免费阅读，商业使用须另行授权，详见[权利说明](LICENSE.md)。
 
