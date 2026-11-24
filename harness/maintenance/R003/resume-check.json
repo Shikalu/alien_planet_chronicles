@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-05",
+  "scope": "prologue and 1-50",
+  "original_prose_count": 401,
+  "original_prose_changed": [],
+  "initial_reports": [
+    {
+      "batch": "B01",
+      "initial_report_match": true,
+      "baseline_digest": "8d8dbb76966760775ad04b0d36f36d6c4a5cdc20e2b5fadc34896c4a3db5dd96"
+    },
+    {
+      "batch": "B02",
+      "initial_report_match": true,
+      "baseline_digest": "d78e04bde459f631a9ee4479d5b5fa3a83f597a22b6096f6ae303d74ecbdd95e"
+    },
+    {
+      "batch": "B03",
+      "initial_report_match": true,
+      "baseline_digest": "7733bb53f3d2fa4468377c1d3d6a2f8745524b36a5a44f3e26e00b61d6a14916"
+    },
+    {
+      "batch": "B04",
+      "initial_report_match": true,
+      "baseline_digest": "b5a5472dd9a17a29c5dd7cb2d8f1f3f81e2eb79403fca65896e4eb4c26d43efd"
+    },
+    {
+      "batch": "B05",
+      "initial_report_match": true,
+      "baseline_digest": "7d78b5f0bf5ca33cb127a3894948fdc66b2fa0acd567db031aa6e55cb7577544"
+    }
+  ],
+  "story_state": {
+    "schema_version": 1,
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31",
+    "provenance": "imported-existing-records",
+    "note": "叙事进度仍依据第四卷收官证据；R001为14章既有正文返修，R002为楔子与第1—3章开篇返修及专项审读。最新维护见latest_repair；不代表重审全400章，不推进故事时间。",
+    "evidence": {
+      "异星录/04_连续性管理/第四卷收官状态快照.md": "1f06af7ed7b552b41b71a4d9182a693cca3fd33b5bf4522970ab8d0f96d384ef",
+      "异星录/06_执行计划/审读记录/第四卷/第四卷A30批391-400章连续性与审读报告.md": "5d509172bde8727cabdfcec884ce8dd33d16ea93dca4008205426447b5f1c096",
+      "异星录/06_执行计划/审读记录/第四卷/第四卷A30批391-400章修后独立复核.md": "8e79fcb91a16dd5b58a7a08d32c3c2eb499442d2be561aacdda1d07b540216b3",
+      "异星录/06_执行计划/连续性审计/第四卷/第四卷后五十章连续性审计报告.md": "8d50fa29d8e9055a0965df4df37e04ee2f6a3c4c1a7558a7d1107f1ba076b484"
+    },
+    "latest_repair": "harness/maintenance/R002/record.json"
+  },
+  "writer": "01a1a90e-f785-7611-a606-d34aab286455",
+  "note": "恢复时实核，不代替读者复核。保留2026-11-04历史报告与未完成状态；本次批准五项裁定。"
+}

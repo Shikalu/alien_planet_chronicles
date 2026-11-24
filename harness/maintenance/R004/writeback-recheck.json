@@ -1,0 +1,2324 @@
+{
+  "schema_version": 1,
+  "kind": "independent_writeback_recheck",
+  "id": "R004-WB-recheck-81",
+  "round": 2,
+  "date": "2026-11-06",
+  "reviewed_at": "2026-11-06T18:09:34.677030+08:00",
+  "reviewer": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+  "reviewer_session_id": "01a1affd-68cc-7382-8187-c30f28b3265b",
+  "identity_source": "runtime CODEX_THREAD_ID / CODEX_SESSION_ID",
+  "independent": true,
+  "independence_note": "本线程未改任何正文、WB、正式台账或他人报告；延续同一独立审读线程，非凭重启重新伪造全量盲读。",
+  "verdict": "pending",
+  "writeback_content_verdict": "needs_revision",
+  "ready_for_publish": false,
+  "R004_pass": false,
+  "manuscript_acceptance": "not_issued",
+  "attraction_verdict": "not_reviewed_for_WB",
+  "full_fifty_chapter_review": false,
+  "gate_close_verify_repair_run": false,
+  "read_scope": {
+    "inherited_review": {
+      "path": "harness/maintenance/R004/writeback-review.json",
+      "sha256": "e768f8ec5bff8c6d8406d3c06ef7d43fda56516afc6c6a965e3f6983052832ae",
+      "scope": {
+        "full_current_chapters": [
+          50,
+          60,
+          70,
+          80,
+          91,
+          92,
+          100,
+          101
+        ],
+        "earlier_full_chapters_now_revised": [
+          89,
+          90
+        ],
+        "excerpts": "051—100其余章实际材料、人数、供能、水源、物权、伤势/权限相关段；049只核水源。主笔新改52/54/55/56/58/82/88本轮未完整复审，不能套旧阅读；87仅补核本任务所引原队员段；89/90最新相关段重新人工核过。",
+        "eight_files": "全量字节比较8份所有差异；内容只精核首卷相关表及旧补全、101接口、两术语文件本批相关词条；不是全书或后300章阅读。",
+        "body_first_note": "继承本线程先正文后资料的实际读取，再核旧回填；恢复和中途新改稿只重读必要接口，不以指纹扩大读稿覆盖。",
+        "policies": [
+          "AGENTS.md",
+          "skills/alien-serial-harness/SKILL.md",
+          "skills/alien-serial-harness/references/editorial.md",
+          "skills/alien-serial-harness/references/workflow.md",
+          "harness/status.json",
+          "正文与连载规范第9节",
+          "文风与细节精修规范第2、7节",
+          "黄金开篇与持续追读规范"
+        ],
+        "manuscripts": [
+          {
+            "chapter": 49,
+            "path": "异星录/正文/第一卷_热海坠城/第049章_封锁入口.md",
+            "current_sha256": "06b806749c8939f24c5f9117d52eea294a3418e7c2d5e36c03e5d0020f95c3c0",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 50,
+            "path": "异星录/正文/第一卷_热海坠城/第050章_外壁决定.md",
+            "current_sha256": "4e6185bd0871659558fdd818e41580dc5e1e2d01d0e50d400ebaf2ab1ed0dc7f",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 51,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+            "current_sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 52,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+            "current_sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648",
+            "coverage": "prior_revision_excerpts_current_revision_not_rechecked",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 53,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+            "current_sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 54,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+            "current_sha256": "8486901a8f2f35c6ff20e1ac28b7051807a47b71139dea1c260d522a08bd9aaf",
+            "coverage": "prior_revision_excerpts_current_revision_not_rechecked",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 55,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+            "current_sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a",
+            "coverage": "prior_revision_excerpts_current_revision_not_rechecked",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 56,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+            "current_sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2",
+            "coverage": "prior_revision_excerpts_current_revision_not_rechecked",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 57,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+            "current_sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 58,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+            "current_sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6",
+            "coverage": "prior_revision_excerpts_current_revision_not_rechecked",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 59,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+            "current_sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 60,
+            "path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+            "current_sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 61,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第061章_炸药残痕.md",
+            "current_sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 62,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第062章_父亲的手.md",
+            "current_sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 63,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第063章_面具之后.md",
+            "current_sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 64,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第064章_仪器指向下方.md",
+            "current_sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 65,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+            "current_sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 66,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第066章_第一次失败.md",
+            "current_sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 67,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第067章_改算风向.md",
+            "current_sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 68,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第068章_短暂联手.md",
+            "current_sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 69,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第069章_跳过断口.md",
+            "current_sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 70,
+            "path": "异星录/06_执行计划/工作区/R004-B07/第070章_父亲口哨.md",
+            "current_sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 71,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+            "current_sha256": "3d5ae1cc7fe8e32dcec2c3b5662de10afa0159d38511076303034f98a2c541d7",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 72,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+            "current_sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 73,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+            "current_sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 74,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+            "current_sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 75,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+            "current_sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 76,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+            "current_sha256": "d778e1c0147c26d2a8dacc177c02bf811098e59c41399a852805aa4bd6265d51",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 77,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+            "current_sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 78,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+            "current_sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 79,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+            "current_sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 80,
+            "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+            "current_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 81,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+            "current_sha256": "0bdec2f836f3713bfc0787bff758a72d6ef2eec3532802954085bb5601c5aa32",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 82,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+            "current_sha256": "2d017ef2ad6a12db0046548a74deee22ff1e05547418f661a5552bf1029294f3",
+            "coverage": "prior_revision_excerpts_current_revision_not_rechecked",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 83,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+            "current_sha256": "a5717395c5e7d8db6b52f540a8c7650fc18f12582ec884d2e771cae1fadcdb0d",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 84,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+            "current_sha256": "220de51362768cc6eca6487009ef5bb5dfcad1b2d3daa0b8c10add69f2c7057e",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 85,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+            "current_sha256": "7dc590a379333ebc33ceaaeb26814d52229cffc540cab3e639aff7a519fe3a4c",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 86,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+            "current_sha256": "1b541e80dab85b0f35797bb8c4b43aefa7dfa9e29be19973f64242af287b31d6",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 87,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+            "current_sha256": "a48fe68908cc346c297ccda5fd5ecb354019bc1d966a0fb75b053bea9b1cd3cb",
+            "coverage": "current_relevant_excerpts",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 88,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+            "current_sha256": "166dccdf7ab9a71aafdfa1d0844d527a5baefd8faa45f05201c61be5bffb757a",
+            "coverage": "prior_revision_excerpts_current_revision_not_rechecked",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 89,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+            "current_sha256": "3e4490fe72cade574482c7c99bc7391e19ddeb3a12999e31fee347f651339946",
+            "coverage": "current_relevant_excerpts",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 90,
+            "path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+            "current_sha256": "c3d4517448b566e0df449a537457f91603238e27dd88c529f8d6860518327f60",
+            "coverage": "current_relevant_excerpts",
+            "note": "当前SHA是字节清单，不把修改前阅读冒充新字节验收；089/090此前曾全文读过，现版仅补核相关段。"
+          },
+          {
+            "chapter": 91,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+            "current_sha256": "c8fbfb0e0bc71a97e1146b8cd83dd8a7ce373633d740a4cf9e79b489caa415b8",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 92,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+            "current_sha256": "0609749814081f483725a2082605cab6f62a816f683da516a4bcd834c709fc73",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 93,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+            "current_sha256": "cf8e9f0506bbf499b91d176e95311dc56ebb557d0dba4533bf1ccdc1e050a06d",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 94,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+            "current_sha256": "8b7cde61a825dc7eb9d4d12a8ad055182d4881a0ab08f0f6750db12fd090d193",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 95,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "current_sha256": "ec078ce283efa67e70f5e41c04f4e984ac96d27bfd6bb299eee8127ebed9bbe9",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 96,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+            "current_sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 97,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+            "current_sha256": "00ec57f0455d820534fb6c62bae3e503816d961a56ad310f9d4893058198773a",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 98,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+            "current_sha256": "0ba9f18b43a7cd98c2edde1061f5324eae12031228bb639faa46cda7801e1086",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 99,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+            "current_sha256": "7bc2884bf348b79a552350b5843f96f9dd24d917c7b743944ce7f26fc046b058",
+            "coverage": "current_relevant_excerpts",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 100,
+            "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "current_sha256": "8cd41e50d4cd3184077525fdc41691bceac593f83163cd7fead47f7071ad2d2b",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          },
+          {
+            "chapter": 101,
+            "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+            "current_sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb",
+            "coverage": "full_text_current",
+            "note": "非吸引力或正文验收。"
+          }
+        ]
+      }
+    },
+    "current_diff_scope": "8份stage相对manifest指定正式原文的全部实际diff；复查首卷相关前表、旧补全和附记，101仅接口与C05来源定位，不审后300章。",
+    "restored_focus": "065安全次数、074原副本、080双门、073—075/092—094半扣、器具液和100冻结水、册子100→101、儿童分母与样本、站名证据来源。",
+    "current_excerpt_sources": [
+      {
+        "chapter": 65,
+        "path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+        "sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 71,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+        "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 73,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+        "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 74,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+        "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 75,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+        "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 76,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+        "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 80,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+        "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 92,
+        "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+        "sha256": "05e0235875740ba2c6dd8c729c4133a544e50ae412fed0edd0e9afe114c64025",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 93,
+        "path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+        "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 94,
+        "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+        "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 98,
+        "path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+        "sha256": "44eab5f870a03ed90c95586662f9e479ad11ca5e4941143a5e73245ca619532c",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 99,
+        "path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+        "sha256": "7bc2884bf348b79a552350b5843f96f9dd24d917c7b743944ce7f26fc046b058",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 100,
+        "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+        "sha256": "6a021cca521ab9ddebca8e819089d8ea2c654551d09e8bad3959bd30b3ad3b00",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      },
+      {
+        "chapter": 101,
+        "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+        "sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb",
+        "coverage": "本轮恢复后相关句/邻接补核；071/076已在另件全文补审，其他章不据此冒充整章新审"
+      }
+    ],
+    "additional_c05_direct_read": [
+      {
+        "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+        "line_numbers": [
+          216
+        ],
+        "quote": "船舱孩子核实为13名、加长屋4名共17名",
+        "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8"
+      },
+      {
+        "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+        "line_numbers": [
+          217
+        ],
+        "quote": "偏离原因：无；孩子\"十余名\"落实为13名，属101章分组过册的允许核实。",
+        "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8"
+      },
+      {
+        "path": "异星录/00_项目总览/后七卷设定决策与执行约束.md",
+        "line_numbers": [
+          41
+        ],
+        "quote": "不把十余孩子换成精确数；本次批准不自动落实S01库存",
+        "source_sha256": "f86d5b7d4d917828b280a573c31e866a71c58fe4d252a16f86b1a1cea8d50719"
+      }
+    ],
+    "c05_provenance_report_scope": "读取该独立报告结论及关键证据，直接复核第二卷逐章卡212—217、执行约束3/41；继承其来源搜索结果，不声称本人重跑其全部Git或后七卷审读。",
+    "policies": [
+      "AGENTS.md",
+      "skills/alien-serial-harness/SKILL.md",
+      "skills/alien-serial-harness/references/editorial.md",
+      "skills/alien-serial-harness/references/workflow.md",
+      "harness/status.json",
+      "正文与连载规范第9节",
+      "文风与细节精修规范第2、7节",
+      "黄金开篇与持续追读规范"
+    ],
+    "attraction_boundary": "WB不是正文吸引力审读；071/076五项判断在已存B08报告，不重新签50章。"
+  },
+  "manifest": {
+    "path": "异星录/06_执行计划/工作区/R004-WB/manifest.json",
+    "sha256": "0dd4bbb9ffa9fb196b341dd10c517298f858ab5166cca3324a4515759f476104"
+  },
+  "change_log": {
+    "path": "harness/maintenance/R004/writeback-changes.json",
+    "sha256": "cf77e6b04370e7c9dc32067259aa5ab20f7a14183533ad43b408226e3d272f60",
+    "patch_count": 81,
+    "replay_verified": true,
+    "replay_modes": {
+      "replace_once": 70,
+      "append_newline_wrapped": 10,
+      "replace_all": 1
+    },
+    "algorithm": "从manifest正式来源UTF-8字节开始，逐补丁核before SHA、唯一/全量替换或换行包裹追加，核after SHA；最终8文件逐字节等于stage。",
+    "patches": [
+      {
+        "index": 1,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+        "after_sha256": "c642b1f6b2cf51c881b578bcfe326fe37a9fc63a370a9860a25be7d4961d9708",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 2,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "c642b1f6b2cf51c881b578bcfe326fe37a9fc63a370a9860a25be7d4961d9708",
+        "after_sha256": "e8d3456b95e1637ba9c2fb9a6fd5e0898763ca39b0c16a994d031dd9ffa7b18d",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 3,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "e8d3456b95e1637ba9c2fb9a6fd5e0898763ca39b0c16a994d031dd9ffa7b18d",
+        "after_sha256": "099ec2810cc712dfd0bd8949f94c5257169e3b1c54c37d7161296f1f5a52e79e",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 4,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "099ec2810cc712dfd0bd8949f94c5257169e3b1c54c37d7161296f1f5a52e79e",
+        "after_sha256": "76501e00d9a4534c3bf2b33a035087872815ff0a5679eaf54a6fa2730f0334ba",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 5,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "76501e00d9a4534c3bf2b33a035087872815ff0a5679eaf54a6fa2730f0334ba",
+        "after_sha256": "3c3e6fc272a8671b97b442ffd488cca9f976b63fb812d0ebe76cc127921949c7",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 6,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+        "after_sha256": "35b423c31f25de04c7d1516b3d6f43e486a11b4cc953147f102abbe8bd63acd3",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 7,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "35b423c31f25de04c7d1516b3d6f43e486a11b4cc953147f102abbe8bd63acd3",
+        "after_sha256": "0de81ce13a0d52afc752fe358d3fb9cce4398bec2ce3cdbf76ace1072f546ba4",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 8,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "0de81ce13a0d52afc752fe358d3fb9cce4398bec2ce3cdbf76ace1072f546ba4",
+        "after_sha256": "1c8d2b0db4bf2fc234d9d4ffc601496637a9bf43fe218ee1bc5971bc7990260d",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 9,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "1c8d2b0db4bf2fc234d9d4ffc601496637a9bf43fe218ee1bc5971bc7990260d",
+        "after_sha256": "f5d20ffa49c7cb79874ca456a253340ba1c912a1bda73eb5157efd069c578f2b",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 10,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "f5d20ffa49c7cb79874ca456a253340ba1c912a1bda73eb5157efd069c578f2b",
+        "after_sha256": "4f8ff6ba6de6476e180dcbf367ed02e0d417069c8055599f9d55a7b5ad9235cc",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 11,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "4f8ff6ba6de6476e180dcbf367ed02e0d417069c8055599f9d55a7b5ad9235cc",
+        "after_sha256": "c0dcc5ddd5de48b7a45d5f515d5448e201fbf9da7f053ab5df33ede95c40d767",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 12,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "c0dcc5ddd5de48b7a45d5f515d5448e201fbf9da7f053ab5df33ede95c40d767",
+        "after_sha256": "07e571c6dc722fe6a7ebb81e86a61a8d6ce1cacd550bb8e14430a5a9e0c9b405",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 13,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "07e571c6dc722fe6a7ebb81e86a61a8d6ce1cacd550bb8e14430a5a9e0c9b405",
+        "after_sha256": "f034d7fbd0f6236b95302689ec281deced58c8f7191a5e93f8fd4fef79ea9004",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 14,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "f034d7fbd0f6236b95302689ec281deced58c8f7191a5e93f8fd4fef79ea9004",
+        "after_sha256": "0948e1047a7414c416d1b69db67102be77e029b28574617d573680dcb1bd0fcd",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 15,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "0948e1047a7414c416d1b69db67102be77e029b28574617d573680dcb1bd0fcd",
+        "after_sha256": "8b93c66cee4146d22cb4c0b2e9ba2f6dc167b7484e900c06d675593337fb651f",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 16,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "8b93c66cee4146d22cb4c0b2e9ba2f6dc167b7484e900c06d675593337fb651f",
+        "after_sha256": "a2ea15608a450162d78cb64d5282cf894087583957d5fe88126067119a20d331",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 17,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+        "before_sha256": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c",
+        "after_sha256": "a7a855298c0e9411bc84242c3e617bb586f199de0e781e186070c0fbe40afcad",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 18,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+        "before_sha256": "a7a855298c0e9411bc84242c3e617bb586f199de0e781e186070c0fbe40afcad",
+        "after_sha256": "3f582049d1a363548945f08378ec32830fa718ac3afd18d906cb9a956b549f57",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 19,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+        "before_sha256": "3f582049d1a363548945f08378ec32830fa718ac3afd18d906cb9a956b549f57",
+        "after_sha256": "633b9b09b88efe741114066a6a2482258e29cedcef9a6e67832b28c36b217cb2",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 20,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "before_sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+        "after_sha256": "52944f90bf0350dbd69042151d816014afa16dd13200a09e5933362b69e7df22",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 21,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "before_sha256": "52944f90bf0350dbd69042151d816014afa16dd13200a09e5933362b69e7df22",
+        "after_sha256": "28c96584df563338bcf213bd9a93148a53f14852ffca6c871e32c09042eafd74",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 22,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "before_sha256": "28c96584df563338bcf213bd9a93148a53f14852ffca6c871e32c09042eafd74",
+        "after_sha256": "9fcdeba89dbdf62a2a81adfe9a7fa51a273f9b4758047974e6dba30db1b6630b",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 23,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "before_sha256": "9fcdeba89dbdf62a2a81adfe9a7fa51a273f9b4758047974e6dba30db1b6630b",
+        "after_sha256": "2c4697f13c686203e89553a30beda0945190bc108d7c7dc0beaf557110415911",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 24,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/术语与命名表.md",
+        "before_sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+        "after_sha256": "3736759f0e90b89c1f7efe25f3aea7e8409821ceeef5efd7f07c75d67eb29c0c",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 25,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/术语词典.md",
+        "before_sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+        "after_sha256": "4ae82b16692209aa989d108660d64eb5c562067060f73383745c000a384cec5a",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 26,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0",
+        "after_sha256": "fde41814e5e76446eadf480d7c4af1694be5639522a07ebcee18e3a4b84d1c49",
+        "replay_mode": "replace_all",
+        "verified": true
+      },
+      {
+        "index": 27,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "fde41814e5e76446eadf480d7c4af1694be5639522a07ebcee18e3a4b84d1c49",
+        "after_sha256": "7b1f63ebaa53eec90e85209bba5dbdec36b1eb4001c064bd31aa6ca2eed5a1c9",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 28,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "7b1f63ebaa53eec90e85209bba5dbdec36b1eb4001c064bd31aa6ca2eed5a1c9",
+        "after_sha256": "9996d0c27dc87dc4868b2aafdd38231d51e69d87e881e505ed70aaae9bca987a",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 29,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "9996d0c27dc87dc4868b2aafdd38231d51e69d87e881e505ed70aaae9bca987a",
+        "after_sha256": "b62b04479bc450502ee8df4d1ce6772069c52cb0f56d3fb4312db698a49da842",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 30,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "b62b04479bc450502ee8df4d1ce6772069c52cb0f56d3fb4312db698a49da842",
+        "after_sha256": "65817fb05f73e08d694b6e1ebb80a7b71717cecef2475edcd4985ff80148ef69",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 31,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "65817fb05f73e08d694b6e1ebb80a7b71717cecef2475edcd4985ff80148ef69",
+        "after_sha256": "036c15288861f13331fba0611eaa2ffd39e43794a4b0d8fc9ff5127b3141679d",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 32,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "036c15288861f13331fba0611eaa2ffd39e43794a4b0d8fc9ff5127b3141679d",
+        "after_sha256": "39c88ef5848658ab013b58b44dea2555a09aa3be31b2149bda8014f30842c369",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 33,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "39c88ef5848658ab013b58b44dea2555a09aa3be31b2149bda8014f30842c369",
+        "after_sha256": "7189c0b98a90e95d04267797b9ea28abe8580cadfcddf134e6e04553d7214a82",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 34,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+        "before_sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+        "after_sha256": "b77497395d7569d6f60468704469cc13a6e3d06c773e4791bcb1c188a7e267f4",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 35,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+        "before_sha256": "b77497395d7569d6f60468704469cc13a6e3d06c773e4791bcb1c188a7e267f4",
+        "after_sha256": "5ddee92db0df1312b3efe870bf3fe0ee05ba20e0127554d0313c27d729f03ac4",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 36,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+        "before_sha256": "5ddee92db0df1312b3efe870bf3fe0ee05ba20e0127554d0313c27d729f03ac4",
+        "after_sha256": "610ad72c545a1f93e61b046cd5ac28d366f57e18ab990b48b28778b9e617b3b9",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 37,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+        "before_sha256": "610ad72c545a1f93e61b046cd5ac28d366f57e18ab990b48b28778b9e617b3b9",
+        "after_sha256": "94b0a48881ac2e3fe70f73fbab298fbfbef3fde5c55da7929a0ba030760728ad",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 38,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "3c3e6fc272a8671b97b442ffd488cca9f976b63fb812d0ebe76cc127921949c7",
+        "after_sha256": "b6d8edd88884401e13d0fcc954a007ff8ebe510a0876d5f45ccd9dadb25a810a",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 39,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "b6d8edd88884401e13d0fcc954a007ff8ebe510a0876d5f45ccd9dadb25a810a",
+        "after_sha256": "491cbba3bde7befacece3305022475c872ea6646d6d68e23552c013e001a937c",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 40,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "491cbba3bde7befacece3305022475c872ea6646d6d68e23552c013e001a937c",
+        "after_sha256": "1497f61697c6ba28017968f867f7eada774f9e4ed6ae6be40720e72be6dd57e6",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 41,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "1497f61697c6ba28017968f867f7eada774f9e4ed6ae6be40720e72be6dd57e6",
+        "after_sha256": "2baa89b7a9d43d86fc49a7630c72bd30e18755e07b3001cd037d096052bfad45",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 42,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "2baa89b7a9d43d86fc49a7630c72bd30e18755e07b3001cd037d096052bfad45",
+        "after_sha256": "4ee015d019ba7f9202b6c7cb1b88082477e7a11e32ea23c9b181c22b5feaef13",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 43,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "4ee015d019ba7f9202b6c7cb1b88082477e7a11e32ea23c9b181c22b5feaef13",
+        "after_sha256": "6789cfa1f9dea03cf17406a9a56f7760b88f680ce5913a95a73721e6a645147f",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 44,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "6789cfa1f9dea03cf17406a9a56f7760b88f680ce5913a95a73721e6a645147f",
+        "after_sha256": "22cb3e3e32a7ef11b5b8ee6bd4ecbfff6b37b46b3bc07ec17a8c321c5618de5a",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 45,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "22cb3e3e32a7ef11b5b8ee6bd4ecbfff6b37b46b3bc07ec17a8c321c5618de5a",
+        "after_sha256": "2c9e50b7b0bc83698903550e667d082d6d93dc1135efddfa4279e252c37092dc",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 46,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "2c9e50b7b0bc83698903550e667d082d6d93dc1135efddfa4279e252c37092dc",
+        "after_sha256": "2f0a607165d4b5164253633fb8e241f734c8c1bf588f033a0351c02a1687f829",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 47,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "2f0a607165d4b5164253633fb8e241f734c8c1bf588f033a0351c02a1687f829",
+        "after_sha256": "0891bca1545aeb82337f2bd51965027b18d46f1225f72e653cca6ba21c4892fe",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 48,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+        "before_sha256": "0891bca1545aeb82337f2bd51965027b18d46f1225f72e653cca6ba21c4892fe",
+        "after_sha256": "be12c1a1eaa01e09477c6fbe0835599ecb16c0483fe939be1513fe2442ccba0c",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 49,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "a2ea15608a450162d78cb64d5282cf894087583957d5fe88126067119a20d331",
+        "after_sha256": "a767c2930afc53451b02a592407dbb92b8c13c1dde6a630a48a3e86217f1414d",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 50,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "a767c2930afc53451b02a592407dbb92b8c13c1dde6a630a48a3e86217f1414d",
+        "after_sha256": "9be2ecc3fc8788be92df59a5836e983f2a7347d7fe851c51a0e1d48bd7e9d7dc",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 51,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "9be2ecc3fc8788be92df59a5836e983f2a7347d7fe851c51a0e1d48bd7e9d7dc",
+        "after_sha256": "ad417747c14617a4d17b61bc550cf3fe4babb0ea5a5e4f9c17aeffb84ffc80e2",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 52,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "ad417747c14617a4d17b61bc550cf3fe4babb0ea5a5e4f9c17aeffb84ffc80e2",
+        "after_sha256": "9b1d42338c885e9a382df3a80cefccf9db1b0eb52653c3f726550b15e07dc81f",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 53,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "9b1d42338c885e9a382df3a80cefccf9db1b0eb52653c3f726550b15e07dc81f",
+        "after_sha256": "5bea0bd4512676712b2bb911ada438bbaf2399b1b1c9a4ab2b48f4f6cdfc200f",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 54,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "5bea0bd4512676712b2bb911ada438bbaf2399b1b1c9a4ab2b48f4f6cdfc200f",
+        "after_sha256": "64905a634c2984cc69c8255705a06c5e7d7d1878f4085347f9c96f923e74da9d",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 55,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "64905a634c2984cc69c8255705a06c5e7d7d1878f4085347f9c96f923e74da9d",
+        "after_sha256": "f8368eaaf77a9043cf0fd0f976e1513190ed5a5fa41902afcd82517bf5064162",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 56,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "f8368eaaf77a9043cf0fd0f976e1513190ed5a5fa41902afcd82517bf5064162",
+        "after_sha256": "fe2d450a518cae88f5f9f1daf4fb3a3388c04fe80d116d1677e064c2f752c6fb",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 57,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "fe2d450a518cae88f5f9f1daf4fb3a3388c04fe80d116d1677e064c2f752c6fb",
+        "after_sha256": "20ff236be10a2ba41a952614d70d59964b820dbaf09ca04ed224caab67c1c73f",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 58,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "20ff236be10a2ba41a952614d70d59964b820dbaf09ca04ed224caab67c1c73f",
+        "after_sha256": "bb04f0a992a9df5f3346ac245748b84e23bd7c13886ce7b5bc3b690d5455c06a",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 59,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "bb04f0a992a9df5f3346ac245748b84e23bd7c13886ce7b5bc3b690d5455c06a",
+        "after_sha256": "ec7936f6b462f812d48a2cd3af45ff3b89f090e6a0eb22b608602ef626669f6e",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 60,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "ec7936f6b462f812d48a2cd3af45ff3b89f090e6a0eb22b608602ef626669f6e",
+        "after_sha256": "7012e23ccb0940b5d589a6e948374e64a29af650792d58be571e242aa970fe37",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 61,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "7012e23ccb0940b5d589a6e948374e64a29af650792d58be571e242aa970fe37",
+        "after_sha256": "e1d46b23d14a87adc0cec4c789d12080a54a1f7952aa25c67b434ab6f2c1c68a",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 62,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+        "before_sha256": "633b9b09b88efe741114066a6a2482258e29cedcef9a6e67832b28c36b217cb2",
+        "after_sha256": "8fc79efbc9b27ebada406bec2dd58049796a905bd85ceafd67ef1ddc0c1fd019",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 63,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+        "before_sha256": "8fc79efbc9b27ebada406bec2dd58049796a905bd85ceafd67ef1ddc0c1fd019",
+        "after_sha256": "0ef6b3afc1d6f0df5521a1fd1ac1351472a6df899a722dff5c4105dbca2fa0b1",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 64,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "before_sha256": "2c4697f13c686203e89553a30beda0945190bc108d7c7dc0beaf557110415911",
+        "after_sha256": "aed2deb82c92cd36df49132dde8d815620d8267ccf0320e3b086c83d3a036144",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 65,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "before_sha256": "aed2deb82c92cd36df49132dde8d815620d8267ccf0320e3b086c83d3a036144",
+        "after_sha256": "a690105d23a9c5fe1d6933e579435b0da8f1889564a479b03ac43c1383ffc4dd",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 66,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "7189c0b98a90e95d04267797b9ea28abe8580cadfcddf134e6e04553d7214a82",
+        "after_sha256": "5b3a46751a6aa7df631a9b152f454c5708899bbf6a35175873ef0fef78ba1429",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 67,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "5b3a46751a6aa7df631a9b152f454c5708899bbf6a35175873ef0fef78ba1429",
+        "after_sha256": "c7f34098750a3220b3562cf152c772312cec16ee2ae89bff5d4663d9a64923a1",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 68,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "c7f34098750a3220b3562cf152c772312cec16ee2ae89bff5d4663d9a64923a1",
+        "after_sha256": "a3d70479ad6dabda8bf0ceb00522da2fc5a351f98e27616e534c4988389cf378",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 69,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "a3d70479ad6dabda8bf0ceb00522da2fc5a351f98e27616e534c4988389cf378",
+        "after_sha256": "cc9dc659ef642fcacb64530b23625270969a610040e377e5301658410f740521",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 70,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "cc9dc659ef642fcacb64530b23625270969a610040e377e5301658410f740521",
+        "after_sha256": "c7857baed58ecb76873b04a42e16381719383538879067af8a443ef5c8f189da",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 71,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "c7857baed58ecb76873b04a42e16381719383538879067af8a443ef5c8f189da",
+        "after_sha256": "f489cfe93ec6a7739e388eac9e1925019c028eedf2b02d0412797653af48674b",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 72,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "f489cfe93ec6a7739e388eac9e1925019c028eedf2b02d0412797653af48674b",
+        "after_sha256": "e7ff2e722831cd6265de6ca0c223b275082c7a20a4cdf90600e683765ef976e7",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 73,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "e7ff2e722831cd6265de6ca0c223b275082c7a20a4cdf90600e683765ef976e7",
+        "after_sha256": "ef64f65cc1588b01d79d5b656f0772c61255fa0aac56843c16a2956e7aa8a115",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 74,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "ef64f65cc1588b01d79d5b656f0772c61255fa0aac56843c16a2956e7aa8a115",
+        "after_sha256": "7182d312a9aea96195aca1dfdf2e8ba5df4f96d359eadad7bfea0ad5ca8306fd",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 75,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "7182d312a9aea96195aca1dfdf2e8ba5df4f96d359eadad7bfea0ad5ca8306fd",
+        "after_sha256": "294c8c0baec1dee911d48d0eb4610bb780545ee47c52f2933fa6820a624db96b",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 76,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "294c8c0baec1dee911d48d0eb4610bb780545ee47c52f2933fa6820a624db96b",
+        "after_sha256": "d82b8cdb108301e1a60543051ca4586da2d27c70530565ebdbc7e37055bfdce1",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 77,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+        "before_sha256": "94b0a48881ac2e3fe70f73fbab298fbfbef3fde5c55da7929a0ba030760728ad",
+        "after_sha256": "81dd2be91d559530c2a81cd24d5857e358212dfc0d85e20434999c6db05e990b",
+        "replay_mode": "replace_once",
+        "verified": true
+      },
+      {
+        "index": 78,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "e1d46b23d14a87adc0cec4c789d12080a54a1f7952aa25c67b434ab6f2c1c68a",
+        "after_sha256": "e4b7f0447568a2f67da059c6516b6b04854e914f99fa91ea34ea5a0756e95145",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 79,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "before_sha256": "a690105d23a9c5fe1d6933e579435b0da8f1889564a479b03ac43c1383ffc4dd",
+        "after_sha256": "c0e3851d5ecef35067df57993c2ef9da2b201814bea5d5ea6d27fdfcde0e1539",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 80,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "d82b8cdb108301e1a60543051ca4586da2d27c70530565ebdbc7e37055bfdce1",
+        "after_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      },
+      {
+        "index": 81,
+        "stage": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+        "before_sha256": "81dd2be91d559530c2a81cd24d5857e358212dfc0d85e20434999c6db05e990b",
+        "after_sha256": "48be8026655fe96e7488359da49214646bdeb87304b0039ff668dfa0116d3166",
+        "replay_mode": "append_newline_wrapped",
+        "verified": true
+      }
+    ]
+  },
+  "files": [
+    {
+      "authority_path": "异星录/04_连续性管理/人物状态台账.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+      "authority_sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "manifest_before_sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "stage_sha256": "be12c1a1eaa01e09477c6fbe0835599ecb16c0483fe939be1513fe2442ccba0c",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 16,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 22,
+      "removed_lines": 13,
+      "unified_diff_sha256": "513c41e4efab1f059fbedb1cac7863f85206abffe6a2c9fac6e9985387ec66e0",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [
+        "WB-RR-01",
+        "WB-RR-05"
+      ],
+      "content_verdict": "needs_revision",
+      "not_publication_acceptance": true
+    },
+    {
+      "authority_path": "异星录/04_连续性管理/资源与时间台账.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "authority_sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "manifest_before_sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "stage_sha256": "e4b7f0447568a2f67da059c6516b6b04854e914f99fa91ea34ea5a0756e95145",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 25,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 39,
+      "removed_lines": 20,
+      "unified_diff_sha256": "4f31aa61ae545c279687aba71971d6c0332594cf7c01ad04731cee3d1b431752",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [
+        "WB-RR-04"
+      ],
+      "content_verdict": "needs_revision",
+      "not_publication_acceptance": true
+    },
+    {
+      "authority_path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+      "authority_sha256": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c",
+      "manifest_before_sha256": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c",
+      "stage_sha256": "0ef6b3afc1d6f0df5521a1fd1ac1351472a6df899a722dff5c4105dbca2fa0b1",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 5,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 14,
+      "removed_lines": 4,
+      "unified_diff_sha256": "a1dcae22846a4c5f0d9350bbc8faa299190ed8ce09a9d4d047cdf5c0e21e9cbc",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [
+        "WB-RR-06"
+      ],
+      "content_verdict": "needs_revision",
+      "not_publication_acceptance": true
+    },
+    {
+      "authority_path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+      "authority_sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "manifest_before_sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "stage_sha256": "c0e3851d5ecef35067df57993c2ef9da2b201814bea5d5ea6d27fdfcde0e1539",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 7,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 12,
+      "removed_lines": 6,
+      "unified_diff_sha256": "7f3569792ef92c2d1512f3b0687074a6c39c4136bc2952d0c8a98198d5b58496",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [
+        "WB-RR-02",
+        "WB-RR-03"
+      ],
+      "content_verdict": "needs_revision",
+      "not_publication_acceptance": true
+    },
+    {
+      "authority_path": "异星录/04_连续性管理/术语与命名表.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/术语与命名表.md",
+      "authority_sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+      "manifest_before_sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+      "stage_sha256": "3736759f0e90b89c1f7efe25f3aea7e8409821ceeef5efd7f07c75d67eb29c0c",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 1,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 10,
+      "removed_lines": 0,
+      "unified_diff_sha256": "434016026105362e380683817859371c7ef2e4f664a21c7d736c14fac2c414bb",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [],
+      "content_verdict": "no_new_conflict_in_reviewed_scope",
+      "not_publication_acceptance": true
+    },
+    {
+      "authority_path": "异星录/04_连续性管理/术语词典.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/术语词典.md",
+      "authority_sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+      "manifest_before_sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+      "stage_sha256": "4ae82b16692209aa989d108660d64eb5c562067060f73383745c000a384cec5a",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 1,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 10,
+      "removed_lines": 0,
+      "unified_diff_sha256": "bb6680df99a8b44e57f1e4c444f32c15ab5e9ef2620f4898c8e75e01906362d0",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [],
+      "content_verdict": "no_new_conflict_in_reviewed_scope",
+      "not_publication_acceptance": true
+    },
+    {
+      "authority_path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "authority_sha256": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0",
+      "manifest_before_sha256": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0",
+      "stage_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 20,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 40,
+      "removed_lines": 16,
+      "unified_diff_sha256": "be2b3106f75f13422948b997c9de8cbf801f8f4ba2b05fd010dab79a0c3465cb",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [
+        "WB-RR-01",
+        "WB-RR-02",
+        "WB-RR-03"
+      ],
+      "content_verdict": "needs_revision",
+      "not_publication_acceptance": true
+    },
+    {
+      "authority_path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "stage_path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+      "authority_sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+      "manifest_before_sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+      "stage_sha256": "48be8026655fe96e7488359da49214646bdeb87304b0039ff668dfa0116d3166",
+      "authority_matches_manifest": true,
+      "stage_differs_from_authority": true,
+      "patch_count": 6,
+      "all_patch_steps_replayed": true,
+      "replayed_bytes_equal_actual_stage": true,
+      "added_lines": 12,
+      "removed_lines": 4,
+      "unified_diff_sha256": "29f6edbc5c00b71c0ccea954d8e5192709adfff503245e9e3258811e553a9a0d",
+      "all_actual_diff_hunks_read": true,
+      "review_basis": "本线程恢复前逐份读过实际diff，恢复后补读前表和残留项；不是只读附录或仅凭重放判正确。",
+      "remaining_issue_ids": [
+        "WB-RR-04",
+        "WB-RR-05"
+      ],
+      "content_verdict": "needs_revision",
+      "not_publication_acceptance": true
+    }
+  ],
+  "c01": {
+    "status": "approved_2026-11-06_restored",
+    "source": "harness/maintenance/R004/changes.json",
+    "sha256": "5e14ba6640f93a3524d3210f18c47a61bd371d76c902cb40ff4f6503d8d70ddb",
+    "issue": "R004-B07-I02",
+    "quote": "执行2026-11-06作者批准的单整梁加原断段短撑方案。",
+    "note": "旧冲突清单待定字段过时，不重选方案。"
+  },
+  "original_final_interfaces": [
+    {
+      "path": "harness/maintenance/R004/B07/final.json",
+      "sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "writeback_status": "pending_freeze",
+      "working_hash_checks": [
+        {
+          "chapter": 61,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第061章_炸药残痕.md",
+          "reported_sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6",
+          "actual_sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 62,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第062章_父亲的手.md",
+          "reported_sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d",
+          "actual_sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 63,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第063章_面具之后.md",
+          "reported_sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf",
+          "actual_sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 64,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第064章_仪器指向下方.md",
+          "reported_sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc",
+          "actual_sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 65,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+          "reported_sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca",
+          "actual_sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 66,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第066章_第一次失败.md",
+          "reported_sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb",
+          "actual_sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 67,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第067章_改算风向.md",
+          "reported_sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82",
+          "actual_sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 68,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第068章_短暂联手.md",
+          "reported_sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1",
+          "actual_sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 69,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第069章_跳过断口.md",
+          "reported_sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f",
+          "actual_sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 70,
+          "working_path": "异星录/06_执行计划/工作区/R004-B07/第070章_父亲口哨.md",
+          "reported_sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26",
+          "actual_sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26",
+          "matches_original_final": true
+        }
+      ],
+      "path_semantics": "manuscript.path是发布目标；校验使用实际工作稿。",
+      "conclusion": "B07原final所绑10章工作稿仍一致；WB冻结待核不因本报告自动关闭。"
+    },
+    {
+      "path": "harness/maintenance/R004/B08/final.json",
+      "sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "writeback_status": "pending_R004-WB_short_recheck",
+      "working_hash_checks": [
+        {
+          "chapter": 71,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+          "reported_sha256": "3d5ae1cc7fe8e32dcec2c3b5662de10afa0159d38511076303034f98a2c541d7",
+          "actual_sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893",
+          "matches_original_final": false
+        },
+        {
+          "chapter": 72,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+          "reported_sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+          "actual_sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 73,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+          "reported_sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+          "actual_sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 74,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+          "reported_sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+          "actual_sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 75,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+          "reported_sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+          "actual_sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 76,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+          "reported_sha256": "d778e1c0147c26d2a8dacc177c02bf811098e59c41399a852805aa4bd6265d51",
+          "actual_sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60",
+          "matches_original_final": false
+        },
+        {
+          "chapter": 77,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+          "reported_sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+          "actual_sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 78,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+          "reported_sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa",
+          "actual_sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 79,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+          "reported_sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+          "actual_sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+          "matches_original_final": true
+        },
+        {
+          "chapter": 80,
+          "working_path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+          "reported_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+          "actual_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+          "matches_original_final": true
+        }
+      ],
+      "path_semantics": "manuscript.path是发布目标；校验使用实际工作稿。",
+      "conclusion": "B08原final保留，071/076新字节不匹配旧final属真实修稿差异，不是未发布路径哈希错；另8章仍一致，新两章使用water-boundary-recheck。"
+    }
+  ],
+  "b08_completed_short_review": {
+    "path": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+    "sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+    "verdict": "pass",
+    "source_digest": "6f54feb6c8aab789ffb9e7db5fbc140a91fac3ed6301a08ed1966dc7c3e6a114",
+    "scope": "071/076正文事实及各5项吸引力新增补审；其余8章40项继承，非10章全部重读。",
+    "original_final_kept": true,
+    "original_final_matches_new_two_chapters": false,
+    "not_C04_or_R004_approval": true
+  },
+  "prior_22_item_rechecks": [
+    {
+      "id": "R004-WB-01",
+      "title": "八份暂存全为未修改副本",
+      "status": "closed",
+      "conclusion": "8份均已实际修改，81步重放吻合；不再是空副本。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-02",
+      "title": "C01批准已恢复；双梁与“保留两完整长梁至065”必须消除",
+      "status": "closed",
+      "conclusion": "按2026-11-06批准的C01单整梁+048原断段执行；资源389旧“两根完整长梁仍保留至065”已消除，不重选方案。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-03",
+      "title": "核验子集误作全队：35→34→至少48须撤除",
+      "status": "closed",
+      "conclusion": "本批原册核验子集、另列同行者、三来源孩子分栏；060内17外17/061内18外16不作全体。101历史数字依赖另列WB-21。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-04",
+      "title": "063裴七仍在门内，不去外侧递绳",
+      "status": "closed",
+      "conclusion": "063/065裴七留门内接应、066从同侧救回；未与另一失联伤员合并。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-05",
+      "title": "075完成交换，076只检查已取回仪器",
+      "status": "closed",
+      "conclusion": "075交换完成；076只检查/固定已取回仪器。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-06",
+      "title": "七息不是预测周期；节点七不是七息",
+      "status": "closed",
+      "conclusion": "076七息未复位、077约七息机械回弹与节点七分开，不预测安全周期。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-07",
+      "title": "旧检查格与裂尺不能变成安全次数或承重钥匙",
+      "status": "partial",
+      "conclusion": "裂尺非承重边界已改；两次安全回弹仍残在前表，见WB-RR-01。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-08",
+      "title": "080横移墙门与通井升降门、室内人与门外担架要分开",
+      "status": "partial",
+      "conclusion": "人物/资源双门链已改，章卡与时间线仍旧，见WB-RR-03。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-09",
+      "title": "080林岑守阀，未抬配重",
+      "status": "closed",
+      "conclusion": "080林岑守阀而非伤肩抬配重；配重作业由林渡/阿九/槐七承担。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-10",
+      "title": "074封锁令是副本；080仍问祝衡能否返回过时",
+      "status": "partial",
+      "conclusion": "074已返、080不再悬问未归已修；原副本仍残混，见WB-RR-02。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-11",
+      "title": "078焦木不证只烧副本，传令方向不等于主谋身份",
+      "status": "closed",
+      "conclusion": "焦木不证只烧副本；槐七口述与祝衡核传令方向分开，最终签令人未知。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-12",
+      "title": "071认人靠本人及同行核验，076剩料标记不恢复旧身份",
+      "status": "closed",
+      "conclusion": "071认人凭答认和同行见证；纤维只试拼残条，076沿既有临时号和剩料重做标记。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-13",
+      "title": "089留置短撑与090回收旧短梁已分开；092几段来源仍待核",
+      "status": "pending",
+      "conclusion": "089短撑留置/090唯一旧短梁回收交岑野已分；092箱框搭接受力及撤退链明示待B10，不因WB记入即闭合。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-14",
+      "title": "061消耗盐药不能泛写冷凝水洗伤",
+      "status": "closed",
+      "conclusion": "061药包/敷布与器具液分开；原药耗保留，冷凝残液不洗伤，090只用孩子原布尚湿内角。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-15",
+      "title": "071/076润嘴残液与098封存饮水来源仍未闭合",
+      "status": "partial",
+      "conclusion": "071/076新补审已通过限定范围；098—100来源C04仍未裁定，且冻结饮水旧表仍需WB-RR-04。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-16",
+      "title": "086主卷、原匣残段、抄本与090证词原牌及公共册暂持",
+      "status": "partial",
+      "conclusion": "主卷/原匣残段/抄本/090原牌分持已修；100公共册前表暂持仍需WB-RR-05。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-17",
+      "title": "机械读档与供能范围过宽，不能凭回填恢复精读",
+      "status": "pending",
+      "conclusion": "084手动读档、088接口不充电已修；094局部回位与永久死针仍待B10同字节复核。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-18",
+      "title": "儿童样本知识范围越界；不能把旧四孩再算新增",
+      "status": "closed",
+      "conclusion": "人物185已限099长屋4片样本，100原四孩不重复新增，封墙孩/舱孩另列；不从样本推全部孩子受困七年。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-19",
+      "title": "100站名是船身文字直读而非徽记推断",
+      "status": "partial",
+      "conclusion": "站名直读主记录已改；旧伏笔的徽记关联仍需WB-RR-06。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-20",
+      "title": "100末物资留置不可回库，约量不是完整可用件",
+      "status": "pending",
+      "conclusion": "100最后完整普通卡扣/磨毛绳留置，铜片灯线回收与约量非完整件已写；092/094新增半扣/材料链不越过B10待审。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-21",
+      "title": "101接口：时间线17＝4＋13缺当章核数句",
+      "status": "pending",
+      "conclusion": "C05已找到2026-09-30 A01实录216—217的13+4=17及101过册截点，不是完全无历史来源；仍与同日101—110禁止精确化边界冲突，未找到特定作者批准。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    },
+    {
+      "id": "R004-WB-22",
+      "title": "100末位置与祝衡系统死亡、现场活证权限要分开",
+      "status": "closed",
+      "conclusion": "100主要位置与系统死亡/现场活证/制度权限分开，未复活祝衡或恢复权限。",
+      "closure_scope": "仅本次WB语义对齐；不是正文/吸引力或R004整体签收"
+    }
+  ],
+  "remaining_issues": [
+    {
+      "id": "WB-RR-01",
+      "title": "065前表仍把安排上限写成两次安全保证",
+      "severity": "serious",
+      "status": "open",
+      "prior_issue": "R004-WB-07",
+      "finding": "章卡214/229两份实际记录仍称安全；人物070截点“确认跳台承重次数”也把未保证的安排写成已知承重能力。尾附366的正确边界不能抵消前表。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+          "line_numbers": [
+            41
+          ],
+          "quote": "空格旁写的是可安排的两次重载，按眼前装法计算。每次卸重都要停下来检验回弹；卸重后裂纹若还在走，就停用。槐七摸过旧孔与梁纹，只肯先列到这里，并不保证这两次一定能过。",
+          "source_sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+          "line_numbers": [
+            97
+          ],
+          "quote": "他们必须先确认这次回弹，而不能把第三次当作前两次的延长。",
+          "source_sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca"
+        }
+      ],
+      "edits": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+          "line_numbers": [
+            214,
+            229
+          ],
+          "quote": "材料只够两次安全回弹；梁心受热、接头消耗，队伍人数超过跳台承载",
+          "source_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed",
+          "suggested_after": "按眼前装法只先列两次重载安排，每次卸重均须复查，不能保证两次安全通过；梁心受热、接头消耗，尚有后组待转移",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+          "line_numbers": [
+            214,
+            229
+          ],
+          "quote": "风柱抬升仓库门，第三次通过必须承担结构失败风险",
+          "source_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed",
+          "suggested_after": "第二次卸载迟延、回弹未确认，林渡重传停令；外侧第三组已绷绳，风柱抬升仓库门",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+          "line_numbers": [
+            140
+          ],
+          "quote": "确认跳台承重次数和封锁网残余温度",
+          "source_sha256": "be12c1a1eaa01e09477c6fbe0835599ecb16c0483fe939be1513fe2442ccba0c",
+          "suggested_after": "记录两次重载安排与逐次卸重检查、封锁网残余温度；不确认固定安全承重次数",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        }
+      ]
+    },
+    {
+      "id": "WB-RR-02",
+      "title": "074前表仍混淆副本缺页与议会原件",
+      "severity": "serious",
+      "status": "open",
+      "prior_issue": "R004-WB-10",
+      "finding": "人物/伏笔及附记已分原副本，但章卡仍写原件缺页，时间线仍写原始封锁令；证据等级未统一。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+          "line_numbers": [
+            25
+          ],
+          "quote": "“巡查所留的副本。没有改成广播说法的那份。”祝衡说，“不是议会原件。”",
+          "source_sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+          "line_numbers": [
+            45
+          ],
+          "quote": "我不能把副本缺两页，直接说成议会原件也被毁了。",
+          "source_sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e"
+        }
+      ],
+      "edits": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+          "line_numbers": [
+            243
+          ],
+          "quote": "祝衡带回巡查所副本封锁令，公开“禁止留下见证者”的真实条款，并说明原件至少缺两页",
+          "source_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed",
+          "suggested_after": "祝衡带回巡查所留存封锁令副本的一页，公开“禁止留下见证者”的条款；该副本原有连续三页、另两页被取走，议会原件存毁未知",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+          "line_numbers": [
+            22
+          ],
+          "quote": "祝衡公开原始封锁令",
+          "source_sha256": "c0e3851d5ecef35067df57993c2ef9da2b201814bea5d5ea6d27fdfcde0e1539",
+          "suggested_after": "祝衡074带回并公开巡查所留存封锁令副本一页；副本缺页，议会原件存毁未知",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        }
+      ]
+    },
+    {
+      "id": "WB-RR-03",
+      "title": "080前表仍把作业者、担架及两道门合为一处",
+      "severity": "serious",
+      "status": "open",
+      "prior_issue": "R004-WB-08",
+      "finding": "人物151/153、资源位置行已经正确，但章卡249和时间线22仍停在旧位置链；“维修室门开始上移”容易把已横移开启的墙门写成同一道门。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+          "line_numbers": [
+            5
+          ],
+          "quote": "刚才打开的横移墙门在他们身后，伤员还留在门外稳梁，只有帮忙作业的人分次进来。",
+          "source_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+          "line_numbers": [
+            59
+          ],
+          "quote": "林渡沿线看，终点指向身后那道竖直升降门。",
+          "source_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+          "line_numbers": [
+            95
+          ],
+          "quote": "盐壳从门缝掉落，后面露出竖直井壁和一截狭窄平台。",
+          "source_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+        }
+      ],
+      "edits": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+          "line_numbers": [
+            249
+          ],
+          "quote": "队伍停留在维修室门前",
+          "source_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed",
+          "suggested_after": "作业者已过横移墙门进入维修室，担架仍留该门外稳梁",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+          "line_numbers": [
+            249
+          ],
+          "quote": "维修室门开始上移",
+          "source_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed",
+          "suggested_after": "维修室内通联络井的另一道竖直升降门开始上移",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+          "line_numbers": [
+            22
+          ],
+          "quote": "断阶深维修层、百年信号灯维修室门前",
+          "source_sha256": "c0e3851d5ecef35067df57993c2ef9da2b201814bea5d5ea6d27fdfcde0e1539",
+          "suggested_after": "断阶深维修层至百年信号灯维修室；080作业者在室内、担架留横移墙门外，通井升降门另行上移",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        }
+      ]
+    },
+    {
+      "id": "WB-RR-04",
+      "title": "100冻结水表仍列可饮余额并把器具液放在饮水栏",
+      "severity": "serious",
+      "status": "open",
+      "prior_issue": "R004-WB-15",
+      "finding": "快照41是100结束冻结状态，仍写极少处理水，与100末壶空及资源附录821“100已空不登记可饮余额”不符。此处改成无已证余额，不等于删除098—100已有饮用结果或替C04选择水源。资源217“残余湿布和冷凝液仅够短时降温”则须拆明人体原湿布/器具液，避免重新扩大用途。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "line_numbers": [
+            81
+          ],
+          "quote": "分过的人在临时行旁点一下，壶很快又空下去。",
+          "source_sha256": "6a021cca521ab9ddebca8e819089d8ea2c654551d09e8bad3959bd30b3ad3b00"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_numbers": [
+            821
+          ],
+          "quote": "100已空不登记可饮余额。作者候选未写入库存。",
+          "source_sha256": "e4b7f0447568a2f67da059c6516b6b04854e914f99fa91ea34ea5a0756e95145"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "line_numbers": [
+            89
+          ],
+          "quote": "那点饮水一直与湿布、接锈水的冷凝残液分开，不能因为孩子喊渴就把脏布拧进嘴里。",
+          "source_sha256": "44eab5f870a03ed90c95586662f9e479ad11ca5e4941143a5e73245ca619532c"
+        }
+      ],
+      "edits": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+          "line_numbers": [
+            41
+          ],
+          "quote": "| 饮水 | 无整壶冷却水；只有残余湿布、冷凝液和极少处理水 |",
+          "source_sha256": "48be8026655fe96e7488359da49214646bdeb87304b0039ff668dfa0116d3166",
+          "suggested_after": "| 饮水 | 098—100既有分饮结果保留，来源待C04作者裁定；100分饮后壶空，不登记可饮余额。原湿布仅按既有潮气使用；器具冷凝残液另列，不入口、不接伤口或口鼻布 |",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_numbers": [
+            217
+          ],
+          "quote": "无整壶冷却水，残余湿布和冷凝液仅够短时降温；上城区水源仍被身份系统控制",
+          "source_sha256": "e4b7f0447568a2f67da059c6516b6b04854e914f99fa91ea34ea5a0756e95145",
+          "suggested_after": "100分饮后壶空，不登记可饮余额；原湿布潮气有限，器具冷凝残液只作器具用途，不入口、不接伤口或口鼻布；上城区水源仍被身份系统控制",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        }
+      ]
+    },
+    {
+      "id": "WB-RR-05",
+      "title": "100末公共册暂持只补了后表，前表装备栏仍未区分",
+      "severity": "medium",
+      "status": "open",
+      "prior_issue": "R004-WB-16",
+      "finding": "人物177和快照29的关键装备仍无保管限定列水票册，快照又称公共账持有者。资源822/人物632已经登记杜姨暂持；负责权可以仍属林渡，但冻结点的实物手位必须同步说明，不能让101接回册子无来处。主卷/原匣/证词原牌其余分持已修。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "line_numbers": [
+            99
+          ],
+          "quote": "把册子压进杜姨怀里，让她带孩子往下一根完整立柱挪",
+          "source_sha256": "6a021cca521ab9ddebca8e819089d8ea2c654551d09e8bad3959bd30b3ad3b00"
+        },
+        {
+          "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+          "line_numbers": [
+            13
+          ],
+          "quote": "杜姨抱着册子坐在靠山第二排箱间。",
+          "source_sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb"
+        },
+        {
+          "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+          "line_numbers": [
+            15
+          ],
+          "quote": "她见林渡回来，先把册子递还：“你点名，我照看人。”",
+          "source_sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb"
+        }
+      ],
+      "edits": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+          "line_numbers": [
+            177
+          ],
+          "quote": "水票册、议会记录片、证词木牌、旧维修钥匙、裂损三齿木尺；绳索和接头减少",
+          "source_sha256": "be12c1a1eaa01e09477c6fbe0835599ecb16c0483fe939be1513fe2442ccba0c",
+          "suggested_after": "公共册由林渡负责、100末交杜姨暂持；议会记录片、证词原牌、旧维修钥匙、裂损三齿木尺；绳索和接头减少",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+          "line_numbers": [
+            29
+          ],
+          "quote": "水票册、议会记录片、林岑证词木牌、旧维修钥匙、裂损三齿木尺",
+          "source_sha256": "48be8026655fe96e7488359da49214646bdeb87304b0039ff668dfa0116d3166",
+          "suggested_after": "公共册100末由杜姨暂持、101交回；议会记录片、林岑证词原牌、旧维修钥匙、裂损三齿木尺",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+          "line_numbers": [
+            29
+          ],
+          "quote": "已成为平台各组幸存者的实际领路人与公共账持有者",
+          "source_sha256": "48be8026655fe96e7488359da49214646bdeb87304b0039ff668dfa0116d3166",
+          "suggested_after": "已成为平台各组幸存者的实际领路人与公共账负责者（100末实物由杜姨暂持）",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        }
+      ]
+    },
+    {
+      "id": "WB-RR-06",
+      "title": "100徽记未知与站名直读仍在旧伏笔行混接",
+      "severity": "medium",
+      "status": "open",
+      "prior_issue": "R004-WB-19",
+      "finding": "时间线90已改站名来自文字，伏笔410仍把黑三角与武器站写成确定关联；本章仅同见未知徽记和目的地文字，不确认三角含义或机构归属。应并列观察，不让正文否认的徽记结论潜回知识表。章卡126是旧规划，不当作已发生冲突，但可加实际偏离注。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "line_numbers": [
+            25
+          ],
+          "quote": "弥娅认得交叉潮线，却不肯给整枚徽记下结论，只说那个三角不属于她熟悉的航运标志。",
+          "source_sha256": "6a021cca521ab9ddebca8e819089d8ea2c654551d09e8bad3959bd30b3ad3b00"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "line_numbers": [
+            87
+          ],
+          "quote": "“目的地：海峡武器站。非核心居民不得回收。”",
+          "source_sha256": "6a021cca521ab9ddebca8e819089d8ea2c654551d09e8bad3959bd30b3ad3b00"
+        }
+      ],
+      "edits": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+          "line_numbers": [
+            410
+          ],
+          "quote": "船身徽记中央的黑色三角与海峡武器站有关",
+          "source_sha256": "0ef6b3afc1d6f0df5521a1fd1ac1351472a6df899a722dff5c4105dbca2fa0b1",
+          "suggested_after": "船身有含黑色三角的未知徽记，弥娅未确认整枚含义；另由船身文字直读目的地“海峡武器站”，站址用途及徽记归属未明",
+          "apply_scope": "只建议主笔修改WB对应现行条目；本报告未应用"
+        }
+      ],
+      "planning_only_note": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "line_numbers": [
+          126
+        ],
+        "quote": "| 100 | 秘密撤离船 | 追到上城区中心 | 救出被留下的孩子 | 船身印着海峡武器站徽记 |",
+        "source_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed"
+      }
+    }
+  ],
+  "pending_dependencies": [
+    {
+      "id": "C04",
+      "status": "author_decision_required",
+      "finding": "保留098—100原饮用结果，未批准水源；049分尽与后续来源仍矛盾，099空容器表述也未关闭。071/076器具液入口问题已由独立补审关闭，不能拿它关闭C04。",
+      "required_action": "作者裁定来源后，主笔在授权范围修补、按新字节复核；此前WB不登记新增水/可饮余额，不删除既有饮用结果。"
+    },
+    {
+      "id": "C05",
+      "status": "author_decision_required_cross_scope",
+      "historical_source_found": true,
+      "recorded_cutoff_found": true,
+      "historical_cutoff": "2026-09-30 A01实录所记101/D0热时/七层木箱区分组过册",
+      "explicit_author_approval_found": false,
+      "independent_provenance_review": {
+        "path": "harness/maintenance/R004/C05-provenance-check.json",
+        "sha256": "b7cce9b2acaa8e5100fa9ebfc738e9796759e8fa524e8d4af9f36ae9bafc0f80",
+        "reviewer": "01a1b002-648c-7311-a0a2-647911278770",
+        "verdict": "author_decision_required"
+      },
+      "evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "line_numbers": [
+            216
+          ],
+          "quote": "船舱孩子核实为13名、加长屋4名共17名",
+          "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8"
+        },
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "line_numbers": [
+            217
+          ],
+          "quote": "偏离原因：无；孩子\"十余名\"落实为13名，属101章分组过册的允许核实。",
+          "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8"
+        },
+        {
+          "path": "异星录/00_项目总览/后七卷设定决策与执行约束.md",
+          "line_numbers": [
+            41
+          ],
+          "quote": "不把十余孩子换成精确数；本次批准不自动落实S01库存",
+          "source_sha256": "f86d5b7d4d917828b280a573c31e866a71c58fe4d252a16f86b1a1cea8d50719"
+        }
+      ],
+      "finding": "来源子问题已解决；授权边界未解决。101正文仍无13/17核数句，但不能再说所有历史记录均无来源。旧实录自称允许不替代针对精确化限制的作者裁定；也不能把101截点倒灌至100。",
+      "required_action": "保留101权威原行；只更新WB待核注为“历史实录与执行限制之间的授权冲突待裁定”。不改101—400，不裁决某一记录无效，不用约48作精确共同分母。"
+    },
+    {
+      "id": "B10-new-chain",
+      "status": "pending_independent_manuscript_recheck",
+      "finding": "WB817/820及章卡已明示092架桥材料受力/094钥匙—半扣—手势—人工杆—管压回位新链待审。本线程只核所记与当前相关句是否一致，不接管B10事实或吸引力签收。",
+      "required_action": "取得对应新字节的B10独立复核；若其修稿，再同步回填和短复核。"
+    }
+  ],
+  "status_sync_suggestions": [
+    {
+      "id": "WB-SYNC-01",
+      "title": "C05更新为有历史来源但授权未决",
+      "current": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+        "line_numbers": [
+          584
+        ],
+        "quote": "该精确数的权威来源及成立截点待核（R004-C05）",
+        "source_sha256": "c0e3851d5ecef35067df57993c2ef9da2b201814bea5d5ea6d27fdfcde0e1539"
+      },
+      "suggested_after": "第二卷逐章卡2026-09-30 A01实录216—217明确记101过册核13+4=17，并自称允许核实；同日后七卷执行约束101—110却禁止把十余孩子精确化。历史来源与记载截点已找到，针对精确化的作者授权仍未确认（R004-C05）；101原行保留，不倒灌100，也不作为同口径全队48依据。",
+      "note": "来源新进展，不倒改原失败报告；快照84的C05说明宜同步说明上述区别。"
+    },
+    {
+      "id": "WB-SYNC-02",
+      "title": "B08补审引用新报告，不沿用原final新两章匹配声明",
+      "current": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "line_numbers": [
+          396
+        ],
+        "quote": "B08原报告保留，新增两章补审未完成前不能沿旧SHA通过",
+        "source_sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed"
+      },
+      "suggested_after": "B08原final保留历史结论；071/076已完成water-boundary-recheck限定补审，使用新十章指纹，其余8章证据明确继承；不把补审扩大为整批重新全文审读或R004通过。",
+      "note": "原条件式句在写入时有效，现需状态同步；不是另报一次正文问题。"
+    }
+  ],
+  "half_buckle_verdict": {
+    "status": "stage_semantics_aligned_B10_pending",
+    "evidence": [
+      {
+        "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+        "line_numbers": [
+          37
+        ],
+        "quote": "槐七拿回半枚蓝扣，将它抵住仪器侧槽。",
+        "source_sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+        "line_numbers": [
+          109
+        ],
+        "quote": "他把蓝扣收在仪器侧边",
+        "source_sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+        "line_numbers": [
+          13
+        ],
+        "quote": "她仍收着自己那枚完整蓝扣；祝衡留在入口控制位的那枚已拿不回。",
+        "source_sha256": "05e0235875740ba2c6dd8c729c4133a544e50ae412fed0edd0e9afe114c64025"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+        "line_numbers": [
+          75
+        ],
+        "quote": "弥娅撤下半扣和旧线，抽回晶片钥匙，将它们分开收妥",
+        "source_sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3"
+      }
+    ],
+    "conclusion": "两枚完整蓝扣与073半扣分开；073侧边保存/075仪器交接至092取半扣链有承接，094同一半扣回收。人物080仅列一枚蓝扣未说半扣消失，不机械误报数量矛盾；宜显式注明完整扣、半扣随仪器。上述不替B10验收接口物理。"
+  },
+  "nonblocking_precision_notes": [
+    "人物179、快照31及伏笔717概述七年前模板时，宜写明099仅核长屋4片；人物185与伏笔410已有限定，不把此建议冒报再次发现全体样本矛盾。",
+    "逐章卡126为原规划，100正文实际由目的地文字得名；可加偏离注，不将旧规划直接当成已发生事实，也不借此改正文。"
+  ],
+  "preserved_artifacts": [
+    {
+      "path": "harness/maintenance/R004/回填独立复核.md",
+      "sha256": "fe21e529f755dae4e1a4d79f405c9f5c42644ae64633f0b4e0ffa55992ba48c0"
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-review.json",
+      "sha256": "e768f8ec5bff8c6d8406d3c06ef7d43fda56516afc6c6a965e3f6983052832ae"
+    },
+    {
+      "path": "harness/maintenance/R004/B07/final.json",
+      "sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31"
+    },
+    {
+      "path": "harness/maintenance/R004/B08/final.json",
+      "sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc"
+    },
+    {
+      "path": "harness/maintenance/R004/B08/water-boundary-recheck.md",
+      "sha256": "52cc6e980bec9aeada74faf74f078a1fd124cc723096e395a8e7077e410a5846"
+    },
+    {
+      "path": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463"
+    },
+    {
+      "path": "harness/maintenance/R004/C05-provenance-check.md",
+      "sha256": "df86ba1047af19e2151e04ea73a81ba261ba508dc5f941043d1226f7e87a9f6a"
+    },
+    {
+      "path": "harness/maintenance/R004/C05-provenance-check.json",
+      "sha256": "b7cce9b2acaa8e5100fa9ebfc738e9796759e8fa524e8d4af9f36ae9bafc0f80"
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-changes.json",
+      "sha256": "cf77e6b04370e7c9dc32067259aa5ab20f7a14183533ad43b408226e3d272f60"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/manifest.json",
+      "sha256": "0dd4bbb9ffa9fb196b341dd10c517298f858ab5166cca3324a4515759f476104"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+      "sha256": "be12c1a1eaa01e09477c6fbe0835599ecb16c0483fe939be1513fe2442ccba0c"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "e4b7f0447568a2f67da059c6516b6b04854e914f99fa91ea34ea5a0756e95145"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "sha256": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+      "sha256": "0ef6b3afc1d6f0df5521a1fd1ac1351472a6df899a722dff5c4105dbca2fa0b1"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+      "sha256": "c0e3851d5ecef35067df57993c2ef9da2b201814bea5d5ea6d27fdfcde0e1539"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语与命名表.md",
+      "sha256": "3736759f0e90b89c1f7efe25f3aea7e8409821ceeef5efd7f07c75d67eb29c0c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语词典.md",
+      "sha256": "4ae82b16692209aa989d108660d64eb5c562067060f73383745c000a384cec5a"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "sha256": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "03750138f04ba32840ba152cfbeb4c62d7bb6c677cd5a2c1100908bb588a7eed"
+    },
+    {
+      "path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+      "sha256": "48be8026655fe96e7488359da49214646bdeb87304b0039ff668dfa0116d3166"
+    }
+  ],
+  "files_written": [
+    "harness/maintenance/R004/writeback-recheck.md",
+    "harness/maintenance/R004/writeback-recheck.json"
+  ],
+  "formal_manuscripts_or_ledgers_modified": false,
+  "stage_modified": false,
+  "original_failure_report_overwritten": false,
+  "recheck_requirements": [
+    "主笔只在授权WB中修六项前表残留及状态说明，不改101原行、不填C04候选水源。",
+    "补丁更新后交新8文件SHA及变更片段供短复核；本报告只绑定当前81补丁版本。",
+    "等待C04作者决定、C05授权边界裁定及B10新链独立复核；不得将closed子项汇总成R004通过。"
+  ]
+}

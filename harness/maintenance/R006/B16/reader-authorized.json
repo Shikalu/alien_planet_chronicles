@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B16",
+  "review_date": "2026-11-07",
+  "generated_at": "2026-11-07T15:46:22.945863+08:00",
+  "timezone": "Asia/Shanghai",
+  "writer": "R006-main",
+  "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+  "reviewer_identity": {
+    "type": "independent_codex_session_not_human",
+    "thread_id": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+    "description": "R006-B16独立Codex审读会话，非人类读者；未参与主笔正文或候选台账编辑。本轮是授权修后复核，不冒称首次盲读。"
+  },
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 151,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第151章_谁动过送水绳.md",
+      "sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11"
+    },
+    {
+      "chapter": 152,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第152章_摘过面以后.md",
+      "sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a"
+    },
+    {
+      "chapter": 153,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第153章_只表决这扇门.md",
+      "sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948"
+    },
+    {
+      "chapter": 154,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第154章_一班绳料.md",
+      "sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3"
+    },
+    {
+      "chapter": 155,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第155章_回程也占一班.md",
+      "sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7"
+    },
+    {
+      "chapter": 156,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第156章_撤走的向导.md",
+      "sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e"
+    },
+    {
+      "chapter": 157,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第157章_空托板转不过弯.md",
+      "sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7"
+    },
+    {
+      "chapter": 158,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第158章_两条没填的行.md",
+      "sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff"
+    },
+    {
+      "chapter": 159,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第159章_受保护的签名.md",
+      "sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b"
+    },
+    {
+      "chapter": 160,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第160章_门开多宽.md",
+      "sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689"
+    }
+  ],
+  "source_digest": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+  "kind": "review",
+  "profile": "serial",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 151,
+      "quote": "橛子上挂的家什少了三样。",
+      "reason": "第一句即工具缺失，随后的出门前回忆有明确起止和回话来源；分存、下坡、眼下的顺序可复原，不用长存证流程遮住压力。",
+      "verdict": "pass",
+      "line_start": 3,
+      "source_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 151,
+      "quote": "“站住。”林渡把他拦在封段线外，“先封段，再核，不追人。”",
+      "reason": "冲突下的主动克制可见，不把集体当敌人。",
+      "verdict": "pass",
+      "line_start": 23,
+      "source_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 151,
+      "quote": "傍晚槐七从坡口回来，带回了线上的话：撬和垫木在守门派手里，绳卡已还。",
+      "reason": "失物从猜测转为押物条件，卡归还而扩门仍受制。",
+      "verdict": "pass",
+      "line_start": 63,
+      "source_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 151,
+      "quote": "三棒的人按新绳路贴壁退进岩檐底下，肩膀挨着肩膀，头顶上白汽滚过去，罐里的水纹丝没响。",
+      "reason": "改绳在第二趟避汽中产生可感知效果；承认对方手艺与继续追回押物并存，不是一次领情就全体和解。",
+      "verdict": "pass",
+      "line_start": 55,
+      "source_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 151,
+      "quote": "“晚上谈。撬和垫木，一样一样过。”",
+      "reason": "问题和行动同时明确：押物换什么、今晚如何谈。",
+      "verdict": "pass",
+      "line_start": 67,
+      "source_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 152,
+      "quote": "坡口的灯摆了三盏，两拨人隔灯坐下，中间空出来的那块石面，就是桌。",
+      "reason": "承接151赴约且双方隔灯，对抗位置可见；灯规可压缩但不影响辨认目标。",
+      "verdict": "pass",
+      "line_start": 3,
+      "source_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 152,
+      "quote": "全本名册，我死也不交。我交的只有一样——愿意作证的名单。",
+      "reason": "槐七在提供证据与保护全线间划界，有可承担的选择。",
+      "verdict": "pass",
+      "line_start": 69,
+      "source_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 152,
+      "quote": "话谈到这儿，线上那拨里有两个年轻的站了起来。",
+      "reason": "许可并非全体和解，以两人离开留下分裂代价。",
+      "verdict": "pass",
+      "line_start": 81,
+      "source_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 152,
+      "quote": "“债记我头上。”槐七说。",
+      "reason": "前三家敢签与槐七接风险相接，温度来自承担，不只讲道理。",
+      "verdict": "pass",
+      "line_start": 79,
+      "source_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 152,
+      "quote": "天亮之前，他得把条件单送到林渡手上——表决的事，是外头人的规矩，他只管把话带到。",
+      "reason": "谁作决定与下一步表决有清楚交接。",
+      "verdict": "pass",
+      "line_start": 93,
+      "source_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 153,
+      "quote": "“条是谈成的，票是没投的。”",
+      "reason": "谈成但未获共同授权，开门压力明确。",
+      "verdict": "pass",
+      "line_start": 9,
+      "source_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 153,
+      "quote": "“不催，不抢。”林渡把料单折起来，“撬是押金，押着我们守约。",
+      "reason": "主角选择靠顶班而非强夺材料。",
+      "verdict": "pass",
+      "line_start": 49,
+      "source_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 153,
+      "quote": "先对领石与名单，逐项相符，才数三个框。弃权三粒，反对框空着。岑野从赞成框取出三粒，与弃权一一摆对，框里仍有余粒：赞成多过其余两类之和，超过有效票的一半。前夜退出的两个面具没有参加外头这场表决，不能把他们的缺席记作赞成或反对。",
+      "reason": "逐人及委托同法计票，赞成与三弃权配对后仍余，反对为零，过程足以确认过半；许可生效却未变出物料。",
+      "verdict": "pass",
+      "line_start": 37,
+      "source_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 153,
+      "quote": "“护。”又有两个声音跟上。",
+      "reason": "众人愿分担具名三家的风险，关系变化有即时回应。",
+      "verdict": "pass",
+      "line_start": 63,
+      "source_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 153,
+      "quote": "若工班开的价超出剩下的人手，今天通过的开门表决，还得等。",
+      "reason": "空班栏不再提前填齐；他必须去料场问工种与价码，且水班/守数人不能挪。下一章询价能否换够料成为实际问题，006关闭。",
+      "verdict": "pass",
+      "line_start": 74,
+      "source_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 154,
+      "quote": "“你们要绳三捆、短撑四根、垫木两片。”",
+      "reason": "材料需求马上面对工班人手不足与交换条件。",
+      "verdict": "pass",
+      "line_start": 5,
+      "source_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 154,
+      "quote": "“三样都接。”林渡说，",
+      "reason": "承担工时而非无限领料，主动性明确。",
+      "verdict": "pass",
+      "line_start": 11,
+      "source_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 154,
+      "quote": "先记回借料当日那一页：到掌灯，十班债还剩八班。",
+      "reason": "计债日次有提示，首日还两班，资源变化可确认；不是十班算术错误。",
+      "verdict": "pass",
+      "line_start": 35,
+      "source_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 154,
+      "quote": "“这是今天拓下来的纸，旧包纸的洞留不到这儿。您说的事，我另记；这个点，还得看原物。”",
+      "reason": "不冒犯老人又守证据边界，小回报建立在判断而非万能识物。",
+      "verdict": "pass",
+      "line_start": 49,
+      "source_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 154,
+      "quote": "“下个凉时，料齐。”",
+      "reason": "具体领料时点与水班不能减的双重压力，可自然进入运料。",
+      "verdict": "pass",
+      "line_start": 63,
+      "source_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 155,
+      "quote": "料是下个凉时凑齐的，运，又占了一整个班。",
+      "reason": "承接材料到账但运输另需代价。",
+      "verdict": "pass",
+      "line_start": 3,
+      "source_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 155,
+      "quote": "可受益不等于有过错，出钱也不能替事故定责。",
+      "reason": "主动承担筹付同时拒绝把受益、认付混成事故过错；保留轻卡接报核查，选择有行动与制度后果。",
+      "verdict": "pass",
+      "line_start": 63,
+      "source_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 155,
+      "quote": "小臂汽烫三处，水疱三个，右臂，七日内不得负重。",
+      "reason": "新增伤与人员限制可见，运料不无代价。",
+      "verdict": "pass",
+      "line_start": 43,
+      "source_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 155,
+      "quote": "“疼就出声，憋着费力气。”",
+      "reason": "给伤者说痛、报名的空间，有具体照护回报，非受伤换战力。",
+      "verdict": "pass",
+      "line_start": 43,
+      "source_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 155,
+      "quote": "式样有了，裴七的班表却还缺一只手：伤者七日不能负重，下一班料谁接，得在动身前找定。",
+      "reason": "伤后少一只手、两趟水不能减，下一班料谁接成为具体行动问题；资源后果接上后文。",
+      "verdict": "pass",
+      "line_start": 77,
+      "source_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 156,
+      "quote": "随后是两位熟路的向导：一老一少，都是在这片支路里走了半辈子的脚。",
+      "reason": "引路人退出立即带来能力缺口。",
+      "verdict": "pass",
+      "line_start": 5,
+      "source_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 156,
+      "quote": "两块波浪牌，钉在了那两股巷口。",
+      "reason": "宁可缩范围不猜未知路，行动选择具体。",
+      "verdict": "pass",
+      "line_start": 17,
+      "source_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 156,
+      "quote": "井的那几股支路没了向导，探查停了；侦查的人手撤回来，归进了扩门的班。",
+      "reason": "目标收缩、人员改派确实改变进度。",
+      "verdict": "pass",
+      "line_start": 25,
+      "source_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 156,
+      "quote": "可那天夜里守数的人记了一笔：某时，隔墙两轻，未应。",
+      "reason": "不能回应却不抹去人，克制的遗憾强于格言解释。",
+      "verdict": "pass",
+      "line_start": 51,
+      "source_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 156,
+      "quote": "砖后有人，管上有水，缓办，不弃。",
+      "reason": "隔墙敲声留下核人和核水线两个问题；声音不确证持续供水。先守同一巷口的叉号禁动线，再核而不弃，下一步具体。",
+      "verdict": "pass",
+      "line_start": 65,
+      "source_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 157,
+      "quote": "疮口收了口，人能侧身，能坐半晌",
+      "reason": "身体状态使转运成为此刻必须解决的任务。",
+      "verdict": "pass",
+      "line_start": 5,
+      "source_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 157,
+      "quote": "“停！”六叔的嗓子劈了，“全部退出弯段！内侧的人，停在缝后，今天不放人！”",
+      "reason": "团队主动叫停，不拿病人检验危险。",
+      "verdict": "pass",
+      "line_start": 39,
+      "source_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 157,
+      "quote": "托板一块报损；上撑移位，防回退双绳，内侧暂不放人，等各项齐备再报转运。",
+      "reason": "损板、上撑移位和双绳补防回退均落账；内侧不放人，延期直至复验、门和交割齐备，代价未被轻载八息掩盖。",
+      "verdict": "pass",
+      "line_start": 59,
+      "source_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 157,
+      "quote": "“三层！”老陈在里头补了一句。",
+      "reason": "长期等待者有自己的具体要求，人物不是运送物件。",
+      "verdict": "pass",
+      "line_start": 57,
+      "source_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 157,
+      "quote": "林渡把次日凉时先留给复验。按新接手点运老陈，还得等门和交割都备妥，谁也不许催着把这几栏空着。",
+      "reason": "明天先复验而非承诺必运，开门和交割条件接到159—160；读者知道还缺什么，不再把延期误认为漏写行动。",
+      "verdict": "pass",
+      "line_start": 65,
+      "source_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 158,
+      "quote": "“棚里两行空着，四层这头也该有个说法。”",
+      "reason": "失联两行究竟能否填人是即时目标；修后已用事件身份而非章节号称呼。",
+      "verdict": "pass",
+      "line_start": 5,
+      "source_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 158,
+      "quote": "“只核可达。”",
+      "reason": "有限能力与不放弃两种需求形成选择。",
+      "verdict": "pass",
+      "line_start": 17,
+      "source_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 158,
+      "quote": "末见点三个，问号三个。",
+      "reason": "家属的第三处标记使核查范围扩展；非把三个都并为这两名失联者。",
+      "verdict": "pass",
+      "line_start": 49,
+      "source_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 158,
+      "quote": "林渡把图递给她，看着她自己在图上落了一个小小的记号。",
+      "reason": "家属亲手确定询问方向，比安慰式总结有力。",
+      "verdict": "pass",
+      "line_start": 47,
+      "source_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 158,
+      "quote": "两条虚线，从可达段的边上伸出去，伸进图上那些没有名字的区域",
+      "reason": "虚线分别通向断口与热汽井道，十年前无名脚印独立存疑，不能凭布色定年；半罐安抚水也已扣当日照护余量，搜寻未结而代价可核。",
+      "verdict": "pass",
+      "line_start": 57,
+      "source_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 159,
+      "quote": "外门还没开，老陈的随身交割也没核完。祝衡趁这一晚把要随人、要留存的纸分开，划出两本证词册。",
+      "reason": "首段先交代外门未开、随身交割未核，因此用这一夜分证词册；位置、耽误和当下动作齐备，不必机械前置后段所有风险。",
+      "verdict": "pass",
+      "line_start": 3,
+      "source_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 159,
+      "quote": "“不进。”林渡说得很慢，“人都没核着，先别把名字放出去。",
+      "reason": "不以线索强定身份，选择与保护规则相符。",
+      "verdict": "pass",
+      "line_start": 55,
+      "source_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 159,
+      "quote": "他把那个号单独抄了一行，夹进素皮册的对应页里，编号空着，后头注了四个字：先核本人。",
+      "reason": "多出一项待核对象，不是假性认定已救回一人。",
+      "verdict": "pass",
+      "line_start": 57,
+      "source_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 159,
+      "quote": "替妻签，妻亦签。",
+      "reason": "具名者把妻子的劳动补进记录，温度来自具体字。",
+      "verdict": "pass",
+      "line_start": 23,
+      "source_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 159,
+      "quote": "这座城里被划掉的人，到底还有几行？",
+      "reason": "两表同号、隔断敲声明确“还没对上人”，末尾马上安排林栖念、杜姨写塔账待查项；问题具体且没有先替后章认人。",
+      "verdict": "pass",
+      "line_start": 63,
+      "source_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 160,
+      "quote": "居住段的外门，是赶在天亮前的凉时开的。",
+      "reason": "承接许可、料与试路，开门在有限凉时执行。",
+      "verdict": "pass",
+      "line_start": 3,
+      "source_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 160,
+      "quote": "“塔的事，”他说，“得先看，再谈。明天，我去塔底下走一趟。”",
+      "reason": "不直接拆隔断救人，选择先查水链。",
+      "verdict": "pass",
+      "line_start": 55,
+      "source_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 160,
+      "quote": "水罐直接递手，药包外头点名、里头接数，垫毡一层一层往里传。",
+      "reason": "原铰半扇确实打开，递物和副页交接改变；同半罐分三份不增水，弥娅通过五层回条参与，局部工程回报真实。",
+      "verdict": "pass",
+      "line_start": 17,
+      "source_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 160,
+      "quote": "“门，开着好。”",
+      "reason": "老工师的短句承接开门实感，情绪回报准确，不必再解释象征。",
+      "verdict": "pass",
+      "line_start": 59,
+      "source_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 160,
+      "quote": "“搬人不急。先保塔上那一路。”",
+      "reason": "五人次日先下塔核水链，老陈仍在门内等待转运条件；串联急弯未被新门绕开，水线优先构成下一篇行动理由。",
+      "verdict": "pass",
+      "line_start": 47,
+      "source_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 160,
+      "quote": "如今这扇也开了，两只手能在门边同时进出：水罐直接递手，药包外头点名、里头接数，垫毡一层一层往里传。",
+      "reason": "对纸、表决、换料、开门的核心承诺兑现为门边递物。157已将转运改为待复验、门和交割齐备，160保留门内老陈和侧廊急弯，不虚签救出。",
+      "verdict": "pass",
+      "line_start": 17,
+      "source_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 160,
+      "quote": "“搬人不急。先保塔上那一路。”",
+      "reason": "工具与通行权→工债与伤→未知路失去向导→轻载试运失败→证词保护与第五号→水链交割，限制在扩展而非重复来敌；升级方向成立。",
+      "verdict": "pass",
+      "line_start": 47,
+      "source_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_against": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+      "review_mode": "本轮十章完整读后判断；仍逐字相同的历史证据复用，变更句及受其影响的判断重核"
+    }
+  ],
+  "fact_review_path": "harness/maintenance/R006/B16/final-authorized.json",
+  "review_coverage": {
+    "chapter_count": 10,
+    "chapter_checks": 50,
+    "batch_checks": 2,
+    "total_checks": 52
+  },
+  "previous_review_path": "harness/maintenance/R006/B16/reader-review2.json",
+  "note": "全批实际完整阅读后形成判断；当前仍逐字不变的引句复用但重绑当前10章SHA。不是只做词频或脚本审读，也不是全260项通过声明。"
+}

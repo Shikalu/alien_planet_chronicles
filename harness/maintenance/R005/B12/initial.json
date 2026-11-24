@@ -1,0 +1,1698 @@
+{
+  "batch": "R005-B12",
+  "review_type": "independent_initial_reader_review",
+  "review_date": "2026-11-07",
+  "reviewer": "01a1b3d1-09ea-7151-b546-6ae6c92fcffd",
+  "reviewer_identity_note": "初审落盘时ID未知留null；2026-11-07按用户明确提供的本会话实际agent ID补录。原身份说明保存在reviewer_identity_history，首读指纹与初审结论未改。",
+  "body_first": true,
+  "independent": true,
+  "method_note": "作者资料文件尚未打开。对话已预载AGENTS规则；首读前仅读通用using-superpowers技能，未读项目技能/台账/章卡/其他审读。最初双章输出截断，已分别完整重读111、112。 全部111—120读完后补读110、121，再冻结first_read.json，随后才对照项目资料。未读取其他审读报告或主线程结论作为自身判断。",
+  "fingerprint_policy": "绑定first_read.json冻结的工作稿字节；本次补核published111—120均与冻结SHA一致。未读改后工作稿，不采改后SHA。主线程开始安全修改不使本初审自动变成改后复核。",
+  "manuscripts": [
+    {
+      "chapter": 111,
+      "path": "异星录/正文/第二卷_黑暗断阶/第111章_不走来时的路.md",
+      "sha256": "105f87073c1945f0687f6ee58e73a52572f1323c05dd0f39f2f7e1e79b362e05"
+    },
+    {
+      "chapter": 112,
+      "path": "异星录/正文/第二卷_黑暗断阶/第112章_梯上没有担架宽.md",
+      "sha256": "c966c0151c124d8a29be7bbeab761a739bc18b6bf08b3a28f3e7f1f751a8bbdd"
+    },
+    {
+      "chapter": 113,
+      "path": "异星录/正文/第二卷_黑暗断阶/第113章_死人按不亮的灯.md",
+      "sha256": "72de7f529a13fe3c6302333b30068f85578c5259bff444a806246be9654a50e6"
+    },
+    {
+      "chapter": 114,
+      "path": "异星录/正文/第二卷_黑暗断阶/第114章_把拒绝带回来.md",
+      "sha256": "d62b709c60e06a131f3ec1af5e7fe9d61d638f53d54fb48819f1db77db722a95"
+    },
+    {
+      "chapter": 115,
+      "path": "异星录/正文/第二卷_黑暗断阶/第115章_空担架先下.md",
+      "sha256": "e38f9007a36d48045442b61f3ab08309e0a8660a1164d996f69ab335f55ea929"
+    },
+    {
+      "chapter": 116,
+      "path": "异星录/正文/第二卷_黑暗断阶/第116章_只换裂开的那块.md",
+      "sha256": "510a96efbfbce6141555bea3f728ea0664d35507b678ecdfc561d0e12dbb82e1"
+    },
+    {
+      "chapter": 117,
+      "path": "异星录/正文/第二卷_黑暗断阶/第117章_谁留在最后一班.md",
+      "sha256": "67c3aa5d5f999a0e33fdaa957dda8dea91e958a46b3747da4fba411c7399de28"
+    },
+    {
+      "chapter": 118,
+      "path": "异星录/正文/第二卷_黑暗断阶/第118章_先接水还是先接人.md",
+      "sha256": "087766f137e0109da24306af41a0a5e89ce8ec92b1ed25328bab454ba8727a32"
+    },
+    {
+      "chapter": 119,
+      "path": "异星录/正文/第二卷_黑暗断阶/第119章_盐湾不是口令.md",
+      "sha256": "2b5a43f354f1943a288a11643302def483a55d32cf78cba69dcc208a74eaf885"
+    },
+    {
+      "chapter": 120,
+      "path": "异星录/正文/第二卷_黑暗断阶/第120章_下一处水从哪里来.md",
+      "sha256": "3c068e7eabb97880af6ebf1e407ece3b5c427ae98f6f65a249d73525e7921db4"
+    }
+  ],
+  "input_digest": "c65101f165b9a3a36708003b958df0356b64a2e85fac8c19563f1c6b83daef19",
+  "input_digest_algorithm": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode(\"utf-8\"))；每项仅chapter/path/sha256三字段，按111—120顺序；path为正式正文，sha256为首读工作稿冻结字节。",
+  "verdict": "issues",
+  "fact_logic_verdict": "issues",
+  "reader_pull_verdict": "本批有明确承诺兑现与情绪回报，但事实/表述问题影响信任；不签终稿吸引力通过。",
+  "issues": [
+    {
+      "id": "R005-B12-I01",
+      "chapter": 114,
+      "severity": "严重",
+      "quote": "六叔先开口，手里捧着一小块拆下来的护盖铁皮",
+      "problem": "核门人员已拆下护盖，且本章明确拆盖即碎铅印、实际试拨了联杆；后面却又把留痕成本写成将来开门才发生。读者无法判断这条应急路现在是否已暴露。不是“门机械上不能再开”，而是危险的起算点错了。",
+      "suggestion": "保留已经拆盖、试拨、留下痕迹的事实，把“要么不开”“只能开一次”收紧为：痕迹已经留下，未被查到前或可应急，不纳入常规转运。不要补一个确定安全时长；若要改为无损核门、完整封印或抹掉已付代价，须另请作者裁定。",
+      "needs_author_decision": false,
+      "categories": [
+        "物件物理",
+        "时间口径",
+        "因果"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 114,
+          "quote": "护盖一拆，铅印就碎。"
+        },
+        {
+          "chapter": 114,
+          "quote": "钩杆探进去，咬得住，一撬联杆就退。"
+        },
+        {
+          "chapter": 114,
+          "quote": "要么不开，要开，就是一次性的。"
+        },
+        {
+          "chapter": 114,
+          "quote": "留作最后手段，不进常规路线。"
+        }
+      ],
+      "reference_basis": [
+        "第二卷逐章卡A02实录114及资源台账111—120同样并存“动过即露”与预留退路；不以台账重复错误消除首读问题。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I02",
+      "chapter": 117,
+      "severity": "严重",
+      "quote": "卧床四个，两个已落，两个在途",
+      "problem": "紧接着点名却是裴七已落、老人及剩下两个均在途，成为一已到、三在途。同一次核数没有时点转换，且本章刚强调不可重数。",
+      "suggestion": "按已发生实录的2＋2统一：已落两名（其中裴七），老人及最后一名在途。不凭空给第二名已到者编姓名或诊断；需要逐名写时从既有四名中核定。保留118—120仍有两名卧床者待末批转运。",
+      "needs_author_decision": false,
+      "categories": [
+        "数字闭环"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 117,
+          "quote": "裴七已落，裹帆布的老人在途，剩下两个的托板还在斜梯上走。"
+        }
+      ],
+      "reference_basis": [
+        "事件与地点时间线117：卧床4＝2＋2；A02实录同口径。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I03",
+      "chapter": 120,
+      "severity": "严重",
+      "quote": "四十八，正是从下城区背出来的那一本册子养到今天的数目。",
+      "problem": "17＋31＝48本身没算错，四名卧床者也明确包含于成人；问题在总册范围。本文先汇总七层留守三人和六层人员，后说六层新增“三十几口”。若48真为全部且仅三人留守，应为45，但R004明确原护送册子集不包括后来加入的祝衡、林岑、无面者等，不能由旧数反推全队。不能直接把45当作已核事实。",
+      "suggestion": "可先将两处“三十几口”改为“这批新落位的人”等非数值指代，暂不闭合总人数。作者须裁定48究竟是哪个已核册子子集，列明新增受护者、后入队者和七层留守者是否计入；在成员表闭合前，不自动改为45或另造全队总数，不动已批准的孩子17和卧床4。",
+      "needs_author_decision": true,
+      "categories": [
+        "数字闭环"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 120,
+          "quote": "孩子十七，成人三十一——林渡与卧床的四名都在成人数里——"
+        },
+        {
+          "chapter": 120,
+          "quote": "如今落点多了三十几口人"
+        },
+        {
+          "chapter": 120,
+          "quote": "你那三十几口人"
+        }
+      ],
+      "reference_basis": [
+        "人物状态台账R004第51—100章返修回填：原护送册核验子集与后加入者分开。",
+        "事件与地点时间线R004跨范围依赖：C05仅批准101的13＋4＝17，不能生成全队48；A02旧实录又沿用17＋31，范围未闭合。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I04",
+      "chapter": 120,
+      "severity": "严重",
+      "quote": "你顺着这条检修道往上，两段，到五层外缘配水站。",
+      "problem": "111已明确七层向六层下行，固定剖面也是七在六上、六在五上；六层去五层却“往上”，且供水方位一并写成五层在上。121边界沿用该写法不构成修改固定地理的依据。",
+      "suggestion": "路线按固定楼层改为六层往五层下行；“水是五层下来的”改为“水从五层那边供来”等供水端表达，区分水路上游与海拔上下。同步标记121边界需主线程另处理，不在本轮改它。不补未记载的上坡绕路、倒置层号或新泵送工程。",
+      "needs_author_decision": false,
+      "categories": [
+        "人物位置链",
+        "空间参照"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 120,
+          "quote": "水是五层下来的。"
+        },
+        {
+          "chapter": 111,
+          "quote": "七层到六层，两条路。"
+        }
+      ],
+      "reference_basis": [
+        "栈城路线图第1节垂直剖面；世界规则与地理固定层序。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I05",
+      "chapter": 111,
+      "severity": "严重",
+      "quote": "短芯灯压到最低",
+      "problem": "随队灯出现灯芯、添油、吹熄及同时分持多盏的写法，但R004确立仅一盏无火焰无灯芯的手摇冷凝灯，101—120人物快照仍记录该灯。不能默认为队伍无交接地获得了多盏油灯。118丁字三端来的本地小灯有实际来源，应与随队灯分开，不误判其凭空出现。",
+      "suggestion": "先逐处标明是既有手摇便携灯还是有来源的固定/工班灯。确认同一手摇灯处可直接消除灯芯、添油、吹熄等不符动作，但不能因此暗增第二盏。额外油灯的取得、燃料与分持来源须作者裁定；不能把118泵房小灯倒灌解释111或无交接搬至全部照护点。",
+      "needs_author_decision": true,
+      "categories": [
+        "物件物理",
+        "光影与能力边界",
+        "资源"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 117,
+          "quote": "灯也归她管。"
+        },
+        {
+          "chapter": 119,
+          "quote": "杜姨来添灯油"
+        },
+        {
+          "chapter": 120,
+          "quote": "弥娅的灯还亮着"
+        },
+        {
+          "chapter": 120,
+          "quote": "他吹熄了自己的那盏灯。"
+        },
+        {
+          "chapter": 118,
+          "quote": "他端来一盏小灯，搁在弯头边上"
+        }
+      ],
+      "reference_basis": [
+        "资源与时间台账R004资源边界及随队便携灯092—100持物表；人物状态台账101—110、111—120林栖持物。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I06",
+      "chapter": 120,
+      "severity": "严重",
+      "quote": "麦穗是跟末批一起下来的，踝伤好得慢，她落在照护组帮手。，谁来牵都不动",
+      "problem": "插入麦穗到达说明后残留“。，”，同时切断前句孩子的主语，“谁来牵都不动”误接麦穗；“落在照护组帮手”本身也不成句。",
+      "suggestion": "将麦穗随末批抵达、因踝伤在照护组帮忙单独成句或移到末批交接段；孩子动作连续写“这个孩子……谁来牵都不动”。保留麦穗到达、踝伤、杜姨接住孩子三项事实。",
+      "needs_author_decision": false,
+      "categories": [
+        "信息释放顺序",
+        "语言句法"
+      ],
+      "supporting_quotes": [],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I07",
+      "chapter": 112,
+      "severity": "中等",
+      "quote": "林栖的意思是成人可以挤一挤，孩子的垫子拆一块少一块，晚上补不回来。",
+      "problem": "此前林栖提议拆两名孩子的垫板，争论概述却使她也反对拆；孩子愿意挤铺又说“我们不拆也能睡”，接话方向反了。争论的两种代价无法成立。",
+      "suggestion": "保持杜姨反对动铺位、林栖提出暂借垫板的不同立场；以直接对白写林栖愿另排夜间铺位，不把杜姨的理由归给她。孩子台词改为“少两块，我们挤着也能睡”等承接提议的表达；最终孩子垫板不拆、借工班托板不变。",
+      "needs_author_decision": false,
+      "categories": [
+        "动机因果",
+        "叙述者翻译与辩护"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 112,
+          "quote": "先拆两个孩子垫的，白天他们坐箱缝里，夜里我再想办法。"
+        },
+        {
+          "chapter": 112,
+          "quote": "我们不拆也能睡。挤一挤，暖和。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I08",
+      "chapter": 114,
+      "severity": "中等",
+      "quote": "槐七领路，四个人贴着护线外侧走",
+      "problem": "派出名单只有阿九、六叔、槐七三人；林渡下一段明确留下安排试运，去回却均写四个人。“没有全跟去”未提供第四人或半途折回交接。",
+      "suggestion": "据现有派遣与留守事实将去回统一为三人，“林渡没有全跟去”改为“林渡没跟去”。不要补一个无职能第四人凑数。",
+      "needs_author_decision": false,
+      "categories": [
+        "人物位置链",
+        "数字闭环"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 114,
+          "quote": "林渡没有全跟去。他留在梯口安排试运"
+        },
+        {
+          "chapter": 114,
+          "quote": "回来的时候，四个人脸上都不轻松。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I09",
+      "chapter": 112,
+      "severity": "中等",
+      "quote": "四块托板在梯口摆成一列",
+      "problem": "四块借板此前都已完成卧床者换姿上板，章末却直接绑空载试运绳、随后试沙罐；没有说明哪一块腾空或伤员在哪等候。不是板数要退回两块，而是同一物件从载人到空载的交接缺失。",
+      "suggestion": "调整试板与最终上板的叙述次序：同一批四块板先空载/试重，合格后才最终承载伤员；若保留试摆伤员，须交代暂回原担架的过渡及代价。保留原有换姿痛感和多耗水事实，不新增第五块试验板。",
+      "needs_author_decision": false,
+      "categories": [
+        "物件物理",
+        "人物位置链"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 112,
+          "quote": "第三第四个挪得顺了些"
+        },
+        {
+          "chapter": 112,
+          "quote": "空载先行。托板先下，人后动。"
+        }
+      ],
+      "reference_basis": [
+        "资源与时间台账已明确四块、分两趟借到；旧章卡/时间线“两块”是资料待同步，不能反向删正文后两块。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I10",
+      "chapter": 115,
+      "severity": "中等",
+      "quote": "装好的沙罐他一一过秤——没有秤，就用扳手提着比",
+      "problem": "明说没秤且比不出准数，大罐12、小罐8均为估记，却将全载写成确定比最重成人多两成。12×12＋4×8＝176这个算式无错，但成人基准与两端实际重量都未核，不能得出精确安全裕量。",
+      "suggestion": "把“两成”区分为准备试载的目标而非已称出的保证，删“过秤”的假动作，明写估载的局限；保留半载、全载、异常停工的验证链。若必须维持精确实测结论，需有既有比较/称量依据，不能凭空补秤或成人体重。",
+      "needs_author_decision": false,
+      "categories": [
+        "数字闭环",
+        "知识来源"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 115,
+          "quote": "比最重的成人还多两成。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I11",
+      "chapter": 115,
+      "severity": "中等",
+      "quote": "全载一趟半——写到“半”，笔停了停，改成“一趟，中止”。",
+      "problem": "前面完整全载已到落点，追加全载才中止；改写后的记录会被读作唯一的一趟全载未完成。",
+      "suggestion": "记为“全载一趟完成，追加一趟至中段中止”，保留空载三、半载两，不用“一趟半”混合次数和完成比例。",
+      "needs_author_decision": false,
+      "categories": [
+        "数字闭环",
+        "时间口径"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 115,
+          "quote": "全载到，板稳。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I12",
+      "chapter": 115,
+      "severity": "中等",
+      "quote": "板上加个人——槐七下去，趴在中段旁边听。",
+      "problem": "“板上加人”与下句“在旁边”互相冲突；随后又说板塌先塌他脚下那块、靠踩出，读者不能判断是旁听还是把人放进已疑似失效的受力范围。已有绳绕身，但未说明它能避免这一风险。",
+      "suggestion": "先删“板上加个人”，明确人不在试重托板上；用既有梯段、身上绳交代监听位置、相对裂板的退处和支点，不把“踩得出来”当安全依据。若实际场地没有可用旁位，应留下方案待核，不能靠补形容词宣称安全，更不加未记载装备。",
+      "needs_author_decision": false,
+      "categories": [
+        "人体常识",
+        "人物位置链",
+        "环境危险"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 115,
+          "quote": "我在下级梯板，它塌了也是先塌我脚上那块——我踩得出来。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I13",
+      "chapter": 116,
+      "severity": "中等",
+      "quote": "前一日试重剩的那几只",
+      "problem": "115试重、116换板连续处于D2同一凉时，没有过夜；这里平白多出一天。",
+      "suggestion": "改为“刚才试重用过的那几只”或“试重留下的那几只”，不移动本批日次，不牵动后续章节。",
+      "needs_author_decision": false,
+      "categories": [
+        "时间口径"
+      ],
+      "supporting_quotes": [],
+      "reference_basis": [
+        "事件与地点时间线115 D2凉时、116 D2凉时末；正文116凉时在换板时结束。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I14",
+      "chapter": 120,
+      "severity": "中等",
+      "quote": "阿九昨夜浸了一宿的油，今晨把弯头卸下来换了垫圈",
+      "problem": "正文118末约明晨起运，119仍为同一照护阶段，120为次日；资源台账和章卡实耗说明标120为D4，事件时间线却标D3。相同优先级的已发生记录互相冲突，不能自行选一份当最终日历。",
+      "suggestion": "正文暂保留“昨夜—今晨—末批续下”的相对链；作者/主线程裁定120绝对日次并统一对应记录。按正文先后及资源、实耗说明倾向D4，但此为推荐而非获批结论；不推改未来日次。",
+      "needs_author_decision": true,
+      "categories": [
+        "时间口径"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 118,
+          "quote": "末批定在明晨起运"
+        }
+      ],
+      "reference_basis": [
+        "资源与时间台账111—120当前时段D2至D4；第二卷逐章卡A02批时段偏离说明D2至D4；事件与地点时间线120 D3。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I15",
+      "chapter": 116,
+      "severity": "中等",
+      "quote": "棚角还堆着几圈废麻绳，锈成一坨，抠都抠不开。",
+      "problem": "麻绳自身被写成生锈，物质来源错位；同章又以“毡不吃水”作无条件的材料性能断言，未给出特殊处理依据。",
+      "suggestion": "绳写成受潮板结、腐朽缠结等所见状态，不凭空添加铁件来解释锈。选毡理由改为本次垫衬所需的厚薄/贴合等已有可见差别，删除普遍不吸水的断言；112毡面朝向的散热断言也宜只保留实际垫法，不编新涂层原理。",
+      "needs_author_decision": false,
+      "categories": [
+        "物件物理",
+        "感官依据"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 116,
+          "quote": "布吃水，毡不吃。"
+        },
+        {
+          "chapter": 112,
+          "quote": "毡面贴板，毡底贴人，不然越躺越热。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I16",
+      "chapter": 117,
+      "severity": "中等",
+      "quote": "给管子里留一管存水，封住臭气倒灌。",
+      "problem": "刚由蓝点确认是饮水供给支线，却突然以封排水臭气解释其弯管；正文未说明另有排水管或两套系统切换，读者会误以为饮水和污气通道相通。",
+      "suggestion": "去掉未经建立的封臭原理，保留能看见的管路弯折/接口与供水用途即可；若确有独立排水存水弯，应有既有位置依据并分清两管，不凭空加排污连接来补说明。",
+      "needs_author_decision": false,
+      "categories": [
+        "物件物理",
+        "知识来源",
+        "空间参照"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 116,
+          "quote": "蓝点是饮用水支，红杠是废水。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I17",
+      "chapter": 117,
+      "severity": "中等",
+      "quote": "两个发热的孩子挪到风口",
+      "problem": "刚说穿堂风能推倒孩子，虽挂湿布挡风，却不交代孩子与挡布的相对位置，结果像主动放在已知危险直吹处。此处问题是危险与行动不匹配，不是擅作医疗诊断。",
+      "suggestion": "用已挂挡布限定“风口挡布内侧的照护位”，写清仍隔着挡风物，不宣称风口能治疗发热；不要删除持续病情或另造护理疗法。",
+      "needs_author_decision": false,
+      "categories": [
+        "人体常识",
+        "环境危险",
+        "人物位置链"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 117,
+          "quote": "又在风口挂了两块湿布"
+        }
+      ],
+      "reference_basis": [
+        "人物状态台账同样记“发热已挪风口”；应澄清原位置保护关系，不静默把记录改成另一个远处场景。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I18",
+      "chapter": 117,
+      "severity": "轻微",
+      "quote": "六层外围，配水点，值班某某，份额几许，领用几笔。",
+      "problem": "角色正在逐行念具体黑板，读出的却是作者占位词；制度物件从可见证据退成模板。",
+      "suggestion": "改为所见栏名“值班、份额、领用”，再写按工牌排的行，或保留原文确有的条目；不补没有记录的工名与水量。",
+      "needs_author_decision": false,
+      "categories": [
+        "信息释放顺序",
+        "知识来源",
+        "语言"
+      ],
+      "supporting_quotes": [],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I19",
+      "chapter": 118,
+      "severity": "严重",
+      "quote": "三段，每段十来步，三个人各守一段，桶传人不走。",
+      "problem": "三人站定无法跨每段十来步手递水桶；117接口离落点仅十几步，118又成为约三十步，距离参照也漂移。术语表把“人不动、桶传”作为规则，不能只把矛盾挪入定义。",
+      "suggestion": "作者须选定执行几何：若保留三人站定手递，应把交接点缩到相邻伸手可及并核整条路线；若保留十来步每段，则改成每人只走自己短段的短程接力，并同步术语定义。两者均不得加未记载人手、滑轮或把接梯人撤走。可先删掉不可能同时成立的肯定句，但未获裁定不能宣称接力方案已闭合。",
+      "needs_author_decision": true,
+      "categories": [
+        "人物位置链",
+        "物件物理",
+        "数字闭环"
+      ],
+      "supporting_quotes": [],
+      "reference_basis": [
+        "术语与命名表“短接力”对应定义；正文117—118供水口至落点距离。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I20",
+      "chapter": 118,
+      "severity": "中等",
+      "quote": "油怕灰。灯在这儿，灰就落得少。",
+      "problem": "本地小灯确有丁字三端来这一来源，但照亮不等于减少落灰；未建立任何防尘装置或作用过程。",
+      "suggestion": "改为“灯留这儿，落灰/滴漏看得清”等照明观察用途，不再给灯防尘能力；保持浸油、接油布、待卸的工序，不新增设备。",
+      "needs_author_decision": false,
+      "categories": [
+        "光影与能力边界",
+        "知识来源"
+      ],
+      "supporting_quotes": [],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I21",
+      "chapter": 120,
+      "severity": "中等",
+      "quote": "他想起七层头一回见杜姨时",
+      "problem": "将杜姨的“头一回见面”定位七层，与她从二环互助会伤棚阶段即同行的角色固定履历不合；容易把已有关系重置为本卷才开始。",
+      "suggestion": "删“七层头一回”，改为回想先前伤棚中的杜姨；如原场景细节未核，不新增哭泣初见场景、具体章号或日期，只对照她从抱册到带照护的已见变化。",
+      "needs_author_decision": false,
+      "categories": [
+        "时间口径",
+        "人物关系"
+      ],
+      "supporting_quotes": [],
+      "reference_basis": [
+        "角色圣经、出场与语气卡杜姨互助会/伤棚职责；本批持续照护关系。"
+      ],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I22",
+      "chapter": 120,
+      "severity": "轻微",
+      "quote": "接力看着轻省，一站一个时辰，腰和手都僵，歇不够的人递桶，水会洒。这是杜姨看出来的规矩，写进了支账：接力的人，歇足半个班次才准换上。",
+      "problem": "与118说明整段重复，120没有新增观察却再把同一条已建立规矩当成发现；批次结尾本该突出长期轮值条件，重复降低推进感。",
+      "suggestion": "120压为“照杜姨先前定的歇班规矩换手”等执行结果，保留半班休息条件，不重讲起因；不要为制造新鲜感增加事故。",
+      "needs_author_decision": false,
+      "categories": [
+        "重复说明",
+        "节奏"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 118,
+          "quote": "接力看着轻省，一站一个时辰，腰和手都僵，歇不够的人递桶，水会洒。这是杜姨看出来的规矩，写进了支账：接力的人，歇足半个班次才准换上。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I23",
+      "chapter": 111,
+      "severity": "轻微",
+      "quote": "另一个名字里也带个“岑”字的老维修者林岑",
+      "problem": "叙述者跳出行动替读者作同字辨名，并在前后重复分工；角色身份反而被绕口解释盖住。",
+      "suggestion": "直接写“岑野随槐七探路，林岑留下守支架班”，用姓名＋岗位一次分清，保留伤肩和留守位置；删“两个岑”讲解。",
+      "needs_author_decision": false,
+      "categories": [
+        "叙述者翻译与辩护"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 111,
+          "quote": "两个岑，一个在外探路，一个在内看水。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I24",
+      "chapter": 119,
+      "severity": "轻微",
+      "quote": "规矩不是方子，不能保证治病。",
+      "problem": "孩子已经主动伸手、方法已交给杜姨，后面又以不是方子、不是万能钥匙连续防御式解释。民族身份不能由声音认定是必要边界，不等于这些限制都要反复总结。",
+      "suggestion": "保留“不凭一个音认来处”及“今天有效、不保证明天”的一次限制；压缩方子/万能钥匙重复类比，让孩子主动伸手和杜姨学会等人的动作收束。不能删掉F10非身份口令的核心限制。",
+      "needs_author_decision": false,
+      "categories": [
+        "叙述者翻译与辩护",
+        "重复说明"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 119,
+          "quote": "手势对不上，就换别的法子——规矩不是万能钥匙。"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I25",
+      "chapter": 112,
+      "severity": "中等",
+      "quote": "同样的三十息空当，凉时的影子短",
+      "problem": "三十息来自巡查灯柱实测，凉时却被直接作为影长缩短的原因；没有光源位置或投射角变化承接。冷暖时段不能自动替代光影几何。",
+      "suggestion": "保留三十息取最短的实测，以及贴既有背光面通行；删去“凉时影短”普遍因果，若写此刻影子变化只写原文能够观察到的具体光源与遮挡，不增设新的灯扫规律。",
+      "needs_author_decision": false,
+      "categories": [
+        "光影与能力边界",
+        "知识来源"
+      ],
+      "supporting_quotes": [],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I26",
+      "chapter": 115,
+      "severity": "中等",
+      "quote": "他和一个居民先下到落点守着，此刻正伸着两条胳膊接。",
+      "problem": "叙述仍在上段第五级第一个弯，接手的岑野却沿用前章六层终点“落点”称呼。局部弯口接手台与最终六层落点未分开，读者难以复原七段梯的站位。此为参照缺失，未断言人物必然瞬移。",
+      "suggestion": "明确这次“落点”是第一弯下方的接手位置还是六层终点；若是中间接手，换成具体局部称呼并在到六层时另交接；若岑野始终守六层，第一弯接手应由已在该处的人承担。不增人、不把七段梯缩成五级。",
+      "needs_author_decision": false,
+      "categories": [
+        "人物位置链",
+        "空间参照"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 115,
+          "quote": "斜梯到第五级转第一个弯"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    },
+    {
+      "id": "R005-B12-I27",
+      "chapter": 111,
+      "severity": "轻微",
+      "quote": "是两个人踏着同一根横档下来的节奏。",
+      "problem": "核路者从六层返回七层，下一句又是“槐七上来”；同一听觉归程的上下指向冲突。",
+      "suggestion": "改成“踏着横档回来的节奏”或“往上攀的脚步”，沿七层听者固定参照，不改变探路往返。",
+      "needs_author_decision": false,
+      "categories": [
+        "人物位置链"
+      ],
+      "supporting_quotes": [
+        {
+          "chapter": 111,
+          "quote": "槐七上来，先抹了把脸上的盐汗"
+        }
+      ],
+      "reference_basis": [],
+      "status": "open_initial",
+      "recheck_result": "未复核；仅针对首读冻结版本"
+    }
+  ],
+  "source_conflicts": [
+    {
+      "id": "SC01",
+      "scope": "112托板数",
+      "conflict": "资源台账及首读正文四块；旧逐章实录与事件时间线仍为两块。",
+      "handling": "正文四块不回退；资料同步由主线程另做，本轮不写其他路径。",
+      "needs_author_decision": false
+    },
+    {
+      "id": "SC02",
+      "scope": "120弯头完成状态",
+      "conflict": "正文、资源主行、章卡120均已卸换验讫；资源“下一步压力”还写浸油待卸，伏笔相关旧表述仍有未知能否修好。",
+      "handling": "按已完成事实标资料滞后，不把正文改回未修；主线程后续同步。",
+      "needs_author_decision": false
+    },
+    {
+      "id": "SC03",
+      "scope": "120绝对日次",
+      "conflict": "事件时间线D3；资源与A02实耗说明D4。",
+      "handling": "I14；待裁定，保留正文相对先后，不扩读/改未来正文。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "SC04",
+      "scope": "整队与护送册范围",
+      "conflict": "A02沿用17＋31＝48；R004限定旧册子子集且C05只确认孩子17，不授权全队48。",
+      "handling": "I03；不据48减留守3自动生成45。",
+      "needs_author_decision": true
+    }
+  ],
+  "read_evidence": [
+    {
+      "chapter": 111,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第111章_不走来时的路.md",
+      "sha256": "105f87073c1945f0687f6ee58e73a52572f1323c05dd0f39f2f7e1e79b362e05",
+      "confirmed_from_body": "七层遮蔽廊/下行梯口；林渡组织十七个孩子、四名卧床者等转往六层，槐七与岑野探路。货井快但缆/制动未验，检修斜梯可分段核验，灯柱最短空当三十息。",
+      "first_stumble_quote": "少年团的岑野核路去了，另一个名字里也带个“岑”字的老维修者林岑守着支架班——两个岑，一个在外探路，一个在内看水。",
+      "questions_before_author_sources": "辨名解释脱离人物行动；七段、五段实、只报一块问题板的范围待核；返回脚步写“下来”略乱。",
+      "willingness_and_exit_point": "愿读：绕路决定有四名卧床者的真实重量；想看三十息如何送人。退出风险：选择、记账、复述层层重复。",
+      "body_first_record_frozen": true,
+      "comparison_note": "七段与板块是不同计量单位；不据首读疑问强判七减五少一段。返回方向及同名讲解保留问题。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "值守的人也睡不着。",
+          "assessment": "开头由换脚过密带出不能久留，压力有身体来源。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "我的话——先核路，再挪人。",
+          "assessment": "林渡放弃未验证的快路，承担等待的水与工时成本。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "三十息，取最短",
+          "assessment": "路线从猜测变成分段核验、最短灯隙与问题板清单。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "快路把他们扔在半道，没人回头。",
+          "assessment": "保护不能自救者的价值由路线选择兑现。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "走检修段。货井留给货。",
+          "assessment": "选择已落地；下一问是伤员如何过窄梯，世界阻碍与行动相接。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 112,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第112章_梯上没有担架宽.md",
+      "sha256": "c966c0151c124d8a29be7bbeab761a739bc18b6bf08b3a28f3e7f1f751a8bbdd",
+      "confirmed_from_body": "仍在七层下行梯口；担架受净宽和转角限制，借四块短检修托板、毡垫并承担赔偿，准备空载三趟。",
+      "first_stumble_quote": "林栖的意思是成人可以挤一挤，孩子的垫子拆一块少一块，晚上补不回来。",
+      "questions_before_author_sources": "此前提拆板的林栖在争论概述里变成反对拆板；孩子“不拆也能睡”也反着接话。四板已载伤员又要空载试运，卸回/另板未交代；凉时影短的因果不明。",
+      "willingness_and_exit_point": "愿读：老人换姿出汗、孩子愿挤床有温度。退出风险：争执双方立场不清；板毡借用/叮嘱赔偿重复。",
+      "body_first_record_frozen": true,
+      "comparison_note": "现资源台账支持四板；旧实录两板应同步，不倒改正文。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "挪人之前，先量梯。",
+          "assessment": "开场即量梯，随即净宽挡住担架，不拖延上章问题。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "孩子的垫子不动。托板从工班借。",
+          "assessment": "保孩子睡位、承担借板赔偿，是有代价的选择。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "四块都算借的。毡垫也给你们一卷。",
+          "assessment": "资源有借方和债，不是无中生有；之后试载交接仍须修。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "老人出的汗把枕布洇湿了一片",
+          "assessment": "搬运的痛感真实；不是把卧床者当货物。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "就是喊一嗓子，救好多人。",
+          "assessment": "孩子学会喊停有回报，空载与正式下行仍待验证。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 113,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第113章_死人按不亮的灯.md",
+      "sha256": "72de7f529a13fe3c6302333b30068f85578c5259bff444a806246be9654a50e6",
+      "confirmed_from_body": "祝衡单独探七层官署/杂役廊。他曾任巡查、腕有灼伤、被登记死亡；试门无灯，同僚可放他独逃，他拒绝并带回重抄名册与机械联杆图。",
+      "first_stumble_quote": "死人的腕印，系统连拒绝的提示都省了",
+      "questions_before_author_sources": "正文确实呈现两次无反馈，但死亡标记与烧伤印记如何排除混淆待核；拒绝独逃后再整段解释选择略削弱行动。",
+      "willingness_and_exit_point": "愿读：旧部给退路而他回去，很明确的人物回报；“先核工，再核人”具体可追问。",
+      "body_first_record_frozen": true,
+      "comparison_note": "死亡标记无反馈已为实录，祝衡有巡查履历。烧伤与死籍的首读辨因疑问保留为理解提示，不捏造设备规则冲突；两次换角度不是无功能重复。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "祝衡出门前，先在廊口把两只手重新缠了一遍布。",
+          "assessment": "伤手先出现，接续带伤探门；身份无反馈随后形成独特障碍。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "放我一个，",
+          "assessment": "旧部愿放他独走，他把队伍放在个人逃生前。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "先核工，再核人。",
+          "assessment": "名册重抄及机械联杆成为可带回的情报，不是抽象神秘。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "那时他提着灯，看别人贴墙。",
+          "assessment": "旧身份与当前处境互照，拒独逃有重量。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "能开的是门，开不了的是册。",
+          "assessment": "机械通路能否救全队、制度如何追到工班，两问具体。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 114,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第114章_把拒绝带回来.md",
+      "sha256": "d62b709c60e06a131f3ec1af5e7fe9d61d638f53d54fb48819f1db77db722a95",
+      "confirmed_from_body": "祝衡回报，林渡留梯口组织试运；阿九、六叔、槐七去核门，回来证明钩杆可开且破铅印留痕；广播开始核丙七等工班。",
+      "first_stumble_quote": "六叔先开口，手里捧着一小块拆下来的护盖铁皮",
+      "questions_before_author_sources": "已经拆盖、试拨，后面却还按“要么不开”“留作最后手段”处理痕迹风险。核门称四人而明确列出三人，林渡同时留梯口。",
+      "willingness_and_exit_point": "愿读：守窗人问“无名”是否核过，威胁终于落到帮忙者。退出风险：一次性门在验证中已用却当未用，无法判断退路。",
+      "body_first_record_frozen": true,
+      "comparison_note": "台账不能替正文消除破印时态与派遣人数矛盾。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "祝衡的纸摊在梯口的箱顶上，林渡一行一行看下去。",
+          "assessment": "开头承接带回信息，较多复述使新增压力稍后才到。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "留作最后手段，不进常规路线。",
+          "assessment": "不把能开的门当安全撤离路，方向正确但破印时态破坏因果。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "名册上有我的班，没有我的名。",
+          "assessment": "核查由逃亡者扩到帮忙工人，有具体受害者。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "先紧你们的人。我这儿的班，走得完。",
+          "assessment": "丙七不抛掉求助者，温度与代价同时存在。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "无名的算是核过了，还是算是没了。",
+          "assessment": "追问工班处境而非突然来敌；主角必须继续运人并认账。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 115,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第115章_空担架先下.md",
+      "sha256": "e38f9007a36d48045442b61f3ab08309e0a8660a1164d996f69ab335f55ea929",
+      "confirmed_from_body": "斜梯空载后半载两趟、全载；回收绳磨损，中段旧板在追加全载时裂，回撤、停人并找隔棚料。",
+      "first_stumble_quote": "装好的沙罐他一一过秤——没有秤，就用扳手提着比",
+      "questions_before_author_sources": "估重却给出精确“两成”，第二次全载中止的记法混淆；“板上加个人”与不拿人试路冲突，下一级监听者安全位置不明。第五级弯口和六层落点接手距离不清。",
+      "willingness_and_exit_point": "愿读：裂声迫使停运，是明确技术代价。退出风险：已知发闷待换的板又反复压，监听者站位与安全原则难合。",
+      "body_first_record_frozen": true,
+      "comparison_note": "12×12＋4×8算术成立，问题是估重却宣称精确裕量、试验记录与站位。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "三趟空托板走稳，试重开始。",
+          "assessment": "承接空载承诺，重量成为本章压力。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "原定今夜下的第一批，推到板好为止。",
+          "assessment": "宁延误也停止载人，选择有时间成本。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "毛刺处有两根绳股断了头",
+          "assessment": "试验实际耗损绳索，随后裂板让原计划失败。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "先修板，",
+          "assessment": "停工不是作者拖戏，是发现缺陷后保护人的结果。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "纸图上每一段都画得能走，可木头认重量，不认纸。",
+          "assessment": "下一步找料换板具体；监听位置及估重精度削弱可信度，须修。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 116,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第116章_只换裂开的那块.md",
+      "sha256": "510a96efbfbce6141555bea3f728ea0664d35507b678ecdfc561d0e12dbb82e1",
+      "confirmed_from_body": "林渡等经窄台拆非承重隔板换裂踏板，禁拆梁，余料一块、藏身遮蔽减薄；发现往六层的蓝点饮水支管，不能私接。",
+      "first_stumble_quote": "棚角还堆着几圈废麻绳，锈成一坨，抠都抠不开。",
+      "questions_before_author_sources": "麻绳的锈、毡不吃水均物质判断可疑；同一凉时换板途中把试重写成前一日；少一块遮蔽后怎么对应守点待核。",
+      "willingness_and_exit_point": "愿读：一块料救路线却削弱藏身处；蓝点管把下一目标接实。退出风险：修板后连续讲规矩与重复登记。",
+      "body_first_record_frozen": true,
+      "comparison_note": "六叔在对白中说丁字三，有工班知识来源，不判提前全知报姓名。守点内挪已有正文承接，不另造失踪。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "隔棚在井道往里第三个拐角，槐七领着人摸过去。",
+          "assessment": "开头直接找料，承接裂板停工。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "那根是承重梁。",
+          "assessment": "拒拆看似好用的梁，保结构而非无代价取材。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "换板一段，余料一块，隔棚减遮蔽一处。",
+          "assessment": "路线修复但遮蔽变薄，资源和位置同时变化。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "第三趟换人替他抱了一段",
+          "assessment": "阿九旧伤使别人接手，群体协作并非口头情义。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "该让它认认门了。",
+          "assessment": "蓝点细管提供下一处水的可追踪方向，不是空谜。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 117,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第117章_谁留在最后一班.md",
+      "sha256": "67c3aa5d5f999a0e33fdaa957dda8dea91e958a46b3747da4fba411c7399de28",
+      "confirmed_from_body": "六层检修棚后开照护点，杜姨下、林栖/麦穗仍七层、小石传纸；两地账以发纸时点分开；找到只登记工牌的配水点，明早谈水。",
+      "first_stumble_quote": "卧床四个，两个已落，两个在途",
+      "questions_before_author_sources": "下一句逐名变成裴七已落、老人及另外两板在途（一/三）；先说风口危险再把发热孩子放风口；饮水管突然用存水弯封臭；黑板读成“值班某某，份额几许”。",
+      "willingness_and_exit_point": "愿读：传纸时点的问答具体，账上给无名者开行。退出风险：正强调不重数却当场数不齐。",
+      "body_first_record_frozen": true,
+      "comparison_note": "2＋2有实录支持，风口保护、饮水管解释与占位黑板仍需修。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "六层外围的落点，比七层的柜影大，也比它空。",
+          "assessment": "新空间与穿堂风、两地照护缺手相连。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "你管这头，林栖管那头，少年传纸。",
+          "assessment": "留两端照护而非一次撤空，建立交接约束。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "纸是出纸那一刻的数。",
+          "assessment": "并行转运有账面时点，但本章2＋2点名自相矛盾必须纠正。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "名，等孩子自己给。",
+          "assessment": "对没有制度行位的人保留自主命名，人物温度强。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "明天一早，我去跟看表的人谈。",
+          "assessment": "“不给孩子行”的制度障碍与明日行动同时成立。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 118,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第118章_先接水还是先接人.md",
+      "sha256": "087766f137e0109da24306af41a0a5e89ce8ec92b1ed25328bab454ba8727a32",
+      "confirmed_from_body": "次日林渡向六层丁字三谈水，先按账供一班，修渗漏弯头换后续水；伤员不补重活，接手固定、送水短接力，晚间浸油待卸。",
+      "first_stumble_quote": "三段，每段十来步，三个人各守一段，桶传人不走。",
+      "questions_before_author_sources": "十来步不能站定手递桶；灯防灰缺因果；末批推到明晨，末尾井道仍有托板响需区分回板/载人。",
+      "willingness_and_exit_point": "愿读：裴七从争干重活转为看分水，有效安排而非抛弃。退出风险：每次谈成的结论都再用账格言解释。",
+      "body_first_record_frozen": true,
+      "comparison_note": "工班带来小灯来源明确；三段站定递桶的几何不能因术语表有定义而算通过。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "六层配水点的门，是林渡敲开的。",
+          "assessment": "直接执行上章谈水决定，开门即核账。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "接人的手不动。",
+          "assessment": "不拆接梯人手补水线，迫出接力组织；执行几何未闭合。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "今日这一班，照账给。",
+          "assessment": "先取得当班水，再以修漏换下一班，有层次而非重复白谈。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "这个不用腿。",
+          "assessment": "裴七由争重活转为坐着盯分水，旧伤与自尊同时被保留。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "末批三分之一，明晨续下。",
+          "assessment": "弯头待卸与末批转运双线具体；不把末尾板响直接判定全队已下。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 119,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第119章_盐湾不是口令.md",
+      "sha256": "2b5a43f354f1943a288a11643302def483a55d32cf78cba69dcc208a74eaf885",
+      "confirmed_from_body": "弥娅在六层落点，左腿旧伤夹板，暂缓核档，用家乡盐湾储水手势安抚抱壶最小孩子；主动不把音调相近等同跨海身份，将方法交给杜姨。",
+      "first_stumble_quote": "磕两下，是滩上的话：水在，人也在。",
+      "questions_before_author_sources": "照护场面有效，但规则解释/不是万能等自我辩护重复，过多确定语和末尾“别的滩不知道”范围有张力；五根手指扣底再另写拇指，手势空间不清。",
+      "willingness_and_exit_point": "愿读：孩子自己伸手，是本批最好的情绪兑现。退出风险：孩子已回应后仍反复讲不能凭音认籍、方法非方子非钥匙。",
+      "body_first_record_frozen": true,
+      "comparison_note": "110边界已有船舱孩子，不判本章凭空新增身世；不把另一个孩子强合为同一人；弥娅视角获章卡支持。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "弥娅把档片从怀里掏出来三次，又放回去三次。",
+          "assessment": "先给个人目标受照护打断；哭声随后将选择具体化。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "不拉，等。",
+          "assessment": "先安抚而非核档，且不强拽孩子或凭音定身份。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "第三回，整只手放了上来，凉的，潮的。",
+          "assessment": "孩子主动给手，再随她挪位，动作有可见结果。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "走。壶，一起。",
+          "assessment": "孩子不必丢掉依赖之物才能被照护，是本批最强温度点。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "抄档之前，她先看了那孩子一眼",
+          "assessment": "照护先兑现，个人核档恢复；世界追问仍靠前文档片缺段承接，末句安稳是软钩，不硬塞危险。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    },
+    {
+      "chapter": 120,
+      "source_path": "异星录/06_执行计划/工作区/R005-B12/第120章_下一处水从哪里来.md",
+      "sha256": "3c068e7eabb97880af6ebf1e407ece3b5c427ae98f6f65a249d73525e7921db4",
+      "confirmed_from_body": "末批九童两卧床等至六层，七层留林岑等三人；总账十七童+三十一成人=四十八；弯头修好但水额不足，准备找五层谈轮值换水，弥娅请核账。",
+      "first_stumble_quote": "麦穗是跟末批一起下来的，踝伤好得慢，她落在照护组帮手。，谁来牵都不动",
+      "questions_before_author_sources": "插入麦穗句切断孩子主语且残留“。，”；六层新增三十几口与48减3不合；七→六下行却六→五往上，参照未变；118的接力换班段几乎整段重用；杜姨首次见面七层待核。",
+      "willingness_and_exit_point": "愿读：修一处升级为长期轮值、有可执行下一步。退出风险：路线、人数和坏句连续出现，削弱整批结算可信度。",
+      "body_first_record_frozen": true,
+      "comparison_note": "麦穗到达与弯头验讫可核；人数范围、D3/D4及地理/灯具不能靠“实录已有”绕过。",
+      "pull_evidence": [
+        {
+          "item": "opening_pressure",
+          "quote": "末批是晌午前续下来的。",
+          "assessment": "本批转运承诺开始收束；先报抵达而非另开悬念。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "protagonist_choice",
+          "quote": "谈成一样落一样，不谈拢的先不动。",
+          "assessment": "长工协商先讲范围、班次与水，不无条件卖劳力。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "visible_change",
+          "quote": "弯头一处，已卸已换，验讫。",
+          "assessment": "一处抢修兑现，却不足以覆盖持续供水，压力升级有因果。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "emotional_payoff",
+          "quote": "只用一只摊平的手掌和两声轻磕",
+          "assessment": "杜姨会用119的方法接住另一个孩子，温度跨章兑现；坏句不能留下。",
+          "result": "初审观察，非终稿通过"
+        },
+        {
+          "item": "next_question",
+          "quote": "下一处水在五层，路在纸上画着，账在册子里立着，都等天亮。",
+          "assessment": "长期轮值与弥娅核账形成下一步，但地理/人数错误使结算不可信。",
+          "result": "初审观察，非终稿通过"
+        }
+      ]
+    }
+  ],
+  "boundaries": [
+    {
+      "chapter": 110,
+      "path": "异星录/正文/第二卷_黑暗断阶/第110章_把照护写在交班上.md",
+      "sha256": "7dcafbfe43b8a3bea1b8d9a3635576f76a7cfae9680884fc8fff1047fd3c604d",
+      "read_extent": "全文；在111—120全部读完后补读"
+    },
+    {
+      "chapter": 121,
+      "path": "异星录/正文/第二卷_黑暗断阶/第121章_工班不够两处用.md",
+      "sha256": "19adc5d3f3e4526b8b02b712a2f6c4e1ae2b2c734e628a9214a26a16d4371999",
+      "read_extent": "全文；在111—120全部读完后补读"
+    }
+  ],
+  "boundary_notes": [
+    "110确认现处七层廊、有通往下口的另一梯，不把新梯与先前井道自动视为同一部；先前已存在船舱孩子，因此119船舱经历不直接判新造身世。",
+    "121实际正文延续五层在上、六层在下的说法，并自报六层四十八口；只能说明矛盾已向邻章延伸，不能据此直接改111—120的楼层。121不纳入本批首审判定。"
+  ],
+  "source_read_scope": [
+    {
+      "path": "AGENTS.md",
+      "extent": "资料阶段全文核读；原文规则已在对话预载。"
+    },
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "extent": "资料阶段全文。"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "extent": "资料阶段全文。"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "extent": "全文。"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "extent": "全文。"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "extent": "全文。"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/卷纲.md",
+      "extent": "全文；未据未来规划倒灌本批人物知识。"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "extent": "111—120规划表、A02实录及实耗偏离说明（约50—64、274—339行）；另读开写/时段限制，未声称全文。"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "extent": "101—110、111—120对应快照（约187—221行）与R004衔接约束（约906—930行）。"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "extent": "101—110、111—120对应快照（约229—260行）及R004资源/持物约束（约805—829行）。检索/边界显示曾带出后续快照零星行，未作后续时点审读。"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "extent": "A01/A02条目（约417—438行）及R004衔接注记（约709—738行），非全文。"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "extent": "A01/A02相关时点（约37—68行）与R004跨范围依赖及维护约束（约573—605行）；维护段含后续章号，不等于读过其正文。"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "extent": "基础地理/时段/身份/器物条目与使用规则（约1—38、73—80行）；较宽显示曾带出后卷术语，未主张全词典覆盖。"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "extent": "本批有关条目及短接力/灯具约束（约24—55、386—395行并定向检索），非全文。"
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md",
+      "extent": "全文。"
+    },
+    {
+      "path": "异星录/01_世界设定/栈城路线图.md",
+      "extent": "全文。"
+    },
+    {
+      "path": "异星录/01_世界设定/社会生活与文化.md",
+      "extent": "全文。"
+    },
+    {
+      "path": "异星录/01_世界设定/势力与制度.md",
+      "extent": "约1—55行：议会、互助会、无面者、商团相关定义。"
+    },
+    {
+      "path": "异星录/02_角色档案/角色圣经.md",
+      "extent": "全文；比较只使用与本批相符的固定身份、能力和关系。"
+    },
+    {
+      "path": "异星录/02_角色档案/角色出场与语气卡.md",
+      "extent": "全文；比较只使用与本批相符的固定身份、能力和关系。"
+    },
+    {
+      "path": "异星录/02_角色档案/关系与成长线.md",
+      "extent": "全文；比较只使用与本批相符的固定身份、能力和关系。"
+    }
+  ],
+  "not_covered": [
+    "未读122章及以后正文；121只作授权边界，不签该章完整审读结论。",
+    "未全文覆盖所有台账、术语或逐章卡；以上定向范围以外不作审读覆盖声明。",
+    "未单独读取项目总纲、资料索引、分卷总纲、世界背景总览、设定揭示计划全部内容；不声称完成全卷/全设定审计。",
+    "真实全书第一页、楔子、第一至三章不在本轮，黄金开篇专项未审；111不冒充全书第一章。",
+    "未读主线程正在修改的工作稿，未运行修后复核/门禁/发布，也未改正文、台账、章卡。"
+  ],
+  "high_frequency_checks": [
+    {
+      "category": "人物位置链",
+      "result": "命中",
+      "issues": [
+        "I04",
+        "I08",
+        "I09",
+        "I12",
+        "I17",
+        "I26",
+        "I27"
+      ],
+      "evidence": [
+        {
+          "chapter": 114,
+          "quote": "槐七领路，四个人贴着护线外侧走"
+        },
+        {
+          "chapter": 115,
+          "quote": "他和一个居民先下到落点守着，此刻正伸着两条胳膊接。"
+        },
+        {
+          "chapter": 120,
+          "quote": "你顺着这条检修道往上，两段，到五层外缘配水站。"
+        }
+      ],
+      "suggestion": "分别修三人派遣、局部接手点、固定层序；不以一种解释吞掉其他位置问题。"
+    },
+    {
+      "category": "数字闭环",
+      "result": "命中",
+      "issues": [
+        "I02",
+        "I03",
+        "I08",
+        "I10",
+        "I11",
+        "I19"
+      ],
+      "evidence": [
+        {
+          "chapter": 117,
+          "quote": "卧床四个，两个已落，两个在途"
+        },
+        {
+          "chapter": 120,
+          "quote": "如今落点多了三十几口人"
+        }
+      ],
+      "suggestion": "2＋2直接统一；48范围待裁定。四板既有来源不回退，176算式无错但不是精确称量。"
+    },
+    {
+      "category": "信息释放顺序",
+      "result": "局部命中",
+      "issues": [
+        "I06",
+        "I18"
+      ],
+      "evidence": [
+        {
+          "chapter": 120,
+          "quote": "她落在照护组帮手。，谁来牵都不动"
+        },
+        {
+          "chapter": 117,
+          "quote": "值班某某，份额几许，领用几笔。"
+        }
+      ],
+      "suggestion": "先维持孩子主语，再安置麦穗说明；黑板写真实可见栏名。116六叔对白提前提丁字三不等于叙述者无来源知名。"
+    },
+    {
+      "category": "知识来源",
+      "result": "命中",
+      "issues": [
+        "I10",
+        "I16",
+        "I18",
+        "I20",
+        "I25"
+      ],
+      "evidence": [
+        {
+          "chapter": 115,
+          "quote": "比最重的成人还多两成。"
+        },
+        {
+          "chapter": 118,
+          "quote": "灯在这儿，灰就落得少。"
+        }
+      ],
+      "suggestion": "估值不冒充实测，观察不冒充机制。113死亡标记规则有实录支持，未另判硬冲突。"
+    },
+    {
+      "category": "物件物理",
+      "result": "命中",
+      "issues": [
+        "I01",
+        "I05",
+        "I09",
+        "I15",
+        "I16",
+        "I19"
+      ],
+      "evidence": [
+        {
+          "chapter": 114,
+          "quote": "护盖一拆，铅印就碎。"
+        },
+        {
+          "chapter": 116,
+          "quote": "布吃水，毡不吃。"
+        },
+        {
+          "chapter": 118,
+          "quote": "三段，每段十来步，三个人各守一段，桶传人不走。"
+        }
+      ],
+      "suggestion": "保留拆盖代价；材料属性不凭空断言；接力几何待选定。"
+    },
+    {
+      "category": "时间口径",
+      "result": "命中",
+      "issues": [
+        "I01",
+        "I11",
+        "I13",
+        "I14",
+        "I21"
+      ],
+      "evidence": [
+        {
+          "chapter": 116,
+          "quote": "前一日试重剩的那几只"
+        },
+        {
+          "chapter": 120,
+          "quote": "他想起七层头一回见杜姨时"
+        }
+      ],
+      "suggestion": "同凉时改刚才；不重置杜姨初识；D3/D4由作者统一。"
+    },
+    {
+      "category": "光影与能力边界",
+      "result": "命中",
+      "issues": [
+        "I05",
+        "I20",
+        "I25"
+      ],
+      "evidence": [
+        {
+          "chapter": 112,
+          "quote": "同样的三十息空当，凉时的影子短"
+        },
+        {
+          "chapter": 120,
+          "quote": "他吹熄了自己的那盏灯。"
+        }
+      ],
+      "suggestion": "保三十息实测，删冷暖决定影长；灯型与来源分开核，不生成额外能力或供能。"
+    },
+    {
+      "category": "感官依据",
+      "result": "命中",
+      "issues": [
+        "I15",
+        "I16",
+        "I25"
+      ],
+      "evidence": [
+        {
+          "chapter": 116,
+          "quote": "棚角还堆着几圈废麻绳，锈成一坨，抠都抠不开。"
+        }
+      ],
+      "suggestion": "把可见物质写对；不因本世界有炉火味/热流而泛删必要感官。"
+    },
+    {
+      "category": "人体常识",
+      "result": "危险位置表达命中；未另判医学结论",
+      "issues": [
+        "I12",
+        "I17"
+      ],
+      "evidence": [
+        {
+          "chapter": 115,
+          "quote": "它塌了也是先塌我脚上那块——我踩得出来。"
+        },
+        {
+          "chapter": 117,
+          "quote": "两个发热的孩子挪到风口"
+        },
+        {
+          "chapter": 118,
+          "quote": "这个不用腿。"
+        }
+      ],
+      "suggestion": "先清楚监听退处、挡布内侧；保留裴七不补重活及弥娅/阿九旧伤。119五指与拇指可有双手解释，未武断判六指。"
+    },
+    {
+      "category": "篇幅口径",
+      "result": "本冻结版10章均达2200—3200纯汉字；不等于剧情通过",
+      "issues": [],
+      "evidence": [],
+      "suggestion": "本次计数剔除标题，以U+4E00—U+9FFF计正文汉字；具体数见逐章统计。安全删改后的章长由新版本另计，不沿用本次结果。"
+    }
+  ],
+  "ai_style_checks": [
+    {
+      "category": "叙述者翻译与辩护",
+      "result": "命中",
+      "issues": [
+        "I07",
+        "I23",
+        "I24"
+      ],
+      "evidence": [
+        {
+          "chapter": 111,
+          "quote": "两个岑，一个在外探路，一个在内看水。"
+        },
+        {
+          "chapter": 112,
+          "quote": "林栖的意思是成人可以挤一挤，孩子的垫子拆一块少一块，晚上补不回来。"
+        },
+        {
+          "chapter": 119,
+          "quote": "规矩不是方子，不能保证治病。"
+        }
+      ],
+      "suggestion": "直接姓名岗位、立场对白、保留一次能力边界即可；不删必要身份非口令限制。"
+    },
+    {
+      "category": "动作罗列流水账",
+      "result": "未确认典型“无观察结果动作串”；另有重复操作说明",
+      "issues": [
+        "I22"
+      ],
+      "evidence": [
+        {
+          "chapter": 120,
+          "quote": "接力看着轻省，一站一个时辰，腰和手都僵，歇不够的人递桶，水会洒。"
+        }
+      ],
+      "suggestion": "该处准确归类为复用118说明，不冒充无结果动作串；压成执行既定换班规则，不把维修步骤一概删掉。"
+    },
+    {
+      "category": "动词悬空",
+      "result": "命中句法近邻问题，未另造典型感知动词漏宾语例",
+      "issues": [
+        "I06"
+      ],
+      "evidence": [
+        {
+          "chapter": 120,
+          "quote": "她落在照护组帮手。，谁来牵都不动"
+        }
+      ],
+      "suggestion": "“落在…帮手”谓语失配且主语断裂，拆开麦穗和孩子两句；不以AI标签替代具体句法诊断。"
+    },
+    {
+      "category": "验证动作重复",
+      "result": "未确认无功能的重复验证",
+      "issues": [],
+      "evidence": [
+        {
+          "chapter": 114,
+          "quote": "两次，换了角度。"
+        },
+        {
+          "chapter": 115,
+          "quote": "那就再试一趟全载，专听那一块。"
+        }
+      ],
+      "suggestion": "换角度核门、空载/半载/全载、定位裂声各有不同功能，应保留。I11需改试验记录，不据词频删掉验证。"
+    },
+    {
+      "category": "“像是”堆叠",
+      "result": "未超一章一处；单例非痕迹用法有精修空间",
+      "issues": [],
+      "evidence": [
+        {
+          "chapter": 111,
+          "quote": "倒像是给咱们打拍子。"
+        },
+        {
+          "chapter": 112,
+          "quote": "像是在掂它们的分量"
+        },
+        {
+          "chapter": 120,
+          "quote": "像是笑"
+        }
+      ],
+      "suggestion": "逐章计数见统计；111是角色黑色幽默，不按词频硬删。112、120不是痕迹推断，可分别直写重复承诺时的停顿、哼笑反应；不虚报堆叠超限。"
+    }
+  ],
+  "frozen_version_metrics": [
+    {
+      "chapter": 111,
+      "body_cjk_count": 2306,
+      "xiangshi_count": 1
+    },
+    {
+      "chapter": 112,
+      "body_cjk_count": 2379,
+      "xiangshi_count": 1
+    },
+    {
+      "chapter": 113,
+      "body_cjk_count": 2330,
+      "xiangshi_count": 0
+    },
+    {
+      "chapter": 114,
+      "body_cjk_count": 2256,
+      "xiangshi_count": 0
+    },
+    {
+      "chapter": 115,
+      "body_cjk_count": 2260,
+      "xiangshi_count": 0
+    },
+    {
+      "chapter": 116,
+      "body_cjk_count": 2292,
+      "xiangshi_count": 0
+    },
+    {
+      "chapter": 117,
+      "body_cjk_count": 2248,
+      "xiangshi_count": 1
+    },
+    {
+      "chapter": 118,
+      "body_cjk_count": 2294,
+      "xiangshi_count": 0
+    },
+    {
+      "chapter": 119,
+      "body_cjk_count": 2251,
+      "xiangshi_count": 0
+    },
+    {
+      "chapter": 120,
+      "body_cjk_count": 2357,
+      "xiangshi_count": 1
+    }
+  ],
+  "batch_pull": {
+    "promise_payoff": {
+      "quote": "走检修段。货井留给货。",
+      "chapter": 111,
+      "payoff_chapter": 120,
+      "payoff_quote": "斜梯下端的接手直到最后一名成人踩实地面才撤",
+      "assessment": "慢路护送承诺在末批落位兑现；代价包括多等、换姿补水、借板债、磨绳、换板及遮蔽损失。人数核算不可信处必须修，不能因此否认正文已写出转运。"
+    },
+    "progressive_stakes": {
+      "chapter": 120,
+      "quote": "这不是一锤子买卖，是长活。",
+      "assessment": "七层单项维修换水到六层修漏，再升级为五层长期轮值，改变的是劳动义务与休息权，不只是重复地点。114工班被核名扩大受影响人群，119照护法在120被另一人使用，人物变化可见。"
+    }
+  },
+  "author_decisions_required": [
+    "R005-B12-I03",
+    "R005-B12-I05",
+    "R005-B12-I14",
+    "R005-B12-I19"
+  ],
+  "safe_edit_issue_ids": [
+    "R005-B12-I01",
+    "R005-B12-I02",
+    "R005-B12-I04",
+    "R005-B12-I06",
+    "R005-B12-I07",
+    "R005-B12-I08",
+    "R005-B12-I09",
+    "R005-B12-I10",
+    "R005-B12-I11",
+    "R005-B12-I12",
+    "R005-B12-I13",
+    "R005-B12-I15",
+    "R005-B12-I16",
+    "R005-B12-I17",
+    "R005-B12-I18",
+    "R005-B12-I20",
+    "R005-B12-I21",
+    "R005-B12-I22",
+    "R005-B12-I23",
+    "R005-B12-I24",
+    "R005-B12-I25",
+    "R005-B12-I26",
+    "R005-B12-I27"
+  ],
+  "safe_edit_caution": "安全项只授权不改变现有事实的表达修正。I09/I12/I26如需新增搬运过程、支点、人手或通路事实，应停止超出表述的部分并提问；不能用补写未核细节伪装修复。I03/I05有可先消歧的局部，但整体仍待裁定。",
+  "recheck_result": "未执行。当前仅initial，问题未关闭。安全修后可checkpoint；后续在主线程提交修后字节及裁定后由本会话复核，不沿用初审SHA签通过。",
+  "files_written": [
+    "harness/maintenance/R005/B12/initial.md",
+    "harness/maintenance/R005/B12/initial.json"
+  ],
+  "preserved_auxiliary": "harness/maintenance/R005/B12/first_read.json（既有冻结证据，未改写）",
+  "reviewer_identity_history": [
+    {
+      "stage": "initial",
+      "reviewer": null,
+      "note": "当前会话未取得可验证的agent/tool ID；留null给主线程按实际工具ID填写，不虚构身份。"
+    },
+    {
+      "stage": "recheck_identity_backfill",
+      "date": "2026-11-07",
+      "reviewer": "01a1b3d1-09ea-7151-b546-6ae6c92fcffd",
+      "source": "用户本轮明确提供实际agent ID，授权初审补填。"
+    }
+  ]
+}

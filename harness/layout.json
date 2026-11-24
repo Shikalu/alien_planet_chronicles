@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "root_entries": [
+    "AGENTS.md",
+    "README.md",
+    ".gitignore",
+    "skills",
+    "harness",
+    "tools",
+    "异星录"
+  ],
+  "workspace": "异星录/06_执行计划/工作区",
+  "execution_groups": [
+    "审读记录",
+    "连续性审计",
+    "发布验收",
+    "执行卡",
+    "设定决策",
+    "工作区"
+  ],
+  "single_published_text": true,
+  "retire_root_patterns": [
+    "_*.py"
+  ],
+  "note": "忽略.git、系统元数据与Python缓存；它们不作为项目资料。"
+}

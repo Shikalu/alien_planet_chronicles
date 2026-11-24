@@ -1,0 +1,2137 @@
+{
+  "schema_version": 1,
+  "kind": "independent-writeback-review",
+  "batch": "R005-resume-20261109",
+  "reviewer": "/root/review_241_250",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "verdict": "pass",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+      "reviewed_sha256": "22ac601b42e437179468939c2bf2202b25bb5fe431c356fb5e2ee58bc5272303",
+      "candidate_sha256": "22ac601b42e437179468939c2bf2202b25bb5fe431c356fb5e2ee58bc5272303",
+      "source_before_sha256": "042f591ce49598e545b556f4d352d6ac9942b1fd0c7feb9a9ab04831d1e32c7e",
+      "verdict": "pass",
+      "review_scope": "101—150五个历史截点、R005追加段；伤势/位置/物件持有/信息权限；其他历史仅核未因本轮被改。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+      "reviewed_sha256": "59bd8fda7fc1b9b5eede9feafc2a37e83dcd726efb287ffab786eace6734b47b",
+      "candidate_sha256": "59bd8fda7fc1b9b5eede9feafc2a37e83dcd726efb287ffab786eace6734b47b",
+      "source_before_sha256": "ff66bc5543359730d2421e8f831bce02c2699a6c415cbabd3a44af272cbd691c",
+      "verdict": "pass",
+      "review_scope": "101—150五个历史截点、R005追加段，及150→151依赖：水/药/板架/秤/沙罐/绳/支撑/证据/时间。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/伏笔与悬念台账.md",
+      "reviewed_sha256": "3e97075ed59c7b5fb0fc213ef813fcdf0a38fed49f9e63816ff50ecb3662e37b",
+      "candidate_sha256": "3e97075ed59c7b5fb0fc213ef813fcdf0a38fed49f9e63816ff50ecb3662e37b",
+      "source_before_sha256": "05cbb03bcea773f63124e99f6edd37a80f9a9d7345b9964d236cb0e8dcfeeb89",
+      "verdict": "pass",
+      "review_scope": "F03/F14/F16/F17与101—150回填、R005追加段：观测/口述/未核边界和双前置兑现。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+      "reviewed_sha256": "dc621a02656b2dc25b5c9e00d15422974a6cf6e50529a7b1869fa640b03d9c7b",
+      "candidate_sha256": "dc621a02656b2dc25b5c9e00d15422974a6cf6e50529a7b1869fa640b03d9c7b",
+      "source_before_sha256": "748bcc47e615a0bd7b65116b83520d53ad3213d874f9e28b3ff44054799aad04",
+      "verdict": "pass",
+      "review_scope": "101—150逐章实际日次和动作、R005追加摘要、100→101及150→151边界。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/术语与命名表.md",
+      "reviewed_sha256": "0370b6dcb62ab573da5fba399b5653a69bc5cd8605e085ceb1056d8ecc8111f5",
+      "candidate_sha256": "0370b6dcb62ab573da5fba399b5653a69bc5cd8605e085ceb1056d8ecc8111f5",
+      "source_before_sha256": "9a93290ff04ef8a3c260d175523917d3bf13e8e060f610016219a4e95a8c0b88",
+      "verdict": "pass",
+      "review_scope": "本轮改动条与R005追加：扣件、近期当班页、单灯、称谓、非容量笔单位。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/术语词典.md",
+      "reviewed_sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+      "candidate_sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+      "source_before_sha256": "38984e6b3b8fefa650c97a5b370b40f0cc519df165dc23f25c1d13df43685f94",
+      "verdict": "pass",
+      "review_scope": "R005追加术语：48登记/需托者/三扣/来路现核/两个工日及各自权限范围。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+      "reviewed_sha256": "3cb7d8e7dfa544d43467ca50b74a00e5e734485c540990b532c2eaee376cfc20",
+      "candidate_sha256": "3cb7d8e7dfa544d43467ca50b74a00e5e734485c540990b532c2eaee376cfc20",
+      "source_before_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "verdict": "pass",
+      "review_scope": "A01—A05实际发生/偏离原因/时序说明/新R005汇编；计划不伪作已执行。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/十章篇章卡.md",
+      "reviewed_sha256": "097a6b4bc49337bfa195f80c1a509f1882e2ad224445e97ced4431148d8f0f9c",
+      "candidate_sha256": "097a6b4bc49337bfa195f80c1a509f1882e2ad224445e97ced4431148d8f0f9c",
+      "source_before_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "verdict": "pass",
+      "review_scope": "A01—A05与新R005执行摘要：承诺/兑现/代价，既定8卷规模和L3揭示界限。",
+      "resolution": "已核最终实际候选改动与历史原行/新增段一致，未见阻断性残留；指纹与冻结manifest一致。"
+    }
+  ],
+  "writeback_source_digest": "fd0a5a48103bd41197e2ef9de22a9f1c6b760e6ed5876d6914da735245b7e2aa",
+  "manuscripts": [
+    {
+      "chapter": 101,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "sha256": "2ab421ab943669d3032cadb3e3b6992f4d04d83abd7c6a4f8e62972d7c3202cc"
+    },
+    {
+      "chapter": 102,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "sha256": "3497cff384a106da7e40c2f38fdc60a22f2349f933c7ef17ee4d54460039ef6b"
+    },
+    {
+      "chapter": 103,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "sha256": "c219b1ff1f003a25bf69d0a7997b8952f482f5261319e08a8cc6440a77c0370f"
+    },
+    {
+      "chapter": 104,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "sha256": "eb8db0aeafd4be073f58244885dbfd8b4e7ccfbc54d564d2bbaf351f995fd993"
+    },
+    {
+      "chapter": 105,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "sha256": "bdfd18e0b77db8f4e03ef5fe4adf2b34664f2c3cfb49b1fb9ba485fee006ff01"
+    },
+    {
+      "chapter": 106,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "sha256": "84dc51754ae578f103a3f8d86e7df5f9dc8f7f543ed92e38f86e3fd860f492ca"
+    },
+    {
+      "chapter": 107,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "sha256": "3719b20fc86522f406eee66cc20fe0db86168f4ac3e3fe76630e1798410f0671"
+    },
+    {
+      "chapter": 108,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "sha256": "38d5981e71fbf65346556a4543d1199baf8ab71f7a2eeca6650ee140885582af"
+    },
+    {
+      "chapter": 109,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "sha256": "8dd1d469f3d7f9877ec291cb0f42f3b93be203d5943fc0a882086c00e4bb321f"
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "sha256": "d4ff37d207a301fdf543b952fc8051131ccd468a36842d4a223312bd27d471cd"
+    },
+    {
+      "chapter": 111,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第111章_不走来时的路.md",
+      "sha256": "f006f8c81e34bf68382aca2405a3163666c7e921da4865c40425883ad2581282"
+    },
+    {
+      "chapter": 112,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第112章_梯上没有担架宽.md",
+      "sha256": "b114fc11bce56a6f22bc64c8926a7184801a495ee0730841bddf8640fc2c6edc"
+    },
+    {
+      "chapter": 113,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第113章_死人按不亮的灯.md",
+      "sha256": "d698f7e7c505adc72c65c4f516f9dea59f82d19e05cbd744fbeb5aa26ace6ab2"
+    },
+    {
+      "chapter": 114,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第114章_把拒绝带回来.md",
+      "sha256": "dfc6887b2b7e10b68a74682cd811428de349886f4f3ff862ac04c976ecd6e9fb"
+    },
+    {
+      "chapter": 115,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第115章_空担架先下.md",
+      "sha256": "99b5c85ca6d2c15f0f4680a437d7a75a439595b2c4297ee25c129e8a5e0b1e43"
+    },
+    {
+      "chapter": 116,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第116章_只换裂开的那块.md",
+      "sha256": "543f6b2030feab803418c740b4fabe806d7f140406c9612039a0b5a78f3d7167"
+    },
+    {
+      "chapter": 117,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第117章_谁留在最后一班.md",
+      "sha256": "c7bf21f4d6447d547522783b42d49e7504abdf4729073e56ec505d225b60d8d6"
+    },
+    {
+      "chapter": 118,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第118章_先接水还是先接人.md",
+      "sha256": "7518a6077da6ebedc94185b96bc3f55f42944ce9a29d33119f9b80b743bc52e0"
+    },
+    {
+      "chapter": 119,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第119章_盐湾不是口令.md",
+      "sha256": "d6e4287bcd7eb6dd52888d7767a4760fdb054cb9e9846a6112abac9f7356b76f"
+    },
+    {
+      "chapter": 120,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第120章_下一处水从哪里来.md",
+      "sha256": "09bfcec4a103b25a6c97cf750e09a50a3a11cbc6e7156f0eefdb85b081f2dc97"
+    },
+    {
+      "chapter": 121,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+      "sha256": "8c3a5b59b9efb779a7a78358dc9efe980ef54c6865f1409774ca0588df9381d9"
+    },
+    {
+      "chapter": 122,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+      "sha256": "afd39152bfc2a7691a12c6cb6b7cdfcbe9abcacc8fab50f63f10814869a16526"
+    },
+    {
+      "chapter": 123,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+      "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+    },
+    {
+      "chapter": 124,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第124章_死者领走的滤件.md",
+      "sha256": "a8658ff0349749fef747293aa868415e794461821bb0523da21016d1ab74fbca"
+    },
+    {
+      "chapter": 125,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第125章_旧门牌没有注销.md",
+      "sha256": "7c9ab15c34f3aa1810bb5fa3d09885f34bf83f011188f66819be7027b3b84af9"
+    },
+    {
+      "chapter": 126,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+      "sha256": "e76a8b81e8b787d9ece86c6ee9aa7fa3b106da055eb7667b8ff0a5bb9c7e4d76"
+    },
+    {
+      "chapter": 127,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+      "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112"
+    },
+    {
+      "chapter": 128,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+      "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+    },
+    {
+      "chapter": 129,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+      "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+    },
+    {
+      "chapter": 130,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+      "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+    },
+    {
+      "chapter": 131,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "sha256": "4c6423eaf9e3d74f321e1fd90ca4ec83651b5debb7e127823f4b1620cdba97fb"
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "sha256": "c17483949310640a5b7526bf4c9e2bdc8b64eef63df4d78f10aa9b0cbe9c6afa"
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "sha256": "a48b80b8fc5f1bf87fe2aeed842bf9a329e75532e3a666e5a7c9d1bd0cec175a"
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "sha256": "96f5e7e727bfb788ba67257028e42cc8ed9a3d6959cc1c12430d40476f259a54"
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "sha256": "ca27050b24dc8c2fb6de635f933da62ca8b8faf2c7de1700bff57cd5ed84a8e5"
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "sha256": "cb5d257ce45eeb70d85ba24be42d2c93052531473a24b578ed04a566923f7b58"
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "sha256": "f23fd98487e1b6fbfae402c5654de88a963068d9b946c9850a02a99df6cee496"
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "sha256": "084e696b1697ad08a296b465559e55c609d34ad6af0842f1942e04304bf509fb"
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "sha256": "675e40eb045845e30f238160b45efb36e9de2db2f75a7069be8011d840c3341a"
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "sha256": "3789cd810bb753e095e014de22f5b2fcc6b4bbbf294b631429e47a0e3e3c3c0a"
+    },
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "1e05a551eca225c124144da7dd4adbcb259413d29f09ff759b9a49db59af5242"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "d175e1bcb3cdb9e1c7176aea71be635ec4bcbc06a1c9b5c444d1efa9ae4db00e"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "304a04b92aee76afa964b34446c5dc92f391814ed6ea844d918c707a8f66358e"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "cc2293f0085eb9385a2cacec68f2ba8c9e6de10d23180563a25d99be07f30c25"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "b0132d55b258e5b98496a73becda8d7445c89a5782c5317983c2e8e7b9f30408"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "5c5da8287acf89e90556ed2f2cefabdfafe3a94556f59e69ba889cf581fb0797"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "19fbf6dafce1b2c983c26dd5e92907049fda705ce56b785d1340e02e263e7c55"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "571d2651514b1834dcde248dfefa923c2fa4f3137f3a2ba729f2a59afd247651"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "a82e10f6ccdce3cdf84de22adb7185c3464597c804d8d458c9712d443ce6377e"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "1882e4d9c339c9a7e166d06664d83247497ace76201aa49450f51d34cbbf1c37"
+    }
+  ],
+  "source_digest": "cddf673169866fbced4590c59093fa089fc89d8527e79a7ca2043b1d116dc141",
+  "manuscript_coverage": {
+    "full_independent_chapter_reading_by_this_reviewer": [
+      141,
+      150
+    ],
+    "other_chapters": "101—140: sources selected from actual prose plus their own independent final reports; not full-body certification by this reviewer",
+    "all_400_reviewed": false
+  },
+  "groups": [
+    {
+      "batch": "B11",
+      "reviewer": "/root/review_201_220",
+      "writer": "R005-resume-main",
+      "independent": true,
+      "verdict": "pass",
+      "source_digest": "ada42371d8867df096c1785629f02cc9518d7f6572d0376f355e2be0d8a50027",
+      "final_report": "harness/maintenance/R005/resume-20261109/B11/final.json",
+      "final_report_sha256": "458e4ca3334ca531f181a246926e29b3127a2addaf10a043f471dad186ab8cf1",
+      "reader_review": "harness/maintenance/R005/resume-20261109/B11/reader-review.json",
+      "reader_review_sha256": "889117e40c6e6cef61f980f1c738e81ce0416db6718b9053015cebb749bb3289",
+      "checks": 52,
+      "checks_current": true,
+      "legacy_items": 41,
+      "full_body_read_by_this_writeback_reviewer": false
+    },
+    {
+      "batch": "B12",
+      "reviewer": "/root/review_201_220",
+      "writer": "R005-resume-main",
+      "independent": true,
+      "verdict": "pass",
+      "source_digest": "48226d065c1a599193cfe0ff19ef3974cc7c06332cb2f60c945105d960947598",
+      "final_report": "harness/maintenance/R005/resume-20261109/B12/final.json",
+      "final_report_sha256": "a3ae406f7633c72ad7173a6b50e90dc3a2a49c6d2cfcc8368679bbf9746a5775",
+      "reader_review": "harness/maintenance/R005/resume-20261109/B12/reader-review.json",
+      "reader_review_sha256": "d12bc985c97a4436549be3a1c0ff5caa95d1dac7a84f0bcc0c6d357ab4f9abf7",
+      "checks": 52,
+      "checks_current": true,
+      "legacy_items": 31,
+      "full_body_read_by_this_writeback_reviewer": false
+    },
+    {
+      "batch": "B13",
+      "reviewer": "/root/review_221_240",
+      "writer": "R005-resume-main",
+      "independent": true,
+      "verdict": "pass",
+      "source_digest": "73bb7c41065bb2c7359daa202964a5a217ef9dd4013eb379d98f123bdfa6efdd",
+      "final_report": "harness/maintenance/R005/resume-20261109/B13/final.json",
+      "final_report_sha256": "969b84c20fb72813630f0a39faedb81d80dcd0d053c9f0b71bf924b40bd11cf7",
+      "reader_review": "harness/maintenance/R005/resume-20261109/B13/reader-review.json",
+      "reader_review_sha256": "634f51e222cb514aaa7f43e0f47d330e7d7af3c67fbeee6d01c57bf03986c87c",
+      "checks": 52,
+      "checks_current": true,
+      "legacy_items": 37,
+      "full_body_read_by_this_writeback_reviewer": false
+    },
+    {
+      "batch": "B14",
+      "reviewer": "/root/review_221_240",
+      "writer": "R005-resume-main",
+      "independent": true,
+      "verdict": "pass",
+      "source_digest": "ae4f545cb4f1961ba189cf80974dca10b6386e3306a93ff838911704de5f1724",
+      "final_report": "harness/maintenance/R005/resume-20261109/B14/final.json",
+      "final_report_sha256": "30a3a8580ac3885a76283b39b21f285c748a4f928b2730ebeaff12cb9bda94fb",
+      "reader_review": "harness/maintenance/R005/resume-20261109/B14/reader-review.json",
+      "reader_review_sha256": "43350fb8e40d1576d2f9ad98d41401868f6e571471b4fa3ea209fe6e9fc80175",
+      "checks": 52,
+      "checks_current": true,
+      "legacy_items": 34,
+      "full_body_read_by_this_writeback_reviewer": false
+    },
+    {
+      "batch": "B15",
+      "reviewer": "/root/review_241_250",
+      "writer": "R005-resume-main",
+      "independent": true,
+      "verdict": "pass",
+      "source_digest": "76be474fc8b78e6069fe4016d9bb28fdf07b9bb131d923e5cff013c9d5200573",
+      "final_report": "harness/maintenance/R005/resume-20261109/B15/final.json",
+      "final_report_sha256": "0fedac2f9c8e17a609e62ca2daf2fb772b0b21b385b55e7e1f9958049272dabe",
+      "reader_review": "harness/maintenance/R005/resume-20261109/B15/reader-review.json",
+      "reader_review_sha256": "7620c6d0218aea80daf4669ab4e148fad0a96c42981ad53057ec04ed33e894cd",
+      "checks": 52,
+      "checks_current": true,
+      "legacy_items": 33,
+      "full_body_read_by_this_writeback_reviewer": true
+    }
+  ],
+  "all_5_groups_current_and_reader_pass": true,
+  "total_reader_checks": 260,
+  "issues": [
+    {
+      "id": "R005-resume-WB-001",
+      "severity": "severe",
+      "category": "跨组140—145日次",
+      "problem": "候选140仅D17而145从照线慢凿数第七日D21不合；追加又误摘要145D22开口。root已要求B14恢复D15开凿至D17末，需等实际B14终稿和全候选同步后复核。",
+      "source_basis": [
+        "候选事件140/145/追加段",
+        "B15终稿145第七天D21/146D22",
+        "root已确认接口修复口径"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "恢复D15起凿至D17第三日；145D21第七日验人、146D22过缝。只校表，不挪正文。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/事件与地点时间线.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+          "quote": "| 140 | D15—17 |"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-002",
+      "severity": "severe",
+      "category": "148旧摘要保留被正文撤回事实",
+      "problem": "章卡仍写档片洇角/三口气原记账/七天必出/绝对等回，时间线及人物态度也未按共同预排+急救例外更新。",
+      "source_basis": [
+        "B15终稿148/150",
+        "B15 final digest 76be474f..."
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "148纸抄页受潮、预排认责、七天仅验撑计划，共同问档和急救例外分别记录。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "急救先出不等回信，临时变更回来公开补记"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-003",
+      "severity": "moderate",
+      "category": "工具核证范围与现场位置",
+      "problem": "章卡143仍坡腰对号、无号錾对不上及最早批，人物149仍最早批；与终稿墙外对号/无号不可配/旧写法不定年相反。",
+      "source_basis": [
+        "B15终稿143/149",
+        "旧C01/C02/C08已闭需保持"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "143内侧逐件过缝/外侧拓号/还入；四号一无号，老写法不定最早批，不倒回坡腰。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "仍在墙外垫毡边对号"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-004",
+      "severity": "moderate",
+      "category": "144朽木断代残留",
+      "problem": "卡144仍已朽二十年，终稿明确摸朽桩不能定多久。还应记录伤者不负主重的真实分工。",
+      "source_basis": [
+        "B15终稿144及root-supplement"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "撤已朽二十年；先支撑验线再卸，六叔与既有居民两趟搬/立，伤者不负主重。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "北头斜撑现物已朽失，具体年份待核"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-005",
+      "severity": "moderate",
+      "category": "当班簿近期页证明范围与交付时点",
+      "problem": "候选把多年旧簿分存当事实，但正文只是同一本簿前夹旧页；145交近期页、146人出缝、147入棚分开，不能写145老赵已出墙。",
+      "source_basis": [
+        "B15终稿145—147"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "不造多年分存多簿；近期页145撕交、146随人过缝、147入棚，只证近几旬。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/术语与命名表.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/术语与命名表.md",
+          "quote": "往年旧页仍留簿内待逐页核"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-006",
+      "severity": "moderate",
+      "category": "阿苗内侧提示被摘要写成外侧动作",
+      "problem": "卡146仍阿苗拍掌安老赵，违反今日只出一人与旧C03已闭分工。",
+      "source_basis": [
+        "B15终稿146",
+        "旧C03"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "阿苗未跨墙拍掌；汽来退、汽后装薄撑，主撑不动。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "阿苗留口内提示，外侧照护者托手按两下/停/两下安老赵"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-007",
+      "severity": "moderate",
+      "category": "窄托板试重范围",
+      "problem": "人物/资源只写半罐沙试重会被恢复为已验人全载；终稿限定试平衡，老陈前须逐级试到要承分量。",
+      "source_basis": [
+        "B15终稿146"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "老陈前须逐级试足所承分量；146不冒领载人已认证。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/资源与时间台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+          "quote": "半罐沙只试平衡不算全载"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-008",
+      "severity": "moderate",
+      "category": "147三歇及唯一灯实际通路",
+      "problem": "卡147仍把破口和坡腰写成两处，未记第三歇；人物仍携灯号约定，与分段手势/数纸和单灯实际使用不符。",
+      "source_basis": [
+        "B15终稿147"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "风口与坡腰一处，只在余数内停；第三处现已落动作，单灯随队移入棚。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "三处歇为首落点、坡腰凳/破口同处、五层坡口"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-009",
+      "severity": "moderate",
+      "category": "149抄件、圈疑与分存计划",
+      "problem": "人物/时间线/资源仍称洇字已改，卡及时间线仍明晚公开；资源把三圈之一错列洇字而漏签收身份；分存意图不等于149已实际分存。",
+      "source_basis": [
+        "B15终稿149/150",
+        "151实际两处存/收条"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "洇字另标读法/疑记待底单日期核；D24当晚公开，分存意向与151实际收条分开。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/资源与时间台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+          "quote": "无号錾归属、日子空框、签收身份为三圈"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-010",
+      "severity": "moderate",
+      "category": "142养护领料未销",
+      "problem": "资源工时账称销三笔，正文查见新抄件但料钱照旧挂待销，并无本章销账。",
+      "source_basis": [
+        "B15终稿142"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "查见新抄件不是销三笔料钱，浆泥2/门油1与旧未销账保留。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/资源与时间台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+          "quote": "142查见“段门养护”三笔（仍挂待销）"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-011",
+      "severity": "moderate",
+      "category": "师傅身份与主观辨识",
+      "problem": "人物/卡仍只“等他出来看手”，终稿已限定本人自述+旧疤/记忆当面对，不能据掐錾手认名。",
+      "source_basis": [
+        "B15终稿142/150",
+        "正式188身份核证"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "师傅号待核，保188当面互证节点。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/人物状态台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+          "quote": "待本人开口及旧疤/旧事当面对证，不凭掐錾手认名字"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-012",
+      "severity": "moderate",
+      "category": "他人知识/照护改善过证",
+      "problem": "人物台账把阿苗收到弥娅认可写成她已知，且老工师咳浅喘匀没有病情改善核验。",
+      "source_basis": [
+        "B15终稿143/145/146/148",
+        "138咳深带哨未有改善核证"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "不倒灌未传回评语；老工师咳嗽仍在不认证好转。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/人物状态台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+          "quote": "弥娅认可其记法尚未写传回阿苗"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-013",
+      "severity": "severe",
+      "category": "交割水线误绑他人出墙前提",
+      "problem": "伏笔141—150段将老工师自定水线未交不走，扩成老陈/阿苗出墙共同前提；146已经下一载老陈。",
+      "source_basis": [
+        "B15终稿141/145/146"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "不把其自定交割条件绑作老陈/阿苗出墙前提。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/伏笔与悬念台账.md",
+          "quote": "老工师只对自己设水线未交割不走"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-014",
+      "severity": "moderate",
+      "category": "B13旧卡未吸收已应用事实边界",
+      "problem": "122枕涨挤榫止漏、124脚程/续纸断言、128一年七次、130捂汽八息等与B13初审修订及当前对应工作正文冲突。这里只核相关段落，未全文审读121—130。",
+      "source_basis": [
+        "B13 initial/suggested-edits",
+        "当前122/124/128/130相关段落"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "已撤枕涨挤榫、日期差断近路/有人续纸、128一年七次、130贴汽八息等旧摘要，按实际来源重记。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "渗漏止住但原因未定，不当修复认证"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-015",
+      "severity": "moderate",
+      "category": "旧屋当场五人与全网知情边界",
+      "problem": "资源列124知情五人却用未在场的戊字一替已到场六叔；不得把本章现场五人当整线知情者总数。",
+      "source_basis": [
+        "当前124丁三/六叔到旧屋的相关段落",
+        "128戊字一另有站账自述"
+      ],
+      "status": "closed",
+      "blocking": false,
+      "resolution": "不以未在场戊字一替六叔，也不把现场五人当全网知情总数。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/资源与时间台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+          "quote": "124旧屋当场五人（林渡、林栖、记账员、丁字三、六叔）"
+        }
+      ],
+      "discovery_round": "precheck"
+    },
+    {
+      "id": "R005-resume-WB-016",
+      "category": "130旧日次反向残留",
+      "problem": "150处更正版将130留回D7，与129D8—9、131D10及新补记D10相反；root已确认生成器误匹配，正文不动。",
+      "source_basis": [
+        "当前候选时间线130/129/131",
+        "root确认130D10当日短探"
+      ],
+      "severity": "severe",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "root纠正生成器误回退D7，129D8—9≤130D10≤131D10凉接口闭合。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/事件与地点时间线.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+          "quote": "| 130 | D10晌午探线、当日返 |"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-017",
+      "category": "109伤者守口与攀梯旧摘要相反",
+      "problem": "人物101—110林渡身体仍记109攀梯裂伤，与同文件知识、卡109及当前109槐七探路/林渡守口相反。",
+      "source_basis": [
+        "B11当前109相关段落/initial 026、031",
+        "当前候选卡109"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "撤109攀梯裂伤的虚事件；称谓中性，赠物来源不变。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/人物状态台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+          "quote": "109因伤守上口接回报，未攀梯"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-018",
+      "category": "127册内别号不等系统改籍",
+      "problem": "人物、时间线与章卡仍写改籍/两孩换号新编；实际127保原腕片/系统号和旧行，仅另添本队水账别号，工班抄件待回站核，不是已补平盖章。",
+      "source_basis": [
+        "当前127正文45—49、107—109段",
+        "B13 initial 053—059"
+      ],
+      "severity": "severe",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "127只添本队别号，系统未改籍/盖章；掌裂停笔，工班员代写；带回站核不当已经补平。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "原片/系统号照录不作废，旧领水行保留"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-019",
+      "category": "发热照护避直吹残尾",
+      "problem": "111—120状态已改避直吹，121—130孩子身体栏仍“两个发热挪风口”，同一持续照护口径反向。",
+      "source_basis": [
+        "当前候选人物两个历史截点",
+        "本轮医疗已确认避直吹/保持换气"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "两个历史截点一致，不再把通风写迎风。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/人物状态台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+          "quote": "两个发热者的照护位保持换气、避直吹"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-020",
+      "category": "138口述匣位被写亲眼核实/装备分身",
+      "problem": "人物131—140写亲眼核实两匣、老工师有独立灯，正文138孔外只听工师答、复念记方格且明确未见实物；老工师138咳深带哨也未有改善核证，不该总截点咳浅。",
+      "source_basis": [
+        "当前138全文（本轮再次读）",
+        "B15单灯/口述证据范围"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "不作亲眼看到匣页；咳深带哨未核改善，内侧独立灯不计装备。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/人物状态台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+          "quote": "据老工师隔孔自述记两匣位置/内容"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-021",
+      "category": "123通水日与领料日期/频率摘要",
+      "problem": "事件123仍今天才通水而正文为通水次日；人物和事件把单上十日前一笔变固定十天领。应保124日期统计十天上下，与231旧旬折日区别。",
+      "source_basis": [
+        "当前123通水第二日/昨天才通水/十天前一卷",
+        "124三月七次日期统计"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "通水次日对账不压成当日刚通，123单笔十日前与124日期统计十天上下区分。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/事件与地点时间线.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+          "quote": "对单发现滤件领于通水前一日"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-022",
+      "category": "124已经撤去的三十年推断仍作引句",
+      "problem": "卡124和事件124继续直接引用六叔“管子三十年没人管早锈死”；当前正文已改三十年是本人修管工龄，不是墙年款，并把水路与人员待核。",
+      "source_basis": [
+        "当前124六叔到旧屋及水线图相关段落",
+        "B13 initial036—038"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "撤已删引句，不凭工龄证30年无人/同人照管或水路流向。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "六叔自述修管三十年不作墙年款"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-023",
+      "category": "125窗后身份与126旧料暴露摘要未更新",
+      "problem": "卡125仍写无铁网街坊窗后人在看，实际只见远处闪光不能断身份/铁网；卡126仍孩子分堆匀料，实际成人轻敲装袋，孩子门外隔袋接。",
+      "source_basis": [
+        "当前125 65—75段",
+        "当前126 15段",
+        "B13 initial043—044/046"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "窗闪光不定身份；126成人轻敲装袋，孩子只门外隔袋接。",
+      "current_evidence": [
+        {
+          "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+          "quote": "窗样似民居但铁网/发光者身份未看清"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-024",
+      "category": "130守数/手印/留扣继续过证",
+      "problem": "旧卡129和资源仍两班后数全，实际130只拿三轮/第三班所交的长短范围，不保证汽必准点；手印性别只推测，留扣不等有人接话，旧卡仍将其写实。",
+      "source_basis": [
+        "当前129三轮安排及130 19/41/53/57/73—79段",
+        "B13 initial097/100/104/111"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "不保两班准点；手印性别仅推测，留扣只递意图，不认有人接话。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/资源与时间台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+          "quote": "收齐第三轮/第三班原纸，保留差异按范围观察"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-025",
+      "category": "F16新补记仍称洇字校改",
+      "problem": "历史原行已修洇字暂读待核，R005新补记却仍“洇字校改”，易恢复已改对底单的结果；资源另说老陈背疮待转运后处置也超出正文，仅应记目前仍需照护/优先转运。",
+      "source_basis": [
+        "B15终稿145—149",
+        "本轮已关闭WB009"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "新补记与旧行同口径；老陈背疮照护/加垫不宣称必须延迟到转运后。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/伏笔与悬念台账.md",
+          "quote": "洇字只标读法/疑记、底单日期待核"
+        }
+      ],
+      "discovery_round": "recheck"
+    },
+    {
+      "id": "R005-resume-WB-026",
+      "category": "132—138观测结果与换气方法漏同步",
+      "problem": "新正文132/133不知谁挪镜片，133手背温热不能判风向/量且无布条验向；138停问/让管位/收绳等喘匀。回填多个原行仍称被里头转向、布条进气、湿布半掩孔缓气，与新卡138/正文相反。",
+      "source_basis": [
+        "当前132/133/138实际工作正文",
+        "202版资源/时间线/章卡及新增段"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "镜片变化不定人；133温热体感不判风向/量、无布条验向；138停问/散人/让管绳位，不记已撤湿布换气法。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/资源与时间台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+          "quote": "133见朝向变、谁动及原因未知"
+        }
+      ],
+      "discovery_round": "final_202_byte_audit"
+    },
+    {
+      "id": "R005-resume-WB-027",
+      "category": "139本人回应与代报伤情的分类",
+      "problem": "140终稿本人应3=口应2+敲应1；老陈代报1，空栏另留。人物和139旧摘要仍把老赵敲应写代报，易认本人只2。",
+      "source_basis": [
+        "当前139/140实际核人四行",
+        "202版人物祝衡/139卡/时间线"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "老赵本人敲应与伤情由内侧代报分开，139与140分类一致。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/人物状态台账.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+          "quote": "本人应3：口应2、敲应1；老陈代报1，空栏另留"
+        }
+      ],
+      "discovery_round": "final_202_byte_audit"
+    },
+    {
+      "id": "R005-resume-WB-028",
+      "category": "141—147实际耗时不含翌日计划",
+      "problem": "旧表143从D18起、145耗至D22、147耗至D23将计划的翌日动作当当章实耗；142实际延至夜，144确由当夜筹排到翌凉时卸重，141掌灯后非热时。只缩准回填表不移动正文。",
+      "source_basis": [
+        "B15实际141—149终稿逐章全文",
+        "root最后要求核143/144/145旧宽范围"
+      ],
+      "severity": "moderate",
+      "status": "closed",
+      "blocking": false,
+      "resolution": "143D19拓号，144D19夜筹排→D20卸，145只D21实际，146—147D22转运/交账，148D23夜、149通宵、150D24掌灯；翌日计划不冒入当章实耗。",
+      "current_evidence": [
+        {
+          "path": "异星录/04_连续性管理/事件与地点时间线.md",
+          "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+          "quote": "| 145 | D21凉时至当夜 |"
+        }
+      ],
+      "discovery_round": "final_202_byte_audit"
+    }
+  ],
+  "suggestion_closures": [
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 1,
+      "issue_ids": [
+        "R005-resume-WB-002"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "实际发生：D23隔日夜，弥娅与林渡在棚外水缸边谈D22救出老赵后的副档缺口；阿苗纸抄页洇角，硬档片不洇；林渡自书“预排未问，临场未说明变更，责任在渡”，弥娅当面确认。七天后只是验撑看数的预排，水班先问匣边返潮；共同准备时交换人/匣风险与护纸备选，急救先出不等回信，临时变更回来公开补记。递档三规仍为抄本先行、先问受潮、存疑画圈公开，另记共同征询；弥娅继续接译，阿苗样卷同一卷在手边，无新档案出墙。"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 2,
+      "issue_ids": [
+        "R005-resume-WB-002"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 148 | D23夜 | 5层安置点外 | 弥娅-林渡定共同预排及护纸备选，急救先行不等回信，临时变化公开补记；自书“预排未问，临场未说明变更，责任在渡”折角；递档三规与共同征询分记；弥娅接译 | L3：档案缺口保留 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 3,
+      "issue_ids": [
+        "R005-resume-WB-002"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "与弥娅立共同预排/护纸备选和变更公开规矩，急救不等回信"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 4,
+      "issue_ids": [
+        "R005-resume-WB-002"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "副档缺口在案（暂排七天后验撑看数，不保证开门）"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 5,
+      "issue_ids": [
+        "R005-resume-WB-003"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "实际发生：林栖随轻载核验组下坡（照护交杜姨）；岑野坡口数齐放行、汽打里侧；趁换班由内侧逐件过缝、外侧接牢拓核五件（两撬、四錾中查看两根、锤一；四号一无号），祝衡代持工具，末按原数逐件还入；阿苗递副页样卷给弥娅；仍在墙外垫毡边对号：撬一对垫毡、撬二对麻绳、錾一对滤件第三笔、锤柄对“接续换新”旧写账；写法不定批次年月；第二根被查看的錾是无号光杆，不可仅凭器名配单，画三角挂核；缝上方落碎屑（梁下两砖边缘震动），六叔喊撤、当日停凿重打撑；拓纸四张带回，右手裂口渗改左手；里头问\"拓号的——手怎么样\"。"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 6,
+      "issue_ids": [
+        "R005-resume-WB-003"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "译出“接续换新”老写法，批次及具体年月仍待核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 7,
+      "issue_ids": [
+        "R005-resume-WB-003"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "实际发生：三遍法对账（读号/找单/认主）四件全对（撬一垫毡、撬二麻绳、錾一滤件第三笔、锤柄“接续换新”旧写，年代/批次待核）；三处画圈存疑（錾二号\"回炉的批\"待阿苗核、老单日子空框、签收灰手印\"家里人\"\"没问过，规矩\"）；两份均抄件，洇字只标读法与疑记，原痕留存，底单日期待站核；戊字一站账抄页附言\"养水支名十年前起、起名时账上无人\"；两页并观（系统表整段\"亡\"对养水支每旬进项签收）；老赵石板\"工没停。账没停。停的是名字\"；定核完账当日掌灯棚前公开并贴，拓描底分两处放。"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 8,
+      "issue_ids": [
+        "R005-resume-WB-004"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "北头斜撑现物已朽失，具体年份待核，图与现物不符"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 9,
+      "issue_ids": [
+        "R005-resume-WB-004"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "两根好撑木让墙，由六叔与既有能负重居民两趟抬/逐根立稳，林渡持灯、阿九侧报位、林岑空手；先验楔脚和裂线再卸"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 10,
+      "issue_ids": [
+        "R005-resume-WB-005"
+      ],
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "按册页记名字、工号、近几旬签记；往年旧页仍留簿内待逐页核，145撕交老赵近期个人页，146随他出缝，不凭一页证明三十年"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 11,
+      "issue_ids": [
+        "R005-resume-WB-005"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "老赵近期个人页近几旬灰手印，与系统表对照；往年旧页仍留簿内待核，不由一页证明三十年；145撕交此页，146随人出缝核查"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 12,
+      "issue_ids": [
+        "R005-resume-WB-005"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "145撕交当班簿老赵近期页、146随他出缝、147带到五层"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 13,
+      "issue_ids": [
+        "R005-resume-WB-006"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "阿苗留口内提示，外侧照护者托手按两下/停/两下安老赵（水到之数）"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 14,
+      "issue_ids": [
+        "R005-resume-WB-006"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "汽至先退线内，汽退后逐片塞稳两片防回挤薄撑；两主撑不动，下一次先验主撑/裂线和薄片受力，能撤才撤薄片"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 15,
+      "issue_ids": [
+        "R005-resume-WB-007"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "窄托板半罐沙只试窄边平衡，未验全载；老陈转运前还须逐级试到所承分量，垫层加厚半指"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 16,
+      "issue_ids": [
+        "R005-resume-WB-007"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "半罐沙只试平衡不算全载，载老陈前须逐级试足，板底“窄”字"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 17,
+      "issue_ids": [
+        "R005-resume-WB-008"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "同146一趟转运，三处歇为首落点、坡腰凳/破口同处、五层坡口；破口十来息仅在剩余歇数内，不加第四站；分段手势与数纸交接，唯一灯随队后移入帘内"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 18,
+      "issue_ids": [
+        "R005-resume-WB-008"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 岑野（含麦穗、小石） | 坡口守数；麦穗棚内（湿布帘重分）；小石凿墙班 | 岑野嗓子哑持续；麦穗踝伤；小石手稳（窄托板锯线） | 数纸（双份三栏）、灯杆旧物；同段手势/数纸交接，不隔转角遥报 | \"出/进\"栏随人走；护线哨加一班（150夜起）；账桌物件归数纸管 | 数纸制度扩展到账桌物品 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 19,
+      "issue_ids": [
+        "R005-resume-WB-009"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "抄页洇字标读法/疑记留痕，底单日期待站核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 20,
+      "issue_ids": [
+        "R005-resume-WB-009"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "拓片四张（149D24黎明定今早分两处；实际收条/分持见151）"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 21,
+      "issue_ids": [
+        "R005-resume-WB-009"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "四号相合、三圈挂核、洇字另标读法待底单日期核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 22,
+      "issue_ids": [
+        "R005-resume-WB-009"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "149D24黎明定今早分拓描底两处，实际分持及收条见151"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 23,
+      "issue_ids": [
+        "R005-resume-WB-009"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "无号錾归属、日子空框、签收身份为三圈；洇字另标读法待核底单日期"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 24,
+      "issue_ids": [
+        "R005-resume-WB-009"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 149 | D23夜至D24天亮 | 5层账桌 | 三遍法对账：四件全对、三处画圈（錾二\"回炉的批\"/日子空框/\"家里人\"灰手印）；抄页洇字另标读法/疑记留痕，底单日期待站核；戊字一附言\"起名时账上无人\"；定同日D24掌灯公开并贴 | L3：两份独立记录就位 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 25,
+      "issue_ids": [
+        "R005-resume-WB-010"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "142查见“段门养护”三笔（仍挂待销）"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 26,
+      "issue_ids": [
+        "R005-resume-WB-011"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "师傅号存疑，待本人开口及旧疤/旧事当面对证，不凭掐錾手认名字"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 27,
+      "issue_ids": [
+        "R005-resume-WB-011"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "师傅身份待本人开口、旧疤与旧事当面对证，不凭掐錾手认名"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 28,
+      "issue_ids": [
+        "R005-resume-WB-012"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "阿苗主动送样卷供弥娅看，愿下一载先出老陈；弥娅认可其记法尚未写传回阿苗"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 29,
+      "issue_ids": [
+        "R005-resume-WB-012"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "咳嗽仍在，未有病情改善核证；自定水线未交割不走"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 30,
+      "issue_ids": [
+        "R005-resume-WB-013"
+      ],
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "老工师只对自己设水线未交割不走；老陈下一载、阿苗自愿留记副本分别排，不以前者锁住后两人的撤离"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 31,
+      "issue_ids": [
+        "R005-resume-WB-014"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "第四试档出现槽缝渗水，先减入水观察；渗漏止住但原因未定，不当修复认证；试到第五档后回调既定小流并复验"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 32,
+      "issue_ids": [
+        "R005-resume-WB-014"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "领料到签收日期差两天至四天，含待送/待签未知时间，不当纯脚程；第七张纸较新但来源/是否同批待核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 33,
+      "issue_ids": [
+        "R005-resume-WB-014"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "封存号领料延续十年；已核近三个月七次"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 34,
+      "issue_ids": [
+        "R005-resume-WB-014"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "按当日退路和守数下坡，汽头危险即退既定避位，不靠捂湿布贴汽八息"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 35,
+      "issue_ids": [
+        "R005-resume-WB-014"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "上段供水异常的原因与核查进度"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 36,
+      "issue_ids": [
+        "R005-resume-WB-014"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "领料到签收的单上日期差两天至四天（含待送/待签，不当纯脚程），回执指向五层外围门牌"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 37,
+      "issue_ids": [
+        "R005-resume-WB-014"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "later_same_source_correction_preserves_semantics",
+      "current_quote": "| 124 | D6热时至凉初 | 6层配水旧柜 | 三个月七次领料（滤件3垫毡2麻绳2），间隔十天上下；领料到签收日期差两天至四天，待送/待签未分，不据此断熟路；签收工号属封存名册（四层外段，早年塌方勾名）；六叔区分三十年工龄与墙龄，只据接口养护痕迹建议核水线图；原件留柜抄本随册，知情五人 | L3：150第一前置——持续实际领用 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+      "suggestion_index": 38,
+      "issue_ids": [
+        "R005-resume-WB-015"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "124旧屋当场五人（林渡、林栖、记账员、丁字三、六叔）；“先记不传”。戊字一站账所知另据128自述，不作现场第五人"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 1,
+      "issue_ids": [
+        "R005-resume-WB-017"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "掌伤在102木刺、105签名中反复裂开；109因伤守上口接回报，未攀梯，仍未用盐药"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 2,
+      "issue_ids": [
+        "R005-resume-WB-017"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "短料一截（那名壮汉所赠）"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 3,
+      "issue_ids": [
+        "R005-resume-WB-018"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "原腕片/系统号照录，给重号两孩各加册内水账别号并按手印；“实人十七”对平，系统改籍未发生"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 4,
+      "issue_ids": [
+        "R005-resume-WB-018"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "两孩子原腕片号不变，仅本队水账各添别号并按手印"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 5,
+      "issue_ids": [
+        "R005-resume-WB-018"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "原号与册内别号衔接入册；“在不在”栏十七个“在”"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 6,
+      "issue_ids": [
+        "R005-resume-WB-018"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "本队水账能分开重号两孩，系统号未改、站上注记待核；抱壶孩子对棚规矩适应"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 7,
+      "issue_ids": [
+        "R005-resume-WB-018"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "重号两孩原腕片/系统号不动，只加本队水账别号并按手印"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 8,
+      "issue_ids": [
+        "R005-resume-WB-018"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "实际发生：工班员携系统名册抄件，孩子实名栏空、状态为临时；两孩原腕片号重合，原片/系统号照录不作废，旧领水行保留，仅各添本队册内别号并按手印；工班员记“原号重合，实人两名”，明日带回站核，不等于系统已经更号或盖章。公共册添“在不在”栏点到十七人，工班抄页记“实人十七”；住户提删无名者省水，林栖请其隔日点名，对方自述其子也是临时。林栖掌裂停笔，由工班员代补几行，她口核，灯留账桌。"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 9,
+      "issue_ids": [
+        "R005-resume-WB-019"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "两个发热者的照护位保持换气、避直吹；抱壶孩子夜咳两声"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 10,
+      "issue_ids": [
+        "R005-resume-WB-020"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "据老工师隔孔自述记两匣位置/内容（龛里活账、投料口旧匣；图纸受潮晾过、塌方页在），未目视匣与内页"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 11,
+      "issue_ids": [
+        "R005-resume-WB-020"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "站得住，138咳深带哨，未有好转核证；自述约三十年养水"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 12,
+      "issue_ids": [
+        "R005-resume-WB-020"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "短錾（烙号维字号）、旧怀表样物（老陈的）；未记独立内侧灯，145—146照手位用外侧递入的同一手摇灯"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 13,
+      "issue_ids": [
+        "R005-resume-WB-021"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "对单发现滤件领于通水前一日，不能仅凭未通水就定异常；先查工号/管段/签收；同号十日前另领过垫毡"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 14,
+      "issue_ids": [
+        "R005-resume-WB-021"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "封存工号近三月七次、单上日期间隔十天上下；回执送达点指五层外围未注销门牌"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 15,
+      "issue_ids": [
+        "R005-resume-WB-022"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "六叔自述修管三十年不作墙年款；只据已见接口/换垫痕提示仍有养护，具体流向、人员及持续年数待核水线图/料账"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 16,
+      "issue_ids": [
+        "R005-resume-WB-022"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "六叔区分三十年工龄与墙龄，只据接口养护痕迹建议核水线图"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 17,
+      "issue_ids": [
+        "R005-resume-WB-023"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "远处维护窗闪光，窗样似民居但铁网/发光者身份未看清，不定街坊或排除巡查"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 18,
+      "issue_ids": [
+        "R005-resume-WB-023"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "远处维护窗有一闪，发光者身份/铁网未核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 19,
+      "issue_ids": [
+        "R005-resume-WB-023"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "由能上工成人轻敲旧滤料硬壳并装袋，孩子仅在门外隔袋接手，不徒手翻旧料或处于扬尘中"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 20,
+      "issue_ids": [
+        "R005-resume-WB-024"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "130出发前收齐第三轮及第三班所交原纸，有差异留存，只作长短范围观察"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 21,
+      "issue_ids": [
+        "R005-resume-WB-024"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "130出发前收齐第三轮/第三班原纸，保留差异按范围观察，不作准点安全保证"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 22,
+      "issue_ids": [
+        "R005-resume-WB-024"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "浆泥右手印；大小似成年男性仅为推测，落印者身份和姿态未核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 23,
+      "issue_ids": [
+        "R005-resume-WB-024"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "不取回074祝衡所留旧扣；留件只表递话意图，是否被收及收者均未核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 24,
+      "issue_ids": [
+        "R005-resume-WB-025"
+      ],
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "洇字只标读法/疑记、底单日期待核，不擦原痕"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-recheck-suggested-edits.json",
+      "suggestion_index": 25,
+      "issue_ids": [
+        "R005-resume-WB-025"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "老陈背疮仍为优先转运/加垫照护依据，未记已治或必须等转运后才处置"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 1,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "132留镜片作待核记号，133见朝向变、谁动及原因未知"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 2,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "133取整砖留回填、安排扩孔以传话递物；孔边温热体感不能判持续风向或通风量；里侧口述旧气道通井，完整气路待图核；138咳深停问、散开孔前人并让管位/收开递水绳，等本人喘匀"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 3,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "手背只感温热变化，持续方向/通风量未核，不保证整段安全"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 4,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "L3：气流体感不等风向/通风量已核，仪器仍坏"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 5,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "仅手背感温热变化，风向与量均未判明，不据此保证整段可呼吸"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 6,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "停止问档，孔前人散开、管位和递水绳让开，静等喘匀"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 7,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "133只感到孔边温热气流，持续方向/通风量未核；138停问、散人并让管绳位置，不把这些动作当作空气安全认证"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 8,
+      "issue_ids": [
+        "R005-resume-WB-026"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "A04三扣不按条目算水，气流体感不当风向/通风量已核"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 9,
+      "issue_ids": [
+        "R005-resume-WB-027"
+      ],
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "核人三栏（本人应3：口应2、敲应1；老陈代报1，空栏另留）"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 10,
+      "issue_ids": [
+        "R005-resume-WB-027"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "老赵本人敲应，伤情由内侧代报"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 11,
+      "issue_ids": [
+        "R005-resume-WB-027"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "老赵本人敲应；头部伤/耳背由内侧代报，旧“在，不用管”不抵完整病情核验"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 12,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 141 | D17掌灯后至夜深 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 13,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 142 | D18日间至夜 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 14,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 143 | D19（当日拓号、停凿后返） |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 15,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 144 | D19夜筹排—D20凉时卸重 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 16,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 145 | D21凉时至当夜 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 17,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "| 147 | D22凉时后半至夜 |"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 18,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "D17掌灯后（141）至D24掌灯（150末）"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 19,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "A05批实耗D17掌灯后至D24掌灯"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 20,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "正文实耗D17掌灯后至D24掌灯"
+    },
+    {
+      "source_file": "harness/maintenance/R005/resume-20261109/writeback-final-suggested-edits.json",
+      "suggestion_index": 21,
+      "issue_ids": [
+        "R005-resume-WB-028"
+      ],
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "status": "closed",
+      "check_mode": "exact_after_still_current",
+      "current_quote": "约明日带证词下坡核认，本章尚未写实际交出"
+    }
+  ],
+  "additional_summary_sync": [
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+      "quote": "145D21、146—147D22"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+      "quote": "147D22夜交账"
+    }
+  ],
+  "source_evidence": [
+    {
+      "chapter": 109,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "sha256": "8dd1d469f3d7f9877ec291cb0f42f3b93be203d5943fc0a882086c00e4bb321f",
+      "quote": "四位需托者连原架在平处依次低提半指",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "sha256": "d4ff37d207a301fdf543b952fc8051131ccd468a36842d4a223312bd27d471cd",
+      "quote": "按四趟轮运",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 112,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第112章_梯上没有担架宽.md",
+      "sha256": "b114fc11bce56a6f22bc64c8926a7184801a495ee0730841bddf8640fc2c6edc",
+      "quote": "四块托板在梯口排开",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 115,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第115章_空担架先下.md",
+      "sha256": "99b5c85ca6d2c15f0f4680a437d7a75a439595b2c4297ee25c129e8a5e0b1e43",
+      "quote": "专作沙罐，不再混回饮水容器",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 116,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第116章_只换裂开的那块.md",
+      "sha256": "543f6b2030feab803418c740b4fabe806d7f140406c9612039a0b5a78f3d7167",
+      "quote": "四块检修托板再轮流装同一组试载",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 117,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第117章_谁留在最后一班.md",
+      "sha256": "c7bf21f4d6447d547522783b42d49e7504abdf4729073e56ec505d225b60d8d6",
+      "quote": "这一刻在途栏空着",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 118,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第118章_先接水还是先接人.md",
+      "sha256": "7518a6077da6ebedc94185b96bc3f55f42944ce9a29d33119f9b80b743bc52e0",
+      "quote": "三个人各走自己的短段",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 123,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+      "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3",
+      "quote": "我们修的滤槽昨天才通水",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 124,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第124章_死者领走的滤件.md",
+      "sha256": "a8658ff0349749fef747293aa868415e794461821bb0523da21016d1ab74fbca",
+      "quote": "这是单上两个日期的间隔，不全是脚程",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 127,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+      "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112",
+      "quote": "原片号照录，册内别号自今日区分",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 130,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+      "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df",
+      "quote": "名单四人，每人领两罐，共八罐",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "sha256": "a48b80b8fc5f1bf87fe2aeed842bf9a329e75532e3a666e5a7c9d1bd0cec175a",
+      "quote": "这点体感仍分不清持续朝向",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "sha256": "f23fd98487e1b6fbfae402c5654de88a963068d9b946c9850a02a99df6cee496",
+      "quote": "已经算上昨夜送到的那一对",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "sha256": "084e696b1697ad08a296b465559e55c609d34ad6af0842f1942e04304bf509fb",
+      "quote": "原板归裴七，借行才销",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "sha256": "3789cd810bb753e095e014de22f5b2fcc6b4bbbf294b631429e47a0e3e3c3c0a",
+      "quote": "今日是第三个施工日",
+      "coverage": "relevant passages only"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "b0132d55b258e5b98496a73becda8d7445c89a5782c5317983c2e8e7b9f30408",
+      "quote": "整半瓮移到饮水线之外，隔离、不得饮用",
+      "coverage": "full chapter read"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "19fbf6dafce1b2c983c26dd5e92907049fda705ce56b785d1340e02e263e7c55",
+      "quote": "不拿登记了几笔充作几罐水",
+      "coverage": "full chapter read"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "571d2651514b1834dcde248dfefa923c2fa4f3137f3a2ba729f2a59afd247651",
+      "quote": "若人忽然恶化，就按急救条件先出",
+      "coverage": "full chapter read"
+    }
+  ],
+  "interfaces": [
+    {
+      "interface": "100→101→104",
+      "verdict": "pass",
+      "conclusion": "100长屋壶已耗，104只分丙七既领当班水，缺角瓮隔离，不添旧库存。"
+    },
+    {
+      "interface": "109—110→112—116",
+      "verdict": "pass",
+      "conclusion": "同一好架四趟与后续七拐梯的四托板分段；机械秤/提绳109借还、115再借116还；16试沙罐及破角原号借损未虚还，毡裁耗记原借。"
+    },
+    {
+      "interface": "130→131→140→145",
+      "verdict": "pass",
+      "conclusion": "130D10短探返后131D10凉立路，132D10夜—11晨，140D15起到D17第三日，145D21为第七日。"
+    },
+    {
+      "interface": "136→137→140",
+      "verdict": "pass",
+      "conclusion": "D13四滤班已含136一对；D15实耗回报未齐不折五天，D17暗补两班实交另行，七日仅预排。"
+    },
+    {
+      "interface": "141—150→151",
+      "verdict": "pass",
+      "conclusion": "145D21验人，146/147D22出缝入棚夜交账，148D23夜谈，149至D24黎明同日公开，151D25议纸；老赵已出/内余三口、每日水线照走；污染半瓮未冒充后续可饮库存。"
+    },
+    {
+      "interface": "48登记→49/53暂份",
+      "verdict": "pass",
+      "conclusion": "登记条目/暂计份与全队实人分栏，儿童17已核、4需托为既有人物，新增老赵一行不销066/095；后续53不是全队普查人口。"
+    },
+    {
+      "interface": "142/150→174/187/188",
+      "verdict": "pass",
+      "conclusion": "30年前16岁外封、16年前本地点火、10年前递单分别核；不重启旧C02，不据工龄/手印认全墙年代。"
+    },
+    {
+      "interface": "未来正文保护",
+      "verdict": "pass_with_scope_limit",
+      "conclusion": "151及后续仅核已读实际依赖；未将400/D320当前状态倒灌，不改导航。251旧相对日期依赖仍保原登记，未在R005扩改。"
+    }
+  ],
+  "unresolved_issues": [],
+  "manifest_changes": 223,
+  "review_method": "8份候选相关原行/新增段完整核对，两轮63建议及末21建议逐条映射当前语义；最终差异再核，8份与manifest SHA相符，50稿SHA与5组独立事实/追读终稿相符。",
+  "scope_note": "本报告只签223处更正+8段R005回填候选的一致性，不冒签全400章全文或篡改旧审读历史。候选再变须重核相应差异和SHA。",
+  "no_manuscript_or_ledger_changed_by_reviewer": true,
+  "publication_note": "可将这8份已审候选按同一字节正式回填；发布与verify-repair仍由主笔执行，未在本报告冒称已发布。"
+}

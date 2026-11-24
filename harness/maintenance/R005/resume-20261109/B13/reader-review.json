@@ -1,0 +1,484 @@
+{
+  "batch": "R005-resume-B13",
+  "reviewer": "/root/review_221_240",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 121,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+      "sha256": "8c3a5b59b9efb779a7a78358dc9efe980ef54c6865f1409774ca0588df9381d9"
+    },
+    {
+      "chapter": 122,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+      "sha256": "afd39152bfc2a7691a12c6cb6b7cdfcbe9abcacc8fab50f63f10814869a16526"
+    },
+    {
+      "chapter": 123,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+      "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+    },
+    {
+      "chapter": 124,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第124章_死者领走的滤件.md",
+      "sha256": "a8658ff0349749fef747293aa868415e794461821bb0523da21016d1ab74fbca"
+    },
+    {
+      "chapter": 125,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第125章_旧门牌没有注销.md",
+      "sha256": "7c9ab15c34f3aa1810bb5fa3d09885f34bf83f011188f66819be7027b3b84af9"
+    },
+    {
+      "chapter": 126,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+      "sha256": "e76a8b81e8b787d9ece86c6ee9aa7fa3b106da055eb7667b8ff0a5bb9c7e4d76"
+    },
+    {
+      "chapter": 127,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+      "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112"
+    },
+    {
+      "chapter": 128,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+      "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+    },
+    {
+      "chapter": 129,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+      "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+    },
+    {
+      "chapter": 130,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+      "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+    }
+  ],
+  "source_digest": "73bb7c41065bb2c7359daa202964a5a217ef9dd4013eb379d98f123bdfa6efdd",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 121,
+      "quote": "五层外缘配水站的门，比六层那扇高，也比它旧。林渡带着见证账来，丁字三昨日又描粗了一格下降的水压；若这一趟谈不下抢修，六层借住的人今天还得再减水。",
+      "reason": "供水继续下降迫使今天谈抢修，开门前已见后果。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 121,
+      "quote": "“一笔。”林渡说，“滤槽这一笔。修好了，水通了，我们再议下一笔。我不替你们担保整条线——担保得有人、有料、有工夫，三样我都得先数一数再应。应了做不到，比不应还坏。”",
+      "reason": "只接能数清的一笔，对组织承诺承担责任。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 121,
+      "quote": "“支路一通，六层的水按班下，落点的份额照你们的人头重排。”戊字一说到这里，笔尖在纸上点了两下，“还有一样——五层外缘有口旧棚，原先堆滤料的，早不用了。给你们安人。棚旧，漏，修棚算你们自己的活，不算我们的账。丑话也在前头：棚给你们，是给你们住的，不是给你们占的。往后工班要用，得还。”",
+      "reason": "争得轮值出料/指导与借棚，有返还和自修条件。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 121,
+      "quote": "戊字一低头看名字，看完，手指离开纸面：“账是实的。”",
+      "reason": "实账获得当班者承认，外来者暂有谈判位置。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 121,
+      "quote": "“先保水，”他说，“再查别的。”\n",
+      "reason": "主槽支路仍等人，下一章要把维修兑现。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 122,
+      "quote": "次日，轮值的第一班从拆板开始。",
+      "reason": "首班直接拆板，修棚/救水争同一材料。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 122,
+      "quote": "“滤槽通了水，五层的棚才有得住。”林渡说，“板子先用两块，留两块修棚。换下来的旧枕已经糟了，不往顶上补。还缺哪处，等看了棚再排，不能拿腐木顶孩子头上。”",
+      "reason": "优先救水而少修棚料，选择有可见代价。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 122,
+      "quote": "支路末端的丁字三处传话上来：出水了，比昨日亮。",
+      "reason": "歪槽修正后末端有可见出水改善，未冒认证可饮。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 122,
+      "quote": "传话的是短接力的信使，话传到作业面的时候，已经被转了三道手，可“比昨日亮”四个字一点没走样。正楔着最后一根枕的居民直起腰，抹了把脸上的灰，笑了——四十天的堵，今天通了水，水还是亮的。",
+      "reason": "工班有限胜利通过人当场笑和末端回信兑现。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 122,
+      "quote": "小流养着。主槽的问题查清之前，那道粉笔线不能越。\n",
+      "reason": "主槽未核，小流线须持续守，追读有具体工程限制。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 123,
+      "quote": "支路通水的第二日，交水处排班。",
+      "reason": "通水不等够分，立刻排班和减份。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 123,
+      "quote": "减份的顺序，林渡定的规矩是从他自己减起。他把册子翻到自己那一行，提笔把份额划掉一格。",
+      "reason": "领队先减，促工班共同承担而非只压受助者。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 123,
+      "quote": "“这不是第一次。”林渡说，“这个号在领料，一直有人在领。领的还都是耗材——滤件、垫毡、麻绳，都是养水的活计用的。”",
+      "reason": "供水账转出连续匿名领料，调查目标变化。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 123,
+      "quote": "“我也在里头。”他说，“从今天起，我跟你们喝一个管的水。”",
+      "reason": "工班也减份，关系有具体共同损失。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 123,
+      "quote": "“旧柜在前头。”记账员说，“跟我来。”",
+      "reason": "钥匙已交、旧柜可查，下一章进入明确地点取证。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 124,
+      "quote": "配水旧柜在支路末端的一间旧屋里，锁是老式的，钥匙插进去要顶两下才开。",
+      "reason": "承上查柜，不用背景拖延现有异常。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 124,
+      "quote": "“这条线先不声张。”林渡说，“偷不偷，先不问。要问的是：封存名册上的人，要是还活着，在哪儿领的料，料送到了哪儿，谁来签收。”",
+      "reason": "选择只抄原件保柜、保护未知收料人。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 124,
+      "quote": "“有回执。”他把回执抽出来，“这批滤件，签收了。”",
+      "reason": "出现签收和门牌，匿名领料有可追去向。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 124,
+      "quote": "这句话让屋里又静了一层。林栖的炭笔悬在纸上，落下去的却只有一行：养的谁的水，账上无名。",
+      "reason": "劳动者可能受惠而无名的代价击中人物，仍待核。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 124,
+      "quote": "走到门边，记账员又停了一步，问了一句，声音很轻：“要是墙里头真有人——这十年的料，算谁欠谁的？”",
+      "reason": "账后责任成为可追问的人与制度问题。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 125,
+      "quote": "去五层外围的小队，四个人：林渡、祝衡、槐七、岑野。",
+      "reason": "四人探线承接门牌回执，水从已领扣。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 125,
+      "quote": "“不敲。”槐七拦在前头，“门禁封着的街，我们四个人站在一户人家门口——巡查来了，跑不掉；里头的人看见了，以为我们是清场的。门后若有人，没准也在听我们的脚步。”",
+      "reason": "保护门后未知人并先安置自身群体。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 125,
+      "quote": "“牌面有人擦过，钉也像换过。”祝衡说，“至少说明近期有人照应这处门牌。是住户、递料人还是替人看门的，先不认。”",
+      "reason": "确认近期人迹但不抢认住户身份。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 125,
+      "quote": "“门牌不会跑。”林渡说，“可我们的人还挤在六层落点，孩子的睡位是借的。线等得起，人等不起。”",
+      "reason": "信息诱惑让位孩子睡位，人物优先级可信。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 125,
+      "quote": "“先安人，”他说，“再敲门。”\n",
+      "reason": "门牌未解但下一步搬棚明确，选择造成延后。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 126,
+      "quote": "次日去安置，五层外缘的旧棚，比远看的大，也比远看的破。",
+      "reason": "承上择安置，破棚漏点立即变阻碍。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 126,
+      "quote": "修棚的活排进轮值。林渡把人分了三摊：修棚的一摊，搬家的护送一摊，六层落点收尾一摊——三摊不能断，哪一摊都要人。排班的时候他数了两遍人头，数完在册页边上写了一行：三摊活，两处水，人只一批——轮值的班，谁歇谁顶，不许空。",
+      "reason": "有限人手分修棚/护送/收尾并明确交接。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 126,
+      "quote": "两路错开，谁也没等谁。最后一桶水倒入棚口的缸，末批托板进门，杜姨在支账上把两笔都划了，划完抬头看了一眼棚顶——三处漏点，两处已经糊上了灰泥，最大那处的滴水声还在，慢了，稀了。",
+      "reason": "迁位实际完成，4板/七批/七层支账不同范围闭合。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 126,
+      "quote": "“比巡查所强。”他最后说，“巡查所有门，有锁，有册子。这棚没有。可巡查所里的人各想各的，这棚里的人想的是同一口水。”",
+      "reason": "借棚并不舒适，群体仍有主动共同生活的回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 126,
+      "quote": "棚外，五层外缘的街面安安静静。那块没人注销的门牌在两条街外，夜色里看不见——可林渡知道它在哪儿，门楣干净。\n",
+      "reason": "安置后回到前线索，目标延迟有新行动基础。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 127,
+      "quote": "“系统表上，孩子的号挂在临时安置项下，状态是‘临时’。”工班员说，“戊字一让我把这一栏抄给你们，你们的册上有什么，就照什么对。”",
+      "reason": "空栏/临时身份直接威胁实际分水，不只是册子术语。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 127,
+      "quote": "“那就好。”林栖把这一页推过去，“可我要在册子上添一栏。”",
+      "reason": "林栖为实人在场立栏，只分内账不伪系统授权。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 127,
+      "quote": "工班员在对面看着，看了很久，忽然把自己的抄件翻到孩子那一栏，提笔在那栏的页眉上添了四个字：实人十七。",
+      "reason": "十七儿童当面应到，改变双方抄件。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 127,
+      "quote": "“这行是我。”他说。",
+      "reason": "孩子主动认行是现场情绪回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 127,
+      "quote": "林栖收好公共册，将两名孩子的对应行夹在今日页内。工班员带走抄件，明日交戊字一核；本队仍照这页点名发水，不等于对方已经盖章。她借灯最后看清原片号、册内别号和衔接旧行的日期，便停下摇柄。光暗后，她将灯留在账桌上，没有带回铺位。",
+      "reason": "站方是否认可待次日，棚内先按实人不断水。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 128,
+      "quote": "翌日热时，林渡和林栖去了五层工班的小药柜。柜子挂在配水站里间的墙上，柜门上挂着一块小木牌：用时登记，用后归还。",
+      "reason": "药柜只有2包而需求5包，短缺当场可见。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 128,
+      "quote": "林渡接话：“他捆好的料一件一件验结，过磅和搬码仍归你们成人。坏的是绳结，就当场拆开重捆；料本来就坏，不算他赔。中途伤手停工，已经验过的件数留下，不拿后头没做的抹掉。”",
+      "reason": "林渡以可验劳动为小石争取入工、限定赔责和伤手停工。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 128,
+      "quote": "“一个人做两日，会捆料、认绳结就行。”戊字一说，“先去一日，验过再续第二日；每日做完记已做，没做的记待做。药柜能给多少，罗头儿得回条，我们不能先替他许齐。”她看向小石：“你捆桶的手法，我上回瞧见过。”",
+      "reason": "工日/首条/验工/未交药分明，借绳另有实物到手。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 128,
+      "quote": "“册上没有名字的孩子，昨夜对着你们抄件点了十七个。”他说，“今天一早，水照发。怎么轮到我，就不一样了？”",
+      "reason": "少年以十七实人水账反问门槛，有争取资格的回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 128,
+      "quote": "她朝里间簿子偏头：“那号十年领料都记在‘待销’，没有一笔按人名销。那是账法，不等于每件料今天都没用完，也不能凭这一栏证明领料人还活着。你们若找着去处，得把单、回执和实物分别对。”",
+      "reason": "待销与匿名线长期有因，药未交又留现实任务。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 129,
+      "quote": "当天凉时，林渡来问去四层的路，槐七只肯指到转角。",
+      "reason": "探坡目标清楚，带路者只到转角即生阻碍。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 129,
+      "quote": "“我不问册子。”祝衡说，“我只问一句：这条坡，无面的人还走不走？”",
+      "reason": "不索能暴露家属的名册，改问当前这段能核的路。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 129,
+      "quote": "祝衡把册子摊开，画了三栏空表：来几息、退几息、歇几息——数还没有，栏先立好，守数的人每班来填。",
+      "reason": "热汽分项守数落行动与代价，嗓伤仍在。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 129,
+      "quote": "“两个人轮。”林渡说，“你和一名歇过的居民搭班，小石要去验工，不抽他。每班两个时辰，分着数来、退、歇，各记三轮。两人的数不合就再看，把长短都留着，不能为了合出一个准数抹掉差别。每班交纸，数够也只是观察，不是准许冒汽下去。”",
+      "reason": "领队不把岑野牺牲合理化，轮岗使信任具体。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 129,
+      "quote": "“这一行先搁着。”他说，“等封墙那头见了人，再对号。”\n",
+      "reason": "旧验记/料去向留下可追问对象，下一步数够再议下坡。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 130,
+      "quote": "探查小队的人选，是夜里定下的。",
+      "reason": "核心人员分配与守棚责任承压，不是无代价组队。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 130,
+      "quote": "出发当日晌午，林渡把原拟三日的探查纸交给杜姨，先划去隔日回报两项：“改了，只到看得见的封墙，不往后探，今日入夜前回来。”名单四人，每人领两罐，共八罐，从各自已领份扣；干粮也从自份匀。若今日到时未回，先派接应，再议失联。原三日方案留作未执行，不把没走的两日写成实耗。",
+      "reason": "三日方案主动缩成四人当日短探，留接应/水余量。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 130,
+      "quote": "林渡把册子摊开，添上今天的最后一行：四层封墙一面，浆泥两层，补法相似、施补者待核；外段封存，牌字“勿启”；路，止于墙。写完他把笔搁下，把今天在墙前没有答的那个问题，原样抄在了下一页的页首——料是怎么进去的。",
+      "reason": "墙封/两层浆泥/料如何进形成新的已见线索。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 130,
+      "quote": "验工归来的小石在棚口先交了回条，请林栖将已做的两个工日与未实交的药分栏记下，才走到账桌边听探路的事。林渡照约从头念新记录，没漏掉墙上两层浆泥仍待核是谁补的。",
+      "reason": "兑现给留棚小石完整讲见闻的约定。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 130,
+      "quote": "“领料单上，那个号还在十天一领。”林渡把册子合上，“料从配水旧柜出来，送到五层外围那户有人擦门牌的门牌底下。人要是被封在这面墙里头——料是怎么进去的？”",
+      "reason": "封墙与持续领料矛盾具体，立路/联系由此驱动。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 126,
+      "quote": "两路错开，谁也没等谁。最后一桶水倒入棚口的缸，末批托板进门，杜姨在支账上把两笔都划了，划完抬头看了一眼棚顶——三处漏点，两处已经糊上了灰泥，最大那处的滴水声还在，慢了，稀了。",
+      "reason": "121只接一笔换水/借棚，122通小流、126实搬棚兑现；材料短缺、挤睡和轮班代价仍在。",
+      "verdict": "pass",
+      "action": "保留供水与借住边界。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 130,
+      "quote": "“领料单上，那个号还在十天一领。”林渡把册子合上，“料从配水旧柜出来，送到五层外围那户有人擦门牌的门牌底下。人要是被封在这面墙里头——料是怎么进去的？”",
+      "reason": "水账/抢修升级为匿名养护与封墙；不是重复修管，查线令有限人手与物权付新代价。",
+      "verdict": "pass",
+      "action": "后批沿立路与联系推进，不预支墙后身份。"
+    }
+  ],
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "verdict": "pass",
+  "reading_order": "body first; full revised manuscript reread; bounded recheck after writer applied edits",
+  "scope": "实际本组十章，未签全50章"
+}

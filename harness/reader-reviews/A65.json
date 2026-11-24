@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root A65",
+  "reviewer": "独立读者组 /root/reader_west（741—745）与 /root/reader_east（746—750及篇章）",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 741,
+      "path": "异星录/06_执行计划/工作区/A65/第741章_早到的一盆热水.md",
+      "sha256": "6c3a3357f71a199ccb43f64f2e12b383adad3ccbce334a1b6f4cc751efe4c3a1"
+    },
+    {
+      "chapter": 742,
+      "path": "异星录/06_执行计划/工作区/A65/第742章_海还在接热.md",
+      "sha256": "150aeef85e07f0493c8728b44686ecf3cd00ff69cfc63c5e611a7b0ce3b61e07"
+    },
+    {
+      "chapter": 743,
+      "path": "异星录/06_执行计划/工作区/A65/第743章_空屋里有人等.md",
+      "sha256": "a58f94068b441b6a9e8ca3336f2825433ba294d682870b3a741d6e05fc5a6dd4"
+    },
+    {
+      "chapter": 744,
+      "path": "异星录/06_执行计划/工作区/A65/第744章_三次过不去.md",
+      "sha256": "b266de3002fe000f8094310c8586cb5208ad8233cc4d564c3be2a66f02fd6ec5"
+    },
+    {
+      "chapter": 745,
+      "path": "异星录/06_执行计划/工作区/A65/第745章_能走上去的地方.md",
+      "sha256": "5f00bd869b7d48d8e87f754438894ef328183ccae63aef41c9b21469ba9ab566"
+    },
+    {
+      "chapter": 746,
+      "path": "异星录/06_执行计划/工作区/A65/第746章_量好才借水.md",
+      "sha256": "ca5672ecc6622a61156d935246029638d29e1b7469bca3247d0d686492c672a7"
+    },
+    {
+      "chapter": 747,
+      "path": "异星录/06_执行计划/工作区/A65/第747章_合图的第一趟.md",
+      "sha256": "31d5e76782414ace326caf9c69df6428e495383812dd9df7c83ec9e0fb47abcb"
+    },
+    {
+      "chapter": 748,
+      "path": "异星录/06_执行计划/工作区/A65/第748章_水过了停线.md",
+      "sha256": "01ba4f400a449536a50c58d5629595407b8b40509d9a0425c89168b11dfc2afd"
+    },
+    {
+      "chapter": 749,
+      "path": "异星录/06_执行计划/工作区/A65/第749章_谁去守第二口.md",
+      "sha256": "d87da8127e0320a0a39c05d2b70eb561ac8409fc5d347f28158b4d9837ad0b74"
+    },
+    {
+      "chapter": 750,
+      "path": "异星录/06_执行计划/工作区/A65/第750章_把复原从图上划掉.md",
+      "sha256": "c7c5560843fa258533bc3e487342cb3553abd35e75391c071f4c897430607665"
+    }
+  ],
+  "source_digest": "c3245a4c3970d70a140e6733c28a0c0b8ba9e5dbe482fb791246751fcdf13dfe",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 741,
+      "quote": "沿岸旧图画到这时候水就该凉了",
+      "reason": "旧图的窗口到了，眼前的水还温，想拿水给听众看的年轻人当场带出矛盾。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 741,
+      "quote": "是否有人在没有海水倒灌的地方连看过几日",
+      "reason": "弥娅主动跳出沿岸和武器邻近点的旧范围，从来处追到另可对照的山后井。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 741,
+      "quote": "两边临近低潮的筒读都没降到各自旧表的冷格",
+      "reason": "两闸独立实测都比各自的旧表暖；一盆局地水的异样已经有更强证据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 741,
+      "quote": "这一回凉潮到了，水没有转冷",
+      "reason": "孩子原先衣鞋所依赖的通行窗口失效，母亲现场找布垫脚，把数字的代价落到具体一户。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 741,
+      "quote": "墙挂上还有一页在武器出现之前就已登记过黑汽",
+      "reason": "尚无武器时已出现黑汽，让人追问热还有什么来源，而非再等一张测记。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 742,
+      "quote": "“要是已经关了，谁在底下烧？”",
+      "reason": "烫伤者开头就逼问热的来处，双方互骂显示答错要付出的信任代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 742,
+      "quote": "温水源无法关，危险出水路可以另改，眼下先别踩原来两阶",
+      "reason": "弥娅让两个来源的公开记录各接实际行动，把热因解释用于改低沟脚位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 742,
+      "quote": "海底地热带沿几处热井相继活跃，岩下的新热把水送进海里",
+      "reason": "自然热与旧阀见证的追加转热各有出处，过早说一关就凉的假设失效。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 742,
+      "quote": "我答得太快。你今天不用再回沟口等下一潮。",
+      "reason": "她承认先前的证据太近太窄，让这位着急的人知道无需再次涉险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 742,
+      "quote": "离那两阶最近住着几户，林渡上来以前先得有人去逐门叫",
+      "reason": "解释已改变撤离计划，下一章需找到仍在住的人和可接近的门。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 743,
+      "quote": "就看见有人在他面前把一扇门记作了空屋",
+      "reason": "林渡带伤抵五层即见一条可能改写安置的记录，既直观又紧接逐门叫人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 743,
+      "quote": "他今天不会要求人踩回去证原号",
+      "reason": "林渡选从背口按实际在住核对，把放出的路况与受护个人资料分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 743,
+      "quote": "写字人划掉空屋，仍让那两个字依稀看得出",
+      "reason": "人实际还在住留作可复核事实，旧门为什么误记也能事后查清。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 743,
+      "quote": "我要知道人哪天能躺到那里",
+      "reason": "成年女儿把迁居落到老人的卧处，柜子进退的担忧使照护压力具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 743,
+      "quote": "林渡要让他先听这一户人能不能从自己的门里出来",
+      "reason": "旧空户账在次日可以拿住户实际退路检验，来场有可争的具体事实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 744,
+      "quote": "“这条巷空过。我要留这一句。”",
+      "reason": "巡工当场坚持看过的旧门；女住者可认另一面，让听证从实际分歧起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 744,
+      "quote": "“我父亲林岑参与的是栈城这一次。”",
+      "reason": "儿子当众认点火责任并区分守桥与续封，没有让混用的时间账替家人开脱。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 744,
+      "quote": "按水越石脚、连桥撤人、半城落水的次序只念出与本地事故相关的三笔",
+      "reason": "当前水灾拿到独立实录，与两岸早封、本地点火分别有可核材料。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 744,
+      "quote": "只要求不要连着她目前借住的门口一起念出来",
+      "reason": "女住者自认曾为保水把别人赶开，也能决定眼下住处应当被保护，责任变成个人愿署的实话。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 744,
+      "quote": "他得先带那人到昨天的背口，看一只贴着墙的湿鞋",
+      "reason": "次章的迁居得从确有人住和走得出去的地方开始，旧册已经不能替现实决定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 745,
+      "quote": "两户人都曾从海边搬上来，如今又把席卷到了门口",
+      "reason": "搬过一次的人还要卷席，开头可见重复迁居的急迫和损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 745,
+      "quote": "林渡要他先从现住与可通的位置起记",
+      "reason": "林渡让路线、实际承载和现住者先落纸，熟工的身分与旧号不能替代。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 745,
+      "quote": "半间旧屋实际接了老人和女儿的小包",
+      "reason": "保护承诺现有落脚处，两户分别入住，短借与接力人手也写清。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 745,
+      "quote": "先摸到妻子当年缝在席边的结",
+      "reason": "老人触到留下的旧物，然后自己决定还能跨哪一段，搬迁仍显出人的选择与牵挂。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 745,
+      "quote": "多留一个人在干廊期间，是谁来替靠山那一折说退路",
+      "reason": "下一场小试将与迁居照看争实际工时，读者能追问怎样调人而不丢掉眼下退路。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 746,
+      "criterion": "opening_pressure",
+      "quote": "“这碗得挪开。”林渡听见六层库工说",
+      "reason": "本来用来接净水的石台上出现检修碗，库工当场阻拦，接水孩子在下方把技术边界变成眼前的冲突。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 746,
+      "criterion": "protagonist_choice",
+      "quote": "叫人把试具各自的搬移顺序跟着放进检修侧",
+      "reason": "林渡在桌面空间更宽的情况下仍把器具和搬运次序送回检修侧，保住领水途径；核心到期也不代签。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 746,
+      "criterion": "visible_change",
+      "quote": "两条铜槽的槽壁把浴水和试流隔开。",
+      "reason": "试验从抽象的旧图疑问变成两个等长、同热浴并各自回收的实物小槽，六壶和岗位都有来源，下一轮可只换入口档。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 746,
+      "criterion": "emotional_payoff",
+      "quote": "女孩正将空壶挪到墙脚，会从那里接水回街。",
+      "reason": "下方还有个提空壶的女孩，库工让领她的人照原有的干栏走，读者看到危险隔离保护的是仍在发生的日常。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 746,
+      "criterion": "next_question",
+      "quote": "旁边这些人能不能听清自己说“停”。",
+      "reason": "局部试验马上要开始，第一件待证的事不是通水，而是出事时命令能否传到入口。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 747,
+      "criterion": "opening_pressure",
+      "quote": "壶还没碰到槽，盘尾的人先喊了一声停。",
+      "reason": "真停发生在未倒水之前，读者立即跟着那只抬起的鞋，理解箱角的退路风险。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 747,
+      "criterion": "protagonist_choice",
+      "quote": "林渡让原本一心记温的人挪半步，替门口接“停”",
+      "reason": "他把站位从哪里方便看改成哪里能听停，并实际应对棚外只能听见尾字的问题。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 747,
+      "criterion": "visible_change",
+      "quote": "盘尾人报两次都能在划定范围接水，外箱底也干。",
+      "reason": "有旧冷档对照，而且外箱实干，读者知道这个结果只涉及两条小槽与该次输入。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 747,
+      "criterion": "emotional_payoff",
+      "quote": "一条好消息要比一壶水提得还慢",
+      "reason": "听客担忧迟迟得不到通行消息，却自己走一遍箱角，亲自理解为什么连未出水的停也该记。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 747,
+      "criterion": "next_question",
+      "quote": "明日要从现在岸边的暖格开始，支撑、用水量和漏刻照旧。",
+      "reason": "读者明确知道下一章只移哪一项，从哪里能够看出旧图成立的前提是否仍在。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 748,
+      "criterion": "opening_pressure",
+      "quote": "水壶从槽眼前抬开，最后那截薄水从罩窗流过去，进了接盘。",
+      "reason": "试水在未满整漏时被叫停，余水仍回盘，把变化和安全动作同时摆到眼前。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 748,
+      "criterion": "protagonist_choice",
+      "quote": "较暖入口那页放上面",
+      "reason": "林渡主动先发失败与停试，再一并发昨日对照，争取在误告扩散之前护住真正会走低路的人。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 748,
+      "criterion": "visible_change",
+      "quote": "另一只筒当时没过线，入口却照约两路一起停，剩下半段无可读结果。",
+      "reason": "较暖输入已让左槽过界，两槽总停与右槽仍未读完分别落纸，旧图不足以照搬，试验没有靠延做扩充结论。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 748,
+      "criterion": "emotional_payoff",
+      "quote": "真要贴失败，能不能把旧图的名字留下。",
+      "reason": "老工可以保留师傅在旧图上的贡献，也签下亲见的失败，技艺的传承与纠错在同一个人身上成立。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 748,
+      "criterion": "next_question",
+      "quote": "停在内侧时，还有没有路把该退出的人领回去。",
+      "reason": "下一章要从错误热量预测转入能否设计短段、自停并安全撤人的现场。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 749,
+      "criterion": "opening_pressure",
+      "quote": "林渡一眼就看出同一个人被叫去看两道出口。",
+      "reason": "缺岗以同一姓名及一处看不到另一处的空间阻挡开章，问题从水温转成谁真能守住。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 749,
+      "criterion": "protagonist_choice",
+      "quote": "林渡让他先刮掉第二段和第一段同日开张那一栏",
+      "reason": "林渡让工期服从人手与实守能力，同时重新分出住户退路、当地工班和两岸回问。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 749,
+      "criterion": "visible_change",
+      "quote": "首遍入口工只举壶，不许倾水；见预定那句回话不来，便把水壶收了。两个盘仍干着。",
+      "reason": "故意缺失回令时发动不了；复位小量演示后第二口仍未通，模型与原两段并开日程都变了。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 749,
+      "criterion": "emotional_payoff",
+      "quote": "弥娅看见后用小匣垫住裁开的边，没有替他把两段又拼回整图。",
+      "reason": "两人共同忍受延期，保持真正能分开撤退的折页。给伤肩下的日程决定一个可见的形状。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 749,
+      "criterion": "next_question",
+      "quote": "再问谁愿意听他亲口删掉曾许的复原线。",
+      "reason": "工程失败即将从值桌描述变为林渡面对真实居民撤诺，下一章会问他具体删哪条。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 750,
+      "criterion": "opening_pressure",
+      "quote": "外面有人抱着自家拆下来的门把手",
+      "reason": "一位居民还想装回门，把能否复原从抽象政策变成听证结束后可追问的生活事实。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 750,
+      "criterion": "protagonist_choice",
+      "quote": "也足够叫他将原以为过几潮能回的两折先划掉",
+      "reason": "林渡承认早期复原线画过无人实答的住处，当场撤去许诺，不拿旧图、旧部件和多数人的急迫授权开活闸。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 750,
+      "criterion": "visible_change",
+      "quote": "将实际送达的一户落在扩迁页下，然后把第二口开动的格留空。",
+      "reason": "从纸上想回旧屋，变成一家实际住进新地而另一家仍待走；分段计划有住户实况也明确没有上闸。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 750,
+      "criterion": "emotional_payoff",
+      "quote": "女人将铁把手搁在窗里靠墙的一块干木上，没有急着钉到临借屋门上。",
+      "reason": "她愿先安顿并替下一户问过槛，但旧屋和门把手仍有归处问题，承诺的损失没有被新住位盖掉。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 750,
+      "criterion": "next_question",
+      "quote": "再分别经实有传递渠道互核返回的签",
+      "reason": "下一篇要找到一个真能听令、看见退脚并能互核事实的海边首段，纸上共管还须变成实际动作。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 750,
+      "criterion": "promise_payoff",
+      "quote": "旧入口的成功和暖入口的停止正好是一高一低。",
+      "reason": "742用两岸自然点、旧日面年序与停机后回热交代关武器以后仍暖的两条证据链；744把旧封锁、坠城日和当下灾变分开，当事人也说明制度怎样把真住户划成空位。747–748按同一小样实比，750两张原结果一起公开，引出不照旧图和实际扩迁。阶段承诺兑现，未解决的真实海岸排热量留到分段验证。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 750,
+      "criterion": "progressive_stakes",
+      "quote": "这里原来有人，你们那时记成没有人。今天要是每一处先派两岗看着，我们靠哪几双手？",
+      "reason": "从742该不该等一潮，到744历史上谁被空户处理，745保护实住者；746–748把风险变成可停的热试，749把面积扩大受到谁能实守限制具体化，750延工、放弃复原日并且又有住户得搬。工程升级让更多人承担不同代价，下一篇只能分段先问当地如何停。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

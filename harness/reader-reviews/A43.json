@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root",
+  "reviewer": "/root/reader_a41",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 521,
+      "path": "异星录/06_执行计划/工作区/A43/第521章_问到哪一道栏.md",
+      "sha256": "15cda824f244ce82e2a877bed2ce5ac98dc9e987141594597aafbcc08745da0e"
+    },
+    {
+      "chapter": 522,
+      "path": "异星录/06_执行计划/工作区/A43/第522章_图上留一个缺口.md",
+      "sha256": "87dab3b4c51475c6fe95c87efb9bbb37a024eacd9bafa9cbfe8b802a995f3af7"
+    },
+    {
+      "chapter": 523,
+      "path": "异星录/06_执行计划/工作区/A43/第523章_给回头留一面水.md",
+      "sha256": "58fca625fcc2ed7423588c7eeb220822da50a4d89df07537a5556a52a857d9cb"
+    },
+    {
+      "chapter": 524,
+      "path": "异星录/06_执行计划/工作区/A43/第524章_把退路还给船上.md",
+      "sha256": "2ae293cc466f1310a2e985ddfd0be108a94d6b47af312372ba9e5ca64dc910d9"
+    },
+    {
+      "chapter": 525,
+      "path": "异星录/06_执行计划/工作区/A43/第525章_旧槽伸进新板下面.md",
+      "sha256": "b63b144ea77f0b46a85e495302acbd3a0ba20f29013ae0a5d09c35e831d7482a"
+    },
+    {
+      "chapter": 526,
+      "path": "异星录/06_执行计划/工作区/A43/第526章_轮子停在哪一道.md",
+      "sha256": "ef67b5128c8fc830ec90f891f99ec6e427caa78a888026921f9a2705d9c4f37d"
+    },
+    {
+      "chapter": 527,
+      "path": "异星录/06_执行计划/工作区/A43/第527章_木楔不能上那根杆.md",
+      "sha256": "b0b19c4d75133d807f7f1e6a2c05512693148f46e20e2952e1afbc83fc0716b8"
+    },
+    {
+      "chapter": 528,
+      "path": "异星录/06_执行计划/工作区/A43/第528章_潮水擦不到那一面.md",
+      "sha256": "05d7b3902f4ee9bb250a626b5d966413996128a45ff9a5afcba322229b952d7d"
+    },
+    {
+      "chapter": 529,
+      "path": "异星录/06_执行计划/工作区/A43/第529章_空栏也要找到那只手.md",
+      "sha256": "f89b04418e1bdcf5e9baf9fa2e49dea603136a02d7b11b40d0c2b8a53698964c"
+    },
+    {
+      "chapter": 530,
+      "path": "异星录/06_执行计划/工作区/A43/第530章_先写能退回的那一格.md",
+      "sha256": "c6fc529e9879e0d8e6310e3032061e82134700423e001597badbceb6cf01e1c2"
+    }
+  ],
+  "source_digest": "bcb96afceb6e0c04d5b62d47c7ba71578db1c7d304260f7c3ed83851e60f7625",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 521,
+      "quote": "问路纸才挂了一夜，底下已经添了三个愿意去北二的人。",
+      "reason": "请问现行准入的纸一夜被读成军用线报名，三个人已准备走路，使旧证据越界成为当前行动压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 521,
+      "quote": "我先问外层。",
+      "reason": "林渡守住只查一处现物的范围，把旧军用口和实际下水许可分开，并让曲荻留住岸表的后续记录。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 521,
+      "quote": "外层看物，手不动阀。",
+      "reason": "一日询问换回外层当班的实际回话，今日得到的是可以继续问的人和部位，仍须先验退水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 521,
+      "quote": "他愿在那里接，不往船名下面写。",
+      "reason": "划去出海报名的人转而在原来的岸路承担一班，当场纠偏没有把他变成旁观者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 521,
+      "quote": "接下来哪一个真懂那道旧接口的人肯陪他去",
+      "reason": "回话要求来人认得受力和哪些物件不能碰，下一章有明确的招人难题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 522,
+      "quote": "请林渡先分出哪一圈原来吃过力。",
+      "reason": "在说旧档之前用两片可比较的铜皮现场问人，同形件也有受力差，预告随后到站的判断。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 522,
+      "quote": "到了地方，也只认图和现物。",
+      "reason": "林渡选经实查可退的民船水路，只带可比截面，舍弃北二近路的猜测与动用车核心的捷径。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 522,
+      "quote": "第二船的两位原船员应了给四个位置试短靠",
+      "reason": "纸和人之外终于有四个可验位置；自备水粮与现场准行仍是出海的条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 522,
+      "quote": "今天这单可能就走。",
+      "reason": "邵砺用自己的样箍和工位换外班机会，后续逾期代价有了明确起点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 522,
+      "quote": "船到站外要是也见到一处，谁又在那里叠过新东西",
+      "reason": "回忆里的旧槽留下可以实地查证的轮廓，引出要见的新板和真正的站外脚点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 523,
+      "quote": "原先露出来的一级石面便被斜涌盖住了。",
+      "reason": "第一幕现有脚点立刻被水占走，图和工具都在岸上，迫使两名来客先等船退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 523,
+      "quote": "等退到能转身的时候再下。",
+      "reason": "林渡把是否能够回转放在按时抵达之前，随后实放弃抢末凉，在岩背多候一夜。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 523,
+      "quote": "守线那头收了半幅示停的布。",
+      "reason": "第二船从上一批只在巡线内中继变为这次四人实过线，许可实际改变能到的位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 523,
+      "quote": "邵砺给工棚写的到位条只能写到岩肩内侧。",
+      "reason": "邵砺无法按自己最想写的地方报到，冒险的代价具体落在一夜与手里的外班约。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 523,
+      "quote": "明凉那边若不露能站人的石边，他连该把上船的人从哪里接回来，也得重问。",
+      "reason": "能否与外岩的人见面取决于次凉真实干脚，还有另一条船的退路要合到一次接驳。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 524,
+      "quote": "水就从两船之间立起一片，布角和她的脸都没了。",
+      "reason": "久未当面的人已经可见，浪马上将两船的接近打断，关系的期待和水险同时出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 524,
+      "quote": "弥娅愿随哪条船、留哪块石，让她直接同两名船员议。",
+      "reason": "林渡把她的航位留给本人选择，弥娅决定看外层，并让东船只按原退路候她，互助不会挤掉另一边退出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 524,
+      "quote": "两箱药已经在岸棚实收",
+      "reason": "分开的消息终于从经手人嘴里到达，弥娅可以向西台说明最后接药是哪一双手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 524,
+      "quote": "“我收到你到了。”弥娅把手在衣角上擦了一下",
+      "reason": "久别的回报落在已实际传到的短联和受伤的手，两人还要先把旁人和船的退路说定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 524,
+      "quote": "下一凉真有干脚，工作小艇才来接。",
+      "reason": "外岩同见已兑现，铁栏后有人值守，新一班亲点和水位实准成为必须追的关口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 525,
+      "quote": "沟里的水还顶着铁栏最低一横。",
+      "reason": "分批跨沟一开始就受半截湿栏制约，船工要用能回旋的靠位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 525,
+      "quote": "他把图扶直，叫邵砺别把第二道浅线也描到纸上。",
+      "reason": "林渡按实际槽底辨出刮痕，决定留可查的轮廓，拒绝为旧图补出一条貌似吻合的线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 525,
+      "quote": "那一截槽在新板边缘断了。",
+      "reason": "旧接口能认出来，新增压板确实改了能观察的范围，下一步须查今天在用的东西。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 525,
+      "quote": "旧图那两折，和这里合得上。",
+      "reason": "很早看见的两折和中央开口在另一处实物得到对应，旧线索有回报，手仍不碰受压件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 525,
+      "quote": "要先听铁栏里报人从哪条低路退净。",
+      "reason": "盖后杆位是下一件想知道的事，新的看窗必须先给低处维护人退开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 526,
+      "quote": "指关节离轮缘还有两指。",
+      "reason": "一只手已经挨近活阀，读者马上想知这次许可够不够让人碰轮。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 526,
+      "quote": "谁也不跨过白线。",
+      "reason": "林渡看退脚缩窄，放弃探身可看见的多一段，保留三人的回船路径。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 526,
+      "quote": "尺座并不随杆走。",
+      "reason": "固定参照和随杆小片分开，当班可记当前留位，不必用旧孔或轮缘去猜。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 526,
+      "quote": "阀杆没动，板背没见。",
+      "reason": "林渡愿落实名承担实际看见的一段，选择在公开身份之后仍保住未见之处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 526,
+      "quote": "只能到明凉拿退下的尺和校验件比",
+      "reason": "下一章有明确要验证的一格，且读者已懂实杆有压只能换隔离件试。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 527,
+      "quote": "架子上的才许动。",
+      "reason": "小工想省一轮就借活阀，检修人当场将危险和可做的动作分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 527,
+      "quote": "他请小工看看第一回压住它的痕。",
+      "reason": "林渡让实物受力提醒小工不能将木楔移到活阀，用真正试过的干置件限定建议。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 527,
+      "quote": "三人在灯下都看见小片的边同原线重合",
+      "reason": "经抽楔后的一格能返回，计划第一次有了可复核的机械动作，结论止于隔离架。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 527,
+      "quote": "干架上木楔只留下浅凹",
+      "reason": "读者能看见连轻试都会压伤木楔。活件不碰的选择因此有具体风险和克制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 527,
+      "quote": "哪一处能在不用动阀的时候看水回去。",
+      "reason": "复位实证仍答不了水往哪里走，响声与靠海两件外物引出旁支下一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 528,
+      "quote": "跟着一阵湿风挤进旧盖口，压住了他朝下问的那句话。",
+      "reason": "水面正在退却有雾从低处上来，弥娅得先弄清能否站住、什么可见，不能先摸件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 528,
+      "quote": "先找能站住的地方看。",
+      "reason": "弥娅留下原踏脚，从光和偏磨判断，主动把一小壶水先留给要撤的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 528,
+      "quote": "反扣接头边角受蚀、座圈可见偏磨、旧封止完整留在原位。",
+      "reason": "两处损伤和封止都可由下一班重认，图止在隔挡，尚无断言实流量的条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 528,
+      "quote": "才从小工递来的碗里抿了两口。",
+      "reason": "守沟人沿真正可退的两阶出来、喝到之前留的水，危险处不是只能为零件服务。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 528,
+      "quote": "近班查没查过，还要去看那张原单。",
+      "reason": "空栏究竟是没写还是没人修要从同号档案找证，读者能问清下一章看哪只手的记录。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 529,
+      "quote": "空栏边上还挨着两个下次可复问的件号。",
+      "reason": "没有签字的空格与实际部件在同一页，今凉要找能验证或推翻猜测的记录。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 529,
+      "quote": "他请船员把退回的座留着",
+      "reason": "林渡保住回程落脚和自用余水，放弃给维修层便宜搬一趟空箱。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 529,
+      "quote": "旁支这一支没有带号的垫件领出。",
+      "reason": "维护、交班和短料记录与可见损伤接上，三次近检仍无可核完工，查到的是具体缺项。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 529,
+      "quote": "他们把两件事分着记。",
+      "reason": "检修人签现刻，来访者各自只认隔离架和站外实见。把责任交到不同人的手里，与此前贴温线的原则相承。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 529,
+      "quote": "怎么叫两头在同一轮都能停，得找真肯应的人。",
+      "reason": "已查两处损伤，接下来要确定能在同一短窗响应的岗位，不能因有图就去试活阀。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 530,
+      "quote": "检修人就伸手将两张分开。",
+      "reason": "旧图碰到现行线图就有人制止，读者立即知道本章必须分清哪一笔有现用依据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 530,
+      "quote": "只做一步，能照原线退，不写全关。",
+      "reason": "林渡把查到的行程压到一个可撤的候试条件，要求值岗、测点和轮旁人员实到。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 530,
+      "quote": "尚未答应开试。",
+      "reason": "窄单实际到检修人，站方只负责转下一班。纸上的下一轮有确实承接者，也仍等许可。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 530,
+      "quote": "少一个守信的人便不能做。",
+      "reason": "到手轮位置实看转身会影响持轮，独立的接停人从一句泛话变为肉眼可证的现场缺口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 530,
+      "quote": "又有没有另一双眼替他们守住退回的水。",
+      "reason": "下一批真正要换同一段水、站班暂停、两个测点和传停，读者能追这些人会不会答应。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 530,
+      "quote": "只做一步，能照原线退，不写全关。",
+      "reason": "第525章兑现旧接口合形，第526—527章分清活阀现位与干架可复位，第528—529章找到旁支局部损伤与未见近班完工凭据。本句把十章已知的东西压成一次待验操作。人员具名、候泊水粮和邵砺外班逾期是具体付出。真实流向留待下一轮。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 530,
+      "quote": "先请巡线两侧的当班约同一凉时，留住两端测点和回船的水。",
+      "reason": "从纠正北二误报名、实际留船回转，到干置一格和确认旁支不能盲拆，风险变成多岗位同刻的停令。下一轮需要巡线岗守退水和站班暂停另作，谈的是一段能兑现的窗口。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

@@ -1,0 +1,1022 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "A63",
+  "round": "post_revision_short_recheck",
+  "writer": "codex-main-A63",
+  "reviewer": "01a1e9da-2098-7ac0-ae85-eb0d292e5f35",
+  "reviewer_name": "Codex independent short-recheck reader",
+  "reviewer_source": "CODEX_THREAD_ID",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 721,
+      "path": "异星录/06_执行计划/工作区/A63/第721章_来答的人.md",
+      "sha256": "812585fa96f43f2d96d719c33039fa385a0ee28adaa27640782f0294dfe2c7dd"
+    },
+    {
+      "chapter": 722,
+      "path": "异星录/06_执行计划/工作区/A63/第722章_纸上有一条供路.md",
+      "sha256": "708270c0478918227d30743db5bb42f450a2134f5255c120ba96c1995bff75fe"
+    },
+    {
+      "chapter": 723,
+      "path": "异星录/06_执行计划/工作区/A63/第723章_沿山走的人.md",
+      "sha256": "e0595bbc9916aeb7f851ec57b06738d192c3c4860ccde865fdbfd5b099b7858e"
+    },
+    {
+      "chapter": 724,
+      "path": "异星录/06_执行计划/工作区/A63/第724章_裂口下面.md",
+      "sha256": "0b76c858f505371f30ce8774fb65849851f926419ea5a9c33d3495c766a144c1"
+    },
+    {
+      "chapter": 725,
+      "path": "异星录/06_执行计划/工作区/A63/第725章_未动的那一格.md",
+      "sha256": "bcaf0086d25f8c976ccddc469b85d181d5585e9e3d020bf750b6ca827fa8cc0d"
+    },
+    {
+      "chapter": 726,
+      "path": "异星录/06_执行计划/工作区/A63/第726章_两把钥匙.md",
+      "sha256": "2b73a971268585c388f25eefaca1d60e6f1726c66cbe005a790c533c16d26e35"
+    },
+    {
+      "chapter": 727,
+      "path": "异星录/06_执行计划/工作区/A63/第727章_谁先喊停.md",
+      "sha256": "20506b1e72f2115e4546c20a127b0cd8156c709f2ebba30cbdd2c4ea65737da6"
+    },
+    {
+      "chapter": 728,
+      "path": "异星录/06_执行计划/工作区/A63/第728章_留下来的那一班.md",
+      "sha256": "b1060cc8f5c1f5266010869085e05bc1cdddf40b93a3469357997d9018d9f7df"
+    },
+    {
+      "chapter": 729,
+      "path": "异星录/06_执行计划/工作区/A63/第729章_另一岸的空位.md",
+      "sha256": "f9e120c859e2bd7ac2932dde836744122e0fe1b9e441266ea138ff001c6ae533"
+    },
+    {
+      "chapter": 730,
+      "path": "异星录/06_执行计划/工作区/A63/第730章_钥匙留下人可以走.md",
+      "sha256": "02008384ec4b6e11cb0ba11c7ca83ff675d4245143cfe83f5aa98848b5f1bcaf"
+    }
+  ],
+  "source_digest": "4876823b0090424e846108bb8e5380e9cc6533f5ff6e7cce02c07d85c8fc4510",
+  "sealed_input_digest": "94bf0d8102b62a487cd4ed2ce83ffa9b113b98c29f00dfbb5ae28bc26ebd2963",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 721,
+      "quote": "存水间的新条送到晾场时，罗芹正在收回自己的长凳。第六百三十六日初凉，旧借期已到，排在凳旁的人还没有散。",
+      "reason": "前两句就有到期收凳与人未散的冲突，随后母床通道具体化占地代价；无需先读制度说明才知道为什么现在要谈。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 721,
+      "quote": "只约自己若离五层，便将离开的时段写在值台，已有接收者继续收新材料，旧案不随他走。",
+      "reason": "林渡选择将离岗与旧案接收分开，不以修闸更大为由带走问者的追问路；不是任意搬运人都能代作的责任选择。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 721,
+      "quote": "林渡与弥娅在桌边另封一份有限会见问件，只列姓名、资料用途和拟议事项，托先遣成人找到实际递件路后转东组；唐荻逐项念过，两人才落自己的署名。",
+      "reason": "旧案部分交付而未结，同时从找人意向推进到有本人署名、用途限域的实封问件；D639封件给后续D644艇接真实前因。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 721,
+      "quote": "“那就把这个空着。”他点着去处栏，“别让以后来的人觉得我拿了纸就知道了。”",
+      "reason": "问者主动保护自己不知道的空栏，不被一张交付纸强迫满足；后面的湿墨、干边纸让尊重落成可见动作。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 721,
+      "quote": "那张旧图已经指出一个闸署，门后的人是否仍认旧命令，却还没人来答。",
+      "reason": "读者可以具体追问谁在闸署、是否还执行旧命令；下一章需靠实到成人而非图上名字兑现。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 722,
+      "quote": "第六百四十五日日光落低，他从山门走到值台，把一片闸署回签放在桌上：“准你们到检修院。没准动闸。”",
+      "reason": "磨穿脚布的回件成人马上带来有限准入，开头既兑现上一章找人，又把动闸仍未获准的新压力放出来。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 722,
+      "quote": "林渡撤掉了原拟同行三人的总数，等下棚另一名成人实际接了那一段修脚，才重新写入两位愿陪到四层的人。",
+      "reason": "林渡不为赶路侵占下棚修脚工，先等替岗而不是在名单上编免费陪行者；行动受别人的承诺约束。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 722,
+      "quote": "递件成人从内袋取出原艇接件副条：“第六百四十四日清早，留西院那位沿高货路把先遣问件送到三层交口，我还未离那里。艇工实接，他给我这份副条，自己回西院候接。”",
+      "reason": "回签使西院会见可执行，原艇副条使先遣问件D644实接而东岸实收仍空；封出与接件不再倒挂，变化不是把预计当成到达。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 722,
+      "quote": "“准来的人。不是被恢复的人。”",
+      "reason": "弥娅能去谈却没有恢复官方身份，这个短答让合作不抹掉处分的代价；与夜护妇人的半壶水一起保住人物温度。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 722,
+      "quote": "明日他们去检修院，但真正要谈的那张桌，至今只有西边一个座位有人署名。",
+      "reason": "下一步既要伤者走到西院，又要等东岸本人来答；单岸回签尚不能代两岸谈判，追问方向明确。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 723,
+      "quote": "第六百四十六日初凉，林渡刚离晾场不久，左掌便在扶石时失了力，身体向外晃了一下。陪行成人伸手挡住他，没有拉右臂。",
+      "reason": "出发立即由伤手失力检验路线，别人避开伤臂的扶法具体；位置和这段行路的危险都在开头。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 723,
+      "quote": "林渡请陪行成人把背着的轻夹转交领路的递件人，自己退到靠岩处等。陪行者腾出双手，先扶弥娅起身，再陪她落到下一处石脚。",
+      "reason": "林渡通过重新分工让人扶伤者，而非抢回负重；轻夹接收者、腾手者与自己的退位全明确。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 723,
+      "quote": "一个穿干短衣的男人在木栏内接他们，自报许铎，拿院门当班簿对了回签的日期和接人号，又请领料人认自己日前签的两段摘要。",
+      "reason": "D646—648分段宿后真正到院并见本人，身份经自报、院门与来源核对；不把一张旧图或递件人的认识当成全部闸权。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 723,
+      "quote": "“你不是来替他们送资料。”他说，“到院里，哪些能看，你自己说。”",
+      "reason": "林渡在弥娅腿痛、原包可能混入工料时维护她的资料自主权；关系通过具体交接选择推进，不是另加感情总结。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 723,
+      "quote": "两岸谁先说话尚未谈成，脚下这套闸具却已经不能照旧图省去一班检修。",
+      "reason": "实际裂口打断谈判的便捷想象；下一章要先查承托与退路，世界危险和人物行动在同一问题上。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 724,
+      "quote": "护板只揭起半掌宽，下面一粒铜屑就落在林渡鞋边。第六百四十九日初凉，西岸检修台的原班修工将手停在盖边，先让靠海木栏内的两个人退回山侧。",
+      "reason": "铜屑和停手直接续裂口，半掌尺度、原班与退向给了可感知危险；没有让环境等说明。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 724,
+      "quote": "“先露出靠山脚。”他说，“别从海侧抬整个台。”",
+      "reason": "结构判断改变拆解顺序，避免整体抬起的失稳；林渡只判断不以伤身充人数，能力与限制均可见。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 724,
+      "quote": "他们揭开半面后，露出短托靠山脚：上次垫进岩槽的那块木已被热湿交替挤成斜面，铜脚往海侧偏了半指。",
+      "reason": "从旧图遮尘板变为实际吃偏力的护板，找到垫木斜变这一可回看原因；新垫已下、铜肩仍待出件，结果有限而真实。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 724,
+      "quote": "林渡看着被挤白的垫木：“这一日是铜脚要的。不能记到东边头上。”",
+      "reason": "当面对许铎把慢归给等东岸时，林渡用本岸材料事实顶回去；公平不是抽象口号，给读者清楚的责任回报。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 724,
+      "quote": "可在低岩测点那一页里，原来用来判断安全的静位已经有了两班偏高的读数。明日先量哪一个“没变”，他们得从这里重新问起。",
+      "reason": "修好看得见的垫并不证明静位温度可靠；下一章明确要测同点未动温度而不是突然添敌人。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 725,
+      "quote": "温筒垂进水里时，活闸的指片仍在旧刻上。第六百五十日初凉，弥娅站在西闸外的低岩测点，盯着靠山退阶上的看守，没有先低头读数。",
+      "reason": "温度与未动状态同时开场，先确认退脚而非抢读数；三次短读和雾遮即退是实际限制。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 725,
+      "quote": "“你的筒可能偏，水也可能变。”她答，“先别用我的名把一个答案盖上。”",
+      "reason": "弥娅拒用身份为单筒结果背书，选择独立复测；这体现她的测量能力而非全知预言。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 725,
+      "quote": "完好筒给出的数仍偏热，两筒共同测过的三日范围落定，没有据此画海峡全图。",
+      "reason": "D650单筒初读与D651—653双筒共同三日分开，局部新基线取代这处旧数；既有明确认识变化，又守未测空间。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 725,
+      "quote": "她看见后没责问他怎么又用手，只把自己的水杯放在高阶内侧，叫陪行人扶他过最后一步。",
+      "reason": "林渡伤手失觉时弥娅用放杯、叫成人扶来回应，不以自己的伤腿交换救人；风险共担产生温度。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 725,
+      "quote": "东岸人来时，不能先拿一张保证凉下来的旧图迎他。林渡问明日谁去院门接，得先将这个未动闸也偏热的点，带上真正的谈判桌。",
+      "reason": "明天是否实接东岸人、能否承认偏热成为明确下一步，局部数据有谈判后果。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 726,
+      "quote": "东岸来的男人把钥匙放在自己手心里，没放到桌上。第六百五十四日初凉，西闸院门领路人带他进干栏，许铎先关上靠海检修盖，才请他报姓名与这一路的签。",
+      "reason": "钥匙不交、盖先关，以实到人物的动作呈现权限仍有限；开头直接兑现东岸来人的等待。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 726,
+      "quote": "他将自己的名字从拟议的永久持钥处移到技术协调栏。",
+      "reason": "林渡主动退出永久总钥权，保留风险与技术责任，不靠口头谦让；改变未来能否即时制止主角的制度安排。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 726,
+      "quote": "当日下午，双方签下可撤换共管的候执行安排，原副各持，真正止销交接要等练过和人到。",
+      "reason": "双岸签从单岸会见进到可撤换共管候执行，但实物交接仍欠培训与到岗；不把候执行提前当操作已完成。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 726,
+      "quote": "葛澄刚才握钥匙的手终于放松，伸过去接女修工给的无载柄，试举时发现比自己东组那只重，便先放下问怎样站脚。",
+      "reason": "从护住钥匙到愿意亲手试学习，信任变化由手与柄重量表现；没有一句全知说明取代行动。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 726,
+      "quote": "若他们听见了还照自己的话转，今日这张两岸签也只配留在空栏里。",
+      "reason": "下一章必须验证能叫停，而非再次宣读共管名词；签字的效力由人物实际服从检验。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 727,
+      "quote": "第一声“停”没从桌后的任何人嘴里出来。第六百五十五日初凉，西闸脱载训练柄刚要起转，站在退阶口的女修工举起手，掌心朝着林渡：“脚下湿了。收人。”",
+      "reason": "真实漏水而不是主角发令迫停，培训开头就检验谁的危险报告有效；是上章承诺的直接兑现。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 727,
+      "quote": "“再——”一个字刚抵到齿边，原工的手已按新停信回了。他把剩下的话咽住，看监督重新扣销。",
+      "reason": "林渡承认自己想多转一点，但咽住续令并接受回刻；选择代价落在他自身控制欲，不是代别人做安全决定。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 727,
+      "quote": "原工把起转前的保险扣回，各人重新就位。本遍按约报一次失见；女修工仍在角口，工头仍握柄，实际退脚人也没有离岗。",
+      "reason": "本遍条件明确为按约报失见，实际女修工、握柄工头与退脚人均在岗；紧接由弥娅在未实动阶段报看不见退阶，监督扣许可口。计划、标签、执行指向同一失见条件，未动停与前遍已动回刻仍分别记，M05关闭。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 727,
+      "quote": "“若下次说了，这一岗要能挡我。”",
+      "reason": "林渡给自己险些发出的继续命令署名，把监督能挡主角作为可持续权利而非一次客人礼遇；停止条件现已消歧，这份让出控制权的情绪回报可直接成立。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 727,
+      "quote": "明日决定留下哪一班之前，今天那声真被听见的停，已使他们不能再把同一人写在两个位置。",
+      "reason": "停权必占人岗，复练与接货撞在同一初凉；下一章必须作舍货还是舍安全的选择。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 728,
+      "quote": "服务艇候货的短签摆在桌左，双班复练的名字摆在桌右。第六百五十六日初凉，许铎念到第三个人，原班工头就用指头按住那行：“他在退阶。去接货，这里没人。”",
+      "reason": "两个计划占同一人的冲突前两句即出现，桌左右使选择可见；不用等完整水账才知道本章阻碍。",
+      "verdict": "pass",
+      "reading_basis": "inherited_same_sha_and_adjacent_full_reread"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 728,
+      "quote": "“留看守，货这轮不接。”林渡说。",
+      "reason": "主动选复练舍本轮小料，已明确去接货就缺退阶岗；条件与选择终于同向，主角的伤身不能拿来填空。",
+      "verdict": "pass",
+      "reading_basis": "inherited_same_sha_and_adjacent_full_reread"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 728,
+      "quote": "两人准今次八个维修工时换这一批水柴，由院内成人在主人五层蓄水屋的实际小修处做，去程与回程不算工时，需实到主人那一处才能报履行。",
+      "reason": "新六壶两柴实际入院并立八维修欠工，与五层自愿旧批、八训练工时分开；变化是有限供班和真实债务，不是万能供路。",
+      "verdict": "pass",
+      "reading_basis": "inherited_same_sha_and_adjacent_full_reread"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 728,
+      "quote": "东组监督已经能在指片未离起刻前扣住许可口，本地操作工收手等复述，无人再以等外人太慢为由越过销。",
+      "reason": "林渡没有给值得一班的主题总结，而让主人看柄前实停；舍货换来的停权有实物回报。",
+      "verdict": "pass",
+      "reading_basis": "inherited_same_sha_and_adjacent_full_reread"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 728,
+      "quote": "西院这声停落在实物上，另一岸的孔、脚位和当班人还没见过；货运的凉时错过了，下一段却不能靠一张会见纸跳完。",
+      "reason": "下一章要渡岸、验另一孔和本地班，而错过货已是既成代价；世界问题与实际派人动作绑定。",
+      "verdict": "pass",
+      "reading_basis": "inherited_same_sha_and_adjacent_full_reread"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 729,
+      "quote": "葛澄离开后，桌对面那只短凳一直空着。第六百五十八日初凉，西岸接转人带他与随行修工、西组拟派监督沿背水阶去服务艇，东组管副成人留下，在干栏里看着许铎收起开盖钥匙。",
+      "reason": "空凳接上一章互派承诺，三人出段、一人留院立即交代；压力是等实际接岗而不是再摆一场泛泛谈判。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 729,
+      "quote": "弥娅把第六百五十九日的空行给工头看，另翻出今日未写的一行：“昨天的留空。今天若能找齐低岩退脚人，我想重新下去测。”",
+      "reason": "D660明确将D659空行留下、另翻今日新行，弥娅争取的是今天重新下岩测量；工头报缺岗后她只记缺位而未冒险。后续D662新数另记当日、先前缺岗日仍空，任务重测与旧数据回填已分开，N01关闭。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 729,
+      "quote": "西组监督本人签实到与接岗，葛澄签本组验明，原班工头只签现场训练范围，三项并列。",
+      "reason": "D667实回件证D661接转、D662入站、D663—664东组干练及监督接岗，三项分签范围让另一岸不是名册抵达；今日测量与旧缺日也已分开，实到、训练、记录均不靠补写制造。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 729,
+      "quote": "留院监督听到自己本组的接件号，端着半杯水便站起来，杯沿泼湿了指头。他先擦干手，等许铎认西岸转接封，自己才解东组那一层。",
+      "reason": "杯水泼指、先擦手后开封使漫长等待终于有人体反应；比原稿旁白反复说纸不是事实更能感到另一岸接住了他。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 729,
+      "quote": "能否让下一班换人之后，这声停仍不被旧命令盖过去，明日还要亲手交一次。",
+      "reason": "两岸接岗之后仍要检验换人可持续，明日实际交销是具体人物行动；不把一轮成功当永久解决。",
+      "verdict": "pass",
+      "reading_basis": "current_short_review_full"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 730,
+      "quote": "东组监督交出止销时，许铎没有伸手。第六百六十八日初凉，西闸干栏内摆着原副与接班册，来接岗的新成人先认了自己的姓名，才走向那枚压在干套上的销。",
+      "reason": "许铎不拿销、新人实名才接，开头就兑现换岗压力，焦点在不让权力退回值官或主角。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 730,
+      "quote": "旧监督站在外栏看新人的实际手，没有一直替他喊，以免纸上换过而耳朵仍只认旧人。",
+      "reason": "实际退到外栏、不代新人发令，让接岗者承担正确手序；林渡也只在外栏问空班守停，不重新收钥。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 730,
+      "quote": "完成后，他将销的编号、独立干套与本组限域手序正式交给接班成人，双方落接交记。",
+      "reason": "668未动/已动实练后交销完成，新人实接且旧人可离；盖钥与活闸原保险仍本地原岗，完成的是有限检修许可而非全海开动。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 730,
+      "quote": "旧监督站在旁边，不再替新人的每一句话作答。",
+      "reason": "不仅交物，新人还以本组词复述缺项、旧人不抢答；读者看见有缺口的工作也能被接走，主角或老监督不用无限留下。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 730,
+      "quote": "下一步要拿出来的，除了能开门的权，还有旧数据没说完的热，和不能被搬空的冷却能力。",
+      "reason": "下一批明确要原数据与保运输的冷却能力，旧仪/旧车仍坏、不能凭新闸钥匙发车；工程压力从权利转到实物与热量。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 730,
+      "quote": "许铎答本组可撤换的监督与检修许可交接已经落实，下一步可共同准备分段验证；他不能替军用站开门。",
+      "reason": "721找能答的人、722会见回签、723实到、726拒总钥、727真停、729东岗实回、730替班实交构成局部兑现。范围只到检修共管，完整数据/冷却留下一篇，并非提前承诺全海开放。",
+      "verdict": "pass",
+      "reading_basis": "inherited_previous_full_read_same_sha"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 728,
+      "quote": "工头说若去接本轮货，退阶少人，今天便练不成双班；若留下复练，小料就得等下一次能带货的服务艇和合适水况。",
+      "reason": "前段行路和裂铜约束身体与材料，随后停权占实际人岗，双班再占水柴/坐地/工时并迫舍货，末段换岗要不依赖一人；升级改变选择难度而不是相同修管循环。",
+      "verdict": "pass",
+      "reading_basis": "inherited_same_sha_and_adjacent_full_reread"
+    }
+  ],
+  "verdict": "pass",
+  "fact_verdict": "pass",
+  "attraction_verdict": "pass",
+  "verified_at": "2026-11-17T23:10:07+08:00",
+  "first_read_observations": [
+    {
+      "chapter": 721,
+      "location_goal": "D636—639五层晾场→值台；答到期旧案、问借地并封先遣问件。",
+      "experience": "旧借凳与母床通道立即抓人；问者指甲压湿墨很具体。旧案部分交付仍未明父亲去处，先遣本人签封有新进展。未遇确定硬卡，也没有强烈退出欲；旧名词密处会放慢。",
+      "reading_basis": "同SHA继承上轮完整逐章阅读；本轮不冒称再次全读"
+    },
+    {
+      "chapter": 722,
+      "location_goal": "D645五层；核返件、有限准入、分段陪行和供物。",
+      "experience": "脚布磨穿让递件成本落地；原副条说明644艇实接。半壶给孩子和“准来的人”把合同段拉回人物。第一次需回看642收件/643见领料，但外棚与领料步骤可分，无确认矛盾；陪行、借期集中的段落仍偏慢。",
+      "reading_basis": "同SHA继承上轮完整逐章阅读；本轮不冒称再次全读"
+    },
+    {
+      "chapter": 723,
+      "location_goal": "D646五→四宿，647四→三宿，648高货路→西院；伤者实到。",
+      "experience": "伤手失力开头有危险；轻夹转人后扶弥娅可以直接看清。原包由本人答用途，既是身体选择也是关系回报；裂口把下一章目标落地。没有初稿夹从哪里来的卡顿。",
+      "reading_basis": "同SHA继承上轮完整逐章阅读；本轮不冒称再次全读"
+    },
+    {
+      "chapter": 724,
+      "location_goal": "D649西院检修台；揭板、临托、换垫，铜肩待出。",
+      "experience": "铜屑、垫木斜与退位形成清楚因果；“铜脚要的”顶回甩锅最有力量。新版料空页让修工自己问，比旁白翻译自然。工序密却持续有危险及代价，不构成强退出处。",
+      "reading_basis": "同SHA继承上轮完整逐章阅读；本轮不冒称再次全读"
+    },
+    {
+      "chapter": 725,
+      "location_goal": "D650单筒，651—653双筒，低岩↔干栏；同点局部基线。",
+      "experience": "650续借与绝对日次可直接顺读；汽遮即收、伤手由成人接人有温度。范围/结皮说明仍多，但有新冲痕和独立测量对象支持，不是机械重复。末东人只在外岩，盼翌日实接。",
+      "reading_basis": "同SHA继承上轮完整逐章阅读；本轮不冒称再次全读"
+    },
+    {
+      "chapter": 726,
+      "location_goal": "D654葛澄两随行进西院，两艇工外泊；讨论可撤换检修共管。",
+      "experience": "对白偏密但总钥/单岸强启是实际分歧，每个限制都改变谁可叫停。葛澄护钥到试柄的手部变化提供回报。首遇止销时略放慢，随后脱载许可、活闸保险、新旧分物闭环足够。",
+      "reading_basis": "同SHA继承上轮完整逐章阅读；本轮不冒称再次全读"
+    },
+    {
+      "chapter": 727,
+      "location_goal": "D655西院；真漏水首停、两种干柄停序及八训练工时。",
+      "experience": "西院干栏与脱载柄位置清楚。真漏水先退人、已动回刻、再模拟失见未动停，三个阶段可分。计划、标签和执行统一为失见，实际岗位齐在，原卡顿消除。首次对“第二遍/第三遍/两遍干练”稍回看，能以首停未起动、后两遍干练确认，不立新问题。林渡咽住继续指令、署名让监督挡自己，仍有回报；没有本轮局部退出冲动。",
+      "reading_basis": "本轮改动章全文实读"
+    },
+    {
+      "chapter": 728,
+      "location_goal": "D656—657西院；舍货保退阶，新水柴换维修欠工，监督复练。",
+      "experience": "桌两边抢同一人直观，主笔已改正选择条件。主人实际走来、价里有搬工、自己的约带回很有群像温度。水账仍密但不再比选择更重要；愿追另一岸真到而不是又一张纸。",
+      "reading_basis": "同SHA继承上轮；本轮另全文读相邻章"
+    },
+    {
+      "chapter": 729,
+      "location_goal": "D658—667西院；东岗只经667实回件证实，等件并派人履约。",
+      "experience": "林弥留西院，葛澄三人分段赴东，空凳和回件承载等待。D660今天另翻新行、旧日留空，缺岗仍不测；D662新数记当日，先前空栏保留，原日期归属卡顿消除。日期密集仍会放慢，但杯水泼指、实到亲签让等待有人的反应；没有修改带来的新退出点。",
+      "reading_basis": "本轮改动章全文实读"
+    },
+    {
+      "chapter": 730,
+      "location_goal": "D668—670西院；替班实练交销、维修验收实返、新水有限交付。",
+      "experience": "新人独立答缺项、旧人不替每句作答，确实看到岗位可以交出去。私载体不征、钥匙不被主角收走有温度。“下一步”已不出戏；下一批要热数据和保运输的核心能力，具体可追。",
+      "reading_basis": "同SHA继承上轮完整逐章阅读；本轮不冒称再次全读"
+    }
+  ],
+  "review_process": {
+    "order": [
+      "先727全文，再729全文；合并输出有截断，分别重取补足全文",
+      "再读726末24行、728全文、730前45行并固定本轮实际感受",
+      "之后核归档初审/第一轮问题证据、本地规范与实际字节；不先使用主笔解释判定关闭",
+      "逐章重算manifest/封稿digest，核未变八章与仅三处局部变更，继承上轮全读范围",
+      "核14项关闭及52项当前逐字原句，形成两条独立结论并落盘"
+    ],
+    "mode": "short_recheck_with_same_byte_reading_inheritance",
+    "current_round_full_body_chapters": [
+      727,
+      729
+    ],
+    "current_round_adjacent_full_body_chapters": [
+      728
+    ],
+    "current_round_adjacent_excerpts": [
+      {
+        "chapter": 726,
+        "scope": "末24行"
+      },
+      {
+        "chapter": 730,
+        "scope": "前45行"
+      }
+    ],
+    "completed_body_chapters": [
+      727,
+      728,
+      729
+    ],
+    "inherited_complete_read_chapters": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      728,
+      730
+    ],
+    "previous_round_complete_read_chapters": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730
+    ],
+    "current_round_did_not_reread_all_ten": true,
+    "reader_participated_in_writing": false,
+    "all_current_manuscripts_have_reading_evidence": true,
+    "inheritance_condition": "继承仅限与第一轮实际全文阅读SHA完全相同的正文；727/729新字节不沿用失败结论改签，而经本轮全文实读。",
+    "scope_exclusions": [
+      "全库旧台账重读",
+      "全书楔子与1—3章黄金开篇验收",
+      "正文/台账/章卡/机器批次修改",
+      "gate/close"
+    ]
+  },
+  "previous_review": {
+    "path": "异星录/06_执行计划/审读记录/第八卷/A63第一轮修后独立复核.md",
+    "sha256": "50b4e07d67a5d3d02731e18bf173b1f818c835edcaae1ff132c6cc0eb9feab29",
+    "input_digest": "7b7418dd30051812f6ddec5a3c3690e54cf9f89805ba9593f59bdd7bffbd048b",
+    "reader_review_path": "harness/reader-reviews/A63_first_needs_revision.json",
+    "reader_review_sha256": "2fbf60639283b509e5cc8ad4e61591a1b05dd0a7fe8984f2244cc46d814be3be",
+    "verdict": "needs_revision",
+    "complete_read_chapters": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730
+    ]
+  },
+  "initial_review": {
+    "path": "异星录/06_执行计划/审读记录/第八卷/A63独立初审.md",
+    "sha256": "47ca43fec55d28591bca47d48199c9ccb0712be3fe2a6b97e7edfe8da2faed94",
+    "input_digest": "e180ada9103e665ab092e21668e20c377fb8b841ad023a86979adc12d80e0f67"
+  },
+  "issue_closure": [
+    {
+      "id": "S01",
+      "original_severity": "严重",
+      "status": "closed",
+      "chapters": "721、722、726",
+      "evidence": [
+        {
+          "chapter": 721,
+          "quote": "林渡与弥娅在桌边另封一份有限会见问件"
+        },
+        {
+          "chapter": 722,
+          "quote": "第六百四十日，两人在五层实接路抄及林渡、弥娅封好的有限会见问件"
+        },
+        {
+          "chapter": 726,
+          "quote": "第六百四十八日东组原经手实收"
+        }
+      ],
+      "reason": "D639签封、640实携、641三层、642西棚收件、643见领料、644由留院成人回三层实交并给返件成人副条；647查点、648实收、649派、651启、654院门实到。642收件与643见领料不再混成同一步，未用未来信补过去。",
+      "reading_basis": "同SHA正文继承上轮完整实读；本轮重新核对原句及对应SHA，不声称再读全章"
+    },
+    {
+      "id": "S02",
+      "original_severity": "严重",
+      "status": "closed",
+      "chapters": "727、730",
+      "evidence": [
+        {
+          "chapter": 727,
+          "quote": "见许动保险仍扣着，原班工头已经收手叫退人"
+        },
+        {
+          "chapter": 730,
+          "quote": "原操作工先卸力回刻，新监督再扣销，次序没有颠倒。"
+        }
+      ],
+      "reason": "未动首停保险保持扣住，工头叫退而非撤许可；已动回刻后由监督扣销。持销、原工回位与看退脚不混岗。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "M01",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "722、723",
+      "evidence": [
+        {
+          "chapter": 722,
+          "quote": "次日到三层原交口"
+        },
+        {
+          "chapter": 723,
+          "quote": "认第六百四十一日见过那两位递件成人"
+        }
+      ],
+      "reason": "D640五层启、次日641到三层统一；642为西院外棚收件日，不是又一次到三层。",
+      "reading_basis": "同SHA正文继承上轮完整实读；本轮重新核对原句及对应SHA，不声称再读全章"
+    },
+    {
+      "id": "M02",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "723",
+      "evidence": [
+        {
+          "chapter": 723,
+          "quote": "林渡请陪行成人把背着的轻夹转交领路的递件人，自己退到靠岩处等。陪行者腾出双手"
+        }
+      ],
+      "reason": "原背夹成人转给领路递件人，腾手者扶弥娅；林渡没有未经交代接回或重负，携物分工闭合。",
+      "reading_basis": "同SHA正文继承上轮完整实读；本轮重新核对原句及对应SHA，不声称再读全章"
+    },
+    {
+      "id": "M03",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "725",
+      "evidence": [
+        {
+          "chapter": 725,
+          "quote": "第六百五十二日的末次短读"
+        },
+        {
+          "chapter": 725,
+          "quote": "第六百五十三日初凉"
+        },
+        {
+          "chapter": 725,
+          "quote": "两筒共同测过的三日范围落定"
+        }
+      ],
+      "reason": "D650单筒初读在前，651独立筒来、652次日、653第三日，以绝对日次消除原相对起点误读。",
+      "reading_basis": "同SHA正文继承上轮完整实读；本轮重新核对原句及对应SHA，不声称再读全章"
+    },
+    {
+      "id": "M04",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "725、728、730",
+      "evidence": [
+        {
+          "chapter": 725,
+          "quote": "亲自续准到第六百五十五日末凉"
+        },
+        {
+          "chapter": 728,
+          "quote": "院内主人先给林渡、弥娅的原坐地续到第六百六十八日末凉"
+        },
+        {
+          "chapter": 730,
+          "quote": "林渡与弥娅只获续借至第六百七十一日末凉"
+        }
+      ],
+      "reason": "D650本人续至655，656分别续客人与监督至668，668再分别续至671/672。客人不借葛澄随行工的授权，也不借共管签默续。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "M05",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "727",
+      "evidence": [
+        {
+          "chapter": 727,
+          "quote": "下一次故意报失见，看监督会不会等我解释才停"
+        },
+        {
+          "chapter": 727,
+          "quote": "原工把起转前的保险扣回，各人重新就位。本遍按约报一次失见；女修工仍在角口，工头仍握柄，实际退脚人也没有离岗。"
+        },
+        {
+          "chapter": 727,
+          "quote": "第三遍，林渡退到外栏，原班另一个成人接柱边复述。东组监督先用本地词说可动，操作工启动空程；弥娅故意在未实动阶段提出自己看不见退阶，监督扣住许可口，柄止在起转前。记录写未动停，不和刚才已动回刻混作一项。"
+        }
+      ],
+      "reason": "原初审的缺复述/失见转换，经上一轮已将计划和执行改失见；本轮再把中间标签统一为按约报失见、实岗未离。前一遍已动回刻、本遍未动停及730缺开始信各自独立，不靠相邻章倒补解释。原M05及上一轮R01均关闭，没有把模拟失见改成实际无人看守。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "M06",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "728",
+      "evidence": [
+        {
+          "chapter": 728,
+          "quote": "若去接本轮货，退阶少人，今天便练不成双班；若留下复练，小料就得等下一次能带货的服务艇和合适水况。"
+        }
+      ],
+      "reason": "接货则缺安全岗、留岗则错过本轮，与林渡舍货、箱回私仓的结果同向。外棚只准留两日是上限，不要求必须留满两日。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "M07",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "729、730",
+      "evidence": [
+        {
+          "chapter": 729,
+          "quote": "八工仍欠着，须到蓄水屋实际修完、由主人验收。"
+        },
+        {
+          "chapter": 730,
+          "quote": "第六百六十六日各做四小时小修，共八工时"
+        }
+      ],
+      "reason": "663出院仍欠，665实到、666两人各4小时主人验收、669实返报。行路、八训练工与四复练工都未抵八维修债。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "M08",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "729",
+      "evidence": [
+        {
+          "chapter": 729,
+          "quote": "第六百六十日初凉，监督成人将这句话写在新封套外，交现接转人补递。葛澄所乘的服务艇在第六百五十八日已离段"
+        }
+      ],
+      "reason": "补封交660、前船658已离分别锚绝对日次；不再以今天/昨日前后跳转改写前船封件。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "M09",
+      "original_severity": "中等",
+      "status": "closed",
+      "chapters": "721、724、728—730",
+      "evidence": [
+        {
+          "chapter": 721,
+          "quote": "问者用指甲压着它，墨痕还湿，指甲边便黑了一点"
+        },
+        {
+          "chapter": 729,
+          "quote": "林渡将笔抬起，问他今天想交回家里的话。"
+        },
+        {
+          "chapter": 729,
+          "quote": "杯沿泼湿了指头。他先擦干手"
+        },
+        {
+          "chapter": 730,
+          "quote": "旧声片仍压在包底，他抄完可见的三行，将页还回她手边。"
+        }
+      ],
+      "reason": "原代表句中的销账辩护改湿墨细节、可出/实到库存改主人问签收、空页现货改女修工发问；催条被监督反问并转成本人班时，667接件用泼杯反应；裂尺不能读频段的无诱因提示已删除。等待仍慢，但现在有角色取舍和回报，不以机械否定词频拒绝通过。剩余轻微重复见下文，不将已降低的问题重新无限扩为全篇失败。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "L01",
+      "original_severity": "轻微",
+      "status": "closed",
+      "chapters": "730",
+      "evidence": [
+        {
+          "chapter": 730,
+          "quote": "许铎问下一步能否把两岸数据校完整、接上冷却核心"
+        }
+      ],
+      "reason": "作者章节单位已改为工程下一步，人物仍逼问起动日期；没有删掉问答功能。",
+      "reading_basis": "本轮727/729全文及相邻正文直接复查；涉及未变章的其余段落按相同SHA继承上轮实读"
+    },
+    {
+      "id": "L02",
+      "original_severity": "轻微",
+      "status": "closed",
+      "chapters": "721—730",
+      "evidence": [
+        {
+          "chapter": 721,
+          "quote": "再寄五层到第六百四十一日"
+        },
+        {
+          "chapter": 726,
+          "quote": "第六百四十四日西艇实接问件"
+        },
+        {
+          "chapter": 730,
+          "quote": "第六百六十三日至第六百六十四日"
+        }
+      ],
+      "reason": "关键封件、到达、训练、借期均展开完整日次。722同段仍有“此前四十一日至四十四日”，已紧承D645并有此前参照，可定位641—644，不再出现原来跨段突然换一套日次的首卡；统一为完整写法可作非阻断精修，不谎称全篇一个简称都没有。",
+      "reading_basis": "同SHA正文继承上轮完整实读；本轮重新核对原句及对应SHA，不声称再读全章"
+    },
+    {
+      "id": "N01",
+      "original_severity": "中等（第一轮修后新增）",
+      "status": "closed",
+      "chapters": "729",
+      "evidence": [
+        {
+          "chapter": 729,
+          "quote": "弥娅把第六百五十九日的空行给工头看，另翻出今日未写的一行：“昨天的留空。今天若能找齐低岩退脚人，我想重新下去测。”"
+        },
+        {
+          "chapter": 729,
+          "quote": "工头报两名原工仍在管路修面，新监督还不熟那处石阶。"
+        },
+        {
+          "chapter": 729,
+          "quote": "新数另记第六百六十二日栏，先前缺岗日仍留空；原页仍留本组，抄给弥娅。"
+        }
+      ],
+      "reason": "D660先明确昨天空行留空、另翻今日新行，缺岗位仍未测；D662人岗实齐后的同点同深新读另记D662，缺岗日继续留空。补测量任务不补过去数据，未制造新实测或删去旧缺测。",
+      "reading_basis": "本轮729全文直接复核"
+    }
+  ],
+  "open_issues": [],
+  "nonblocking_observations": [
+    {
+      "chapter": 722,
+      "quote": "此前四十一日至四十四日没有可核的新公共灶入水",
+      "reason": "紧承D645和此前，足以定位本日次范围；可统一全称，不阻断。",
+      "severity": "轻微（沿用、非阻断）",
+      "action": "如后续精修，可将该处展开为“此前第六百四十一日至第六百四十四日”，不改变日次或入水事实。"
+    },
+    {
+      "chapter": 730,
+      "quote": "三人各做一件，没有围着同一串钥匙轮流说无误。",
+      "reason": "分工已在前句呈现，可压后半重复辩护；原M09密度已明显降低，不机械扩大为整篇不兑现。",
+      "severity": "轻微（沿用、非阻断）",
+      "action": "可保留前句三人分工，压去后半“没有围着同一串钥匙轮流说无误”的重复辩护。"
+    }
+  ],
+  "byte_change_verification": {
+    "changed_chapters": [
+      727,
+      729
+    ],
+    "unchanged_chapters": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      728,
+      730
+    ],
+    "three_local_edits_reverse_reconstruct_previous_sha": true,
+    "current_final_seal_matches_actual_bytes": true
+  },
+  "reading_inheritance": {
+    "archive_report": "异星录/06_执行计划/审读记录/第八卷/A63第一轮修后独立复核.md",
+    "archive_report_sha256": "50b4e07d67a5d3d02731e18bf173b1f818c835edcaae1ff132c6cc0eb9feab29",
+    "archive_reader_review": "harness/reader-reviews/A63_first_needs_revision.json",
+    "archive_reader_review_sha256": "2fbf60639283b509e5cc8ad4e61591a1b05dd0a7fe8984f2244cc46d814be3be",
+    "source_digest": "105a038b494db0f61ab011d5bb5b454f0133e42f8c4850a84f568ea1fe71227b",
+    "input_digest": "7b7418dd30051812f6ddec5a3c3690e54cf9f89805ba9593f59bdd7bffbd048b",
+    "reviewer": "01a1e9da-2098-7ac0-ae85-eb0d292e5f35",
+    "full_read_chapters": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727,
+      728,
+      729,
+      730
+    ],
+    "inherited_current_chapters": [
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      728,
+      730
+    ],
+    "inherited_rows": [
+      {
+        "chapter": 721,
+        "path": "异星录/06_执行计划/工作区/A63/第721章_来答的人.md",
+        "sha256": "812585fa96f43f2d96d719c33039fa385a0ee28adaa27640782f0294dfe2c7dd"
+      },
+      {
+        "chapter": 722,
+        "path": "异星录/06_执行计划/工作区/A63/第722章_纸上有一条供路.md",
+        "sha256": "708270c0478918227d30743db5bb42f450a2134f5255c120ba96c1995bff75fe"
+      },
+      {
+        "chapter": 723,
+        "path": "异星录/06_执行计划/工作区/A63/第723章_沿山走的人.md",
+        "sha256": "e0595bbc9916aeb7f851ec57b06738d192c3c4860ccde865fdbfd5b099b7858e"
+      },
+      {
+        "chapter": 724,
+        "path": "异星录/06_执行计划/工作区/A63/第724章_裂口下面.md",
+        "sha256": "0b76c858f505371f30ce8774fb65849851f926419ea5a9c33d3495c766a144c1"
+      },
+      {
+        "chapter": 725,
+        "path": "异星录/06_执行计划/工作区/A63/第725章_未动的那一格.md",
+        "sha256": "bcaf0086d25f8c976ccddc469b85d181d5585e9e3d020bf750b6ca827fa8cc0d"
+      },
+      {
+        "chapter": 726,
+        "path": "异星录/06_执行计划/工作区/A63/第726章_两把钥匙.md",
+        "sha256": "2b73a971268585c388f25eefaca1d60e6f1726c66cbe005a790c533c16d26e35"
+      },
+      {
+        "chapter": 728,
+        "path": "异星录/06_执行计划/工作区/A63/第728章_留下来的那一班.md",
+        "sha256": "b1060cc8f5c1f5266010869085e05bc1cdddf40b93a3469357997d9018d9f7df"
+      },
+      {
+        "chapter": 730,
+        "path": "异星录/06_执行计划/工作区/A63/第730章_钥匙留下人可以走.md",
+        "sha256": "02008384ec4b6e11cb0ba11c7ca83ff675d4245143cfe83f5aa98848b5f1bcaf"
+      }
+    ]
+  },
+  "fact_report": {
+    "path": "异星录/06_执行计划/审读记录/第八卷/A63修后独立复核.md",
+    "sha256": "30c77ff6676e0ed1dd13e6ac675f12208bd460196b3c01e92688995863c3921c"
+  }
+}

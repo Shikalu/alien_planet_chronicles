@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "kind": "authorized_exact_proposals",
+  "batch": "R006-B20",
+  "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+  "writer": "R006-main",
+  "created_at": "2026-11-07T15:30:37.115791+08:00",
+  "issue_id": "R006-B20-047",
+  "status": "awaiting_editor_application",
+  "scope": "按用户点名窄核164→191交还损耗单；不接管B17全章审读。",
+  "evidence": [
+    {
+      "path": "异星录/06_执行计划/工作区/R006-B17/第164章_先让泵停稳.md",
+      "sha256": "821a89761c764d519b3cb0e04872646f19ea7cee244d106fd9ea7c81821e77b4",
+      "range": "第41—61行试水/第四接头试升载/回闸/抄上限记录，并检索全章温升类词",
+      "quote": "流量加上去，第六个息，压力表的针开始来回摆，新接头连着的那截旧管也跟着颤。"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-B20/第191章_塔灯换回原色.md",
+      "sha256": "47f6cd5974ccb8d90b74e79bfc87f8e66da604b6dff1e7f07f0039742cf6a276",
+      "quote": "四号接头的温升记录"
+    }
+  ],
+  "decision": "164当前没有可支持191该项的独立温升记录；建议温升记录改试流记录，WB本组191摘要补同项。",
+  "patches": [
+    {
+      "patch_id": "B20-AI-001",
+      "issue_ids": [
+        "R006-B20-047"
+      ],
+      "chapter": 191,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第191章_塔灯换回原色.md",
+      "target_sha256": "47f6cd5974ccb8d90b74e79bfc87f8e66da604b6dff1e7f07f0039742cf6a276",
+      "before": "四号接头的温升记录",
+      "after": "四号接头的试流记录",
+      "source_line": 19,
+      "reason": "164已用压力表针摆/旧管颤/回闸记录试升载，无独立温升依据；191交还记录只改既有试流类别，不新增热源或测温事实。",
+      "application_status": "not_applied"
+    },
+    {
+      "patch_id": "B20-AI-002",
+      "issue_ids": [
+        "R006-B20-047"
+      ],
+      "chapter": 191,
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "target_sha256": "184fd9f0be0db6c83388bf47dd16a39d4952712a656fee22e1d6e14208e0fac3",
+      "before": "损耗单含粗坯扳折工",
+      "after": "损耗单含四号接头试流记录、粗坯扳折工",
+      "source_line": 814,
+      "reason": "164已用压力表针摆/旧管颤/回闸记录试升载，无独立温升依据；191交还记录只改既有试流类别，不新增热源或测温事实。",
+      "application_status": "not_applied"
+    },
+    {
+      "patch_id": "B20-AI-003",
+      "issue_ids": [
+        "R006-B20-047"
+      ],
+      "chapter": 191,
+      "path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "target_sha256": "a496ae95dd0c8471cad3a19e2fdf663d0835abfebbfc0e3ed653094a79d9d870",
+      "before": "交还清点+损耗单（抵欠三班＝上工两班半＋赠扳折抵半班，欠余三班）",
+      "after": "交还清点+损耗单（四号接头试流记录；抵欠三班＝上工两班半＋赠扳折抵半班，欠余三班）",
+      "source_line": 237,
+      "reason": "164已用压力表针摆/旧管颤/回闸记录试升载，无独立温升依据；191交还记录只改既有试流类别，不新增热源或测温事实。",
+      "application_status": "not_applied"
+    }
+  ],
+  "validation": {
+    "exact_before_unique": true,
+    "patches": 3,
+    "manuscript_patches": 1,
+    "wb_patches": 2,
+    "no_source_written": true
+  },
+  "publication": "应用后重新核191SHA；未应用前不签本批pass。"
+}

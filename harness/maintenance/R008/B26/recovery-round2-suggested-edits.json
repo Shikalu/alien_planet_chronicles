@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B26",
+  "kind": "suggestions",
+  "profile": "serial",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 251,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第251章_窄台只过一个人.md",
+      "sha256": "738b71554676fa5fdfd6ba6eb4487e012d3339c269a7d7844a8c66da23ea7996"
+    },
+    {
+      "chapter": 252,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第252章_先报的名单.md",
+      "sha256": "68cc62e5baf32278cbbdb9d3187abd7f4cf42845b59f69ecfe19bdaed114080f"
+    },
+    {
+      "chapter": 253,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第253章_棚区腾位.md",
+      "sha256": "02c88de48c88d3f6f4fc0b56ec23ee5d32599484743835d4eb4a7d1de600c1ef"
+    },
+    {
+      "chapter": 254,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第254章_拆栏旧板.md",
+      "sha256": "269b15af715f080f49c5b2c7589c7256c32b1bcad7beb0df9dd87ae5c1df6ec5"
+    },
+    {
+      "chapter": 255,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第255章_抬下去.md",
+      "sha256": "a5b4672b4fdb992cac82ec7f8362d61ac0eae6e5f4f7926a9a339a1d37ea8332"
+    },
+    {
+      "chapter": 256,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第256章_门牌还留着.md",
+      "sha256": "ea73e51e402ebb07c1c849643daf711eebfb9be57669aa6977561e38a9db08ce"
+    },
+    {
+      "chapter": 257,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第257章_分人.md",
+      "sha256": "9030875e4ec16bfd370ce03f91b51d9cfa30632ccbb2796047971894bf11d95d"
+    },
+    {
+      "chapter": 258,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第258章_欠额不销.md",
+      "sha256": "cf5a187186de422686a407f790816fbd720ead73030c02689770b11fc109f2b6"
+    },
+    {
+      "chapter": 259,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第259章_两日之内.md",
+      "sha256": "82fd1ea79847c766fc6af244c3fa9664f4099976d822453e1977617c639d2da7"
+    },
+    {
+      "chapter": 260,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第260章_桌上的译页.md",
+      "sha256": "99b4a078ddb606bc9e0df1f29653e89913a7ddb21d8c566e831222bf9a6bf126"
+    }
+  ],
+  "source_digest": "11d096df666683ea32f1a70921044954ba6820634945902dae294b851123ac68",
+  "applied": false,
+  "verdict": "pass_with_nonblocking_notes",
+  "blocking_count": 0,
+  "edits": [
+    {
+      "id": "R008-B26-R2-01",
+      "chapter": 254,
+      "severity": "轻微",
+      "blocking": false,
+      "status": "open_nonblocking",
+      "quote": "傍晚清点，记进公开册的是三行：",
+      "old": "傍晚清点，记进公开册的是三行：",
+      "new": "傍晚清点，记进公开册的是四行：",
+      "reason": "后文分号分列十板账、借撑、回收栏柱撑、旧绳四项；新增独立撑后总称仍三行，属轻微计数笔误。",
+      "resolution": "仅建议，未应用；现有字节仍可事实/追读通过，不宣称正文零问题。",
+      "path": "异星录/06_执行计划/工作区/R008-B26/第254章_拆栏旧板.md",
+      "source_sha256": "269b15af715f080f49c5b2c7589c7256c32b1bcad7beb0df9dd87ae5c1df6ec5",
+      "occurrences": 1,
+      "apply": false
+    },
+    {
+      "id": "R008-B26-R2-02",
+      "chapter": 259,
+      "severity": "轻微",
+      "blocking": false,
+      "status": "open_nonblocking",
+      "quote": "不写，柜上就答你四个字：例行事。",
+      "old": "不写，柜上就答你四个字：例行事。",
+      "new": "不写，柜上就答你三个字：例行事。",
+      "reason": "例行事三字，不是四字；不影响清运回条事实。",
+      "resolution": "仅建议，未应用；现有字节仍可事实/追读通过，不宣称正文零问题。",
+      "path": "异星录/06_执行计划/工作区/R008-B26/第259章_两日之内.md",
+      "source_sha256": "82fd1ea79847c766fc6af244c3fa9664f4099976d822453e1977617c639d2da7",
+      "occurrences": 1,
+      "apply": false
+    },
+    {
+      "id": "R008-B26-R2-03",
+      "chapter": 258,
+      "severity": "轻微",
+      "blocking": false,
+      "status": "open_nonblocking",
+      "quote": "林渡让他把两页并排翻在膝上，中间留出一道空白。空白留着，是等往后有别的数来填；眼下先不写结论。",
+      "old": "林渡让他把两页并排翻在膝上，中间留出一道空白。空白留着，是等往后有别的数来填；眼下先不写结论。",
+      "new": "林渡让他把两页并排翻在膝上，中间留出一道空白。",
+      "reason": "前后已经区分旧灯记与今轮声以及见二疑三，空白栏再解释功能略显叙述者翻译；删第二句即可，证据边界仍保留。",
+      "resolution": "仅建议，未应用；现有字节仍可事实/追读通过，不宣称正文零问题。",
+      "path": "异星录/06_执行计划/工作区/R008-B26/第258章_欠额不销.md",
+      "source_sha256": "cf5a187186de422686a407f790816fbd720ead73030c02689770b11fc109f2b6",
+      "occurrences": 1,
+      "apply": false
+    }
+  ],
+  "instructions": "严禁直接改稿。本文件不覆盖旧44项；主笔若采纳任一项，旧digest终审失效，须重读受影响章并核其余字节后另封审读。"
+}

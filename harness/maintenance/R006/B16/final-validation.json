@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B16",
+  "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+  "source_digest": "7062ad8293f21c7ebcb7788ea833afa1bf4b1f647d954609388cc8a1cdfcd48b",
+  "record_valid": true,
+  "quality_passed": false,
+  "checks": 52,
+  "current_evidence_entries_validated": 151,
+  "issue_ids_unique": 38,
+  "initial_issues_fully_accounted": 36,
+  "new_discoveries": 2,
+  "editor_log_chain_entries": 42,
+  "initial_evidence_files_preserved": true,
+  "word_count_all_in_range": true,
+  "record_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "strict_release_validation": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "artifact_sha256": {
+    "final.json": "4a76c9d9d90bfb8663d7f65eae43177487c97c784b9fc650ac320ad14706cdf3",
+    "final.md": "ecb93c62666ca6bbccacaa88b42239f9026fe52866cd2db589aff968076328c6",
+    "reader-review.json": "c3073dccce9c7885e91762c0481347739821af1d9a6e4d1779fed2e1e0441702"
+  },
+  "note": "本文件只记录校验，不授权发布；主笔若改字节需另行复核。"
+}

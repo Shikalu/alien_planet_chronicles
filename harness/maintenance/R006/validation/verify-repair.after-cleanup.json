@@ -1,0 +1,21 @@
+{
+  "command": [
+    "python3",
+    "tools/novel_harness.py",
+    "verify-repair",
+    "--record",
+    "harness/maintenance/R006/record.json"
+  ],
+  "record_sha256": "3bedf6325382e22319b20f3d84f18b832f8920c6168f054d534602dd3425a539",
+  "executed_at": "2026-11-07T16:18:29.569025+08:00",
+  "returncode": 0,
+  "stdout": "{\n  \"scope\": \"existing-prose-repair\",\n  \"chapters\": 50,\n  \"protected\": 351,\n  \"errors\": [],\n  \"warnings\": []\n}\n",
+  "stderr": "",
+  "result": {
+    "scope": "existing-prose-repair",
+    "chapters": 50,
+    "protected": 351,
+    "errors": [],
+    "warnings": []
+  }
+}

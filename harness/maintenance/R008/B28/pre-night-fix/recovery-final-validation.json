@@ -1,0 +1,80 @@
+{
+  "kind": "recovery_delivery_validation_after_fact_priority_reopen",
+  "date": "2026-11-10",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+  "source_digest": "282b60dc28070795aba34bcb259486d2f1b4f3ec4b515ee72354a0cebd64732c",
+  "actual_manuscripts_unchanged": true,
+  "reader_validation": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "issue_id_coverage": {
+    "initial": 31,
+    "recovery_new": 18,
+    "total": 49
+  },
+  "body_issue_status_counts": {
+    "closed": 47,
+    "partial": 1,
+    "open": 1
+  },
+  "edit_application_count": 141,
+  "edit_closure_status_counts": {
+    "closed": 140,
+    "partial": 1
+  },
+  "correction_patch_count": 4,
+  "all_correction_old_spans_unique": true,
+  "new_body_not_applied": true,
+  "candidate_files_not_written": true,
+  "approval": "needs_revision",
+  "scope_note": "字节/结构检查不等于正文通过。RB28-N18未关闭，旧终审及吸引力pass已撤回；未冻结候选只记50条应用日志。",
+  "historical_validation": "harness/maintenance/R008/B28/recovery-pre-night-correction-records.json",
+  "artifacts": [
+    {
+      "path": "harness/maintenance/R008/B28/final.json",
+      "sha256": "ac6eacd52c9102a7da223c1d3006e95e33bbcce361198646199516a7606a4668"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/reader-review.json",
+      "sha256": "0769f5a8857c4d120301fbdd602d2c4c2c481b9dfe473d211e5d047b4a2aefdf"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-night-duty-correction.json",
+      "sha256": "25cfe73012577e1070207b5366035083437b60d2d912ae8270ccd96e4bb362c2"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+      "sha256": "76d9214f1f7bb923ecb151c7d76b72e579b2f1115773e4bbba2addf9761ed66a"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-writeback-issues.json",
+      "sha256": "a4148ccd4ab1329e7ee26f15d6247a1c7249a5311792201b639efd5b00027c02"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-issue-closures.json",
+      "sha256": "d58311c540d60b2cb6a918284547a791ff2f8486492b955c56749aac1d03cb2c"
+    }
+  ],
+  "expected_open_review_blocker": "RB28-N18; reader validator拒绝pass是本轮预期，不绕过门禁。",
+  "unexpected_structural_errors": []
+}

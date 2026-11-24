@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "reviewer": "R009-reader-B39-B40",
+  "independent": true,
+  "batch": "R009-B39",
+  "scope_chapters": [
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390
+  ],
+  "body_digest": "64bdf01b785eff76cb9ddcf0fd9f64e5c1b140294186d273a30e0bce17e29830",
+  "freeze_path": "harness/maintenance/R009/writeback-freeze-r3.json",
+  "freeze_sha256": "21bdfb84f6c02fc78b636384dfe2dac0b53889bd128669964221407963eb90bf",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f"
+    }
+  ],
+  "verdict": "pass",
+  "blockers": [],
+  "checks": [
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "scope": "A29原行865—879；R009947—953中本组状态及相邻接口",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "D255伤情纸经四／五实收回条D257在四层取到，D258杜姨再当面答",
+      "quote_line": 876,
+      "reason": "重新核三四五层分日往返、五次入段与留守人；旧伤不因日数流逝而消失。伤情回条与核水副纸去向分记：前者实取，后者五层收讫未定；一般求医不等于医者已来。394方向改字在本组外，不改人物/原号/物权入口。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "scope": "A29原行756—774；R009856—864中390/391交接与日次口径；A30开头只核出口承接",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "D271邵砺借旧温片1与对号短检修线1，D272在原坪由闻笛当面点收取回并带返棚，棚内抵达回条未到",
+      "quote_line": 771,
+      "reason": "三芯四探退常用后仍是原三芯去棚充能，272已耗一探，原大匣未补。390仅经手送返，391才273点收/274回条；17日与各续约D锚点不变，不能把自然日表达反写进索引。83.5/60/23.5、回补0、六包0兑及工债各别记，394变更不影响本组库存。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "scope": "A29原行671—684；R009753—757中390/400先后与原责任限制",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "无跨陆可辨回答，无全网权限、无自动开闸；400回应、476双边共同来源仍后置",
+      "quote_line": 677,
+      "reason": "重读确认390只兑现多节点解释和本端自听，早期未知声源未硬并同源；170年前干线与16年前本地责任分层、343残栏仍缺。394送棚方向不产生新伏笔或把实运/外答前移，原责任不免。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "scope": "A29原行539—554；R009621—628中384/389/390交接；A30第391行560仅边界；第394行563仅差异影响判定",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "D263接线夹半凉时实检、货工取件核销；外循环与内机仍分断，D264工具与岗逐人认",
+      "quote_line": 546,
+      "reason": "当前r3的381—390全部日期与路径仍成立：384跨到263检夹、385才264下板；389/390两轮授权与实施相接。272送返后273点收、274回条未被挤进390。逐字差异仅394出坪送棚，位于本组之后且不改D292—295，不重签B40正文。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "scope": "A29原行353—366；R009429—431的器物/能力分离说明",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "非山口自动满电、非原车大匣已充；同三枚各最多3新短探，见暗先退",
+      "quote_line": 364,
+      "reason": "外库与六层档案库分清；铜套大图、薄折页、盖背图不是同一资料的无来源别称。借壳不送能量，固定充能架非万能补能；核心/供能件/钥匙继续分开，D292方向修字不改变这些定义。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "scope": "A29原行196—205；R009277—279中自然参照及原器物名",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "正文作者D编号改为相对日与旬头，作者台账D索引不变",
+      "quote_line": 279,
+      "reason": "当前文本仍规定只自然化正文，不改台账日次；390浅插校准后取回钥匙、自听只查本端发话，未给交通权限或旧仪器读数。铜套图的完整旧历对照不补343残年，r3方向词修正无计量或时间规则外溢。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "scope": "A29原行256—277；A28出口250—254仅380→381；R009300—317中381—390行与定点说明",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "原车电匣耗后、内机热路未验、短套漏检补后仍有残屑，不以通信成功代牵引或浅海承载验收",
+      "quote_line": 277,
+      "reason": "重新读到380余芯退班、381先筹新光工，侧道人路卸板不等于主车轨通。A29五次短探、三芯充后余两探及六包0兑保持；391须另筹双端落重。本组出口未被394补大匣的后事倒改。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "scope": "A29原表行19；A28行18及51—53仅入口；R00955—72中381—390行与卷尾限制",
+      "scope_chapters": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "quote": "D272车闸未动、主口未通、无外来可辨回答",
+      "quote_line": 19,
+      "reason": "篇内兑现仍是有限人路、旧页互核和两轮最短询问，取消候装、工水代价与反对意见保留；后篇才清主口/补匣/实运/外答。r3只改后篇一方向词，不把394或400成果预支给A29，也不增加401事件。",
+      "verdict": "pass"
+    }
+  ],
+  "review_method": "本次按r3交接实际重新读八份候选的A29原行和R009本组说明，补核A28出口及390→391交接；不是复制旧八项换hash。完整比对r2归档与r3时间线，唯一差异为394方向词，另七份实际SHA未变。两组共用候选的A30也另行阅读，但本报告只签381—390及必要接口，不签全历史、B40正文或401；正文终审及52项不重造。",
+  "prior_review": {
+    "path": "harness/maintenance/R009/B39/writeback-freeze-review.json",
+    "sha256": "860bd4da4cc8ad50644ebbb6b1f3cfa13bebe9fc6df75efe98231049e942879a",
+    "verdict": "pass",
+    "note": "原freeze报告保留原样；本次是针对r3实际范围的新复核。"
+  },
+  "version_verification": {
+    "previous_freeze_path": "harness/maintenance/R009/writeback-freeze-r2.json",
+    "previous_freeze_sha256": "10e292e51889a19883988f1b2906a8adeb3835104e7997ecf1b6025024cf24f3",
+    "before_archive": "harness/maintenance/R009/writeback-history/r2/事件与地点时间线.md",
+    "before_archive_sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44",
+    "changed_candidates": [
+      "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md"
+    ],
+    "unchanged_candidate_count": 7,
+    "full_file_single_replacement_verified": true,
+    "old": "D292大匣出棚、293/294充、295回",
+    "new": "D292大匣出坪送棚、293/294充、295回",
+    "manuscript_sha256_all_match": true
+  },
+  "boundary_review": {
+    "verdict": "pass",
+    "chapter394_change_outside_scope": true,
+    "reason": "394方向修正不改A29输入/输出，380→381仍需筹光工；390无外答且仅送返，391点收与回条分日。"
+  }
+}

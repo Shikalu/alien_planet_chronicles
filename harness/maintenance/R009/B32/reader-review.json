@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R009-B32",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B31-B32",
+  "independent": true,
+  "body_first": true,
+  "phase": "final",
+  "manuscripts": [
+    {
+      "chapter": 311,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第311章_这次带下去的东西.md",
+      "sha256": "de68e0b8321e9c22cde30a868bb7198a90b1bcf7446bcbe8b90174b6308b6673"
+    },
+    {
+      "chapter": 312,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第312章_止挡留在空轨上.md",
+      "sha256": "6c1f0e2226165cd3b31584955e6bbf1a1f3afd9f396203c319abc4e71e1237e4"
+    },
+    {
+      "chapter": 313,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第313章_小石留在转角.md",
+      "sha256": "b3496c54d8140752d7274025d4a12d48850d402f40f7cdef5ed02901c5aee191"
+    },
+    {
+      "chapter": 314,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第314章_后绳从柱上滑过去.md",
+      "sha256": "3a5b881e3d7c5a23de1abb016ad92ae98ccb2c74372059e669c843aadbd3b783"
+    },
+    {
+      "chapter": 315,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第315章_车架卡在石边.md",
+      "sha256": "1706e519e8db44c9d45ad27683de3c66bde4a1a1fb66879d5b1ffca86d318209"
+    },
+    {
+      "chapter": 316,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第316章_先把手交出来.md",
+      "sha256": "01b297ab0694f429842bc97b1259826948d79dc30c317489903016f8025c76ba"
+    },
+    {
+      "chapter": 317,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第317章_接头是谁拿的.md",
+      "sha256": "be930690d1646ec9b9855fc202f728672a1012a1f5ffa48e4a58d47085654fc7"
+    },
+    {
+      "chapter": 318,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第318章_回去要先拆哪一边.md",
+      "sha256": "7031661701d78ec7cbc9f27ee90788919cd60601563f29c51dea79f8ae69779e"
+    },
+    {
+      "chapter": 319,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第319章_这一趟不坐人.md",
+      "sha256": "d42e30c107a1064782ac265b13c01ac81cbb8c22e5b5588612416d69c2a28fa6"
+    },
+    {
+      "chapter": 320,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第320章_山口先留一条退路.md",
+      "sha256": "c0e02c2200af69803c26664cca9a511569652d6691149164fd6d6c0de33b80a5"
+    }
+  ],
+  "source_digest": "bead7ff512677277b4de231b57d6f03fba7e9f079f872f800da9858efec9c42b",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 311,
+      "quote": "长撑卡在短门里，前端进去了，后端还留在过道上。",
+      "reason": "开章把救援材料与实际通路直接对撞；门口过不了，下行更窄的角也过不了，弟弟等在棚里使搬运问题有时间代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 311,
+      "quote": "“放下。先别锯。”",
+      "reason": "林渡不为赶路擅毁借主仍需顶梁的长材，转问短撑换力；物权和承重共同限制选择，不是随便有木头就能救。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 311,
+      "quote": "最后能凑出两根短撑，都是住宅修门剩下的旧料。",
+      "reason": "长材改成两根短撑实勘，原岗交接又吃掉凉时前半；携件与可用时间都发生变化，准备段不是原地等人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 311,
+      "quote": "岑野抱起弟弟那瓶，手指贴着瓶身。瓶带滑进掌心，他攥紧一下，再把瓶交到槐七要背的袋中，手指逐根松开。",
+      "reason": "不愿松开的瓶带让救亲焦急可感，也给瓶终于有人送一点盼头；理解少年不愿再等，不等于替日后擅车免责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 311,
+      "quote": "背撬具的成人抬手认领。麦穗将袋口的布盖拢，方头柄仍露在外头。岑野站在她身后，手里那半块饼已经捏扁了。",
+      "reason": "车被禁动、少年谈车能装、方头件又在眼前，下一步危险有可回看的前置：他们会不会越过成人安排动维修口？",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 312,
+      "quote": "“车走了。”",
+      "reason": "止挡上的新擦痕后立即报失车，311末的危险念头兑现；不等背景讲完才知救援变成追车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 312,
+      "quote": "“先到车位。”林渡说，“过人的路暂不走。”",
+      "reason": "林渡改线追少年，却保留短撑和弟弟封瓶，并留人递话；新险情没有把原来的受困孩子从目标中抹掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 312,
+      "quote": "槐七把两只硬止挡拴到短撑外侧。",
+      "reason": "原本留车的两挡变成下行救险装备，完整解开的绳结使人为移车被确认，队伍开始沿危险货轨追赶。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 312,
+      "quote": "“我认制动。路上别等我扛东西。”",
+      "reason": "阿九承认伤腿搬不了物，却承担自己能做的制动判断；有限的担当比无伤冲锋更让人担心他、信任他。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 312,
+      "quote": "前面的石脊还没有走完，下面那根绳已经开始第二次滑动。",
+      "reason": "救援队仍隔着一段路，后绳已在下滑，下一章须看能否赶在牵制失效前接到孩子，时间差具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 313,
+      "quote": "小石蹲在第三根残柱后面，双手还绞着一截布。",
+      "reason": "找到落后的少年却仍在缺栏泥边，马上又须拽回内侧；找到一人并不消除另两人去向不明的压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 313,
+      "quote": "他们不能继续在这里朝两个看不见的人同时发口令。",
+      "reason": "林渡改成小石只报上方位置、自己上高坎看车、槐七认脚路；指挥分工由视线和结构限制决定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 313,
+      "quote": "岑野先将方头插进车外维修口，麦穗按他说的方向转动。驻车棘齿响了一下，车仍停着。",
+      "reason": "小石的回述把接方口、抽挡、解绳、推下坡排成可核因果，读者看见他们把松驻车误当停车已处理的错误。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 313,
+      "quote": "小石松开衣角，嘴唇动了动，最后说他们上车时连那瓶都没拿。",
+      "reason": "想抢先救弟弟却连水都没带的反差刺中莽撞实质；林渡以水跟人走接住当下任务，责备没有压过保护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 313,
+      "quote": "岑野摇头，鞋跟在泥里又蹭出半步。后绳正从他掌间一点点滑过去。",
+      "reason": "修后的口令已明确退内侧、不跟车，少年却退不了；下一章危险落在脚下空间和掌中绳，不是歧义口令拖延。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 314,
+      "quote": "岑野没有朝内墙退。",
+      "reason": "紧接上章退不了，换手压绳反被带向柱肩，第一屏就说明目标必须从保车转为救人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 314,
+      "quote": "“等槐七到你内侧。”林渡叫道，“腿别跨绳。”",
+      "reason": "林渡不能隔棚伸手，选择以可见内托指导槐七接人，而不逼少年跨受力绳；限制下等待是有风险的主动判断。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 314,
+      "quote": "房车脱了后头的牵制，向下一弯滑去。轮声从断续的尖响连成一串，麦穗仍在车里。",
+      "reason": "岑野被拉回，车辆和麦穗却仍下滑；局部胜利没有顺便清掉所有危险，救援任务因此真实改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 314,
+      "quote": "林渡伸左手压住搭扣，让它贴在车壳凹处。那一点响声消失，少年的急促呼吸才从门缝里分出来。",
+      "reason": "先消除能消除的惊吓声，让麦穗听清口令；失控后的微小照料形成喘息，伤臂不能承重的限制也没消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 314,
+      "quote": "房车卡住了。轮子底下那块板，也卡着麦穗唯一能踩住的地方。",
+      "reason": "止车与救人开始冲突：移轮可能翻板，明确引出怎样另建落脚点，而非再等车自行滑动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 315,
+      "quote": "阿九到车前时，驻车柄还悬在半齿上。",
+      "reason": "撞停不等于制动闭合，麦穗仍半悬在后门外；开头立即摆出稳车与接人两个相互制约的目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 315,
+      "quote": "“车留着。”他说，“先把人接过这块板。”",
+      "reason": "林渡拒绝先拖车松板的省事方案，因脚仍在板外端，改送厚板建立独立落脚面，落实先人后车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 315,
+      "quote": "驻车柄被他拉回完整齿口，响出一声短而清楚的咔哒。",
+      "reason": "掰清薄饰板后恢复制动，309空响隐患得到解释；车辆稳定有进展，却不冒充夹板救人已完成。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 315,
+      "quote": "他让麦穗别替自己让路，门里那张垫衣尽可以坐，裤子沾泥也没关系。",
+      "reason": "老人被堵取水路、撞断晾杆仍借板和干地；没有抹去损失的援手，使工序中有真实人情。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 315,
+      "quote": "林渡向槐七指了厚板的内角，让他重新竖起，从更高一点的门缝送进去。",
+      "reason": "送板受阻后有新尝试方向，下一章要看能否绕开旧板接住麦穗，动作钩子具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 316,
+      "quote": "厚板从麦穗膝前过去时，她终于哭出了声。",
+      "reason": "承接送板进入换脚卸手最难处；哭声与扣紧柜框的手说明材料到位不等于人敢立刻松手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 316,
+      "quote": "“你坐车门里，旧板只剩鞋压着。脚交到新板上再动。”林渡说。",
+      "reason": "林渡拆成坐稳、先移脚、再接手，不催伤者跳落；可执行的动作次序兑现上一章选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 316,
+      "quote": "两人把她移到内侧石面，没有让她再沿板慢慢走。",
+      "reason": "麦穗脱离门口，随后板归还、方头归主、清洗伤口；结果明确但仍暂不负重，没有自动痊愈。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 316,
+      "quote": "她落地以后，仍保持着抓柜框的手形。",
+      "reason": "危险停了身体却没放松，随后一根根松指给追车救险扎实的情绪释放，比宣布平安更有触感。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 316,
+      "quote": "他们截住了车上的三个少年，三层板棚里那个孩子，还在等这瓶水穿过最后一段路。",
+      "reason": "追车线局部兑现，封瓶已送出尚未实交；自然接回救弟弟的原问题，没有把两个救援偷合成一个。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 317,
+      "quote": "车外热起来以后，阿九才松开脚踏板。",
+      "reason": "先交代止挡和驻车接下持续脚刹负担，伤腿才离位；热时与损失把行动自然转入追责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 317,
+      "quote": "先认损，实际怎么还等主人到场，不能拿他将来十个做不到的工班换今天一句算了。",
+      "reason": "林渡追问工种和伤手，阿九拆分损项，不收空泛许诺；责任保留可履行边界，不以惩罚或同情草草结案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 317,
+      "quote": "那块饰板原来失了固定，他也该在试移后彻底移走；他将这一项落到自己名下，再把纸推回。",
+      "reason": "成人检查疏漏被承认而少年擅用责任仍在；事故真相细化为可核分项，不是带头者包下全部。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 317,
+      "quote": "三个脑袋终于不再各朝一个方向。",
+      "reason": "左手挑钉、压布、报钉尖都是伤势允许的合作，重建信任有行动证据，不靠认错立刻恢复制动权限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 317,
+      "quote": "要往上拖，先得在悬空处补出一截能承车的路；他们手中那根借来的短撑，还在去塌棚的人肩上。",
+      "reason": "毁路与缺料否定原路上拖，堵住老人门又不能久等；下章须核新停位，不是重演追车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 318,
+      "quote": "老人门前的水先到了凳脚。",
+      "reason": "堵路后果升级为门前进水，木皮与压塌沟盖给出成因，迫使队伍立刻动手而非继续议论。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 318,
+      "quote": "泥若来自轨基，再往下挖会掏空轮边。",
+      "reason": "林渡只准清非承重碎料，先观察旋涡带出的东西；宁可分次清也不为排水掏空轮边，判断确实改变行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 318,
+      "quote": "他将能站的区域划到石坪内，留出的长度足够房车停下，门朝哪边却要等车近了再认，不能先把整个台面都算成装卸场。",
+      "reason": "下行硬坪被实测出来，回车无路变成有条件下移；可用范围仍有限，坏绳也让进展不能立即兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 318,
+      "quote": "小石接过重量，他只用左手捉斗耳，把两人合搬的位置让到石坎上。",
+      "reason": "伤手又想硬撑的岑野被同伴接力，随后门前水退；认错变成实际减轻受害住户困境的工作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 318,
+      "quote": "已验到的山口平地只够收车，明日若绳与人不到便不移。",
+      "reason": "等待具体落实到好绳、原绳手、螺顶底垫和第三挡；明早是否送达决定能否搬车，不是泛等救兵。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 319,
+      "quote": "完好的后绳到石檐时，绳上还带着四层清早的湿气。",
+      "reason": "上章等待的实物到了，随即原主验坏绳、限定一凉时；开章同时兑现盼头与给出搬车期限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 319,
+      "quote": "“这一趟不坐人。”阿九说，“里头只留我踩刹车。”",
+      "reason": "阿九和林渡坚持只留制动员，伤者走内石道；临时慢移的技术边界约束全队，不为房车造无代价载人高光。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 319,
+      "quote": "轮子重新压住轨面以后，边梁与石角之间多出一道窄缝，刚才咬住的毛边仍卷着，不能当成没撞过。",
+      "reason": "复位后才分段下移，最终在硬坪用三挡好绳停稳；脱困不取消边梁损伤，后续复检仍有对象。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 319,
+      "quote": "老人跟出来，坛口用自己的布盖好，转身沿新腾出的路下行，走过车尾还回头看了一次。",
+      "reason": "搬运者交接守绳后替老人过坛，堵门损害偿还一部分；回望把搬车成功变成普通人生活恢复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 319,
+      "quote": "远处那条窄道上，终于传来一个女人嘶哑的喊声。",
+      "reason": "送水者仍未实到，山口与板棚又是分开的路；女人的声音指向等了一夜的孩子现状，不另塞陌生敌人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 320,
+      "quote": "姨母到山口时，手里还抓着孩子的空瓶。",
+      "reason": "空瓶先带来喝水结果，岑野立刻问腿伤；旧期待兑现，仍被困的压力同时留在眼前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 320,
+      "quote": "林渡请支棚人、槐七随自己先去塌棚认现场，岑野跟队，只认弟弟和传话。",
+      "reason": "分开勘察与留守、伤腿不钻棚，也给岑野一个有用但不超能力的救亲角色，沿用退路和停令的新规则。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 320,
+      "quote": "一只沾灰的小手伸过来，没够到，在碗边碰出轻响。",
+      "reason": "孩子从报信变成可触碰的存在，随后确认缝窄、床板承身、木托裂；找到人没有偷换成已救出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 320,
+      "quote": "岑野只让手掌平放，等那只手摸到指尖，没有将孩子往外拽。",
+      "reason": "终于碰到弟弟却克制拉人的冲动，与擅自推车形成有动作证据的成长，情感回报不靠主题解说。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 320,
+      "quote": "柜子可以拆，板要验，车不能来顶这副棚。",
+      "reason": "下一步落实到拆生活柜、检材、换撑；同意有居住损失和承重禁区，自然推动321而不许整车顶棚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 320,
+      "quote": "“他喝到了。听见你在下头的路上，肯歇一会儿了。”",
+      "reason": "从带撑送水救弟弟起步，314救回岑野、316接回麦穗、319车停稳、320核实喝水并兄弟接触，连续给出局部兑现。弟弟出棚仍欠，但已收束为验柜板、借第二撑、保护床侧通道，具体接入A23而非无方向拖延。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 320,
+      "quote": "拆出来以后，柜子与原先能睡人的隔间便保不完整。",
+      "reason": "阻碍从借料过不了门升级为擅车伤人毁物、回程断路和孩子待救，最后要求阿九牺牲自己的生活隔间。借物与修车分别承担准备、止损、责任兑现和救亲取舍，不是十次同样核账。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "scope": "封稿后实际顺序完整重读311—320。50项逐章判断与2项篇章判断均来自同一终稿；309/321仅核接口，不扩签相邻章节或全书开篇。工具只验证覆盖、原句和指纹，不代替以上判断。",
+  "body_first_record": "harness/maintenance/R009/B32/reader-first.md"
+}

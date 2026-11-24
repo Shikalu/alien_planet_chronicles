@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "H003",
+  "date": "2026-11-10",
+  "scope": "document-cleanup-and-existing-evidence-integrity-not-new-reader-review",
+  "state": "safe_cleanup_verified_pending_author_decision",
+  "commands": [
+    {
+      "command": "python3 tools/novel_harness.py check --structure-only --json",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0,
+      "reader_coverage": {
+        "published": 400,
+        "passed_count": 400,
+        "unreviewed_or_not_passed_count": 0
+      }
+    },
+    {
+      "command": "python3 tools/novel_harness.py check --json",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0,
+      "reader_coverage": {
+        "published": 400,
+        "passed_count": 400,
+        "unreviewed_or_not_passed_count": 0
+      }
+    },
+    {
+      "command": "python3 tools/novel_harness.py verify-repair --record harness/maintenance/R009/record.json",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "command": "python3 tools/check_reader_pull.py --coverage --require-complete",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "command": "python3 tools/novel_harness.py verify-preservation",
+      "exit_code": 1,
+      "expected_existing_conflict": "H003-C01",
+      "errors": 268,
+      "unchanged_from_before": true,
+      "changed_prose": 262,
+      "changed_chapter_cards": 6
+    },
+    {
+      "command": "python3 -m unittest discover -s tools -v",
+      "exit_code": 0,
+      "summary": "Ran 37 tests in 0.638s; OK"
+    }
+  ],
+  "prose_protection": {
+    "file_count": 406,
+    "chapter_files_including_prologue": 401,
+    "index_files": 5,
+    "same_path_set": true,
+    "same_sha256": true
+  },
+  "scope_guard": {
+    "unchanged_original_files": 1848,
+    "modified_entry_documents": [
+      "README.md",
+      "harness/README.md",
+      "异星录/06_执行计划/README.md",
+      "异星录/06_执行计划/详细执行计划.md"
+    ],
+    "deleted_allowlist_only": true,
+    "preserved_signed_history": true,
+    "config_status_skill_tools_lore_cards_ledgers_unchanged": true
+  },
+  "existing_review_integrity": [
+    {
+      "id": "R003",
+      "chapters": 51,
+      "final_review_groups": 5,
+      "prose_and_review_signatures_match": true,
+      "reader_review_passed": true
+    },
+    {
+      "id": "R004",
+      "chapters": 50,
+      "final_review_groups": 5,
+      "prose_and_review_signatures_match": true,
+      "reader_review_passed": true
+    },
+    {
+      "id": "R005",
+      "chapters": 50,
+      "final_review_groups": 5,
+      "prose_and_review_signatures_match": true,
+      "reader_review_passed": true
+    },
+    {
+      "id": "R006",
+      "chapters": 50,
+      "final_review_groups": 5,
+      "prose_and_review_signatures_match": true,
+      "reader_review_passed": true
+    },
+    {
+      "id": "R007",
+      "chapters": 50,
+      "final_review_groups": 5,
+      "prose_and_review_signatures_match": true,
+      "reader_review_passed": true
+    },
+    {
+      "id": "R008",
+      "chapters": 50,
+      "final_review_groups": 5,
+      "prose_and_review_signatures_match": true,
+      "reader_review_passed": true
+    },
+    {
+      "id": "R009",
+      "chapters": 100,
+      "final_review_groups": 10,
+      "prose_and_review_signatures_match": true,
+      "reader_review_passed": true
+    }
+  ],
+  "links": {
+    "checked_entry_documents": 6,
+    "errors": []
+  },
+  "pending_decisions": [
+    "H003-C01"
+  ],
+  "navigation": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31",
+    "unchanged": true
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "kind": "recovery-readonly-integrity-check",
+  "recorded_at": "2026-11-07T09:12:55.568200+08:00",
+  "baseline_protection": {
+    "manuscripts": 401,
+    "changed_manuscripts": [],
+    "sources": 53,
+    "changed_sources": []
+  },
+  "prose_replay": {
+    "patches": 180,
+    "files": 49,
+    "errors": [],
+    "log_artifacts": [
+      {
+        "path": "harness/maintenance/R004/changes.json",
+        "sha256": "5e14ba6640f93a3524d3210f18c47a61bd371d76c902cb40ff4f6503d8d70ddb"
+      },
+      {
+        "path": "harness/maintenance/R004/resume-changes.json",
+        "sha256": "35a402467a250c2515fb6839d51e40cd831f8ce26ae453319349bc98e046c2cf"
+      },
+      {
+        "path": "harness/maintenance/R004/approved-changes.json",
+        "sha256": "9d8cb2bd94130a2d78c85b3ac4666991566b25e5f1a9d7d2d797e5e0dfff35d0"
+      }
+    ]
+  },
+  "writeback_replay": {
+    "patches": 127,
+    "files": 9,
+    "errors": [],
+    "log_artifacts": [
+      {
+        "path": "harness/maintenance/R004/writeback-changes.json",
+        "sha256": "4a905a75fcdca6d0ccfdda235fecee57807445dbe039a23ca25282702307df2a"
+      },
+      {
+        "path": "harness/maintenance/R004/approved-writeback-changes.json",
+        "sha256": "fbb100e04385527e74a7cfff5e8a125947709ffe4c76a8e90611fabc6152cbcc"
+      }
+    ]
+  },
+  "initial_reviews": [
+    {
+      "batch": "B06",
+      "report": "harness/maintenance/R004/B06/initial-issues.json",
+      "sha256": "d2f2bcd0c15b60f42866cd2e1ebc77df1d749c9b39b8175af2bbcea26098bcdb",
+      "digest_matches": true,
+      "issue_count": 20
+    },
+    {
+      "batch": "B07",
+      "report": "harness/maintenance/R004/B07/initial-issues.json",
+      "sha256": "1d2855201581cd69b5adac59382f6ddff610b425a49f3977487bf9f48d834f7b",
+      "digest_matches": true,
+      "issue_count": 17
+    },
+    {
+      "batch": "B08",
+      "report": "harness/maintenance/R004/B08/initial-issues.json",
+      "sha256": "abdd09e0e67aedaad12275774e87e45844b4d66ee9b07fcdca627bbcc3ea2f1a",
+      "digest_matches": true,
+      "issue_count": 13
+    },
+    {
+      "batch": "B09",
+      "report": "harness/maintenance/R004/B09/initial-issues.json",
+      "sha256": "fdaadebe6f5e085b7370592d26c27843fd36258bf9ec0faf15e6a2ddbeaed6fd",
+      "digest_matches": true,
+      "issue_count": 11
+    },
+    {
+      "batch": "B10",
+      "report": "harness/maintenance/R004/B10/initial-issues.json",
+      "sha256": "86aeb129a977ec26dbff82b02d6f490c6b15257823dfaf524b83fc6f924539c4",
+      "digest_matches": true,
+      "issue_count": 20
+    }
+  ],
+  "inherited_evidence": {
+    "attraction_quotes_verified": 208,
+    "closure_quotes_verified": 127,
+    "errors": []
+  },
+  "working_chapters": [
+    {
+      "chapter": 51,
+      "path": "异星录/正文/第一卷_热海坠城/第051章_湿木桩.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+      "before_sha256": "5caba165384f95f422ce8ee4de125052cff4b8a089cab10e5dda580d6c570c0b",
+      "after_sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065",
+      "han": 2363,
+      "nonspace": 2679
+    },
+    {
+      "chapter": 52,
+      "path": "异星录/正文/第一卷_热海坠城/第052章_身后的平台.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+      "before_sha256": "aa0ebee4563fc5f29d12db14cc2fa524c48a7a07b21df9e926290f06a4cbd7f0",
+      "after_sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648",
+      "han": 2499,
+      "nonspace": 2834
+    },
+    {
+      "chapter": 53,
+      "path": "异星录/正文/第一卷_热海坠城/第053章_两条路线.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+      "before_sha256": "4ed9adbc7d257a0edefcbced1407826ffab9573ac1b3fd5c45d730443c392650",
+      "after_sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8",
+      "han": 2407,
+      "nonspace": 2729
+    },
+    {
+      "chapter": 54,
+      "path": "异星录/正文/第一卷_热海坠城/第054章_上方截击.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+      "before_sha256": "c6db961033e2c7e59c552d3c0b858d20abfbad8603add936e9f47acc8a50264d",
+      "after_sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef",
+      "han": 2230,
+      "nonspace": 2531
+    },
+    {
+      "chapter": 55,
+      "path": "异星录/正文/第一卷_热海坠城/第055章_备用缆绳.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+      "before_sha256": "ce9091193284031d4c69531aa56bcabd3ebc4bbdc0303cccd018bff23d409e0b",
+      "after_sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a",
+      "han": 2280,
+      "nonspace": 2573
+    },
+    {
+      "chapter": 56,
+      "path": "异星录/正文/第一卷_热海坠城/第056章_黑暗缺口.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+      "before_sha256": "37ec23edf2cd9beabc70af6e3b762db080ca45feec89dd746d98a5ca74a8f8cb",
+      "after_sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2",
+      "han": 2361,
+      "nonspace": 2661
+    },
+    {
+      "chapter": 57,
+      "path": "异星录/正文/第一卷_热海坠城/第057章_封锁网.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+      "before_sha256": "7a0bba531bd331b914b8669fb0e1bfa7163d1f9d80ab53d93c19c91951eadb25",
+      "after_sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5",
+      "han": 2398,
+      "nonspace": 2707
+    },
+    {
+      "chapter": 58,
+      "path": "异星录/正文/第一卷_热海坠城/第058章_违令切网.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+      "before_sha256": "8a10736405e300d37e93d2a6e53d0bec1f7eb1b129f0b565e8d0963bf7ff5eea",
+      "after_sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6",
+      "han": 2317,
+      "nonspace": 2630
+    },
+    {
+      "chapter": 59,
+      "path": "异星录/正文/第一卷_热海坠城/第059章_黑潮遮城.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+      "before_sha256": "1292414cfcb4e112420bcea5f8f3a7fac24710293192b10123ee6c50bfde3609",
+      "after_sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9",
+      "han": 2493,
+      "nonspace": 2806
+    },
+    {
+      "chapter": 60,
+      "path": "异星录/正文/第一卷_热海坠城/第060章_断阶下缘.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+      "before_sha256": "847af355c553bd9de144d5d1248cc2f6a1ecc78716741cac51e4ef53890fb479",
+      "after_sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69",
+      "han": 2423,
+      "nonspace": 2739
+    },
+    {
+      "chapter": 61,
+      "path": "异星录/正文/第一卷_热海坠城/第061章_炸药残痕.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第061章_炸药残痕.md",
+      "before_sha256": "25556b02e497b1cc642035b54edb769683d476b2456eb05158f3129158c20878",
+      "after_sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6",
+      "han": 2400,
+      "nonspace": 2718
+    },
+    {
+      "chapter": 62,
+      "path": "异星录/正文/第一卷_热海坠城/第062章_父亲的手.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第062章_父亲的手.md",
+      "before_sha256": "71b205247870f1c929f9f53cbe01a55cce790039e58a264a891f79a20e5d86dd",
+      "after_sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d",
+      "han": 2287,
+      "nonspace": 2629
+    },
+    {
+      "chapter": 63,
+      "path": "异星录/正文/第一卷_热海坠城/第063章_面具之后.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第063章_面具之后.md",
+      "before_sha256": "78e6c297c5c155f41756016674bf54fbf3b93c6c8508a683bae56e1b4faeec55",
+      "after_sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf",
+      "han": 2314,
+      "nonspace": 2663
+    },
+    {
+      "chapter": 64,
+      "path": "异星录/正文/第一卷_热海坠城/第064章_仪器指向下方.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第064章_仪器指向下方.md",
+      "before_sha256": "0f83c29a08b5fadc4141ef640874ae91ae1f3da12925de2d575b243dc11b3d0a",
+      "after_sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc",
+      "han": 2280,
+      "nonspace": 2607
+    },
+    {
+      "chapter": 65,
+      "path": "异星录/正文/第一卷_热海坠城/第065章_临时跳台.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+      "before_sha256": "936fd7bcbd12d1666a838590dd409e1613bc3919061de223e67424f9f7b59621",
+      "after_sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca",
+      "han": 2411,
+      "nonspace": 2733
+    },
+    {
+      "chapter": 66,
+      "path": "异星录/正文/第一卷_热海坠城/第066章_第一次失败.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第066章_第一次失败.md",
+      "before_sha256": "29cf5abd94cdb164870f3a19db17151d93d889636bc5e59006c50d3db9b0d3d5",
+      "after_sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb",
+      "han": 2378,
+      "nonspace": 2692
+    },
+    {
+      "chapter": 67,
+      "path": "异星录/正文/第一卷_热海坠城/第067章_改算风向.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第067章_改算风向.md",
+      "before_sha256": "e8a9816139e5b5b7435742b44f98552289aa3278abe66f159dab76f5518f19df",
+      "after_sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82",
+      "han": 2330,
+      "nonspace": 2629
+    },
+    {
+      "chapter": 68,
+      "path": "异星录/正文/第一卷_热海坠城/第068章_短暂联手.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第068章_短暂联手.md",
+      "before_sha256": "63cbca83e0ef9807f729c575a5af89776a9e0736ef7ecc1dd7bb1e2b7903db42",
+      "after_sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1",
+      "han": 2312,
+      "nonspace": 2629
+    },
+    {
+      "chapter": 69,
+      "path": "异星录/正文/第一卷_热海坠城/第069章_跳过断口.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第069章_跳过断口.md",
+      "before_sha256": "62401f818d444ff1d608935dee68b2ecf0f53ccbcad1a68f36ce77644a0137a5",
+      "after_sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f",
+      "han": 2433,
+      "nonspace": 2743
+    },
+    {
+      "chapter": 70,
+      "path": "异星录/正文/第一卷_热海坠城/第070章_父亲口哨.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B07/第070章_父亲口哨.md",
+      "before_sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26",
+      "after_sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26",
+      "han": 2306,
+      "nonspace": 2598
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/正文/第一卷_热海坠城/第071章_试探攻击.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "before_sha256": "4e81c4137610f329a7f005667463718cf09039cc9b85fd859d982e0335659dd7",
+      "after_sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893",
+      "han": 2295,
+      "nonspace": 2610
+    },
+    {
+      "chapter": 72,
+      "path": "异星录/正文/第一卷_热海坠城/第072章_父亲的步法.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+      "before_sha256": "1e1a39499bf686ea26d2569be1498df0f6861b276c51ca83c8fb9fe51582effd",
+      "after_sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+      "han": 2238,
+      "nonspace": 2559
+    },
+    {
+      "chapter": 73,
+      "path": "异星录/正文/第一卷_热海坠城/第073章_测潮仪被夺.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+      "before_sha256": "ae86d64236910b8130f13de0ecb68a16fe7d7b538de22e86d2d5eea3913fadcf",
+      "after_sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+      "han": 2264,
+      "nonspace": 2616
+    },
+    {
+      "chapter": 74,
+      "path": "异星录/正文/第一卷_热海坠城/第074章_封锁命令.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+      "before_sha256": "0c856182956e21cd2d7fe483bf5f0426a29535c83e3a88e117d0756fa29f2852",
+      "after_sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+      "han": 2323,
+      "nonspace": 2671
+    },
+    {
+      "chapter": 75,
+      "path": "异星录/正文/第一卷_热海坠城/第075章_槐七交换.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+      "before_sha256": "a0c9527bd2af582358f3a59c0b779fd2aa386c5d3d4594f62a56b06414c9961f",
+      "after_sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+      "han": 2280,
+      "nonspace": 2601
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/正文/第一卷_热海坠城/第076章_木尺换仪器.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "before_sha256": "2f25270957c1a2f1ffcdf9a8eae043f4cb6c742abd7c2817abd988d920db8d2b",
+      "after_sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60",
+      "han": 2394,
+      "nonspace": 2685
+    },
+    {
+      "chapter": 77,
+      "path": "异星录/正文/第一卷_热海坠城/第077章_地底敲击.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+      "before_sha256": "14f215804e7a7eb669ce60eb70f9519ce515d93ab49a0ae20071c71d7bd16ae6",
+      "after_sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+      "han": 2237,
+      "nonspace": 2540
+    },
+    {
+      "chapter": 78,
+      "path": "异星录/正文/第一卷_热海坠城/第078章_人为炸毁.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+      "before_sha256": "e64f0edc1dbe7e2ab99885ef00c49bc8e9b8cfe3a64cbd11afd514a581669d2c",
+      "after_sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa",
+      "han": 2306,
+      "nonspace": 2616
+    },
+    {
+      "chapter": 79,
+      "path": "异星录/正文/第一卷_热海坠城/第079章_林岑现身.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+      "before_sha256": "8917f3288cd30fd91995a5619aa8f06ec7160e7b83e5b25d99e0d73ffd4e2605",
+      "after_sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+      "han": 2242,
+      "nonspace": 2573
+    },
+    {
+      "chapter": 80,
+      "path": "异星录/正文/第一卷_热海坠城/第080章_百年信号灯.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+      "before_sha256": "b30fb44b2d12b7ffc3dc0d6d1ec74b0d113b0a4e42e47cefb0a85dfaf9724442",
+      "after_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+      "han": 2316,
+      "nonspace": 2607
+    },
+    {
+      "chapter": 81,
+      "path": "异星录/正文/第一卷_热海坠城/第081章_坠城日前.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+      "before_sha256": "651d3439a596c67f58c72571bdf7f909a4682f7a7410cf5d3bc4ac6494b575a1",
+      "after_sha256": "0bdec2f836f3713bfc0787bff758a72d6ef2eec3532802954085bb5601c5aa32",
+      "han": 2412,
+      "nonspace": 2758
+    },
+    {
+      "chapter": 82,
+      "path": "异星录/正文/第一卷_热海坠城/第082章_失约的重建.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+      "before_sha256": "372d7bca2de6ece4cb1b843a95ff8f5d3d7bc47fb3f52058e248b08e8e8370c8",
+      "after_sha256": "2d017ef2ad6a12db0046548a74deee22ff1e05547418f661a5552bf1029294f3",
+      "han": 2395,
+      "nonspace": 2767
+    },
+    {
+      "chapter": 83,
+      "path": "异星录/正文/第一卷_热海坠城/第083章_为什么抛下家.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+      "before_sha256": "287e5d996bb05f7828caf2cd8e256d59a2da7b468f21a341ed040108e08ecb8c",
+      "after_sha256": "a5717395c5e7d8db6b52f540a8c7650fc18f12582ec884d2e771cae1fadcdb0d",
+      "han": 2329,
+      "nonspace": 2698
+    },
+    {
+      "chapter": 84,
+      "path": "异星录/正文/第一卷_热海坠城/第084章_同一处空白.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+      "before_sha256": "e2520404cea9b76e25ae072ef38ef0d22bf2077b66bb83c28bafca45e8044c7c",
+      "after_sha256": "220de51362768cc6eca6487009ef5bb5dfcad1b2d3daa0b8c10add69f2c7057e",
+      "han": 2470,
+      "nonspace": 2796
+    },
+    {
+      "chapter": 85,
+      "path": "异星录/正文/第一卷_热海坠城/第085章_是否开门.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+      "before_sha256": "6228ad769c65be591260cd2559c95cb89d956e5377e386df717732654cba8615",
+      "after_sha256": "7dc590a379333ebc33ceaaeb26814d52229cffc540cab3e639aff7a519fe3a4c",
+      "han": 2351,
+      "nonspace": 2669
+    },
+    {
+      "chapter": 86,
+      "path": "异星录/正文/第一卷_热海坠城/第086章_灭口命令.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+      "before_sha256": "9ce5f94c61001dc5910558964e0b0798c394a31cb45fa2dbb19cc05d2975ca62",
+      "after_sha256": "1b541e80dab85b0f35797bb8c4b43aefa7dfa9e29be19973f64242af287b31d6",
+      "han": 2316,
+      "nonspace": 2642
+    },
+    {
+      "chapter": 87,
+      "path": "异星录/正文/第一卷_热海坠城/第087章_旧维修室.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+      "before_sha256": "bcd55c8a8af705472a5dee182c73cdbfb86bb621971706a942a755efffd869da",
+      "after_sha256": "a48fe68908cc346c297ccda5fd5ecb354019bc1d966a0fb75b053bea9b1cd3cb",
+      "han": 2412,
+      "nonspace": 2704
+    },
+    {
+      "chapter": 88,
+      "path": "异星录/正文/第一卷_热海坠城/第088章_两套刻槽.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+      "before_sha256": "bf5d020290fb8cd2512f71b7b092012c754b4c385b4d7d61c88f6ef2e951bf78",
+      "after_sha256": "89ed4fd1ed9f4625f124a56a7e0a5f50ed96eb92f6f40b40e75a5a9e3936e0c3",
+      "han": 2413,
+      "nonspace": 2719
+    },
+    {
+      "chapter": 89,
+      "path": "异星录/正文/第一卷_热海坠城/第089章_断阶震裂.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "before_sha256": "bc0e828646114b34a0a63306c4af3237c6a3eeb6d3e377d4131e828db1f0a22d",
+      "after_sha256": "3e4490fe72cade574482c7c99bc7391e19ddeb3a12999e31fee347f651339946",
+      "han": 2457,
+      "nonspace": 2769
+    },
+    {
+      "chapter": 90,
+      "path": "异星录/正文/第一卷_热海坠城/第090章_交还木尺.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "before_sha256": "98b7436969472da3317bed0716c1b21b9134ab308e4ca7b3d2b1625634d1da64",
+      "after_sha256": "c3d4517448b566e0df449a537457f91603238e27dd88c529f8d6860518327f60",
+      "han": 2549,
+      "nonspace": 2896
+    },
+    {
+      "chapter": 91,
+      "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+      "before_sha256": "b197a1c4b37280b6f2331c2cc1c722c4b3315a6fdcaeaea04309a851b486a3a7",
+      "after_sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+      "han": 2321,
+      "nonspace": 2623
+    },
+    {
+      "chapter": 92,
+      "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+      "before_sha256": "bff3b431c8abaf4737491c8e64b81ae7bdeecf69237210145db7fa4703fa0657",
+      "after_sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+      "han": 2584,
+      "nonspace": 2899
+    },
+    {
+      "chapter": 93,
+      "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+      "before_sha256": "cf8e9f0506bbf499b91d176e95311dc56ebb557d0dba4533bf1ccdc1e050a06d",
+      "after_sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+      "han": 2440,
+      "nonspace": 2770
+    },
+    {
+      "chapter": 94,
+      "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+      "before_sha256": "363db9550eb3e973903de30c1428b39ff5d5515c47125b41a145354292cc5180",
+      "after_sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+      "han": 2467,
+      "nonspace": 2764
+    },
+    {
+      "chapter": 95,
+      "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+      "before_sha256": "fc1c6d4f2abe368ad32890f8b9637ef021094f0608e542e14450876e90b07606",
+      "after_sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+      "han": 2320,
+      "nonspace": 2625
+    },
+    {
+      "chapter": 96,
+      "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+      "before_sha256": "3f7a73363f97e86d43fc2828b0d47ce3400d5ecd4424d6bc6e065fa8400e793d",
+      "after_sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+      "han": 2366,
+      "nonspace": 2661
+    },
+    {
+      "chapter": 97,
+      "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+      "before_sha256": "82a6a70f6d15d47bab8784f4f4508ec0d7278dbcc2abcb4b507933d10e35aa68",
+      "after_sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+      "han": 2260,
+      "nonspace": 2566
+    },
+    {
+      "chapter": 98,
+      "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+      "before_sha256": "0ba9f18b43a7cd98c2edde1061f5324eae12031228bb639faa46cda7801e1086",
+      "after_sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+      "han": 2386,
+      "nonspace": 2716
+    },
+    {
+      "chapter": 99,
+      "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+      "before_sha256": "7d6afe43867dd03c524d22f6bf62b8767e801ea79b1cd8477ea67eba3a7b8118",
+      "after_sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+      "han": 2220,
+      "nonspace": 2499
+    },
+    {
+      "chapter": 100,
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "stage": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+      "before_sha256": "5c2ff2f020ac3b9bf97d8abd9e8d8b72875579fcff3a42ac77009cd77f2f4614",
+      "after_sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+      "han": 2542,
+      "nonspace": 2838
+    }
+  ],
+  "writebacks": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+      "before_sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "pending_review": true,
+      "after_sha256": "8104de85f5802d63f4473865a890ec40ffce9c55da9657c139e930a4bee797fb"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "before_sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "pending_review": true,
+      "after_sha256": "4a3232e0c299bf7827cd2279526d4540c244875aa58133d619992153222a79a8"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+      "before_sha256": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c",
+      "pending_review": true,
+      "after_sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+      "before_sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "pending_review": true,
+      "after_sha256": "5babb7e0b68b9fe8d8c3d3ec94a782f8fa2abc8c766c6a493f4d691df113e0d3"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/术语与命名表.md",
+      "before_sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+      "pending_review": true,
+      "after_sha256": "09cc4251e38b6b352a8d3fd28e9e75f6b0c3902b8d899f11c80d91905a686795"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/术语词典.md",
+      "before_sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+      "pending_review": true,
+      "after_sha256": "d1c00162f077b77bc0f4d62ee8e5b4ca1cc7e4f4d79e74cecbdd4b71a0693033"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "before_sha256": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0",
+      "pending_review": true,
+      "after_sha256": "212bfa9069883b88ba331100c0545469a50d4c6cacdcdcb7bad96e3a0a9f9ea6"
+    },
+    {
+      "path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+      "before_sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+      "pending_review": true,
+      "after_sha256": "abcc36de0a6a784753e9631342f526588fa5c467973f47eb56329a281fe54294"
+    },
+    {
+      "path": "异星录/00_项目总览/后七卷设定决策与执行约束.md",
+      "stage": "异星录/06_执行计划/工作区/R004-WB/后七卷设定决策与执行约束.md",
+      "before_sha256": "f86d5b7d4d917828b280a573c31e866a71c58fe4d252a16f86b1a1cea8d50719",
+      "pending_review": true,
+      "after_sha256": "fbdf6296ba79a44afab8f089ed96d4c49b4be474b40292a301fe3b412a323462"
+    }
+  ],
+  "length_summary": {
+    "count": 50,
+    "min": 2220,
+    "max": 2584,
+    "changed_chapters": 49,
+    "outside_2200_3200": []
+  },
+  "release_eligible": false,
+  "note": "机械核验不是新的独立读者审读；B10与九份WB待本轮独立报告。",
+  "baseline_git_revalidation": {
+    "commit": "92ec7a3ea01f194e99879f781f62ab7daa280575",
+    "checked_files": 454,
+    "mismatches": [],
+    "purpose": "原始字节可由固定Git提交复原；不新增备份正文、不修改旧报告。"
+  }
+}

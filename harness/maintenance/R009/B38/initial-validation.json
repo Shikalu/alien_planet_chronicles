@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B38",
+  "source_digest": "6008e087f154f451f85654decca1de4a04bcde79e5ba2bf2c47edf5fd43c629a",
+  "checks": [
+    {
+      "chapter": 371,
+      "initial_sha256": "4a6080ae09274474a4fedc3c34e2579f632cadae86544c451ec6abeb70894c4a",
+      "before_han": 2360,
+      "proposed_han": 2360,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 372,
+      "initial_sha256": "8b0b817cc21c7e6019953c3722e19f011299d0072246d19f7c4bed99db72f5be",
+      "before_han": 2244,
+      "proposed_han": 2244,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 373,
+      "initial_sha256": "62ff40e43b93642a3536648023348c692f7201787fec9d68b0f71ee25b8c61a2",
+      "before_han": 2235,
+      "proposed_han": 2236,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 374,
+      "initial_sha256": "cec9ff285e9db793e344b1eca0ab1cb564b0a71f3835fb0d38e279001cc5a854",
+      "before_han": 2451,
+      "proposed_han": 2453,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 375,
+      "initial_sha256": "0737ad25b266c34f9ff23b8b01169fbf7ae2e54ee1591fe21377aa5f15e90498",
+      "before_han": 2304,
+      "proposed_han": 2308,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 376,
+      "initial_sha256": "f47ea447a135ed5614bd5abc05a96e822deade6e2f877f6c9b504bcf3514f120",
+      "before_han": 2267,
+      "proposed_han": 2270,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 377,
+      "initial_sha256": "b8b676d85f78d9fe680486cbe0d431eba60771b885a9533c22e1e905062fa441",
+      "before_han": 2319,
+      "proposed_han": 2322,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 378,
+      "initial_sha256": "147d5c22b5a2a919e4090f8bba06424447fc08a381fdb2cc080a3b3aea19c42f",
+      "before_han": 2438,
+      "proposed_han": 2438,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 379,
+      "initial_sha256": "ce5a819847b75b7e4668416ff4c3438f82b05ef3014551ca18f60d33338b98d5",
+      "before_han": 2329,
+      "proposed_han": 2328,
+      "unique_old": true,
+      "nonoverlapping": true
+    },
+    {
+      "chapter": 380,
+      "initial_sha256": "7741da2b4d9a3b86b44ae82aa051fe1b49a89c7f83dd92601e68376f33d8eddd",
+      "before_han": 2267,
+      "proposed_han": 2304,
+      "unique_old": true,
+      "nonoverlapping": true
+    }
+  ],
+  "scope": "仅校验建议锚点、不重叠与虚拟改后纯汉字；不是事实/吸引力终审。"
+}

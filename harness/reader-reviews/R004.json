@@ -1,0 +1,4814 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "id": "R004",
+  "date": "2026-11-07",
+  "writer": "/root",
+  "patch_writers": [
+    "01a1b38a-c83e-7372-95f1-36c86e256305"
+  ],
+  "reviewer": "/root/r004_b06_reader; /root/r004_b08_reader; 01a1b000-3d2a-7830-9b32-5cfff9a58391; 01a1b002-648c-7311-a0a2-647911278770; 01a1b005-2b8a-7563-a88c-e562ee45301e; 01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+  "independent": true,
+  "body_first": true,
+  "compiled_by": "01a1b38a-c83e-7372-95f1-36c86e256305",
+  "compilation_note": "主线程仅汇编真实独立报告。body_first/independent指各组件实际流程，不指汇编者。B08与B10等短复核继承范围逐项保留；不声称主线程重新全文首读，也不把101—400计入覆盖。",
+  "manuscripts": [
+    {
+      "chapter": 51,
+      "path": "异星录/正文/第一卷_热海坠城/第051章_湿木桩.md",
+      "sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065"
+    },
+    {
+      "chapter": 52,
+      "path": "异星录/正文/第一卷_热海坠城/第052章_身后的平台.md",
+      "sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648"
+    },
+    {
+      "chapter": 53,
+      "path": "异星录/正文/第一卷_热海坠城/第053章_两条路线.md",
+      "sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8"
+    },
+    {
+      "chapter": 54,
+      "path": "异星录/正文/第一卷_热海坠城/第054章_上方截击.md",
+      "sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef"
+    },
+    {
+      "chapter": 55,
+      "path": "异星录/正文/第一卷_热海坠城/第055章_备用缆绳.md",
+      "sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a"
+    },
+    {
+      "chapter": 56,
+      "path": "异星录/正文/第一卷_热海坠城/第056章_黑暗缺口.md",
+      "sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2"
+    },
+    {
+      "chapter": 57,
+      "path": "异星录/正文/第一卷_热海坠城/第057章_封锁网.md",
+      "sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5"
+    },
+    {
+      "chapter": 58,
+      "path": "异星录/正文/第一卷_热海坠城/第058章_违令切网.md",
+      "sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6"
+    },
+    {
+      "chapter": 59,
+      "path": "异星录/正文/第一卷_热海坠城/第059章_黑潮遮城.md",
+      "sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9"
+    },
+    {
+      "chapter": 60,
+      "path": "异星录/正文/第一卷_热海坠城/第060章_断阶下缘.md",
+      "sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69"
+    },
+    {
+      "chapter": 61,
+      "path": "异星录/正文/第一卷_热海坠城/第061章_炸药残痕.md",
+      "sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6"
+    },
+    {
+      "chapter": 62,
+      "path": "异星录/正文/第一卷_热海坠城/第062章_父亲的手.md",
+      "sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d"
+    },
+    {
+      "chapter": 63,
+      "path": "异星录/正文/第一卷_热海坠城/第063章_面具之后.md",
+      "sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf"
+    },
+    {
+      "chapter": 64,
+      "path": "异星录/正文/第一卷_热海坠城/第064章_仪器指向下方.md",
+      "sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc"
+    },
+    {
+      "chapter": 65,
+      "path": "异星录/正文/第一卷_热海坠城/第065章_临时跳台.md",
+      "sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca"
+    },
+    {
+      "chapter": 66,
+      "path": "异星录/正文/第一卷_热海坠城/第066章_第一次失败.md",
+      "sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb"
+    },
+    {
+      "chapter": 67,
+      "path": "异星录/正文/第一卷_热海坠城/第067章_改算风向.md",
+      "sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82"
+    },
+    {
+      "chapter": 68,
+      "path": "异星录/正文/第一卷_热海坠城/第068章_短暂联手.md",
+      "sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1"
+    },
+    {
+      "chapter": 69,
+      "path": "异星录/正文/第一卷_热海坠城/第069章_跳过断口.md",
+      "sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f"
+    },
+    {
+      "chapter": 70,
+      "path": "异星录/正文/第一卷_热海坠城/第070章_父亲口哨.md",
+      "sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/正文/第一卷_热海坠城/第071章_试探攻击.md",
+      "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893"
+    },
+    {
+      "chapter": 72,
+      "path": "异星录/正文/第一卷_热海坠城/第072章_父亲的步法.md",
+      "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02"
+    },
+    {
+      "chapter": 73,
+      "path": "异星录/正文/第一卷_热海坠城/第073章_测潮仪被夺.md",
+      "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e"
+    },
+    {
+      "chapter": 74,
+      "path": "异星录/正文/第一卷_热海坠城/第074章_封锁命令.md",
+      "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e"
+    },
+    {
+      "chapter": 75,
+      "path": "异星录/正文/第一卷_热海坠城/第075章_槐七交换.md",
+      "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/正文/第一卷_热海坠城/第076章_木尺换仪器.md",
+      "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60"
+    },
+    {
+      "chapter": 77,
+      "path": "异星录/正文/第一卷_热海坠城/第077章_地底敲击.md",
+      "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d"
+    },
+    {
+      "chapter": 78,
+      "path": "异星录/正文/第一卷_热海坠城/第078章_人为炸毁.md",
+      "sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa"
+    },
+    {
+      "chapter": 79,
+      "path": "异星录/正文/第一卷_热海坠城/第079章_林岑现身.md",
+      "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364"
+    },
+    {
+      "chapter": 80,
+      "path": "异星录/正文/第一卷_热海坠城/第080章_百年信号灯.md",
+      "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+    },
+    {
+      "chapter": 81,
+      "path": "异星录/正文/第一卷_热海坠城/第081章_坠城日前.md",
+      "sha256": "0bdec2f836f3713bfc0787bff758a72d6ef2eec3532802954085bb5601c5aa32"
+    },
+    {
+      "chapter": 82,
+      "path": "异星录/正文/第一卷_热海坠城/第082章_失约的重建.md",
+      "sha256": "2d017ef2ad6a12db0046548a74deee22ff1e05547418f661a5552bf1029294f3"
+    },
+    {
+      "chapter": 83,
+      "path": "异星录/正文/第一卷_热海坠城/第083章_为什么抛下家.md",
+      "sha256": "a5717395c5e7d8db6b52f540a8c7650fc18f12582ec884d2e771cae1fadcdb0d"
+    },
+    {
+      "chapter": 84,
+      "path": "异星录/正文/第一卷_热海坠城/第084章_同一处空白.md",
+      "sha256": "220de51362768cc6eca6487009ef5bb5dfcad1b2d3daa0b8c10add69f2c7057e"
+    },
+    {
+      "chapter": 85,
+      "path": "异星录/正文/第一卷_热海坠城/第085章_是否开门.md",
+      "sha256": "7dc590a379333ebc33ceaaeb26814d52229cffc540cab3e639aff7a519fe3a4c"
+    },
+    {
+      "chapter": 86,
+      "path": "异星录/正文/第一卷_热海坠城/第086章_灭口命令.md",
+      "sha256": "1b541e80dab85b0f35797bb8c4b43aefa7dfa9e29be19973f64242af287b31d6"
+    },
+    {
+      "chapter": 87,
+      "path": "异星录/正文/第一卷_热海坠城/第087章_旧维修室.md",
+      "sha256": "a48fe68908cc346c297ccda5fd5ecb354019bc1d966a0fb75b053bea9b1cd3cb"
+    },
+    {
+      "chapter": 88,
+      "path": "异星录/正文/第一卷_热海坠城/第088章_两套刻槽.md",
+      "sha256": "89ed4fd1ed9f4625f124a56a7e0a5f50ed96eb92f6f40b40e75a5a9e3936e0c3"
+    },
+    {
+      "chapter": 89,
+      "path": "异星录/正文/第一卷_热海坠城/第089章_断阶震裂.md",
+      "sha256": "3e4490fe72cade574482c7c99bc7391e19ddeb3a12999e31fee347f651339946"
+    },
+    {
+      "chapter": 90,
+      "path": "异星录/正文/第一卷_热海坠城/第090章_交还木尺.md",
+      "sha256": "c3d4517448b566e0df449a537457f91603238e27dd88c529f8d6860518327f60"
+    },
+    {
+      "chapter": 91,
+      "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+      "sha256": "bac5d3c7e849fe0fa9665710ab8127aed1013154fdf1af4abdbc3c403cc1e679"
+    },
+    {
+      "chapter": 92,
+      "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+      "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c"
+    },
+    {
+      "chapter": 93,
+      "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+      "sha256": "f46f4087286e66417566e662c1b0fd2700d796a0732fb6df4f785276b9d6f3ef"
+    },
+    {
+      "chapter": 94,
+      "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+      "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384"
+    },
+    {
+      "chapter": 95,
+      "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+      "sha256": "a8abd33c94196304c1d51674221cdba9805e48197cb54077e68c1240ba5bae0b"
+    },
+    {
+      "chapter": 96,
+      "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+      "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0"
+    },
+    {
+      "chapter": 97,
+      "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+      "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd"
+    },
+    {
+      "chapter": 98,
+      "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+      "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4"
+    },
+    {
+      "chapter": 99,
+      "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+      "sha256": "935dd042d289c5ad20cad1eaf713b170ec81e13db21e8cd56b09bca40bc776f6"
+    },
+    {
+      "chapter": 100,
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "sha256": "32db9e0550214c18626f3c07320d6540fd83c23b7a0765be12b86431e9d70dca"
+    }
+  ],
+  "source_digest": "1b93e9fb789ee0eb2e97dad9fbb31869fefb270d7ebc32ef39d9f175e0e78d69",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 51,
+      "quote": "外壁第一根木桩湿得发亮。",
+      "reason": "第一句给出脚下材料异常，随后敲桩塌响与“不能挂人”把上章绕行承诺立刻变成承重压力，不先讲外壁沿革。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 51,
+      "quote": "林渡让抬担架的人先蹲下，把重量落回横撑，不要悬在绳上等。",
+      "reason": "他把拥堵改成落梁分批，拒绝让绳悬整队；这是结构判断和组织选择，不是任意搬运工只顾向前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 51,
+      "quote": "少了一个完整的搬运人，之后每副担架都得多换一次手。",
+      "reason": "裴七浅伤、盐药污染报损和额外换手把试通路线的成本留到后续；不是换一个地名重复攀行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 51,
+      "quote": "“我在后面看你的脚。前面有人接。”",
+      "reason": "孩子问会不会掉，林渡给可兑现的前后接应而非绝对保证。孩子试脚失败仍被等候，是灾难中可信的小回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 51,
+      "quote": "裴七还在旧板上扶尾，林渡转身去接他的手，脚底却先向海侧滑了半步。",
+      "reason": "末两段的桩群下沉与林渡接手失败并行：担架和裴七谁先救、怎样不连带坠落，形成世界危险与人物行动双层问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 52,
+      "quote": "裴七站在平台最外沿，双手扶着最后一副担架的尾杆。平台先从他的脚下掉下一角，随后整块向海侧翻去。",
+      "reason": "立即兑现051塌平台，不用回顾拖延；脚下翻板和夹腿把危险落实到具体人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 52,
+      "quote": "“杜姨，先退回内撑。岑野别拉，先抬头。”",
+      "reason": "林渡先处理挂住的担架，腾出救裴七的通道，再绳套提肩、扳手撬板；在两项救援互相妨碍时作排序。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 52,
+      "quote": "后方已没有回路。冷凝灯照出一块陡直截面，木板深处排列着整齐黑孔。",
+      "reason": "人救回但裴七重伤、尺裂加深、回路消失，断面给出待鉴别黑孔；救援同时改变资源与调查方向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 52,
+      "quote": "“少我一个，谁抬？”\n\n“换手。”",
+      "reason": "裴七担心成为负担，回答把代价分摊给队伍而不是抛下他；救回不是无伤复原，读者能获得实在的互助回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 52,
+      "quote": "林渡没有回身去追，只让小石把这一声和落粉的方向都记住。",
+      "reason": "结尾孔内刮擦、黑粉落下是具体异常；林渡仍选先搬伤员并留方向，下一步查哪个孔、如何兼顾救援都有对象。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 53,
+      "quote": "海侧一路旧绳桩较密，桩下却只剩容一只脚侧放的木沿；靠山一路有几段宽梁伸入石壁，梁与梁之间缺了铺板。",
+      "reason": "前几句把两路各自的不安全写成可比较空间，裴七重伤紧接其后；选路压力没有被路线名词遮住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 53,
+      "quote": "“海侧走能侧身的人，你带。”林渡说，“担架跟我在靠山一路走梁。到暗口先报位置，不进深处。”",
+      "reason": "林渡接受热流与承重不能由一人包办，分队但限定汇合和回报位置；关系通过共同风险而非口头和解推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 53,
+      "quote": "一根斜梁从岩角外的旧架上滑下，左端压住海侧绳架，右端卡在靠山梁头。",
+      "reason": "两条可分走的路被同一落梁重新耦合，第三支点和海侧限位因此成为双方合作的必要条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 53,
+      "quote": "“我守海侧端。你先送担架。”",
+      "reason": "弥娅主动承担滞留，林渡要求绳架动就退；读者看到争执转成互相有停止权的信任，不靠感情解说。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 53,
+      "quote": "林渡伏住担架。斜梁之上，有人把枪口伸出了栏杆。",
+      "reason": "担架尚未完全过梁时出现枪口，伏住的动作把下一章问题限定为枪下转运，非可随便更换的神秘敌人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 54,
+      "quote": "枪口从斜梁上方伸出，离伏着的林渡并不远。",
+      "reason": "首句接053枪口，随后三人高架封住缺口、担架不能掉头，压迫不被命令背景拖慢。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 54,
+      "quote": "林渡叫停了一瞬。他让前端偏向外侧一点，腾出腿边的空隙。",
+      "reason": "枪下仍为裴七被碰的腿叫停；林渡不拿追兵替粗暴转运开脱，祝衡则通过违令枪击为选择争时间。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 54,
+      "quote": "他的印记亮红，枪身重新传来锁紧的声响。",
+      "reason": "短暂准用结束、枪重锁，祝衡又添左腿伤并被认出；名单残页已交林渡，行动和证据成本都留下来。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 54,
+      "quote": "林渡听不清姓氏，只听见他问：“已撤离，为什么后面还写不得回收？”",
+      "reason": "祝衡家属的撤离承诺在纸上破裂，随后击纸、举制式牌报自己姓名而非向居民开枪，形成可读的站队回报。本轮删除湿布句的假想能力辩护后，孩子趁隙入暗口直接接祝衡公开位置，情绪由选择及伤手发抖传达，未削弱站队代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 54,
+      "quote": "现有主绳留在了断梁上；若要把后面的人送进更深的缺口，他们还得从追踪光底下取回下一条路。",
+      "reason": "世界压力是追踪灯逼近且支点绳不能全收，人物下一步是取维护架缆绳；结尾直接生成055任务。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 55,
+      "quote": "暗口前的维护架上，挂着一卷缆绳。",
+      "reason": "首句给目标，紧接压扣、蜂鸣和缺踏板说明够不着且会暴露，接住054新绳任务而非另起支线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 55,
+      "quote": "“卷别管，先解脚！”",
+      "reason": "林渡从收绳卷改抓麦穗保险，允许卷重落到独立落卷绳上；救人与抢资源冲突时选择人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 55,
+      "quote": "较完整的那段留作担架牵引，其余用于限制入口松动的构件，不承人体悬挂。",
+      "reason": "得到缆绳但不能整卷视为完好；少年暴露、麦穗伤踝转固定接绳，资源收益带限制。本轮解圈只发生一次，伤脚沿内杆慢放后由林渡接回，代价连续而不回退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 55,
+      "quote": "“人各挂一条保险。”林渡说，“绳卷另外放。拿不动就先回来。”",
+      "reason": "任务前允许空手返，险情中兑现救人优先，少年没有因能钻架就被当成消耗品；回报来自前后选择一致。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 55,
+      "quote": "林渡压低冷凝灯，让杜姨先把伤员挪进阴影，自己望向那道声音消失的方向。",
+      "reason": "搬箱脚步进深处与追踪光同在，人物先藏伤员而不盲追；想知道箱子为何向里、这条路被谁使用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 56,
+      "quote": "这里已是四层断阶下缘，却还只是维修层外侧的通道。",
+      "reason": "开头明确不是安全房间，接着热水、看不见拐弯和轨槽外滑，抵达地名并未解除救援压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 56,
+      "quote": "“分开走这一小段。”他说，“伤员和走不快的进来。你带少年团守外沿，看热风，也接后面的人。”",
+      "reason": "林渡主动限制分队范围和回报节点，腾入口给伤员而不让后队盲等；风转即收近，等待对象明确为下一转弯回报，没有杜撰时限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 56,
+      "quote": "黑水封住半条通道，长梁上只能逐副移送。",
+      "reason": "暗口不是终点；通道漫水迫使唯一长梁转作接送，外队被风催近，原分队策略随环境改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 56,
+      "quote": "骂声没消失，却有人主动去帮阿九扶梁尾，不再只是往前推。",
+      "reason": "林渡说明卡住哪副担架、差什么动作后，质疑者开始帮忙，不写全员瞬间理解；给组织成长一个小而可信的回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 56,
+      "quote": "林渡让后面的担架停在梁上，自己沿墙察看网框下沿，找绳能不能从内侧退开的地方。",
+      "reason": "报警和照出金属网只发生一次；林渡停担架、沿墙察看下沿及绳的退路，给出人物下一步。057木尺量出横杆容不下，继而找控制盒，是对这次观察的结果推进，不是重复报警或宣称绳已被夹。读者想知道怎样让担架过网。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 57,
+      "quote": "金属网嵌在旧轨两侧的竖槽里，把通道从墙到墙截断。",
+      "reason": "第一句把056障碍变成有边界的结构，随后交代割索反会封死，不以机关名词替代眼前问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 57,
+      "quote": "林渡没有因此取消编号。取消了，先漏掉的会是他们自己的伤员。",
+      "reason": "编号被追兵利用仍保留内部核验、改到网内低声答，林渡不拿抹去人名换暂时安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 57,
+      "quote": "所有人的身体都在内侧，外面还留着一截来不及收完的担架牵引绳。",
+      "reason": "完成过网但绳尾被夹，人员转移成功与担架受拖并存；权限撤销使下一章不能重复按键放行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 57,
+      "quote": "“他过了我才过。”",
+      "reason": "林渡不把按键的祝衡留作牺牲，也不许他拿伤臂顶网；通过梁和缆接替受力，兑现把违令者视为同伴。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 57,
+      "quote": "上方的声音仍叫他交回人员，网框下面的绳皮却正一丝丝拉开。林渡抓住担架杆，听见祝衡把腰边那支损坏短枪抽了出来。",
+      "reason": "命令和拉裂绳皮同时逼迫；林渡护担架、祝衡取失用枪，下一章追问如何停机解绳，双层钩子成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 58,
+      "quote": "被网框咬住的绳尾又短了一点，露出的纤维沾着网框锈水，湿软地贴在轨枕上。",
+      "reason": "第一句继续夹绳传力，担架挪动和裴七受拖立即跟上，不把057危险拖到通缉背景之后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 58,
+      "quote": "林渡抓住担架另一端，没有继续和牵引轮拔河。绳越紧，担架越容易转斜。",
+      "reason": "林渡停掉纯拉力对抗，转为落梁、退结、托网卸拨叉；不是用意志和伤手硬胜机器。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 58,
+      "quote": "枪身已歪，握柄裂开，既无法开火，也不能再拿来当可靠支撑。",
+      "reason": "解绳救出担架并切断封锁，但枪彻底失用、手伤加重、祝衡通缉；工具和身份均付出不可自动复原的成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 58,
+      "quote": "祝衡盯着册页上自己的名字，喉口动了一下，才说：“还活着。”",
+      "reason": "广播将他列为叛逃者，公共册仍保留他曾是巡查官及活着的事实；这是本篇最强的身份被接纳回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 58,
+      "quote": "“枪坏了。先带人离轨。”",
+      "reason": "网下金属臂仍动、来源不明，林渡阻止弯枪迎敌而先撤离旧轨；未知机械不抢走伤员撤离主线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 59,
+      "quote": "黑雾沿旧轨漫进来，先没过轨枕，再贴到人的膝下。",
+      "reason": "雾从轨枕升到膝下，灯罩结膜马上削弱视野；上一章离轨选择被新的呼吸压力逼着落实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 59,
+      "quote": "“风向由你报，梁能不能接由我报。用了这次读数也不是你一个人的错。”",
+      "reason": "林渡与弥娅明分测风和承重责任，决定耗掉末次读数救眼前人，不把选择失败全推给仪器使用者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 59,
+      "quote": "随后壳内轻响，屏幕的黑不再带休眠时的灰光，扬声孔也停了。",
+      "reason": "有限散热及接点修复只释放一次残线，读后耗尽；方向传递从仪器转给岑野手势，失去功能真正改变行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 59,
+      "quote": "弥娅立刻应了同样的手势。",
+      "reason": "056当场纠正过的报风手势在仪器黑屏后派上用场，少年学到的技能接住团队，读者得到可回看的铺垫兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 59,
+      "quote": "“里面先看承重。别因为有风，就都挤进去。”",
+      "reason": "黑潮遮城与维修层容量未知共同施压，林渡拦脚、岑野伏探；不是把有风误作安全出口，下一章要回答能进几人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 60,
+      "quote": "左侧缺口外是一道弯向山壁的平台，隔着塌楼梯，才是半毁的维修层。",
+      "reason": "首句将059见门进一步落实为隔塌梯的平台，前几句就探板纤维和轨边，容量问题没有被“抵达”掩盖。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 60,
+      "quote": "“伤员、孩子、喘不过气的人先。能走的留在外面接手。”",
+      "reason": "林渡按脆弱程度排序，又在门内满、外板滑时叫停收梁；被留外者质问使组织选择承担可见代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 60,
+      "quote": "那条勉强接人的窄面没有了。两丈宽的断口重新露出来，只剩墙根旧孔里的绳线还连着两边。",
+      "reason": "裴七等先入门内而队伍被迫分开，担架不再可过，抵达下缘兑现后产生真正的新障碍；人数仍是原册子集而非全场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 60,
+      "quote": "林渡站在门内，没有躲开那边的目光。",
+      "reason": "选择救伤员不等于全员满意，留门边接人、保留外册回应让排序失败可理解；回报是承担而非胜利宣言。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 60,
+      "quote": "他指出的是藏在梁里的危险，还是一条能把两组人重新接起来的路？林渡没有跨过去，先让林栖记住了刀尖的位置。",
+      "reason": "无面者刀尖与空响给具体待查点，外侧梁头又下沉；林渡先记录不盲从，把查证与重接两组人的行动绑在一起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 60,
+      "quote": "担架送到靠墙地梁上，他终于能平躺，嘴唇却仍发白。",
+      "reason": "本篇“外壁转运到断阶下缘”在门内安置伤员兑现，052救回裴七、058祝衡被公共册接纳是中途回报；换来重伤、药损、枪废、仪器耗尽和队伍分隔。未承诺本批已全员安全，重接留给下一篇。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 59,
+      "quote": "风的判断先经过几个孩子的手，再传到林渡；仪器没有在中间报数。",
+      "reason": "51—53由湿桩、塌板升级到两路互赖；54—58加入身份追踪与违令代价；59失去数字精读、60门内容量耗尽。本轮删掉局部重复动作后，每段仍改变选择条件，没有凭新名词重演同一工序，也未提前揭双陆机制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 61,
+      "quote": "断阶下缘的两组人隔着塌楼梯，只能听见彼此咳嗽。",
+      "reason": "两组分隔、呼吸压力开场可感，检查孔并未替代接人目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 61,
+      "quote": "他先把自己的腰绳交给弥娅",
+      "reason": "放弃拓全木漆，先承担挂绳接孩子；能力有限而仍作选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 61,
+      "quote": "内十八，外十六。",
+      "reason": "同一登记子集一名孩子从外入内，不凭空增加总人头；一包盐药耗用明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 61,
+      "quote": "你说孔朝哪。我还能写。",
+      "reason": "林栖在伤手限制下继续有岗位，林渡让她记录而非替她完成。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 61,
+      "quote": "如今，又是谁打开过孔位指向的门？",
+      "reason": "孔底痕与后封木漆给出可查问题，接下一章门边证物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 62,
+      "quote": "木板门只能向里推开一道缝。",
+      "reason": "未知门后、外侧16人仍等，私人线索与救人压力共存。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 62,
+      "quote": "我不进去。只收门边的东西。",
+      "reason": "林渡明确克制追父冲动，维护门口通风和外侧接应。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 62,
+      "quote": "一枚从外门底被尺拨出，一枚自内门滚来。",
+      "reason": "手套/楔/维修片与第二螺母分开，关联增加但不虚认父亲在场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 62,
+      "quote": "我记得他替我刻过名字。不是这些字。",
+      "reason": "妹妹记忆有自己的边界，既盼父亲又不能假装辨认。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 62,
+      "quote": "黑暗里那一下碰撞不能替父亲开口。",
+      "reason": "门后是否有人与父亲责任待问，林渡行动转向外侧缺应声者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 63,
+      "quote": "外壁那根松缆先发出一声闷响",
+      "reason": "拖平台的松缆逼迫立刻维修；无面者行动有效但不免警戒。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 63,
+      "quote": "同一组怎么站，看梁；谁先走，看伤情。",
+      "reason": "林渡将槐七按重量转为伤情次序/结构站位双规则。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 63,
+      "quote": "我的名字。你架错了，喊名字也没用。",
+      "reason": "无面者从匿名指路人变有限合作的槐七，姓名不等同安全保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 63,
+      "quote": "你不能只在掉下去以后说我错了。",
+      "reason": "林渡要求专家在当下承担说明责任，关系有可见推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 63,
+      "quote": "那边也要过。哪一处先试？",
+      "reason": "深处第二段斜台也在脱孔，合流后仍无出路，接下一章查下方。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 64,
+      "quote": "黑屏里映不出一个数字。",
+      "reason": "精读不可恢复，开头便限制读数能力，查下方有现实成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 64,
+      "quote": "下方先不走。",
+      "reason": "林渡放弃看似捷径的井，保留照明与人手先合流。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 64,
+      "quote": "钥匙拔出，蓝线熄灭",
+      "reason": "设备响应钥匙不等于形成路；有限排错产生真实认知变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 64,
+      "quote": "所谓只去一个人，身后仍要有人握绳",
+      "reason": "主角意识到个人探路也会让整队付出岗位代价，不凭勇气覆盖条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 64,
+      "quote": "搭好第一段跳台？",
+      "reason": "外绳磨白芯给时间压力，下一步明确搭路接外侧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 65,
+      "quote": "仓库维修门铺下去，先响的是旧铰链。",
+      "reason": "材料失败立刻出现，铺面与承重区分由尝试产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 65,
+      "quote": "先送完最不能等的。每过一组，都停。",
+      "reason": "两次暂列承载不足时优先伤员，但不把次数当机械保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 65,
+      "quote": "第二格仍空着",
+      "reason": "首副担架实过、裂纹未合，第二次仍待结构复核，损料代价不消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 65,
+      "quote": "摸到的却只是贴在衣下的空瘪袋皮",
+      "reason": "救护欲望与无水形成具体无力感，转为托担架帮伤腿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 65,
+      "quote": "第三组的绳子已经绷住了。",
+      "reason": "刚喊停但外侧未回声，风柱变化使下一章失败因果可追。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 66,
+      "quote": "第三副担架已经压上了门板。",
+      "reason": "停令未送达与未卸重直接接上前章，非无征兆事故。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 66,
+      "quote": "先记下。不能写成救回了，也不能写成死了。",
+      "reason": "林渡停止无条件下探，公开保留失联与未来搜寻责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 66,
+      "quote": "断口下失联，无落水声。",
+      "reason": "救回裴七却另失一名伤员；失联不偷换确认死亡。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 66,
+      "quote": "你这里还在流血。",
+      "reason": "裴七要省药给坠落者，杜姨仍处理眼前伤而不说另一人用不上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 66,
+      "quote": "他们得先找出刚才哪里算错",
+      "reason": "失败留下具体复盘任务，回声只提供后续搜寻线索。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 67,
+      "quote": "手臂的包布先渗出一点红",
+      "reason": "复盘开始仍带伤，重算不能让上一章代价消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 67,
+      "quote": "还要写我没腾开后面的落点。停的喊声，也没等外侧答。",
+      "reason": "主动承担组织缺漏，不将失联只归风或少年。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 67,
+      "quote": "林栖确认回弹，岑野才放下灯。",
+      "reason": "新双确认在实际通过中兑现；之后节点短撑裂损与尺贯裂仍继续付代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 67,
+      "quote": "她才发现自己也能叫这边停住。",
+      "reason": "不肯信的居民有叫停权，信任由可参与程序产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 67,
+      "quote": "木尺已经不能替他量下一段梁",
+      "reason": "工具损失与蓝粉/设备颜色的未知关联形成具体新问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 68,
+      "quote": "能跨断口的长梁只剩一根。",
+      "reason": "材料不能复用出完整返程，开头标出未来行动限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 68,
+      "quote": "回去让他们看着我。",
+      "reason": "祝衡利用受限身份主动拖追兵，林渡留在专业可及的梁尾。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 68,
+      "quote": "该接进来的都有内侧接手者应答",
+      "reason": "外侧与内侧完成合流，再转梁架向深处，两个阶段未混为一过。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 68,
+      "quote": "熄了也不报死。",
+      "reason": "祝衡离开前保留应声格，杜姨拒凭灯色划人，具体承担等待代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 68,
+      "quote": "接绳的人是在帮忙，还是仅仅拿住了他们唯一的前路。",
+      "reason": "未知协助者接绳，下一章必须验固定而非凭善意放人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 69,
+      "quote": "传来一声金属扣合。",
+      "reason": "对岸未知手完成固定但不能保平台，动作结果逼进一步查验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 69,
+      "quote": "同一轮。",
+      "reason": "林渡弥娅最后同轮各系独立安全绳离开，有限合作与风险共担落地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 69,
+      "quote": "长梁先在身后断开",
+      "reason": "主队完成深处第二段过口，唯一整梁失去，备用缆绳无完整返路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 69,
+      "quote": "你过去，站到光里那个人身边，她能看见你。",
+      "reason": "以可见接应者和母亲视线安抚孩子；单灯照对岸后明确移送。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 69,
+      "quote": "祝衡没有回来。",
+      "reason": "当前已过者核实与另一名待归分行，身份白光不能认定死活。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 70,
+      "quote": "脚下的平台向深处倾",
+      "reason": "过断口并非安全落地，固定孔松脱立刻逼再次组织下撤。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 70,
+      "quote": "先带他们站稳。",
+      "reason": "父亲口哨仍诱人追，林渡以现场护送为先，并保留之后找路入口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 70,
+      "quote": "最后一副担架已放稳。",
+      "reason": "分段低一层转移完成，深维修梯与当前近处维修层区别清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 70,
+      "quote": "父亲的那只手套没有丢。",
+      "reason": "兄妹未否认找父需求，林渡用照脚孔实际动作兑现暂缓追人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 70,
+      "quote": "纸角仍露着通向黑暗的细线。",
+      "reason": "父亲路线与待归祝衡仍未消失，下一批深维修层会继续面对未知守门者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 69,
+      "quote": "他们踩上的仍是倾斜旧平台",
+      "reason": "本篇兑现外侧合流与第二段断口跳跃，付出一名失联伤员、唯一整梁、缆绳与伤势；找父期待以62手套和70口哨局部给出，不把身份关联当完整答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 67,
+      "quote": "还要写我没腾开后面的落点",
+      "reason": "查孔取证→有限合作→失败失联→组织双确认→祝衡留后→无返程过口→父亲诱引而护送优先，选择难度按人员、材料、组织责任升级，修梁每次的戏剧作用不同。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 3,
+      "quote": "最后一副担架下了斜口，维修层仍没给队伍腾出多少地方。",
+      "criterion": "opening_pressure",
+      "verdict": "pass",
+      "reason": "前3—5句承接070转移落点、窄梁与缺水，喘息并不等于脱险；钉袭发生前，承载与安置压力已可见。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 25,
+      "quote": "“原地蹲，别退！”林渡喊。",
+      "criterion": "protagonist_choice",
+      "verdict": "pass",
+      "reason": "先拦住本能后退、托住担架，再为保册追人而扯裂旧伤；随后承认伤势、分派守位，不是无差别搬运动作。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 47,
+      "quote": "最后缺了六条，六个人却都还在梁间。",
+      "criterion": "visible_change",
+      "verdict": "pass",
+      "reason": "六条旧凭证被夺但六人仍在，原姓名保留并另列临时号；损失从攻击转成身份互认成本，没有新增失踪或临时门禁权限。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 99,
+      "quote": "杜姨替他压住渗血的袖口，才说：“你保住册子，也得让拿册子的人活着。”",
+      "criterion": "emotional_payoff",
+      "verdict": "pass",
+      "reason": "保人的公共账反过来要求保住领路者；新无水照护仍有人照看、换肩休息，情感兑现不依赖凭空给水。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 111,
+      "quote": "接下来要查的不只是通往父亲的路，还有谁能绕到伤员背后。先堵住这个缺口，才轮得到他们再向前走。",
+      "criterion": "next_question",
+      "verdict": "pass",
+      "reason": "钩子落在可追查的绕后路径与先堵缺口的行动；072开头确实继续处理落板和绕后线，非抽象神秘。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 72,
+      "quote": "板下的横撑已经脱开，空处一直伸向风口。",
+      "reason": "前章落板不是一次性惊吓，脱撑仍影响后排换位与换气。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 72,
+      "quote": "他转身，先帮他们确认担架该落在哪两点。",
+      "reason": "旧布带几乎使他追父，主动回身选择护队，私人目标受真实压制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 72,
+      "quote": "内侧一个小小的“栖”字露出来，最后一笔缝歪了，旁边留着蓝线。",
+      "reason": "普通步法升级为与家庭相关的物件，身份线索更贴近兄妹而仍不等于确认面具人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 72,
+      "quote": "妹妹抬头看他：“我也想认。”",
+      "reason": "妹妹有独立寻父欲望，父亲悬念的情绪不只归兄长占有。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 72,
+      "quote": "要求把绕到队伍背后的窄道指出来。",
+      "reason": "没有追上身份线索，仍争取可核路线，下一步继续查侧缝有行动方向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 73,
+      "quote": "内袋口却垂下来一截割断的线。",
+      "reason": "精确物件异常立刻交代仪器被夺，不再重复世界背景。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 73,
+      "quote": "“我不替你给他。”",
+      "reason": "林渡承认弥娅物权，又选择先保队不跨断梁，合作没有抹掉她的损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 73,
+      "quote": "名单已经改过，不能留下见证者。",
+      "reason": "旧录音给出具体清除条款，证据线升级，但断句留缺避免一次解谜。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 73,
+      "quote": "“我的伤口也在我身上。”弥娅说，“我不能因此看见它里面。”",
+      "reason": "她承认不知道而不认罪，人物脆弱和知识边界同时呈现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 73,
+      "quote": "“要什么，你现在说。”",
+      "reason": "仪器在对方手里，强抢会坠落，下一章交换条件构成具体期待。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 74,
+      "quote": "来人伏在斜梁下面，外套被割成几条，腕骨贴着一片红光。",
+      "reason": "失联祝衡带伤归来，视线先见伤手和红光，归队不是无代价瞬移。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 74,
+      "quote": "“你们已经拿走六条身份胶带，不能再拿走这张纸。”",
+      "reason": "林渡拒绝烧令，以保存证据反对无面者的保护逻辑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 74,
+      "quote": "装置没有放行，反而从远处回出尖短的拒绝声。",
+      "reason": "祝衡仍可被识别而失去放行能力，权限后果并未因归队重置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 74,
+      "quote": "“我们早就在告诉你。”",
+      "reason": "下城受害者对祝衡迟到的醒悟提出反驳，不把他现在受伤当赦免。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 74,
+      "quote": "林渡合好册子，叫岑野带人腾出通向深处的路。",
+      "reason": "外部命令仍执行，证据保存后必须撤入深处，下一步换门有紧迫性。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 75,
+      "quote": "板尾悬着，林渡若伸手去够，就得先将重量交给它。",
+      "reason": "交换位置本身存在坠落风险，不能直接抢回仪器。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 75,
+      "quote": "“我换。不是你欠的。”",
+      "reason": "林渡舍父亲遗物，主动拒把被夺仪器的责任算给弥娅。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 75,
+      "quote": "林渡这才松手。",
+      "reason": "交换实际完成，残尺物权移动；下一章收妥不是又一次交换。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 75,
+      "quote": "最后只抓住自己的衣角。",
+      "reason": "松手后的本能抓空让遗物损失可感，强于旁白宣布成长。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 75,
+      "quote": "他叫阿九先查拖擦有没有带动板架，再请杜姨报一次后排伤员的呼吸。",
+      "reason": "取回仪器不等于路安全，拖擦和通风同时制约下一步。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 5,
+      "quote": "内袋被割开，原来的线头短得接不上。林栖想用身份胶带从里面交叉粘住，撕下一点便停了。",
+      "criterion": "opening_pressure",
+      "verdict": "pass",
+      "reason": "开头承接075已交换的结果；仪器虽回到弥娅手中，护袋损坏和胶带两用竞争立刻限制扶人/操作，不把得物当零代价胜利。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 59,
+      "quote": "林渡没有抬头：“先让他们能喘。”",
+      "criterion": "protagonist_choice",
+      "verdict": "pass",
+      "reason": "面对槐七质问失尺后是否还能领路，优先组织换位、排障、保风缝；不靠尺或仪器替人判断安全，章末仍保留自己的试路决定。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 61,
+      "quote": "等风穿回去，他也没把短撑永久留给墙缝，先等担架落到稳梁，再取回这段还能用的木头。",
+      "criterion": "visible_change",
+      "verdict": "pass",
+      "reason": "堵风担架移到稳梁、通风恢复且旧撑回收；盖扣仅以旧铜线固定，未修复读数。无水补丁没有抹掉可见的局部工程结果。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 77,
+      "quote": "“怕你以为他还醒着。”杜姨说。",
+      "criterion": "emotional_payoff",
+      "verdict": "pass",
+      "reason": "亲口应号从登记工序变成确认眼前人还清醒的照护；无水仍坚持停下查看，不用一次润唇虚构好转。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 91,
+      "quote": "林渡把试路的手收回，要求先照清灯座下面。他已经交了尺，不能连下一脚该落哪里也一起交出去。",
+      "criterion": "next_question",
+      "verdict": "pass",
+      "reason": "交换不等于把路线判断交给槐七；新清槽与灯座下未知结构给出下一章具体查验对象，077从铜片和联杆接上。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 77,
+      "quote": "热气从接缝往上冒，夹着铁锈和被烘热的木油味",
+      "reason": "灯座危险从气味、热气与铜片状态进入，必须先排除可踩区域。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 77,
+      "quote": "“看不见底。”林渡说，“先按不能站。”",
+      "reason": "林渡不把机关声当通路，把未知承重按禁踩处理，避免让伤员试错。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 77,
+      "quote": "潮汐工程，联络节点七",
+      "reason": "读出局部设施名称与编号，敲击机制由猜人转向可观察装置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 77,
+      "quote": "“那一下呢？”他问。",
+      "reason": "本地机械停后多出一下，读者与人物同步得到有分量的新疑问，仍不指定父亲。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 77,
+      "quote": "他们得找到守墙的人，问清这里为什么被封。",
+      "reason": "局部联络装置没有自动开门，下一章由声源猜测转为追问守门者责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 78,
+      "quote": "墙后的光又亮了，穿过顶上一道旧缝，落在补墙的黑漆上。",
+      "reason": "前章墙后光变成可察旧漆与补墙，追问有具体物证支点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 78,
+      "quote": "“开门之前说清楚。”他看着槐七，“进去了，今天这些话还算数。救人不是不许再问。”",
+      "reason": "林渡接受开门救人又保留问责，以交换条件限制无面者垄断。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 78,
+      "quote": "议会写成事故，我们也把责任藏进了事故两个字。",
+      "reason": "无面者从仅是被放逐者变成主动隐瞒者，阵营理解显著改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 78,
+      "quote": "“纸没了，死的人也没回来。”",
+      "reason": "烧档自保的后果由当事人承认，不靠解说替其免责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 78,
+      "quote": "墙后的人肯不肯出来，是下一件要当面问清的事。",
+      "reason": "责任口述推向墙后本人，父亲现身期待在下一章获得兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 79,
+      "quote": "墙门打开之前，里面先放了三次气。",
+      "reason": "期待重逢先受压差与门轴危险约束，人物必须保命再认亲。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 79,
+      "quote": "“你已经把我留在你的事里了。”",
+      "reason": "林渡拒绝父亲以保护为由不认人的逻辑，主动提出自己不能退出的责任联系。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 79,
+      "quote": "林岑便从他腰侧抽出残尺。",
+      "reason": "父亲真实出现并取走遗物，主角失物与寻父两条线在眼前合拢。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 79,
+      "quote": "她把左手按住册角，问父亲还能不能把刚才那个孔位问题说完。",
+      "reason": "林栖识出童年细节却不扑入怀抱，团圆承诺兑现为可痛可问的重逢。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 79,
+      "quote": "“想让他们活，先把那盏灯重新点亮。”",
+      "reason": "父亲仍拖延责任回答，迫使主角带着问题先作业，下一章维修有两重压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 80,
+      "quote": "靠近一步便觉额角发烫。",
+      "reason": "灯柱风道烫人且伤员不能齐进，复灯受具体位置与热压限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 80,
+      "quote": "“先别送人进井。”林渡说，“开出能看落脚的位置再说。”",
+      "reason": "无面者争执时林渡坚持先验井沿，拒把同意开门当全队可通行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 80,
+      "quote": "外排两盏方才带亮的小灯随后熄灭，再也没跟着主灯闪。",
+      "reason": "有限修复付照明损失，换气改善没有万能恢复所有设备。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 80,
+      "quote": "“有回应。”她盯着那点光，“不知道是谁。”",
+      "reason": "遥远光点给出世界扩大的希望，身份仍未知，满足一部分跨海期待。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 80,
+      "quote": "他们要问那盏灯是谁点的，也得先让活人过得了这道门。",
+      "reason": "远端回应与眼前井台容量同时待解决，下一篇既有世界问题也有救人行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 79,
+      "quote": "“你还活着。”",
+      "reason": "寻找父亲的长期承诺在可视可闻的本人现身中兑现；父亲先守阀、拒认并取尺，使兑现有责任冲突。73夺仪器在75交换取回也有局部交付，付残尺而非免费解围。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 78,
+      "quote": "“有些人参与，有些人只负责把活人拖出来。议会写成事故，我们也把责任藏进了事故两个字。”",
+      "reason": "夺身份凭证升级到证据交易，再到无面者自认隐瞒和父亲本人现身；救人路线变成不得不与责任人合作。80远光扩大世界尺度，仍不提前揭双陆全史。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 81,
+      "quote": "升降门移到半高，停住了。盐壳从门顶落下来，打在林渡伸出的手背上。",
+      "reason": "上批门刚开启即卡半高，手背落盐与窄台不是背景天气，而是不能让伤员直接涌入的现场阻碍。",
+      "verdict": "pass",
+      "source_line": 3,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 81,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 81,
+      "quote": "林栖的笔停在册页上。林渡让她继续，声音比预想中轻。他不要父亲把“工程安排”说一遍，最后只留下一张没有主语的图。",
+      "reason": "他选择将父亲的责任写入公共记录，而不是只求私下解释；父子关系使选择不可替换为普通搬运工。",
+      "verdict": "pass",
+      "source_line": 87,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 81,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 81,
+      "quote": "“签过孔位单。”",
+      "reason": "从照片证明父亲在场，推进到父亲亲口承认签字；记录保留口述性质，尚不等于全套命令已证实。",
+      "verdict": "pass",
+      "source_line": 85,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 81,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 81,
+      "quote": "“知道。我以为还会开门。”",
+      "reason": "“知道下面有人住”的应答直接击中主角等待的责任问题；许诺重开不能免掉当时知情。",
+      "verdict": "pass",
+      "source_line": 97,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 81,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 81,
+      "quote": "“那就把后来怎么没开的，也拿出来。”",
+      "reason": "下一章要查的是失约的记录而非抽象谜底；末段门撞、守位使取证必须和保命同时进行。",
+      "verdict": "pass",
+      "source_line": 117,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 81,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 82,
+      "quote": "门还在往下走，门缝顶端的盐壳一粒粒落在阀柄上，林岑先将联络井的手摇阀转到半开。",
+      "reason": "下落门接住81末撞击，阀只能间接减轻抽力，查档时间由守门人的负担限制。",
+      "verdict": "pass",
+      "source_line": 3,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 82,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 82,
+      "quote": "林渡把“换气已修”与“交通未开”分成两行，交给林栖抄。",
+      "reason": "既不砸掉治理成果也不因此放过失约；主动改变记录口径保留两种事实。",
+      "verdict": "pass",
+      "source_line": 87,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 82,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 82,
+      "quote": "第三块干脆不列下城人数，只记换气阀、上层住户和可用材料。第四块连“居民”也不写，改成“核心单位”。",
+      "reason": "同梁号的四版记录让读者亲眼看到居民被移出计划，不只听父亲概括一次背叛。",
+      "verdict": "pass",
+      "source_line": 39,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 82,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 82,
+      "quote": "“你每一次都留了记录。”林渡将册页收拢，“也每一次都没有让我们知道。”",
+      "reason": "追责由工程失约落到四次对家人隐瞒，愤怒有具体次数和对象；垫盒后的道德解释改为笔尖停在问号旁，照护没有抹掉追问。",
+      "verdict": "pass",
+      "source_line": 111,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 82,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 82,
+      "quote": "井下传来一声闷响；脚底的横梁跟着轻轻一震。阿九抬起头，林渡把铁盒推回不挡路的墙角，自己先去扶稳门边的伤员。关于回家的问题，他还没有问完。",
+      "reason": "井下闷响迫使林渡先扶人，重建证词与父亲为何不归家的追问仍未了结；下一章有责任对话和行动中断两层接续。",
+      "verdict": "pass",
+      "source_line": 113,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 82,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 83,
+      "quote": "井下的闷响停了，配重却还在细颤。井口冒出的热风裹着旧铁屑，从脚踝往上贴，窄台上的木板被烘得发涩。",
+      "reason": "上章震动没有被忘掉；后接堵窄台使父子对质占用唯一可走位置，环境与私人冲突相互挤压。",
+      "verdict": "pass",
+      "source_line": 3,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 83,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 83,
+      "quote": "林渡的拳头挥了出去。他最后还是偏开了，指节擦过面具外缘，砸在父亲身后的木框上。",
+      "reason": "选择不直接打父亲却造成框损，非无代价的理智主角；随后亲自补救才使选择完整。",
+      "verdict": "pass",
+      "source_line": 113,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 83,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 83,
+      "quote": "裂纹没再长。他让林栖把这根木框的新裂也记下，别等换人扶门时，有人以为只是旧伤照常靠上去。",
+      "reason": "他的情绪造成可持续的结构损伤，也改变换岗要求，不是下一段就抹去的发泄。",
+      "verdict": "pass",
+      "source_line": 125,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 83,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 83,
+      "quote": "林渡盯住那条被自己扩大了的裂：“这道我弄的，我记。你那道也别漏。”",
+      "reason": "主角也接受记责，父子责任形成可回看的对照，没有靠拳头迫使和解。",
+      "verdict": "pass",
+      "source_line": 131,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 83,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 83,
+      "quote": "这股潮声通向哪里？他先让杜姨把孩子移开井边，再请弥娅过来听。",
+      "reason": "人物下一步是护孩子、请专业者辨声；新潮声将私人追问重新连回撤离路。",
+      "verdict": "pass",
+      "source_line": 139,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 83,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 84,
+      "quote": "它贴着联络井的山侧，只够人沿检修踏钉攀爬，不能运担架。往上能靠近侧门外的旧线路，巡查正在那里传送名单。",
+      "reason": "开头祝衡出发明确山侧配重井及名单风险，窄道不成为全队可用的便捷出口。",
+      "verdict": "pass",
+      "source_line": 5,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 84,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 84,
+      "quote": "林渡把册页合上前又看了一眼那条空线，没让她在那四项后面添第五项。",
+      "reason": "只让已看见的空白、刮痕等进入记录，不用父亲回避替他编承认，选择约束自己的愤怒。",
+      "verdict": "pass",
+      "source_line": 93,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 84,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 84,
+      "quote": "“方向能对上，刀口对不上。”",
+      "reason": "两份同日空缺出现可比较的痕迹，却不能推出同一工具/责任人；异常从抽象损坏成为可追查的差异。",
+      "verdict": "pass",
+      "source_line": 57,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 84,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 84,
+      "quote": "她把手从薄片边缘收回，指尖在裤缝上擦掉细灰：“我以前没有这样问过。”",
+      "reason": "弥娅第一次承认未同样质询己方档案，信任的改变由自己的手和回答承担，不需要揭露整个双陆真相。",
+      "verdict": "pass",
+      "source_line": 67,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 84,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 84,
+      "quote": "这一次，回应在升降门后的更深处。他叫槐七先别收起灯号表，把门前的地留出来。",
+      "reason": "更深处回应与祝衡未归并存，读者要看他们如何为开门留地并判断回应，非只问那里神秘什么。",
+      "verdict": "pass",
+      "source_line": 103,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 84,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 85,
+      "quote": "门前仍要留给担架和看配重的人，谁也不能挡在那里争。",
+      "reason": "开头议事不是危险暂停：可争论的位置先受搬运和守门岗位限制，随后门缝继续下降。",
+      "verdict": "pass",
+      "source_line": 5,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 85,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 85,
+      "quote": "林渡没有接着讲大道理。他请杜姨把裴七的担架先移到等候线前，问三号若门只升一掌，愿不愿和他一同托低担架，把裴七送到能够接手的位置。",
+      "reason": "以自己参与托担架的可执行方案回应守门权争论，承担具体风险而不只宣布善意。",
+      "verdict": "pass",
+      "source_line": 73,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 85,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 85,
+      "quote": "门体向上抬了一掌宽。",
+      "reason": "议事转成岗位配合，门实际多出一掌，取得有限而非全开的工程成果。",
+      "verdict": "pass",
+      "source_line": 99,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 85,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 85,
+      "quote": "三号把脚从薄铜旁挪开，盯着那条缝，没答应，却也没再说先送谁的同伴。",
+      "reason": "反对者并未突然变成同盟，但愿意回到担架能否过门的问题；关系有小幅可信松动。",
+      "verdict": "pass",
+      "source_line": 73,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 85,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 85,
+      "quote": "更深处的封墙后，传来一声孩子的咳嗽。",
+      "reason": "已交代现有孩子在灯柱旁，新声源因此不能算同一人；林渡稳担架看门缝，把是否开门变成如何救具体人。",
+      "verdict": "pass",
+      "source_line": 101,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 85,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 86,
+      "quote": "林渡让门前的人别动，自己转到井下。祝衡抓着最下一级踏钉，左腿悬着，血沿裤缝拖到靴边。",
+      "reason": "祝衡按原井返回但带来伤势，先稳搬运再接人，不让档案到手掩盖代价。",
+      "verdict": "pass",
+      "source_line": 5,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 86,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 86,
+      "quote": "“原件写死，我们的见证写活。”林渡说。",
+      "reason": "不涂掉原件，也不给祝衡凭空恢复权限；以公开见证对抗制度清除。",
+      "verdict": "pass",
+      "source_line": 41,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 86,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 86,
+      "quote": "原先那圈失效红印已经不亮了。",
+      "reason": "失效从拒绝变为彻底熄灭，又出现列死与灭口执行范围；制度通道更少，证据却更具体。",
+      "verdict": "pass",
+      "source_line": 23,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 86,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 86,
+      "quote": "祝衡坐在她脚边报自己的名字，第一次需要等一个下城区孩子确认记清了。",
+      "reason": "执行身份规则的人反过来依靠受压者留名，角色地位翻转落在报姓名的小动作上。",
+      "verdict": "pass",
+      "source_line": 43,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 86,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 86,
+      "quote": "“别靠门。有人在开。”",
+      "reason": "主角向墙后孩子作有限承诺，未保证很快；记录片非钥匙及等足担架高度明确下一章必须实现的行动。",
+      "verdict": "pass",
+      "source_line": 109,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 86,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 87,
+      "quote": "升降门重新升到半高时，林渡没有先钻过去。",
+      "reason": "压力从能否开转为如何分批过门；紧接窄台最多十人的局部容量说明为什么不能抢先。",
+      "verdict": "pass",
+      "source_line": 3,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 87,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 87,
+      "quote": "林渡没有立即送第二副。他让抬手退到另一侧，看见窄台重新空出来，才向杜姨点头。",
+      "reason": "他主动牺牲速度保接力位置，反对拥挤的组织能力通过实际等候表现。",
+      "verdict": "pass",
+      "source_line": 13,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 87,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 87,
+      "quote": "尺齿只推开一小段弹片，台边薄盖便松出一道缝。里面躺着一把扁平的潮汐晶片钥匙，表面刻槽与槐七腰上的拆闸钥匙不同，也与林渡一直带着的旧维修钥匙不同。",
+      "reason": "钥匙期待局部兑现，三件工具分清；得到工具随即触发下沉风险，不是免费升级。",
+      "verdict": "pass",
+      "source_line": 55,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 87,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 87,
+      "quote": "红光没有报出姓名。林渡把孩子让到门内，叫他跟紧前面的人，不沿光跑。",
+      "reason": "七号过门但不被红光重新定义身份，随后核母亲跟上，兑现85临时号只用于不漏人的承诺。",
+      "verdict": "pass",
+      "source_line": 21,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 87,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 87,
+      "quote": "林渡盯住工作台脚。那里刚停的木粉又落下一撮，低室随之再次下沉。",
+      "reason": "锁停止仍下沉，读者要看怎样限幅处置、先挪伤员，而非再等一件新神器。",
+      "verdict": "pass",
+      "source_line": 89,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 87,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 88,
+      "quote": "第二次下沉停在一声闷响上。",
+      "reason": "直接承接87，无跳转；紧接地板裂缝、无全队后退路，限制下一次试验。",
+      "verdict": "pass",
+      "source_line": 3,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+      "review_basis": "current_full_text_088_reread_and_single_sentence_delta_verified",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 88,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 88,
+      "quote": "“她把原件拿出来了。”他说，“谁刮的，还得查。”",
+      "reason": "林渡保护公开证据者但不担保她的全部档案，信任以可核查行为为依据；本轮明确请三号观察裂缝，槐七继续保持外锁，不再要读者回跳辨认“他”。",
+      "verdict": "pass",
+      "source_line": 67,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+      "review_basis": "current_full_text_088_reread_and_single_sentence_delta_verified",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 88,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 88,
+      "quote": "林渡看见接口旁的灯丝变亮，同时原本照着工作台的一处小灯暗下去。",
+      "reason": "只用既有旧路挪供能，局部接口响应以另一灯暗为代价，黑屏仪器没有被修复。",
+      "verdict": "pass",
+      "source_line": 83,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+      "review_basis": "current_full_text_088_reread_and_single_sentence_delta_verified",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 88,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 88,
+      "quote": "弥娅指向槐七托着的晶片钥匙，灯光照出边缘三道刻槽：“我来。你别松外锁。”",
+      "reason": "本轮完整复读后重新判断：林渡维护公开原件的弥娅而不替档案担保，三号的真假质疑被转成可观察尺寸与有限试合，弥娅接内锁、槐七守外锁、林岑报停止线。历史未知只作一次总限定；随后一灯亮一灯暗的局部响应兑现配合有效，黑屏不复原。关系维护与有限工程成果现在连成行动回报，不再被四轮同义历史说明挤薄。墙后孩子真正获救仍延至89，本章已明确撤锁先救人的行动，不把89的结果冒记为88已发生。 本轮仅将代词明确成三号；重新读88全文后，维护公开原件者、分岗试合及有限响应的回报仍成立，没新增解释拖延或更改救人兑现位置。",
+      "verdict": "pass",
+      "source_line": 79,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+      "review_basis": "current_full_text_088_reread_and_single_sentence_delta_verified",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 88,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 88,
+      "quote": "林渡没有再等回声。他把第一处撬点指给槐七，决定先让封板后的人出来。",
+      "reason": "放弃等待更多接口答案、先救人；整座断阶震动把89的行动和时限都立住。有限试合后立刻指撬点，读者要看怎样救出墙后孩子，而不是再听一轮相同历史限定。",
+      "verdict": "pass",
+      "source_line": 99,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+      "review_basis": "current_full_text_088_reread_and_single_sentence_delta_verified",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 88,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 89,
+      "quote": "震动从脚下升到墙体，灯罩跟着撞上支架。",
+      "reason": "危机从88微震扩大到整屋倾斜和短促喘息，紧接山侧撤人命令，立即兑现坍塌威胁。",
+      "verdict": "pass",
+      "source_line": 3,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 89,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 89,
+      "quote": "“别拿这句话当办法。”",
+      "reason": "林渡拒绝父亲以牺牲顶替解决方法；随后传递方向、卸掉连杆负荷再分工救人，选择并非单凭意志拉起父亲。",
+      "verdict": "pass",
+      "source_line": 29,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 89,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 89,
+      "quote": "裂开的图案后，露出一条向上伸的狭窄通道。",
+      "reason": "封板打开、新孩子获救、上行路显露，代价是低室倾斜及父亲昏迷，不把墙裂当无损开门。",
+      "verdict": "pass",
+      "source_line": 87,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 89,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 89,
+      "quote": "两个孩子隔着一盏灯，林渡终于不必再靠声音分辨谁在墙内。",
+      "reason": "85起承诺的墙后孩子终于进入眼前活人名单，且未偷换七号或失联伤员；父亲先能说话、缓气后才被观察到垂头不答，修订没有用预知昏迷抢叙下一段。",
+      "verdict": "pass",
+      "source_line": 85,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 89,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 89,
+      "quote": "封板外框拆下的短撑仍卡在板沿，不能抽走算作下一段路的备料。",
+      "reason": "板沿短撑仍不能挪作下一段备料，父亲昏迷、狭道待查形成整备问题；90另用清人后侧向回收门框短梁解决可用料来源，不是抽掉此短撑。",
+      "verdict": "pass",
+      "source_line": 91,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 89,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 90,
+      "quote": "林岑醒来时，右肩已经被木板托住。",
+      "reason": "接89垂头失去应答后的醒来与撞肩，从托臂固定开始，未用认罪对话跳过身体代价；器具残液不接触人、药包未打开，低室仍倾斜限制停留。",
+      "verdict": "pass",
+      "source_line": 3,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 90,
+        "criterion": "opening_pressure"
+      }
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 90,
+      "quote": "“那你能指认的，和猜的分开。”",
+      "reason": "林渡选择接证词而不替父亲填签名或动机，受伤和救人仍独立于爆破责任。",
+      "verdict": "pass",
+      "source_line": 69,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 90,
+        "criterion": "protagonist_choice"
+      }
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 90,
+      "quote": "这一次他松开了手。林渡接住，先试裂口有没有继续散开，再收在自己能取到的位置。",
+      "reason": "木尺由父亲正式交回林渡，证物/路线责任转移，但裂纹与功能损失持续。",
+      "verdict": "pass",
+      "source_line": 97,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 90,
+        "criterion": "visible_change"
+      }
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 90,
+      "quote": "“拿着。是证词的一部分。”他说，“不是原谅。”",
+      "reason": "81起的追问得到点火口述和实物交接，关系没有靠救父一笔勾销；读者拿到局部答案而仍可以追责。",
+      "verdict": "pass",
+      "source_line": 95,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 90,
+        "criterion": "emotional_payoff"
+      }
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 90,
+      "quote": "他没有说要追父亲，也没有说原谅。只让槐七先看狭道的第一段梁，把伤员留在能接手的位置，别听到船声就一齐往上挤。",
+      "reason": "船启动形成世界时限、两端频率条件尚未齐，人物先查第一段梁。伤员和孩子先移至狭道入口山侧，旧门框下清人后回收唯一短梁、停旧路，给91临时接桥留下材料与人员接口；灯亮仅提供行动方向，不保证上城区接纳。",
+      "verdict": "pass",
+      "source_line": 117,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "review_basis": "prior_actual_reading_inherited_after_identical_sha_verification",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 90,
+        "criterion": "next_question"
+      }
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 90,
+      "quote": "“拿着。是证词的一部分。”他说，“不是原谅。”",
+      "reason": "80边界提出联络节点与父亲往事，本篇81—83交付知情/四次失约/弃家选择，86交付灭口范围，89兑现85墙后孩子，90点火口述和交尺收束。建造者、全套签名与全轨通行仍明确未证，不把延期当已回收。",
+      "verdict": "pass",
+      "source_line": 95,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "review_basis": "prior_actual_batch_reading_plus_088_current_full_reread; no other B09 bytes changed",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 90,
+        "criterion": "promise_payoff"
+      }
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 89,
+      "quote": "林岑坐落时，脸色灰得几乎和木粉一样。林渡问了一声，他张了张嘴没答出，头便垂下去。",
+      "reason": "取证占用换气时间→85共同决定送人→86证人被列死→87—89试接口受低室结构限制、救父与孩子并行→90带伤员与回收剩料向狭道走。88将同义解释改成停止线、外内锁分岗和有限试合；选择对象、关系、人员与资源代价均逐级改变，没有凭空补新事故。",
+      "verdict": "pass",
+      "source_line": 69,
+      "source_path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "review_basis": "prior_actual_batch_reading_plus_088_current_full_reread; no other B09 bytes changed",
+      "previous_check_evidence": {
+        "path": "harness/maintenance/R004/B09/resume-recheck.json",
+        "sha256": "c4af0cf054b1a4d3ca02448adb188bf13b53393b51d421dc0f4620da8dcef1ef",
+        "chapter": 89,
+        "criterion": "progressive_stakes"
+      }
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 91,
+      "quote": "原来嵌在墙内的部分露出一线新木，整根梁正一寸寸往外退。",
+      "reason": "风停、灰落后立刻看见梁端退出墙体，地点是仍在转运中的狭道，开篇危险有动作依据。删旧账尾评没有切断分栏点名。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 91,
+      "quote": "“先送不能爬的。孩子跟在后面。”",
+      "reason": "林渡拒绝照搬父亲先送孩子的安排，按担架将无法横挪的风险排次序；采纳工法提醒却保留组织决定权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 91,
+      "quote": "门板碎成两截，带着不能收回的绳段落进黑暗。",
+      "reason": "人被接住但桥和绳损失不可逆，队伍失去退路；不是换地点重复搭同一座无损桥。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 91,
+      "quote": "父亲伸手要替他系结，林渡把手收回，叫岑野帮忙。",
+      "reason": "救援成功与父子未和解同时落在选择谁包扎的动作上；删分栏主题总结不削弱人物温度或责任边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 91,
+      "quote": "林渡把伤员重新排在山侧，让林栖收住反光的册页。狭道尽头，那道先前看不见的门正在升起。",
+      "reason": "防卫闸改变前路，人物随即调整伤员和册页位置；下一章要如何经过门与破路是具体问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 92,
+      "quote": "来路接着狭道，去路沿山壁向上，两段之间缺了七尺，下面是看不见底的轨槽。",
+      "reason": "门只开到膝高，门外又断七尺；上章门开不等于获救，阻碍具体且立即可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 92,
+      "quote": "“能动手的先架，不能动的先过。去对面是接活，不是占位置。”",
+      "reason": "槐七和林渡将争先次序改成接应岗位，随后林渡检查抓绳能力、允许伤员带非承重线；组织而非身份压服解决冲突。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 92,
+      "quote": "没有人在这一回少掉，木框和大半桥面却留在缺口。",
+      "reason": "过桥确实完成，但箱框拆用、固定绳弃失阻止资源重置；下一道阻碍不能照搬原桥。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 92,
+      "quote": "名字写进册子时，他的手还在抖，卡扣却没有松。",
+      "reason": "报真名与仍承担岗位发生在同一动作里；承认旧债而不即时赦免，合作回报有限可信。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 92,
+      "quote": "他话音刚落，远处广播响起来，清楚念出年轻维修员刚才报过的姓名。那人抬起头，林栖立即把灯压低，林渡叫他离开门口的亮处。",
+      "reason": "公开身份换来点名风险，世界广播与藏身行动相连，下一章追问记录如何追到他们。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 93,
+      "quote": "广播里的姓名只念了一遍，随后换成标准口径：下城区人员已全部转移，断阶区维持封闭。",
+      "reason": "活人还在转运，广播却宣布已转移，开头就承接名单威胁；不是先停下来介绍档案制度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 93,
+      "quote": "其余行找不到本人，林渡让妹妹另记“本人不在场，未问得”，自己承担毁去这一卷的决定。",
+      "reason": "现场能核者问过意愿，未在场者不被伪称同意；林渡承担毁原件的责任，不把追兵逼近当作忽略来源的借口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 93,
+      "quote": "终端下方的窄纸口吐出一行字：“见证者名单，已上传。”",
+      "reason": "烧掉一份追捕表并未清除终端，反使临时册暴露；短暂保存证据的成功产生新的信息风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 93,
+      "quote": "林渡让她把自己的名字添在同意焚毁的人后面。这个选择会让证据少一份，不能只留祝衡来承担。",
+      "reason": "读回纠错、补记见证人及林渡署名让焚毁不是徒然失证；阿九新增方位催报使承担责任的过程不再像危险静止。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 93,
+      "quote": "那道广播开始念他们的临时编号。林渡叫岑野先看离开平台的路，自己护着册页退入暗处；纸上留下姓名，并不等于那些姓名已经安全。",
+      "reason": "被上传的具体内容马上进入广播，保护册页与撤离同步启动；读者追问被识别后如何继续过断阶。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 94,
+      "quote": "前方的热雾从下往上冲，夹着细小黑屑，撞上护栏便留下断续的锈线；整条通路只剩一线灰白边缘，伤员没法跟着看不清的脚印走。",
+      "reason": "上章撤离后的新压力直接是看不清可送担架的路，需要延迟喷口而非恢复所有工程。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 94,
+      "quote": "他叫槐七先确认阀在松手时会退向哪边，再让岑野复述失败信号：针若不再回摆，不等喊出时辰，前面便按撤离准备走。",
+      "reason": "林渡不是盲目同意第二次试接，而是先规定失效退出条件；弥娅测位、槐七压杆、林岑稳座各有受限作用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 94,
+      "quote": "弹簧在壳里断开，指针斜落在裂盘上，再没有回去。",
+      "reason": "人工改阀暂时露出可行轨边，却彻底失去实时测量。末段不到半时辰明确是最后回摆粗估，不把报废指针复活。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 94,
+      "quote": "林渡让她把垫片与旧薄片收好，只保留最后那次观察，不在纸上填下一次应有的数。",
+      "reason": "继续走的信任建立在承认不知道、保住实测记录上；仪器损失既有能力代价，也使两人风险共担落地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 94,
+      "quote": "山体深处传来一声低沉回响。林渡抬头，叫杜姨报还没过完的人，不再等报废的指针替他们宣布安全。",
+      "reason": "喷发征兆与未过完的人同时在场，下一断口的转运必须赶在实际风变前；不是伪精确倒数拖悬念。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 95,
+      "quote": "断阶上端只剩最后一道裂口。它约两人宽，对面露着旧轨，轨面上的白色沉垢被热汽湿了一层，又迅速干开。",
+      "reason": "最后裂口距离、轨面状态和热汽给转运建立空间压力，随后区分能走者与担架，不把标题跳跃写成全员跳远。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 95,
+      "quote": "林渡当面说清，只要绳路还在，就把套绳送回接他；桩和残轨撑不到那时，便没有第二条路。",
+      "reason": "已先说明末人自套绳再松无人接替的桩。林渡与维修者选择承担无法保证回撤的风险，并承诺有线仍接回；不再把留守预设成保证必死，AV2-N01对选择的阻断关闭。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 95,
+      "quote": "裂口向两边扩大，残轨连同木桩坠入雾里。",
+      "reason": "伤员到岸之后，实际热汽/轨枕松脱及二次爆裂使回送失去通路；损失是事件造成的，不是新增无回程规则。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 95,
+      "quote": "槐七按着空掌站了一会儿，走到林栖身边，听她照册页把刚抄下的姓名再读一遍，才去扶伤员。",
+      "reason": "险中仍尝试回送而未能救回，使姓名保存的回报带着可信遗憾；读的是册中抄名，木屑未复生，失联未冒充死亡。原先技术必死疑问不再夺走情绪注意。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 95,
+      "quote": "没人再把那片灯光当作欢迎，但他们只能向那里去。",
+      "reason": "上城区白灯亮起却无退路，人物必须进城求生；自然引向身份与接应问题，而非再凭空追加一支追兵。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 96,
+      "quote": "上城区外缘没有欢迎的人。",
+      "reason": "结实平路与无人接应形成落差，延续095对白灯的疑虑，未到新地图便清空危机。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 96,
+      "quote": "林渡让他先看阿九指出的锁杆，再问板后若是配重，伤员往哪边躲。",
+      "reason": "拦住砸门，令冲动者考虑可躲空间；选择保存救援能力而非借愤怒硬闯。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 96,
+      "quote": "最后一齿仍从旧裂口脱落，掉在两人之间。",
+      "reason": "尺从裂损继续到脱齿，门又不认活人/临时册；工具与安全区预期都改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 96,
+      "quote": "林渡把脱齿放进包尺的旧布，收好尺身。",
+      "reason": "收一枚齿让职业、父子共同记忆的磨损可感；不立即和解，也不让尺发神力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 96,
+      "quote": "他把孩子拢回队伍中间，指向长屋所在的那条街：“先找能听见我们说话的人。别照广播站在门前等。”",
+      "reason": "欢迎广播与空街相反，人物转找真实应答者；下一章有目的，不是漫游新地图。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 97,
+      "quote": "这里靠山，屋檐间留着窄窄的空隙，可以避开正对街心的识读灯，却躲不开不断升高的温度。",
+      "reason": "藏踪与避热无法兼得，空街探索仍承受身份拒绝的压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 97,
+      "quote": "他不催祝衡把猜测说成答案，只让林栖把整串编号按原样抄，不擅自添上“已到达”。",
+      "reason": "理解家属期待却不伪造证据，同时给寻找限时；林渡在领队与个人愿望间取舍。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 97,
+      "quote": "三短一长，随后侧街的门同时锁紧，原来能看进去的一条窗缝也被内板遮住。",
+      "reason": "旧节律在此对应锁街，认识被修正；找线索转为制度装置继续收紧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 97,
+      "quote": "祝衡看她写完，才把鞋扣放进衣内，与记录片残段分开，免得金属边磨伤薄片。",
+      "reason": "可携走的家属线索给希望实物支点，又不宣布妹妹已获救来冒领情绪。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 97,
+      "quote": "林渡数了一遍眼前孩子，全在身旁，哭声却隔着厚板往外挤。",
+      "reason": "哭声来自另一群孩子，船也在上方；岑野盯船、林渡找墙口，下章有救还是追的具体压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 98,
+      "quote": "林渡沿山侧走到尽头，又从另一头折回，始终找不到能推开的门缝。",
+      "reason": "确有哭声但无入口，目标与空间阻碍同现；不需先懂术语才知道要救谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 98,
+      "quote": "“我们来接活人，不是来补一张准入纸。”他对里面说。",
+      "reason": "册子未能开门后，把目的落回接人，再用侧推退锁和短触配合，不让身份系统代替救人判断。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 98,
+      "quote": "四个人逐个离开梯底。",
+      "reason": "孩子真的到门外；针阵、损毁铰链、微量饮水有代价和交接，不是又发现神秘门。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 98,
+      "quote": "女孩终于伸出手。林渡托肘，杜姨在后面接腰，让她先坐到墙外，再带第二个。",
+      "reason": "从不信任到主动伸手，救援不止解锁成功；耐心与同类处境换来信任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 98,
+      "quote": "四个孩子已在外面，可屋里的锁并不打算留下这条路。",
+      "reason": "墙缝闭拢、巡查灯进入，要求立刻带人离开；自然承接核身份与寻路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 99,
+      "quote": "四个孩子被接离长屋门槛时，广播仍在重复：“居民已全部撤离。”",
+      "reason": "四个活孩子与标准广播当场矛盾，同时要安置新救者；调查不是独立于救援的资料插播。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 99,
+      "quote": "“一起走。孩子在中间。”",
+      "reason": "林渡拒绝把追船和照护分成两支没有足够灯绳的队伍；旧图每转角核实，发现秘密服从现有人的安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 99,
+      "quote": "“谁按的？”林渡问。\n\n她摇头：“这里只看得到它在重播。”",
+      "reason": "相隔七年的日期、存档白框和同一停顿确证了重播，却没有因此知晓操作者；小片角离腕、主体覆膜留腕的动作使核查与后续路线读取连续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 99,
+      "quote": "杜姨在册上找到林渡那一行，让他自己应。林渡应了一声，把册页递还，没有去和广播比谁喊得大。",
+      "reason": "广播否认身份时，现实的互相点应给予人物承认；父亲挡木刺后仍另记口述，不再由尾评替读者判抵账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 99,
+      "quote": "他先接过杜姨抬不动的担架尾，才向前端示意。去看看那艘船，不等于答应将孩子交给它。",
+      "reason": "白船将离、旧图指向平台而门可能已改，下一章既要赶上又要判断能否交人；选择带着孩子而非许诺安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 100,
+      "quote": "他每过一根立柱，就用鞋尖在浮灰上划一道，数到第五根才停，随即举手让前面的担架放慢。追不上就追不上，不能先把伤员扔在路上。",
+      "reason": "移动白船与担架速度构成开篇冲突，林渡先保留队伍而不是被追船场面吞掉既有目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 100,
+      "quote": "他没有喊进船。四个长屋孩子也不往舱里送，岑野守在箱边，将两处的人分开报数。",
+      "reason": "面对检修舱孩子选择向平台接人而非盲目登船；稳定梁木箱区和分来源登记保留照护/信息边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 100,
+      "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+      "reason": "救出十余舱孩后处理水明确分尽，绳扣也弃失且船已离开；获救人数增加与资源下降同时成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 100,
+      "quote": "他叫前面已经出去的孩子回一句话，让里面的人听见同伴没有被带走。那只手终于松了。",
+      "reason": "接人的信任由同伴回答而不是豪言换来；槐七仍一手压绳另一手短托小臂，主角撤离也未消除工程限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 100,
+      "quote": "自己沿新亮起的船灯寻找仍接着平台的路，走几步便回头核一次人数。",
+      "reason": "更多撤离船把问题扩大，林渡仍先带眼前人沿可通平台行动；武器站的功能和去向未被直接揭开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 100,
+      "quote": "“目的地：海峡武器站。非核心居民不得回收。”",
+      "reason": "091—100跨断阶保人、保存真实记录的承诺已在到上城、带出两组孩子与现场拒收文字中局部兑现；095只承诺尽力回接，失败不再依赖必死设定。双陆历史、武器站内部和失联者结局仍留待后文。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 100,
+      "quote": "上城区深处，更多船灯一盏接一盏亮起。",
+      "reason": "新核六章与四章同SHA承接后，压力仍从坍塌/材料损耗、095失联，升级到空城与身份否认，再到选择性撤离。孩子更多而水、绳、卡扣更少，改变下一步选择条件，不只是连续换桥。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "fact_logic_verdict": "pass",
+  "attraction_verdict": "pass",
+  "components": [
+    {
+      "id": "B06",
+      "chapters": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "report": {
+        "path": "harness/maintenance/R004/B06/resume-recheck2.json",
+        "sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8"
+      },
+      "source_digest": "932d4ccba0c1790bf8fcdf36285dace20f19aa2091dcf5c5ed7aa7c5af840d09",
+      "coverage": "原独立读者本轮仅054全文、053末10行/055前23行；其余九章SHA相同继承。",
+      "compiler_is_new_reader": false
+    },
+    {
+      "id": "B07",
+      "chapters": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "report": {
+        "path": "harness/maintenance/R004/B07/final.json",
+        "sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31"
+      },
+      "source_digest": "9ee64fdb866df7f30c8f0c3dc63a8f1118747856e0ac465a7f0ea5ae6dd7fd07",
+      "coverage": "原报告声明先完整读061—070工作稿，再查资料，并全文核060接口；曾读071—090，非对后续未知的盲读。",
+      "compiler_is_new_reader": false
+    },
+    {
+      "id": "B08",
+      "chapters": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "report": {
+        "path": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+        "sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463"
+      },
+      "source_digest": "6f54feb6c8aab789ffb9e7db5fbc140a91fac3ed6301a08ed1966dc7c3e6a114",
+      "coverage": "原独立补审只全文读071/076；070/072/075/077/079/049及资源资料为指定摘读；40项逐章检查和2项篇章判断继承。",
+      "compiler_is_new_reader": false
+    },
+    {
+      "id": "B09",
+      "chapters": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "report": {
+        "path": "harness/maintenance/R004/B09/resume-recheck2.json",
+        "sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd"
+      },
+      "source_digest": "59f444a86084be34e99947e85a136b559af0280196625513c631a1526b55490f",
+      "coverage": "原独立读者本轮只088全文；其余九章SHA相同继承；091全文仅用于90→91接口，不放行B10。",
+      "compiler_is_new_reader": false
+    },
+    {
+      "id": "B10",
+      "chapters": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "report": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4"
+      },
+      "source_digest": "0c8177fea94a79633e8528250be1d286d2210a23bb07ef7e2258f951d3f1ac1e",
+      "coverage": "manuscripts.path为正式正文目标路径，sha256来自对应工作稿；未发布且不宣称正式旧稿字节相同。完整十章结论是六章新读＋四章同SHA历史全文结论的透明聚合。",
+      "compiler_is_new_reader": false
+    }
+  ],
+  "check_provenance": [
+    {
+      "aggregate_index": 0,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/0",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 1,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/1",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 2,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/2",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 3,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/3",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 4,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/4",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 5,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/5",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 6,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/6",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 7,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/7",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 8,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/8",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 9,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/9",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 10,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/10",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 11,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/11",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 12,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/12",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 13,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/13",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 14,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/14",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 15,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/15",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 16,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/16",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 17,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/17",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 18,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/18",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 19,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/19",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 20,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/20",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 21,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/21",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 22,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/22",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 23,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/23",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 24,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/24",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 25,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/25",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 26,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/26",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 27,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/27",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 28,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/28",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 29,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/29",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 30,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/30",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 31,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/31",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 32,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/32",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 33,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/33",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 34,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/34",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 35,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/35",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 36,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/36",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 37,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/37",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 38,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/38",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 39,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/39",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 40,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/40",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 41,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/41",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 42,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/42",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 43,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/43",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 44,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/44",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 45,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/45",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 46,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/46",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 47,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/47",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 48,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/48",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 49,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/49",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 50,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/50",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "historical_batch_judgment_carried_in_selected_report"
+    },
+    {
+      "aggregate_index": 51,
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "source_report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "source_json_pointer": "/checks/51",
+      "reviewer_as_recorded": "01a1b002-648c-7311-a0a2-647911278770",
+      "scope_mode": "historical_batch_judgment_carried_in_selected_report"
+    },
+    {
+      "aggregate_index": 52,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/0",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 53,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/1",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 54,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/2",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 55,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/3",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 56,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/4",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 57,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/5",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 58,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/6",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 59,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/7",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 60,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/8",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 61,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/9",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 62,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/10",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 63,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/11",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 64,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/12",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 65,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/13",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 66,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/14",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 67,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/15",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 68,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/16",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 69,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/17",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 70,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/18",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 71,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/19",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 72,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/20",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 73,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/21",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 74,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/22",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 75,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/23",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 76,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/24",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 77,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/25",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 78,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/26",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 79,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/27",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 80,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/28",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 81,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/29",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 82,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/30",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 83,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/31",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 84,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/32",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 85,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/33",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 86,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/34",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 87,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/35",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 88,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/36",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 89,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/37",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 90,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/38",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 91,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/39",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 92,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/40",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 93,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/41",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 94,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/42",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 95,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/43",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 96,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/44",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 97,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/45",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 98,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/46",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 99,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/47",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 100,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/48",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 101,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/49",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_full_chapter_review"
+    },
+    {
+      "aggregate_index": 102,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/50",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_batch_judgment"
+    },
+    {
+      "aggregate_index": 103,
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "source_report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "source_json_pointer": "/checks/51",
+      "reviewer_as_recorded": "/root/r004_b08_reader",
+      "scope_mode": "original_final_batch_judgment"
+    },
+    {
+      "aggregate_index": 104,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/0",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 105,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/1",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 106,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/2",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 107,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/3",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 108,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/4",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 109,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/5",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 110,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/6",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 111,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/7",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 112,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/8",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 113,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/9",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 114,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/10",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 115,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/11",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 116,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/12",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 117,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/13",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 118,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/14",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 119,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/15",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 120,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/16",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 121,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/17",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 122,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/18",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 123,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/19",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 124,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/20",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 125,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/21",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 126,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/22",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 127,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/23",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 128,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/24",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 129,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/5",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 130,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/6",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 131,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/7",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 132,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/8",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 133,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "source_json_pointer": "/checks/9",
+      "reviewer_as_recorded": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "scope_mode": "water_recheck_new_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 134,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/30",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 135,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/31",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 136,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/32",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 137,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/33",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 138,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/34",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 139,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/35",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 140,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/36",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 141,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/37",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 142,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/38",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 143,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/39",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 144,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/40",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 145,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/41",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 146,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/42",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 147,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/43",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 148,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/44",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 149,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/45",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 150,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/46",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 151,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/47",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 152,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/48",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 153,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/49",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "inherited_unchanged_chapter_original_final"
+    },
+    {
+      "aggregate_index": 154,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/50",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "historical_batch_judgment_not_reassessed"
+    },
+    {
+      "aggregate_index": 155,
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/51",
+      "reviewer_as_recorded": "/root/r004_b06_reader",
+      "scope_mode": "historical_batch_judgment_not_reassessed"
+    },
+    {
+      "aggregate_index": 156,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/0",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 157,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/1",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 158,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/2",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 159,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/3",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 160,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/4",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 161,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/5",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 162,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/6",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 163,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/7",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 164,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/8",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 165,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/9",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 166,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/10",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 167,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/11",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 168,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/12",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 169,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/13",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 170,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/14",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 171,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/15",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 172,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/16",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 173,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/17",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 174,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/18",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 175,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/19",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 176,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/20",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 177,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/21",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 178,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/22",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 179,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/23",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 180,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/24",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 181,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/25",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 182,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/26",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 183,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/27",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 184,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/28",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 185,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/29",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 186,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/30",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 187,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/31",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 188,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/32",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 189,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/33",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 190,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/34",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 191,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/35",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 192,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/36",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 193,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/37",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 194,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/38",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 195,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/39",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "selected_recheck_full_chapter_read_by_original_reviewer"
+    },
+    {
+      "aggregate_index": 196,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/40",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 197,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/41",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 198,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/42",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 199,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/43",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 200,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/44",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 201,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/45",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 202,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/46",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 203,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/47",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 204,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/48",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 205,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/49",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "inherited_unchanged_chapter_prior_review_chain"
+    },
+    {
+      "aggregate_index": 206,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/50",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "historical_batch_judgment_carried_in_selected_report"
+    },
+    {
+      "aggregate_index": 207,
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "source_report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "source_json_pointer": "/checks/51",
+      "reviewer_as_recorded": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "scope_mode": "historical_batch_judgment_carried_in_selected_report"
+    },
+    {
+      "aggregate_index": 208,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/0",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 209,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/1",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 210,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/2",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 211,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/3",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 212,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/4",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 213,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/5",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 214,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/6",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 215,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/7",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 216,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/8",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 217,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/9",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 218,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/10",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 219,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/11",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 220,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/12",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 221,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/13",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 222,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/14",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 223,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/15",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 224,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/16",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 225,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/17",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 226,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/18",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 227,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/19",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 228,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/20",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 229,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/21",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 230,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/22",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 231,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/23",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 232,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/24",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 233,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/25",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 234,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/26",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 235,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/27",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 236,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/28",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 237,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/29",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 238,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/30",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 239,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/31",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 240,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/32",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 241,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/33",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 242,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/34",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 243,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/35",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 244,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/36",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 245,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/37",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 246,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/38",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 247,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/39",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_reread_and_four_unchanged_chapters_inherited"
+    },
+    {
+      "aggregate_index": 248,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/40",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 249,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/41",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 250,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/42",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 251,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/43",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 252,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/44",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 253,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/45",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 254,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/46",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 255,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/47",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 256,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/48",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 257,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/49",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 258,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/50",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    },
+    {
+      "aggregate_index": 259,
+      "source_report": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "source_report_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "source_json_pointer": "/checks/51",
+      "reviewer_as_recorded": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "scope_mode": "six_changed_chapters_and_batch_checks_rereviewed"
+    }
+  ],
+  "nonblocking_observations": [
+    {
+      "id": "R004-B08-WATER-L01",
+      "chapter": 71,
+      "severity": "minor",
+      "blocking": false,
+      "new_in_this_task": false,
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "source_json_pointer": "/nonblocking_observations/0",
+      "finding": "前句已用收胶带、扶担架、再念号完成互认，此句又解释“同路”的主题；属旧稿保留的轻微解释，不是无水补丁新增问题，不妨碍本次五项吸引力通过。",
+      "suggestion": "后续若获授权精修，可删此总结句，停在“伤员便把自己的临时号又念给他听。”，不必为本次水边界补审扩改。",
+      "current_evidence": {
+        "chapter": 71,
+        "source_path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+        "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893",
+        "quote": "不是把东西交出来才算同路，肯在搬动时应答，也能让旁人记住他仍在。",
+        "quote_exact_match": true,
+        "line_starts": [
+          95
+        ],
+        "line_numbering": "UTF-8全文splitlines，章题行计入，1起算"
+      }
+    }
+  ],
+  "report": {
+    "path": "harness/maintenance/R004/验收汇编.md",
+    "sha256": "e3106dfb4448157c47ee2024c91185467e34e773dc1c031fe73d51635e7ed9cc"
+  }
+}

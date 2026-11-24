@@ -1,0 +1,721 @@
+{
+  "reviewer": "/root/review_241_250",
+  "writer": "R005-resume-main",
+  "manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "1e05a551eca225c124144da7dd4adbcb259413d29f09ff759b9a49db59af5242"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "d175e1bcb3cdb9e1c7176aea71be635ec4bcbc06a1c9b5c444d1efa9ae4db00e"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "304a04b92aee76afa964b34446c5dc92f391814ed6ea844d918c707a8f66358e"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "cc2293f0085eb9385a2cacec68f2ba8c9e6de10d23180563a25d99be07f30c25"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "b0132d55b258e5b98496a73becda8d7445c89a5782c5317983c2e8e7b9f30408"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "5c5da8287acf89e90556ed2f2cefabdfafe3a94556f59e69ba889cf581fb0797"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "19fbf6dafce1b2c983c26dd5e92907049fda705ce56b785d1340e02e263e7c55"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "571d2651514b1834dcde248dfefa923c2fa4f3137f3a2ba729f2a59afd247651"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "a82e10f6ccdce3cdf84de22adb7185c3464597c804d8d458c9712d443ce6377e"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "1882e4d9c339c9a7e166d06664d83247497ace76201aa49450f51d34cbbf1c37"
+    }
+  ],
+  "source_digest": "76be474fc8b78e6069fe4016d9bb28fdf07b9bb131d923e5cff013c9d5200573",
+  "issues": [
+    {
+      "id": "R005-B15-F01",
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "识人工号、十六岁亲见外段封门、墙龄、三十年在岗被相互代用。固定设定是林岑46岁、16年前约30岁参与本地爆破；46−16=30年只使十六岁见闻在算术上相容，并不授权另一场三十年前塌方/封存史。142已经把亲见与亲做分开，不能再粗暴判成所有“三十年”都应改“十六年”。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 142,
+          "quote": "父亲十六岁时见过的外段封门、后来亲手点火的本地爆破、十年前才接上的递单线，不能挤成同一天。"
+        }
+      ],
+      "resolution": "现行R006关闭657/675与正式174/187/188已定三段史，不再从零申请；只留具体日/后续续封人待核。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-F02",
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "正文由霉气、上层清直接推到可纳入；资源台账又明确将该半瓮与整瓮合为一瓮半饮用水。问题不是算错，也不是台账能替正文证明安全，而是可饮判据没有成立；不能把“清”当“可饮”的充分条件。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 145,
+          "quote": "半瓮污染隔离，不并饮用存量"
+        }
+      ],
+      "resolution": "保霉气/沉渣；整瓮实核后可用，污染半瓮隔离/损耗，无补造水。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-F03",
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "141、142、144、149、150出现灯芯、灯焰、吹熄、油灯及灯油消耗；林栖装备和既有物件规则是手摇冷凝灯。不能把未注明来源的棚灯自动当同一便携灯，也不能反过来断言营地绝无本地油灯。多灯的类型、来源和耗材没有足够交代。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 146,
+          "quote": "阿苗先问外侧手位，照护者报清位置，她才从口内把灯递出来。"
+        }
+      ],
+      "resolution": "141—150多灯/油耗均据同一灯实际交接修复；147移入棚、148棚外续灯、150交当班者。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-F04",
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "正文145同时说明天凉时、明早；146第二天凉时；147同次转运后交账，148交完账夜谈，149通宵到天快亮又约明天晚上，150第二天掌灯。台账却为145 D21—D22凉时、146 D22凉时、148 D23夜、149 D23夜—D24天亮、150 D24掌灯。边界151“薄撑昨天新上”也与146上撑至公开之间的日程不能自然相容。存在参照时刻缺口，不能擅自挪日次。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "quote": "昨天凉时在缝口"
+        }
+      ],
+      "resolution": "D21验人、D22出缝/入棚、D23夜谈/通宵、D24黎明核完同日公开、D25议纸；151现行已改前次。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-F05",
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "共同征询被写成弥娅对救人次序的无条件否决权；146已明确下一载老陈、背疮等不得，且148她先认救人。这不只是语气生硬，而是新的决策权安排，与急救优先及既定下一载正面抵牾。台账已记“水班捎字等你回”，不能通过删掉她的发言权来消除冲突。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "quote": "若人忽然恶化，就按急救条件先出，不把人卡在缝里等信"
+        }
+      ],
+      "resolution": "共同预排/护纸办法/临场变化公开记录；急救不等回信，弥娅继续接译及三规仍在。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-F06",
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "安全前提已说出，随后管卡、隔板、料架全部卸动，却没有交代哪些压缝、两根新撑何时实际就位。已有台账只足以确认两根好料让墙、棚修顺延，不能据此私补具体支点和施工事实。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 144,
+          "quote": "两根好撑木由六叔和同行居民逐根立到墙肩下"
+        }
+      ],
+      "resolution": "既有两主撑先立位验裂线再卸重；六叔和既有居民两趟抬/立，伤者不承担主重，不添人料。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-C01",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "已写回程到坡腰，下一场却仍能接缝内闷响、缝口碎屑落在同一张纸上，并当场离缝三步；没有返坡底动作，最关键的险情位置断链。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 143,
+          "quote": "林栖还留在墙外的垫毡边"
+        }
+      ],
+      "resolution": "对号/掉屑/退三步都在墙外，之后才返坡，不增往返。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C02",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "同章已明示五件、四号、一根回炉光杆；无号物不能再有“拓出来的号不符”，末尾又变五个号。149重复。台账确认四张拓片，光杆只记数无拓，公开仍四件。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 143,
+          "quote": "五件家什看完，只拓出四个号。"
+        }
+      ],
+      "resolution": "两撬+带号錾+锤=四拓；回炉光杆只记数，149/150同数。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C03",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "老赵已经在外侧垫毡，阿苗排定在内侧掌灯且腿不行；她突然能在其背后、耳边、身边拍掌，随后又在墙内理绳、灯边。今日只过老赵一人的事实不能容纳她无交代地往返。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 146,
+          "quote": "阿苗仍坐在口内"
+        }
+      ],
+      "resolution": "她只传提示，外侧照护者拍掌/托肩，今日仅老赵过缝；灯递手不等人过缝。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C04",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "146头夜已定手位，现场开始前林渡又明确禁提匣子、让阿苗复掩；148把没有征询回述成临场只有三口气，改写了决定发生的时刻。读者会认为为了制造关系冲突撤销前章的主动选择。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "quote": "手位是出缝前一夜排的，托板也是那一夜改的。"
+        }
+      ],
+      "resolution": "预排、缝口复念、让匣均早于真正转运；认责不再伪称只余三口气。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C05",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "既有三扣口径是饮用/洒耗/罐壁残留，候汽只计时长；本章把汽班折损作为水扣。两笔半总额已入台账，不能自造容积换算修平。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 147,
+          "quote": "在途饮用、洒耗、罐壁残留各照原有实记核，候汽时长另记行程"
+        }
+      ],
+      "resolution": "维持三类及候汽另记的原关闭部分；旧两笔半无容量，本轮纠错不再作体积，也不发明换算。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-C06",
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "尺的放置违背物件规则，142又说仍在随身工具原位；不是正常的移物交接。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 141,
+          "quote": "随身工具袋口，那截裂尺露出一角"
+        }
+      ],
+      "resolution": "AGENTS硬规则优先；141/142都在随身工具处，纸才入册页，不需另裁基本设定。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-C07",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "141交的是炭笔，142同句有炭灰；这里用墨的液体渗化说明停笔，媒介混写。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 142,
+          "quote": "笔尖旁边积了一小撮炭灰"
+        }
+      ],
+      "resolution": "炭笔媒介一致；147后文蘸墨为另场已写用具，不把炭灰写液墨。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C08",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "同号最多支持关联，不能在本人认主前证明亲手领换；140工具由外侧料架借入，当前保管者、旧号主人和持续使用史须分开。144从母模号挨号推领了几件全在墙内，149从无日期的老写法断早两年，也都超过现有证据。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 143,
+          "quote": "同号还不能说明谁亲自领、谁亲自换过件"
+        }
+      ],
+      "resolution": "保烙号/签收号相关而非三十年同主；144同炉去向待核、149旧写法不定年，认主由活人当面。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C09",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "检查中“让她数”与“他数对”主语错配，“她扶”又容易让外侧照护者跨入墙内。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 145,
+          "quote": "她请里侧的老工师扶他走三步"
+        }
+      ],
+      "resolution": "照护者留外、老工师扶内；他数对，检查主语稳定。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C10",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "绝对不能回去缺乏机制，并与146汽来全退的撤回预案形成误解；真实限制是一人通道与有限窗口，不是单向不可逆门。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 145,
+          "quote": "就得退开等下一次，不能硬挤"
+        }
+      ],
+      "resolution": "单人/窗口与接手限制，不写绝对不可回去；146汽来退缝。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C11",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "章首窄托板已经连夜改好并试重，末尾又当作尚未改；前一句真正新增需求是老陈背疮垫层加厚。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 146,
+          "quote": "窄托板已经备着，就照你说的，把他那副垫层再压厚半指"
+        }
+      ],
+      "resolution": "板已改/仅垫层续做，另限定半罐沙未验全载，不撤原关闭。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C12",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "相邻段落原样重复灯号应答，没有新增动作结果，割断转运节奏。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 147,
+          "quote": "同段接手者应过手势，才添下一格数"
+        }
+      ],
+      "resolution": "重复光号改分段实交数，转角不遥报；唯一灯照伤员。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C13",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "第三条在对话中成为征询，末尾回背却是存疑画圈；台账三条是抄本先行/先问受潮/存疑画圈，另加捎字等回。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "quote": "抄本先行，先问受潮，存疑画圈。"
+        }
+      ],
+      "resolution": "三规与共同征询分别记，不把第四项替代第三；下文公开三圈兑现。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C14",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "开头同一卷已摊在手边并翻回一页，此处未经收起又像首次掏出。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "quote": "拿起手边摊着的那卷阿苗账页"
+        }
+      ],
+      "resolution": "始终同卷在手边/灯边，后面展开余半卷，不重新掏出第二卷。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C15",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "腿上固定夹板被当作承重拐杖，伤势动作不成立。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "quote": "伤腿仍放在凳前留出的干处"
+        }
+      ],
+      "resolution": "夹板不作拐杖、不抵湿缸沿；站起扶凳，伤腿限制保留。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C16",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "从灯三盏直接切到纸一张，再切空位，名词量词参照断裂，首句即卡顿。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "quote": "桌面分出三处：一处铺拓号纸，一处铺领单抄件，一处空着"
+        }
+      ],
+      "resolution": "灯与桌面分类连续，三处不是三灯；单灯轮照。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C17",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "系统表145已在手，站账149才由戊字一送来，来源不同；没有正文支持“同日同人抄送”。标题所需的是同一运行时期的两种记录，不是同批递件。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "quote": "不是同一批抄件，却都记着这段外段"
+        }
+      ],
+      "resolution": "两来源/记载时段分开保留，不伪造同日同人抄送。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C18",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "此前已压回册底，又放回原处，末尾却一直未收；取放链相互否认。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "quote": "系统表仍摊在左边，站账抄页仍在右边"
+        }
+      ],
+      "resolution": "压边/摊放连续，结尾一夜没收不矛盾。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C19",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "老赵是新救伤员，夜里需有人照应，不是已安排守夜的健康值守者；一句称谓凭空新增职责。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "quote": "核账后还没睡的老赵起身回铺位"
+        }
+      ],
+      "resolution": "老赵是受护新伤员，不给他守夜职责；147/149照护者值夜。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C20",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "“三口…还…一位”容易累加成四人；老陈尚未转运，也未写已经上托板。台账墙内余老工师、阿苗、老陈三人。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 150,
+          "quote": "墙里三口人等着水，老陈就在这三口里"
+        }
+      ],
+      "resolution": "老陈为余三人的包含项，仍待下一载，不在板上已出。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C21",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "画框者是戊字一，中间插入林渡读圈/交回抄件，回到“他”无锚点；末尾拓片又“收好，钉回原处”及“收完”，与留板展示含混。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 150,
+          "quote": "戊字一把画框的炭条搁下"
+        }
+      ],
+      "resolution": "画框/放炭由明确戊字一完成，剩他/她也已修；拓片核钉仍留板，守哨守原处。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-C22",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "前句主语是林渡誊总账，章节情绪目标却是林岑自书证词；“他/那页纸”让章末下一行动落在不确定物件上。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 141,
+          "quote": "父亲正在写的那页证词，明天要由他带下坡，请墙内的人核认。"
+        }
+      ],
+      "resolution": "父亲写证词/林渡誊条件总账各有主体，次日要带何物明确。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-S01",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "规则已由画空框动作交代，叙述又教学式解释；144、147替所有人统一内心，148连续翻译“咬法”，既减限知又替读者完成情绪。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "quote": "指了指“预排”二字，等他把这一处留在页上，才把手收回"
+        }
+      ],
+      "resolution": "旧框格/众人统一内心/咬法翻译已被实际判断或动作承接；未删共同征询，非机械去所有旁白。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-S02",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "前面已描完、覆回铁件，此处无标记倒回描图；149同一尾笔已对出同师承，又描两遍、举灯再宣布同出一门。重复不带新结果，压慢核证兑现。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 144,
+          "quote": "他等祝衡把描图收好，才跟着走向缝口"
+        }
+      ],
+      "resolution": "旧已闭不自动认可：本轮映射发现注尺寸后再等注尺寸残尾，recheck3补修后顺序为描/注/覆回/收图/走缝。149尾笔一次对照。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    },
+    {
+      "id": "R005-B15-LOG01",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "日志称保留三口气原记账“以承接150引用”；本轮全文读取150，未见该短句或三口气记账的引用。这条日志解释没有当前正文支持，不作为C04关闭依据。正文的预排认责已由146/148相邻原句支持。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "log-only",
+      "current_evidence": [
+        {
+          "path": "harness/maintenance/R005/edits.json",
+          "json_index_zero_based": 214,
+          "quote": "B15复核1 C04：认责涵盖预排与执行前，保留148自书原句，由相邻预排认责对话限定含义；不以未经正文支持的150引用作依据。",
+          "sha256": "ae3618539788b7e8144934771e1d8c7a2c5c5d1cfa09ea68e5d86e7d2727305f"
+        }
+      ],
+      "resolution": "实际日志理由已撤150引用；只核日志，不以此作为148正文C04或150存在台词的证明。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-N01",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "quote": "最后一处圈，画在签收上。"
+        }
+      ],
+      "resolution": "三圈为空日/无号錾/签收身份，洇字另标读法留痕，非新增第四圈；150三圈公开。",
+      "closure_maintained_or_updated": "maintained_after_current_full_read"
+    },
+    {
+      "id": "R005-B15-N02",
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "scope": "manuscript-and-linked-continuity",
+      "current_evidence": [
+        {
+          "chapter": 147,
+          "quote": "不拿登记了几笔充作几罐水"
+        }
+      ],
+      "resolution": "旧清单两笔半不可换算体积，本轮在不造单位前提下撤算式，保三类实耗和独立减份决定。",
+      "closure_maintained_or_updated": "updated_after_current_source_review"
+    }
+  ]
+}

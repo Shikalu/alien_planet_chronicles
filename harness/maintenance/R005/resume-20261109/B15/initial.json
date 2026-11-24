@@ -1,0 +1,1725 @@
+{
+  "batch": "R005-resume-B15",
+  "chapters": [
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150
+  ],
+  "reviewer": "/root/review_241_250",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "body_first": true,
+  "body_first_record": "harness/maintenance/R005/resume-20261109/B15/body-first.md",
+  "manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0"
+    }
+  ],
+  "source_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+  "verdict": "issues",
+  "full_read_range": [
+    141,
+    150
+  ],
+  "chapter_readings": [
+    {
+      "chapter": 141,
+      "location": "五层滤料棚账桌；林岑从七层交班下行",
+      "goal": "按现况排出墙先后，腾接应人手",
+      "choice": "林渡拒按旧工号排，杜姨列四条件；父亲写可核证词",
+      "cost": "工班顶一班送水，棚内挪出备托板/垫毡的人手",
+      "advances": [
+        "目标：接应条件落纸",
+        "关系：父亲旧号权威让位现状核人",
+        "资源：班次互换"
+      ],
+      "world_hook": "旧号能否对到活人、两表为何冲突",
+      "action_hook": "明早带父亲证词下坡核认",
+      "knowledge_boundary": "孔边自报尚待当面核；三十年前认识不证今日身份",
+      "full_body_read": true
+    },
+    {
+      "chapter": 142,
+      "location": "五层证词桌",
+      "goal": "拆分本地爆破/早年外封/递单及近期领料",
+      "choice": "林岑自认点火与隐瞒，线源拒填另记；林渡准许存疑",
+      "cost": "父子必须公开担责，来源保护使核验仍缺一端",
+      "advances": [
+        "线索：三段史分列",
+        "关系：隐瞒责任不洗白",
+        "世界规则：按单发货待销仍运行"
+      ],
+      "world_hook": "段门养护料究竟给谁用在何门",
+      "action_hook": "次日拓工具号，再公开念证词",
+      "knowledge_boundary": "30年前16岁亲见外封、16年前执行爆破、10年前递单已由142及正式174/187/188互证分期；具体日/签发者未知",
+      "full_body_read": true
+    },
+    {
+      "chapter": 143,
+      "location": "五层出发—分段坡道—四层封墙外—回坡口",
+      "goal": "拓工具号与领单对应",
+      "choice": "林栖主动划去亲手领料，不给无号錾配号；掉屑即退",
+      "cost": "掌裂疼痛/人员退三步，今天停凿",
+      "advances": [
+        "线索：5件4号1无号",
+        "规则：同号不证亲领",
+        "资源：撑需重打"
+      ],
+      "world_hook": "回炉錾与领单究竟何关、掉屑是否使开墙停摆",
+      "action_hook": "收班回棚，次日重打撑",
+      "knowledge_boundary": "只见实物烙号与抄件号合，不知历次使用/批单人；工具须实际过缝",
+      "full_body_read": true
+    },
+    {
+      "chapter": 144,
+      "location": "五层筹料—四层封墙—坡腰—五层",
+      "goal": "卸重排险并核现物",
+      "choice": "旧图让位现物；先卸中部非北头；原铁件留墙",
+      "cost": "2好撑木挪用使棚修顺延，居民移铺",
+      "advances": [
+        "资源：撑木/管卡去向",
+        "线索：门件号合领料",
+        "关系：父亲受力记忆受核"
+      ],
+      "world_hook": "门件批单者与同炉别件何处",
+      "action_hook": "保原件，只带描图回公开核账",
+      "knowledge_boundary": "朽桩不证20年；一件铸号不证全部料去向，具体安装年待核",
+      "full_body_read": true
+    },
+    {
+      "chapter": 145,
+      "location": "四层封墙一人宽口内外，收工回坡腰",
+      "goal": "确认老赵能否首位出缝，核存水与身份页",
+      "choice": "护送条件先验；个人簿页随人，原簿留内",
+      "cost": "验人消耗当日窗口，次凉时才出；污染半瓮必须损失",
+      "advances": [
+        "目标：首载人选落定",
+        "线索：系统亡籍与当班页相反",
+        "资源：存水核验必须修"
+      ],
+      "world_hook": "系统亡字怎样对活人；老赵能否顺利出缝",
+      "action_hook": "次日凉时按排好手位接老赵",
+      "knowledge_boundary": "可见近旬页不证30年不断；霉水清层不证明安全；整瓮须实核处理/存放",
+      "full_body_read": true
+    },
+    {
+      "chapter": 146,
+      "location": "四层口内送/口外接，仅老赵过缝",
+      "goal": "在退汽窗口安全接出老赵",
+      "choice": "林渡人先匣后；阿苗同意下载老陈；副档复掩",
+      "cost": "错过副档窗口，新增薄撑待验，借绳留缝，医疗水洒耗",
+      "advances": [
+        "目标：第一位人出墙",
+        "线索：七段料话头回应",
+        "关系：阿苗主动同意人先"
+      ],
+      "world_hook": "面具护线者何所担忧、匣页能否受潮保住",
+      "action_hook": "先护送老赵上五层，下一载老陈/验窄板",
+      "knowledge_boundary": "阿苗仍内侧；薄撑非承重主撑；半罐沙不证全载；话头不揭面具身份",
+      "full_body_read": true
+    },
+    {
+      "chapter": 147,
+      "location": "同一趟由四层经中继到五层新铺位/账桌",
+      "goal": "让老赵安全入棚、身份和照护入账",
+      "choice": "成年人缩铺让位；两失联空行不顶替；成人份紧格",
+      "cost": "护送实耗/成人水份压缩，杜姨加首夜守护",
+      "advances": [
+        "目标：老赵有独立身份/位子",
+        "资源：水/人手代价",
+        "关系：集体容纳陌生人"
+      ],
+      "world_hook": "墙内三人是否都能接出、份额还能承受多少",
+      "action_hook": "交清病情/实领，次日水班仍走",
+      "knowledge_boundary": "三扣是三种耗项非无容量笔数；50息歇不能无限加停，临场数优先",
+      "full_body_read": true
+    },
+    {
+      "chapter": 148,
+      "location": "隔日夜五层水缸边，弥娅腿伤不能下坡",
+      "goal": "争论预排未问与副档延期，立共同办法",
+      "choice": "林渡承认准备阶段未问；弥娅仍接译且圈疑公开",
+      "cost": "副档继续受潮风险、双方须公开承担预排/变更责任",
+      "advances": [
+        "关系：共同决定的参与边界",
+        "规则：抄先/问潮/圈疑",
+        "线索：阿苗记法可接"
+      ],
+      "world_hook": "匣子再等是否受潮、公开圈疑能否落实",
+      "action_hook": "接译领单，下一检查先问受潮再议开口",
+      "knowledge_boundary": "不全史答案；七天只预排非保证；急救不能由资料无条件否决",
+      "full_body_read": true
+    },
+    {
+      "chapter": 149,
+      "location": "五层账桌通宵至D24黎明",
+      "goal": "核4工具/抄件/老赵认领，准备公开两表",
+      "choice": "无号/空日/签收身份挂核；杜姨代伤手写",
+      "cost": "核账耗夜与灯维护时间，掌伤渗，底单未全核",
+      "advances": [
+        "线索：四号/养水支十年",
+        "规则：抄件来源不等事实真",
+        "目标：准备当日公开"
+      ],
+      "world_hook": "为何亡人仍产水、批单签收谁负责",
+      "action_hook": "今早分底两处，当日掌灯公开",
+      "knowledge_boundary": "旬的具体日数待底件；旧写法不定年；老赵单端自述不证全网，两种账誊抄真不等记事真",
+      "full_body_read": true
+    },
+    {
+      "chapter": 150,
+      "location": "D24掌灯五层棚前公开木板",
+      "goal": "让两账/活人当众对照，同时保水线",
+      "choice": "父亲自己念责任；林渡保次日送水、纸争另约明晚",
+      "cost": "护线哨加班，纸身份暴露风险，三口仍等水/下一载",
+      "advances": [
+        "线索：死籍/活工同时可证，批单者空框",
+        "世界规则：保护家属与公开证据冲突",
+        "目标：保水与议纸并行"
+      ],
+      "world_hook": "谁批料、护线如何限纸而不再抹人",
+      "action_hook": "D25明晚两边坐桌逐张议纸",
+      "knowledge_boundary": "现带账只证十年；居民30年是自述；师傅须当面对证不凭手形确认",
+      "full_body_read": true
+    }
+  ],
+  "issues": [
+    {
+      "id": "R005-resume-B15-001",
+      "chapter": 141,
+      "quote": "十六岁那年他背工具上坡，外段的人喊过他小名，让他慢些跑，说木屑迷眼。",
+      "severity": "moderate",
+      "category": "限知与知识来源",
+      "problem": "当前读者随林渡看父亲，叙述直接进入父亲未说出的少年记忆；旧人也未对号，不能直接写成同一人。",
+      "suggestion": "把记忆交给林岑亲口说，保老陈身份待核。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "AGENTS 5限知",
+        "角色圣经：林渡/林岑",
+        "142亲见局部与身份未知"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-002",
+      "chapter": 141,
+      "quote": "册页夹层里，那截裂尺露出一角，他按了按，没让它滑出来。",
+      "severity": "moderate",
+      "category": "物件物理",
+      "problem": "硬规则明确尺身不能藏册页夹层，142已放随身工具原位，141仍冲突。",
+      "suggestion": "纸留册页，裂尺留随身工具袋。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正文与连载规范9.5",
+        "142裂尺仍搁随身工具原位"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-003",
+      "chapter": 141,
+      "quote": "灯花爆了一下，他伸手把灯芯捻小了些。",
+      "severity": "moderate",
+      "category": "照明来源",
+      "problem": "现行随队唯一便携灯是手摇冷凝灯；本章出现灯花灯芯、多盏端灯，没有燃料/灯具来源。温水也未交代热源。",
+      "suggestion": "沿已持有手摇灯组织使用，不补造油或电池。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "术语与命名表：随队唯一便携灯",
+        "人物状态台账林栖手摇冷凝灯",
+        "正文规范9.8"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-004",
+      "chapter": 142,
+      "quote": "祝衡笔录到这里停了一下：“化冻前，是三个月的窗口。”",
+      "severity": "moderate",
+      "category": "时间口径与知识来源",
+      "problem": "季节描述未给具体起止，不能自动换算精确三个月；不应把尚待核的日期包装为已知历法。",
+      "suggestion": "只记录季节范围，具体月日空框待原单。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "142待核日期空框",
+        "R006-B18-014/R006-B19-026现行关闭记录",
+        "世界规则时间单位"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-005",
+      "chapter": 142,
+      "quote": "林渡把证词桌上剩下的灯吹了一盏，起身时把自己那盏往林岑睡位那边推了半尺。",
+      "severity": "moderate",
+      "category": "照明与热源",
+      "problem": "未建立多盏油灯及燃料，且手摇灯不吹熄；桌角温水无热源。",
+      "suggestion": "同一灯照证词，再交父亲照路，次日归林栖。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "已建立手摇冷凝灯",
+        "正文规范9.8"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-006",
+      "chapter": 143,
+      "quote": "祝衡应了，把第一根短撬从橛子上平端下来，两头架在垫毡上。",
+      "severity": "moderate",
+      "category": "人物位置链与物件通路",
+      "problem": "140工具挂内侧孔边；本章没有交出动作就由外侧人取下，收尾又里外各挂/卸，工具位置断链。",
+      "suggestion": "一掌半缝中逐件递出、验收后还入，余下两錾不动；保持5件4号1无号。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正式140工具内侧橛子",
+        "143一掌半缝/手不得伸入"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-007",
+      "chapter": 143,
+      "quote": "一股热腥的潮气扫过脸侧",
+      "severity": "minor",
+      "category": "感官依据",
+      "problem": "腥味既未写闻的动作也无物质来源；热汽触感可直接成立。",
+      "suggestion": "保热汽擦脸、收头巾的动作，去无来源气味。",
+      "status": "open",
+      "blocking": false,
+      "source_basis": [
+        "AGENTS感官物质来源",
+        "正文9.9"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-008",
+      "chapter": 144,
+      "quote": "半跨隔板第二下，两个居民一头一个",
+      "severity": "severe",
+      "category": "支撑动作与人数闭环",
+      "problem": "携2好撑木却无打撑步骤即卸可能压缝隔板/料架；队只列一个居民却出现两个；轻载与两根重撑木没有搬运安排。",
+      "suggestion": "先搬/楔紧两根主撑并观察受力，再卸压缝物；阿九+原居民落板，不新增人。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "AGENTS技术与材料限制",
+        "144先撑后卸的现场规则",
+        "R005-C07既有两根好撑方案"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-009",
+      "chapter": 144,
+      "quote": "风从坡道上头灌下来，吹得灯焰贴着玻璃歪。",
+      "severity": "moderate",
+      "category": "灯具来源与证据范围",
+      "problem": "灯焰仍将手摇灯写油灯；原件“立三十年”从旧墙龄推铁件年限，缺独立依据。",
+      "suggestion": "保同一灯交祝衡描图，铁件装入时间留待核。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正文9.8",
+        "142门养护三笔用处待核",
+        "R006禁止旧痕凭色断代"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-010",
+      "chapter": 145,
+      "quote": "数完记账：可纳入的，一瓮半。",
+      "severity": "severe",
+      "category": "污染水错误纳账",
+      "problem": "霉气和霉沉渣已证污染，清上层也不能证明可饮；封蜡新也不等于处理/储存安全。",
+      "suggestion": "隔离污染半瓮并单列损耗；另一整瓮核处理签/原封/近期存放后才入可用账；不补造半瓮。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "世界规则冷凝水需处理",
+        "社会生活疾病饮水",
+        "R005-C03",
+        "root本轮据现行事实指定修复口径"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-011",
+      "chapter": 145,
+      "quote": "“能出。”她说，“不能等。”",
+      "severity": "moderate",
+      "category": "医疗优先与时间窗口",
+      "problem": "紧急不能等后仍拖到明早，没有今日窗口已耗尽/夜间监测依据。第七天缺起算点。",
+      "suggestion": "D21验人已近收窗，最早下一凉时D22出；当夜明确监护，恶化回报不等例行班。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "事件时间线145D21—D22/146D22/151D25",
+        "141病情与优先条件"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-012",
+      "chapter": 145,
+      "quote": "他这张页上，每旬一笔，三十年，没有断过。",
+      "severity": "moderate",
+      "category": "文书数量与证明范围",
+      "problem": "一张个人纸页不可能装30年逐旬手印；不能用近期页证30年从无间断。",
+      "suggestion": "携近期个人页，历年簿/旧页留内待核；30年在岗只保工师自述。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正文9数字闭环/物件物理",
+        "145只带走一页",
+        "174十年账不能证30年寸水不断"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-013",
+      "chapter": 145,
+      "quote": "营里回了灯。两盏灯隔着半条坡道对了对光",
+      "severity": "moderate",
+      "category": "同一灯位置链",
+      "problem": "坡口/营/墙内/外均同时便携照明且无来源；多点灯号不可都由同一手摇灯承担。",
+      "suggestion": "数纸由陪班居民送交；唯一手摇灯先外验再递阿苗，收回外侧；不造灯源。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "C05与当前唯一便携灯",
+        "140外灯照孔",
+        "root要求实际递灯"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-014",
+      "chapter": 146,
+      "quote": "空板加了半罐沙试重。",
+      "severity": "moderate",
+      "category": "载人验证范围",
+      "problem": "半罐沙只验低载平衡，不能作为老陈全身载重已验；老赵扶行未用板，须明确后续全载待验。",
+      "suggestion": "保半罐沙，限定为试平衡，老陈用前还须逐级试载/验边。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "AGENTS技术有材料限制",
+        "146窄板未实际承人",
+        "151薄撑前次已上不改"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-015",
+      "chapter": 146,
+      "quote": "灯从两边打过来，把他的影子投在缝里，影子比人先出来，又比人退得慢。",
+      "severity": "moderate",
+      "category": "灯具交接与光影方向",
+      "problem": "双侧同时光源未有来源；相反光影却自行滞留不合物理，阿苗又一直守同一内灯。",
+      "suggestion": "先内照手位，报准后将同一灯传外，外接照护；阴影落背光侧。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正文9.7/8",
+        "root同一手摇灯递交口径"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-016",
+      "chapter": 146,
+      "quote": "洒的那几点水她拿干布吸了，拧进随行的空罐",
+      "severity": "moderate",
+      "category": "洒耗物理与污染",
+      "problem": "几滴水被干布吸后无法拧出一罐可计量水；毡地水已污染，回收到空罐易重入饮用。",
+      "suggestion": "用布吸走、记洒耗，污布隔开，不回饮用罐。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正文9.5/10",
+        "136三扣分别实记"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-017",
+      "chapter": 146,
+      "quote": "下一回再开，得先撤撑，先撤撑，就得先排险。",
+      "severity": "severe",
+      "category": "承重主撑与薄撑混同",
+      "problem": "144两主撑与146两薄撑未区分，下一回先撤撑会读成先拆主承重再验；末段反复同一危险顺序。",
+      "suggestion": "主撑一直不动；薄撑只防口边回挤，先验主撑/裂线再逐片撤薄撑，若承重即停。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "144先支撑再卸重",
+        "正式151前次薄撑重新验",
+        "C07/C09"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-018",
+      "chapter": 147,
+      "quote": "念数的法子是这批新立的",
+      "severity": "minor",
+      "category": "叙事时间与作者术语",
+      "problem": "146末已上坡，147重开上坡前未标同一趟；“这批”像维护批次指令进入正文。",
+      "suggestion": "写同日这一趟转运接续，改这次立路。",
+      "status": "open",
+      "blocking": false,
+      "source_basis": [
+        "145—150历史日期截点",
+        "正文限知与参照系"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-019",
+      "chapter": 147,
+      "quote": "数纸上有的是歇，这一站多站十息，天塌不下来。",
+      "severity": "moderate",
+      "category": "环境危险与休息计数",
+      "problem": "实测50息不是无限歇；额外站10息与三处总数不明，英雄判断解除汽险。",
+      "suggestion": "将风口并入既有一处歇点，只在守数确认剩余窗口内停，信号即走。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "世界规则凉时与动态热汽",
+        "147三处歇/50息",
+        "黄金追读压力持续"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-020",
+      "chapter": 147,
+      "quote": "三项合记两笔半，候汽时长另记行程。",
+      "severity": "severe",
+      "category": "水耗计量与因果",
+      "problem": "一笔未定义容量，三项笔数不能变体积总耗并直接推出公共份减格。后文再把两笔半当水量摊。",
+      "suggestion": "三类实耗据出发/归来水线和实际记录核，不发明笔容量；成人减格明确缺水与新增照护选择。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "136三扣各记真实耗项",
+        "资源台账旧两笔半纠错需同步",
+        "root本轮认可口径"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-021",
+      "chapter": 147,
+      "quote": "灯一晃，坡口的灯就回一下。",
+      "severity": "moderate",
+      "category": "照明分身与照护可见",
+      "problem": "路上往返灯号需要未建立第二盏便携灯；棚内次第灭灯又多出灯具。",
+      "suggestion": "只留领队同一灯；守数以同段可见手势/数纸交接，不自动跨墙可见；灯回棚后留夜诊。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "既有唯一手摇灯",
+        "C05与147夜里第一觉留灯"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-022",
+      "chapter": 148,
+      "quote": "她想，等匣子出来，两本账并在一起核，比一个人核快一倍。",
+      "severity": "moderate",
+      "category": "时间口径与限知焦点",
+      "problem": "与147同夜交账的动作直接接起会落D22，现行148D23夜；全章在弥娅与林渡内心切换。",
+      "suggestion": "开头隔日夜明确，选择林渡限知，以弥娅说话/动作交付想法。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "现行时间线D23夜",
+        "AGENTS第三人称限知",
+        "149D23夜—D24黎明"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-023",
+      "chapter": 148,
+      "quote": "“问。”林渡说，“水班捎字上来，等你回。你回了‘不让’，匣先走，人后挪。”",
+      "severity": "severe",
+      "category": "共同决定与急救优先",
+      "problem": "提前参与被写成弥娅可无条件否决抢救、让资料先过；与146人急迫和共同风险逻辑冲突，替代一方独断。",
+      "suggestion": "把共同决定落实在预排/资料保护备选；急症按既定人优先，事后公开说明变更，不等回信堵缝。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "141条件排序",
+        "146先过人实际事实",
+        "AGENTS共同选择/明确代价",
+        "R005-C10/root已发生急救事实"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-024",
+      "chapter": 148,
+      "quote": "缸沿上她摊着的档片让一颗水珠洇了个角。",
+      "severity": "moderate",
+      "category": "纸/档片物质与条件窗口",
+      "problem": "硬档片被水洇角混淆；七天后开门被写气候/结构保证，未区分排班与能通行。",
+      "suggestion": "阿苗纸抄页受潮；七天是预排检查日，以验撑/热汽再定，期间水班询问护纸。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "术语档片与纸页形态",
+        "世界规则测潮非万能",
+        "147—151时间接口"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-025",
+      "chapter": 148,
+      "quote": "她预备的好些话，让那个折角的页边挡回去了一半。",
+      "severity": "minor",
+      "category": "叙述者翻译与反复心理",
+      "problem": "折角挡话/咽两层/纸脾气记仇连续替读者翻译情绪，同章多次弥娅内部解释。",
+      "suggestion": "以她指正责任措辞、翻页保护档案承接；留争执真实条件。",
+      "status": "open",
+      "blocking": false,
+      "source_basis": [
+        "文风规范2.7叙述者翻译",
+        "AGENTS限知"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-026",
+      "chapter": 149,
+      "quote": "对账的灯点了三盏。",
+      "severity": "moderate",
+      "category": "照明燃料与重复验证",
+      "problem": "无来源三油灯、半盏灯油及挑灯芯；三遍核验复述成练嘴眼人，验证目的误写为训练。",
+      "suggestion": "同一灯轮照三处；三道核验有不同对象，不为出错整体重来；补维护时间成本。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "唯一手摇冷凝灯",
+        "文风2验证动作分工",
+        "C05"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-027",
+      "chapter": 149,
+      "quote": "领单没错，错在抄页",
+      "severity": "severe",
+      "category": "抄件来源与旬口径",
+      "problem": "桌上两者都抄件，原件未到；洇字读法不能当场无源宣判领单底绝对正确，且结论“十天一旬”提前泄露231才回旧件核十日的事实。",
+      "suggestion": "说读法冲突、以未洇重复行暂注并保原痕，底单待站核；旬只为旧账记法，不换算十日。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "149原件不出站附言",
+        "已发布231旧联才核十日/234旧目知识边界",
+        "143只对四号未核全账"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-028",
+      "chapter": 149,
+      "quote": "这两页没有一行错——它们就没打算碰头。",
+      "severity": "moderate",
+      "category": "制度事实与誊抄无误混同",
+      "problem": "“亡”事实上错，不能连叙述都背书两页无错，更不能凭缺口断系统设计者确切意图。",
+      "suggestion": "抄件忠于各自原账，事实互相冲突；主角用活人证错不替制度辩。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "149活人老赵在场",
+        "AGENTS知识来源",
+        "R006已发生制度错记"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-029",
+      "chapter": 149,
+      "quote": "“明天晚上。”他说",
+      "severity": "severe",
+      "category": "149—151日期接口",
+      "problem": "本章天将亮已D24，此时“明天晚上”加150“第二天”会推D25，与151D25次夜协商接口冲突；祝衡这几个月也无现时跨度来源。",
+      "suggestion": "149改今日掌灯、底件今晨分存；150当日掌灯，保151D25。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "现行D23夜—D24黎明/150D24/151D25",
+        "R005-C06",
+        "正文9.6"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-030",
+      "chapter": 150,
+      "quote": "灯从三面打过来，照着他膝头那页纸。",
+      "severity": "moderate",
+      "category": "公共照明与物件守夜",
+      "problem": "三面灯/灯花/两灯吹一留一无来源；持续公开整日与单灯供电维护未落地。",
+      "suggestion": "同一灯照人/纸先后移动；白天用天光、当班摇灯，纸护哨已在场。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "唯一手摇灯",
+        "150护线加班",
+        "技术能量限制"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-031",
+      "chapter": 150,
+      "quote": "这水三十年都是这么喝的。",
+      "severity": "moderate",
+      "category": "证据时段过度确认",
+      "problem": "现带站账只有十年，居民三十年饮用回忆不能证外段三十年寸水不断；师傅只凭掐錾手即可认人越过142谨慎和188实证。",
+      "suggestion": "民众回忆留自述，戊字一明确本次只核十年；师傅认身份待当面核伤疤、证词。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正式174/187/188",
+        "R006-B18-014已关闭分期",
+        "AGENTS知识来源"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-032",
+      "chapter": 150,
+      "quote": "“我不评理。我只对账。”他说",
+      "severity": "moderate",
+      "category": "角色称谓连续性",
+      "problem": "戊字一现行正式201/206/207等反复为她/戊姨；141、145、149、150候选用男性代词，造成同人两种性别而非阶段知识差。",
+      "suggestion": "只更正明确指戊字一的代词，不全局换“他”。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "正式201戊字一她",
+        "正式206/207戊姨",
+        "人物唯一性"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-033",
+      "chapter": 143,
+      "quote": "再往下走，缝里那点光就越发亮",
+      "severity": "moderate",
+      "category": "同一灯移动参照",
+      "problem": "142说灯次晨由林栖带下坡，143却把同一灯先放在尚未抵达的封墙里，读者会读成另一盏。",
+      "suggestion": "在队中提同一手摇灯，抵墙后才照牌；不造内外两灯。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "142灯交接",
+        "唯一手摇冷凝灯"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-034",
+      "chapter": 142,
+      "quote": "一样一样码进袖袋，码完拍了拍袖袋。",
+      "severity": "minor",
+      "category": "动作罗列",
+      "problem": "收纸、拣纸炭、码、拍连续动作缺区别，袖袋拍打也可能损新炭而无新结果。",
+      "suggestion": "用不压伤手/纸炭分开放置的功能动作取代末段同义罗列。",
+      "status": "open",
+      "blocking": false,
+      "source_basis": [
+        "文风2动作罗列流水账",
+        "林栖掌伤持续"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-035",
+      "chapter": 149,
+      "quote": "这条线走了十年，两头都不知道对方是谁。",
+      "severity": "moderate",
+      "category": "单端证词过证",
+      "problem": "老赵只说本人不知道“家里人”是哪家，不能替另一端断言也不知或十年全员同样。",
+      "suggestion": "录为老赵此端所知，另一端身份和知情范围继续挂核。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "149老赵石板自述",
+        "AGENTS知识来源",
+        "批单人与签收身份仍空"
+      ]
+    }
+  ],
+  "standards": {
+    "high_frequency": [
+      {
+        "category": "人物位置链",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 143,
+            "quote": "把第一根短撬从橛子上平端下来"
+          },
+          {
+            "chapter": 144,
+            "quote": "两个居民一头一个"
+          }
+        ],
+        "reason": "内侧工具无过缝便被外人取；一个居民变两个，按精确建议补交接/改阿九。"
+      },
+      {
+        "category": "数字闭环",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 145,
+            "quote": "可纳入的，一瓮半。"
+          },
+          {
+            "chapter": 147,
+            "quote": "三项合记两笔半"
+          }
+        ],
+        "reason": "污染半瓮误并饮用；无容量笔数当水量。另4拓/1无号本轮实际正文一致，保留。"
+      },
+      {
+        "category": "信息释放顺序",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 149,
+            "quote": "领料十天一旬，没断过。"
+          }
+        ],
+        "reason": "149不能单凭旬折十日，须留第三卷旧件核日数；124按日期看间隔十日左右是不同证据，保留。"
+      },
+      {
+        "category": "知识来源",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 144,
+            "quote": "朽掉的，起码二十年。"
+          },
+          {
+            "chapter": 149,
+            "quote": "两头都不知道对方是谁。"
+          }
+        ],
+        "reason": "朽态不能断二十年，单端不能代全网作证。"
+      },
+      {
+        "category": "物件物理",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 141,
+            "quote": "册页夹层里，那截裂尺露出一角"
+          },
+          {
+            "chapter": 148,
+            "quote": "档片让一颗水珠洇了个角"
+          }
+        ],
+        "reason": "尺不可入册页；硬档片/纸抄页混写。"
+      },
+      {
+        "category": "时间口径",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 149,
+            "quote": "“明天晚上。”他说"
+          },
+          {
+            "chapter": 150,
+            "quote": "是第二天掌灯时分。"
+          }
+        ],
+        "reason": "D24黎明说次晚会错过D24公开，妨碍151D25协商；148补隔日夜。"
+      },
+      {
+        "category": "光影与能力边界",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 146,
+            "quote": "影子比人先出来，又比人退得慢"
+          },
+          {
+            "chapter": 149,
+            "quote": "半盏灯油下去了"
+          }
+        ],
+        "reason": "相反光影与无源油耗，统一真实手摇灯及传递范围。"
+      },
+      {
+        "category": "感官依据",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 143,
+            "quote": "一股热腥的潮气扫过脸侧"
+          },
+          {
+            "chapter": 145,
+            "quote": "掀开一股霉气"
+          }
+        ],
+        "reason": "前者无气味来源改热汽触感；后者实际霉气必须保污染后果，不能删气味来洗水。"
+      },
+      {
+        "category": "人体常识",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 146,
+            "quote": "空板加了半罐沙试重。"
+          },
+          {
+            "chapter": 145,
+            "quote": "“能出。”她说，“不能等。”"
+          }
+        ],
+        "reason": "低载试重不能认证全载；头伤转运应有收窗理由/过夜监护。阿苗留内侧、窄板已改/仅加垫的旧问题现稿已修有效。"
+      },
+      {
+        "category": "篇幅口径",
+        "verdict": "pass_initial_only",
+        "examples": [
+          {
+            "chapter": 148,
+            "quote": "# 第一百四十八章 没拿到的那一匣"
+          }
+        ],
+        "reason": "本轮实际10章纯汉字2218—2345均达硬下限；建议模拟2309—2593，终稿仍须实际重算，不能以模拟代验。"
+      }
+    ],
+    "ai_patterns": [
+      {
+        "category": "叙述者翻译与辩护",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 148,
+            "quote": "她预备的好些话，让那个折角的页边挡回去了一半。"
+          },
+          {
+            "chapter": 149,
+            "quote": "那页纸没有一个字是错的，错的是把它当全账的人。"
+          }
+        ],
+        "action": "改确认“预排”字样/保护纸角的动作；区分抄字准确与亡籍事实错。"
+      },
+      {
+        "category": "动作罗列流水账",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 142,
+            "quote": "一样一样码进袖袋，码完拍了拍袖袋。"
+          }
+        ],
+        "action": "替换为纸炭分置、防抹字和伤手按纸待协作，动作有物理结果。"
+      },
+      {
+        "category": "动词悬空",
+        "verdict": "no_blocking_hit",
+        "examples": [
+          {
+            "chapter": 144,
+            "quote": "桩子发酥，他的指甲抠进去，抠下来一撮黑屑。"
+          }
+        ],
+        "action": "此处摸/抠有实得结果；问题是随后断二十年越证，另列知识来源修，不机械删感知动词。"
+      },
+      {
+        "category": "验证动作重复",
+        "verdict": "hit",
+        "examples": [
+          {
+            "chapter": 149,
+            "quote": "头一遍读号，练的是嘴"
+          },
+          {
+            "chapter": 149,
+            "quote": "一个号过三遍，三遍里只要有一遍含糊，就从头再来。"
+          }
+        ],
+        "action": "保拓号读准/抄页同号/本人认领三种独立工作，卡哪处停哪处，不整套归零。"
+      },
+      {
+        "category": "“像是”堆叠",
+        "verdict": "no_density_hit",
+        "examples": [
+          {
+            "chapter": 143,
+            "quote": "像是等外头收好了才缩回去"
+          },
+          {
+            "chapter": 147,
+            "quote": "像是很久没写过"
+          }
+        ],
+        "action": "每章各一处推断，未形成同章超量；147可在终修说明“少写姓名”而非从未持笔，避免与每旬签印误读，不为凑字删词。"
+      }
+    ]
+  },
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 141,
+      "quote": "里头四口，我认得。",
+      "reason": "父亲以熟人工号要求改排序，旧情与病情冲突即现。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 141,
+      "quote": "条件列完，往里递，让里头的人自己认领。",
+      "reason": "条件交内侧认领，主人公有主动排序。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 141,
+      "quote": "工班多担一班送水，换主队腾出备接应的手。",
+      "reason": "一班交换腾接应手，组织目标与资源同时变化。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 141,
+      "quote": "纸呢。",
+      "reason": "父亲开口要纸而非继续争号，反应有克制。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 141,
+      "quote": "父亲正在写的那页证词，明天要由他带下坡，请墙内的人核认。",
+      "reason": "核认父亲证词把下一章必做动作落地。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 142,
+      "quote": "林岑那页纸写到后半夜。",
+      "reason": "夜写证词持续承接父子未结责任。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 142,
+      "quote": "来源一栏，自述人拒填，事由：护线。",
+      "reason": "拒填来源被录而未强逼，公开与护线边界有选择。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 142,
+      "quote": "浆泥两笔。",
+      "reason": "养护新料把旧封门变为仍运行制度线。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 142,
+      "quote": "自述人自认隐瞒十年",
+      "reason": "自认隐瞒不靠叙述洗白，父子代价有效。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 142,
+      "quote": "上油，是里头的人要的，还是外头有人要它封着？",
+      "reason": "养护料用途是具体可核方向。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 143,
+      "quote": "今天要把剩下的号都拓出来。",
+      "reason": "任务一开始报清工具核号，读者知道为何下坡。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 143,
+      "quote": "同号还不能说明谁亲自领、谁亲自换过件",
+      "reason": "主动划掉亲手领料防越证，是学徒真正判断。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 143,
+      "quote": "五件家什看完，只拓出四个号。",
+      "reason": "5件4号1无号有可感知的线索变化。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 143,
+      "quote": "外头那个小的，拓号的——手怎么样。",
+      "reason": "内侧旧工师关心掌伤，以照护形成回报。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 143,
+      "quote": "今天收班。明天的事，明天看撑。",
+      "reason": "撑问题接下章修理，钩子有行动。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 144,
+      "quote": "撑要重打，墙要先卸重。",
+      "reason": "结构险情与物资挪用同时压迫。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 144,
+      "quote": "压缝的留到最后，卸之前先把撑打好。",
+      "reason": "口头先撑后卸却正文无实际打撑，选择缺执行。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 144,
+      "quote": "铸字露全了：段门二字，后头跟着一个编号。",
+      "reason": "实物门号给出新线索，保具体位置。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 144,
+      "quote": "你的记性用在‘当年有过什么’上，是凭据。",
+      "reason": "父亲接受现场复核，关系变化有言行。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 144,
+      "quote": "批的人是谁，单子没写全。",
+      "reason": "批名缺失能指向后续核账，不凭空加敌。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 145,
+      "quote": "缝到一人宽，是第七天头上。",
+      "reason": "口开只完成入口，接人及安全水仍未解决。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 145,
+      "quote": "页跟他走。",
+      "reason": "个人页随人，是身份选择；近期证明范围待修。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 145,
+      "quote": "一人宽的口，黑黢黢的，比看着的深。",
+      "reason": "通道变化明确，承接三天凿墙。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 145,
+      "quote": "他把那页纸塞进怀里，贴着胸口按了按。",
+      "reason": "护住自己页的动作给身份被看见的回报。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 145,
+      "quote": "明天她还要下来一趟，接他出缝。",
+      "reason": "何时可出与不能等冲突须补收窗/夜间监护。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 146,
+      "quote": "过缝排在第二天凉时，汽退最长的那一段。",
+      "reason": "凉时单人窄缝明确窗口压力。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 146,
+      "quote": "匣子、工具、别的东西，今天谁也不许提。",
+      "reason": "先人后匣主动承担资料损失。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 146,
+      "quote": "他的头先出来，然后是肩，然后整个人坐在了垫毡上",
+      "reason": "真正一人出墙，十章救人承诺首次兑现。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 146,
+      "quote": "匣子在我手里跑不了。疮在他背上。",
+      "reason": "阿苗让老陈先出，人物温度来自放弃自身资料。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 146,
+      "quote": "下一载，老陈。",
+      "reason": "下一载人选明确，板/撑能否承受待补验证限制。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 147,
+      "quote": "转运赶在凉时后半段走",
+      "reason": "同趟交叠需标明，免读者误增一轮来回。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 147,
+      "quote": "这两行是别人的。你这一行，是你自己的。账不挪，也不拿谁顶谁。",
+      "reason": "保失联空行又给新人独立行，是公共规则选择。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 147,
+      "quote": "账上第一行，从此是他自己手写的那三个字。",
+      "reason": "新组首行有本人签名，变化可见。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 147,
+      "quote": "他自己走过去，坐下去，用手掌把铺位压了压",
+      "reason": "自己压铺位与向让位者点头，回报充分。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 147,
+      "quote": "第二天的送水班天不亮就要下坡。",
+      "reason": "继续送水同时收紧份额，下一天义务明确。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 148,
+      "quote": "副档未出，匣位复掩。",
+      "reason": "副档缺口与伤腿使资料方无法现场参与，冲突具体。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 148,
+      "quote": "你回了‘不让’，匣先走，人后挪。",
+      "reason": "匣否决急救使成长失真，需改共同预排与急救例外。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 148,
+      "quote": "三口气的次序未问，责任在渡。",
+      "reason": "认责错落三口气，须改实际准备阶段责任。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 148,
+      "quote": "我接着译。",
+      "reason": "她保留火气仍接译，关系回报成立。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 148,
+      "quote": "七天后头就有一开门。",
+      "reason": "七日保证开门不能成立，须改预排检查与护纸动作。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 149,
+      "quote": "对账的灯点了三盏。",
+      "reason": "多灯无源削弱资源压力；需同灯轮照并维护。",
+      "verdict": "needs_revision",
+      "action": "按同章对应问题的精确建议修复后，结合全章再核吸引力。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 149,
+      "quote": "这一个，先挂着。",
+      "reason": "无号不入公开账，选择符合证据权限。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 149,
+      "quote": "工没停。账没停。停的是名字。",
+      "reason": "活工与亡籍并置，制度矛盾清楚。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 149,
+      "quote": "你只管看，念出来，我来写。",
+      "reason": "手伤有人接笔，配合比解释更有温度。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 149,
+      "quote": "贴出去，上头要是来人查账呢。",
+      "reason": "公开招查账，具体风险与分存应对均有。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 150,
+      "quote": "欠了几晚的账，今晚一起算。",
+      "reason": "公开被排险转运拖延，开场清点所欠有压力。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 150,
+      "quote": "送水班，一日一趟，照走。",
+      "reason": "不许争纸切断送水，主动划边界且承担守哨代价。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 150,
+      "quote": "纸的事，明晚两边坐下，一条一条过",
+      "reason": "议纸从禁令转成可谈清单，冲突推动而非收束。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 150,
+      "quote": "他是两页纸中间活着的那个见证。",
+      "reason": "伤员本人在场验证亡籍，兑现身份主题。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 150,
+      "quote": "批单子的那个名字不在纸上，不在账上，不在今晚任何一个开口的人嘴里。",
+      "reason": "批单空框与明晚议纸双线都可追。",
+      "verdict": "pass",
+      "action": "保留该行动与结果；修后复读确认不被其他替换破坏。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 146,
+      "quote": "他的头先出来，然后是肩，然后整个人坐在了垫毡上",
+      "reason": "141许诺按现状把人接出，146接出第一人、147独立入账、150本人对证兑现救人与身份承诺；水安全/支撑/共同急救约定仍影响可信度，不能整体放行。",
+      "verdict": "needs_revision",
+      "action": "修144支撑、145污染/页证、146薄撑/验载及148急救规则，保实际一人出墙和自写名字。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 150,
+      "quote": "每一张出墙的纸都是一根线。",
+      "reason": "从排先后、腾手、结构险、伤员转运与份额紧缩，升级到资料风险/公开账/线上家属暴露；升级有前置两处料线，不靠突然敌人覆盖旧后果。",
+      "verdict": "pass",
+      "action": "保送水照走、批名空框、D25议纸并行；不追加全网身份或跨陆谜底。"
+    }
+  ],
+  "context_read": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "1559cd0b90183ef0d16be4cd54de3c44be30dc162c41a17be5f11807ddaf1db6",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/00_项目总览/项目总纲.md",
+      "sha256": "4ab37a056a89048b2d3b0071d40673bdbf86383c5453fd310908340f9e7da57b",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/00_项目总览/资料索引与阅读地图.md",
+      "sha256": "c132cf33e2b18161cac83b6b470bee5f0298aea6e17cd32d30c2e1f7194a5264",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/03_剧情架构/分卷总纲.md",
+      "sha256": "0033c2ddfb4c1056f3c4fc6da73fe41569a12a8ece805f1a6b4eac0615ba03fd",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/03_剧情架构/README.md",
+      "sha256": "6012632eabb1b95b776259065701e2cc5946edba921616065a7c006e6a42e23f",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/卷纲.md",
+      "sha256": "e2b3de6d0b636662de612ee3baf4103adc439e4f33d5a0591515ed2d8e82d364",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "scope": "第二卷A05规划及141—150实录"
+    },
+    {
+      "path": "异星录/01_世界设定/世界背景总览.md",
+      "sha256": "1df9e0b3d61385590e326605e57eb89a429962ce42b39df41af6275aa8423fdb",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md",
+      "sha256": "fbe42034184b50f5215f720974e8d52b53d99b83c34158ca6922dbbb3011d12b",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/01_世界设定/社会生活与文化.md",
+      "sha256": "dba69ae4e635824d0b0c9d8ee3f43045200cec89db0909b85da08f26bcaac068",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/01_世界设定/势力与制度.md",
+      "sha256": "f5911b836816e697a627d07f3674322100057840692fc0572aba50839ee3ef13",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/01_世界设定/栈城路线图.md",
+      "sha256": "f464a1e0fc31d109226f96855921adbbc5b5503486e1174221bcf62ce76a6350",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/02_角色档案/角色圣经.md",
+      "sha256": "70b29d33318f143006b4c975e77609717423b4e6f8a26a6de15ea6d289551c4c",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/02_角色档案/角色出场与语气卡.md",
+      "sha256": "88c7d6090569765a2eb19b9f28ca8ada90be565d876f9cde5550fd309ca38cee",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/02_角色档案/关系与成长线.md",
+      "sha256": "cc4ce12244f2e8806b82b33f9879f4b661fd4e84f5f4327dd1755c1303b607e7",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "sha256": "38984e6b3b8fefa650c97a5b370b40f0cc519df165dc23f25c1d13df43685f94",
+      "scope": "131—150历史截点/术语灯具口径；非当前D320事实倒灌"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "sha256": "05cbb03bcea773f63124e99f6edd37a80f9a9d7345b9964d236cb0e8dcfeeb89",
+      "scope": "131—150历史截点/术语灯具口径；非当前D320事实倒灌"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "sha256": "042f591ce49598e545b556f4d352d6ac9942b1fd0c7feb9a9ab04831d1e32c7e",
+      "scope": "131—150历史截点/术语灯具口径；非当前D320事实倒灌"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "sha256": "ff66bc5543359730d2421e8f831bce02c2699a6c415cbabd3a44af272cbd691c",
+      "scope": "131—150历史截点/术语灯具口径；非当前D320事实倒灌"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sha256": "748bcc47e615a0bd7b65116b83520d53ad3213d874f9e28b3ff44054799aad04",
+      "scope": "131—150历史截点/术语灯具口径；非当前D320事实倒灌"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "sha256": "9a93290ff04ef8a3c260d175523917d3bf13e8e060f610016219a4e95a8c0b88",
+      "scope": "131—150历史截点/术语灯具口径；非当前D320事实倒灌"
+    },
+    {
+      "path": "异星录/05_写作规范/设定揭示计划.md",
+      "sha256": "83dc70cbf65556a2a41092d22ade7b572b0de4a9906a25e887264568f2f1bd46",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "sha256": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "sha256": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/06_执行计划/设定决策/R005_待裁定事项.md",
+      "sha256": "318c1f6e55e39a464812d2b9f9f443fc4f8a14a684b14df4daa28b5b0ae2053f",
+      "scope": "全文；作者底稿不转入角色知识"
+    },
+    {
+      "path": "异星录/06_执行计划/设定决策/R006_待裁定事项.md",
+      "sha256": "68abc6130a04257c3e49450c51ea283995c70591976f63102a7410622c1fbfc1",
+      "scope": "640—690行现行获批关闭记录，重点657/675"
+    },
+    {
+      "path": "harness/maintenance/R005/B15/initial.json",
+      "sha256": "d80a3f5b0d502f10a7696aa3c36b0104b6de76119ff3ba5db4e105b7bcaea71b",
+      "scope": "旧问题载体于首读及资料核验后查阅，不作本轮通过证据"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第121章_工班不够两处用.md",
+      "sha256": "19adc5d3f3e4526b8b02b712a2f6c4e1ae2b2c734e628a9214a26a16d4371999",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第131章_向下的一段新路.md",
+      "sha256": "e5e00e5a2326023095453cb48dc7cf5fcad4b13cdf0672a4981555109fd512bb",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第138章_两只匣子.md",
+      "sha256": "dc194fb37da94a0bc035896b46bc0b340975190ba47e3204a6834f55f3a8b72e",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第140章_门还没有开.md",
+      "sha256": "172e7e6307f9917f46d61cb4336a61078c992a613c4789d4c552ed881b2f4800",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第151章_谁动过送水绳.md",
+      "sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "scope": "全文边界核读；不修改"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第174章_父亲要的那一道门.md",
+      "sha256": "941a8ffcd33a1d4d69c261797cb83ade17e53d736f17af09d469425b58878084",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第187章_不是一只手点的火.md",
+      "sha256": "a11ff0a90e7b86aa834a1ce363180c580d7356b5ee6d5bb1593a5f4b46a4a2c0",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第188章_谁签了哪一笔.md",
+      "sha256": "2477e3cebabb684dbf7136116c5cc4e09db9347cc520aa7ceb9362adb5306c91",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第三卷_上城区无门/第201章_勺底见了天.md",
+      "sha256": "3925d16760f8f794bc9b72b36e3733ed4e5d059d7353effe65e337faf5ab2bea",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第三卷_上城区无门/第206章_枪件上的新号.md",
+      "sha256": "770f83b470020a27fd3aa16c50d1ddf9ca747860fa2a606e318c029894ee14cb",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第三卷_上城区无门/第207章_查无此号.md",
+      "sha256": "2352e0d0ec57a7327294d39a0e4dd140b795dd3c9f7632f3370b75f0a4769f58",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第三卷_上城区无门/第231章_替她备三问.md",
+      "sha256": "789ace85a2b6797830cd4a01b0d8094bd7f44701fbec47a6eceb0e8e0d668816",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    },
+    {
+      "path": "异星录/正文/第三卷_上城区无门/第234章_目子是旧的.md",
+      "sha256": "06b4c1b5de6a51abc12f61a16149a9086872a4616886bbde6761e7d33d107044",
+      "scope": "灯/工具/分期/角色指代/旬与旧目揭示节点相关段落；不冒签全文"
+    }
+  ],
+  "historical_resolution": [
+    {
+      "old": "R005-C02 / R005-B15-F01",
+      "verdict": "existing_fact_resolves_pending",
+      "basis": "R006关闭记录657/675及已发布142/174/187/188明确30年前16岁亲见外封、16年前本地爆破、10年前递单，保分期；不是新创历史，也不是170年前全史。",
+      "remaining": "具体化冻日、后续续封执行者、批单之手仍未知。"
+    },
+    {
+      "old": "151“薄撑昨天”边界风险",
+      "verdict": "already_resolved_in_formal_R006",
+      "basis": "现行151原句为“缝口那两片薄撑是前次新上的，约好今日重新验”，不需动范围外151。"
+    }
+  ],
+  "pending_author": [],
+  "legacy_mapping_plan": "终审将逐条映射issue-index与record.pending全部本范围历史项，包括原已关闭项是否保持有效；LOG01只核日志不当正文问题。旧报告保持不动。",
+  "counts": [
+    {
+      "chapter": 141,
+      "han": 2261,
+      "projected_after_suggestions": 2309
+    },
+    {
+      "chapter": 142,
+      "han": 2338,
+      "projected_after_suggestions": 2368
+    },
+    {
+      "chapter": 143,
+      "han": 2296,
+      "projected_after_suggestions": 2321
+    },
+    {
+      "chapter": 144,
+      "han": 2245,
+      "projected_after_suggestions": 2403
+    },
+    {
+      "chapter": 145,
+      "han": 2306,
+      "projected_after_suggestions": 2593
+    },
+    {
+      "chapter": 146,
+      "han": 2274,
+      "projected_after_suggestions": 2474
+    },
+    {
+      "chapter": 147,
+      "han": 2243,
+      "projected_after_suggestions": 2451
+    },
+    {
+      "chapter": 148,
+      "han": 2232,
+      "projected_after_suggestions": 2357
+    },
+    {
+      "chapter": 149,
+      "han": 2337,
+      "projected_after_suggestions": 2496
+    },
+    {
+      "chapter": 150,
+      "han": 2356,
+      "projected_after_suggestions": 2484
+    }
+  ],
+  "proposed_edits_count": 101,
+  "no_manuscript_modified": true,
+  "writeback_notes": [
+    "145整瓮可用须核处理/存放，污染半瓮隔离不回饮用；旧一瓮半饮用记录纠错、不新增水。",
+    "147旧两笔半记号未定义体积，不作容量合计；三类实耗据水线/实记，成人份再紧格保为实际分配。",
+    "144两根好主撑立位不动；146两片口边薄撑另记，先验主撑再查薄片受力。",
+    "145当班个人页为近几旬，历年旧簿仍内侧；不宣称单页30年逐旬。",
+    "148规则仍抄本先行/先问受潮/存疑画圈，共同预排+急救例外另记；非绝对等回信。",
+    "D21验人/D22救出与入棚/D23夜争执核账/D24黎明核完同日公开/D25议纸衔151。",
+    "8份回填候选中的“48条”需据101—140终稿确认其对象与证明范围；不得直接混同本章棚口数。"
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B18",
+  "phase": "actual_authorized_review_residuals",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "status": "ready_to_apply_by_writer",
+  "source_digest": "75d824bdc0ec3466e3434140c21d609c25befe78be50f2dc2e1be67e26d4b37e",
+  "prose_complete": true,
+  "prose_operations": 3,
+  "writeback_operations": 24,
+  "edits": [
+    {
+      "id": "B18-AR-001",
+      "target": "prose",
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "chapter": 174,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "before": "后来续封的缝线",
+      "after": "后来补画的早年封门缝线",
+      "reason": "与已发布142的30/16/10三段及176图边补记一致，不造第二次墙龄。",
+      "source_sha256": "59f2144ebc5da449a1ff6ff62709515ed21dbbc3ecf74bcf693417200acdef1d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-002",
+      "target": "prose",
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "chapter": 175,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "before": "线上那本账，他记了三十一年",
+      "after": "线上那本账，一直由他记着",
+      "reason": "166区分敲码31年、留底30年、工龄近40；没有该账确记31年的依据。仅撤账龄误数，不恢复已撤041/044/051/090。",
+      "source_sha256": "a8dda5c56e99b49b965bfe500ba3b203858a39928beff5fb375c2f7f998d8d2a",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-003",
+      "target": "prose",
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "chapter": 176,
+      "issue_ids": [
+        "R006-B18-040"
+      ],
+      "before": "先前说“化冻前”，今晚又说“那天下头化冻”",
+      "after": "先前说‘化冻前’，今晚又说‘那天下头化冻’",
+      "reason": "外层已是双引号，内部改单引号；两种自述原话均保留。",
+      "source_sha256": "7b09b1325b8543f0ff47fc17d0f69608ef1638ceb73a256f06f54ede9d852d06",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-004",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 171,
+      "issue_ids": [
+        "R006-B18-001"
+      ],
+      "before": "阀轮盘离粉线一格（三格开变二格）",
+      "after": "阀轮盘转收一格，粉线随盘移至第二格（三格开变二格）",
+      "reason": "回填不复活粉线与轮盘相对移位。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-005",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 171,
+      "issue_ids": [
+        "R006-B18-004"
+      ],
+      "before": "先让值班工锁可见操作杆、疏散无关人",
+      "after": "先让值班工在轮辐挂锁作禁动记号、守住操作杆并疏散无关人",
+      "reason": "禁动标记由人守，非机械止动。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-006",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 171,
+      "issue_ids": [
+        "R006-B18-005"
+      ],
+      "before": "庚二、六叔判盘根挤偏",
+      "after": "庚二、六叔疑盘根挤偏",
+      "reason": "正文是怕是，未拆检证实。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-007",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 172,
+      "issue_ids": [
+        "R006-B18-041"
+      ],
+      "before": "林渡带槐七、六叔、岑野轻载查线",
+      "after": "林渡点槐七、六叔、岑野三人轻载查线",
+      "reason": "正文点三人出发，林渡并未第四人随行。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-008",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 172,
+      "issue_ids": [
+        "R006-B18-007"
+      ],
+      "before": "第九口织网老妇户核实\"水往下走，你家在末节\"",
+      "after": "第九口织网老妇户核实其接水口在阀后，下方管段待核",
+      "reason": "第九口非末节。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-009",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 172,
+      "issue_ids": [
+        "R006-B18-007"
+      ],
+      "before": "林栖核\"管上之户实人十九今日在勺\"",
+      "after": "林栖核十九户今日各有人在勺前领水，不由户数推实人数",
+      "reason": "户数不转人口。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-010",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "chapter": 172,
+      "issue_ids": [
+        "R006-B18-007"
+      ],
+      "before": "旁支十九户\"实人十九今日在勺\"",
+      "after": "旁支十九户今日每户均有人在勺前领水，不据此合计实人数",
+      "reason": "户数不转人口。",
+      "source_sha256": "08b228477a6cbaf5ad908a5562341a835bbb403f1b58b0acf60f47e9359c8d13",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-011",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 174,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "before": "却要求逐项承担执行与续封",
+      "after": "却要求逐项说明爆破执行、早年封门亲见与十年递单隐瞒",
+      "reason": "三段分记，不虚造其续封执行。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-012",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "chapter": 176,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "before": "续封\"知而不问\"",
+      "after": "早年外段封门亲见\"知而不问\"",
+      "reason": "同步176三段事实。",
+      "source_sha256": "7d0a3999395ca3823effbf114e2a417aba88286be5e295b28a79bda1ca1b607e",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-013",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/术语与命名表.md",
+      "chapter": 174,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "before": "林岑手绘的第三组孔位、点火位与续封缝线、十年递单路线图",
+      "after": "林岑手绘的第三组孔位、点火位与后补的早年封门缝线、十年递单路线图",
+      "reason": "图上后补不等于事件后发生。",
+      "source_sha256": "433cce860b9e48df4ceb54f6eec8bea7abc8d85efd2e41542c0f22689bab27c8",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-014",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "chapter": 175,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "before": "线上账三十一年由其记，接手人未跟完不挪窝",
+      "after": "线上账由其持续记录，接手人未跟完不挪窝",
+      "reason": "落实B20交接，与175账龄同修。",
+      "source_sha256": "2a7c6981a417bebcb6a6368d4813367db496a7d4e05d9206c3114c7335676d1a",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-015",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 180,
+      "issue_ids": [
+        "R006-B18-038"
+      ],
+      "before": "装匣三重核对（销号横线、来源三对、弥娅描号三处）",
+      "after": "装匣分工核对（林栖点数、林渡清单横线销号、祝衡核抄本来源、弥娅核保护页不入匣）",
+      "reason": "旧closed对应WB仍留重复验证，改为实际职责。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-016",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "chapter": 180,
+      "issue_ids": [
+        "R006-B18-038",
+        "R006-B18-034"
+      ],
+      "before": "号编法三处描验",
+      "after": "分清对应实人的保护页与睡区图，核其不随匣外送",
+      "reason": "她不再反复描号，核保护页。",
+      "source_sha256": "08b228477a6cbaf5ad908a5562341a835bbb403f1b58b0acf60f47e9359c8d13",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-017",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 177,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "before": "杜姨嘱班表空格先补留位",
+      "after": "杜姨嘱班表六格先空着，麦穗留名撤当班记号",
+      "reason": "先空不急补，不注销受护条目。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-018",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 178,
+      "issue_ids": [
+        "R006-B18-041"
+      ],
+      "before": "阿苗副页只抄水位滤况未抄汽班",
+      "after": "阿苗副页抄水位滤况，汽班未抄全",
+      "reason": "未抄全不能变完全未抄。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-019",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "chapter": 178,
+      "issue_ids": [
+        "R006-B18-041"
+      ],
+      "before": "阿苗副页未抄汽班",
+      "after": "阿苗副页未抄全汽班",
+      "reason": "与178现稿同义。",
+      "source_sha256": "2a7c6981a417bebcb6a6368d4813367db496a7d4e05d9206c3114c7335676d1a",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-020",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 175,
+      "issue_ids": [
+        "R006-B18-041"
+      ],
+      "before": "戊字一答\"浅得明明白白\"",
+      "after": "戊字一答浅多少当晚贴出",
+      "reason": "撤已删引句，回填现稿承诺。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-021",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "chapter": 177,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "before": "退搬运班（去处未记，不销受护条目）",
+      "after": "退搬运班（上坡回棚方向，不销受护条目）",
+      "reason": "拧阀者属于六人同行，方向已写。",
+      "source_sha256": "08b228477a6cbaf5ad908a5562341a835bbb403f1b58b0acf60f47e9359c8d13",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-022",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 176,
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "before": "戊字一于耗用表批\"核证之夜，照点\"",
+      "after": "戊字一于用灯班次旁批\"核证之夜，照点\"，与塔芯耗用栏分开",
+      "reason": "避免棚灯误扣塔芯。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-023",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "chapter": 175,
+      "issue_ids": [
+        "R006-B18-013"
+      ],
+      "before": "腿不行、坐疮三回渐大、手快",
+      "after": "腿不行、坐处疮两处、手快",
+      "reason": "175现稿只有两处，不给无据病程。",
+      "source_sha256": "08b228477a6cbaf5ad908a5562341a835bbb403f1b58b0acf60f47e9359c8d13",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-024",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "chapter": 175,
+      "issue_ids": [
+        "R006-B18-013"
+      ],
+      "before": "阿苗坐疮三回渐大",
+      "after": "阿苗坐处疮两处",
+      "reason": "回填175实际观察而非旧病程。",
+      "source_sha256": "193169f4d55dd0ca21653d97e9ad7a7fedd91ed34f380afbab62b34b00297c9d",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-025",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "chapter": 179,
+      "issue_ids": [
+        "R006-B18-013"
+      ],
+      "before": "阿苗入照护位（坐疮三回渐大）",
+      "after": "阿苗入照护位（坐处疮两处）",
+      "reason": "回填现稿。",
+      "source_sha256": "45a10926423274c23277b8476b84b0beb47400e9c79ea15bea5ffff5295afec1",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-026",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "chapter": 178,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "before": "三十年墙龄初离墙",
+      "after": "墙内居住三十年后出墙（居住时长不定封墙年）",
+      "reason": "保用户明确保留的居住时长，不将它转成墙龄。",
+      "source_sha256": "08b228477a6cbaf5ad908a5562341a835bbb403f1b58b0acf60f47e9359c8d13",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    },
+    {
+      "id": "B18-AR-027",
+      "target": "writeback",
+      "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "chapter": 177,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "before": "班表留空格补留位",
+      "after": "班表留名撤当班记号，六格先空着",
+      "reason": "不急补是行动，留名是不销账，两者分开。",
+      "source_sha256": "45a10926423274c23277b8476b84b0beb47400e9c79ea15bea5ffff5295afec1",
+      "expected_occurrences": 1,
+      "status": "proposed_not_applied"
+    }
+  ],
+  "constraints": [
+    "只提建议；未改正文/WB",
+    "不恢复撤回041/044/051/090（本轮补丁编号B18-AR独立）",
+    "应用后须独立短复核真实字节；本报告不签建议稿",
+    "发布后另做publication-binding"
+  ],
+  "cross_batch_dependencies": [
+    {
+      "chapter": 182,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md",
+      "status": "handoff_not_B18_edit",
+      "quote": "三摊抄的份，原定是四份：站柜一份，塔柜一份，青石层一份，随信使走一份。",
+      "problem": "当前182仍把三处留底与全套抄本混称四份，另有“四份是上限”；与180留底三处/全抄两份的口径不齐。",
+      "recommendation": "交B19按180区别三处拆存留底与现有两套全抄，不增第三第四套。180D47交同首匣未出坡、182校正后首出已接通。"
+    }
+  ]
+}

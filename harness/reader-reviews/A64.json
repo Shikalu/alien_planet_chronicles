@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root A64",
+  "reviewer": "独立读者组 /root/reader_west（731—735）与 /root/reader_east（736—740及篇章）",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 731,
+      "path": "异星录/06_执行计划/工作区/A64/第731章_空格随船走.md",
+      "sha256": "b7dd35c2de9dbaa825b6adf1ad7e369da175c7a6774783fe87e39d6023043bb9"
+    },
+    {
+      "chapter": 732,
+      "path": "异星录/06_执行计划/工作区/A64/第732章_床还在原地.md",
+      "sha256": "51f79ac81e7d1546f654142b9a855098b55cd3dadd30a9b396e5d6920ebe22ef"
+    },
+    {
+      "chapter": 733,
+      "path": "异星录/06_执行计划/工作区/A64/第733章_弥娅的错字.md",
+      "sha256": "1ded881c517a7bfc04288109ca667306d3785ada5540b72d9786d0ebf892993d"
+    },
+    {
+      "chapter": 734,
+      "path": "异星录/06_执行计划/工作区/A64/第734章_两张冷水图.md",
+      "sha256": "abd8be7be97ce364b5706ede24619cc95b38c3e2149636d7d83894c1ebc90c62"
+    },
+    {
+      "chapter": 735,
+      "path": "异星录/06_执行计划/工作区/A64/第735章_水库外的桶.md",
+      "sha256": "fe024b70193f75c87bb1d624a742a923ff8490bc34c1800aea81605d13954171"
+    },
+    {
+      "chapter": 736,
+      "path": "异星录/06_执行计划/工作区/A64/第736章_漏水从脚边过.md",
+      "sha256": "db667a736d7b497f2ef5f4649f645371bba72252dd87bb1ec43fc67a5d2a6612"
+    },
+    {
+      "chapter": 737,
+      "path": "异星录/06_执行计划/工作区/A64/第737章_只剩一趟.md",
+      "sha256": "31c6f2ada04f5cb5def44e8f73187c6c9530e522b5ffd4380a3a4dde9e53b6ed"
+    },
+    {
+      "chapter": 738,
+      "path": "异星录/06_执行计划/工作区/A64/第738章_车轮过槛之前.md",
+      "sha256": "bf571b5fd9c83e8d9e999d48837def70c0faca99cc0c13e66c8a7203923aa356"
+    },
+    {
+      "chapter": 739,
+      "path": "异星录/06_执行计划/工作区/A64/第739章_借出去的半副车心.md",
+      "sha256": "9e2f2d253c25a275b3efc18cfcdae28de880702beaa5ec5f7f8ecc7deec78a32"
+    },
+    {
+      "chapter": 740,
+      "path": "异星录/06_执行计划/工作区/A64/第740章_三件齐了一事未明.md",
+      "sha256": "c2281a8b053eac01aefa3f518ca9ca474fe71e7d8c96bd87407f7f24eb0e7717"
+    }
+  ],
+  "source_digest": "cc402e5fc4ff52e595afb79c4fd2b0d913d1800f670a6e6b708dc439550802d3",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 731,
+      "quote": "弥娅却按着问件不让他拿。接档夹里有一张新誊的温线。她的温筒记录空了数日，那张新抄上的空格却被人添齐了。",
+      "reason": "递件人已到，弥娅立刻拦下补过数据的封件，紧接着就能问谁补、是否赶得上更正。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 731,
+      "quote": "“给他带空格。”林渡说。",
+      "reason": "退潮前还有能赶上的一班，林渡主动选择随封承认缺测；接下来弥娅阻止刮去原抄，以便向实际经手人追问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 731,
+      "quote": "年轻人看他的身影消失在院墙外，取回那块旧板，把自己多添的一段夹在原副后面。他用一张剪剩的窄纸写了更正说明，没在下面代弥娅签名。",
+      "reason": "寄出可以复问的部分后，西岸留下可追到抄手本人的更正记录，缺一段测温和发现一份错抄成为不同的事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 731,
+      "quote": "看林渡把吊带往下放，便把那根快夹进他颈侧的窄布挑出来。",
+      "reason": "借座的女人还能照应伤处，也有现实需要收回家里的长板；这点照应给两人离开西院添了人情，不把私人地方当无期限公物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 731,
+      "quote": "林渡走近才发现，写床板的人特意在底下加了一行，要送的是板上的人，床板归原主。",
+      "reason": "今后有什么能把人从三层运走、原主什么时候要收回床板，两问从当地的接运清单生出，转入阿九与原车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 732,
+      "quote": "他没法把自己的脚放到地上，便让过来放饭碗的照护者替他在地上添一道，画完抬头问林渡，想来借车，还是想来借画上的轮子？",
+      "reason": "床边画轮子和实车不能走构成同一压力：林渡来查车底，见到的是要靠别人画线的车工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 732,
+      "quote": "“得先算眼下真能做的趟。”林渡说，“车没走起来，不能拿纸上的两趟抵这儿的一趟。”",
+      "reason": "他把工程可议收益放在三层实际能送几人的约束下；先问可以查看的边界，不凭原车过去的运量准许拆件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 732,
+      "quote": "阿九认出了罩脚原印。另一道划痕他要和迟棠对着停车旧图，至于借用，大匣里的冷却部分能独立接水便可再议。",
+      "reason": "从问箱能否开，到区分原印与需另验的划痕，并获得可议借冷却部分的前提，这一进展没有使车离开原位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 732,
+      "quote": "隔帘的照护者说下回真做，先问架上那个人愿意从哪里出来。阿九把炭头朝她手边送过去，请她替他把这句写上。",
+      "reason": "照护者把伤者选择出口写入图，阿九请她动笔；床上的人和每天扶床的人都能改实际设计。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 732,
+      "quote": "三层床脚离最近一片平地，还有两道窄槛，外加一位只准把床板借到后天的主人。",
+      "reason": "两道槛和借期变成保住送人能力的尺度，水库能否解释非借核心不可，及哪怕借了如何继续送人，仍须后面用现物答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 733,
+      "quote": "那份旧抄上的“底水”二字是弥娅写的。第六百七十八日，她刚在五层档案点把纸摊开，领她进来的保管者就用镇纸压住那两个字，问她能否说出当时放筒的地方。",
+      "reason": "落笔责任指到弥娅本人，保管者不先讲档案由来，直接用没答下来的水深追问，开头即有可验证的错处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 733,
+      "quote": "她只署能认的自己那次，让每一处收过此式样的地方把自己持的日期抄回来；不必撕下旧页，谁怕湿了有现用的板可以挨边放一只。",
+      "reason": "她承担自己能追到的抄写责任，同时让持旧抄者各自提供证据，错页未被新释义盖掉；这条选择使异岸也能用同样的方法查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 733,
+      "quote": "他把那几处亲见过的副页的存放处说给她，终于把整卷灰线收好，给自己的师弟留了一个能再问的去处。",
+      "reason": "新的查证从抽象「底水」落到此次可认的是岸石和各份副页出处；实际绳长还需按分工问人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 733,
+      "quote": "弥娅便只答现在岸边的水不可凭这行判能饮，问他平常走哪条回家路。",
+      "reason": "面对老人以为冷水被藏的担忧，她不泛说政策，只划出可饮边界并问他带壶怎么回去；认错为读者带来可感的信任修复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 733,
+      "quote": "他问东岸如果也曾抄错，愿不愿送来同样带署名的一纸。",
+      "reason": "本岸已认自己错误，问题直抵对岸有没有原负责者愿意留下姓名和版本出处，不用再等一桩泛泛的新线索。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 734,
+      "quote": "东岸送到五层的两张图在同一处画了冷水。",
+      "reason": "两图看似都能给船用，近旁实测却比旧低潮值暖，第一段就让人问哪种冷的说法能用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 734,
+      "quote": "她得为这个来回多留下半个凉时，不能和林渡一起上去探水库。",
+      "reason": "弥娅决定为公开质疑留下，付出半个凉时且分头行动；保留自己署名比交文件后径直去库更难。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 734,
+      "quote": "条件易混的日子被逐行摊掉，原该让船队欢喜的那一段低潮却仍偏暖，两岸的页都没有给出冷到旧图预计的结果。",
+      "reason": "旧图差异有局部证实，两边只与各自旧档对照也同指偏暖，足以改变下一步工程核验方向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 734,
+      "quote": "有人小声问，澜陆人抄给衡陆看的话以后该怎么信。",
+      "reason": "代价在场落到弥娅身上，接下来她留出处、留回问位并亲自念给不认字的人听，公开不等于自动被信。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 734,
+      "quote": "她让他在旧低潮那一笔下压一指，在新测上另压一指，自己去看两者能不能用同一个出路。",
+      "reason": "林渡要确认旧图预计与现场新测是否可以共用一个热水出口，跨海资料立刻变成下一章的现场行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 735,
+      "quote": "坎外灰色的凹槽很浅，却有一丝浑水正从上风口的石缝钻出来，沿着桶绊绕向他的鞋尖。",
+      "reason": "开场走路已受不明来水约束，跟随库工进门去弄清的事从救急动作中出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 735,
+      "quote": "“不许用那截了，先把旧口列为隔离。”",
+      "reason": "见到旧外沟破缝下有人背孩子走水路，林渡放弃图上短路。代价随后落实在绕行、承件、人手和只能另问杂用水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 735,
+      "quote": "若只在同一间库房内接两壶试水，便可先看中途在哪儿漏，接盘能否在原过道以外收住水。",
+      "reason": "隔离之后找到待查的内侧干槽和石地接盘，把「能否借整库」变为可控制范围的两壶前试。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 735,
+      "quote": "原班工问。\n\n“不许用那截了，先把旧口列为隔离。”",
+      "reason": "原班先问是否得赶走行人，林渡实际舍掉捷径，随后采纳搬桶人给下边留可念警示的意见，使用此路的人没有被排除。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 735,
+      "quote": "现在他向背廊的原班工要一名肯留在接盘尾端的人，另要能两头说得着话的通路。",
+      "reason": "接盘要有人独立见证，进出两端要能喊停；下一章必须把水送进去才能回答旧沟隔离后热还有没有不经过人的路。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 736,
+      "criterion": "opening_pressure",
+      "quote": "第一股试水没到盘里。",
+      "reason": "接盘该有水却是干的，旧布先变暗，把读者直接带入水已从试验区漏出的现场。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 736,
+      "criterion": "protagonist_choice",
+      "quote": "林渡把垫木还在废料堆边",
+      "reason": "他听出同一根木料关系到喝水窗口的夹手风险，拒绝挪用并转找试验专料；普通抢修者可能专顾眼前的漏。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 736,
+      "criterion": "visible_change",
+      "quote": "水沿独立半槽绕过旧接缝，进了盘。",
+      "reason": "首轮水走石缝、次轮水进盘，干地与旧湿处一起证明本地少量旁路成立；半槽和短垫当日实还，热负荷仍未验。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 736,
+      "criterion": "emotional_payoff",
+      "quote": "看路人折回沟角，把钩还给碰上往回找的人。",
+      "reason": "原先为避险让路的人拿回领水钩，也能重新通过，水库的小进步有一位具体受影响的人收得到。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 736,
+      "criterion": "next_question",
+      "quote": "要接的东西还留在山下。",
+      "reason": "有了许可边界和显眼的失败记录，读者想看林渡如何带着它们向车班借部件，以及能否在不影响车班的前提下借成。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 737,
+      "criterion": "opening_pressure",
+      "quote": "车班算得出哪天能把大匣架起来，也算得出那天谁不能过三层的窄道。",
+      "reason": "开场就把工程日程和人不能过窄道绑在一起，再给两列人名和到期床板，问题落到哪家要等。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 737,
+      "criterion": "protagonist_choice",
+      "quote": "他请迟棠在借核心的准备页上写上第二趟未完成，谁今天留下临时接话。",
+      "reason": "林渡优先排卧送，让人自己说能走到哪，并让丢掉的一趟留在工程页上；这是可被追问的调度决定。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 737,
+      "criterion": "visible_change",
+      "quote": "车班把实能成行的一趟写给接家，老人手里的另一张纸暂没有可签的送达时日。",
+      "reason": "两趟从口头相许分成唯一有条件的卧送和确无日期的另约，责任人当面留下名字。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 737,
+      "criterion": "emotional_payoff",
+      "quote": "别把我的床包划掉，说是我有腿。",
+      "reason": "老人点破会走几步并不能抹掉损失，还迫使林渡和迟棠记责任，读者看到受影响的人保有议价能力。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 737,
+      "criterion": "next_question",
+      "quote": "连搁包的那一小角都得在别人的檐下再借一夜。",
+      "reason": "板主让步也只保了卧送的条件，读者要看次日短架能否通过和老人如何过两道槛。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 738,
+      "criterion": "opening_pressure",
+      "quote": "短架推到第一道石槛，中间那只空水桶歪了一下。",
+      "reason": "上章还在排谁过，本章开头便让轮架在实路摆动，把能否过槛变成会失败的动作。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 738,
+      "criterion": "protagonist_choice",
+      "quote": "林渡指的是石槛上人走得惯的那一侧，找过水时磨出的印，再从今日试墨擦过的痕往后查。",
+      "reason": "他依旧磨痕与新擦痕区分脚能走和架能过的路线，选择稳落点与退路，右肩及左手的旧伤也令硬顶不可行。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 738,
+      "criterion": "visible_change",
+      "quote": "抬的人照先前的次序把人和板一并移到床上。",
+      "reason": "失败试推经负荷验证、改落脚和接家挪桌，实际兑现一人一板平托入屋；老人第二趟仍没走。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 738,
+      "criterion": "emotional_payoff",
+      "quote": "借板女人听到里床的人答已同意，才将过槛时缠卷在手里的绳理开。",
+      "reason": "家人听到当夜照护安排落实才松开绳，读者从身体的小动作得到救助成功的回报。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 738,
+      "criterion": "next_question",
+      "quote": "吊具还在场外，明日得先问这道边到底压着哪只脚。",
+      "reason": "试架结束后压力转到车底反常的承力位置，明日第一问有明确对象，接上下一章暂停试吊。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 739,
+      "criterion": "opening_pressure",
+      "quote": "吊带已经绷紧，冷却核心还没离座，阿九让人从医棚带来的第二张纸却在这时送到。",
+      "reason": "手已在绳上，病床送出的补信能否阻止错误受力立即可见，避免从借条背景热身。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 739,
+      "criterion": "protagonist_choice",
+      "quote": "林渡签自己收到外观和落架记录，没有去拿车工手边的锁。",
+      "reason": "林渡要求在载具未定前只停稳分借，到了实交接受车班继续掌锁；工程协调与物权可在现实中并存。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 739,
+      "criterion": "visible_change",
+      "quote": "元件从车底分借，传力部分及其余大匣守原处，罩上隔离记录重记。",
+      "reason": "此前整匣隔离，如今只有冷却件另行封托，原车依旧停；阿九和原车班的条件从图纸推进到眼前的设备。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 739,
+      "criterion": "emotional_payoff",
+      "quote": "迟棠指给他看哪一块罩还在车底，哪一件另放到了封架上。",
+      "reason": "孩子关心旧车还能不能响，迟棠让人在线外看到留与借的两处实物，让拆分的代价可触到。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 739,
+      "criterion": "next_question",
+      "quote": "只限备妥独立试水与载路之后的有见证试验",
+      "reason": "专件已借却尚不能上山试水，读者要看它如何入库、会不会压掉本地照护或超出借限。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 740,
+      "criterion": "opening_pressure",
+      "quote": "有人已经在公告板上画了开工用的红圆。",
+      "reason": "纸刚到就被人误作开工，空白与红圆的偏差让弥娅有事要挡，而非被动念回件。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 740,
+      "criterion": "protagonist_choice",
+      "quote": "林渡做了另一项划记，打算在旧图认为已经该凉下来的那一刻，让岸上留下能作证的人。",
+      "reason": "他选择用旧方案本应成立的窗口公开复测，在缺人时仍提出一个可复验的时段。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 740,
+      "criterion": "visible_change",
+      "quote": "眼下可以排复测与看料的日子。",
+      "reason": "数据、共管和冷却资源已足以备选与排期，旧冷量在新测下面站不住，活闸守旧刻且热量未知。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 740,
+      "criterion": "emotional_payoff",
+      "quote": "他肯让报给另一边的人知道有人晚到了几天，有些东西到现在还在三层。",
+      "reason": "老人从被落下的一户变成能决定工程向对岸交代哪些代价的当事人。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 740,
+      "criterion": "next_question",
+      "quote": "图上旧时能够排的热量，今日可用的观察还撑不起同一个答案。",
+      "reason": "读者能具体追问旧冷点在指定低潮实际如何、刚借到的部件是否需换验证条件；闸不能因此抢动。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 740,
+      "criterion": "promise_payoff",
+      "quote": "两岸最新一批可比较的数字都落在各自预期的暖边，库房外的那条旧沟又不能借。",
+      "reason": "731承诺连未测空格也过海；734展示两岸各自原刻与两种旧图差，承认误抄，兑现了知道哪些数可以用。736小试找出湿槽不能用，739限权拆借并只保本地最低运输。740让测得的偏暖有条件限制工期和方案，三件资源齐备仍缺当下实际冷量，须在下一篇复测。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 737,
+      "criterion": "progressive_stakes",
+      "quote": "你讲在这里，有人得听懂是你腾了那班工。",
+      "reason": "篇初缺测先把两个班的工时从数据里显出来；到737老人要求林渡承担少掉的运次，738一人真送一人真等；739试吊必须为旧伤照护让路，740代价可跨岸公开，同时新数据还把下一篇的考验升为旧冷量能否达到。每一阶段的限制改变了下一项选择。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

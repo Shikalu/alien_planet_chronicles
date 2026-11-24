@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root/draft_a53",
+  "reviewer": "/root/draft_a51_middle",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 621,
+      "path": "异星录/06_执行计划/工作区/A53/第621章_把背留给山.md",
+      "sha256": "58bdddb98b8cd3229b50a441ccd4e5f72902db531f19740eb404fc4b659a1400"
+    },
+    {
+      "chapter": 622,
+      "path": "异星录/06_执行计划/工作区/A53/第622章_归期写两遍.md",
+      "sha256": "908571a71e6f3c31ec40c230505c00d3c79b039ea56cd6f28807bef513ba09c2"
+    },
+    {
+      "chapter": 623,
+      "path": "异星录/06_执行计划/工作区/A53/第623章_一辆空车有多重.md",
+      "sha256": "fa7aee25758e2c1a1d538e8e58c1453531ce41a5938c8ea39cf70fba57d243c4"
+    },
+    {
+      "chapter": 624,
+      "path": "异星录/06_执行计划/工作区/A53/第624章_能让开几指.md",
+      "sha256": "cc23c576568d60827e1f34eb4f5b92cc11897950154b280272a0972b38edddd5"
+    },
+    {
+      "chapter": 625,
+      "path": "异星录/06_执行计划/工作区/A53/第625章_门里最后一席.md",
+      "sha256": "074bf14b7dc5b9928025e4161b216dad40007f3a371615b5de231ffd2ee2cfe6"
+    },
+    {
+      "chapter": 626,
+      "path": "异星录/06_执行计划/工作区/A53/第626章_一张桌子的去处.md",
+      "sha256": "4ad8e86c4a9f6713451bb1d3a8635bd7128f0d781fad3634565672489716aea8"
+    },
+    {
+      "chapter": 627,
+      "path": "异星录/06_执行计划/工作区/A53/第627章_拿什么挡住第二趟.md",
+      "sha256": "6000e8ff2fc48e2f819ce99022730c3a541cc80b109355ff137d9e27592cbcd6"
+    },
+    {
+      "chapter": 628,
+      "path": "异星录/06_执行计划/工作区/A53/第628章_给抬人留两步.md",
+      "sha256": "3ad1a30f41d9171d4bbd5481042673bfc21c2bca1a6fa9c65c052e049134bf68"
+    },
+    {
+      "chapter": 629,
+      "path": "异星录/06_执行计划/工作区/A53/第629章_八条腿先走.md",
+      "sha256": "1f1c7c61bbfadb08f3a7d8b4cf3339269fae54f63bc01d1b4acae1379d99d7ca"
+    },
+    {
+      "chapter": 630,
+      "path": "异星录/06_执行计划/工作区/A53/第630章_先画哪一面墙.md",
+      "sha256": "95d91104813703fc61861df1910cb852cfce7b93f35cf16fc0e2ff6903bcab77"
+    }
+  ],
+  "source_digest": "b92c29395bf0ba276be8e0a4446077647a9838e7e426c8d7ceebcf016add114a",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 621,
+      "quote": "冷却塔脚下有人拿一双干鞋来换车位",
+      "reason": "鞋的用途和交换请求一同出现，首趟已开的车马上又被一个人需要。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 621,
+      "quote": "把塔脚背水的一段先空出来",
+      "reason": "林渡让伤者得到临时照护并为后续留下可核记录，避免用车位代替眼前急需。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 621,
+      "quote": "他坐过去以后松开原先一直攥着的膝头",
+      "reason": "挪座解除当场身体负担，帮读者看到先判断病情的收益。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 621,
+      "quote": "还能替那男人把后跟那道口缝住",
+      "reason": "拒绝用鞋换位后，鞋恢复为身边人能互帮的东西，安慰落在小事上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 621,
+      "quote": "原托两头之外还得有手",
+      "reason": "托面尺寸比转角小也未必能过，两张纸下去后该如何把人抬下来有明确问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 622,
+      "quote": "三层交口有人在车账里添了个空位",
+      "reason": "没返回的车已经有货惦记，急于把预期兑现的压力立刻出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 622,
+      "quote": "两纸明日同到期，各认各的物",
+      "reason": "林渡选择问清独立物权与归期，先扣住看似顺手的返程加货。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 622,
+      "quote": "两份新纸写到第五百八十七日",
+      "reason": "原物在双方看过后以两份纸续借，意向变成当前可据事实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 622,
+      "quote": "原空盆班只好少半程",
+      "reason": "旧货与急撤必须争用同几双肩，验物损失立刻落到一把送不到的底箍。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 622,
+      "quote": "车尾那一格没人之前，车仍在对面",
+      "reason": "读者已经知道司机看不到左轮，找哪类帮手成了明确行动而非空等。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 623,
+      "quote": "石路那头先传来三声嗓音",
+      "reason": "车尚没开始牵，卸载端传来的叫停抢在岸台排好动作之前进入现场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 623,
+      "quote": "返车这轮只让本车原司机留位操止",
+      "reason": "林渡拦住以空位换时间的请求，坚持让空返试验保有清楚的负荷。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 623,
+      "quote": "空车回到岸台原停位时",
+      "reason": "在过槽见屑并停查后，两端终于交回可维修的原车，返车悬念已兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 623,
+      "quote": "只有夜里才放下",
+      "reason": "空返之后看到了阿九用后来搭的铺值夜，下一次腾位已有可感的个人代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 623,
+      "quote": "两副原托面走一回已经顶到车门",
+      "reason": "已有两托的极限和新尺寸相遇，能否挤出第三副要从谁的空间取舍变得尖锐。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 624,
+      "quote": "问能不能把右边那道铁卸下去",
+      "reason": "第一句就有人提议拆正在工作的部件，想多一副托的愿望立即撞上安全边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 624,
+      "quote": "车门够宽，人也得回得来",
+      "reason": "先保住制动，拿样架看乘员与随护能否移动，两种通行同时验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 624,
+      "quote": "第三副架抬在膝上",
+      "reason": "第三样架和真人要操作的空间发生冲突，余量已经通过看得见的卡挡显形。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 624,
+      "quote": "今晚可在自己家给阿九弄个位置",
+      "reason": "占用生活空间前有人愿献自家睡处，临时拼出来的善意有家里原先已借料的条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 624,
+      "quote": "明天才能给人看地板上还有几指",
+      "reason": "阿九还要先理掉自己尚在用的东西，选择将由他亲手做出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 625,
+      "quote": "门外人叫他签旧铺板",
+      "reason": "睡醒时就要当面签拆自己过夜的地方，压力落在现成实物上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 625,
+      "quote": "下头一行只写着卸走车内可拆旧物",
+      "reason": "阿九自签，物料拆出仍按账走，并准备保留车肋承重。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 625,
+      "quote": "拆过铺的三块货板和短脚一并靠上干架",
+      "reason": "卸三板和短脚实际完成；底架原孔能另落短束件，净空的变化可以触摸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 625,
+      "quote": "窗底留下一道较浅的色带",
+      "reason": "一条光里的褪色差写出了今夜不能躺回去的个人损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 625,
+      "quote": "谁真同意把自己的东西留在车上",
+      "reason": "样架只证明空间，下一步得由原主签实托，再谈人能不能上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 626,
+      "quote": "从石上干卸点回来的人先向林渡要一张桌子",
+      "reason": "开章先亮出拆后物和两端照护需求的冲突，枕下纸让冲突可触可知。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 626,
+      "quote": "拒绝，列明随护坐位、三件托具及各自的原药水上车",
+      "reason": "林渡优先交付实人的护理，取消先占下的一趟常货，回三层自己改条。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 626,
+      "quote": "到第五百七十五日为止",
+      "reason": "短托从只许比尺改成物主许可的限期出借，归还和延借各有落点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 626,
+      "quote": "不须自家枕头盖住消息",
+      "reason": "桌被送到更需要处，对面病人和接手人的便利可以具体想见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 626,
+      "quote": "每一副有主人，有重量",
+      "reason": "车有装位、队有对象，挡不挡得住重量成为余下最明确的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 627,
+      "quote": "哪一袋石头能少装",
+      "reason": "求少装立刻把试验真实性与疲乏的人手放到同一处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 627,
+      "quote": "留出额外人手在弯前替换",
+      "reason": "林渡用接力解决肩疲，石袋实荷保足，药匣因此延后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 627,
+      "quote": "轮缘停在末线里，余半个掌宽",
+      "reason": "同一段干轨的载重刹停条件当场兑现，能验到的额外运力具体有边。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 627,
+      "quote": "连续跑不能用换手的人掩盖制动上的热",
+      "reason": "有望多运的兴奋受局部发热节制，主动留下一个凉退窗口有身体与设备因果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 627,
+      "quote": "第三副起来时手还没有落的地方",
+      "reason": "三副架能放进车与能在另一端安置是两回事，下一章必须从卸载空间中让出路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 628,
+      "quote": "两只空壶一前一后靠着门",
+      "reason": "檐下人和壶都未进去，昨天量好的落脚处先给候人占了，一章开头即摆出实卸会卡在哪里。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 628,
+      "quote": "第一块石给抬头一侧落脚，第二块给送来的两手能退出来",
+      "reason": "照护人主动少走一趟水，退候两步使抬进去后的人仍能空手出来。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 628,
+      "quote": "一份三副实卸的到条由原岗写好",
+      "reason": "装、停、再起、逆序卸的动作有真实回条，三托一护兑现为另一端所见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 628,
+      "quote": "从石路走，晚些来问到了没",
+      "reason": "拿鞋换劵的人接受步行，让车上只有一个已定随护，她和伤者仍有各自可到的地方。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 628,
+      "quote": "他们今凉没有",
+      "reason": "三副已经塞满可落托的石面，读者具体会问下趟能往何处卸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 629,
+      "quote": "条上没填是谁，只先占一整车",
+      "reason": "接收位置满了，一条匿名整车单直接袭来，昨章的越线担忧有了当事人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 629,
+      "quote": "上头的活先别替它写完",
+      "reason": "林渡按实际见人的时间查车单，拒自动把待行动、装车和接到写成一笔。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 629,
+      "quote": "午前四人都走到暂坐点",
+      "reason": "步行分担有实到，有助卸点空出脚地，但七位照护与随行并未因此搬离。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 629,
+      "quote": "愿意先把钥匙拿出来",
+      "reason": "家属从索取自己可用的位置转为试交本家的木料，善意伴着要核承托的风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 629,
+      "quote": "把人和承重画在同一张纸上",
+      "reason": "如何在户内仍有人或建筑尚在受力时借屋梁，给次篇的实地方案设了条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 630,
+      "quote": "三层交口的值桌摆着一把湿钥匙",
+      "reason": "读者首先看见候车处的一把家门钥匙，献梁与是否有人还住家共桌，有明确危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 630,
+      "quote": "眼下得先找房屋能否从另一端进出",
+      "reason": "林渡要求先查住户、外梯与出路，再谈拆木，记下需要深入一步的原因。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 630,
+      "quote": "一页给能看梁的工",
+      "reason": "原来抽象的扩容已变成量两处岩脚、问水库实余的两条独立任务。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 630,
+      "quote": "家里那一根木先留作待查",
+      "reason": "拿钥匙的女人主动限定用料承诺，帮助人的心意延续她照顾共墙的住户。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 630,
+      "quote": "先报能读到的实余",
+      "reason": "哪一段水还能延缓哪一段失稳，要靠原塔班和水库的数据给下一卷段回答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 628,
+      "quote": "一份三副实卸的到条由原岗写好",
+      "reason": "623空车实返，625拆除旧铺，627配重验刹，628实卸三托一护，较首趟多一托的承诺实际兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 630,
+      "quote": "还由谁吃力",
+      "reason": "轮、闸、车厢净空过关以后，卸点和步路不再能接新增托位；需要实际住屋、山石和水库各自承担可见损失。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

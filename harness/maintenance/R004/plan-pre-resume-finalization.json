@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "scope": [
+    51,
+    100
+  ],
+  "status": "in_progress",
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "batches": [
+    {
+      "id": "B06",
+      "start": 51,
+      "end": 60,
+      "status": "independent_final_review_in_progress",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B06"
+    },
+    {
+      "id": "B07",
+      "start": 61,
+      "end": 70,
+      "status": "final_body_pass_writeback_pending",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B07"
+    },
+    {
+      "id": "B08",
+      "start": 71,
+      "end": 80,
+      "status": "final_body_pass_writeback_pending",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B08"
+    },
+    {
+      "id": "B09",
+      "start": 81,
+      "end": 90,
+      "status": "independent_final_review_in_progress",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B09"
+    },
+    {
+      "id": "B10",
+      "start": 91,
+      "end": 100,
+      "status": "independent_final_review_in_progress",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B10"
+    }
+  ],
+  "recovery_date": "2026-11-06",
+  "recovery_note": "按实际稿件/报告恢复，非重新初审；B07/B08终稿path为发布目标，SHA已与工作稿核同。",
+  "writeback_status": "staged_pending_independent_review"
+}

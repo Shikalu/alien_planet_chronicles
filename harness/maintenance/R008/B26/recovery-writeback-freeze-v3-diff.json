@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B26",
+  "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+  "independent": true,
+  "date": "2026-11-10",
+  "body_digest": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d",
+  "scope_chapters": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260
+  ],
+  "from_revision": 2,
+  "to_revision": 3,
+  "previous_freeze": "harness/maintenance/R008/writeback-freeze-v2.json",
+  "previous_freeze_sha256": "1bb8fef9622d3276775a9266d73ddd0533bd4f7de73ffd37cb39db48d60dad73",
+  "current_freeze": "harness/maintenance/R008/writeback-freeze.json",
+  "current_freeze_sha256": "564c141211821358a5851d1f5d9ef13792d1df6f9dd98dd5b4242e5dfb1e5c9f",
+  "files": [
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "v2_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "v3_actual_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": true,
+      "A16_reviewed_ranges_unchanged": true
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "v2_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "v3_actual_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": true,
+      "A16_reviewed_ranges_unchanged": true
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "v2_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "v3_actual_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": true,
+      "A16_reviewed_ranges_unchanged": true
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "v2_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "v3_actual_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": true,
+      "A16_reviewed_ranges_unchanged": true
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "v2_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "v3_actual_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": true,
+      "A16_reviewed_ranges_unchanged": true
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "v2_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "v3_actual_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": true,
+      "A16_reviewed_ranges_unchanged": true
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "v2_sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+      "v3_actual_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": false,
+      "A16_reviewed_ranges_unchanged": true
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "v2_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "v3_actual_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "actual_matches_v3_freeze": true,
+      "whole_file_unchanged": true,
+      "A16_reviewed_ranges_unchanged": true
+    }
+  ],
+  "narrow_out_of_scope_diff": {
+    "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 228,
+    "section": "A17批实录的批末状态（对A18入口）",
+    "old": "- 人手足：照护夜班三班不动；守夜与凝水一个不抽；核人半班在D132并入照护；修管班四人仍全给搬运；弥娅离队后核证（看汽看缝）一岗由林渡自顶（白班看板、夜班守核证位、回话祝衡记）；岑野半班信使、麦穗白天管翻身；祝衡守账不动、左腿伤加重仍扶桌写字；丁字三转抄页与对旧册。",
+    "new": "- 人手／岗位：照护夜班三班不动；守夜与凝水一个不抽；核人半班在D132并入照护；修管班四人仍全给搬运；弥娅离队后核证（看汽看缝）一岗由林渡自顶（白班看板、夜班守核证位、回话祝衡记）；岑野半班信使、麦穗白天管翻身；祝衡守账不动、左腿伤加重仍扶桌写字；丁字三转抄页与对旧册。",
+    "operation": "仅栏目名人手足→人手／岗位；冒号后所有事实文字不变",
+    "reverse_replacement_reconstructs_exact_v2_sha256": true,
+    "v2_reconstructed_sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+    "affects_A16": false,
+    "A17_full_review_performed": false,
+    "reason": "实际读标签diff及其章节边界；逆替换单一标签后全文件SHA精确回到v2，故无其他候选内容变化。A16及R008本组段落摘要亦逐段相同。"
+  },
+  "B26_all_10_body_sha_unchanged": true,
+  "body_verdict": "pass",
+  "reader_52_unchanged": true,
+  "writeback_verdict": "needs_revision",
+  "blocking_issues": [
+    "R008-B26-WB45",
+    "R008-B26-WB48"
+  ],
+  "scope_limitation": "只核A17这一个中性栏目名diff对A16无影响，不签A17全文，也不将范围外读到的岗位句作为本组事实验收。A16既有WB45—48仍未改。"
+}

@@ -1,0 +1,1102 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B26",
+  "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+  "independent": true,
+  "date": "2026-11-10",
+  "body_digest": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d",
+  "body_validation": "pass",
+  "not_release_gate": true,
+  "source_issue_sets": [
+    {
+      "source": "harness/maintenance/R008/B26/initial.json",
+      "count": 32,
+      "ids": [
+        "B26-01",
+        "B26-02",
+        "B26-03",
+        "B26-04",
+        "B26-05",
+        "B26-06",
+        "B26-07",
+        "B26-08",
+        "B26-09",
+        "B26-10",
+        "B26-11",
+        "B26-12",
+        "B26-13",
+        "B26-14",
+        "B26-15",
+        "B26-16",
+        "B26-17",
+        "B26-18",
+        "B26-19",
+        "B26-20",
+        "B26-21",
+        "B26-22",
+        "B26-23",
+        "B26-24",
+        "B26-25",
+        "B26-26",
+        "B26-27",
+        "B26-28",
+        "B26-29",
+        "B26-30",
+        "B26-31",
+        "B26-32"
+      ]
+    },
+    {
+      "source": "harness/maintenance/R008/B26/recovery-new-issues.json",
+      "count": 22,
+      "ids": [
+        "R008-B26-R01",
+        "R008-B26-R02",
+        "R008-B26-R03",
+        "R008-B26-R04",
+        "R008-B26-R05",
+        "R008-B26-R06",
+        "R008-B26-R07",
+        "R008-B26-R08",
+        "R008-B26-R09",
+        "R008-B26-R10",
+        "R008-B26-R11",
+        "R008-B26-R12",
+        "R008-B26-R13",
+        "R008-B26-R14",
+        "R008-B26-R15",
+        "R008-B26-R16",
+        "R008-B26-R17",
+        "R008-B26-R18",
+        "R008-B26-R19",
+        "R008-B26-R20",
+        "R008-B26-R21",
+        "R008-B26-R22"
+      ]
+    },
+    {
+      "source": "harness/maintenance/R008/B26/recovery-round2-suggested-edits.json",
+      "count": 3,
+      "ids": [
+        "R008-B26-R2-01",
+        "R008-B26-R2-02",
+        "R008-B26-R2-03"
+      ]
+    },
+    {
+      "source": "harness/maintenance/R008/B26/recovery-round3-suggested-edits.json",
+      "count": 1,
+      "ids": [
+        "R008-B26-R3-01"
+      ]
+    }
+  ],
+  "issue_checks": [
+    {
+      "id": "B26-01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-02",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 10,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-03",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-04",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-05",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-06",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-07",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-08",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 6,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-09",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-10",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-11",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-12",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-13",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 5,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-14",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-15",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-16",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-17",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-18",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-19",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-20",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-21",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-22",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-23",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-24",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-25",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-26",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-27",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-28",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 6,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-29",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-30",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-31",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-32",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R02",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R03",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R04",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R05",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R06",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R07",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R08",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R09",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R10",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R11",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R12",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R13",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R14",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R15",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R16",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R17",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R18",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 6,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R19",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R20",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R21",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R22",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R2-01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R2-02",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R2-03",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R3-01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    }
+  ],
+  "issue_count": 58,
+  "closed_count": 58,
+  "open_body_count": 0,
+  "reader_check_count": 52,
+  "reader_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "pattern_hit_count": 54,
+  "current_pattern_quote_validation": "all_exact",
+  "full_reread_this_round": [
+    256
+  ],
+  "other_nine_sha_unchanged": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    257,
+    258,
+    259,
+    260
+  ],
+  "single_256_reverse_replacement_matches_previous_sha": true,
+  "writeback_freeze_revision": 4,
+  "writeback_freeze_all_8_actual_sha_match": true,
+  "writeback_closed_count": 48,
+  "writeback_open_medium": 0,
+  "writeback_open_minor": 0,
+  "writeback_verdict": "pass",
+  "formal_body_unpublished": true,
+  "formal_10_equal_before_sha": true,
+  "artifacts": [
+    {
+      "path": "harness/maintenance/R008/B26/final.json",
+      "sha256": "ab2f67c9b7f7f4eacb6f45d402f896ac6f968d7656d8dee2522d3a951412e5ad"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/reader-review.json",
+      "sha256": "793abea623dd1f3d57c28d932931ccccdb15295e3e0cd16aa42481ebaacc25ef"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-final.md",
+      "sha256": "7e6cb4d61bc35eb5522e8d8055404dd68709727619ecc50817de19b7f891ba00"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-final-read-manifest.json",
+      "sha256": "97dee6d424381a4a5a10d6518e4c9a35c43d55274023e4a86d7dfa00e3f1b193"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-round4-read-manifest.json",
+      "sha256": "d03008de98e3d3ce6a46632154099247760e5931b6791f247c23c27ab3627964"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-round4-issue-closure.json",
+      "sha256": "699e093c6aee6887fd4e201ffb361137dd09fcc55c1071746132de44402a9123"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-standards-audit.json",
+      "sha256": "5d2c3f7a857f55d17f32b5c01bcbcac9abbdfa4b09cdaff2676a9b7e8f16bfcb"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-standards-audit.md",
+      "sha256": "9c860640cb7f5063529743629bb37b162b8e6aa4462d8856849e5eabc97d2bc3"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-writeback-freeze-suggested-edits.json",
+      "sha256": "1e1ce2b4c8e2d432fcf491a132d14da738568d11801aff067a7d224e9400a2ba"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/writeback-freeze-review.json",
+      "sha256": "fc248bd6213d134747cdbc1110d095db210a341ab65ab4f54cb41d7d6782fe02"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-writeback-freeze-v3-diff.json",
+      "sha256": "413ef6fad8a18ab73641c69f9c3213d22115645b6455e84ec59f0829b271a7a7"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-writeback-freeze-v4-diff.json",
+      "sha256": "7bfe6f64f727776f5e0d5f8580789cd97a622b5db5bccbd264c2c4c58050b611"
+    }
+  ],
+  "no_prose_or_candidate_write": true,
+  "scope_limitation": "机械校验不替代真实审读；正文只覆盖251—260，候选仅A16相关范围。B28六项只核差异边界，不代签B28全文。正文/本组回填通过不是发布门禁通过。",
+  "revision4_diff_review": "harness/maintenance/R008/B26/recovery-writeback-freeze-v4-diff.json",
+  "revision4_A16_other_scope_unchanged_except_WB45_48": true,
+  "revision4_exact_edits_verified": 10,
+  "revision4_independent_fact_closures": 4,
+  "revision4_out_of_scope_edits_boundary_only": 6,
+  "reader_file_unchanged_from_v3": true,
+  "freeze4_body_evidence_reread": {
+    "whole_chapter": [
+      260
+    ],
+    "related_quotes": [
+      257,
+      259
+    ],
+    "all_ten_sha_unchanged": true,
+    "does_not_claim_new_full_ten_chapter_reread": true
+  },
+  "writeback_issue_checks": [
+    {
+      "id": "R008-B26-WB01",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_line": 559,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB02",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_line": 562,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB03",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_line": 566,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB04",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_line": 568,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB05",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_line": 570,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB06",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_line": 573,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB07",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_line": 574,
+      "body_evidence_quotes_verified": 1,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB08",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "actual_line": 493,
+      "body_evidence_quotes_verified": 1,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB09",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "actual_line": 494,
+      "body_evidence_quotes_verified": 4,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB10",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "actual_line": 495,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB11",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "actual_line": 497,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB12",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "actual_line": 499,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB13",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "actual_line": 500,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB14",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "actual_line": 145,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB15",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "actual_line": 148,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB16",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "actual_line": 150,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB17",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "actual_line": 151,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB18",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 317,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB19",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 320,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB20",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 321,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB21",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 322,
+      "body_evidence_quotes_verified": 4,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB22",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 323,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB23",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 324,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB24",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 325,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB25",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_line": 326,
+      "body_evidence_quotes_verified": 4,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB26",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "actual_line": 176,
+      "body_evidence_quotes_verified": 1,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB27",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "actual_line": 182,
+      "body_evidence_quotes_verified": 1,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB28",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "actual_line": 185,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB29",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "actual_line": 174,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB30",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "actual_line": 54,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB31",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "actual_line": 56,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB32",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 165,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB33",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 168,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB34",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 169,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB35",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 170,
+      "body_evidence_quotes_verified": 4,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB36",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 171,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB37",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 173,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB38",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 174,
+      "body_evidence_quotes_verified": 5,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB39",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 436,
+      "body_evidence_quotes_verified": 1,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB40",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 438,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB41",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 441,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB42",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 442,
+      "body_evidence_quotes_verified": 3,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB43",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "actual_line": 44,
+      "body_evidence_quotes_verified": 4,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB44",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 170,
+      "body_evidence_quotes_verified": 1,
+      "resolution_present": true,
+      "recheck": "prior_actual_review_plus_exact_unchanged_quote"
+    },
+    {
+      "id": "R008-B26-WB45",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 178,
+      "body_evidence_quotes_verified": 4,
+      "resolution_present": true,
+      "recheck": "actual_changed_scope_read"
+    },
+    {
+      "id": "R008-B26-WB46",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 179,
+      "body_evidence_quotes_verified": 2,
+      "resolution_present": true,
+      "recheck": "actual_changed_scope_read"
+    },
+    {
+      "id": "R008-B26-WB47",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 180,
+      "body_evidence_quotes_verified": 5,
+      "resolution_present": true,
+      "recheck": "actual_changed_scope_read"
+    },
+    {
+      "id": "R008-B26-WB48",
+      "status": "closed",
+      "actual_candidate_quote_verified": true,
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_line": 182,
+      "body_evidence_quotes_verified": 4,
+      "resolution_present": true,
+      "recheck": "actual_changed_scope_read"
+    }
+  ]
+}

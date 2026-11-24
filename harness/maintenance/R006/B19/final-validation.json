@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B19",
+  "source_digest": "40ebb23a58254799a3ef26887bc65b486d6af470d8a0fbd4e59b53c40f2607eb",
+  "manuscripts": [
+    {
+      "chapter": 181,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第181章_只说亲眼见过的.md",
+      "sha256": "08c179fa5de840a6d29e90ae5fcb72c06edbd16eb8a4b41fb053afb724125cd6"
+    },
+    {
+      "chapter": 182,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md",
+      "sha256": "23c83fd3d89fb7460ce566edf581f79efd2f0db13fdc50503cb611fcfa917050"
+    },
+    {
+      "chapter": 183,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第183章_签过封锁的人.md",
+      "sha256": "ecfd7505b1d25e32d7245102a2dc9cf825639af57ce560f7b57ad67c2ebb2436"
+    },
+    {
+      "chapter": 184,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第184章_听完也不必原谅.md",
+      "sha256": "26dc1fbd86413a88fd1adca9e3cab1989013a0052665f53d67194db55166b999"
+    },
+    {
+      "chapter": 185,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第185章_哪一件先送走.md",
+      "sha256": "085b27e36ce4d02a4d49fb7fdece4eb27757baf10aa58f77470a32ecb6c1d3c9"
+    },
+    {
+      "chapter": 186,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第186章_缺口不补成一句话.md",
+      "sha256": "8c57ceed6cb917a4cae68c64747cd6d0f792d623b2a31f55c5632dc3addd1492"
+    },
+    {
+      "chapter": 187,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第187章_不是一只手点的火.md",
+      "sha256": "9635f0ef083dcd7ca1341690646f699ccf004b093f62daf8254e70994699dc87"
+    },
+    {
+      "chapter": 188,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第188章_谁签了哪一笔.md",
+      "sha256": "277a4c0d4789a48fadbb5ef7a63c3fff7f59c274f721dd5fe918fedfeac2fd81"
+    },
+    {
+      "chapter": 189,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第189章_被划掉的不是一户.md",
+      "sha256": "b06a72adbb8878c75922b37d3ceff08df3e489f96fa5bdf2e25944c7eb4439bd"
+    },
+    {
+      "chapter": 190,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第190章_留下名字的人.md",
+      "sha256": "5ad26c312de62255f5147cebf04ab2c465c05781bc519799ebddd994f40258ed"
+    }
+  ],
+  "report_paths": {
+    "final.json": "harness/maintenance/R006/B19/final.json",
+    "final.md": "harness/maintenance/R006/B19/final.md",
+    "reader-review.json": "harness/maintenance/R006/B19/reader-review.json"
+  },
+  "report_sha256": {
+    "final.json": "dba6472a824a925f543659e3de782427719d092546eba19ff858b873b324602d",
+    "final.md": "2aa099aec198093da898caf52b09978ccf6170d4b33e9314d4e2a59109566fe0",
+    "reader-review.json": "daae6037fd2fda3246a84b12e230cb1b03fa5b40cf0b9d1d704ddc50d2ebe8f7"
+  },
+  "summary": {
+    "total_issues": 46,
+    "closed": 35,
+    "pending_author": 10,
+    "open": 1,
+    "unresolved_blocking": 9,
+    "reader_checks": 52,
+    "reader_checks_pass": 40,
+    "reader_checks_needs_revision": 12,
+    "editor_log_entries": 65
+  },
+  "mechanical_format_coverage_quotes": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "require_pass_result": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "initial_files_unchanged": true,
+  "initial_frozen_sha256": {
+    "initial-reader-notes.md": "dfdb55c79c1e00c5b2d6c8253690adca0b3cafa3c4f1226dd0ffcee11d95afd7",
+    "initial.json": "71e9a00221c7b34db034eb04377736eac836579c4918f2e4ebe8c0a173e0b570",
+    "initial.md": "8365145536453006972f8b3e2a6c35be8822138fd4b4eb737084d1fa8e2e030c",
+    "suggested-edits.json": "8e1b1afbb8f6eb98458e9064e593b15787acc51f58eb1c48c4df11d04d3e81f7"
+  },
+  "current_manuscripts_unchanged_during_write": true,
+  "ordinary_open_exact_quote": "差的那一勺，是给井房那只灰鸟留的——照护组的孩子舀的",
+  "new_findings_retained_and_closed": [
+    "R006-B19-043",
+    "R006-B19-044",
+    "R006-B19-045",
+    "R006-B19-046"
+  ],
+  "note": "仅格式/覆盖/逐字/指纹校验通过；事实issues，追读needs_revision。未运行发布或修复门禁。"
+}

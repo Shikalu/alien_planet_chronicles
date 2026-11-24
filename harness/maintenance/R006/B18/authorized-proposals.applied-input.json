@@ -1,0 +1,2864 @@
+{
+  "schema_version": 1,
+  "kind": "authorized_patch_proposals",
+  "batch": "R006-B18",
+  "chapter_range": [
+    171,
+    180
+  ],
+  "date": "2026-11-07",
+  "status": "ready_for_main_application_not_reviewed_after_edit",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "writer": "R006-main",
+  "independent": true,
+  "identity_binding": {
+    "same_thread_as": [
+      "B18 initial",
+      "B18 final v1",
+      "B18 final2"
+    ],
+    "source": "主线程在本会话提供实际spawn/调用元数据，并确认send_input target及初审/v1/v2为同一独立线程；非自行猜测，未声称另行读取底层spawn日志。",
+    "historical_reviewers": "initial.json/final.json的null保持原字节，不回填、不代造历史签名。"
+  },
+  "authorization": {
+    "source": "本会话用户新授权“待定问题按照你的建议修改”，并追加主编人口推荐A与历史口径裁定。",
+    "scope": "18项原pending_author拟具体修句；不改正文/卡/账，不签通过；不新增人口、水、能源、副本、物件，不伪造历史证据。",
+    "population": "48/49/51/52/53仅为受护册登记条目/暂计配给份；未逐人排重，不算精确队伍人口。17儿童保留；6人退搬运班及信使外出不销受护条目；老陈已入册只计位置。",
+    "history": "以主线程最新裁定及已发布142章17—39行为准：开篇林岑46；三十年前16岁亲见外段封门及左手烫疤，16年前30岁执行本地爆破，10年前接上递单线。保已载久居/从业年限；不把这三段同日化、不以泥层添第二日期，未知具体日仍留框。174的烫疤封缝指早年封門，不指爆破后新目击；175墙龄为居住经历，非爆破年代。",
+    "messenger": "180改D47保管交付/备发；同匣182于D48—49校正后首次出发，不添返程、第二匣或一批。",
+    "energy": "主线程确认B17已实改：借入1.7格，两枚合实余0.2格（以一枚满格为基数的两成）；0.15/0.10为旧拟用预算，非实耗上限，1.5总耗逐班未齐不补造0.25。塔芯只供短时试验/值守照明，棚原有手摇灯、坡口与四层巡铺灯各归原账；保留181D48实际用尽。"
+  },
+  "manuscripts": [
+    {
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "sha256": "4414acadbb520b537f07fa7754caba0d955d2bb3e6e44116019634eb6496dfc0"
+    },
+    {
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "sha256": "fa050e6da8048dcda71f790cfe9668e70b69d912428cd3dfa53059728ea53aeb"
+    },
+    {
+      "chapter": 173,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "sha256": "d6fea4341551efb6fe4e2eb3449392e0055759c069170cca1358e0bbf47da84e"
+    },
+    {
+      "chapter": 174,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "sha256": "421f80ba157a2b49fc31b5d352604a93eac3ed8edb02ca851ed7098652128017"
+    },
+    {
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "sha256": "26ab32c9daa7cd988578fd1a2565874916e49a00890237a59a20d556db038cb6"
+    },
+    {
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "sha256": "5153f0948bf1f06b7d50b65421a823243befc3db90d359924e52a206eeaf7746"
+    },
+    {
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "sha256": "910e5f1ff364d80d393c12d177d6f6b50a9a3f4c6e6adecc7794b526586cfeec"
+    },
+    {
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "sha256": "320e80857ffd2884cc113c97b990da54ecaf5c02a2fd0b41f0dbedb59f0959b4"
+    },
+    {
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "sha256": "28a3ab8b1fe2f492b968ce32ea000a104ac2bb446076041bfba9ba72ce62d2de"
+    },
+    {
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "sha256": "4a77c791c6d24c4f3e2742f637183e9bd6403eeaad7ba975143ae31924a9e7fb"
+    }
+  ],
+  "source_digest": "d3b7a59136a615c32f9a8f1ad336bc6cd90f9c4241fe17cb7958fbc48c3ec706",
+  "frozen_history": {
+    "final2-reading-manifest.json": "72b0c4658f677a906826f0e7d516ace18c9bdd15e1c43ab02c7ac6ef68306108",
+    "initial.md": "7d49b139d4e4cbc70ae5f027e393c634379ab9dcd593020bd9bea0d804ded13a",
+    "reader-review2.json": "9212f3358d6b6f1634c83dd9623c6caf74dc1970fab5ba95447ceb208cc050f4",
+    "initial-validation.json": "d60954d6c236ff901b47358093c58157c012c9c7e2248461f3fabc8527db803f",
+    "reader-review.json": "4683b9006be5b6635e6406987846a710c69b7b9809489835a9f88394f7e98a5b",
+    "final2.md": "056c44bce89834d831d30ca361f17abcea5a2091906f3ef2598fa0e7cfea4df9",
+    "initial-reader-notes.md": "2899e26ae6326355d4ee5e3483b08cb43fe86d84414ce2d77361dff6333ab481",
+    "final.md": "3d298f454a01dba421e87742b4bdc9bf62bb61282d057c6c3d7345b85db0f9fa",
+    "suggested-edits.json": "6f817962b2d749863e25875b2f979f7bb45ba996c83b612d01a6a8564f87fd66",
+    "final2.json": "a1bc9683534c28316ca7437de533828230a2811a7289a6a51b0b57556b64c83b",
+    "final2-body-first-notes.md": "248a4010adee5ea78b0659e72c541be7d02a84ac87a8433b9b51e2c112d0d76b",
+    "final.json": "cb27678064fecfec735f4e3252a52fa4e7bc7cd227618adf4c64ebfbfe154935",
+    "initial.json": "a2d2efb10863c4d19428a2e85cd630a1e10b1412baa456c2f09f0f087c4a2852"
+  },
+  "application_contract": {
+    "body_only": "patches仅指向171—180工作稿，不直接指向发布正文；文件SHA必须仍匹配manuscripts。",
+    "operation": "每项before在所列原文件恰好一次；按patches数组顺序str.replace(before,after,1)，不得模糊替换；各项原始区间无重叠。",
+    "atomic_groups": "同一issue跨章及同章关联修句须整组实施；metadata_diffs与cross_batch_dependencies由主线程同步，不由本线程写入。",
+    "acceptance": "字节模拟不是实际改稿审读；实施后另交真实独立复核，旧报告继续绑定旧字节。",
+    "supplemental": "冻结91条先执行，再执行AS-001/002。AS-001说话人已经由AP-043改为杜姨。"
+  },
+  "patches": [
+    {
+      "patch_id": "B18-AP-001",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "before": "锈了三十年的轮盘",
+      "after": "锈了多年的轮盘",
+      "reason": "机械锈龄没有本批可核年月，撤精确数，不挪作封墙年代。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-002",
+      "issue_ids": [
+        "R006-B18-004"
+      ],
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "before": "然后他叫学徒把操作杆锁上。工班室里有现成的锁——原是锁料柜用的，学徒取来，铁鼻子穿过轮辐，咔哒一声咬住了。庚二从坡上赶到时锁已经落了。他没问锁的事，先把钥匙收进贴身的布袋，才开口：“锁杆不锁人。谁拧的，先不忙找——先弄清这格错得有多深。”",
+      "after": "然后他叫学徒守住操作杆。工班室里有现成的料柜锁，学徒取来，铁鼻子穿过轮辐，咔哒一声咬住了。锁只挂在轮辐上，不能卡住轮盘；林渡让学徒站在杆旁，没交班不离位。庚二从坡上赶到，收了钥匙，指着锁说：“这是禁动的记号，不是止动的东西。要复验，先找我开锁、记数。谁拧的，先不忙找。”",
+      "reason": "不虚构阀座锁孔/固定止挡；保留原锁，由既有学徒值守与开锁记数控制操作。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-003",
+      "issue_ids": [
+        "R006-B18-002"
+      ],
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "before": "得先减流，半格半格往回走。走半格，听十息。",
+      "after": "先守住眼下的小流，往回只能走半格。走半格，听十息。",
+      "reason": "取消无来源的第二次关小；三格被收至二格，只可回半格至二格半。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-004",
+      "issue_ids": [
+        "R006-B18-002"
+      ],
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "before": "于是这一班的抢修，整个让给了这道阀。减流，是把旁路的供给再压下去一线——分口的勺立刻就看出来了：",
+      "after": "于是这一班的抢修，整个让给了这道阀。先在阀已收到二格的小流下复验，不再往收的方向拧。交班单把“被收一格”和“待回一格”分开记；流量表另抄实数，不拿浮子的线数抵阀位。分口的勺立刻就看出了小流的代价：",
+      "reason": "阀位与浮子各记各的；保留低流量排队代价，去掉未记的再减流操作。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-005",
+      "issue_ids": [
+        "R006-B18-002",
+        "R006-B18-004"
+      ],
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "before": "日头偏西的时候，轮盘往回走了一格半。每半格，六叔听十息——",
+      "after": "日头偏西的时候，庚二开了锁，轮盘从二格往回走了半格，停在二格半。六叔听足十息——",
+      "reason": "闭环3→2→2.5，次晨再到3；用原钥匙完成已挂标记锁的复验。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-006",
+      "issue_ids": [
+        "R006-B18-004"
+      ],
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "before": "明早凉时再走最后半格。夜里锁着。",
+      "after": "明早凉时再走最后半格。夜里重新挂锁作记，交给双岗守着。",
+      "reason": "锁不是机械止动；夜间控制由本章已命令的双岗承担。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-007",
+      "issue_ids": [
+        "R006-B18-004"
+      ],
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "before": "灯点起来的时候，锁着的轮盘在灯影里泛着那圈没干透的油光。",
+      "after": "灯点起来的时候，挂锁禁动的轮盘在灯影里泛着那圈没干透的油光。",
+      "reason": "避免尾句又把标记锁说成物理锁止。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-008",
+      "issue_ids": [
+        "R006-B18-008"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "减流复验要走到明早，查线的活等不得——今晚的会上，得把那道阀到底掐着谁，一笔一笔摆出去。",
+      "after": "这天，六叔听完晨间那半班的管音，阀间交给庚二和学徒继续守着，才来查线。复验要走到明早，今晚会上却得先把这道阀掐着谁摆出去。",
+      "reason": "明示172与171并行D41，六叔先晨间听管、后查线、傍晚回阀复听，不添替班人。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-009",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "图是十九年前描的，管是三十年没大动的。",
+      "after": "图是旧图，管上也积着多年锈垢，不能拿图龄替眼前的管路作保。",
+      "reason": "本批未核管龄和图龄，不让精确旧年数冒充现管状况。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-010",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "“大婶，水往下走。你家这口，在这条管的末节上。阀在坡上头，水打你家门前过——从你这儿，一滴也流不上城去。”",
+      "after": "“大婶，阀在这条管的上头，你家接水口在阀后。再往下我们还没查完，不能只凭水往下走，就认定它通哪儿。先记你家这一口，后头的继续查。”",
+      "reason": "取消以重力方向证明完整水路拓扑；第九口不再误称最后末节。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-011",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "“到头了。”他说，“这条管出了末户就进井，井里那是主干——上城吃水的主干从塔腰走，不落外缘。这道旁支阀拧断了手，也够不着井里那根。”",
+      "after": "“眼前能查的，到头了。”他说，“管出了末户就进井，盖子没开，井里怎么接还不知道。旧图把上城主干画在塔腰，没画它走外缘；先把这处记成待核，不能拿旧图补眼睛没看见的地方。”",
+      "reason": "保留图载主干路径，井内连接未知；不新添止回阀或开井。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-012",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "“井壁光的，猫都下不去。”",
+      "after": "“盖脚封着，外头没有能下去的路。井壁什么样，站这儿看不见。”",
+      "reason": "观察仅到盖脚，去透视。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-013",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "“大婶，你家这管通的是外缘，通不到议政厅。昨夜蹲墙根的，是听错了地方。”",
+      "after": "“大婶，查过的阀后这一段，接着你们的水口和棚里的药水。井后怎么接还没看见，可谁先断水，已经查到了。昨夜那人想让上城疼，先动的是你家这口。”",
+      "reason": "反报复结论依实际受害者，不依未证实的全管拓扑。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-014",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "“这下清楚了。有人想掐上城，掐的是十九户的勺、一栏药水。议政厅的水从塔腰走——这道阀，流不到议政厅的那一管去。”",
+      "after": "“先伤着谁，清楚了。有人想掐上城，眼前掐的是十九户的勺、一栏药水。图上的议政厅主干另从塔腰走；井里未核的接法，不能替断水的人担保。他拿十九户的水赌上城会疼。”",
+      "reason": "结论降到已见的直接后果；不给主干独立性制造实测证据。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-015",
+      "issue_ids": [
+        "R006-B18-008"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "查线的三个人都是顶班的岗——拐角的夜岗上半夜空了一班，数纸上那格空着，空着就是空着，不能补记。他把空格原样留着，只在格子边上画了个圈：明晚起，查线的活压着岗的活，得重新排人。",
+      "after": "查线占去三个人手，拐角日间原该顶上的那一班空了，数纸上没有值守人的签记，不能补写有人在岗。他把空格圈出，注明是今天查线占班。今夜拐角原班不撤，阀间又要双岗；两处的班得分开排，不能把同一个人同时填上。",
+      "reason": "授权将未到的“上半夜已漏岗”纠为当日日间缺班；保留查线挤占保卫的代价，不把夜岗指令当已执行实录。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-016",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "塔腰的黄灯亮着，那底下是主干，是议政厅真正吃水的那一根——外缘的人踮起脚，也只够得着它的影子。",
+      "after": "塔腰的黄灯亮着。图上主干画在那一带，今天脚下查过的却是外缘这一管；六叔收起图，井里没见着的那截，仍留着待核的记号。",
+      "reason": "尾句不再把未见路线写成全知确认。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-017",
+      "issue_ids": [
+        "R006-B18-014",
+        "R006-B18-021",
+        "R006-B18-034"
+      ],
+      "chapter": 173,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "before": "可是这四十九口，”他抬手朝棚的方向，“序上没有。墙里头守了三十年的两位，序上没有。维修台上那位，序上没有。老陈，序上也没有。",
+      "after": "可受护册暂记的四十九条，”他抬手朝棚的方向，“旧序里找不着对应。那是登记条目，还没逐人排重，不能报成四十九个人。墙里的两位、维修台那位，都还得逐项对；老陈早已入受护册，如今在四层照护位，只核他的旧序和位置，不再添一条。",
+      "reason": "落实主编推荐A；不把分地点名单加成人口，保17儿童，去墙龄。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-018",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 173,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "before": "“这道阀收一格，浅的是这十九户的勺，断的是老赵的疮口水、裴七的换药水、孩子发热的擦身水。”他说，“想掐上城的，可以先弄清楚——上城吃水走塔腰主干，这道阀够不着。够得着的，全在灯底下站着。”",
+      "after": "“这道阀收一格，浅的是这十九户的勺，先少的是老赵的疮口水、裴七的换药水、孩子发热的擦身水。”他说，“旧图把上城主干画在塔腰，井里的接法还没查到。可断水先落到谁身上，节号和领水记录已经对上了——人就在灯底下。”",
+      "reason": "不把低流量说成全断，也不以未核井内拓扑论证上城绝不受影响。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-019",
+      "issue_ids": [
+        "R006-B18-012"
+      ],
+      "chapter": 173,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "before": "把自己那勺原封端给了身后抱孩子的妇人，转身又去排了一次。",
+      "after": "把自己那勺原封端给了身后抱孩子的妇人，转身回到队尾等着。照护纸上，他那一份已经记过；轮到队尾时，他朝勺摆了摆手，没有再领。",
+      "reason": "保留让勺和回到队尾动作，明确仅领一次、让的是本人已记份，不增代领或救济水。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-020",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 174,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "before": "“我在墙外看过那道缝合上。”",
+      "after": "“我十六岁时，在墙外看过那道缝合上。那是三十年前外段封门，不是十六年前我点火的那次爆破。”",
+      "reason": "由C02及176既有陈述明确亲见属于后续续封，不假造更早一次封闭日期。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-021",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 174,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "before": "我只知道那道缝合上之后，三十年，里头的人一滴水没让外头断过。",
+      "after": "我只亲见了三十年前那次封门；十年前才接上递单线，中间的事没见过，不能说成三十年寸水不断。可如今领料和出水的账都在，不能再拿这道阀断他们的水。",
+      "reason": "撤掉46岁者在31/30年前封闭亲见的混指，不减知情、续封、十年递单责任。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-022",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "夜咳重，三十年墙龄。",
+      "after": "夜咳重，墙内居住三十年。这一行记的是久居，不给林岑那次爆破定年。",
+      "reason": "照护风险可记，封闭精确年数无据撤去。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-023",
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "两头都要人手——人手却比原先少了一个班。",
+      "after": "两头都要人手，同一班人不能既抬担架又守分口，原来的班表得把冲突错开。",
+      "reason": "D43不能预支D44六人退班；写既有工作争用而非提前少班。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-024",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "“芯格的红线，是两天。”他说，“照现在的耗法，余量到不了潮头过完。格一到底，按约书，塔上的值守就得复核——谁守、守什么、借的还什么，一样一样重对。”",
+      "after": "“只剩零点二格，按一枚满格算两成，不是借入总量的两成。”他说，“这点电只留短时试验和值守照明，逐班记用。转人排两天，不是灯能连照两天；棚里和四层巡铺原来的灯另记，不能混进这笔余电。格一到底，按约书就复核——谁守、借的还什么，一样一样重对。”",
+      "reason": "保余两成、两天转运与D48复核；删除无班时量依据的两自然日续航硬断言，分时用原灯、不加能源。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-025",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "“两天。”林渡把这两个字接过来。",
+      "after": "“先把两天的转运排稳。”林渡说，“塔灯用多少记多少，不能拿排好的日子充余量。”",
+      "reason": "两天只修饰转运计划，不再当电量保证。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-026",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "夜里的灯按耗用表点——值守房一盏，棚里一盏，坡口一盏，一盏不多。林栖誊完最后一张表数，吹灯前",
+      "after": "夜里的灯各归各的账：值守房那盏只在约定班次动用芯格；棚里用林栖原有的手摇冷凝灯，桌边的人轮着摇；坡口仍用原来的灯，四层巡铺灯也另记，不从塔芯余电里倒扣。林栖誊完最后一张表数，停灯前",
+      "reason": "明确三处既有灯，不新给每灯配芯格或油料。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-027",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "吹灯之前，杜姨把照护交班纸写完了。",
+      "after": "停灯之前，杜姨把照护交班纸写完了。",
+      "reason": "不把芯格照明写成吹灭灯芯。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-028",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "灯芯剪过一回——耗用表上的数有限，可这一晚的灯，戊字一在耗用表边上批了一行字：核证之夜，照点。",
+      "after": "用的是林栖原有的手摇冷凝灯，桌边的人轮着摇，没有另添灯。戊字一在用灯班次旁批了“核证之夜，照点”，又将它与塔芯耗用栏分开：这半宿记摇灯的人手，不记作塔芯放电。",
+      "reason": "借原棚灯实际扣耗，无剪芯、添油或批字生能源。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-029",
+      "issue_ids": [
+        "R006-B18-019"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "今夜把它请出来，量的是它仅剩的那段刻度。",
+      "after": "今夜只借它剩下的旧刻线比相对位置，不拿它读出精细的尺数。",
+      "reason": "残尺不精测与正文操作一致。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-030",
+      "issue_ids": [
+        "R006-B18-019"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "尺刻度贴着纸面走。尺身平平地伏在图上，谁的手也不许压。林栖凑过来对刻度，报数；祝衡在三栏纸的“亲见”栏里记。量到第二个圈到第三个圈的时候，林渡停了一下——尺上的数，跟第一个间距对不上，差着一线。\n\n“差一线。”林栖说。\n\n“画圈。”林渡说。弥娅不在桌上，她定的规矩在：存疑的，画圈，不硬凑。林栖在两个圈中间画了个小圈，圈边注：距差一线，待核。",
+      "after": "裂尺平伏在纸上。林栖沿剩下的刻线记两个间距的起止，没报精数；祝衡在“亲见”栏注明，今夜见到的是图，不是孔。两段图面间距不一样，可谁也没有一张纸说它们本该一样长。\n\n“这处怎么算？”林栖的笔停在第三个圈旁。\n\n“先留着，等描图和现物来对。”林渡说。弥娅不在桌上，她定的规矩在：存疑的，画圈，不硬凑。林栖沿原来的孔位圈旁添了小圈，注明：图面所见，现场待核。",
+      "reason": "保留圈疑、父子核图场景；不把不等距自动判错，也不让残尺读一线精度。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-031",
+      "issue_ids": [
+        "R006-B18-019"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "“差的那一线，没错。第三个孔位，我挪过——挪了半拳，往下坡。原图没改，我记在脑子里。要改图，我现在改。”",
+      "after": "“第三个孔位，我挪过——挪了半拳，往下坡。原图没改，图上的间距不能证明我挪了多少。那半拳是我记在脑子里的。要把我的说法补上，我现在写。”",
+      "reason": "现场移动作为本人陈述，不再解释未改原图的内部差值。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-032",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "桌上静了一阵。灯花爆了一声。",
+      "after": "桌上静了一阵。林栖把“第九年冬天”圈住，笔尖停在林岑面前，等他看清才挪开。",
+      "reason": "去不明燃料灯花；用本段既有十年递单例外留下可核界线。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-033",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "范围框——本地，十六年前，开春化冻前那一次；孔位三处，点火一人，续封一道；后续十年，递单为执行，隐瞒十年。框外的，今晚一个字不写。",
+      "after": "范围分开——本地爆破，林岑自述十六年前，孔位三处，点火一人；早年外段封门，是他十六岁时的亲见；递单线从十年前另起，执行、隐瞒各记十年。爆破的具体日子仍空着：先前说“化冻前”，今晚又说“那天下头化冻”，两句话都留，不能替他对上。框外的，今晚一个字不写。",
+      "reason": "保16年前与责任；角色当前只取得口供，化冻口径不得提前对齐未读档案。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-034",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "他把册子上的最后一行写完，笔搁下，让灯自己烧。",
+      "after": "他把册子上的最后一行写完，笔搁下，接过摇柄，让誊了一晚的林栖歇手。等祝衡收齐纸就停灯，明早转运的人不能整夜陪桌。",
+      "reason": "不给夜灯无目的续耗；保留先收纸后熄灯的必要行动因果。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-035",
+      "issue_ids": [
+        "R006-B18-022"
+      ],
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "before": "凉时前一刻，搬运班在侧廊口列队。",
+      "after": "离凉时还留着清点借物的工夫，搬运班在侧廊口列队。",
+      "reason": "去无据的一刻精数，允许本章小半时辰清账仍赶到原定凉时；不造新时段长度。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-036",
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-022"
+      ],
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "before": "队里空出来的位置，裴七当场用炭笔划了。原班六人，抬板四、打点二；如今抬板三人，打点的并进接手点守数，班表上每批四人改成三人，批数不变，趟数拉长——头一运还是今天，老工师；第二运阿苗，推到明天凉时；第三运往后排，排到数纸的空格里去了。",
+      "after": "退出的六人整班从当班栏撤下，受护册不销名。裴七从接手点现有班手里调三人到起点，三人随板逐站换位，不再让几处同时开运。班表上每批四名抬手改成三名，先落板、再腾手，空了的接手点等人到才开。头一运还是今天，老工师；第二运阿苗仍按昨晚排的明天凉时准备，能否赶上要看前一趟何时收手；第三运仍待线交割，不另填出发日。",
+      "reason": "退出班与全线班手分层，不做六减六余三；调现有人串行接手，不添居民。D45本已计划，不谎称因退班推一天。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-037",
+      "issue_ids": [
+        "R006-B18-022"
+      ],
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "before": "“慢了两天。”戊字一在旁边看着班表，把算盘拨了两颗，又来回拨了一轮——细账没往外倒，报出来的只有一句，“慢一天，旁路的富余就多烧一天。那笔水到今天还没有名分——多烧一天，往后讲理的本钱就薄一分。”",
+      "after": "“今天这一趟得拉长。”戊字一看着改过的班表，把要同时开运的两处改成前后接续，“明天能不能照原时辰接上，得等今天收手再算。多拖一天，就多领一天还没有名分的富余水；没有实走过的时辰，我不先写成慢了两天。”",
+      "reason": "保运力后果，删除与计划不符的已慢两天结论，不新增耗水份。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-038",
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "before": "岑野把数纸翻到名字那栏，在六个名字后头，一个一个画了出记。",
+      "after": "岑野把数纸翻到搬运班那栏，在六个名字后头逐个记了“退班”，不去销受护册的登记。",
+      "reason": "出班不是离队人口注销。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-039",
+      "issue_ids": [
+        "R006-B18-026"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "“留。”老工师把活账放回龛里，摆正，“墙里的潮是死的，外头的潮是活的。它在这儿烂得慢，出去烂得快。位置填上，谁想它了，早些来取。”他顿了顿，补了一句，“就在明年。明年还取不走，字就认不出来了。”",
+      "after": "“这一趟先留。”老工师把活账放回龛里，没再揭黏住的页，“刚掀开就碎，不能夹在抬人的板上颠。位置填上，转运线稳住便回来查看、安排取档。能等多久，我说不准；再说能等到明年，就对不住这半页了。”",
+      "reason": "删除潮死潮活物性和可保至明年的无据期限；保原位、不加干燥设备，限期改现有转运恢复后优先查看。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-040",
+      "issue_ids": [
+        "R006-B18-024"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "阿苗是最后一个出的门。她在门里站了一息，把居住段从东头望到西头——灯熄了大半，只有维修台方向还亮着一星。她朝那一星亮处举了举手，那头没有回应，她也没等，转身跨出了门坎。门外站着的麦穗伸手扶了她一把。",
+      "after": "阿苗是最后一个出的门。她扶着门框停了一息，把居住段从东头望到西头——灯熄了大半，只有维修台方向还亮着一星。她朝那一星亮处举了举手，那头没有回应。麦穗扶她坐上窄托板，搬运班先把她送到四层转运点；这里只是出了居住段，还没上五层。麦穗留下陪她候第二运，空担架再护送老工师上坡。",
+      "reason": "明确同一运的出墙段与次日上五层段，使用既有窄托板和四层照护点；腿伤不强行步行，不添床或新人。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-042",
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-024"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "每一处都有人候着——垫毡立橛的位置，挂着手位口令的纸条。",
+      "after": "班手随板逐处换位，落稳才腾手去接下一处，不同时开几处的运——垫毡立橛的位置，挂着手位口令的纸条。",
+      "reason": "与177现有人串行接力一致，不重复生成三个完整接手队。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-043",
+      "issue_ids": [
+        "R006-B18-024"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "“走了。医疗栏加了半勺。”麦穗说。",
+      "after": "“走了。医疗栏加了半勺。”杜姨说。",
+      "reason": "麦穗此时留四层照护阿苗；五层接收答话由原已在场的杜姨承担，不新增半勺。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-045",
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-024"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "就是这一让，后队出了事。\n\n第二运阿苗，定在次日凉时前动身。",
+      "after": "阿苗这一夜留在四层转运点，由麦穗照护。第二运仍定在次日凉时前动身；接下来坡上的情形，是岑野把停运数纸送到五层后，一段段报给林渡的。",
+      "reason": "不把D44核签与D45事故强作即时因果；阿苗候运一夜和后队远端消息来源明确。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-046",
+      "issue_ids": [
+        "R006-B18-025"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "众人卸载。麦穗把阿苗的托板扶到上一级实板上看稳，两名居民退到后一级。",
+      "after": "众人停在裂板下方，谁也没踏上那一跨。麦穗和两名居民把阿苗的托板落在身后刚走过的实板上，六叔留在前头听裂声。",
+      "reason": "上坡接近裂板的人全部在下坡一侧，不先瞬移伤员过裂板。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-047",
+      "issue_ids": [
+        "R006-B18-025"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "卸载按窄段章程来：托板抬到上一级实板放平，人先离板，罐和包袱后离，前后隔一级，谁也不踩裂板那一跨。",
+      "after": "卸载按窄段章程来：托板在裂板下方的实板上放平，人先离板，罐和包袱后离，前后隔一级，谁也不踩裂板那一跨。",
+      "reason": "两处卸载描述使用同一安全侧。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-048",
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-024"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "消息传到五层，林渡正把耗用表核完签字。",
+      "after": "次日的停运消息传到五层，林渡接过岑野递来的数纸。",
+      "reason": "D44核签与D45消息分日，不新增第二轮核签来凑连续性。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-049",
+      "issue_ids": [
+        "R006-B18-025"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "传话下去——后队停在坡腰凳，不挪一步。等槐七带料下去，撑好了、空载验过了，再走。",
+      "after": "传话下去——沿身后刚走过的实板退到坡腰凳，不准越过裂板。到凳后停住，等槐七带料，撑好了、验过了，再往上走。",
+      "reason": "用原已走的三十余级退回既有落点，命令与执行一致，不新建路/桥。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-050",
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-025"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "槐七领着两根短撑、一捆麻绳下了坡。到坡腰凳，先看了裂缝，再看了裂纹的走向，末了把撑木比在支板底下：“顶住榫头，绳绞紧。天亮再空载走一遍——空载过了，加沙罐。沙罐过了，才过人。”\n\n后队在坡腰凳落定。",
+      "after": "槐七领着两根短撑、一捆麻绳下了坡，在裂板前查看榫口，再把撑木比到支板底下：“先顶住榫头，绳绞紧。今天停运，留一夜听它还裂不裂。明早再空载走一遍——空载过了，加沙罐。沙罐过了，才过人。”\n\n麦穗和两名居民沿来路把阿苗送回坡腰凳，六叔退下来押后；从裂板下方到凳上，没有越那一跨。后队就在凳旁落定，白天等支撑，夜里仍不转运。",
+      "reason": "固定D45卯初停—D46晨验；补白天等待到夜宿的时段，不把晨间天亮当次日，材料仍两撑一绳。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-052",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "守数的居民把坡口那盏灯捻小了一格，光缩在凳子周围，不往坡上坡下漏——灯是给自家人的，不是给坡上野风的。",
+      "after": "原在坡口用的灯挪到落点，亮度调低，光只照凳子周围；坡口不另添灯。守数的居民记下调灯时辰，仍归这盏灯原来的用灯账，不往塔芯的余电上扣。",
+      "reason": "说明夜宿仅调原有一灯，不造第二灯、油料或芯格；不用油芯动词。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-053",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "灯芯烧到半截，六叔又去听了一回板子。",
+      "after": "到了后半夜，六叔又沿已走过的实板上去，停在裂板下方听了一回。",
+      "reason": "用时段替代灯芯余长；夜间听板也不踏裂跨。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-054",
+      "issue_ids": [
+        "R006-B18-017",
+        "R006-B18-021",
+        "R006-B18-034"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "老工师只把她那格的灯拨亮了些——灯芯没动，他把灯座朝她那边斜了半寸。裴七听见信儿，从转运点拄着腿上来，在班表“新组”那格添了两行：老工师，阿苗。添完他用炭笔把格框描了一遍——新组三行了，格框描粗，纸就不怕翻。",
+      "after": "老工师把原有的灯座朝她那边挪了半寸，亮处让给她。裴七听见信儿，从转运点拄着腿上来，在老工师、阿苗已有的登记旁改了照护位置：五层棚。老赵那行照旧留着，老陈仍记四层转运点；这是移位，不是受护册又收了几个人。他把照护位的格框描粗，免得交班翻页时看漏。",
+      "reason": "上棚只改位置，老陈不重入册，不推出51人口；去不明灯芯。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-055",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "第一道的墨深，末一道的墨浅，中间两道的笔锋一个圆一个方——四只手，纸上就看得出来。",
+      "after": "第一道的墨深，末一道的墨浅，中间两道的笔锋一个圆一个方。祝衡在页边记下墨色和笔画的差别，没据此填经手人数；四道岗位签记，还得逐个查是谁签的。",
+      "reason": "墨色笔锋可见不等于四人独立来源。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-056",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "“领炸料的，跟验封段的，一只手。”祝衡说。",
+      "after": "“自述里的引料号，和单上验看的号相同。”祝衡说，“先记同号，查到人再说是不是同一只手。”",
+      "reason": "两号来源分记，不由同号直接断人。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-057",
+      "issue_ids": [
+        "R006-B18-019"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "孔位的核验从描图开始。先前描的那幅门件图原样在，祝衡把执行图上的三个孔位圈跟描图的方位对——对上两个。第三个圈差着那半拳，林栖把昨夜画的小圈挪过来，圈边注上林岑那句“挪过半拳，往下坡”。尺再量一遍，差的那一线归了位。量完，祝衡在“亲见”栏里把三处孔位一一落注：两处相符，一处经本人陈述后相符——相符得有来路，账才立得住。\n\n“孔位认了。”祝衡说，“对日子。”",
+      "after": "孔位的核验从描图开始。先前描的门件图原样在，祝衡把执行图三个圈的相对方位逐一对过去：两处方位相合，第三处仍对不上。林栖没挪原圈，另在旁边记林岑的原话：“挪过半拳，往下坡。”那是口供，不是图尺能量出的现场距离。\n\n祝衡分开落注：执行图原画如此；门件描图两处方位相合；第三处只有本人陈述，现场待核。裂尺收回布里，差处还留在纸上。\n\n“孔位先记到这里。”他说，“对日子。”",
+      "reason": "不挪圈或凭口供填物证，第三孔现场待核。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-058",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "日子对的是两笔账。一笔是领料存根的日期——浆泥头一笔、门轴油，落在同一个月里；另一笔是施工记录——图纸题签上的工程编号，旧柜的存根按旬登着记，旬记里记着领料的日子。两笔账谁也不挨着谁，记的却是同一旬、同一个节令。祝衡核旬记的办法跟核表一个路数：先找句尾，再找页脚，页脚的旬记是登账人自己落的款——落款的日子，作不得假。",
+      "after": "日子先对卷里的记录。领料存根上，浆泥头一笔、门轴油落在同一个月；旬记按存根登记，也记着那一旬。祝衡把工程编号和页脚落款并排抄出，又把“按存根登记”圈住：这两处虽相合，还不能算两路独立的证据。附在同卷的交接单也要另查登记来处，纸上的落款先照抄，不替它担保。",
+      "reason": "同源登记不能升级为独立互证，落款不保证日期真。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-059",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "“化冻前。”林栖把三个日子并排抄下，“存根、旬记、交接单——三个来源，都在化冻前那一旬。”",
+      "after": "“这几处纸面都写在化冻前那一旬。”林栖把三个日子并排抄下，“可旬记从存根来，不能数成三个独立来源。林岑在证词桌上说的，还是‘那天下头化冻’。”",
+      "reason": "纸面与本人化冻口径分记。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-060",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "祝衡把三栏自述推到桌子中间，指着那个空框：“林岑记的日子，画的是空框，只记了‘开春化冻前’。现在，空框外头有两条独立的账，跟他记的节令对上了。”",
+      "after": "祝衡把三栏自述推到桌子中间，指着空框：“十六年前，是他自述的本地爆破范围；哪一日还空着。纸上说化冻前，他说那天下头化冻，是同一次还是记岔了，得问，不能替他对上。”",
+      "reason": "固定16年保留为口供范围，不签已独立互证。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-061",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "“你填。”他把自述推回祝衡面前，“你的笔填的，才算核过的。我的笔填的，还是我一个人说。”\n\n祝衡填了。化冻前，三个字落在框里，框外注了两个来源。\n\n林岑看着那三个字落下去，肩膀松了一线。悬了十六年的一个空框，头一回有了两条账替他作保。",
+      "after": "“你照核到的写。”他把自述推回祝衡面前，“换谁的笔，都别把我没说清的填成准日子。”\n\n祝衡只在框外写：存根与旬记同源相合；交接单来处另核；与本人原话有差，待质。框里仍空着。\n\n林岑的手还压在纸角上。看完那几行，他把手挪开，没再伸向笔。",
+      "reason": "换笔不是独立证据，保不确定与责任。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-062",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "“封段封了两回。”六叔凑过来看了半天，说出他的判断，“头一回封，交了段。浆泥不够，又领一回，再封一回。封墙那阵就验过——两层浆泥，一个手印。手续上只记了一回。”\n\n“要么是漏记。”祝衡说，“要么是有人把两回并成了一回。”",
+      "after": "“第二笔浆泥是在交接之后领的。”六叔凑过来看，“墙上见过两层浆泥，可两层是哪时抹的，这张单没说。也许是补缝，不能光凭多领一笔，就写成又封了一回。”\n\n“先问这笔料用了哪儿。”祝衡说，“漏了哪道手续，有没有并记，得找到施工记录再说。”",
+      "reason": "保异常，不从两层浆泥另造一次封闭历史。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-063",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "桌上的灯烧到后半截。",
+      "after": "桌里光暗，灯沿用棚中那一盏，照着正在誊的几行。",
+      "reason": "不写油芯余长。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-064",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "两回并一回，何人所并，单上无记。",
+      "after": "交接后再领浆泥，用处未明，是否补缝待查。",
+      "reason": "圈注不预定并单成立。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-065",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "工序上的事都能并，手续上的事倒这么全。",
+      "after": "料的去处还缺一笔，岗位签记倒列得这么全。",
+      "reason": "不把刚撤掉的推断在下一句写回事实。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-066",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "灯芯结了个花，祝衡探两指掐了——灯是账上的灯，掐灯花的手轻，落笔的手没停。",
+      "after": "祝衡把灯往残签那边挪了挪，缺角只剩半个号，照亮了也不能补全。他在号后留空，接着抄下一行。",
+      "reason": "以现有残签动作替代燃料不明的掐灯花。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-067",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "五道签记，号有重复，至少三只手，一道工序。",
+      "after": "五道岗位签记，号有重复，经手人数还不能据此定死。",
+      "reason": "岗位与工号不等于实际人数。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-068",
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "before": "剩下三笔，号在纸上，人在城里。",
+      "after": "剩下三笔，号在纸上，要顺着登记去找人。",
+      "reason": "不由纸号猜未知人物地点。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-069",
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-039"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "分散证据的事，议了两个晚上，落在一页清单上。",
+      "after": "后队因裂板停在坡腰凳那晚，先议分不分纸；次日阿苗抵棚，核证桌散后，再议怎么分。两个晚上接着议，最后落在一页清单上。",
+      "reason": "两晚D45/D46，D47交付备发。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-070",
+      "issue_ids": [
+        "R006-B18-022"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "有人说，纸刚核完，墨还没干透，放一放再说。",
+      "after": "有人说，证词刚记下，图和旧档还没核全，放一放再说。",
+      "reason": "D45首晚不预支D46核证。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-071",
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-039"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "还有一层他没说透的：裂了支板那条坡一停用，五层进出就剩一条道，纸再多压一天，就多一天在明处躺着。林渡把话接了过来：“原说过人到齐再分。如今坡剩一条道，纸比人先险——台上那位等线交割，纸不等人。分。”",
+      "after": "还有一层他没说透的：后队还在坡腰凳，裂板等明早试验，现下不能算通路。纸再多压一天，就多一天在明处躺着。林渡把话接了过来：“原说过人到齐再分。如今这道裂板连人都得等着验，台上那位还等线交割；纸不能也堆在一处陪着等。分。”",
+      "reason": "首晚未预记次日停用木牌。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-072",
+      "issue_ids": [
+        "R006-B18-034"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "“留底材料分存三处，抄件走两份，身份映射不出棚。”",
+      "after": "“留底材料分存三处，抄件走两份。受保护对应页不随抄件外送，仍按原来的两处保管；孩子睡区图留棚里。”",
+      "reason": "保双存，禁外送不等于站柜份迁走。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-073",
+      "issue_ids": [
+        "R006-B18-035"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "拆三处：拓片两张、交接单抄件入站柜防潮格——",
+      "after": "林栖先把现有四张工具拓片在清单背面分成四行，临时记“工具一”到“工具四”；每张能辨的原刻号或已有取拓处照记，不能辨的留空。这只是分存索引，不是新工号。两张批语拓片仍按原有记录列着，不补来处。拆三处：工具一、工具二和交接单抄件入站柜防潮格——",
+      "reason": "作者授权本次新定既有四张的分存索引与分法，不伪称旧台账已分出张别。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-074",
+      "issue_ids": [
+        "R006-B18-035"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "其余入棚支账青石层。三处各拿一角，谁处也不全。",
+      "after": "工具三、工具四、两张批语拓片和其余清单材料入棚支账青石层。六张拓片在三处去向栏里逐张落记，不多抄一张，也不把同一张记到两处。三处各拿一角，谁处也不全。",
+      "reason": "拓片2+4闭环，类别仍工具四批语二；十三类不变。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-075",
+      "issue_ids": [
+        "R006-B18-039"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "抄件走两份：一份封匣，随下一次出坡的信使走，岑野背；",
+      "after": "抄件走两份：一份先封匣交岑野保管，等出发前再核抄页，不能把交匣记成已经出坡；",
+      "reason": "180封口保管与182同匣复读后发运分开，不增批次。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-076",
+      "issue_ids": [
+        "R006-B18-034"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "身份映射，就是那本受保护对应册——不出棚。公开册上的受保护编号，跟实人对上的那一页，照旧两处保管，揭封须两个保管人同场。有人问：抄件走两份，对应册为什么不跟着走一份？杜姨替这册答的：“这一册不出棚。孩子的睡区，只许在这一本里有一处。”",
+      "after": "受保护编号对应实人的页，照旧是站柜和棚支账青石层各存一份，揭封须两个保管人同场；这两份不添进外送抄件。孩子睡区图另在杜姨手里的“在不在”册，只留棚内这一处，不混进两份对应页。有人问为什么不带走，杜姨按住册子：“抄件要对的是证据，不用知道孩子睡在哪一格。”",
+      "reason": "身份对应两份与睡区图一处拆清，不造第三份保护页、不迁走站柜份。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-077",
+      "issue_ids": [
+        "R006-B18-037"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "第二行：口头核对。纸匣落在谁手里，谁就记一套话——问一句，答一句，答不上的，匣子不开。话头是现成的：问“七段的料”，答“隔年对一回，今年对上了”。这套话从封墙那阵传到今天，如今又添了一样用处。\n\n“要是有人失联呢？”麦穗问。\n\n“口传。”林渡说，“每份匣子的主人，知道下一双手是谁。名字不落纸，嘴对嘴教。失联了，下一双手自己来取——取的时候，对话头。”\n\n“要是下一双手也失联？”\n\n“那就再往下传。”祝衡说，“这些纸是替不能开口的人说话的。传话的人可以断，话不能断。”\n\n规矩两行念完，林渡让在场的人挨个复述了一遍——复述为的是让规矩过每个人的耳朵。有人说错过一处，当场改，改完再念。念到最后一遍，没错了，才算立住。",
+      "after": "第二行：口头核对。旧话头仍是问“七段的料”，答“隔年对一回，今年对上了”。祝衡先划清一条：“这话在场的人都听过，只能帮着认来路，不能凭答对就开匣。取的是哪份、原来由谁保管，还得照清单核。”\n\n“要是有人失联呢？”麦穗问。\n\n“下一双手要先见面。”林渡说，“原保管人当着两位在场见证的面指认接手人，把原存处说给他，叫他复述。只传这份纸的去向，不传孩子的位置。原保管人失联，由这两位见证同场确认原先指定的是谁，才能交。”\n\n“要是下一双手也失联？”\n\n“不能让谁自称下一手就取。”祝衡说，“先留在已知保管处。重新交接仍要原先的见证在场，不靠多背一句话接下去。”\n\n两行规矩由在场的人复述，不再把复述当作领匣的授权。林渡让每份现任保管人分别说明该通知谁、在哪一处接；没与接手人当面核过的，先不认作已交接。记账员那份还得送到旧柜，当面把这条讲清。",
+      "reason": "保口传但不伪造密码能力；限定预告继手+两名现有见证、地点通知与失联停止自动顺延。不编额外接手者姓名或暗匣。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-078",
+      "issue_ids": [
+        "R006-B18-034"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "号是林栖编的，三十七个受保护号之外新添的头一个。",
+      "after": "林栖在号前写明“证匣”，从头另编；受保护人号仍归原册，不因为多了一个匣号添一条人。",
+      "reason": "人号与证匣号分域，既有37不变，不生38号受护者。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-079",
+      "issue_ids": [
+        "R006-B18-037"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "“等坡外头有人对话头的时候。”戊字一说，“对上了，你开柜；对不上，锁着。”",
+      "after": "“话头对上也不能独自开。”戊字一说，“照清单认这份纸，再核先前当面指定的接手人；原主失联，要两位原见证同场确认。没有这一步，就先锁着，等人来核。”",
+      "reason": "交旧柜时不把口令单因子许可重新写回。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-080",
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-039"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "就是整理原件的时候，祝衡停住了手。",
+      "after": "分装那夜过去，天没亮时匣先交岑野保管，暂不出坡。天亮后接着整理留下的原件，祝衡停住了手。",
+      "reason": "D46夜分装→D47晨保管交付→D47白日月巡核查，不把月巡倒灌到D46。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-081",
+      "issue_ids": [
+        "R006-B18-034"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "只在对应册里记了一行：月巡簿，祝衡名下八十四行，已誊。",
+      "after": "只在分存清单背面记了一行：月巡簿，祝衡名下八十四行，已誊。",
+      "reason": "证物索引记既有清单背面，不混受保护人号映射册，不增册。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-082",
+      "issue_ids": [
+        "R006-B18-039"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "第二天天没亮，出坡的信使背上了封匣。岑野没有走抬阿苗时经过的裂板，走的是仍准通行的出坡旧路——那份抄件出坡，是头一份离开这片坡的纸。送行只送到坡腰凳。裂板还撑着双木，前头木牌上的“停用，待修”让灯光照着，没人踏过去。临走他跟送行的人对了话头：问的答的，一字不差。",
+      "after": "天没亮时交给岑野的封匣，此刻还留在棚里。他试好背带，把匣放回身旁，没有动身。林渡把出坡的路交代清楚：仍走准许通行的旧路，不走抬阿苗时经过的裂板；双木只是保过那一趟，牌上的“停用，待修”没有撤。两人对了话头，又核匣号和保管人，清单上的“已交保管”留着，“已出坡”那格仍空。",
+      "reason": "同匣D47备发未走；保既有旧路与裂板禁行，不增回程/第二匣。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-083",
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-034"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "分口的勺从早上起照旧走，走勺的人换了两个新名字——值桌名单上添的。",
+      "after": "分口的勺从早上起照旧走，值桌的人照班表轮换；轮值记号换过，受护册不因此添人。",
+      "reason": "班次新名字不得推新增受护人口。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-084",
+      "issue_ids": [
+        "R006-B18-039"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "水还细着，账还长着，纸已经上路了。",
+      "after": "水还细着，账还长着。头一匣纸备好了，出坡前还得把抄页核稳；岑野守着它，等能动身的那一班。",
+      "reason": "结尾承诺为备发不是已发，待182同匣校正后首发。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-085",
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "芯格两枚，余两成——红线；",
+      "after": "芯格两枚，借入合计一格七成，最近合实余零点二格——以一枚满格计两成，逐班实耗仍待补齐，红线；",
+      "reason": "承接168/170现稿与主编最新裁定；不补造0.25格去向。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-086",
+      "issue_ids": [
+        "R006-B18-017",
+        "R006-B18-021"
+      ],
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before": "三头挤在一处，挤的就是芯格——灯多点一班，红线就近一班。",
+      "after": "三头挤在一处，挤的是班手。塔芯只剩应急的余量，不能靠多开一班灯，把赶不完的活算作赶完。",
+      "reason": "不得把转运、棚灯与巡铺灯误并为塔芯供电。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-087",
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "before": "# 第一百七十二章 流不到议政厅的那一管",
+      "after": "# 第一百七十二章 先断谁的水",
+      "reason": "标题同步撤绝对拓扑结论；本补丁不重命名文件，主编可另行同步目录标题。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-088",
+      "issue_ids": [
+        "R006-B18-034"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "弥娅被搀来看了一趟，让麦穗翻开对应册，指住不得随匣带走的那一页；匣中带号码，不能夹进这些人的睡处。那页留在桌上，其余封好，她才让麦穗搀回去。",
+      "after": "弥娅被搀来看了一趟，让麦穗把两类保护页分清：对应实人的页照原处保管，睡区图归杜姨手里的“在不在”册。匣里只核该带的证据号，不夹保护页。看着两类页各归原册，其余封好，她才让麦穗搀回去。",
+      "reason": "后段与前段身份映射两份/睡区图唯一一处同步；不添第三映射册。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-089",
+      "issue_ids": [
+        "R006-B18-039"
+      ],
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "before": "叉是作废，横是出门。",
+      "after": "叉是作废，横是本样抄件已点入匣，不是信使已经出坡。",
+      "reason": "点件完成与实际发运分开。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-091",
+      "issue_ids": [
+        "R006-B18-024"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "before": "他没回头，跟着担架走进侧廊。",
+      "after": "他没回头，先在侧廊靠墙候着，给托板让出道。",
+      "reason": "与阿苗先到既有四层转运点、空担架再护送老工师衔接，不重复发运。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-092",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "续封的缝线走向，十年递单走的路，一段一段，接在图的边角。",
+      "after": "早年封门记忆里的缝线走向，十年前接上的递单路，分段添在图边，不能拿添线的先后当事情发生的先后。",
+      "reason": "依据已发布142分开三段，铅笔后添不证明爆破后又见同一烫疤。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-093",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "“续封。”林渡接着念。",
+      "after": "“早年外段封门。”林渡接着念，“你十六岁时亲见的那一栏，另记，不并到爆破里。”",
+      "reason": "同一烫疤回忆定位到142已述早年封门。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-094",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "跟续封那回一样。",
+      "after": "跟早年封门那回一样。",
+      "reason": "不得以同烫疤制造爆破后又一次目击。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    },
+    {
+      "patch_id": "B18-AP-095",
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before": "林栖的右手写到“续封一道”那行",
+      "after": "林栖的右手写到“早年封门”那行",
+      "reason": "与分栏新原话同步。",
+      "authorization_class": "authorized_correction_or_clarification",
+      "expected_occurrences": 1
+    }
+  ],
+  "metadata_diffs": [
+    {
+      "diff_id": "B18-MD-001",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "## 第171—180章后资源与时间（A08）",
+      "before": "| 饮用水 | 171章旁支阀被收一格→减流复验（D41勺慢、半格半格回走，D42晨走完末半格复格）；泵盘根紧固停一班；复旧序下原居民基础份额照旧，棚49口等新增份仍无名分——每多拖一日多烧一日未批富余 | 分口勺照走（医疗专线同管在172章确证）；烧无名分之账逐日记 |",
+      "after": "| 饮用水 | 171章旁支阀被收一格→按小流复验（D41阀二格回半格至二格半，D42晨再回半格复三格；浮子线数另记）；泵盘根紧固停一班；复旧序下原居民基础份额照旧，受护册暂记49条及未落旧序的生活份仍无名分，未排重不作人口合计——每多拖一日多烧一日未批富余 | 分口勺照走（医疗专线同管在172章确证）；烧无名分之账逐日记 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-002",
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-002",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "## 第171—180章后资源与时间（A08）",
+      "before": "| 医疗 | 医疗专线接旁支同管（十九户+专嘴+转运点）；老工师入灯下位（咳带哨两日两回）、阿苗入照护位（坐疮三回渐大） | 新组三行；老工师药从医疗专线出 |",
+      "after": "| 医疗 | 医疗专线接旁支同管（十九户+专嘴+转运点）；老工师入灯下位（咳带哨两日两回）、阿苗入照护位（坐疮三回渐大） | 照护位置更新，不据行数加人口；老工师药从医疗专线出 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-003",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "## 第171—180章后资源与时间（A08）",
+      "before": "| 芯格 | 余两成（红线）续耗：176核证之夜\"照点\"、178落点夜灯；照耗速余量撑不到潮头过完，到底即触发值守复核 | 耗用表贴墙；借期复核临期（175章） |",
+      "after": "| 芯格 | 承接B17两枚借入合1.7格、最近合实余0.2格（按一枚满格计两成）；只供短时试验和值守照明，逐班记耗，不承诺连续两日；棚内原有手摇灯、坡口及四层巡铺灯另账；181 D48实际用尽后触发复核 | 耗用表贴墙；借期复核临期（175章） |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-004",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "## 第171—180章后资源与时间（A08）",
+      "before": "| 证据/物件 | 执行图原件（角部燎缺）+抄图、三栏自述、拓片六（工具四+批语二）、门件描图、当班簿老赵页+老工师今日页（贴身）、阿苗副页抄本、活账位置记录（四格填讫）、养水支抄页、塔大修单抄页、对账笔录、交接单抄件+残角原单、五号签记单、月巡簿（原柜+祝衡自誊签名页入公开册）、分水私记一页（岑野档收） | 原件拆三处（站柜防潮格/塔柜双锁/棚青石层——谁处不全）；抄件两份（岑野封匣D47晨出坡、配水旧柜记账员存——对话头\"七段的料/隔年对一回\"才开）；对应册不出棚（号不携名不携位）；活账原件留墙（外层潮黏、汽班原始数洇糊——缺口成实，限期\"明年\"） |",
+      "after": "| 证据/物件 | 执行图原件（角部燎缺）+抄图、三栏自述、拓片六（工具四+批语二）、门件描图、当班簿老赵原页贴身、其抄页入十三类分存；老工师今日页贴身另核，不增清单类数、阿苗副页抄本、活账位置记录（四格填讫）、养水支抄页、塔大修单抄页、对账笔录、交接单抄件+残角原单、五号签记单、月巡簿（原柜+祝衡自誊签名页入公开册）、分水私记一页（岑野档收） | 留底材料分三处：工具拓片临时分存索引一、二及交接单抄件入站柜防潮格；执行图/门件描图/塔大修单抄页入塔柜双锁；工具三、四及批语二张、其余清单材料入棚青石层。索引不是新工号，原刻号/取拓处不明留空；残角原单清单外另核持有人；抄件两份（岑野同匣D47晨交保管待发，182 D48—49校正后首次出坡、配水旧柜记账员存——旧话头仅认来路，核清单及当面指定接手人；原主失联须两位原见证同场确认，接手人失联暂停交接）；身份映射两份仍由站柜/棚青石分存，不随抄件外送；孩子睡区图只在棚内杜姨“在不在”册；证匣号与人号分开；活账原件留墙（外层潮黏、汽班原始数洇糊——缺口成实，转运线稳后优先查看取档，不保证保存到明年） |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-014",
+        "R006-B18-026",
+        "R006-B18-034",
+        "R006-B18-035",
+        "R006-B18-037",
+        "R006-B18-039"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-005",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "## 第171—180章后资源与时间（A08）",
+      "before": "| 人数 | 无死亡；177章六人整班离队（清账离场，班表留空格补留位）；老工师、阿苗出墙入棚 | 棚内49+新组2（老工师、阿苗）=51；老陈四层转运照护位单列；维修台老工单列（待线交割）；066/095失联两行不动 |",
+      "after": "| 人数 | 无死亡；177章六人整班退搬运班，不销受护册条目（清账离场，班表留空格补留位）；老工师、阿苗出墙入棚 | 49/51承接受护册登记条目与暂计份，未逐人排重不作精确人口；老工师/阿苗仅更新五层照护位，老赵原位，老陈已入册仅核四层照护位，不重复新增；维修台老工单列（待线交割）；066/095失联两行不动 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-034"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-006",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "## 第171—180章后资源与时间（A08）",
+      "before": "| 工时/班次 | 177章起每批四人改三人、第二运推一日；阿九顶\"扶板位\"入班表；阀间加双岗 | 主队欠工六班未动；新添支板修班、守听班 |",
+      "after": "| 工时/班次 | 177章六人退班后从现有接手点班手调三人逐处接续；每批抬手四改三，不维持多点并行；第二运原定D45不称另推一日；阿九顶\"扶板位\"入班表；阀间加双岗 | 主队欠工六班未动；新添支板修班、守听班 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-022"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-007",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "## 第171—180章后资源与时间（A08）",
+      "before": "| 时间 | D41（171）至D47（180末），约七个昼夜（阀位复验两日、复核/核证各一整班、两运分走两日、支板停运半日、议分两晚装一夜） | 主队位置：5层棚+塔下账桌+四层转运点三头；潮头将至（汽班\"来十二息\"新最长） |",
+      "after": "| 时间 | D41（171）至D47（180末），约七个昼夜（阀位复验两日、复核/核证各一整班、两运分走两日、支板D45卯初停运并守一夜至D46晨三验过人后封停；D45夜/D46夜议分、装一夜、D47备妥交保管而非出坡） | 主队位置：5层棚+塔下账桌+四层转运点三头；潮头将至（汽班\"来十二息\"新最长） |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-039"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-008",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 171 | D41晨—夜 | 塔内阀间→分口 | 学徒晨检发现旁支阀被收一格（新油、收向擦痕）；林渡锁杆疏散不追人；流量低一线半对上交班单；减流半格半格回走、泵盘根班停；傍晚回走一格半颤未消锁阀过夜；数纸三夜\"拐角一人朝塔\"，阀间进数纸加双岗 | L3：保水不是站队权贵 |",
+      "after": "| 171 | D41晨—夜 | 塔内阀间→分口 | 学徒晨检发现旁支阀被收一格（新油、收向擦痕）；林渡挂锁作禁动标记、学徒守杆并疏散不追人；流量低一线半对上交班单；不再收阀，在二格小流下复验、泵盘根班停；傍晚开标记锁回半格至二格半，颤未消重新挂锁双岗过夜；次晨再回半格复三格；数纸三夜\"拐角一人朝塔\"，阀间进数纸加双岗 | L3：保水不是站队权贵 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-002",
+        "R006-B18-004"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-009",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 172 | D41日 | 旁支沿线→账桌 | 查线抄节号至末节：十九户+专嘴+转运点；医疗专线接同管；末节进竖井，主干从塔腰走——旁支阀够不着上城；织网老妇户核实\"水往下走\"；三样纸成卷回议事处 | L3：地域标签不等于受益者身份 |",
+      "after": "| 172 | D41日 | 旁支沿线→账桌 | 查线抄节号至末节：十九户+专嘴+转运点；医疗专线接同管；末节进封闭竖井，井内接法待核；旧图主干在塔腰，仅能确认旁支先影响已查十九户及医疗口；织网老妇户核实阀后水口；六叔晨间交守后查线、傍晚回阀；拐角日间顶班空缺不冒填夜班；三样纸成卷回议事处 | L3：地域标签不等于受益者身份 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-006",
+        "R006-B18-008"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-010",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 174 | D42凉时 | 4层坡口公议点 | 林渡问\"断水你站哪边\"；林岑以封缝合拢亲见作答；分栏陈述被利用（料停十天例）与执行；出示执行图（角部燎缺）附条件\"墙内两位与台上那位先出\"；林渡拒特殊排序、邀其旁听复核；槐七判\"他怕清场\" | L3：不把全部恶意塞给他，也不替他分责 |",
+      "after": "| 174 | D42凉时 | 4层坡口公议点 | 林渡问\"断水你站哪边\"；林岑以十六岁时亲见三十年前外段封门作答，区别十六年前爆破与十年前递单，中间未亲见；分栏陈述被利用（料停十天例）与执行；出示执行图（角部燎缺）附条件\"墙内两位与台上那位先出\"；林渡拒特殊排序、邀其旁听复核；槐七判\"他怕清场\" | L3：不把全部恶意塞给他，也不替他分责 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-011",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 175 | D43傍晚—夜 | 塔下账桌 | 三板复核：队列列条件不列名（交班纸为凭）；维修台\"待线交割\"；弥娅立\"这一趟不装匣子\"+位置记录表；借据核芯格余两成红线两天、借表该还——值守复核临期；汽班在长潮头将至；定头一运明日凉时 | L3：塔值守协议临近复核 |",
+      "after": "| 175 | D43傍晚—夜 | 塔下账桌 | 三板复核：队列列条件不列名（交班纸为凭）；维修台\"待线交割\"；弥娅立\"这一趟不装匣子\"+位置记录表；借据核借入合1.7格、最近合实余0.2格（满格基数两成），仅短时/按班，不承诺两日供电、借表该还——值守复核临期；汽班在长潮头将至；定头一运明日凉时 | L3：塔值守协议临近复核 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-012",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 176 | D43夜 | 5层棚证词桌 | 执行图过桌：裂尺比刻度（二三圈差一线画圈，林岑自陈挪孔半拳）；点火三响皆闷；引料经手工号非己；续封\"知而不问\"；十年递单（第九年冬单递不进）；范围框定格、离家年份不入纸；\"不替你解释\"落定；林岑应\"我自己站过去答\"；祝衡领独立核证 | L3：F03材料可回看，裂尺只比坐标 |",
+      "after": "| 176 | D43夜 | 5层棚证词桌 | 执行图过桌：裂尺比图面相对位置，不能据不等间距断错；第三孔林岑自述挪半拳，现场待核；点火三响皆闷；引料经手工号非己；续封\"知而不问\"；十年递单（第九年冬单递不进）；范围保本地十六年前，化冻具体日空置，口供待对独立记录、离家年份不入纸；\"不替你解释\"落定；林岑应\"我自己站过去答\"；祝衡领独立核证 | L3：F03材料可回看，裂尺只比坐标 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-019",
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-013",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 177 | D44凉时前—凉时 | 4层转运起点→侧廊 | 六人整班请辞（连坐之惧、勺里匀不动、私记交档）；借据清点讫（六班抵损）；班表四人改三人、第二运推一日；阿九顶扶板位；戊字一算慢两日多烧无名分、\"纸在一棚\"之险；凉时空担架入侧廊 | L3：政治分歧有运力后果 |",
+      "after": "| 177 | D44凉时前—凉时 | 4层转运起点→侧廊 | 六人整班退搬运班、不销受护册（连坐之惧、勺里匀不动、私记交档）；借据清点讫（六班抵损）；从现有接手班调三人逐段串行、第二运仍原定D45；阿九顶扶板位；戊字一记拖延风险，不预填慢两日、\"纸在一棚\"之险；凉时空担架入侧廊 | L3：政治分歧有运力后果 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-022"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-014",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 178 | D44—D45夜 | 居住段→5层→坡腰凳 | 头一运：老工师自走出墙（撕页贴身）；活账外层潮黏汽班原始数洇糊——留原位限期\"明年\"；位置记录四格填讫；阿苗回置缺角砖；门框按掌；弯口应老码；林渡因核签上塔回程让后半班；二运前六叔闻支板闷响验出榫裂——停运，后队停坡腰凳；槐七顶榫定三验；夜宿（灯两趟）；汽班\"来十二息\"新最长 | L3：这一趟不装匣子；回程支板开裂 |",
+      "after": "| 178 | D44—D45夜 | 居住段→5层→坡腰凳 | 头一运：老工师自走出墙（撕页贴身）；活账外层潮黏汽班原始数洇糊——暂留原位，转运线稳后优先查看取档，不保明年；位置记录四格填讫；阿苗回置缺角砖，D44先到四层转运点由麦穗陪候，D45第二运；门框按掌；弯口应老码；林渡因核签上塔回程让后半班；二运前六叔闻支板闷响验出榫裂——D45卯初停运，托板卸于裂板下方，沿已走实板退坡腰凳，不越裂跨；槐七顶榫定三验；夜宿（灯两趟）；汽班\"来十二息\"新最长 | L3：这一趟不装匣子；第二运前发现裂板 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-024",
+        "R006-B18-025",
+        "R006-B18-026",
+        "R006-B18-022"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-015",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 179 | D45—D46 | 5层核证桌 | 晨三验过桥阿苗抵棚（新组三行）；支板双木撑停用；核证桌：段门养护卷起出交接单（四道签记全号不名）；引料=验看同号；孔位对描图；化冻前三源互证代填空框；对不上的一笔：浆泥第二笔在交接单后（两回并一回）；残角留空不猜；五号签记单立，逐号查行不猜总主谋 | L3：同一操作有不同岗位交接签记 |",
+      "after": "| 179 | D46 | 5层核证桌 | 晨三验过桥阿苗抵棚（仅更新老工师/阿苗照护位置，不加总人口）；支板双木撑停用；核证桌：段门养护卷起出交接单（四道签记全号不名）；引料=验看同号；图面两处方位相合，第三处口供与现场待核；存根与旬记同源，交接单来源另核，化冻前与口供有差，空框仍空；对不上的一笔：浆泥第二笔在交接单后（用途未明、是否补缝待查）；残角留空不猜；五号签记单立，逐号查行不猜总主谋 | L3：同一操作有不同岗位交接签记 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-019",
+        "R006-B18-020",
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-016",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "## 第二卷时间线（171—180）",
+      "before": "| 180 | D46—D47 | 5层安置点→出坡 | 两晚议分纸；十三样清单签认；原件拆三处（站柜防潮格/塔柜双锁/棚青石）、抄件两份（岑野匣出坡/旧柜存）、对应册不出棚；话头核验与失联口传接力；祝衡月巡簿见己名七年八十四行——自誊签名入公开册\"质询那天我自己念\"；岑野晨携匣出坡对话头 | L3：祝衡也在执行签记里 |",
+      "after": "| 180 | D45夜—D47 | 5层安置点/配水旧柜 | 两晚议分纸；十三样清单签认；原件拆三处（站柜防潮格/塔柜双锁/棚青石）、抄件两份（岑野同匣D47交保管待发/旧柜存）、身份映射两份不随外送，睡区图棚内唯一；话头仅认来路；失联交接须两位原见证核当面指定接手人，不自称接力；祝衡月巡簿见己名七年八十四行——自誊签名入公开册\"质询那天我自己念\"；岑野晨接匣保管未出坡，182校正同匣后首次发运 | L3：祝衡也在执行签记里 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-034",
+        "R006-B18-035",
+        "R006-B18-037",
+        "R006-B18-039"
+      ],
+      "apply_by": "R006-main",
+      "condition": "相关正文实际应用并独立复核后，按授权纠错回填；不是本线程认定新已发生事实。"
+    },
+    {
+      "diff_id": "B18-MD-017",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 林渡 | 5层棚（账桌+护线调度） | 左臂肩旧伤持续 | 水票册（总账+暗页+自书页+折角页）、约书、探查册、借据夹 | 旁支阀失窃一格始末；十九户节号全谱；\"救济按实人不按来处\"立规；执行图范围框定格（离家年份不入纸）；证据三处+两份抄件格局立 | 对父亲\"不替你解释\"落定；对离队六人不追不骂、留位；对线上认名不认话延续 |",
+      "after": "| 林渡 | 5层棚（账桌+护线调度） | 左臂肩旧伤持续 | 水票册（总账+暗页+自书页+折角页）、约书、探查册、借据夹 | 旁支阀失窃一格始末；十九户节号全谱；\"救济按实人不按来处\"立规；执行图范围框定格（离家年份不入纸）；证据三处+两份抄件格局立 | 对父亲\"不替你解释\"落定；对退班六人不追不骂、留位；对线上认名不认话延续 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-018",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 祝衡 | 5层棚（核证主笔） | 左腿双手旧伤 | 三栏记录纸（含\"三响皆闷\"\"知而不问\"\"待质\"注）、五号签记单、公开册（新增自誊月巡页签名） | 交接单四道签记、引料=验看同号、浆泥两回并一回；月巡簿己名七年八十四行 | 自请\"质询那天我自己念\"；其行照章待核 |",
+      "after": "| 祝衡 | 5层棚（核证主笔） | 左腿双手旧伤 | 三栏记录纸（含\"三响皆闷\"\"知而不问\"\"待质\"注）、五号签记单、公开册（新增自誊月巡页签名） | 交接单四道签记、引料=验看同号、交接后第二筆浆泥用途待核；日期存根/旬记同源，交接单来处待核；第三孔不以口供写相符；月巡簿己名七年八十四行 | 自请\"质询那天我自己念\"；其行照章待核 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-019",
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-019",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 岑野（含麦穗小石） | 坡口守数→晨出坡信使；麦穗照护+举牌；小石凿墙班续 | 岑野嗓子哑持续 | 数纸（拐角三行闭档、阀间双岗新栏、出记六名）、分水私记一页（收档）、封匣（十三样抄件，号外缝） | 汽班来十二息新最长 | 首任出坡传匣信使 |",
+      "after": "| 岑野（含麦穗小石） | 坡口守数→D47同匣接管待发信使（未出坡）；麦穗照护+举牌；小石凿墙班续 | 岑野嗓子哑持续 | 数纸（拐角三行闭档、阀间双岗新栏、退班记六名，不销受护册）、分水私记一页（收档）、封匣（十三样抄件，号外缝） | 汽班来十二息新最长 | 首任拟出坡传匣信使，182校正同匣后首次动身 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-039"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-020",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 裴七 | 四层转运点（班表） | 左腿伤渐可拄行 | 班表（四人改三人、扶板位、新组三行格框描粗）、借据清点页 | 借据清账一笔（六班抵损讫） | 班表权威续增 |",
+      "after": "| 裴七 | 四层转运点（班表） | 左腿伤渐可拄行 | 班表（从现有接手班调三人逐段串行，抬手四改三、扶板位、老工师/阿苗既有条目更新照护位，不添人口）、借据清点页 | 借据清账一笔（六班抵损讫） | 班表权威续增 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-021",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 林岑 | 5层棚→四层坡口往返（复核旁听位） | 右肩吊固定 | 旧扳手、铺盖卷、油布执行图（角部燎缺，交归公开证据链） | \"知而不问\"入栏；化冻前三源互证代填空框；对残签不置可否 | 同意质询\"我自己站过去答\"；被利用与执行分栏在册 |",
+      "after": "| 林岑 | 5层棚→四层坡口往返（复核旁听位） | 右肩吊固定 | 旧扳手、铺盖卷、油布执行图（角部燎缺，交归公开证据链） | \"知而不问\"入栏；早年封门亲见/16年前爆破/10年前递单分记；具体日期与交接单来处待核，空框不代填；对残签不置可否 | 同意质询\"我自己站过去答\"；被利用与执行分栏在册 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-014",
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-022",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 庚二 | 5层外缘塔 | 腰弯眼不花 | 烟杆、塔账、钥匙（锁阀+塔柜双锁之一） | 阀间进数纸双岗；\"锁杆不锁人\" | 与主队共守延续 |",
+      "after": "| 庚二 | 5层外缘塔 | 腰弯眼不花 | 烟杆、塔账、钥匙（阀轮挂锁禁动标记+塔柜双锁之一） | 阀间进数纸双岗；锁仅挂轮辐不机械止动，由人员守杆、开锁记数再复验 | 与主队共守延续 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-004"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-023",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 六叔 | 工班机动（听管听板） | — | 锁具工具、錾柄 | 支板闷响带水音判裂；\"两层浆泥一个手印\"判两回并一回 | 耳判立信 |",
+      "after": "| 六叔 | 工班机动（听管听板） | — | 锁具工具、錾柄 | 支板闷响带水音判裂；两层浆泥不自证两次封门，交接后再领料用处待查 | 耳判立信 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-024",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 老工师（出墙第二人） | 5层棚灯下位（杜姨描框格） | 咳带哨两日两回、腿能走；三十年墙龄初离墙 | 小包袱、贴身灯、腰别短錾（布条缠）、当班簿今日页（贴身）、矮台抽屉钥匙 | 活账留原位限期\"明年\"；门框按掌而别 | 与阿苗对坐无言、灯座斜半寸 |",
+      "after": "| 老工师（出墙第二人） | 5层棚灯下位（杜姨描框格） | 咳带哨两日两回、腿能走；三十年墙龄初离墙 | 小包袱、贴身灯、腰别短錾（布条缠）、当班簿今日页（贴身）、矮台抽屉钥匙 | 活账暂留原位，线稳后优先查看取档，不保明年；门框按掌而别 | 与阿苗对坐无言、灯座斜半寸 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-026"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-025",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 记账员（6层旧柜） | 6层配水旧柜 | — | 旧账柜钥匙（十年未换人） | 受存抄件匣（对话头才开柜） | 护匣入责 |",
+      "after": "| 记账员（6层旧柜） | 6层配水旧柜 | — | 旧账柜钥匙（十年未换人） | 受存抄件匣（旧话头不单独授权；核清单与当面指定接手人，原主失联须两位原见证） | 护匣入责 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-037"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-026",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 拧阀者（不具名，货栈出身） | 离队（去处未记） | — | — | 当众自认浸油拧阀；分水私记一页交档 | 退出搬运班，账清位留 |",
+      "after": "| 拧阀者（不具名，货栈出身） | 退搬运班（去处未记，不销受护条目） | — | — | 当众自认浸油拧阀；分水私记一页交档 | 退出搬运班，账清位留 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-027",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "## 第171—180章后状态（A08）",
+      "before": "| 离队五人（不具名） | 离队（上坡回棚方向） | — | 借物清（垫肩损一扣鼻以工时抵讫） | — | 年长者许\"来\"（再召则归） |",
+      "after": "| 退班五人（不具名） | 退搬运班（上坡回棚方向，不销受护条目） | — | 借物清（垫肩损一扣鼻以工时抵讫） | — | 年长者许\"来\"（再召则归） |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-028",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第171章实际发生",
+      "before": "实际发生：对账日晨，学徒晨检发现靠上城侧旁支阀轮盘离粉线一格（三格开变二格），轴套有新油、轮辐擦痕朝收向；林渡不追人，请无关者退界石，以工班料柜锁锁操作杆；对表卡核验：压力稳、流量低一线半，与交班单旁支流量栏对上；戊字一报该管养外缘靠上城一侧整排住户加棚医疗专线；庚二、六叔判盘根挤偏，定减流半格半格回走、每半格听十息，泵盘根紧固停一班；分口勺变慢、队列拖长，杜姨定\"话止于账\"、今晚提前半个时辰；傍晚回走一格半，颤未消，锁阀过夜；岑野数纸三夜拐角\"一人过朝塔去\"，阀间自当晚进数纸加双岗。",
+      "after": "实际发生：对账日晨，学徒晨检发现靠上城侧旁支阀轮盘离粉线一格（三格开变二格），轴套有新油、轮辐擦痕朝收向；林渡不追人，请无关者退界石，料柜锁挂轮辐作禁动标记，学徒守杆，非机械锁死；对表卡核验：压力稳、流量低一线半，与交班单旁支流量栏对上；戊字一报该管养外缘靠上城一侧整排住户加棚医疗专线；庚二、六叔判盘根挤偏，定在二格小流下复验、回格每次半格、每半格听十息，泵盘根紧固停一班；分口勺变慢、队列拖长，杜姨定\"话止于账\"、今晚提前半个时辰；傍晚开锁回半格至二格半，颤未消，重新挂锁双岗过夜，D42晨再回半格复三格；岑野数纸三夜拐角\"一人过朝塔去\"，阀间自当晚进数纸加双岗。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-002",
+        "R006-B18-004"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-029",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第172章实际发生",
+      "before": "实际发生：林渡带槐七、六叔、岑野轻载查线，抄节号至末节；第九口织网老妇户核实\"水往下走，你家在末节\"；棚区蓝点细支尽头为医疗栏专嘴，节号与主干同序——照护用药水接同一管；末户门锁、牌字磨平；管末进崖壁竖井（铁盖实声、螺栓原封、井壁无攀处），主干从塔腰走不落外缘——旁支阀够不着上城；槐七数全段：十九接水口＋专嘴＋转运点；回程告老妇\"今晚账桌上说，带上你家娃\"；账桌对图勾号，林栖核\"管上之户实人十九今日在勺\"；岑野记拐角夜岗空班一格；节号纸、领水记录、水线图成卷（次序：先管、后牌、再勺）携往议事处。",
+      "after": "实际发生：林渡带槐七、六叔、岑野轻载查线，抄节号至末节；第九口织网老妇户核实\"水往下走，你家在末节\"；棚区蓝点细支尽头为医疗栏专嘴，节号与主干同序——照护用药水接同一管；末户门锁、牌字磨平；管末进崖壁竖井（铁盖实声、螺栓原封、井盖未开，井壁不可见），旧图主干在塔腰，井内接法待核；已查水口是断水先受害者，不证上城绝不受影响；槐七数全段：十九接水口＋专嘴＋转运点；回程告老妇\"今晚账桌上说，带上你家娃\"；账桌对图勾号，林栖核\"管上之户实人十九今日在勺\"；岑野记拐角日间顶班空一格，六叔晨间交守后查线、傍晚回阀；节号纸、领水记录、水线图成卷（次序：先管、后牌、再勺）携往议事处。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-006",
+        "R006-B18-008"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-030",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第173章实际发生",
+      "before": "实际发生：棚前空地公开对账（提前半个时辰，两盏灯一账一人）；头项旧序缺名册：戊字一念外段\"空户封存\"，四十九口、墙内两位、台上那位、老陈皆不在序，棚水名分上无一行（早先工班按班匀、近十日走旁路富余），富余无批；次项摆阀账：十九户节号、医疗栏账、末户磨平的牌并挂，\"上城吃水走塔腰主干，这道阀够不着\"；拧阀者（货栈出身、记分水数十天者）当场自认浸油拧阀，自述误读图上\"上行\"；织网老妇以网喻回应；杜姨一句\"往自家舱里凿眼\"（本章唯一长辈格言）；散会前三人离场（记数纸，不拦）；林栖举系统表抄页：十七个孩子序上均\"已撤离\"，上城\"已撤离\"页翻不完；立规矩\"救济按实人，不按来处\"，添\"上城卷，待访\"入待查册；拧阀者让勺与抱孩子妇人重排。",
+      "after": "实际发生：棚前空地公开对账（提前半个时辰，两盏灯一账一人）；头项旧序缺名册：戊字一念外段\"空户封存\"，受护册暂记49条未逐人排重，不当精确人口；墙内两位及台上那位逐项对旧序；老陈已入册只核位置，棚水名分上无一行（早先工班按班匀、近十日走旁路富余），富余无批；次项摆阀账：十九户节号、医疗栏账、末户磨平的牌并挂，已查十九户和医疗口先断水，井内接法仍待核；拧阀者（货栈出身、记分水数十天者）当场自认浸油拧阀，自述误读图上\"上行\"；织网老妇以网喻回应；杜姨一句\"往自家舱里凿眼\"（本章唯一长辈格言）；散会前三人离场（记数纸，不拦）；林栖举系统表抄页：十七个孩子序上均\"已撤离\"，上城\"已撤离\"页翻不完；立规矩\"救济按实人，不按来处\"，添\"上城卷，待访\"入待查册；拧阀者让出自己已记份给抱孩子妇人，回队尾等待但不再领取。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-006",
+        "R006-B18-012",
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-031",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第174章实际发生",
+      "before": "实际发生：林渡、槐七带林岑下四层坡口（汽来十一息半贴壁数息）；坡口石阵四块未动；林渡问\"断水你站哪边\"——林岑以封缝合拢亲见作答（\"说这话的人，没见过缝是怎么合上的\"）；分栏陈述被利用（维修单名义\"潮汛维护/段门养护\"、疑而问则料停十天水压走低、第十一天料到；递单法：夹层递缝、窗台碎瓦取回执）与执行（亲见封段、十年递单）；林岑出示油布包执行图（两遍画、一遍烧、留卷十六年、角部燎缺），条件为墙内两位与台上那位先出墙；林渡拒特殊排序（\"条件在纸上\"、明晚复核），\"图跟人捆一起就躺铺盖里\"；林岑约明晚复核后交图并应邀到场旁听；老陈望坡自语能自行上五层；槐七判\"他怕清场\"，林渡定复核头条核清场路；册上\"被利用/执行\"两段之间留一行空。",
+      "after": "实际发生：林渡、槐七带林岑下四层坡口（汽来十一息半贴壁数息）；坡口石阵四块未动；林渡问\"断水你站哪边\"——林岑以十六岁时、三十年前外段封缝亲见作答，区分十六年前爆破与十年前递单，中间未亲见（\"说这话的人，没见过缝是怎么合上的\"）；分栏陈述被利用（维修单名义\"潮汛维护/段门养护\"、疑而问则料停十天水压走低、第十一天料到；递单法：夹层递缝、窗台碎瓦取回执）与执行（亲见封段、十年递单）；林岑出示油布包执行图（两遍画、一遍烧、留卷十六年、角部燎缺），条件为墙内两位与台上那位先出墙；林渡拒特殊排序（\"条件在纸上\"、明晚复核），\"图跟人捆一起就躺铺盖里\"；林岑约明晚复核后交图并应邀到场旁听；老陈望坡自语能自行上五层；槐七判\"他怕清场\"，林渡定复核头条核清场路；册上\"被利用/执行\"两段之间留一行空。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-014"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-032",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第175章实际发生",
+      "before": "实际发生：塔下支三块板（转运线图/水线图/队列）复核，杜姨题\"队列\"；队列板列条件不列名（老工师咳带哨两日两回加重、阿苗坐疮三回渐大、维修台\"待线交割\"、居住段未叩完不写人数、棚内从重到轻），条件以照护交班纸为凭；庚二言转人两日勺不能出岔；槐七据数纸（来八、十、十一息）断潮头将至、坡上活须赶在汽最长前头；戊字一算\"活多人少汽长\"三头挤芯格；维修台那位\"先不排\"后添\"待线交割\"；弥娅携\"原件位置记录\"表（三格+副本匣补行）立\"这一趟不装匣子\"，小字\"递档之先先问受潮\"描深；借据夹核芯格余两成（红线两天）、借表该还、欠工六班——值守复核临期；老住户问转人两日勺浅不浅，戊字一答\"浅得明明白白\"；杜姨描框备灯下位、交班纸预写接人一栏；槐七坡腰凳记\"来十一息半\"。",
+      "after": "实际发生：塔下支三块板（转运线图/水线图/队列）复核，杜姨题\"队列\"；队列板列条件不列名（老工师咳带哨两日两回加重、阿苗坐疮三回渐大、维修台\"待线交割\"、居住段未叩完不写人数、棚内从重到轻），条件以照护交班纸为凭；庚二言转人两日勺不能出岔；槐七据数纸（来八、十、十一息）断潮头将至、坡上活须赶在汽最长前头；戊字一算同时作业挤班手，转运不靠追加塔灯续时；维修台那位\"先不排\"后添\"待线交割\"；弥娅携\"原件位置记录\"表（三格+副本匣补行）立\"这一趟不装匣子\"，小字\"递档之先先问受潮\"描深；借据夹核两枚借入合1.7格、最近合实余0.2格（满格基数两成），仅短时试验/值守按班，不承诺两日；棚手摇灯、坡口和四层灯另账、借表该还、欠工六班——值守复核临期；老住户问转人两日勺浅不浅，戊字一答\"浅得明明白白\"；杜姨描框备灯下位、交班纸预写接人一栏；槐七坡腰凳记\"来十一息半\"。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-014",
+        "R006-B18-017",
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-033",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第176章实际发生",
+      "before": "实际发生：证词桌核证之夜（戊字一于耗用表批\"核证之夜，照点\"）；林岑展开执行图（炭线孔位三圈、墨线点火汇位、铅笔线续封缝线与十年递单路、角部燎缺记日子）；裂尺出夹层仅比刻度：一、二圈合，二、三圈差一线——画圈待核，林岑自陈\"第三孔挪过半拳往下坡\"记入不改图；逐项过：点火三响亲为（化冻土软声闷、\"三响皆闷\"入栏）、引料经手工号非己（\"承重的人看承重，料的事有人管\"）、续封亲见（自请记\"知而不问\"、拒\"不知情\"）、十年递单执行（第九年冬汽乱单递不进、\"怕里头的人断了\"）；范围框定格本地十六年前化冻前一次及后续十年；离家年份不入纸（\"图角那个缺我没打算补\"）；林渡言明\"图上的事你自己说……不替你解释\"；林岑应质询\"我自己站过去答\"；祝衡领独立核证（孔位对描图、日子对交接、号对旧册）；林栖以拓号见父手虎口茧一笔。",
+      "after": "实际发生：证词桌核证之夜（戊字一于耗用表批\"核证之夜，照点\"）；林岑展开执行图（炭线孔位三圈、墨线点火汇位、铅笔线分段补记早年封门缝线与十年递单路、角部燎缺记日子）；裂尺仅比图面相对位置，不从不等间距推错孔，第三圈现场待核，林岑自陈\"第三孔挪过半拳往下坡\"记入不改图；逐项过：点火三响亲为（化冻土软声闷、\"三响皆闷\"入栏）、引料经手工号非己（\"承重的人看承重，料的事有人管\"）、早年外段封门亲见（自请记\"知而不问\"、拒\"不知情\"）、十年递单执行（第九年冬汽乱单递不进、\"怕里头的人断了\"）；范围分记三十年前十六岁亲见外段封门、十六年前本地爆破、十年前递单；化冻前/下头化冻原话有差，具体日仍空；离家年份不入纸（\"图角那个缺我没打算补\"）；林渡言明\"图上的事你自己说……不替你解释\"；林岑应质询\"我自己站过去答\"；祝衡领核证任务、尚未完成独立互证（孔位对描图、日子对交接、号对旧册）；林栖以拓号见父手虎口茧一笔。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-014",
+        "R006-B18-019",
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-034",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第177章实际发生",
+      "before": "实际发生：凉时前转运起点点验时六人整班请辞（拧阀者\"跟明账走不动\"、汉子因兄弟在上城册上怕连坐、帮厨者\"从勺里匀勾不动\"后自认站不住、一人随行、年长者留六班工时条抵垫损、缄默者油托板提手告假）；裴七按借据清点（绳两捆、垫肩四缺一扣鼻注\"损讫\"、托板还——倒角新磨照实记），戊字一记夹皮清账；分水私记一页交岑野收档（数与箭头均留）；杜姨嘱班表空格先补留位；班表每批四人改三人、第二运推一日、第三运入空格，林渡在\"趟数拉长\"行画圈记因；阿九自请顶\"扶板位\"入表；戊字一算慢两日多烧无名分富余、并提\"纸在一棚\"之险，林渡定\"人没走完不分纸\"并许\"人齐即分\"；凉时三人班加阿九扶板空担架入侧廊，数纸六名画出记。",
+      "after": "实际发生：凉时前转运起点点验时六人整班请辞（拧阀者\"跟明账走不动\"、汉子因兄弟在上城册上怕连坐、帮厨者\"从勺里匀勾不动\"后自认站不住、一人随行、年长者留六班工时条抵垫损、缄默者油托板提手告假）；裴七按借据清点（绳两捆、垫肩四缺一扣鼻注\"损讫\"、托板还——倒角新磨照实记），戊字一记夹皮清账；分水私记一页交岑野收档（数与箭头均留）；杜姨嘱班表空格先补留位；六人整班退搬运班不销受护册，从既有接手班调三人逐点串行，抬手四改三、第二运仍计划D45、第三运不预填日期，林渡在\"趟数拉长\"行画圈记因；阿九自请顶\"扶板位\"入表；戊字一仅记拉长工时与未批水风险，不预填慢两日、并提\"纸在一棚\"之险，林渡定\"人没走完不分纸\"并许\"人齐即分\"；凉时三人班加阿九扶板空担架入侧廊，数纸六名记退班，不销受护条目。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-021",
+        "R006-B18-022"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-035",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第178章实际发生",
+      "before": "实际发生：前夜弥娅核位置记录表定\"不装匣子\"；头一运凉时入侧廊（汽长歇窗数息）；老工师自提包袱拒担架，撕当班簿今日页贴身（\"人出来一个给一页\"自守）；龛里活账外层潮黏掀不开、白毛霉味、汽班原始数洇糊（阿苗副页只抄水位滤况未抄汽班——知识缺口成实）；定活账留原位\"明年取不走就不认人\"；祝衡填位置记录三格并念验；阿苗油布三层裹副页、亲手回置缺角砖抹泥；老工师门框按掌（新掌叠旧掌）；阿苗末出门朝维修台一星灯举手；弯口应老码\"两轻一停\"（\"手生，嘴不生\"）；五层入杜姨描框灯下位，先问水；林渡因耗用表核签随岑野灯上塔，回程让予后半班；次日凉时前二运：六叔闻支板闷响带水音，錾柄逐段验出榫口裂一线渗水珠，卸载按窄段章程；麦穗灯号三晃停运，守数入纸\"卯时初坡腰凳上方停运\"；林渡传令后队停坡腰凳不挪一步、候撑验再走；槐七领两短撑一麻绳下坡顶榫绞绳，定\"空载—沙罐—过人\"三验；后队夜宿坡腰凳（灯两趟、灯捻小格、六叔首夜守听）；数纸记汽班\"来十二息\"新最长。",
+      "after": "实际发生：前夜弥娅核位置记录表定\"不装匣子\"；头一运凉时入侧廊（汽长歇窗数息）；老工师自提包袱拒担架，撕当班簿今日页贴身（\"人出来一个给一页\"自守）；龛里活账外层潮黏掀不开、白毛霉味、汽班原始数洇糊（阿苗副页只抄水位滤况未抄汽班——知识缺口成实）；活账暂留原位，线稳后优先查看取档，不保证明年；祝衡填位置记录三格并念验；阿苗油布三层裹副页、亲手回置缺角砖抹泥；老工师门框按掌（新掌叠旧掌）；阿苗末出门举手后坐现有窄托板到四层转运点，麦穗陪候；空担架再护送侧廊候着的老工师上五层；弯口应老码\"两轻一停\"（\"手生，嘴不生\"）；五层入杜姨描框灯下位，先问水；林渡因耗用表核签随岑野灯上塔，回程让予后半班；次日凉时前二运：六叔闻支板闷响带水音，錾柄逐段验出榫口裂一线渗水珠，卸载在裂板下方已走实板，未越裂跨；麦穗灯号三晃停运，守数入纸\"卯时初坡腰凳上方停运\"；林渡传令沿已走实板退坡腰凳后停住、候撑验再走；槐七领两短撑一麻绳下坡顶榫绞绳，D45白天停运、守一夜至D46晨，定\"空载—沙罐—过人\"三验；后队夜宿坡腰凳（灯两趟、坡口原灯移到落点，另记耗用、不扣塔芯、六叔首夜守听）；数纸记汽班\"来十二息\"新最长。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-017",
+        "R006-B18-024",
+        "R006-B18-025",
+        "R006-B18-026"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-036",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第179章实际发生",
+      "before": "实际发生：晨槐七空载加沙罐三验过桥，阿苗抵棚入照护位（班表新组添两行格框描粗）；支板双木撑、木牌\"停用待修\"——坡路数减半；晌午核证桌五摞纸；戊字一起站柜旧档段门养护卷（领料存根浆泥两笔门轴油一笔+背面附交接单）；交接单四道签记（领料/施工/验看/接段）全签号不签名、笔迹四样；引料号与验看号同号——\"领炸料的，跟验封段的，一只手\"；孔位对描图两处符一处经陈述符；日子互核三源（存根/旬记/交接单）同旬同节令\"化冻前\"——祝衡代填林岑空框（框外注两来源），林岑\"你的笔填的才算核过的\"；对不上的一笔：浆泥第二笔日子在交接单后——封段两回手续记一回（六叔据\"两层浆泥一个手印\"判）；存根背面缺角残半个验看签——留空不猜；林岑对残签不置可否；弥娅左手誊译页画圈\"两回并一回，何人所并，单上无记\"；祝衡抄五号签记单（标孔/引料/点火/验看/接段——至少三只手）钉抄图后，定\"逐号查行\"不猜总主谋、接段号先核；记旧柜尚余月巡簿与段闸检修移交单两册入明日单；值桌年轻人问\"谁是主谋\"得答\"点火的认了，批料的没名字\"。",
+      "after": "实际发生：晨槐七空载加沙罐三验过桥，阿苗抵棚入照护位（老工师/阿苗原条目更新照护位、老赵不动、老陈四层位，不加总人口）；支板双木撑、木牌\"停用待修\"——坡路数减半；晌午核证桌五摞纸；戊字一起站柜旧档段门养护卷（领料存根浆泥两笔门轴油一笔+背面附交接单）；交接单四道签记（领料/施工/验看/接段）全签号不签名、笔迹四样；引料号与验看号同号，不因同号或笔锋判断人数；图面两处方位相合；第三处口供附记，现场待核；存根/按存根登记的旬记同源相合，交接单来处另核，化冻前与林岑原话有差，不代填空框；对不上的一笔：浆泥第二笔日子在交接单后——用途未明、是否补缝待查，不以泥层断两次封门；存根背面缺角残半个验看签——留空不猜；林岑对残签不置可否；弥娅左手誊译页画圈\"交接后再领浆泥，用处未明，是否补缝待查\"；祝衡抄五号签记单（标孔/引料/点火/验看/接段——经手人数未核）钉抄图后，定\"逐号查行\"不猜总主谋、接段号先核；记旧柜尚余月巡簿与段闸检修移交单两册入明日单；值桌年轻人问\"谁是主谋\"得答\"点火的认了，批料的没名字\"。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-019",
+        "R006-B18-020",
+        "R006-B18-021"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-037",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08实录第180章实际发生",
+      "before": "实际发生：两晚议分纸（分不分/怎么分；原\"人到齐再分\"之约因支板停运、坡剩单线，由林渡当场改为即分——\"台上那位等线交割，纸不等人\"），十三样清单逐行签认（执行图原件、三栏自述原件、工具拓片四、批语拓片二、门件描图、当班簿老赵页、阿苗副页抄本、活账位置记录、养水支抄页、塔大修单抄页、对账笔录、交接单抄件、五号签记单）；定\"原件拆三处、抄件走两份、身份映射不出棚\"：站柜防潮格（拓片二+交接单抄件）、塔柜双锁（执行图/描图/塔大修单抄页）、棚支账青石层（其余）；抄件两份（岑野封匣出坡、配水旧柜记账员存）全抄本无原件；两行规矩（抄件只写号不写名不写位；口头核对话头\"七段的料/隔年对一回\"）+失联口传接力；装匣三重核对（销号横线、来源三对、弥娅描号三处）；祝衡核月巡簿见己名七年八十四回领印巡段（\"只巡门不看街\"）——自誊一页签名入公开册\"质询那天我自己念\"；月巡簿原样回柜、对应册记\"已誊\"；岑野晨携封匣出坡、坡腰凳扶正木牌、对话头一字不差；数纸、值桌添新名、勺照走。",
+      "after": "实际发生：D45夜/D46夜议分纸、D47交同首匣保管未出坡（分不分/怎么分；原\"人到齐再分\"之约因支板停运、坡剩单线，由林渡当场改为即分——\"台上那位等线交割，纸不等人\"），十三样清单逐行签认（执行图原件、三栏自述原件、工具拓片四、批语拓片二、门件描图、当班簿老赵页抄本（原页贴身）、阿苗副页抄本、活账位置记录、养水支抄页、塔大修单抄页、对账笔录、交接单抄件、五号签记单）；定\"留底三处、全套抄件两份、身份映射两份不随外送、睡区图只在杜姨在不在册\"：站柜防潮格（现有工具拓片临时索引一/二+交接单抄件）、塔柜双锁（执行图/描图/塔大修单抄页）、棚支账青石层（工具三/四、批语二及其余；原刻号/取拓处不明留空，索引非新工号）；抄件两份（岑野封匣D47接保管待182校正首次出坡、配水旧柜记账员存）全抄本无原件；两行规矩（抄件不带保护名位；旧话头仅認来路，核清单与当面指定接手人，原主失联须两位原见证，继手失联暂停交接）；装匣三重核对（销号横线、来源三对、弥娅描号三处）；祝衡核月巡簿见己名七年八十四回领印巡段（\"只巡门不看街\"）——自誊一页签名入公开册\"质询那天我自己念\"；月巡簿原样回柜、分存清单背记\"已誊\"；岑野D47晨接匣保管、仍留棚；未来走现有准通行旧路，不越裂板；核匣号保管人，已出坡栏空；数纸、值桌轮班不增受护条目、勺照走。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-034",
+        "R006-B18-035",
+        "R006-B18-037",
+        "R006-B18-039"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-038",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08标题/规划与实录差异",
+      "before": "章号：172 流不到议政厅的那一管",
+      "after": "章号：172 先断谁的水",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-039",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08标题/规划与实录差异",
+      "before": "172／流不到议政厅的那一管",
+      "after": "172／先断谁的水",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-006"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-040",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08标题/规划与实录差异",
+      "before": "本地施工记录和独立工班交接记录互核，照片缺角/缺签留空",
+      "after": "须查本地施工记录与独立工班交接记录互核，缺角/缺签留空；A08实录尚未证明来源独立，不以同卷记录冒充兑现",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-041",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "A08时段偏离说明",
+      "before": "章卡A08时段预算为\"D14—D16\"；正文实耗D41至D47（约七个昼夜），较预算慢约二十六日（A03—A07批顺延累积为基数）。本批实耗构成：171阀位减流复验跨至次日晨验（两日）、175复核与176核证各占一整班、两运分走两日（177班次减员致第二运推后一日）、178支板开裂停运半日加后队夜宿、179核证两日、180议两晚装一夜。符合逐章卡开写约束\"日数可随正文实耗调整\"；台账已按口径记录，A09起点D47后。",
+      "after": "章卡A08时段预算为\"D14—D16\"；正文实耗D41至D47（约七个昼夜），较预算慢约二十六日（A03—A07批顺延累积为基数）。本批实耗构成：171阀位减流复验跨至次日晨验（两日）、175复核与176核证各占一整班、两运分走两日（D44老工师、D45阿苗原计划不变；退班令当趟工时拉长）、178支板D45卯初停运至D46晨，179 D46三验与核证，180回叙D45/D46两晚议分装一夜、D47同首匣交保管未出坡。符合逐章卡开写约束\"日数可随正文实耗调整\"；台账已按口径记录，A09起点D47后。",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-022",
+        "R006-B18-039"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-042",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "source_sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "scope": "## 第171—180章回填",
+      "before": "| 五号签记单·逐号查行 | 179 | 推进：五号至少三只手；接段号先核；引料=验看同号 | 187、188责任链闭合 |",
+      "after": "| 五号签记单·逐号查行 | 179 | 推进：五岗位签记经手人数待查；接段号先核；引料=验看同号 | 187、188责任链闭合 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-043",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "source_sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "scope": "## 第171—180章回填",
+      "before": "| 芯格到底之期与借表该还 | 175 | 推进：余量撑不到潮头过完，借期已满未还 | 191按约归还 |",
+      "after": "| 芯格到底之期与借表该还 | 175 | 推进：0.2格仅短时/按班用、不承诺两日，借期已满未还 | 181 D48用尽复核；191塔交接另记 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-017"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-044",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "source_sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "scope": "## 第171—180章回填",
+      "before": "| 话头\"七段的料\"新增用途 | 135（旧话头） | 推进：180起兼作证据匣口头核对暗语 | 196局部广播线 |",
+      "after": "| 话头\"七段的料\"新增用途 | 135（旧话头） | 推进：180起仅作认来路提示，不独立授权开匣；失联须原两见证核当面指定接手人 | 196局部广播线 |",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-037"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-045",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "source_sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "scope": "F03仅179实录句",
+      "before": "179章交接单四道签记（签号不名）、引料=验看同号、浆泥两回并一回、化冻前节令三源互证",
+      "after": "179章交接单四道岗位签记（签号不名）、引料=验看同号但人数未核、交接后再领浆泥用处待查；存根与旬记同源、交接单来处未证独立，化冻具体日空框未填",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-019",
+        "R006-B18-020"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    },
+    {
+      "diff_id": "B18-MD-046",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "source_sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "scope": "F17仅178实录句",
+      "before": "活账留原位限期\"明年\"",
+      "after": "活账暂留原位，转运线稳后优先查看取档，不保证留到明年",
+      "expected_occurrences": 1,
+      "issue_ids": [
+        "R006-B18-026"
+      ],
+      "apply_by": "R006-main",
+      "condition": "仅对应171—180授权纠错；相关正文实际实施并独立复核后回填，不代表本线程已确认发生。"
+    }
+  ],
+  "withdrawn_draft_patches": [
+    {
+      "patch_id": "B18-AP-041",
+      "reason": "封存前撤销：主线程明确保已发布142三十年前外段封门，原有久居叙述不再因46/16误冲突删除；该draft从未应用。"
+    },
+    {
+      "patch_id": "B18-AP-044",
+      "reason": "封存前撤销：主线程明确保已发布142三十年前外段封门，原有久居叙述不再因46/16误冲突删除；该draft从未应用。"
+    },
+    {
+      "patch_id": "B18-AP-051",
+      "reason": "封存前撤销：主线程明确保已发布142三十年前外段封门，原有久居叙述不再因46/16误冲突删除；该draft从未应用。"
+    },
+    {
+      "patch_id": "B18-AP-090",
+      "reason": "封存前撤销：主线程明确保已发布142三十年前外段封门，原有久居叙述不再因46/16误冲突删除；该draft从未应用。"
+    }
+  ],
+  "prose_complete": true,
+  "prose_status": "frozen_ready_for_main_application",
+  "prose_patch_digest": "6eb8dc1be75faa8f8f9ae15b8ee9024f9e820821e5d15ef89f56cfe500088431",
+  "supplemental_patches": [
+    {
+      "patch_id": "B18-AS-001",
+      "issue_ids": [
+        "R006-B18-012",
+        "R006-B18-021"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "apply_stage": "after_frozen_primary_patches",
+      "before": "“走了。医疗栏加了半勺。”杜姨说。",
+      "after": "“走了。你的用水记在医疗栏，没另添份。”杜姨说。",
+      "expected_occurrences": 1,
+      "reason": "A07/A08原医疗线与169/170个人既有份有据，但未找到另增半勺的批准。撤前段增量、保阿苗原份内半勺；不与B20并账。"
+    },
+    {
+      "patch_id": "B18-AS-002",
+      "issue_ids": [
+        "R006-B18-012",
+        "R006-B18-021"
+      ],
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "apply_stage": "after_frozen_primary_patches",
+      "before": "麦穗把夜里的水份出来——医疗栏半勺，温水，一回一回喂。",
+      "after": "麦穗从阿苗原已记过的用水份里分出半勺温水，一回一回喂；照护纸记下去向，不另添一份。",
+      "expected_occurrences": 1,
+      "reason": "A07/A08原医疗线与169/170个人既有份有据，但未找到另增半勺的批准。撤前段增量、保阿苗原份内半勺；不与B20并账。"
+    }
+  ],
+  "supplemental_complete": true,
+  "medical_half_spoon": {
+    "decision": "未确认额外增配有据，撤加半勺；夜里半勺从阿苗原已记份内分出，不新增水量。",
+    "source_basis": "169/170居住段两位既有生活份另线路记；A06/A07/A08医疗专线继续，178原稿本有半勺温水。未在有界资料找到额外半勺批准，不拿后章医疗量倒灌。",
+    "source_evidence": [
+      {
+        "path": "异星录/06_执行计划/工作区/R006-B17/第169章_谁先喝这一班.md",
+        "sha256": "9a17b8e16d1c898ce63ac23f2fafa98715ca18c6be711316e77b68898566bcc2",
+        "line": 37,
+        "quote": "他又指着另列的接水处：“居住段两位、维修台那位，还有四层照护位的老陈，既有生活份仍沿各自原来的领水线路走，另栏记。不把这四位塞进四十九项，也不从这一罐半里另扣一份；原有份和新增份，不准合成一笔报。”"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md",
+        "sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+        "line": 43,
+        "quote": "旧序，就是检修前的那个序：外缘按户按旧份。承接受护册暂记的四十九项不是全队人数，如今新增富余按六四分出的份额，上头没批。居住段两位、维修台那位和四层照护位的老陈，既有生活份仍沿原线路另记，却也没有落进旧序的名目里。两笔账都得摆出来：仍在送的水，不等于份额已有了稳妥的批复。"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+        "sha256": "320e80857ffd2884cc113c97b990da54ecaf5c02a2fd0b41f0dbedb59f0959b4",
+        "line": 43,
+        "quote": "“走了。医疗栏加了半勺。”麦穗说。"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+        "sha256": "320e80857ffd2884cc113c97b990da54ecaf5c02a2fd0b41f0dbedb59f0959b4",
+        "line": 79,
+        "quote": "麦穗把夜里的水份出来——医疗栏半勺，温水，一回一回喂。守数的居民把坡口那盏灯捻小了一格，光缩在凳子周围，不往坡上坡下漏——灯是给自家人的，不是给坡上野风的。六叔把錾柄在石头上磕了磕灰，靠着橛子坐下，耳朵还朝着裂板那一跨。头半夜他没打算真睡。"
+      }
+    ],
+    "authorization_boundary": "有既有份与医疗线，不等于证实额外增配。本次经授权采用份内分出修句；保178原半勺动作，不增水，不引B20补证。"
+  },
+  "issue_decisions": [
+    {
+      "issue_id": "R006-B18-002",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "阀三→二→二点五→三；浮子线数另记",
+      "patch_ids": [
+        "B18-AP-003",
+        "B18-AP-004",
+        "B18-AP-005"
+      ],
+      "source_basis": "资源与时间A07/A08饮水条；171交班单与复验全文。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-004",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "料柜锁作禁动标记，人员守杆，不造固定扣点",
+      "patch_ids": [
+        "B18-AP-002",
+        "B18-AP-005",
+        "B18-AP-006",
+        "B18-AP-007"
+      ],
+      "source_basis": "171阀座、操作杆和轮盘现场；章卡171要求锁可见操作杆。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-006",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "只证十九户及医疗口先受害，井内接法待核，改章题",
+      "patch_ids": [
+        "B18-AP-010",
+        "B18-AP-011",
+        "B18-AP-012",
+        "B18-AP-013",
+        "B18-AP-014",
+        "B18-AP-016",
+        "B18-AP-018",
+        "B18-AP-087"
+      ],
+      "source_basis": "172查线全文；世界规则/栈城路线图；章卡172只授权查实际受水者，不授权新设备。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-008",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "六叔晨间交守、傍晚回阀；漏岗改日间顶班（授权时标纠错）",
+      "patch_ids": [
+        "B18-AP-008",
+        "B18-AP-015"
+      ],
+      "source_basis": "时间线171/172均D41；171要求今夜加双岗且拐角不撤；A08实录含查线缺岗。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-012",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "让已记个人份，重排不再领；178半勺列后置补充",
+      "patch_ids": [
+        "B18-AP-019",
+        "B18-AS-001",
+        "B18-AS-002"
+      ],
+      "source_basis": "173按实人救济与此前逐勺记数；逐章卡173实际发生。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-014",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "保142三段：30年前16岁目击封门、16年前30岁爆破、10年前起递单；175墙龄不作爆破年代",
+      "patch_ids": [
+        "B18-AP-001",
+        "B18-AP-009",
+        "B18-AP-017",
+        "B18-AP-020",
+        "B18-AP-021",
+        "B18-AP-022",
+        "B18-AP-092",
+        "B18-AP-093",
+        "B18-AP-094",
+        "B18-AP-095"
+      ],
+      "source_basis": "已批准《后七卷设定决策与执行约束》C02与人物年龄；R005待裁C02仅作为依赖，未采用其工作稿。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-017",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "借1.7/合实余0.2，以一满格为两成；短时试验值守，棚手摇/坡口/巡铺灯另账，保181实际用尽",
+      "patch_ids": [
+        "B18-AP-024",
+        "B18-AP-025",
+        "B18-AP-026",
+        "B18-AP-027",
+        "B18-AP-028",
+        "B18-AP-034",
+        "B18-AP-052",
+        "B18-AP-053",
+        "B18-AP-054",
+        "B18-AP-063",
+        "B18-AP-066",
+        "B18-AP-085",
+        "B18-AP-086"
+      ],
+      "source_basis": "资源与时间A07/A08芯格；175“两天”与三盏灯；176/178/179正文；章卡175复核临期。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-019",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "裂尺比相对位置，第三孔口供不冒充现场证实",
+      "patch_ids": [
+        "B18-AP-029",
+        "B18-AP-030",
+        "B18-AP-031",
+        "B18-AP-057"
+      ],
+      "source_basis": "章卡176裂尺只比坐标、179不能靠口供填洞；C02两类独立材料互证；176—179原文。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-020",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "存根旬记同源，交接单来处另核；具体日不代填、签号不等于人数、泥层不生新日期",
+      "patch_ids": [
+        "B18-AP-032",
+        "B18-AP-033",
+        "B18-AP-055",
+        "B18-AP-056",
+        "B18-AP-058",
+        "B18-AP-059",
+        "B18-AP-060",
+        "B18-AP-061",
+        "B18-AP-062",
+        "B18-AP-064",
+        "B18-AP-065",
+        "B18-AP-067",
+        "B18-AP-068"
+      ],
+      "source_basis": "章卡179；C02第176—188检查项；176点火口供、179日期段及第二笔浆泥。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-021",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "登记不当人口；六人只退班；三抬手从既有接手班调串行；老陈不重复增",
+      "patch_ids": [
+        "B18-AP-017",
+        "B18-AP-023",
+        "B18-AP-036",
+        "B18-AP-038",
+        "B18-AP-042",
+        "B18-AP-054",
+        "B18-AP-083",
+        "B18-AP-086",
+        "B18-AS-001",
+        "B18-AS-002"
+      ],
+      "source_basis": "177全班六人离队、章末三抬一扶；资源A08工时/班次；175人手少班。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-022",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "D44/D45原计划不称延期；D45卯初停到D46晨，180两夜回叙后D47交保管",
+      "patch_ids": [
+        "B18-AP-035",
+        "B18-AP-036",
+        "B18-AP-037",
+        "B18-AP-045",
+        "B18-AP-048",
+        "B18-AP-050",
+        "B18-AP-069",
+        "B18-AP-070",
+        "B18-AP-071",
+        "B18-AP-080"
+      ],
+      "source_basis": "事件时间线175—180；资源A08时间、二运推一日；用户170→173接口。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-024",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "阿苗先到四层候转，麦穗陪；侧廊老工师候空担架；远端由岑野报",
+      "patch_ids": [
+        "B18-AP-040",
+        "B18-AP-042",
+        "B18-AP-043",
+        "B18-AP-045",
+        "B18-AP-048",
+        "B18-AP-091"
+      ],
+      "source_basis": "175两运安排；178全文；人物A08最终两人抵棚并不证明中间路线。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-025",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "落在裂板下方已走实板，沿来路退凳，D46三验只过此趟再封",
+      "patch_ids": [
+        "B18-AP-046",
+        "B18-AP-047",
+        "B18-AP-049",
+        "B18-AP-050"
+      ],
+      "source_basis": "178裂板位置、卸载动作与停令；章卡178停已验落点；179章首。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-026",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "湿档暂留，线稳优先查看取档；撤保明年，不造新干库",
+      "patch_ids": [
+        "B18-AP-039"
+      ],
+      "source_basis": "资源A08证据条活账留墙限期明年；178纸张现状。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-034",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "身份映射原两份不外送、睡区图棚内唯一；证匣号独立、月巡索引不入对应册",
+      "patch_ids": [
+        "B18-AP-017",
+        "B18-AP-054",
+        "B18-AP-072",
+        "B18-AP-076",
+        "B18-AP-078",
+        "B18-AP-081",
+        "B18-AP-083",
+        "B18-AP-088"
+      ],
+      "source_basis": "资源A06第159章两册/两处/37号条；180两处/一本/不出棚三种表述；不得用185迁点倒填180。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-035",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "授权指定现有工具一/二入站，三/四及批语二入棚；临时索引非旧工号，原页与残角另核",
+      "patch_ids": [
+        "B18-AP-073",
+        "B18-AP-074"
+      ],
+      "source_basis": "180当前正文；A07资源行326仅记两处批语各拓一张；A08资源行341记工具四+批语二及三处分存，无入站张别。用户确认没有可擅选的权威来源。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-037",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "话头只认来路，先当面指定继手，原两见证核人；继手失联停交",
+      "patch_ids": [
+        "B18-AP-077",
+        "B18-AP-079"
+      ],
+      "source_basis": "180口传两行与全员复述；章卡180口头核对/失联交接要求。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    },
+    {
+      "issue_id": "R006-B18-039",
+      "previous_status": "pending_author",
+      "status": "authorized_proposal_ready",
+      "decision": "D47同首匣只交岑野保管，182 D48—49校正后首次出坡，不添回程或副本",
+      "patch_ids": [
+        "B18-AP-069",
+        "B18-AP-071",
+        "B18-AP-075",
+        "B18-AP-080",
+        "B18-AP-082",
+        "B18-AP-084",
+        "B18-AP-089"
+      ],
+      "source_basis": "用户指定180→182接口；A08资源341与时间线180D46—47、181D48、182D48夜—D49；182仅作为当前工作稿接口依赖，不作已发布新事实。",
+      "acceptance_status": "not_applied_not_reviewed",
+      "retained_unknowns": "叙事待核不再作为缺少作者授权的pending；不能为了清零未知补造证据。"
+    }
+  ],
+  "cross_batch_dependencies": [
+    {
+      "dependency_id": "B18-XD-01",
+      "topic": "history_142",
+      "owner": "B19/主线程",
+      "observed_evidence": [
+        {
+          "path": "异星录/正文/第二卷_黑暗断阶/第142章_谁把门又封上.md",
+          "sha256": "f07f40df59d527cc590d1d9f813193cef171940ccfa5e335a76da691d00a73be",
+          "line": 23,
+          "quote": "林渡盯着三栏的题头看了一遍。父亲十六岁时见过的外段封门、后来亲手点火的本地爆破、十年前才接上的递单线，不能挤成同一天。年份还没核出的地方照样留框；先把行为分开，哪一段亲见，哪一段亲做，再去找能与它相互印证的纸。否则听完一页证词，责任反倒会混在那句“当年”里。"
+        },
+        {
+          "path": "异星录/正文/第二卷_黑暗断阶/第142章_谁把门又封上.md",
+          "sha256": "f07f40df59d527cc590d1d9f813193cef171940ccfa5e335a76da691d00a73be",
+          "line": 35,
+          "quote": "从早年那次封段，到十年前接上递单线，中间的事他没有亲见。这一栏的中间，空着一大段——他自己在那段空白上划了一道横线，线划得很直。"
+        }
+      ],
+      "required_coordination": "保30年前16岁外段封门／16年前30岁本地爆破／10年前递单三段。174/175不造第二墙龄；187/188如用179，不能把自陈第三孔或同源簿据写成独立已证。未对187/188全文复审。",
+      "blocking_proposal_delivery": false,
+      "applied_by_reviewer": false
+    },
+    {
+      "dependency_id": "B18-XD-02",
+      "topic": "energy_170_181",
+      "owner": "B19/主线程",
+      "observed_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md",
+          "sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+          "line": 27,
+          "quote": "维修债：旁路的料是借的，接头的工是欠的，塔账上添了“主队欠工六班”；泵旧病未除，检修只换了旁件，大修的钱和料还压在账上；两枚芯格合计余零点二格，按一枚满格的容量计两成。戊字一把这笔余量圈上红线：只留应急，再借，塔上也没了。"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第181章_只说亲眼见过的.md",
+          "sha256": "5ee95959177ebedbbd5229281ab1c37d2a515afa7d890ff139c42362c5dd7098",
+          "line": 7,
+          "quote": "复核是辰时在石墙前开的。四方到齐：庚二，戊字一，林渡，外缘见证三人里来了两位。核的账不厚——芯格两枚，一枚满入空出，一枚七成入空出，日耗笔笔对得上耗用表；借表两块，随表附上林栖誊的表数册副本，压力的经年误差、浮子的卡滞点，一页不缺。"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第181章_只说亲眼见过的.md",
+          "sha256": "5ee95959177ebedbbd5229281ab1c37d2a515afa7d890ff139c42362c5dd7098",
+          "line": 5,
+          "quote": "守夜的学徒后半夜换灯芯，换到最后一格——耗用表上的红线他看得懂，可值守房的灯不能黑。他把这一格烧完了，天亮前在表上照实画了一笔，画完去找庚二。庚二看了表没说话，把两枚空壳从灯座里退出来，用布擦净，并排搁在窗台上等天亮。"
+        }
+      ],
+      "required_coordination": "175只用余0.2格短时值守，181保D48实用尽；181需撤逐班账已全部对齐的断言，并区分芯格电量与灯芯燃耗，不补造燃料或0.25耗向。四层巡铺灯另账。",
+      "blocking_proposal_delivery": false,
+      "applied_by_reviewer": false
+    },
+    {
+      "dependency_id": "B18-XD-03",
+      "topic": "first_case_180_182",
+      "owner": "B19/主线程",
+      "observed_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md",
+          "sha256": "ce33355637650c54393c901725212a02a6bc11349240634ab654a90c59e0b92c",
+          "line": 47,
+          "quote": "潮头前最后一个凉时，先前备好的那只抄本匣才装齐了校过的页，等岑野背出坡。"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md",
+          "sha256": "ce33355637650c54393c901725212a02a6bc11349240634ab654a90c59e0b92c",
+          "line": 55,
+          "quote": "坡缝里的水汽漫上来，遮住了往下落脚的板边。他得赶在它糊满缝之前，把头一批纸背出这片坡。"
+        }
+      ],
+      "required_coordination": "已见182改同只备好匣：180D47交岑野保管未出坡；182D48—49校正后首次出坡。不增回程／第二匣。只验接口，不签182通过。",
+      "blocking_proposal_delivery": false,
+      "applied_by_reviewer": false
+    },
+    {
+      "dependency_id": "B18-XD-04",
+      "topic": "copy_count_182",
+      "owner": "B19/主线程",
+      "observed_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md",
+          "sha256": "ce33355637650c54393c901725212a02a6bc11349240634ab654a90c59e0b92c",
+          "line": 39,
+          "quote": "三摊抄的份，原定是四份：站柜一份，塔柜一份，青石层一份，随信使走一份。可纸就那么些——写完账面写抄件，写完抄件写告贴，纸让潮汽吃了边角的还不能用。戊字一清了纸柜：够抄完份的，不够再抄第二遍的。"
+        }
+      ],
+      "required_coordination": "182仍写四份完整套数，须与180既有两套全抄、三处原件/材料保管区分；按现有两套借阅/复读，不增完整副本，不把第二遍复读当第二套。",
+      "blocking_proposal_delivery": false,
+      "applied_by_reviewer": false
+    },
+    {
+      "dependency_id": "B18-XD-05",
+      "topic": "custody_180_185",
+      "owner": "B19/主线程",
+      "observed_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第185章_哪一件先送走.md",
+          "sha256": "fcd3423f306f94e055758c77b83506469c804edd1a52a15a9849c74a94a8c9a5",
+          "line": 19,
+          "quote": "三处原件摊开来排：塔柜里存着执行图原件、门件描图、塔大修单抄页；青石层存着自述、拓片、当班簿页、位置记录、对账笔录、五号签记单；站柜防潮格里有拓片两张、交接单抄件，另有早先存回格内的交接单原单。戊字一先把原单与抄件分指清楚；林岑的自述原件不在这里，还在青石层。哪几件先走？"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第185章_哪一件先送走.md",
+          "sha256": "fcd3423f306f94e055758c77b83506469c804edd1a52a15a9849c74a94a8c9a5",
+          "line": 31,
+          "quote": "定了。原单、自述原件，两件先行；防潮格余下的拓片抄件挪窝，站柜从此不再存证，也不再作碰头处——往后对纸，话头口传，纸不过站。"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B19/第185章_哪一件先送走.md",
+          "sha256": "fcd3423f306f94e055758c77b83506469c804edd1a52a15a9849c74a94a8c9a5",
+          "line": 63,
+          "quote": "清点完，林渡在册子上落了三行：交接单原单由站柜取出，自述原件由青石层取出，两件交年长者送入涵；站柜除名；旧碰头处停用。他重数保管处：塔柜、青石层、涵，仍是三处。青石层只移走自述，其余证物还在原处；站柜那一格已经除名。落完他把笔搁下，望着窗外坡上的汽出了一会儿神。"
+        }
+      ],
+      "required_coordination": "站柜除名、涵加入，仍三处；180新授权分配的工具拓片一/二是既有实物，185称拓片抄件须核同一物，不添抄件。另列交接单抄件、身份对应册原两份的迁存去向；180不倒填原单已回站。",
+      "blocking_proposal_delivery": false,
+      "applied_by_reviewer": false
+    },
+    {
+      "dependency_id": "B18-XD-06",
+      "topic": "population_and_medical",
+      "owner": "B17/B19/B20/主线程",
+      "observed_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B17/第169章_谁先喝这一班.md",
+          "sha256": "9a17b8e16d1c898ce63ac23f2fafa98715ca18c6be711316e77b68898566bcc2",
+          "line": 37,
+          "quote": "他又指着另列的接水处：“居住段两位、维修台那位，还有四层照护位的老陈，既有生活份仍沿各自原来的领水线路走，另栏记。不把这四位塞进四十九项，也不从这一罐半里另扣一份；原有份和新增份，不准合成一笔报。”"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md",
+          "sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+          "line": 43,
+          "quote": "旧序，就是检修前的那个序：外缘按户按旧份。承接受护册暂记的四十九项不是全队人数，如今新增富余按六四分出的份额，上头没批。居住段两位、维修台那位和四层照护位的老陈，既有生活份仍沿原线路另记，却也没有落进旧序的名目里。两笔账都得摆出来：仍在送的水，不等于份额已有了稳妥的批复。"
+        }
+      ],
+      "required_coordination": "统一册条/暂计份，不作精确人口；17儿童保，退班/信使外出不销条，老陈只记位置。178额外半勺无增配依据：两条后置补丁撤额外增量、保阿苗原份内半勺；不与B20半勺合并或互作来源。",
+      "blocking_proposal_delivery": false,
+      "applied_by_reviewer": false
+    },
+    {
+      "dependency_id": "B18-XD-07",
+      "topic": "appointment_170_173",
+      "owner": "主线程",
+      "observed_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md",
+          "sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+          "line": 59,
+          "quote": "账桌当天就把接字落了地：明晚的公开对账，头一项议程就写上——旧序缺名册。五个字，是林渡定的。他说这一项摆出去，上头的复旧序就得先回答一个问题：序上为什么没有这些人。"
+        }
+      ],
+      "required_coordination": "保持170D40明晚对应173D41夜，不随174以后墙龄/运输日次纠错平移。",
+      "blocking_proposal_delivery": false,
+      "applied_by_reviewer": false
+    }
+  ],
+  "context_read": [
+    {
+      "path": "AGENTS.md；skills/alien-serial-harness/SKILL.md；references/editorial.md；harness/maintenance/R006/审读交接规范.md",
+      "range": "用户提供AGENTS全文；技能/交接本轮读取，输出曾截断；不改变首读记录",
+      "phase": "process"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-B18/*.md",
+      "range": "授权建议阶段已逐章完整读171—180基线；续接只复查相关段与内存模拟，178再次定位半勺前后。不声称尚未实施的建议已真实复审",
+      "phase": "proposal_body_read"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第142章_谁把门又封上.md",
+      "range": "17—39行三段时序、左手疤、中间未亲见",
+      "phase": "bounded_source"
+    },
+    {
+      "path": "异星录/00_项目总览/后七卷设定决策与执行约束.md",
+      "range": "19—48行C02，16年前/林岑46、互证限制",
+      "phase": "bounded_source"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "range": "140—155、678—742行A08规划/实录及拟改条目；后章规划不作事实",
+      "phase": "bounded_source"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "range": "306—345行邻接A07/A08；医疗关键词所在265/280/297附近条目。检索偶见后卷不作本批水源/能源依据",
+      "phase": "bounded_source"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "range": "304—351行A08及原有手摇灯条目",
+      "phase": "bounded_source"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "range": "197—220行及171—180相关条目",
+      "phase": "bounded_source"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "range": "F03中142—179相关句、F17到178、A08三项；同一行可见未来句不作当前事实，未读全台账",
+      "phase": "bounded_source"
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md；异星录/02_角色档案/角色圣经.md；异星录/04_连续性管理/术语词典.md",
+      "range": "本轮39—61行技术限制及相关角色年龄、既有词条；其余沿用final2.context_read实际范围，不冒充本轮重读",
+      "phase": "bounded_or_inherited"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md；文风与细节精修规范.md；黄金开篇与持续追读规范.md",
+      "range": "承接已读76—109、13—51/98—115及追读规范；只交补丁，不新增52项通过签名",
+      "phase": "inherited_rules"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-B17/第168—170章",
+      "range": "168的43—51行能源、169的27—41行既有生活份、170的27/43及明晚接口；非整批复审",
+      "phase": "bounded_interface"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-B19/第181、182、185章",
+      "range": "181开篇；182的1—65相关段（合并输出曾截断，另复查39—55）；185存件/三处关键词段。并行修改中依赖引句取封存时字节；未审B19全批",
+      "phase": "bounded_interface"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/final2.json及首读/v1/v2记录",
+      "range": "39问题中18pending编号及旧结论、历史指纹；不以旧报告替代当前读稿",
+      "phase": "historical_reference"
+    }
+  ],
+  "validation": {
+    "date": "2026-11-07",
+    "scope": "应用前exact匹配、历史保护与内存模拟；不是修后验收",
+    "primary_patch_count": 91,
+    "supplemental_patch_count": 2,
+    "issue_coverage": 18,
+    "metadata_diff_count": 46,
+    "cross_batch_dependency_count": 7,
+    "primary_before_unique_nonoverlap_sequential": true,
+    "supplement_after_primary_unique_sequential": true,
+    "metadata_before_unique_nonoverlap_sequential": true,
+    "metadata_source_checks": [
+      {
+        "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+        "source_sha256_matches": true
+      },
+      {
+        "path": "异星录/04_连续性管理/事件与地点时间线.md",
+        "source_sha256_matches": true
+      },
+      {
+        "path": "异星录/04_连续性管理/人物状态台账.md",
+        "source_sha256_matches": true
+      },
+      {
+        "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+        "source_sha256_matches": true
+      },
+      {
+        "path": "异星录/04_连续性管理/资源与时间台账.md",
+        "source_sha256_matches": true
+      }
+    ],
+    "baseline_manuscripts": [
+      {
+        "chapter": 171,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 172,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 173,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 174,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 175,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 176,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 177,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 178,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 179,
+        "sha256_matches": true
+      },
+      {
+        "chapter": 180,
+        "sha256_matches": true
+      }
+    ],
+    "history": [
+      {
+        "path": "harness/maintenance/R006/B18/final2-reading-manifest.json",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/initial.md",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/reader-review2.json",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/initial-validation.json",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/reader-review.json",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/final2.md",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/initial-reader-notes.md",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/final.md",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/suggested-edits.json",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/final2.json",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/final2-body-first-notes.md",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/final.json",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R006/B18/initial.json",
+        "unchanged": true
+      }
+    ],
+    "word_counts": [
+      {
+        "chapter": 171,
+        "baseline_pure_han": 2260,
+        "projected_pure_han": 2342
+      },
+      {
+        "chapter": 172,
+        "baseline_pure_han": 2274,
+        "projected_pure_han": 2420
+      },
+      {
+        "chapter": 173,
+        "baseline_pure_han": 2231,
+        "projected_pure_han": 2313
+      },
+      {
+        "chapter": 174,
+        "baseline_pure_han": 2367,
+        "projected_pure_han": 2432
+      },
+      {
+        "chapter": 175,
+        "baseline_pure_han": 2251,
+        "projected_pure_han": 2435
+      },
+      {
+        "chapter": 176,
+        "baseline_pure_han": 2219,
+        "projected_pure_han": 2425
+      },
+      {
+        "chapter": 177,
+        "baseline_pure_han": 2248,
+        "projected_pure_han": 2308
+      },
+      {
+        "chapter": 178,
+        "baseline_pure_han": 2268,
+        "projected_pure_han": 2499
+      },
+      {
+        "chapter": 179,
+        "baseline_pure_han": 2280,
+        "projected_pure_han": 2403
+      },
+      {
+        "chapter": 180,
+        "baseline_pure_han": 2329,
+        "projected_pure_han": 2751
+      }
+    ],
+    "projected_manuscripts_simulation_only": [
+      {
+        "chapter": 171,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+        "sha256": "9fc4b757ab9ac17bac9b7708c9052455034fd2079fa6bc6fb88122ebc8a819af"
+      },
+      {
+        "chapter": 172,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+        "sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3"
+      },
+      {
+        "chapter": 173,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+        "sha256": "10bf5cd47b9c9364526e11193d915de0a27d094e68cef01e66802905e4114928"
+      },
+      {
+        "chapter": 174,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+        "sha256": "59f2144ebc5da449a1ff6ff62709515ed21dbbc3ecf74bcf693417200acdef1d"
+      },
+      {
+        "chapter": 175,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+        "sha256": "a8dda5c56e99b49b965bfe500ba3b203858a39928beff5fb375c2f7f998d8d2a"
+      },
+      {
+        "chapter": 176,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+        "sha256": "7b09b1325b8543f0ff47fc17d0f69608ef1638ceb73a256f06f54ede9d852d06"
+      },
+      {
+        "chapter": 177,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+        "sha256": "f5e72bc5b1abcfa15bf46c4824419b79db119c82aba9a66d400f16327e3a0306"
+      },
+      {
+        "chapter": 178,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+        "sha256": "372e56120b6b857df8fdd6cc8f930b1bbf4760118f5d76dafd97f2c803850337"
+      },
+      {
+        "chapter": 179,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+        "sha256": "5c13e84dcebeec57d25d1a373ff9793927c5de010d6de0cfb0bc1a6ef36af6ee"
+      },
+      {
+        "chapter": 180,
+        "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+        "sha256": "ba0937d6116324ea8e990614e7965b0f43c3d4f2428a9e9e3aed9109ca95779c"
+      }
+    ],
+    "projected_digest_simulation_only": "75d824bdc0ec3466e3434140c21d609c25befe78be50f2dc2e1be67e26d4b37e",
+    "actual_post_edit_review": false
+  },
+  "summary": {
+    "prose_frozen": true,
+    "primary": 91,
+    "supplemental": 2,
+    "former_pending_issues": 18,
+    "metadata_diffs": 46,
+    "cross_batch_dependencies": 7,
+    "prose_applied_by_reviewer": false,
+    "acceptance_report": false
+  }
+}

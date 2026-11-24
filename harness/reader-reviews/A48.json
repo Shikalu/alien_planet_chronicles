@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "writer": "Codex /root",
+  "reviewer": "Codex /root/review_48",
+  "independent": true,
+  "body_first": true,
+  "profile": "serial",
+  "manuscripts": [
+    {
+      "chapter": 571,
+      "path": "异星录/06_执行计划/工作区/A48/第571章_先下人再下箱.md",
+      "sha256": "dcb8c818a4f63bba75aacdf4d076d5f8d962f182af503cd90497eb0aa6ee9446"
+    },
+    {
+      "chapter": 572,
+      "path": "异星录/06_执行计划/工作区/A48/第572章_让他们看见哪块石头.md",
+      "sha256": "ab0028c206286310ad666b4530383c188c5dfe0b4e5d70d35cbd97b3db2b51de"
+    },
+    {
+      "chapter": 573,
+      "path": "异星录/06_执行计划/工作区/A48/第573章_纸边还有一句.md",
+      "sha256": "ce0fbee4aeceeacbf64b0ec5217a3d29adc34ebc0989cd4c33962ecffcc2f925"
+    },
+    {
+      "chapter": 574,
+      "path": "异星录/06_执行计划/工作区/A48/第574章_那张不肯的纸.md",
+      "sha256": "7800871438876f161080cd2801278082da2c1cd1944ae099a38059bb2321a68a"
+    },
+    {
+      "chapter": 575,
+      "path": "异星录/06_执行计划/工作区/A48/第575章_两边都没有停.md",
+      "sha256": "a3945b07eabd7ed8318c071f44cb1a04e7bef533ba0ce904e6ff7c3c47de04e7"
+    },
+    {
+      "chapter": 576,
+      "path": "异星录/06_执行计划/工作区/A48/第576章_高一块石头.md",
+      "sha256": "f71d40d825f75816749335953c991c74fb37a846c2d6a68ef88e679f840f402d"
+    },
+    {
+      "chapter": 577,
+      "path": "异星录/06_执行计划/工作区/A48/第577章_低处那一格.md",
+      "sha256": "eaaa92eb2684fd53ce65b12ff51b1dcfee0a0de1123ef791b49daa70ac86606b"
+    },
+    {
+      "chapter": 578,
+      "path": "异星录/06_执行计划/工作区/A48/第578章_喊停的人不用离窗.md",
+      "sha256": "e56b6399a27076aeda84a8c1490a08ad4d4c8989774cd8a18f7386584e7f27a1"
+    },
+    {
+      "chapter": 579,
+      "path": "异星录/06_执行计划/工作区/A48/第579章_这一段水先空出来.md",
+      "sha256": "335aa1fb66b300325073372a1fa2df7bbf890c04f3405631c9a01ade81dbab9f"
+    },
+    {
+      "chapter": 580,
+      "path": "异星录/06_执行计划/工作区/A48/第580章_只剩下一凉.md",
+      "sha256": "3483941216ca712a726a07a125cb4d6dc6e5b59ff1280900d600bc0d9f687a8f"
+    }
+  ],
+  "source_digest": "06efbbaa24d0c85b908d3e930b2858b4c3372a619c08206fd149f3d6b7f42f05",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 571,
+      "quote": "西外岩背后，第二船的尾桨刚送出半截，桨尖就让回水推到了船帮上。",
+      "reason": "船一开篇就失去原本可靠的桨位，下一句用箱占路和热水进舷说明负伤的人与物件为何很难一起退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 571,
+      "quote": "“一桨能掉回头吗？”林渡问。",
+      "reason": "他先向最能看水的人问可返回的幅面，肯白耗一个整日在避水处，伤手还在但判断实际改变航程。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 571,
+      "quote": "空罐脚在木板上敲出一个轻响。",
+      "reason": "预封的返程份用到尽头，应急份守住；四个人终于回到可核名的岸岗，纸也有了实接人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 571,
+      "quote": "船首人托他的是左肘。",
+      "reason": "前面有右肩被浪牵住和用干布垫吊带，这个扶法让读者看见船员已经会照他的伤处接人，平安靠岸有具体温度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 571,
+      "quote": "他想先在对面也放一张凳，问那边的人能从哪里听见他们的回话。",
+      "reason": "西边来人有窄权限，空凳逼出另一个可追问的人和送达路径，为次凉证据席留出行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 572,
+      "quote": "纸脚还有浆糊，撕下来一角，剩下的一角露出从上回岸表值守名单抄来的四个名字。",
+      "reason": "新贴的名字被曲荻马上揭下，低阶候令和寻常送壶人相撞，读者立刻想知道谁替谁应了这个险差。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 572,
+      "quote": "“这路得走一趟才算。”林渡说。",
+      "reason": "他先不认桌图，把能报撤、怎么退交给真能下到高栏的人核，放弃方便的低阶，把身体限制变成分工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 572,
+      "quote": "曲荻用剪剩的干纸给外窗起一面公示，先写民间看水的人可在自己当班的站位报退。",
+      "reason": "公开内容从住址姓名和待命变成接问点与自主撤退，东边看不见的站位仍空，有当班才能领现场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 572,
+      "quote": "“报空的时候，我能自己上来。”他说，“照这纸写的候令，我得在低阶等谁？”",
+      "reason": "记时人用上次差点等到退路没掉的经历把拒绝说出口，给后面废掉假排班一个具体人的理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 572,
+      "quote": "他若举布请停，外头搜船的艇会不会让给他一桨的水？",
+      "reason": "新站位可由岸工去核，军艇是否会给实际退水要当班答，两端互证由街巷风险抬到武装令。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 573,
+      "quote": "军需经手把「低口已试」圈起来的时候，货场门外已经有人去找下海的担子。",
+      "reason": "动作先后让局部工况被听成整个站能停的误会马上要伤到挑水人，逼证据席当场纠正。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 573,
+      "quote": "林渡请他加上守轮人若见压力超过白记便自己停，轮边没有收齐消息就继续守原刻。",
+      "reason": "林渡主动让停权先于两边让位写进发件，要求能执行的停止门槛，拒绝用对方政治回话代替站工判断。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 573,
+      "quote": "便沿纸边加写「外海巡艇保留搜索」。",
+      "reason": "先可谈退位，发出前又有清楚落款的搜索保留，收件人将同时得到有条件机会和实际限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 573,
+      "quote": "挑担的人沿高路过来，终于找着肯接下一段的成人，劳烦岸岗等他们一来一回再收这边的梯脚。",
+      "reason": "上一段欠一个换肩人，这里当众补到搭手，水仍能送且人不上低阶，局部协作有即时结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 573,
+      "quote": "那一处轮位果真让得出来，给温筒留的干脚会不会仍在搜索艇前面？",
+      "reason": "条件纸出发、实收还空，读者等东岸能否回答一条供测量者走的退路，林渡把临班问题具体写给岸岗。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 574,
+      "quote": "快艇靠背水阶时，有人把空筐推到低一级，要给从东边回来的人让路。林渡用鞋尖挡住筐底。",
+      "reason": "东岸回话终于到场，报信人来不及坐稳，险湿的低阶让是否可以下去的实际后果与回件同时进场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 574,
+      "quote": "“都送。三层若要公示，一起读。”",
+      "reason": "只抄好消息本可少等半凉，林渡把拒绝与候谈同时交到要决定是否下水的人面前，跨岸信任靠切身条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 574,
+      "quote": "「东线巡行照旧，武装拦查船只照旧。」当班人连这两句一并署读。",
+      "reason": "东边从空栏推进到实收具名范围，但有限让水无法取消拦查，真实边界改变下一轮谈什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 574,
+      "quote": "他收回手，拉着空筐往上挪，没有再把它停到低处。",
+      "reason": "看纸并看脚下石边湿掉的人主动挪筐，读者立即看见公开拒绝保护了谁的脚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 574,
+      "quote": "上面要是只认肯谈的那张，他还得请军需当着搬水的人回答，从这片岸石到那一面白岩，究竟哪条艇肯让开。",
+      "reason": "把缩小的期待交到下一场三层面谈，问题落到执勤的是哪条艇、是否真的肯退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 575,
+      "quote": "等会儿念东岸的拒绝，军需昨日发的那两张护航牌要不要先收起来。",
+      "reason": "窄缝里传来的问话把上一章的纸面拒绝变成能马上失去的本地出船资格，风险随人上坡。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 575,
+      "quote": "军需差已经销了，林渡问他能否自己挑一次合适的凉时，在岸上与守岸人走一遍边线。",
+      "reason": "林渡由既撤的护航中找到懂石脊的人，转成自愿从岸上核安全线，保住民间互助的具体一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 575,
+      "quote": "小艇用一根长篙从外边撑回内桩，在满是水渍的石壁边重新拴好。",
+      "reason": "退牌、退旗有最后一个物证，搜船巡线还在，小艇不再护航，停战破裂确实改变海上能做的事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 575,
+      "quote": "一只药袋改日再送，人的脚现在就得认准。",
+      "reason": "两边拒签的代价落到需要用药和要跑高坡的人，保人先走的结果可接受也让人惋惜。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 575,
+      "quote": "空页能等他们退完了再写，等在站里轮边的人由谁先去喊？",
+      "reason": "岸上有能撤的人，却还没有传到守轮人的有效链，读者马上等下一章拿具体器材和站位补这段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 576,
+      "quote": "“举布的架倒了。有半根横杆还卡在立柱顶的槽里。下面的人想弄出来，怕浪打了再挂住测绳。”",
+      "reason": "接着上一章求传话人的缺口，实体岸架坏了且残件可能伤绳伤人，铁撬的需求一下有风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 576,
+      "quote": "“那块留空。够得着原绳才收，木头等低水再另认。”",
+      "reason": "林渡识出劈开的槽脚会别出柱，拦下现场冒险复架，另向高石借一班供水的位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 576,
+      "quote": "等白布重新展开、守岸人回见，才松手放布。",
+      "reason": "第一轮布角曾被帆遮，换斜线、转船头后出现完整回见，失去的功能在近岸小范围真正恢复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 576,
+      "quote": "两边谁也没为多看一段朝湿处挪脚。",
+      "reason": "试成之后没有向危险脚位多抢一步，读者得到一种之前被迫撤架的人还能完成任务的安全感。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 576,
+      "quote": "还得有人把岸上这张实记送到原来的候位去验。",
+      "reason": "近岸的小成功有空间界限，实际跨水能否看全仍需要出船复验，直接通向577。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 577,
+      "quote": "他手上夹着西线重新填过的放行纸，末尾原先留给护航的地方还空着。",
+      "reason": "护航已经撤成看得见的空格，新的航行还一开始就遇阶水逼节奏，上一章的近岸成功没有消掉远航风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 577,
+      "quote": "他让舵手倒回前一处背风水，沿先前走过的岩背等退。",
+      "reason": "主角用收桨扭力和看不清外沿宽度判断，明知损天光也不让无护航的船拿自己探生水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 577,
+      "quote": "第二船的两名原员继续守西内线，船上候水随船。",
+      "reason": "出岸四人终于抵旧停位，转两人和壶进外层，候水留船，纸里那一格旧低脚也即将有现场见证来源。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 577,
+      "quote": "她把那一处的读数格留空，旁边写了退人的方向，与当班船首在高脚签的站位一样。",
+      "reason": "弥娅没拿过期测脚凑出数据，还留下自己怎么把人撤掉，承接西岸相同伦理而不过度许诺。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 577,
+      "quote": "过了旧测脚仍能叫停的手，站窗究竟能不能看见？",
+      "reason": "空格有具体撤向但没能替当天，剩下的问题变成可试验的窗位视线与停号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 578,
+      "quote": "小工从原窗喊了一声停。头一个回声从壁脚转上来，碰在干案前的石柱上。",
+      "reason": "开篇马上试上一章要问的窗到轮，同时把水声和石柱摆出，读者会继续看叫停能否完整进轮位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 578,
+      "quote": "“最后那截留人退。”林渡说，“温筒可以少一笔。轮边得有空收回来。”",
+      "reason": "可取的末段数据和可退的两次接人冲突，林渡用缺一笔保轮回位与人员退脚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 578,
+      "quote": "林渡贴着柱转身，把话朝白线内送过去，同时举起手叫轮边看见。",
+      "reason": "临窗不能离人，柱边固定转传第一次走通，活轮没动，日后海上来布可实际接这段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 578,
+      "quote": "“我还会喊停。”他把纸折到沿外这一面，“横布到了，我人留在窗口。”",
+      "reason": "曾叫不响的小工明知会被水声压半句，给自己一个不离窗的明确职责，接下来的重报动作兑现承诺。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 578,
+      "quote": "外头准备让出哪片水、东岸的横布能不能真正进原窗，得等下一凉有人到实际的位置给答话。",
+      "reason": "干演证明一截传递，下一步把窄技法放进武装退位和两岸布角的实际条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 579,
+      "quote": "四片桨叶平伸在水上，末端碰着浪便一齐抬一下。",
+      "reason": "军需艇表面停泊，桨仍可推进，目光从艇湿线进石台，对局部答话的风险有可见抓手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 579,
+      "quote": "他请值岗把石台上没有签成的这一条另记，叫明凉来接班的人直接向轮边问。",
+      "reason": "林渡不让军需签约把工班叫停变成请准，把尚无共识的权限如实留给实轮当班。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 579,
+      "quote": "他没在全海面落笔，只有圈外西线一条，并写明班终谁来核。",
+      "reason": "西东都已从候议推进到一凉退线，线的范围和当班核验可追，外海及未实见的水仍不变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 579,
+      "quote": "补网工当日原有的短靠用不到了。",
+      "reason": "几方来回谈判原来会占去具体人的返岩水，前面说到哥哥少个帮手使局部成果带有可感代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 579,
+      "quote": "两处水只空得出下一凉的一截，这些桨明凉肯不肯退过浮记，给第二船空出举布的水？",
+      "reason": "首尾军需艇仍张桨，纸上签了也要先看它是否让过浮记，再等第二船真能举布，下一凉有一个可验证的动作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 580,
+      "quote": "军需给的退线纸才送到干案，窗口的小工便拿来一根削得极细的木签，问明凉水先湿到哪儿算完。",
+      "reason": "刚得一凉就面对水线挪动，两段授权和脚下能不动轮的界限一开篇相碰。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 580,
+      "quote": "船上不能把绳丢给谁就走。",
+      "reason": "林渡要求弥娅来认销以前先有人实际接过温筒和回布，站边能多出一双手也不能以东岩瞎掉为价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 580,
+      "quote": "原系统还留一只可换退水去处的支闸，与两者在图上各走各的一道。",
+      "reason": "除原外排与回流旁支之外出现可换的退向，现场能认旧支闸和远岩图断，动轮的风险从工位抬到居民岸线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 580,
+      "quote": "报停的时候让轮慢下来，已经走出去的水还会往下走。",
+      "reason": "检修人把谁受影响从抽象的路线表变成仍在走的热水，回扣林渡想起坡下带孩子的住户，保住局部停权的意义也有实际限度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 580,
+      "quote": "若东支口的水真的绕向人住的岸，需要让手从这里伸过去以前，听见在那里住过的人亲口说出那条路。",
+      "reason": "从两边当时可退转到谁知道东槽的实际去处，读者接下来有具体对象与须查地段，同时明凉随时会取消。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 575,
+      "quote": "“全停这一件，西岸军需不签。外海巡艇继续搜船，水面的巡线也留。",
+      "reason": "574收到东巡具名拒绝，575西边当面拒绝并实撤护航，兑出承诺的政治答案。576至579保民间回见与站方停权，580留下下一凉一轮的可核条件，尚未对两岸实到或动轮作承诺，下一批用实水实人兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 580,
+      "quote": "手里三道停位写得再齐，有一边叫不回话，大轮便留在原刻。",
+      "reason": "试一档的风险先变为低阶撤名及居民走高路，再变为护航撤回、旧架损坏、只有一凉、武装及观察各守各的退线。本章即使守住站内停限，已出站的水仍会往岸上走，下一篇必须面对承担者和证人。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

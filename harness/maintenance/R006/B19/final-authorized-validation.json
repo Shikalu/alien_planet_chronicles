@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B19",
+  "source_digest": "a6609ff6f0138da45a38aec1b2cac14ffd08dacabd43743346f9d42907b7a062",
+  "verdict": "pass",
+  "reader_validator": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "issue_count": 55,
+  "closed_count": 55,
+  "reader_check_count": 52,
+  "all_current_issue_quotes_valid": true,
+  "all_current_reader_quotes_valid": true,
+  "manuscript_sha_match": true,
+  "han_counts": {
+    "181": 2316,
+    "182": 2336,
+    "183": 2384,
+    "184": 2347,
+    "185": 2540,
+    "186": 2303,
+    "187": 2376,
+    "188": 2403,
+    "189": 2593,
+    "190": 2384
+  },
+  "historical_files_unchanged": true,
+  "latest_055_and_three_wb_exactly_applied": true,
+  "supporting_sources": [
+    {
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "sha256": "5a9f22e501d52ca780a12ef66afa07ab5741befeb38d4cefc059a63ab17cfea8",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-WB/术语与命名表.md",
+      "sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "scope": "R006-B19对应181—190/A09及已授权边界回填；不宣称整库全文重审"
+    }
+  ],
+  "report_sha256": "a4e61602ae80c8328c8c4aa80d48f301590f3325c32dbee41e766098ff4a5421",
+  "reader_sha256": "7ffd840d2e412e637546a846939192e014397f63782c41da63b2a6c28f190fac",
+  "note": "仅校验字节、引文、覆盖和格式；事实/追读判断由独立实际阅读完成。"
+}

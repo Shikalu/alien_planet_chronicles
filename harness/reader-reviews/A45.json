@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root",
+  "reviewer": "/root/reader_a41",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 541,
+      "path": "异星录/06_执行计划/工作区/A45/第541章_水先交给回得去的人.md",
+      "sha256": "d4d213eebbddaa13736ff2e81af52cd973c296134bdf4a273a054518338096c7"
+    },
+    {
+      "chapter": 542,
+      "path": "异星录/06_执行计划/工作区/A45/第542章_从船上减掉一个人.md",
+      "sha256": "ad994df6287e103f09f2a0d7c9756e6ddde5527111c4b48a73929862e070f987"
+    },
+    {
+      "chapter": 543,
+      "path": "异星录/06_执行计划/工作区/A45/第543章_留一格给吹斜的绳.md",
+      "sha256": "37ce08296bd294ccd92b6108e6e562d1a5026f82850151b4cd05bfa9b6a1be11"
+    },
+    {
+      "chapter": 544,
+      "path": "异星录/06_执行计划/工作区/A45/第544章_能走到哪一格.md",
+      "sha256": "b30f736ba820c2a78c0bf953ebca1d0e7ae13fc5f5f0b280d21d1be40335ed71"
+    },
+    {
+      "chapter": 545,
+      "path": "异星录/06_执行计划/工作区/A45/第545章_手轮转了小片才动.md",
+      "sha256": "424fe8508ddf3857e99e4debe544b2eadce59a4d3f705567b062727bca6182e5"
+    },
+    {
+      "chapter": 546,
+      "path": "异星录/06_执行计划/工作区/A45/第546章_暖回来的那一格.md",
+      "sha256": "276d63ac8d2132e86fc49265a251744146067a00efa0ea1cfe15ac20be303f79"
+    },
+    {
+      "chapter": 547,
+      "path": "异星录/06_执行计划/工作区/A45/第547章_石口前的热水.md",
+      "sha256": "55b531a0d361dfd2154f0441b3f3a3e70f1c5651fa48f971a4d423292b06c856"
+    },
+    {
+      "chapter": 548,
+      "path": "异星录/06_执行计划/工作区/A45/第548章_回到原刻也要退.md",
+      "sha256": "33200a9f20a9988b9080b903f40ff30f2b3bd3a1dc6519ebb998c8b22c0cfb2c"
+    },
+    {
+      "chapter": 549,
+      "path": "异星录/06_执行计划/工作区/A45/第549章_原封与副页各有路.md",
+      "sha256": "e950cbc0eed191fb13b2e39d91f08edce17075bd9cc434709127e4de1290975a"
+    },
+    {
+      "chapter": 550,
+      "path": "异星录/06_执行计划/工作区/A45/第550章_凉水流向谁.md",
+      "sha256": "96647c078cf4acf21c92239d56acc36bbf8eadeb9fc21e7291c5e709c89d328c"
+    }
+  ],
+  "source_digest": "00990fd0fbf21df4c9a825219d05b932c28ca640f43213c6fc9bc2f76c8f48c4",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 541,
+      "quote": "没水上船，今凉就走原路回。",
+      "reason": "原日用罐见底，返航水封存，退潮前实补决定合测班能否留下。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 541,
+      "quote": "实在到不了岸表，就先交回联，留原守岸人照旧记数。",
+      "reason": "林渡请祝衡返西亲见，同时把伤腿不能登岸时的任务缩到交件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 541,
+      "quote": "已由东船舵手在原船上认收。",
+      "reason": "东补给有小艇送来的实签，西两罐当场入舱；两条去路都开始能走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 541,
+      "quote": "他们若只肯说凉了，我要问他们看见了哪一次退水。",
+      "reason": "祝衡主动索要复位页，两人分开时互认见证责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 541,
+      "quote": "两个人得在各自的水边等。",
+      "reason": "快艇是否真接祝衡、两条船各能否过水、分开的两人能否用同一落布起刻均有待实见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 542,
+      "quote": "手指在湿布上滑了一下，袋底撞到脚边的木头。",
+      "reason": "夹袋撞板显示湿处伤手造成的后果，过舷还需要接应者能留出一只手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 542,
+      "quote": "林渡请他留在小艇原干位，叫外岩当班报有伤者时由小艇直接接人。",
+      "reason": "不挪用应急包，也不给中继船临时塞物，林渡实际留出一条可执行的救护路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 542,
+      "quote": "站里的工作小艇从铁栏旁来接，只载林渡一人过沟。",
+      "reason": "祝衡实走快艇，林渡实到维修层，第二船退回西内线；三个岗位分开落位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 542,
+      "quote": "他把回船的时刻从最后一级脚湿以前，改到这块石背还能给一只桨折身的时候。",
+      "reason": "船员指出原计画的退水逻辑，林渡接受自己能在窗边待的时间缩短，信任有实际影响。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 542,
+      "quote": "在下一凉报出旗从哪一面落过。",
+      "reason": "人已到外层，却只见桅尖白亮；要看原窗和高桅能否把两端的实见转给轮边。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 543,
+      "quote": "白布只落下半幅，弥娅伸向沙漏的手停在瓶颈旁。",
+      "reason": "半布立即阻断计时动作，唯一正式窗之前必须试成两端共同可见的起刻。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 543,
+      "quote": "她把格留白，在旁边另写“绳受斜涌，深度改”。",
+      "reason": "弥娅舍一格，不以手压斜绳去补一个无法与旧深相比的数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 543,
+      "quote": "凹石下方露出一高一低两个开口，合在一起是外岩的双眼石口。",
+      "reason": "从辨旗推进到能凭碎壳和固定岩认出低眼外流，次凉除了温度还有可回看的物证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 543,
+      "quote": "弥娅把真正同点的那一行读给他听，又念为什么第二行空着。",
+      "reason": "船首人曾想帮着把绳压回，最后和弥娅一起接纳一格空白，留下真实可交给人的一行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 543,
+      "quote": "次凉高桅白布若仍被卷住，两地就连第一行也不能并在一起。",
+      "reason": "试成一次仍受风和退脚限制，下一回又是唯一受许可的活阀轮次。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 544,
+      "quote": "军需经手把两根手指并在标尺上，问能不能多走这么一点。",
+      "reason": "满压刻线旁来人已争幅度，湿阶则给出试验立即可能失去退路的压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 544,
+      "quote": "原签只给一格以内。船位、回旗、压力坏一项，这一下也不做。",
+      "reason": "林渡认粮架欠工，把它留在证据里，守住实际签限和三个能叫停的人身条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 544,
+      "quote": "检修人以手掌从图上沿到号边，给他认确实接向外排的一段。",
+      "reason": "干架和活阀原刻之外，新增可核凿号对应外排侧管和外侧双眼；旁支仍原封。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 544,
+      "quote": "铺在下面的一块干板得拆下来，木钉几根都打弯了。",
+      "reason": "军需经手的急迫有已付的搬粮代价；林渡让他亲看停位，保留对话和损失，不许借料换幅度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 544,
+      "quote": "那双手肯不肯在这根线以前停，得等下一回风过去才看得见。",
+      "reason": "武装艇已经退出，能动的手也确认了。读者可以追问受压小片究竟会走多少。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 545,
+      "quote": "东边还没回。",
+      "reason": "窗边一声逼检修人松手，已经准入的轮次仍能因一个测点不回而空过。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 545,
+      "quote": "这段两处各看自己那股水，轮要守在原刻。",
+      "reason": "林渡压住预先搭力的催促，留共同起刻后没有动阀的首段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 545,
+      "quote": "小片离开原刻的时候，林渡眼前先动的是它下端的一角。",
+      "reason": "实压下先有空程，随后小片确实离线；新实见超过此前的干架演示。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 545,
+      "quote": "回去写一格，借板的人听得明白。你这儿还差一点，纸上怎么写？",
+      "reason": "军需要借料承认的整格，林渡给他两条分开的线和委任人的名字；坚持实数开始付人情代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 545,
+      "quote": "等下一回有谁会先从石棱上抬手。",
+      "reason": "只见轮变，未见水变。下一章必须在筒边看本岸是变凉、回暖还是仍无法取读。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 546,
+      "quote": "一个想要先腾粮位的人叫回了干处。",
+      "reason": "有人意图立刻把待测温度变成低台运粮的新许，脚和布袋占了退棱。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 546,
+      "quote": "祝衡将他的手让开半寸，把守岸人报过的那句话重新念给记时人听。",
+      "reason": "祝衡坚持写实际回温，拒把读数换成水还不烫的说法。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 546,
+      "quote": "按这支筒往前数，比起测前高一格。",
+      "reason": "第三段西岸确实回暖，第四段朝原先刻度回落；两次变化有可核水痕和原绳位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 546,
+      "quote": "说再走一回他自己补第二道坡的工，家里的米先留两碗少舀些。",
+      "reason": "粮主让帮工走高路并自己付钱，送瓶人实挂灰布后姨母照旧走高路，实读和退令同时改变普通人的行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 546,
+      "quote": "另一头回来的纸会带来哪一行，得先让看见它的人把退路走完。",
+      "reason": "西岸只见自己的筒，东岩的实数须等其亲历者退回并送纸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 547,
+      "quote": "外岩石口低的那一眼刚露出边，几片碎壳已经在下面转了半圈。",
+      "reason": "浪反复遮低眼，再加一段潮便可能看不见，碎壳让这个时限对可验信息有影响。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 547,
+      "quote": "这一支先认原处。你往前一步，风急时舵手还要多靠一级。",
+      "reason": "弥娅保同位同深，避免让舵手临时多靠一级去接人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 547,
+      "quote": "玻璃细柱较初测低了一格。",
+      "reason": "东岩第三段与西岸反向；低眼流纹另有收窄，第四段升温和复宽给回读方向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 547,
+      "quote": "只认第三段两眼石口旁的方向和末段接过筒套",
+      "reason": "船首人从想近量到主动认自己看见的，他和弥娅的相互信赖落实在可复问的两笔。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 547,
+      "quote": "等真有人带着自己的纸过水再说。",
+      "reason": "墙后管路与栈城实读仍有缺口，现场不猜；下一章要见站班是否能按实回原刻并送出副证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 548,
+      "quote": "第一下轮回去了，小片还贴在方才停的位置。",
+      "reason": "复位也有空程，轮把动不能保证真回。两只筒的末段必须由站方实报复位去对读。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 548,
+      "quote": "林渡让小工直接报停，没为看低处再留人。",
+      "reason": "先湿的脚给了实停条件，林渡舍掉一格旁支观察，兑现不加试和见湿即撤。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 548,
+      "quote": "杆上的小片沿着固定尺慢慢移，最后端正对着原刻。",
+      "reason": "复位确证后，压差、低口拍水和回卷仍各自出现，安全问题从调阀转到水还在怎么走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 548,
+      "quote": "上工作艇和回第二船应分记。",
+      "reason": "林渡拿着两份副证仍在岩背候，把自己也算作待接；原纸已署后实锁，岸上应能查到留件者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 548,
+      "quote": "现在谁先看到他、谁先收到纸，都得按下一次小艇和船工真把缆递上来再算。",
+      "reason": "湿阶止试已完成，西船回接尚未成立；下一章要等短接水重新实查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 549,
+      "quote": "船首人先举了一只空手，叫林渡别往下面的水走。",
+      "reason": "过夜见船却仍不能从低脚下水，纸和人的返航都取决于能否真正短靠。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 549,
+      "quote": "这一行也得和原来的放在一起。",
+      "reason": "林渡坚持第三短段回温和原来变凉一同公开，接受将损掉原先按低台运粮谈的筹料条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 549,
+      "quote": "当面交祝衡保管到合读完。",
+      "reason": "岸表原页实到三层；站上两份副证与旧停位转来的东岩副页也已经分别实到，可在次凉一案合读。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 549,
+      "quote": "左手按了一下桌边，没把站方的复位行收回。",
+      "reason": "未署半页被跑腿人收走，林渡看着初步损失，仍将本岸不利证据留下。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 549,
+      "quote": "另一头的水是不是同在那阵变，明凉要有人把这些纸完整念过。",
+      "reason": "三份材料已齐却有人来索图，下一章既要验证能否同读，也要决定公示给谁看。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 550,
+      "quote": "军需经手把岸表的那一页翻了过去，朝上留下的只有从外岩带回来的读数。",
+      "reason": "开篇立刻争夺在场的人能看哪一半证据，工程与本岸利益撞在一张桌上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 550,
+      "quote": "林渡将岸表纸转回朝上，叫站在较远处的人来近一步。",
+      "reason": "林渡公开己方回温并留署名，承受随后的两人工和托架撤回。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 550,
+      "quote": "栈城在这处少挨的热，有一股从排口进了外侧的水。",
+      "reason": "小调及复位、两处实读错向后转回、外流水纹收窄复宽和阀后管实物同指局地转热。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 550,
+      "quote": "光说外面凉了，他们还得把瓶抬错地方。",
+      "reason": "送瓶人把拆开告示的后果落在病人和搬运，林渡还是公开两面，另记岸棚缺人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 550,
+      "quote": "找到肯让人留证、也肯一起修那条旁支的人。",
+      "reason": "武装艇尚在外水却已有人询问换守和原记，下一步明确须护住真实留件人和找来能查修旁支的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 550,
+      "quote": "阀往小收，栈城岸表回暖，东岩温筒低一格，低眼外流也收窄。退回原位，两处温线往回走，外流又展宽。",
+      "reason": "送药跑通两端、首次温变错向、找到旧阀和受损旁支、两边只签一轮，至此换到有压小调和两地同轮可逆的局部转热证据。林渡公开本岸不利地回温，岸棚接药、粮主多走和撤援共同兑现第五十章的代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 550,
+      "quote": "再来一班想搬走的若不只是图，还有那张能查到轮边是哪只手的原记",
+      "reason": "实补、分船后先在半布和斜绳上失去一格，再面对实际止位、两处相反的读数、复位回卷、低级先湿即停。公开又有实撤的托架和人，以及对站口和原记持者的追问，危险随选择从航水转到现场维护者。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

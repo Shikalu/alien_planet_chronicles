@@ -1,0 +1,879 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R008-B28",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+  "independent": true,
+  "body_first": true,
+  "body_first_evidence": "harness/maintenance/R008/B28/recovery-body-first.md",
+  "process_disclosure": "首轮先裸读271—280后查资料；141处应用后的十章曾逐章实际审读。本轮实际完整重读改后280并读279白日替班/夜照护/末尾报话、281D145新楔及282伤腿承接；逐个SHA核271—279与pre-night-fix同字节，沿用本人对这九章的实际全读，不谎称本轮再全读九章。52项逐项重验原句及理由，280开篇重新判断。原模拟、旧失败与撤回记录保留；未编辑正文或候选。",
+  "manuscripts": [
+    {
+      "chapter": 271,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+    },
+    {
+      "chapter": 272,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+    },
+    {
+      "chapter": 273,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+    },
+    {
+      "chapter": 274,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+    },
+    {
+      "chapter": 275,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+    },
+    {
+      "chapter": 276,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+    },
+    {
+      "chapter": 277,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+    },
+    {
+      "chapter": 278,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+    },
+    {
+      "chapter": 279,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+    },
+    {
+      "chapter": 280,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+    }
+  ],
+  "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 271,
+      "quote": "老陈说的那一天到了。撑头底下那两片楔子得换新的。",
+      "reason": "旧章短撑的代价到期，第一句就提出今日必须换楔，压力不是重新介绍世界。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 271,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+        "line": 3,
+        "quote": "老陈说的那一天到了。撑头底下那两片楔子得换新的。",
+        "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 271,
+      "quote": "他没把两片旧楔一齐抽走。新楔先抵住压扁的那片，旧楔退一点，新楔便跟进一点，另一片仍留在撑头下。撑头轻轻一抖，原先渗过木油的缝沿又泛起一线油光，他立刻停手，等撑头不再下沉才继续。头一片到位后，他再照着换第二片；敲到第三下，进去半寸，楔尾不再往外滑。他停了锤，没把手贴上受热的板面。",
+      "reason": "选择逐片退旧跟新，用现有两楔承担受力；停手等撑头稳定使判断有行动和危险边界。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 271,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+        "line": 21,
+        "quote": "他没把两片旧楔一齐抽走。新楔先抵住压扁的那片，旧楔退一点，新楔便跟进一点，另一片仍留在撑头下。撑头轻轻一抖，原先渗过木油的缝沿又泛起一线油光，他立刻停手，等撑头不再下沉才继续。头一片到位后，他再照着换第二片；敲到第三下，进去半寸，楔尾不再往外滑。他停了锤，没把手贴上受热的板面。",
+        "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 271,
+      "quote": "“换就换。”阿九把锤子挂回腰上，“算上今天这副，不动棚顶的预留料，还能换到第二副。第三副就得动棚顶那两处的份。”",
+      "reason": "今天第一副、第二副尚不动棚顶、第三副将侵占预留，修好眼前板也明确减少以后可选资源。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 271,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+        "line": 27,
+        "quote": "“换就换。”阿九把锤子挂回腰上，“算上今天这副，不动棚顶的预留料，还能换到第二副。第三副就得动棚顶那两处的份。”",
+        "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 271,
+      "quote": "“哪天那边要销号，你先来告诉我。”林渡说，“你母亲还在这儿，我得拿她的病份单去问，不能让柜上的一个销字把人盖过去。”",
+      "reason": "邵萍怕母亲被一个销号抹掉；林渡承诺拿病份单去问而非保证制止，给予可兑现的人物支持。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 271,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+        "line": 45,
+        "quote": "“哪天那边要销号，你先来告诉我。”林渡说，“你母亲还在这儿，我得拿她的病份单去问，不能让柜上的一个销字把人盖过去。”",
+        "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 271,
+      "quote": "“那就去问。”林渡说，“车走哪一截板道，箱归哪一室签，总有个地方记着。”",
+      "reason": "灯尚不能认成船，人物不再只记灯，而决定借交账追问箱签收在哪一室；272会兑现问签。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 271,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+        "line": 143,
+        "quote": "“那就去问。”林渡说，“车走哪一截板道，箱归哪一室签，总有个地方记着。”",
+        "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 272,
+      "quote": "这一段坡他来回走得熟了。半坡的水汽没有了，坡面干出一层白印子；坡腰的守数换了纸，页头写着“辰时”，照旧只记班内人。他把名字报上去，守数的记下，笔尖在“过路”那一格停了停，还是没填。",
+      "reason": "熟路上的过路格仍空，陈旧门槛和本次问签目标接上271，不靠新险情重启。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 272,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+        "line": 5,
+        "quote": "这一段坡他来回走得熟了。半坡的水汽没有了，坡面干出一层白印子；坡腰的守数换了纸，页头写着“辰时”，照旧只记班内人。他把名字报上去，守数的记下，笔尖在“过路”那一格停了停，还是没填。",
+        "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 272,
+      "quote": "写到第三行，他停了停。呈请里没有写迟信，没有写弥娅，没有写外库缺的那两页。他把这三样从纸面上撇开，只留下车次、签、件数。",
+      "reason": "林渡主动让呈请只问箱，不暴露迟信、弥娅与外库；风险选择落在实际文书上。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 272,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+        "line": 83,
+        "quote": "写到第三行，他停了停。呈请里没有写迟信，没有写弥娅，没有写外库缺的那两页。他把这三样从纸面上撇开，只留下车次、签、件数。",
+        "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 272,
+      "quote": "呈请由丁字三带上坡。晌午后他回来，把受理回条交给林渡：呈请已受理，压在柜上，等仓单室那边回。受理的凭条半日便到了，仓单室的答复还没有。林渡没有多问，把回条夹进册子里。",
+      "reason": "半日受理回条真正交到手里而实质答复仍缺，得到一小步制度响应，不误写已找到箱路。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 272,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+        "line": 95,
+        "quote": "呈请由丁字三带上坡。晌午后他回来，把受理回条交给林渡：呈请已受理，压在柜上，等仓单室那边回。受理的凭条半日便到了，仓单室的答复还没有。林渡没有多问，把回条夹进册子里。",
+        "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 272,
+      "quote": "祝衡把稿子看了一遍，没有说话，提笔在下面添了两个字：见证。他把自己的名字签上，戊字一记了日子和时辰。封蜡从匣里取出来，点了，只点一件。",
+      "reason": "祝衡具名作见证且实际耗一件封蜡，把个人试问变成同伴共同担责，关系有可感知回报。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 272,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+        "line": 89,
+        "quote": "祝衡把稿子看了一遍，没有说话，提笔在下面添了两个字：见证。他把自己的名字签上，戊字一记了日子和时辰。封蜡从匣里取出来，点了，只点一件。",
+        "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 272,
+      "quote": "天亮后，阿九就要上坡送料。先进那个收签口的，是他。",
+      "reason": "送料人阿九明早先到收签口，限制和姓名同时锁定下一场行动，273不是平空换人。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 272,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+        "line": 143,
+        "quote": "天亮后，阿九就要上坡送料。先进那个收签口的，是他。",
+        "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 273,
+      "quote": "阿九把两捆旧板码上车，天刚亮。",
+      "reason": "天刚亮便装车出发，接272约定；伤腿与上坡装料紧随其后，行动开场不重复列待办。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 273,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+        "line": 3,
+        "quote": "阿九把两捆旧板码上车，天刚亮。",
+        "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 273,
+      "quote": "“去。”阿九说，“可那道口子上的人认脸。这回是我，下回还是我，两回他就不看条了，看我。”",
+      "reason": "阿九知道再去会被认脸仍答去，危险源从抽象门禁落到这个具体搬运工身上。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 273,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+        "line": 147,
+        "quote": "“去。”阿九说，“可那道口子上的人认脸。这回是我，下回还是我，两回他就不看条了，看我。”",
+        "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 273,
+      "quote": "两轮车推到口子边停下。收货的人拿起记数板，念了一只箱上的号，护卫跟着念一遍，两个人一人看一只箱；看完了，收货的人把木牌从箱上取下来，压在板子底下，另拿一块空牌挂回去。取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。",
+      "reason": "亲见验数、撬钉牌、换空牌而不解捆箱绳，给前两章的问签一项具体现场兑现。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 273,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+        "line": 53,
+        "quote": "两轮车推到口子边停下。收货的人拿起记数板，念了一只箱上的号，护卫跟着念一遍，两个人一人看一只箱；看完了，收货的人把木牌从箱上取下来，压在板子底下，另拿一块空牌挂回去。取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。",
+        "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 273,
+      "quote": "“看你就会记住你。”林渡说，“这回没碰签、没进室，也不能算没事。下回还得先报送料的条；问到我让你看的这些，我来认。”",
+      "reason": "林渡承认认脸会有风险并承担自己让看的部分，没有用多一张脸就安全来安慰；保护关系向担责推进。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 273,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+        "line": 149,
+        "quote": "“看你就会记住你。”林渡说，“这回没碰签、没进室，也不能算没事。下回还得先报送料的条；问到我让你看的这些，我来认。”",
+        "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 273,
+      "quote": "“往坡上。”阿九说，“顺着一道宽坡上去，坡口立着杆，有人记数。那坡我上不去，送料的到口子为止。”",
+      "reason": "只看见运箱上宽坡，自己止于口子；可追问坡的去向和签号而不是要求人物越权闯入。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 273,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+        "line": 137,
+        "quote": "“往坡上。”阿九说，“顺着一道宽坡上去，坡口立着杆，有人记数。那坡我上不去，送料的到口子为止。”",
+        "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 274,
+      "quote": "旬头这天，五层值桌比平时早开一个时辰。",
+      "reason": "旬头值桌早开，账与等候的人到同一时点，旧欠不是背景而是今日仍要面对的压力。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 274,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+        "line": 3,
+        "quote": "旬头这天，五层值桌比平时早开一个时辰。",
+        "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 274,
+      "quote": "“先不另领。”林渡说，“用过的布照旧洗晒轮换，洗布的水也记在照护用量里，不把这两天算成白撑过去。”",
+      "reason": "不另领布的选择仍须洗晒与记水，不把节省写成凭空无耗；资源决策具体。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 274,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+        "line": 45,
+        "quote": "“先不另领。”林渡说，“用过的布照旧洗晒轮换，洗布的水也记在照护用量里，不把这两天算成白撑过去。”",
+        "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 274,
+      "quote": "“能说明去年冬月已有这种排法、这种印。”林渡说，“不能说明眼下这批箱子那时就在走，更不能把两段路接起来。这张纸先按它自己的日期留着。”",
+      "reason": "冬月纸把相似排法与印推到一个更早端点，但不填断路，线索新增而证据强度受限。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 274,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+        "line": 83,
+        "quote": "“能说明去年冬月已有这种排法、这种印。”林渡说，“不能说明眼下这批箱子那时就在走，更不能把两段路接起来。这张纸先按它自己的日期留着。”",
+        "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 274,
+      "quote": "林渡把这话记在页边。麦穗中午来报：靠海侧那块凝水布收不上，今天又少了一格底水，布面上一层盐霜比昨天厚。她把半格从自己的份里让出来，先补进照护用水；五个卧床的前半夜、后半夜各翻一回，不能因为凝水少了就少照应一轮。这半格仍是她自己的份，不是收回了那一格底水。",
+      "reason": "麦穗拿自己的半格补照护，仍填不满少掉的一格；五个卧床的两轮照护不省，温度来自真实让渡。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 274,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+        "line": 37,
+        "quote": "林渡把这话记在页边。麦穗中午来报：靠海侧那块凝水布收不上，今天又少了一格底水，布面上一层盐霜比昨天厚。她把半格从自己的份里让出来，先补进照护用水；五个卧床的前半夜、后半夜各翻一回，不能因为凝水少了就少照应一轮。这半格仍是她自己的份，不是收回了那一格底水。",
+        "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 274,
+      "quote": "“差的这一截没对上，还不能说这条线没断。”林渡说，“得找中间的账，看有没有第二张纸——不是这一张，也不是阿九画的那一张。”",
+      "reason": "端点之间缺的账转为下一张应找的纸，不以缺证说线路不断；275继续比现有纸的号与印。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 274,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+        "line": 133,
+        "quote": "“差的这一截没对上，还不能说这条线没断。”林渡说，“得找中间的账，看有没有第二张纸——不是这一张，也不是阿九画的那一张。”",
+        "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 275,
+      "quote": "第二天一早，林渡把三张纸并排摆在账桌上。",
+      "reason": "将三张已得纸并排，兑现前两章累计证据的比对期待；不是另起一条新谜。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 275,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+        "line": 3,
+        "quote": "第二天一早，林渡把三张纸并排摆在账桌上。",
+        "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 275,
+      "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。",
+      "reason": "主角愿意把补条写窄，只报看清的残数与一车四只，不把想要的同批写上去；此选择会减少舆论便利。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 275,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+        "line": 95,
+        "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。",
+        "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 275,
+      "quote": "“先沿阿九亲眼看见的这一小段查。”林渡说，“六层靠海侧，收签口验箱、换挂签，随后车上转运坡。只有这一段相接。枪件从前怎么进来、北边的车怎么走到这里，纸上都还没有。”",
+      "reason": "确实获得本地收签口验箱—换签—上转运坡这一小段，其他两头未接；是局部路径推进而非原地全未知。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 275,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+        "line": 83,
+        "quote": "“先沿阿九亲眼看见的这一小段查。”林渡说，“六层靠海侧，收签口验箱、换挂签，随后车上转运坡。只有这一段相接。枪件从前怎么进来、北边的车怎么走到这里，纸上都还没有。”",
+        "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 275,
+      "quote": "“连两头都没接上。”戊字一说，“枪件和箱签的印、数又偏偏相像，这才叫人放不下。”",
+      "reason": "同伴直说印数相像使人放不下，把不能结案后的读者失落转成共享疑问；本章不给破案大回报，局部实得在83段，277—278兑现退回纸件。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 275,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+        "line": 137,
+        "quote": "“连两头都没接上。”戊字一说，“枪件和箱签的印、数又偏偏相像，这才叫人放不下。”",
+        "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 275,
+      "quote": "他把纸放回册子，向阿九说：“下回送料拿回的条，正反面都留好，照旧交料场销账，别当废纸丢了。我们上不了那道坡，先看从口子退回来的条。”",
+      "reason": "从无权限跟坡转向下趟真实会拿回的送料条，并要求保全正背面；行动钩子明确，非仅两处留空。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 275,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+        "line": 147,
+        "quote": "他把纸放回册子，向阿九说：“下回送料拿回的条，正反面都留好，照旧交料场销账，别当废纸丢了。我们上不了那道坡，先看从口子退回来的条。”",
+        "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 276,
+      "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。",
+      "reason": "迟信再次到来，离队与首信的六日关系明确；读者关心的是她此次看见什么及这条传递线的风险。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 276,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+        "line": 13,
+        "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。",
+        "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 276,
+      "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”",
+      "reason": "选择匿名摘数而保留原信、自己担核对责任，不沿送信者追人；保护同伴和保存证据同时成为行动。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 276,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+        "line": 91,
+        "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”",
+        "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 276,
+      "quote": "“车次都是三趟，残数的范围也重了。”林渡说，“两边各自看到这些，值得接着查；可不是同一时刻盯着同一辆车数，不能说货已经从那头数到了这头。”",
+      "reason": "北边残数范围和三趟车与本地相似，新增第二观察端但不能拼成同车路；改变追问方向而不伪造互证。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 276,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+        "line": 71,
+        "quote": "“车次都是三趟，残数的范围也重了。”林渡说，“两边各自看到这些，值得接着查；可不是同一时刻盯着同一辆车数，不能说货已经从那头数到了这头。”",
+        "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 276,
+      "quote": "“不问。”林渡说，“问了，就是拿这一条线去换一句话。这封信只能告诉我她写下这些时还看见了车；纸走到我手里，她此刻在哪儿，谁也不能替她说。”",
+      "reason": "不追问她现在哪里，不假称来信等于安全；信任的回报来自尊重离队选择，迟信只保留写时的所见。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 276,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+        "line": 99,
+        "quote": "“不问。”林渡说，“问了，就是拿这一条线去换一句话。这封信只能告诉我她写下这些时还看见了车；纸走到我手里，她此刻在哪儿，谁也不能替她说。”",
+        "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 276,
+      "quote": "“两张脸，他可能都记住。”林渡说，“这一趟我去，问料账的话由我开口。不能次次只让你一个人挨他的问。”",
+      "reason": "林渡明知两张脸都可能被记住仍亲跟下一趟、自己开口，下一章收签口的风险由两人共同承担。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 276,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+        "line": 127,
+        "quote": "“两张脸，他可能都记住。”林渡说，“这一趟我去，问料账的话由我开口。不能次次只让你一个人挨他的问。”",
+        "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 277,
+      "quote": "独轮车走坡，两个人扶着稳。阿九在前头掌把，林渡在侧面用左手顶住车帮，右臂吊在布条里，一路晃着。走到坡腰，守数的照例拦下，看过料场的条，往板头扫一眼，放行。过路那一格还是空着。",
+      "reason": "吊右臂者左手扶车、伤腿者掌把并过守数，接276主动跟班承诺且没有伤势瞬间消失。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 277,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+        "line": 5,
+        "quote": "独轮车走坡，两个人扶着稳。阿九在前头掌把，林渡在侧面用左手顶住车帮，右臂吊在布条里，一路晃着。走到坡腰，守数的照例拦下，看过料场的条，往板头扫一眼，放行。过路那一格还是空着。",
+        "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 277,
+      "quote": "“到口子为止。”林渡说。",
+      "reason": "当面承认只到口子，查验退回条而不越界动册；限制具体影响这次选择，不是空泛自律。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 277,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+        "line": 59,
+        "quote": "“到口子为止。”林渡说。",
+        "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 277,
+      "quote": "纸拎起来那一下，林渡看见了纸背：几行旧字横着排，一行一行，看着是名，后面跟着数。他只来得及看见三行，其中两个字的笔画稍清，一个能认作姓，另一个仍认不出。",
+      "reason": "真正瞥见散页三行名字且只认一姓，物资调查首次得到可再认的人名字形。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 277,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+        "line": 21,
+        "quote": "纸拎起来那一下，林渡看见了纸背：几行旧字横着排，一行一行，看着是名，后面跟着数。他只来得及看见三行，其中两个字的笔画稍清，一个能认作姓，另一个仍认不出。",
+        "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 277,
+      "quote": "“等料场送条来对账，就请祝衡翻背面。”林渡说，“我在门口只认出一个姓，不能当作认出了人。若背面还留着能辨的字，先核那几个字。”",
+      "reason": "把有限的一姓交给祝衡在料场回条上继续认，给群像各自的经验以作用；完整认亲的回报延至278，本章先交付可执行协作。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 277,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+        "line": 119,
+        "quote": "“等料场送条来对账，就请祝衡翻背面。”林渡说，“我在门口只认出一个姓，不能当作认出了人。若背面还留着能辨的字，先核那几个字。”",
+        "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 277,
+      "quote": "“料场的条送来，先把销旧板十八根那一张找出来。”他对祝衡说，“正面的料账照对，背面的字也请你认一认。人若能从那半张纸上对出一点，就从那一点问，别替整本册子说话。”",
+      "reason": "点名销十八根旧板那张条、先对正账再认背字，下一步对象精确，278开篇立即承接。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 277,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+        "line": 139,
+        "quote": "“料场的条送来，先把销旧板十八根那一张找出来。”他对祝衡说，“正面的料账照对，背面的字也请你认一认。人若能从那半张纸上对出一点，就从那一点问，别替整本册子说话。”",
+        "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 278,
+      "quote": "旧纸翻面作收条，他做账时常见。可这回背面留下的不是一笔废数：三行名字还跟着数，其中一行划过。若按平时的做法只对正面，把条捆回去，那几行名就会再随料账转走；若直接抄进站册，原来是做什么用的，又还不知道。",
+      "reason": "常规销账会让背面名字再流走，直接进站册又证据不足；首次阅读能理解为什么今日这张废纸必须另处置。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 278,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+        "line": 29,
+        "quote": "旧纸翻面作收条，他做账时常见。可这回背面留下的不是一笔废数：三行名字还跟着数，其中一行划过。若按平时的做法只对正面，把条捆回去，那几行名就会再随料账转走；若直接抄进站册，原来是做什么用的，又还不知道。",
+        "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 278,
+      "quote": "“说定了。”祝衡说，“我写一张小纸，只抄认得清的两行，糊的那一行先不抄。纸条上只露出各家要核的那一行，看完收回；这两行给对应的人家看完，就在这里扔进灶里烧掉，不留这张抄页。原收条要留下，两面都不能毁。”",
+      "reason": "不贴整页，遮住别家只让各看自己那行，烧临时抄页而留原条两面，选择付出更慢核认的代价。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 278,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+        "line": 89,
+        "quote": "“说定了。”祝衡说，“我写一张小纸，只抄认得清的两行，糊的那一行先不抄。纸条上只露出各家要核的那一行，看完收回；这两行给对应的人家看完，就在这里扔进灶里烧掉，不留这张抄页。原收条要留下，两面都不能毁。”",
+        "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 278,
+      "quote": "第二个来问的站到桌边，祝衡遮住先前那一行，只让他看另一行。第二家也认出了自家的名，追问去处，得到的仍是同一句：名能认，人在哪里还不知道。",
+      "reason": "第二家也认出自家名字，三行中两行有家属核认已真实发生；仍不知道人的去处，不抹掉这一小步。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 278,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+        "line": 131,
+        "quote": "第二个来问的站到桌边，祝衡遮住先前那一行，只让他看另一行。第二家也认出了自家的名，追问去处，得到的仍是同一句：名能认，人在哪里还不知道。",
+        "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 278,
+      "quote": "“半页，也比没有强。”他说，“这些年，连半页都没有。”",
+      "reason": "多年连半页也没有的亲属承认这半页有用，是本篇最清楚的克制情绪兑现；名字不是一串冷数。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 278,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+        "line": 123,
+        "quote": "“半页，也比没有强。”他说，“这些年，连半页都没有。”",
+        "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 278,
+      "quote": "“名单若有一天能贴，我先认我核过的那部分。”他说，“可不能只因为凑成整张，就把人家的名挂出去。先把人和去处核明白，再问这些人家肯不肯；没有做到，纸再整也先收着。”",
+      "reason": "完整纸不自动换来公布权，还要核人与去处、问家属意愿；下一章老崔的亲历证词将把核人需求推得更近。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 278,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+        "line": 149,
+        "quote": "“名单若有一天能贴，我先认我核过的那部分。”他说，“可不能只因为凑成整张，就把人家的名挂出去。先把人和去处核明白，再问这些人家肯不肯；没有做到，纸再整也先收着。”",
+        "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 279,
+      "quote": "“那张纸上写着什么。”林渡问。",
+      "reason": "面对新证人先问纸上写了什么而不预知他的经历，读者随对话进入一个具体妹妹的失联。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 279,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+        "line": 25,
+        "quote": "“那张纸上写着什么。”林渡问。",
+        "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 279,
+      "quote": "要过坡，得有人保。林渡没有让老崔一个人去。他把护送占的半天记在自己名下：这半天不能留在照护那边搭手，白日擦洗、照看的活便少一双手。五个卧床的夜里仍排三班，前半夜、后半夜各翻一回，不把其中一班撤去顶这一趟。搬运那头，他让阿九顶老崔原来那一班，老崔这一班算支路出，记在账上。",
+      "reason": "林渡亲自护送，以白日照护少半天和阿九替搬运班付账，不偷换后半夜照护来制造免费正义。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 279,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+        "line": 77,
+        "quote": "要过坡，得有人保。林渡没有让老崔一个人去。他把护送占的半天记在自己名下：这半天不能留在照护那边搭手，白日擦洗、照看的活便少一双手。五个卧床的夜里仍排三班，前半夜、后半夜各翻一回，不把其中一班撤去顶这一趟。搬运那头，他让阿九顶老崔原来那一班，老崔这一班算支路出，记在账上。",
+        "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 279,
+      "quote": "原工把纸写完，念了一遍给老崔听。老崔不会写字，听完确认是自己说的，便自己蘸印泥按了印。原工把半张纸撕给他。",
+      "reason": "老崔听回读后亲自按印并拿到条，口述变成可持有文书，证词仍非妹妹去向证明。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 279,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+        "line": 119,
+        "quote": "原工把纸写完，念了一遍给老崔听。老崔不会写字，听完确认是自己说的，便自己蘸印泥按了印。原工把半张纸撕给他。",
+        "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 279,
+      "quote": "“条上写的是一句话。”老崔说，“不是我妹妹。”",
+      "reason": "条上是自己的话而不是妹妹，刺破把留条当团圆的方便回报；仍承认此行让话落纸，情绪有重量。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 279,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+        "line": 143,
+        "quote": "“条上写的是一句话。”老崔说，“不是我妹妹。”",
+        "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 279,
+      "quote": "“那个人还在外头。”阿九说，“坡口那根柱子后头，站着一个。我上去一班，他就在；我下来，他还在。”",
+      "reason": "过坡后柱后人仍在，证人风险没有随回棚消失；280必须处理白班保护与核证来源安全。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 279,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+        "line": 165,
+        "quote": "“那个人还在外头。”阿九说，“坡口那根柱子后头，站着一个。我上去一班，他就在；我下来，他还在。”",
+        "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 280,
+      "quote": "天亮以前，原班守岗的人捎回了坡口的消息。阿九坐在桌边，把话转述给林渡。",
+      "reason": "天亮前坡口仍被人看守的消息到桌，承接279证人暴露压力；开头明确原班守岗者是目击来源、阿九只转述，后文高矮换人和看车细节沿同一来源，不取消既有免夜。危机保留而非用恢复夜巡制造开场。",
+      "verdict": "pass",
+      "previous_reason": "夜里看车者仍在，阿九只报所见不替对方读心；外部风险承接279而非突然新敌。",
+      "issue_ids": [
+        "RB28-N18"
+      ],
+      "evidence": {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "line": 3,
+        "quote": "天亮以前，原班守岗的人捎回了坡口的消息。阿九坐在桌边，把话转述给林渡。",
+        "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+      },
+      "recheck_method": "actual_ch280_reread"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 280,
+      "quote": "“这一句我加一条。”祝衡把左手从册页上抬起来，抬得慢，“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”",
+      "reason": "两栏都不对外，同时保留原收条、原信、家属核认与老崔证词各自来历，整理是一项有责任人的保护选择。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "line": 103,
+        "quote": "“这一句我加一条。”祝衡把左手从册页上抬起来，抬得慢，“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”",
+        "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+      },
+      "recheck_method": "actual_ch280_reread"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 280,
+      "quote": "“先列我们现在能见到、接下来要逐户核的人。”林渡说，“值桌三栏、次批五户十一口、同址那两户，照原先的自报、见证、待核状态来，不一笔改成核清。老崔人在这里；他妹妹不在，只有他的证词，留在作证那一项，不写成留下的人。”",
+      "reason": "整理不是核人全成：原三栏状态及已认的两家仍保留，老崔本人和失联妹妹分开，下一步从首个待核号取旁证。归类段落偏慢，但确立可执行顺序，并没有把全章退成毫无进展。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "line": 85,
+        "quote": "“先列我们现在能见到、接下来要逐户核的人。”林渡说，“值桌三栏、次批五户十一口、同址那两户，照原先的自报、见证、待核状态来，不一笔改成核清。老崔人在这里；他妹妹不在，只有他的证词，留在作证那一项，不写成留下的人。”",
+        "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+      },
+      "recheck_method": "actual_ch280_reread"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 280,
+      "quote": "“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”",
+      "reason": "仍肯定两家真实认名，不因谨慎又把亲属的小回报抹成毫无线索；人物获得的是名字而非虚假撤离保证。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "line": 79,
+        "quote": "“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”",
+        "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+      },
+      "recheck_method": "actual_ch280_reread"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 280,
+      "quote": "他翻开册子，把明天要核的头一家写在页头上：是待核那三栏里的第一个号，自报在前，见证在后，还差一份旁证。",
+      "reason": "明日首个待核号缺的旁证已经写在页头；结尾“今天我们记到第五趟了”仍施加运箱继续的时间压力。61—103行多次限定使读速放慢，但两家认名未撤销、保存来源的责任与下一户行动均具体，尚不足判定解释压住剧情。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "line": 139,
+        "quote": "他翻开册子，把明天要核的头一家写在页头上：是待核那三栏里的第一个号，自报在前，见证在后，还差一份旁证。",
+        "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+      },
+      "recheck_method": "actual_ch280_reread"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 278,
+      "quote": "“半页，也比没有强。”他说，“这些年，连半页都没有。”",
+      "reason": "271—272承诺追查签收所在，273兑现现场工序，275只接成当地短段，277—278从退回料条得到两家私认，279让证人留条；并未兑现整条武器/撤离链。局部人名回报与280接续核户足以支撑这一篇，不能在回填中补成已破全案。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 278,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+        "line": 123,
+        "quote": "“半页，也比没有强。”他说，“这些年，连半页都没有。”",
+        "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 279,
+      "quote": "林渡没有接这个。回到料场，他把这一趟记在班账上：照护匀出半天，阿九顶班一班，护送达一人。照护少掉的半天没有凭空补回来，白日没做完的擦洗还压着。杜姨接着赶这部分活，夜里三班却仍照原排法轮下去：五个卧床的前半夜各翻一次，后半夜再各翻一次，十回分在原来的两个时段，不能连着做完就销掉后半夜。她没多话，只把布卷又多领了半卷，记在这一趟护送的照护亏项下面。",
+      "reason": "从271楔料、272具名呈请与封蜡，到273认脸、276共同露面，再到279护送挤压白日照护和额外半卷，280保护证人、分存来源，升级的是人员暴露与稀缺工时，不是重复加神秘名词。夜间照护仍按间隔存在，所以代价未被方便化。",
+      "verdict": "pass",
+      "evidence": {
+        "chapter": 279,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+        "line": 145,
+        "quote": "林渡没有接这个。回到料场，他把这一趟记在班账上：照护匀出半天，阿九顶班一班，护送达一人。照护少掉的半天没有凭空补回来，白日没做完的擦洗还压着。杜姨接着赶这部分活，夜里三班却仍照原排法轮下去：五个卧床的前半夜各翻一次，后半夜再各翻一次，十回分在原来的两个时段，不能连着做完就销掉后半夜。她没多话，只把布卷又多领了半卷，记在这一趟护送的照护亏项下面。",
+        "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+      },
+      "recheck_method": "prior_actual_full_read_retained_after_unchanged_sha_and_quote_recheck"
+    }
+  ],
+  "verdict": "pass",
+  "limitations": [
+    "仅271—280五项逐章及两项篇章，共52项；非全书或前三章验收。",
+    "271—279本轮核字节未变并重验判断，不把脚本命中当首次阅读；280实际完整重读。",
+    "275、277、280存在说明密度，明确接受其轻微读速代价，不机械按不能/未知词频判定。",
+    "本正文追读通过不表示revision3候选通过；A18及R008相关摘要另有W054—W059六项待主笔修复。"
+  ],
+  "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "date": "2026-11-10",
+  "scope_chapters": [
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280
+  ],
+  "historical_review_invalidation": {
+    "date": "2026-11-10",
+    "issue_id": "RB28-N18",
+    "reason": "已发生免夜冲突使旧开篇通过失效。其余51项保留旧字节的实审记录，不是对下一版的签名。",
+    "historical_record": "harness/maintenance/R008/B28/recovery-pre-night-correction-records.json",
+    "requires_actual_repaired_manuscript": true
+  }
+}

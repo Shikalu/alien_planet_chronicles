@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-07",
+  "id": "B15-LOG01",
+  "scope": "editorial-log-reason-only",
+  "report": "harness/maintenance/R005/B15/recheck2.json",
+  "report_sha256": "4360018510039f59386ccd73721cb4cd9df4354125a3ca9602657e8b33106051",
+  "log_path": "harness/maintenance/R005/edits.json",
+  "entry_zero_based_index": 214,
+  "before_reason": "B15复核1 C04：认责涵盖预排与执行前，保留后文三口气原记账以承接150引用。",
+  "after_reason": "B15复核1 C04：认责涵盖预排与执行前，保留148自书原句，由相邻预排认责对话限定含义；不以未经正文支持的150引用作依据。",
+  "before_log_sha256": "3b6b0743c29212bcb3d18d4f4bfdbfb8b7ed2ca151b80324fa565c06042a984e",
+  "after_log_sha256": "575f2934510b10655da48e6324dc516ba0c331bc1b4c853a6525bb926bb089e8",
+  "basis": "独立复核2指出第150章无该记账引用；主线程核实际第150章，无“三口气”。仅纠正日志解释，不改替换前后文本或审读报告。",
+  "manuscript_changed": false,
+  "review_verdict_changed": false,
+  "not_independent_quality_signoff": true
+}

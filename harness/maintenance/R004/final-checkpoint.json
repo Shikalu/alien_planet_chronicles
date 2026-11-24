@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "date": "2026-11-07",
+  "status": "verified_and_integrated",
+  "production_modified": true,
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "record": {
+    "path": "harness/maintenance/R004/record.json",
+    "sha256": "a852cd4ad10f79c383b26cf4cdc1dc257eed923f066f2beaf87f0f20b9411db3"
+  },
+  "reader": {
+    "path": "harness/reader-reviews/R004.json",
+    "sha256": "e5d344a5d954d35a69c847e1a0279003b09d47873977ece94ba612221b037f4e"
+  },
+  "verification": {
+    "path": "harness/maintenance/R004/final-verification.json",
+    "sha256": "db9f42e3578bdd535510e876f1bd93f35d2cec3a65472885619ef9fabe7b2096"
+  },
+  "publication": {
+    "path": "harness/maintenance/R004/publication-verification.json",
+    "sha256": "e698c3d9ffe894683b118c03ed5d2b08b4ba9215c6d04c7e0f8588ba53046471"
+  },
+  "cleanup": {
+    "path": "harness/maintenance/R004/workcopy-cleanup.json",
+    "sha256": "fa3ae189a24ee670d8895de75f334dd8ac42fc8579cb5aee6ffd2d837e7fa27b"
+  },
+  "published_chapter_range": [
+    51,
+    100
+  ],
+  "reviewed_chapters": 50,
+  "changed_prose": 49,
+  "writeback_files": 9,
+  "checks": 260,
+  "closed_issue_records": 144,
+  "pending_reviews": [],
+  "unresolved_scope_dependency": "101—110约48人另审；101—400未在本轮全文验收",
+  "previous_checkpoint": {
+    "path": "harness/maintenance/R004/final-delta-checkpoint.json",
+    "sha256": "d2f0983c96eb91161da7d9daf590de92eaf97eaf83afee5377b31e414cfb16ab"
+  }
+}

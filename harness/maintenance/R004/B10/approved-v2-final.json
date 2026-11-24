@@ -1,0 +1,4077 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reader_policy_version": 1,
+  "id": "R004-B10-approved-v2",
+  "maintenance_id": "R004",
+  "batch": "B10",
+  "review_round": "approved-v2 independent recovery",
+  "date": "2026-11-07",
+  "timezone": "Asia/Shanghai",
+  "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+  "reviewer_role": "独立首次读者审读／未参与正文改写",
+  "reviewer_identity_source": "本会话环境CODEX_THREAD_ID实取；首读笔记易读别名绑定本id。",
+  "writer": "/root",
+  "writer_identity_note": "继承用户明确提供的历史R004正文主笔标签/root；本轮主线程01a1b38a-c83e-7372-95f1-36c86e256305只恢复/核验，不由本报告冒认主笔。",
+  "independent": true,
+  "body_first": true,
+  "fully_unprompted_blind": false,
+  "reading_order": [
+    "阶段1按091—100全文独读并保存body-first；当时未读作者资料/旧审读/后述对照内容。用户消息已含AGENTS，不声称完全无先验盲读。",
+    "保存后即进入阶段2，核根AGENTS、skill/editorial、黄金追读与指定规范。",
+    "再核WB九文件51—101相关段、世界/角色固定设定、事实边界/C04C05、旧问题及补丁；不把台账当正文未说出的答案。",
+    "阶段2逐章全文知情复读当前工作稿；上下文续接沿用本任务和实际agent，不受旧子线程未交付结论约束。",
+    "正式101仅接口，不签全文事实/吸引力；最后以只读内存逻辑校验原句、覆盖与SHA。"
+  ],
+  "first_read_notes_path": "harness/maintenance/R004/B10/approved-v2-body-first.md",
+  "first_read_notes_preserved_sha256": "66baac0bfe245f5d358ec3431232def6f788896723c3a93e584cea613aa4a167",
+  "manuscripts": [
+    {
+      "chapter": 91,
+      "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+      "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42"
+    },
+    {
+      "chapter": 92,
+      "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+      "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c"
+    },
+    {
+      "chapter": 93,
+      "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+      "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa"
+    },
+    {
+      "chapter": 94,
+      "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+      "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3"
+    },
+    {
+      "chapter": 95,
+      "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+      "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df"
+    },
+    {
+      "chapter": 96,
+      "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+      "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0"
+    },
+    {
+      "chapter": 97,
+      "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+      "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd"
+    },
+    {
+      "chapter": 98,
+      "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+      "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4"
+    },
+    {
+      "chapter": 99,
+      "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+      "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142"
+    },
+    {
+      "chapter": 100,
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c"
+    }
+  ],
+  "manuscript_sources": [
+    {
+      "chapter": 91,
+      "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+      "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42"
+    },
+    {
+      "chapter": 92,
+      "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+      "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c"
+    },
+    {
+      "chapter": 93,
+      "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+      "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa"
+    },
+    {
+      "chapter": 94,
+      "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+      "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3"
+    },
+    {
+      "chapter": 95,
+      "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+      "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df"
+    },
+    {
+      "chapter": 96,
+      "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+      "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0"
+    },
+    {
+      "chapter": 97,
+      "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+      "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd"
+    },
+    {
+      "chapter": 98,
+      "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+      "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4"
+    },
+    {
+      "chapter": 99,
+      "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+      "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142"
+    },
+    {
+      "chapter": 100,
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+      "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c"
+    }
+  ],
+  "source_digest": "881907c9745496edd330cc9ad0f299ba97da289052b1eee11b7d3f7db7a50778",
+  "input_digest": "881907c9745496edd330cc9ad0f299ba97da289052b1eee11b7d3f7db7a50778",
+  "source_digest_algorithm": "sha256(json.dumps(manuscripts, sort_keys=True, ensure_ascii=False).encode()).hexdigest(); manuscripts仅chapter/path/sha256三字段、章升序、默认分隔符，依tools/check_reader_pull.py digest_rows。",
+  "input_digest_algorithm": "同source_digest的三字段输入集合摘要；work_path另列，不混入。",
+  "scope_note": "SHA来自R004-B10当前工作稿；manuscripts.path为用户指定的正式正文目标路径，不宣称已发布或与正式旧稿同字节。不审楔子/1—3/其他卷全文，不运行发布或checker。",
+  "chapters": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "fact_logic_verdict": "needs_revision",
+  "attraction_verdict": "needs_revision",
+  "verdict": "needs_revision",
+  "release_allowed": false,
+  "summary": {
+    "reader_one_sentence": "一行人用不断耗损的梁、绳和仪器跨过断阶，却发现上城区的记录拒绝承认活人；他们仍把门后与船舱的孩子接出，留下不能被广播替代的姓名。",
+    "fact_logic": "C04/C05与初审20项等指定旧问题已按当前稿逐项关闭；新095中等因果口径问题未闭，不通过。",
+    "attraction": "救援、父子未和解、记录反证有局部回报，结构崩塌升级至选择性撤离；095核心留守依据仍让首读停顿，choice/payoff需修，不通过。",
+    "severe_open": 0,
+    "medium_open": 1,
+    "no_tradeoff": "旧项关闭与其余50项pass不抵销中等阻断，字数合格不推导吸引力合格。",
+    "minor_observation_groups": 6
+  },
+  "issues": [
+    {
+      "id": "R004-B10-AV2-N01",
+      "chapter": 95,
+      "severity": "中等",
+      "status": "open",
+      "blocking": true,
+      "title": "事前无回程的因果口径尚未闭合",
+      "reason": "正文已给松桩须人压与放、可用绳无法完整回收往返线，不能说这些漏写。但无完整可回收往返线并不自动等于留桩者没有最后一次单向撤回办法。杜姨说后面没有回线，林渡说若最后带走绳路便无回程，却没说明该条件为何必须发生，也没写清与先前连续回送套绳的差异。留守究竟是确定不可回撤还是撤回无保证，首读会迟疑。后续热汽、松轨足以解释实际失联，不能倒作尚未发生时无回程预判的依据。本项是小说内因果与选择可理解性，不声称现实工程绝对能救，也不要求补工程图。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "剩下的可用段还能拉人，却凑不出一条人人通过后仍能完整回收的往返线。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 95,
+          "quote": "来岸的绳桩根已经松，必须有人一面放绳一面压住，否则最后一副担架离开，桩也会被拔走。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 95,
+          "quote": "“后面没有回线。”杜姨说。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 31,
+          "line_end": 31
+        },
+        {
+          "chapter": 95,
+          "quote": "林渡当面说清，若最后一趟带走绳路，留桩的人便没有回程。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 37,
+          "line_end": 37
+        },
+        {
+          "chapter": 95,
+          "quote": "林渡落地先解下套绳，让来岸沿原线拉回。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 49,
+          "line_end": 49
+        },
+        {
+          "chapter": 95,
+          "quote": "原有踏板只剩短短一段，能走的人可以借绳跨过，不能走的人得贴着残轨拖送，不能叫他们跳。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 7,
+          "line_end": 7
+        }
+      ],
+      "action": "补清最后一趟与此前套绳回送的条件差异，交代为何没有留桩者单向撤回的路；若本意只是无法保证撤回，应改成该风险口径，由后续热汽与断口扩大造成实际失联。不得增加材料或把失联改为确死。",
+      "reader_effect": "为什么事先已认定不能回来，会分散读者对留守及姓名留存的情绪注意。",
+      "not_a_reopened_issue": [
+        "R004-B10-I04",
+        "R004-B10-RR-N01"
+      ],
+      "recheck_result": "未修，SHA未变；本轮只审读，须局部修订后独审，不签修后通过。"
+    }
+  ],
+  "new_issues": [
+    {
+      "id": "R004-B10-AV2-N01",
+      "chapter": 95,
+      "severity": "中等",
+      "status": "open",
+      "blocking": true,
+      "title": "事前无回程的因果口径尚未闭合",
+      "reason": "正文已给松桩须人压与放、可用绳无法完整回收往返线，不能说这些漏写。但无完整可回收往返线并不自动等于留桩者没有最后一次单向撤回办法。杜姨说后面没有回线，林渡说若最后带走绳路便无回程，却没说明该条件为何必须发生，也没写清与先前连续回送套绳的差异。留守究竟是确定不可回撤还是撤回无保证，首读会迟疑。后续热汽、松轨足以解释实际失联，不能倒作尚未发生时无回程预判的依据。本项是小说内因果与选择可理解性，不声称现实工程绝对能救，也不要求补工程图。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "剩下的可用段还能拉人，却凑不出一条人人通过后仍能完整回收的往返线。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 95,
+          "quote": "来岸的绳桩根已经松，必须有人一面放绳一面压住，否则最后一副担架离开，桩也会被拔走。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 95,
+          "quote": "“后面没有回线。”杜姨说。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 31,
+          "line_end": 31
+        },
+        {
+          "chapter": 95,
+          "quote": "林渡当面说清，若最后一趟带走绳路，留桩的人便没有回程。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 37,
+          "line_end": 37
+        },
+        {
+          "chapter": 95,
+          "quote": "林渡落地先解下套绳，让来岸沿原线拉回。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 49,
+          "line_end": 49
+        },
+        {
+          "chapter": 95,
+          "quote": "原有踏板只剩短短一段，能走的人可以借绳跨过，不能走的人得贴着残轨拖送，不能叫他们跳。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 7,
+          "line_end": 7
+        }
+      ],
+      "action": "补清最后一趟与此前套绳回送的条件差异，交代为何没有留桩者单向撤回的路；若本意只是无法保证撤回，应改成该风险口径，由后续热汽与断口扩大造成实际失联。不得增加材料或把失联改为确死。",
+      "reader_effect": "为什么事先已认定不能回来，会分散读者对留守及姓名留存的情绪注意。",
+      "not_a_reopened_issue": [
+        "R004-B10-I04",
+        "R004-B10-RR-N01"
+      ],
+      "recheck_result": "未修，SHA未变；本轮只审读，须局部修订后独审，不签修后通过。"
+    }
+  ],
+  "issue_closures": [
+    {
+      "id": "R004-B10-I01",
+      "title": "人数分栏且C05授权已到位",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "原队/新救/会合者分列，两处失联另留；100四名/十余不推总数。C05仅许可101既有13+4=17实录，不倒灌100或拼48。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "原护送队、新救孩子和另列同行者逐栏应声，刚从封墙后救出的孩子也在。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 95,
+          "quote": "两处失联记录仍分开留着。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 87,
+          "line_end": 87
+        },
+        {
+          "chapter": 100,
+          "quote": "四名长屋孩子在原来的四行里，舱中孩子另起一组。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 83,
+          "line_end": 83
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "R003已批准34仅登记核验子集，阿九/弥娅/后会合祝衡另列；090/091/095/096把35→34再当全部确认同行者，095减去的留守旧维修者是否本在分母也未交代，100最少约48又承接此数。当前人都没少，统计范围仍需继承批准口径，不能凭新总数抵账。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "partial"
+    },
+    {
+      "id": "R004-B10-I02",
+      "title": "唯一短梁、两边料与受力段分清",
+      "previous_status": "manual_revision",
+      "previous_severity": "严重",
+      "status": "closed",
+      "reason": "短梁加拆箱两边料错搭；两侧兜绳锁牢，牵引尾段与受力段隔离。闸断海外边料，山侧暂承，桥下绳扣弃失；小说因果可读，不作承载认证。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "能承重的旧梁料只剩这一根。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 9,
+          "line_end": 9
+        },
+        {
+          "chapter": 92,
+          "quote": "阿九拆开撤离箱，从框上取出两条还实的长边料，让它们并排向上行岸伸，尾端分别压上对岸梁头，另一端与短梁错搭。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 11,
+          "line_end": 11
+        },
+        {
+          "chapter": 92,
+          "quote": "过桩后剩下的绳尾留给抬手牵引，与梁下受力段隔着锁结；松收绳尾，兜套仍收着接头。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 53,
+          "line_end": 53
+        },
+        {
+          "chapter": 92,
+          "quote": "兜在桥下的绳段不能硬拽，卡死的扣也没去拿；阿九把能收的线盘好，分清短残段与还能继续使用的两卷余料。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 79,
+          "line_end": 79
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "088—089完整材料因果只余从069带来的一截短梁；089拆封板另得短撑，但明确仍卡在板沿不能抽走当备料。091取现有短梁，未写切分或取得别的梁段，092突然几段，后面靠外一根断、桥剩一根需要至少两根。不能拿后续桥成了倒证有料，也不能把留置短撑无理由带上。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-I03",
+      "title": "091接应者先过岸",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "槐七阿九已在上行梁头，林渡仍来岸压板；父亲制下滑，两人接腰膝拖回。同recovery2字节，实读确认。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "槐七和阿九已跨到上行侧，伏在这一岸的梁头接应。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 91,
+          "quote": "三个人将他拖回上行侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 73,
+          "line_end": 73
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "本场林岑已被扶到上行侧；林渡仍源侧桥头压角。槐七阿九留桥尾之后却在上行侧接林渡膝后拖回，未交代二人是否先过、在哪一端接。尾字没有固定到来岸/上行侧，关键救援时位置含混。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I04",
+      "title": "095计划与实际过岸时序",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "过岸后为计划，林渡→阿九→槐七由套绳回送执行，杜姨林栖仍在来岸陪孩。旧位置项已闭，不替新AV2-N01背书。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "最后商定：槐七过岸后负责主拉，阿九管对岸绳扣，旧维修者留在来岸放绳。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 37,
+          "line_end": 37
+        },
+        {
+          "chapter": 95,
+          "quote": "林渡落地先解下套绳，让来岸沿原线拉回。阿九系上套绳，伏着残轨过来，接管对岸绳扣；套绳再送回，槐七才过岸，坐到桩后试收两次。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "此处“去对岸”先报动作完成；后面林渡先过后又“槐七接着过来”。阿九本章开头仍来岸，之后直接在对岸收绳，跨越动作缺一环。去/接手是分工计划还是实际移动不分。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I05",
+      "title": "唯一便携灯交接与续摇",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "092/097还林栖；098复线续摇才亮；100岑野前照回照后箱边还灯。固定灯座不是新增随队灯。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他把灯递回林栖，叫她照住接缝，再让裴七准备。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 31,
+          "line_end": 31
+        },
+        {
+          "chapter": 97,
+          "quote": "林渡将灯交回妹妹，林栖举向声音传来的墙。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 97,
+          "line_end": 97
+        },
+        {
+          "chapter": 98,
+          "quote": "再缓缓转动灯柄。灯重新亮起，她才照向缝里。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 100,
+          "quote": "岑野在箱边把灯还给林栖。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 27,
+          "line_end": 27
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "本章岑野前头照路，阿九也借同一手摇灯验门；又后端灯能被前端见，林栖稍后舱口用灯，交接缺失。099已明说没有第二套灯和绳，不能脑补另盏灯。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-I06",
+      "title": "094接口、针位、控杆与管压分工",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "自然插入既有平口接回位触点；测针给位置，槐七控杆，管压做功，止位槽锁住才退。仪器不供阀动力。同字节实读复核。",
+      "evidence": [
+        {
+          "chapter": 94,
+          "quote": "半扣只接仪器底座与这处触点。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 41,
+          "line_end": 41
+        },
+        {
+          "chapter": 94,
+          "quote": "“力从管内来，不是她的仪器推得动。”",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 29,
+          "line_end": 29
+        },
+        {
+          "chapter": 94,
+          "quote": "等前端站稳，槐七将检修杆压进原有止位槽才退手。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "前文只写晶片钥匙放垫片交点旁、蓝扣接测潮仪底座、林岑等人压人工检修杆；第二次钥匙忽然“进入那一段”，没有锁座/接口先行词。紧接旧阀连杆自己退半格，读者读不出仪器校准与人工扳杆或已有节点线路的执行关系，像插钥匙就远程改热流。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I07",
+      "title": "C04饮水全链获批且已落正文",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "098女孩交屋内处理饮水及小壶给杜姨；099仅四孩各小口后封回；100同壶给舱孩分尽。049公共水已尽、器具残液禁入口不改，不留101余额。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "quote": "最大女孩解下腰间的小水壶，递给杜姨：“屋里发的饮水，处理过的。我们喝到只剩这些了。”",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 89,
+          "line_end": 89
+        },
+        {
+          "chapter": 99,
+          "quote": "杜姨解下长屋女孩交来的小水壶，打开盖，先让她看清壶底那点余水，再给这四个孩子各润进一小口，随即盖好。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 100,
+          "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "091—100资源实录及第一卷收官快照已锁定孩子各分一口处理水、极少余水，不能删结果；但049残液不可喝，090只留润孩子布的残液，正文到098用“原先封着”首次断言独立饮用储量，未能回查何处谁封存。后文多次说不是脏布水仍是用途否认，不是来源交代。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "open"
+    },
+    {
+      "id": "R004-B10-I08",
+      "title": "抄后烧有明确同意",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "妇人核字后明确同意抄烧，在场者逐一应；缺席者写未问得、林渡担责，不把不带回等同同意。",
+      "evidence": [
+        {
+          "chapter": 93,
+          "quote": "“照这样抄。抄完这份烧掉，我不留了。”",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 41,
+          "line_end": 41
+        },
+        {
+          "chapter": 93,
+          "quote": "其余行找不到本人，林渡让妹妹另记“本人不在场，未问得”，自己承担毁去这一卷的决定。",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 55,
+          "line_end": 55
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "已问的问题是带走原件还是烧掉、谁要留自己一段；“没有交回”只否认把纸交回追兵，不等于同意焚毁。前面还有人想留，纸粘连令他不能撕，不代表他授权烧。主角强调各人知失何证明，却在结果处跳过同意的承接。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I09",
+      "title": "担架朝向与滑移关系",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "头朝上行脚朝来路，单抬前端造成脚端滑移/胸下带绷，现改两端同送；无倒吊或伤腿蹬地。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "裴七头朝上行侧，脚朝来路。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 49,
+          "line_end": 49
+        },
+        {
+          "chapter": 91,
+          "quote": "他让麦穗把垫板横推半寸，前后两端同时送，过了凸起才继续。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "前端抬高时，担架后端本在脚侧还是头侧没给；同一刚性担架的后端直接挤进胸口难以形成可见动作。读者不明白禁止抬高究竟怕滑移、勒带还是杆碰胸。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I10",
+      "title": "玻璃裂缘为疼痛来源",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "现以裂缘擦伤处，而非玻璃冷得造成划伤；仅核虚构动作来源，不作医疗判断。",
+      "evidence": [
+        {
+          "chapter": 94,
+          "quote": "她用指腹沿裂缝试了一下，玻璃裂缘擦得伤处发疼，随即改用垫片边缘比着刻度。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 5,
+          "line_end": 5
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "本章热汽逼近、温度上升，仪器无降温来源，却用冷玻璃解释不能碰；真正可观察的限制是裂口/碎玻璃磨伤手。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I11",
+      "title": "汽湿与垢破、黑木纹分开",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "垢已破露黑木纹，热汽过仅使细裂湿亮，不再写瞬间消垢烫黑。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "枕木上的沉垢边缘已经破碎，露出的木纹发黑；热汽一过，那些细小裂口便湿亮起来。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 3,
+          "line_end": 3
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "只交代湿汽来又干，矿物沉垢不会自动一阵少一圈；“烫黑”也将未见起因的黑木纹直接归成热炭化。若有冲刷/剥落应给碎屑去向，不能只靠汽把固体消掉。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I12",
+      "title": "水雾附着表述",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "挂成写雾滴附着聚并，不将已是液滴的雾再混写气液相变，试热后移人有后果。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "水雾沿立柱挂成滚烫水珠，岑野试到热，立即将等候的人往里移。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "可见水雾已由细液滴组成，沾柱主要挂壁并合，不再从“雾”直接相变凝结。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I13",
+      "title": "上行侧后的否认来路已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "上行侧给明确落点，I03提供站位链，旧指定辩护句未再出现。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "三个人将他拖回上行侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 73,
+          "line_end": 73
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "上行侧已是具体落点，再否认回原路使刚完成的救援带审读辩护感。空间不足应修I03的先行站位，不用尾句否认替代。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I14",
+      "title": "省料金句已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "背面裂纹到接头给出不能削薄依据，之后逐副报停代替抽象总结。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他用扳手柄指明抬起木脚的位置，让维修员到每一副担架经过时都报停。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "报停与避开裂纹已经让读者看出不能削薄，旁白再用抽象工法总结。不是实际因果交代，且与前章“真正省下只是…”同声。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I15",
+      "title": "骂父踢门假想辩护已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "脱齿包收及真实青年欲砸门供林渡制止，不否认未发生的坏行为。",
+      "evidence": [
+        {
+          "chapter": 96,
+          "quote": "林渡把脱齿放进包尺的旧布，收好尺身。",
+          "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+          "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+          "line_start": 57,
+          "line_end": 57
+        },
+        {
+          "chapter": 96,
+          "quote": "青年握着板站了一会儿，最后把它放回原处。",
+          "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+          "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+          "line_start": 59,
+          "line_end": 59
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "读者并未见他要骂父或踢门，这句替人物否认没有发生过的坏行为，打断最后一齿落下的情绪回报。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I16",
+      "title": "开柜权限辩护已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "歪缝、木片、不连内锁杆给足动作依据，不再面向审稿者解释突然得权限。",
+      "evidence": [
+        {
+          "chapter": 97,
+          "quote": "街角配给柜有一道歪缝，柜门被旧木片卡着，未完全合拢。林栖看清不连门内锁杆，才从侧面推开。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 23,
+          "line_end": 23
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "柜门已有歪缝、木片卡住、林栖看清不连锁杆后推开，已展示外柜可推；再否认突然得权限直接面向审稿读者。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I17",
+      "title": "希望与来源靠物件落地",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "可带鞋扣但仅认类似，位置登记后分装；旧抽象盼望总结已删。",
+      "evidence": [
+        {
+          "chapter": 97,
+          "quote": "他不说这是妹妹的，只说自己在家属身上见过类似的款式。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 97,
+          "quote": "林栖将矮墙、木槿、松板的位置记在编号旁。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 69,
+          "line_end": 69
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "林渡刚说带着但记从这里拿、林栖记位置、祝衡看写完后分装均已表现两者分开，旁白再定义理性期待。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I18",
+      "title": "七年信息按核验顺序释放",
+      "previous_status": "safe",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "不在女孩证词后提前解释多年囚禁；先比当日与片上日期，再由祝衡限定纸面七年。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "他读出年份，林栖翻到先前配给柜抄下的当日日期，两者相差七年。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 29,
+          "line_end": 29
+        },
+        {
+          "chapter": 99,
+          "quote": "“纸面是七年前。”祝衡说，“不是他们在这里待了七年。”",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 31,
+          "line_end": 31
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "胶边软与女孩刚贴的证词、片上旧日期差七年，后面现场核明已足够；此处抢先向读者否认多年囚禁，接着又“纸面七年前不是待七年”，同解纠偏连续两遍，把日期发现悬念提前解释掉。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I19",
+      "title": "父子验证有分工",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "父亲报工法位置，林渡看当前受压松动，再教下一人识别，非相同动作轮番复核。",
+      "evidence": [
+        {
+          "chapter": 100,
+          "quote": "父亲报出支承位置，林渡便看梁头受压时有没有松动，再让父亲指给下一个人认。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 13,
+          "line_end": 13
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "父亲已报具体支承、林渡逐处蹲同一看法但无新结果，最后又父亲指给下人，同验证流程重复且所有人每处停。不是不能复查，而是首轮与复查各看什么不区分。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I20",
+      "title": "废绳防滚动作代替收益金句",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "实物收置已有结果，旧“真正省下”的众人动机总结已删；其他残留总结另列轻微。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "林渡拾起来，塞进空铰链孔旁，不让它滚动。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 47,
+          "line_end": 47
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "旧绳碎段塞铰链孔防绊已有结果，旁白又总结众人动机和真正收益；与92工法金句同构。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-RF-N01",
+      "title": "099封回壶不再误称空容器",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "099保留急用余量，100才倒尽；与C04来源分别核实，不能只改名词就算来源闭合。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "杜姨按住刚封好的壶盖，没有再开。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 100,
+          "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "open"
+    },
+    {
+      "id": "R004-B10-RF-N02",
+      "title": "第七人改为担架进度",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "倒数一副→杜姨→最后担架前脚上轨是顺序，不冒充全队人数，与爆裂失联相接。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "林栖先随倒数一副过来，膝盖擦着轨枕，落地后先将册子护在身内，空出手接下一人。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 67,
+          "line_end": 67
+        },
+        {
+          "chapter": 95,
+          "quote": "最后这副担架的前脚刚搭上残轨，轨槽深处便传来爆裂声。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 67,
+          "line_end": 67
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RF-N03",
+      "title": "四处指定辩护句动作化",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "092回灯、094画回摆标、095商定岗位、097指尖及让字可抄承接；仅闭旧四处，不包括新回程问题或其他语言残留。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他把灯递回林栖，叫她照住接缝，再让裴七准备。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 31,
+          "line_end": 31
+        },
+        {
+          "chapter": 94,
+          "quote": "弥娅在上面画三道弧线，把潮汐晶片钥匙放在旁边，空出交点作回摆位置的记号。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 9,
+          "line_end": 9
+        },
+        {
+          "chapter": 95,
+          "quote": "最后商定：槐七过岸后负责主拉，阿九管对岸绳扣，旧维修者留在来岸放绳。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 37,
+          "line_end": 37
+        },
+        {
+          "chapter": 97,
+          "quote": "祝衡的指尖从花心移到编号末尾，又退回花心。林栖等他让开，才抄下被手背挡住的那一位。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 61,
+          "line_end": 61
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RF-N04",
+      "title": "半扣/小框片跨章连续",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "092留非承重零碎小片夹半扣，093误触后隔离抽回，094复用收妥。不是桥框复活、第三完整蓝扣或随队新灯。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "弥娅从拆下的零碎框料里留出一小片，在仪器侧边取下槐七先前试录音用的半枚蓝扣，把扣与松散旧接线一并夹在木片上，免得断口扎破包布。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 93,
+          "quote": "阿九仍压住它，让弥娅从侧面抽回木片和半扣，裹进原包布。",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 85,
+          "line_end": 85
+        },
+        {
+          "chapter": 94,
+          "quote": "弥娅撤下半扣和旧线，抽回晶片钥匙，将它们分开收妥，再合上仪器侧盖。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RR-N01",
+      "title": "先渡者具名且留桩者未移位",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "林渡全名开启伏残轨动作，随后落地、套绳回送可追；不再以左肩伤倒猜主语。无回程预判另列。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "林渡系好腰间绳，先伏到残轨上。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 45,
+          "line_end": 45
+        },
+        {
+          "chapter": 95,
+          "quote": "阿九系上套绳，伏着残轨过来，接管对岸绳扣；套绳再送回，槐七才过岸，坐到桩后试收两次。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RR-A01",
+      "title": "098续摇供能补明",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "撤铜片、复线、缓转手柄才亮，未靠余电自动恢复补解释。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "quote": "再缓缓转动灯柄。灯重新亮起，她才照向缝里。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 65,
+          "line_end": 65
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RR-A02",
+      "title": "两处指定辩护润色已落稿",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "092不催姓名/按桩，095前臂控向留下，后接辩护删掉。只闭这两处，非全文语言清零。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他接手时先报了自己的工位，林渡没有催名字，只请他把松动的桩根按牢。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 71,
+          "line_end": 71
+        },
+        {
+          "chapter": 95,
+          "quote": "阿九退到桩后坐低，改用前臂控制方向。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 63,
+          "line_end": 63
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "needs_polish"
+    },
+    {
+      "id": "R004-B10-R2-A01",
+      "title": "第二根绳语序修复",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "是裴七把绳带过岸，不是将裴七送到第二根绳；同带线过程一致。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "裴七把第二根绳带到对岸后，阿九将两根绳分置桥面两侧，各在短梁与箱框边料的搭接处绕出一只兜套。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 53,
+          "line_end": 53
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "needs_polish"
+    }
+  ],
+  "initial_issue_closures": [
+    {
+      "id": "R004-B10-I01",
+      "title": "人数分栏且C05授权已到位",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "原队/新救/会合者分列，两处失联另留；100四名/十余不推总数。C05仅许可101既有13+4=17实录，不倒灌100或拼48。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "原护送队、新救孩子和另列同行者逐栏应声，刚从封墙后救出的孩子也在。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 95,
+          "quote": "两处失联记录仍分开留着。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 87,
+          "line_end": 87
+        },
+        {
+          "chapter": 100,
+          "quote": "四名长屋孩子在原来的四行里，舱中孩子另起一组。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 83,
+          "line_end": 83
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "R003已批准34仅登记核验子集，阿九/弥娅/后会合祝衡另列；090/091/095/096把35→34再当全部确认同行者，095减去的留守旧维修者是否本在分母也未交代，100最少约48又承接此数。当前人都没少，统计范围仍需继承批准口径，不能凭新总数抵账。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "partial"
+    },
+    {
+      "id": "R004-B10-I02",
+      "title": "唯一短梁、两边料与受力段分清",
+      "previous_status": "manual_revision",
+      "previous_severity": "严重",
+      "status": "closed",
+      "reason": "短梁加拆箱两边料错搭；两侧兜绳锁牢，牵引尾段与受力段隔离。闸断海外边料，山侧暂承，桥下绳扣弃失；小说因果可读，不作承载认证。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "能承重的旧梁料只剩这一根。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 9,
+          "line_end": 9
+        },
+        {
+          "chapter": 92,
+          "quote": "阿九拆开撤离箱，从框上取出两条还实的长边料，让它们并排向上行岸伸，尾端分别压上对岸梁头，另一端与短梁错搭。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 11,
+          "line_end": 11
+        },
+        {
+          "chapter": 92,
+          "quote": "过桩后剩下的绳尾留给抬手牵引，与梁下受力段隔着锁结；松收绳尾，兜套仍收着接头。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 53,
+          "line_end": 53
+        },
+        {
+          "chapter": 92,
+          "quote": "兜在桥下的绳段不能硬拽，卡死的扣也没去拿；阿九把能收的线盘好，分清短残段与还能继续使用的两卷余料。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 79,
+          "line_end": 79
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "088—089完整材料因果只余从069带来的一截短梁；089拆封板另得短撑，但明确仍卡在板沿不能抽走当备料。091取现有短梁，未写切分或取得别的梁段，092突然几段，后面靠外一根断、桥剩一根需要至少两根。不能拿后续桥成了倒证有料，也不能把留置短撑无理由带上。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-I03",
+      "title": "091接应者先过岸",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "槐七阿九已在上行梁头，林渡仍来岸压板；父亲制下滑，两人接腰膝拖回。同recovery2字节，实读确认。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "槐七和阿九已跨到上行侧，伏在这一岸的梁头接应。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 91,
+          "quote": "三个人将他拖回上行侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 73,
+          "line_end": 73
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "本场林岑已被扶到上行侧；林渡仍源侧桥头压角。槐七阿九留桥尾之后却在上行侧接林渡膝后拖回，未交代二人是否先过、在哪一端接。尾字没有固定到来岸/上行侧，关键救援时位置含混。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I04",
+      "title": "095计划与实际过岸时序",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "过岸后为计划，林渡→阿九→槐七由套绳回送执行，杜姨林栖仍在来岸陪孩。旧位置项已闭，不替新AV2-N01背书。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "最后商定：槐七过岸后负责主拉，阿九管对岸绳扣，旧维修者留在来岸放绳。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 37,
+          "line_end": 37
+        },
+        {
+          "chapter": 95,
+          "quote": "林渡落地先解下套绳，让来岸沿原线拉回。阿九系上套绳，伏着残轨过来，接管对岸绳扣；套绳再送回，槐七才过岸，坐到桩后试收两次。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "此处“去对岸”先报动作完成；后面林渡先过后又“槐七接着过来”。阿九本章开头仍来岸，之后直接在对岸收绳，跨越动作缺一环。去/接手是分工计划还是实际移动不分。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I05",
+      "title": "唯一便携灯交接与续摇",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "092/097还林栖；098复线续摇才亮；100岑野前照回照后箱边还灯。固定灯座不是新增随队灯。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他把灯递回林栖，叫她照住接缝，再让裴七准备。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 31,
+          "line_end": 31
+        },
+        {
+          "chapter": 97,
+          "quote": "林渡将灯交回妹妹，林栖举向声音传来的墙。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 97,
+          "line_end": 97
+        },
+        {
+          "chapter": 98,
+          "quote": "再缓缓转动灯柄。灯重新亮起，她才照向缝里。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 100,
+          "quote": "岑野在箱边把灯还给林栖。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 27,
+          "line_end": 27
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "本章岑野前头照路，阿九也借同一手摇灯验门；又后端灯能被前端见，林栖稍后舱口用灯，交接缺失。099已明说没有第二套灯和绳，不能脑补另盏灯。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-I06",
+      "title": "094接口、针位、控杆与管压分工",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "自然插入既有平口接回位触点；测针给位置，槐七控杆，管压做功，止位槽锁住才退。仪器不供阀动力。同字节实读复核。",
+      "evidence": [
+        {
+          "chapter": 94,
+          "quote": "半扣只接仪器底座与这处触点。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 41,
+          "line_end": 41
+        },
+        {
+          "chapter": 94,
+          "quote": "“力从管内来，不是她的仪器推得动。”",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 29,
+          "line_end": 29
+        },
+        {
+          "chapter": 94,
+          "quote": "等前端站稳，槐七将检修杆压进原有止位槽才退手。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "前文只写晶片钥匙放垫片交点旁、蓝扣接测潮仪底座、林岑等人压人工检修杆；第二次钥匙忽然“进入那一段”，没有锁座/接口先行词。紧接旧阀连杆自己退半格，读者读不出仪器校准与人工扳杆或已有节点线路的执行关系，像插钥匙就远程改热流。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I07",
+      "title": "C04饮水全链获批且已落正文",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "098女孩交屋内处理饮水及小壶给杜姨；099仅四孩各小口后封回；100同壶给舱孩分尽。049公共水已尽、器具残液禁入口不改，不留101余额。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "quote": "最大女孩解下腰间的小水壶，递给杜姨：“屋里发的饮水，处理过的。我们喝到只剩这些了。”",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 89,
+          "line_end": 89
+        },
+        {
+          "chapter": 99,
+          "quote": "杜姨解下长屋女孩交来的小水壶，打开盖，先让她看清壶底那点余水，再给这四个孩子各润进一小口，随即盖好。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 100,
+          "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "091—100资源实录及第一卷收官快照已锁定孩子各分一口处理水、极少余水，不能删结果；但049残液不可喝，090只留润孩子布的残液，正文到098用“原先封着”首次断言独立饮用储量，未能回查何处谁封存。后文多次说不是脏布水仍是用途否认，不是来源交代。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "open"
+    },
+    {
+      "id": "R004-B10-I08",
+      "title": "抄后烧有明确同意",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "妇人核字后明确同意抄烧，在场者逐一应；缺席者写未问得、林渡担责，不把不带回等同同意。",
+      "evidence": [
+        {
+          "chapter": 93,
+          "quote": "“照这样抄。抄完这份烧掉，我不留了。”",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 41,
+          "line_end": 41
+        },
+        {
+          "chapter": 93,
+          "quote": "其余行找不到本人，林渡让妹妹另记“本人不在场，未问得”，自己承担毁去这一卷的决定。",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 55,
+          "line_end": 55
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "已问的问题是带走原件还是烧掉、谁要留自己一段；“没有交回”只否认把纸交回追兵，不等于同意焚毁。前面还有人想留，纸粘连令他不能撕，不代表他授权烧。主角强调各人知失何证明，却在结果处跳过同意的承接。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I09",
+      "title": "担架朝向与滑移关系",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "头朝上行脚朝来路，单抬前端造成脚端滑移/胸下带绷，现改两端同送；无倒吊或伤腿蹬地。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "裴七头朝上行侧，脚朝来路。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 49,
+          "line_end": 49
+        },
+        {
+          "chapter": 91,
+          "quote": "他让麦穗把垫板横推半寸，前后两端同时送，过了凸起才继续。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "前端抬高时，担架后端本在脚侧还是头侧没给；同一刚性担架的后端直接挤进胸口难以形成可见动作。读者不明白禁止抬高究竟怕滑移、勒带还是杆碰胸。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I10",
+      "title": "玻璃裂缘为疼痛来源",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "现以裂缘擦伤处，而非玻璃冷得造成划伤；仅核虚构动作来源，不作医疗判断。",
+      "evidence": [
+        {
+          "chapter": 94,
+          "quote": "她用指腹沿裂缝试了一下，玻璃裂缘擦得伤处发疼，随即改用垫片边缘比着刻度。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 5,
+          "line_end": 5
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "本章热汽逼近、温度上升，仪器无降温来源，却用冷玻璃解释不能碰；真正可观察的限制是裂口/碎玻璃磨伤手。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I11",
+      "title": "汽湿与垢破、黑木纹分开",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "垢已破露黑木纹，热汽过仅使细裂湿亮，不再写瞬间消垢烫黑。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "枕木上的沉垢边缘已经破碎，露出的木纹发黑；热汽一过，那些细小裂口便湿亮起来。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 3,
+          "line_end": 3
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "只交代湿汽来又干，矿物沉垢不会自动一阵少一圈；“烫黑”也将未见起因的黑木纹直接归成热炭化。若有冲刷/剥落应给碎屑去向，不能只靠汽把固体消掉。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I12",
+      "title": "水雾附着表述",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "挂成写雾滴附着聚并，不将已是液滴的雾再混写气液相变，试热后移人有后果。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "水雾沿立柱挂成滚烫水珠，岑野试到热，立即将等候的人往里移。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "可见水雾已由细液滴组成，沾柱主要挂壁并合，不再从“雾”直接相变凝结。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json"
+    },
+    {
+      "id": "R004-B10-I13",
+      "title": "上行侧后的否认来路已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "上行侧给明确落点，I03提供站位链，旧指定辩护句未再出现。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "三个人将他拖回上行侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 73,
+          "line_end": 73
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "上行侧已是具体落点，再否认回原路使刚完成的救援带审读辩护感。空间不足应修I03的先行站位，不用尾句否认替代。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I14",
+      "title": "省料金句已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "背面裂纹到接头给出不能削薄依据，之后逐副报停代替抽象总结。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他用扳手柄指明抬起木脚的位置，让维修员到每一副担架经过时都报停。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "报停与避开裂纹已经让读者看出不能削薄，旁白再用抽象工法总结。不是实际因果交代，且与前章“真正省下只是…”同声。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I15",
+      "title": "骂父踢门假想辩护已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "脱齿包收及真实青年欲砸门供林渡制止，不否认未发生的坏行为。",
+      "evidence": [
+        {
+          "chapter": 96,
+          "quote": "林渡把脱齿放进包尺的旧布，收好尺身。",
+          "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+          "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+          "line_start": 57,
+          "line_end": 57
+        },
+        {
+          "chapter": 96,
+          "quote": "青年握着板站了一会儿，最后把它放回原处。",
+          "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+          "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+          "line_start": 59,
+          "line_end": 59
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "读者并未见他要骂父或踢门，这句替人物否认没有发生过的坏行为，打断最后一齿落下的情绪回报。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I16",
+      "title": "开柜权限辩护已删",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "歪缝、木片、不连内锁杆给足动作依据，不再面向审稿者解释突然得权限。",
+      "evidence": [
+        {
+          "chapter": 97,
+          "quote": "街角配给柜有一道歪缝，柜门被旧木片卡着，未完全合拢。林栖看清不连门内锁杆，才从侧面推开。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 23,
+          "line_end": 23
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "柜门已有歪缝、木片卡住、林栖看清不连锁杆后推开，已展示外柜可推；再否认突然得权限直接面向审稿读者。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I17",
+      "title": "希望与来源靠物件落地",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "可带鞋扣但仅认类似，位置登记后分装；旧抽象盼望总结已删。",
+      "evidence": [
+        {
+          "chapter": 97,
+          "quote": "他不说这是妹妹的，只说自己在家属身上见过类似的款式。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 97,
+          "quote": "林栖将矮墙、木槿、松板的位置记在编号旁。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 69,
+          "line_end": 69
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "林渡刚说带着但记从这里拿、林栖记位置、祝衡看写完后分装均已表现两者分开，旁白再定义理性期待。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I18",
+      "title": "七年信息按核验顺序释放",
+      "previous_status": "safe",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "不在女孩证词后提前解释多年囚禁；先比当日与片上日期，再由祝衡限定纸面七年。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "他读出年份，林栖翻到先前配给柜抄下的当日日期，两者相差七年。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 29,
+          "line_end": 29
+        },
+        {
+          "chapter": 99,
+          "quote": "“纸面是七年前。”祝衡说，“不是他们在这里待了七年。”",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 31,
+          "line_end": 31
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "胶边软与女孩刚贴的证词、片上旧日期差七年，后面现场核明已足够；此处抢先向读者否认多年囚禁，接着又“纸面七年前不是待七年”，同解纠偏连续两遍，把日期发现悬念提前解释掉。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I19",
+      "title": "父子验证有分工",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "父亲报工法位置，林渡看当前受压松动，再教下一人识别，非相同动作轮番复核。",
+      "evidence": [
+        {
+          "chapter": 100,
+          "quote": "父亲报出支承位置，林渡便看梁头受压时有没有松动，再让父亲指给下一个人认。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 13,
+          "line_end": 13
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "父亲已报具体支承、林渡逐处蹲同一看法但无新结果，最后又父亲指给下人，同验证流程重复且所有人每处停。不是不能复查，而是首轮与复查各看什么不区分。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    },
+    {
+      "id": "R004-B10-I20",
+      "title": "废绳防滚动作代替收益金句",
+      "previous_status": "safe",
+      "previous_severity": "轻微",
+      "status": "closed",
+      "reason": "实物收置已有结果，旧“真正省下”的众人动机总结已删；其他残留总结另列轻微。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "林渡拾起来，塞进空铰链孔旁，不让它滚动。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 47,
+          "line_end": 47
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "旧绳碎段塞铰链孔防绊已有结果，旁白又总结众人动机和真正收益；与92工法金句同构。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "original_quote_absent_from_current_chapter": true
+    }
+  ],
+  "previous_six_issue_closures": [
+    {
+      "id": "R004-B10-I01",
+      "title": "人数分栏且C05授权已到位",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "原队/新救/会合者分列，两处失联另留；100四名/十余不推总数。C05仅许可101既有13+4=17实录，不倒灌100或拼48。",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "原护送队、新救孩子和另列同行者逐栏应声，刚从封墙后救出的孩子也在。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 95,
+          "quote": "两处失联记录仍分开留着。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 87,
+          "line_end": 87
+        },
+        {
+          "chapter": 100,
+          "quote": "四名长屋孩子在原来的四行里，舱中孩子另起一组。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 83,
+          "line_end": 83
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "R003已批准34仅登记核验子集，阿九/弥娅/后会合祝衡另列；090/091/095/096把35→34再当全部确认同行者，095减去的留守旧维修者是否本在分母也未交代，100最少约48又承接此数。当前人都没少，统计范围仍需继承批准口径，不能凭新总数抵账。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "partial"
+    },
+    {
+      "id": "R004-B10-I02",
+      "title": "唯一短梁、两边料与受力段分清",
+      "previous_status": "manual_revision",
+      "previous_severity": "严重",
+      "status": "closed",
+      "reason": "短梁加拆箱两边料错搭；两侧兜绳锁牢，牵引尾段与受力段隔离。闸断海外边料，山侧暂承，桥下绳扣弃失；小说因果可读，不作承载认证。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "能承重的旧梁料只剩这一根。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 9,
+          "line_end": 9
+        },
+        {
+          "chapter": 92,
+          "quote": "阿九拆开撤离箱，从框上取出两条还实的长边料，让它们并排向上行岸伸，尾端分别压上对岸梁头，另一端与短梁错搭。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 11,
+          "line_end": 11
+        },
+        {
+          "chapter": 92,
+          "quote": "过桩后剩下的绳尾留给抬手牵引，与梁下受力段隔着锁结；松收绳尾，兜套仍收着接头。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 53,
+          "line_end": 53
+        },
+        {
+          "chapter": 92,
+          "quote": "兜在桥下的绳段不能硬拽，卡死的扣也没去拿；阿九把能收的线盘好，分清短残段与还能继续使用的两卷余料。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 79,
+          "line_end": 79
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "088—089完整材料因果只余从069带来的一截短梁；089拆封板另得短撑，但明确仍卡在板沿不能抽走当备料。091取现有短梁，未写切分或取得别的梁段，092突然几段，后面靠外一根断、桥剩一根需要至少两根。不能拿后续桥成了倒证有料，也不能把留置短撑无理由带上。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-I05",
+      "title": "唯一便携灯交接与续摇",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "092/097还林栖；098复线续摇才亮；100岑野前照回照后箱边还灯。固定灯座不是新增随队灯。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他把灯递回林栖，叫她照住接缝，再让裴七准备。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 31,
+          "line_end": 31
+        },
+        {
+          "chapter": 97,
+          "quote": "林渡将灯交回妹妹，林栖举向声音传来的墙。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 97,
+          "line_end": 97
+        },
+        {
+          "chapter": 98,
+          "quote": "再缓缓转动灯柄。灯重新亮起，她才照向缝里。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 100,
+          "quote": "岑野在箱边把灯还给林栖。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 27,
+          "line_end": 27
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "本章岑野前头照路，阿九也借同一手摇灯验门；又后端灯能被前端见，林栖稍后舱口用灯，交接缺失。099已明说没有第二套灯和绳，不能脑补另盏灯。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-I07",
+      "title": "C04饮水全链获批且已落正文",
+      "previous_status": "manual_revision",
+      "previous_severity": "中等",
+      "status": "closed",
+      "reason": "098女孩交屋内处理饮水及小壶给杜姨；099仅四孩各小口后封回；100同壶给舱孩分尽。049公共水已尽、器具残液禁入口不改，不留101余额。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "quote": "最大女孩解下腰间的小水壶，递给杜姨：“屋里发的饮水，处理过的。我们喝到只剩这些了。”",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 89,
+          "line_end": 89
+        },
+        {
+          "chapter": 99,
+          "quote": "杜姨解下长屋女孩交来的小水壶，打开盖，先让她看清壶底那点余水，再给这四个孩子各润进一小口，随即盖好。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 100,
+          "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "original_problem": "091—100资源实录及第一卷收官快照已锁定孩子各分一口处理水、极少余水，不能删结果；但049残液不可喝，090只留润孩子布的残液，正文到098用“原先封着”首次断言独立饮用储量，未能回查何处谁封存。后文多次说不是脏布水仍是用途否认，不是来源交代。",
+      "original_source": "harness/maintenance/R004/B10/initial-issues.json",
+      "recovery2_status": "open"
+    },
+    {
+      "id": "R004-B10-RF-N01",
+      "title": "099封回壶不再误称空容器",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "099保留急用余量，100才倒尽；与C04来源分别核实，不能只改名词就算来源闭合。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "杜姨按住刚封好的壶盖，没有再开。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 100,
+          "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "open"
+    },
+    {
+      "id": "R004-B10-RR-N01",
+      "title": "先渡者具名且留桩者未移位",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "林渡全名开启伏残轨动作，随后落地、套绳回送可追；不再以左肩伤倒猜主语。无回程预判另列。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "林渡系好腰间绳，先伏到残轨上。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 45,
+          "line_end": 45
+        },
+        {
+          "chapter": 95,
+          "quote": "阿九系上套绳，伏着残轨过来，接管对岸绳扣；套绳再送回，槐七才过岸，坐到桩后试收两次。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    }
+  ],
+  "previous_round_new_issue_closures": [
+    {
+      "id": "R004-B10-RF-N01",
+      "title": "099封回壶不再误称空容器",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "099保留急用余量，100才倒尽；与C04来源分别核实，不能只改名词就算来源闭合。",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "杜姨按住刚封好的壶盖，没有再开。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 100,
+          "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "open"
+    },
+    {
+      "id": "R004-B10-RF-N02",
+      "title": "第七人改为担架进度",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "倒数一副→杜姨→最后担架前脚上轨是顺序，不冒充全队人数，与爆裂失联相接。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "林栖先随倒数一副过来，膝盖擦着轨枕，落地后先将册子护在身内，空出手接下一人。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 67,
+          "line_end": 67
+        },
+        {
+          "chapter": 95,
+          "quote": "最后这副担架的前脚刚搭上残轨，轨槽深处便传来爆裂声。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 67,
+          "line_end": 67
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RF-N03",
+      "title": "四处指定辩护句动作化",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "092回灯、094画回摆标、095商定岗位、097指尖及让字可抄承接；仅闭旧四处，不包括新回程问题或其他语言残留。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他把灯递回林栖，叫她照住接缝，再让裴七准备。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 31,
+          "line_end": 31
+        },
+        {
+          "chapter": 94,
+          "quote": "弥娅在上面画三道弧线，把潮汐晶片钥匙放在旁边，空出交点作回摆位置的记号。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 9,
+          "line_end": 9
+        },
+        {
+          "chapter": 95,
+          "quote": "最后商定：槐七过岸后负责主拉，阿九管对岸绳扣，旧维修者留在来岸放绳。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 37,
+          "line_end": 37
+        },
+        {
+          "chapter": 97,
+          "quote": "祝衡的指尖从花心移到编号末尾，又退回花心。林栖等他让开，才抄下被手背挡住的那一位。",
+          "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+          "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+          "line_start": 61,
+          "line_end": 61
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RF-N04",
+      "title": "半扣/小框片跨章连续",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "092留非承重零碎小片夹半扣，093误触后隔离抽回，094复用收妥。不是桥框复活、第三完整蓝扣或随队新灯。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "弥娅从拆下的零碎框料里留出一小片，在仪器侧边取下槐七先前试录音用的半枚蓝扣，把扣与松散旧接线一并夹在木片上，免得断口扎破包布。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 93,
+          "quote": "阿九仍压住它，让弥娅从侧面抽回木片和半扣，裹进原包布。",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 85,
+          "line_end": 85
+        },
+        {
+          "chapter": 94,
+          "quote": "弥娅撤下半扣和旧线，抽回晶片钥匙，将它们分开收妥，再合上仪器侧盖。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    }
+  ],
+  "resume_recheck_new_issue_closures": [
+    {
+      "id": "R004-B10-RR-N01",
+      "title": "先渡者具名且留桩者未移位",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "林渡全名开启伏残轨动作，随后落地、套绳回送可追；不再以左肩伤倒猜主语。无回程预判另列。",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "林渡系好腰间绳，先伏到残轨上。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 45,
+          "line_end": 45
+        },
+        {
+          "chapter": 95,
+          "quote": "阿九系上套绳，伏着残轨过来，接管对岸绳扣；套绳再送回，槐七才过岸，坐到桩后试收两次。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    }
+  ],
+  "previous_minor_issue_closures": [
+    {
+      "id": "R004-B10-RR-A01",
+      "title": "098续摇供能补明",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "撤铜片、复线、缓转手柄才亮，未靠余电自动恢复补解释。",
+      "evidence": [
+        {
+          "chapter": 98,
+          "quote": "再缓缓转动灯柄。灯重新亮起，她才照向缝里。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 65,
+          "line_end": 65
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "closed"
+    },
+    {
+      "id": "R004-B10-RR-A02",
+      "title": "两处指定辩护润色已落稿",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "092不催姓名/按桩，095前臂控向留下，后接辩护删掉。只闭这两处，非全文语言清零。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "他接手时先报了自己的工位，林渡没有催名字，只请他把松动的桩根按牢。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 71,
+          "line_end": 71
+        },
+        {
+          "chapter": 95,
+          "quote": "阿九退到桩后坐低，改用前臂控制方向。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 63,
+          "line_end": 63
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "needs_polish"
+    },
+    {
+      "id": "R004-B10-R2-A01",
+      "title": "第二根绳语序修复",
+      "previous_status": null,
+      "previous_severity": null,
+      "status": "closed",
+      "reason": "是裴七把绳带过岸，不是将裴七送到第二根绳；同带线过程一致。",
+      "evidence": [
+        {
+          "chapter": 92,
+          "quote": "裴七把第二根绳带到对岸后，阿九将两根绳分置桥面两侧，各在短梁与箱框边料的搭接处绕出一只兜套。",
+          "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 53,
+          "line_end": 53
+        }
+      ],
+      "closure_basis": "本次当前工作稿全文实读及原句复核；旧独审闭环仅作问题追踪，不继承整体结论。",
+      "recovery2_status": "needs_polish"
+    }
+  ],
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 91,
+      "quote": "原来嵌在墙内的部分露出一线新木，整根梁正一寸寸往外退。",
+      "reason": "风停、灰落与梁头退出连成可见失稳征兆；不是先讲新地点百科再进入危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 91,
+      "quote": "“先送不能爬的。孩子跟在后面。”",
+      "reason": "林渡改父亲的顺序，给出窄桥越塌越难横移伤员的理由；自己掌握指挥，同时采用父亲有效的板角提醒。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 91,
+      "quote": "没有新增失踪，可他们的退路和大块门板已经留在下面。",
+      "reason": "局部救援成功与不可逆物资、退路损失同时落地，不是换个桥原样前进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 91,
+      "quote": "父亲伸手要替他系结，林渡把手收回，叫岑野帮忙。",
+      "reason": "救命没有换来儿子立即亲近，一次拒绝接手足以表现父子关系仍负旧债。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 91,
+      "quote": "林渡把伤员重新排在山侧，让林栖收住反光的册页。狭道尽头，那道先前看不见的门正在升起。",
+      "reason": "装置开始活动，林渡护伤员、收反光作应对；可追问门后是通路还是新筛查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 92,
+      "quote": "来路接着狭道，去路沿山壁向上，两段之间缺了七尺，下面是看不见底的轨槽。",
+      "reason": "门只开到膝高，门外又断七尺；上章门开不等于获救，阻碍具体且立即可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 92,
+      "quote": "“能动手的先架，不能动的先过。去对面是接活，不是占位置。”",
+      "reason": "槐七和林渡将争先次序改成接应岗位，随后林渡检查抓绳能力、允许伤员带非承重线；组织而非身份压服解决冲突。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 92,
+      "quote": "没有人在这一回少掉，木框和大半桥面却留在缺口。",
+      "reason": "过桥确实完成，但箱框拆用、固定绳弃失阻止资源重置；下一道阻碍不能照搬原桥。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 92,
+      "quote": "名字写进册子时，他的手还在抖，卡扣却没有松。",
+      "reason": "报真名与仍承担岗位发生在同一动作里；承认旧债而不即时赦免，合作回报有限可信。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 92,
+      "quote": "他话音刚落，远处广播响起来，清楚念出年轻维修员刚才报过的姓名。那人抬起头，林栖立即把灯压低，林渡叫他离开门口的亮处。",
+      "reason": "公开身份换来点名风险，世界广播与藏身行动相连，下一章追问记录如何追到他们。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 93,
+      "quote": "广播里的姓名只念了一遍，随后换成标准口径：下城区人员已全部转移，断阶区维持封闭。",
+      "reason": "刚看他们艰难过桥，即听全部转移的相反口径；逃亡与被抹除的压力并存。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 93,
+      "quote": "其余行找不到本人，林渡让妹妹另记“本人不在场，未问得”，自己承担毁去这一卷的决定。",
+      "reason": "焚毁没有抹去意愿差异，在场者先问、缺席者不伪造同意；林渡承担丢失原件责任。时间缓冲仍有轻微节奏建议。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 93,
+      "quote": "终端下方的窄纸口吐出一行字：“见证者名单，已上传。”",
+      "reason": "焚纸却因散线误触上传临时册，是保人选择产生的新风险，而非无关天降追兵。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 93,
+      "quote": "林渡让她把自己的名字添在同意焚毁的人后面。这个选择会让证据少一份，不能只留祝衡来承担。",
+      "reason": "把自己写进责任链，毁证难题有了人物承担；行动有效却反噬的落差可理解。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 93,
+      "quote": "那道广播开始念他们的临时编号。林渡叫岑野先看离开平台的路，自己护着册页退入暗处；纸上留下姓名，并不等于那些姓名已经安全。",
+      "reason": "临时号从护人工具变成追踪入口，找离路直接回应；想看他们如何避开识读。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 94,
+      "quote": "整条通路只剩一线灰白边缘，伤员没法跟着看不清的脚印走。",
+      "reason": "广播追号延续，热雾又使担架无法前行，迫使技术角色马上处理具体阻碍。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 94,
+      "quote": "他叫槐七先确认阀在松手时会退向哪边，再让岑野复述失败信号：针若不再回摆，不等喊出时辰，前面便按撤离准备走。",
+      "reason": "林渡不把弥娅孤注一掷当答案，而设失败信号、撤离先后与承力岗位，体现组织成长。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 94,
+      "quote": "弹簧在壳里断开，指针斜落在裂盘上，再没有回去。",
+      "reason": "通路短暂偏雾以永久失去读数为代价，后章不能继续靠仪器报时推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 94,
+      "quote": "她的手在空壳上停了一会儿，随后照着他指的位置收进怀里。",
+      "reason": "失去专长工具以停顿和收起空壳落地；救援有效而能力损失不回滚。短延迟数字宜标粗估，但不抹除此回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 94,
+      "quote": "林渡抬头，叫杜姨报还没过完的人，不再等报废的指针替他们宣布安全。",
+      "reason": "低响、前方断口和不再有读数的领队选择相扣，下章要看怎样靠现场征兆抢过裂口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 95,
+      "quote": "原有踏板只剩短短一段，能走的人可以借绳跨过，不能走的人得贴着残轨拖送，不能叫他们跳。",
+      "reason": "断口、残轨及可走/担架两类动作给出任务，随后换向气流逼近，压力可感。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 95,
+      "quote": "林渡当面说清，若最后一趟带走绳路，留桩的人便没有回程。",
+      "reason": "并非否认已写的松桩、伤手与分工。前文只能证明没有可完整回收的往返线，尚未说明最后一趟为何必须带走绳路，也未排除能行动者沿残轨单向撤回；此前套绳还可回送。是在安排不可回撤岗位还是高风险留守，读者口径不稳，见AV2-N01。",
+      "verdict": "needs_revision"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 95,
+      "quote": "他让册上添失联，不添死亡。",
+      "reason": "留桩者失去回应、残轨坠落，两处失联分列且不冒报死亡；人物和资源后果持续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 95,
+      "quote": "“字记了。”林栖说，声音很轻，“人没回来。”",
+      "reason": "姓名留存而人失联有力量，热汽足以解释实际救援失败；但事前没有回线的预判缺少一环，会让读者停在为何已判无回程，削弱核心牺牲的可信度。与choice同属AV2-N01，不另计第二问题。",
+      "verdict": "needs_revision"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 95,
+      "quote": "没人再把那片灯光当作欢迎，但他们只能向那里去。",
+      "reason": "身后裂口已毁、前方白灯不再承诺安全；林渡仍下令走，下章具体追问上城区会接纳还是拒绝他们。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 96,
+      "quote": "上城区外缘没有欢迎的人。",
+      "reason": "结实平路与无人接应形成落差，延续095对白灯的疑虑，未到新地图便清空危机。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 96,
+      "quote": "林渡让他先看阿九指出的锁杆，再问板后若是配重，伤员往哪边躲。",
+      "reason": "拦住砸门，令冲动者考虑可躲空间；选择保存救援能力而非借愤怒硬闯。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 96,
+      "quote": "最后一齿仍从旧裂口脱落，掉在两人之间。",
+      "reason": "尺从裂损继续到脱齿，门又不认活人/临时册；工具与安全区预期都改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 96,
+      "quote": "林渡把脱齿放进包尺的旧布，收好尺身。",
+      "reason": "收一枚齿让职业、父子共同记忆的磨损可感；不立即和解，也不让尺发神力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 96,
+      "quote": "他把孩子拢回队伍中间，指向长屋所在的那条街：“先找能听见我们说话的人。别照广播站在门前等。”",
+      "reason": "欢迎广播与空街相反，人物转找真实应答者；下一章有目的，不是漫游新地图。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 97,
+      "quote": "这里靠山，屋檐间留着窄窄的空隙，可以避开正对街心的识读灯，却躲不开不断升高的温度。",
+      "reason": "藏踪与避热无法兼得，空街探索仍承受身份拒绝的压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 97,
+      "quote": "他不催祝衡把猜测说成答案，只让林栖把整串编号按原样抄，不擅自添上“已到达”。",
+      "reason": "理解家属期待却不伪造证据，同时给寻找限时；林渡在领队与个人愿望间取舍。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 97,
+      "quote": "三短一长，随后侧街的门同时锁紧，原来能看进去的一条窗缝也被内板遮住。",
+      "reason": "旧节律在此对应锁街，认识被修正；找线索转为制度装置继续收紧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 97,
+      "quote": "祝衡看她写完，才把鞋扣放进衣内，与记录片残段分开，免得金属边磨伤薄片。",
+      "reason": "可携走的家属线索给希望实物支点，又不宣布妹妹已获救来冒领情绪。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 97,
+      "quote": "林渡数了一遍眼前孩子，全在身旁，哭声却隔着厚板往外挤。",
+      "reason": "哭声来自另一群孩子，船也在上方；岑野盯船、林渡找墙口，下章有救还是追的具体压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 98,
+      "quote": "林渡沿山侧走到尽头，又从另一头折回，始终找不到能推开的门缝。",
+      "reason": "确有哭声但无入口，目标与空间阻碍同现；不需先懂术语才知道要救谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 98,
+      "quote": "“我们来接活人，不是来补一张准入纸。”他对里面说。",
+      "reason": "册子未能开门后，把目的落回接人，再用侧推退锁和短触配合，不让身份系统代替救人判断。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 98,
+      "quote": "四个人逐个离开梯底。",
+      "reason": "孩子真的到门外；针阵、损毁铰链、微量饮水有代价和交接，不是又发现神秘门。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 98,
+      "quote": "女孩终于伸出手。林渡托肘，杜姨在后面接腰，让她先坐到墙外，再带第二个。",
+      "reason": "从不信任到主动伸手，救援不止解锁成功；耐心与同类处境换来信任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 98,
+      "quote": "四个孩子已在外面，可屋里的锁并不打算留下这条路。",
+      "reason": "墙缝闭拢、巡查灯进入，要求立刻带人离开；自然承接核身份与寻路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 99,
+      "quote": "四个孩子被接离长屋门槛时，广播仍在重复：“居民已全部撤离。”",
+      "reason": "四人直接反证广播，既续救援结果又提出本章证据问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 99,
+      "quote": "“一起走。孩子在中间。”",
+      "reason": "船将走仍不拆队，前文灯绳照护无法分套；选择承担孩子而非拿他们换赶路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 99,
+      "quote": "她摇头：“这里只看得到它在重播。”",
+      "reason": "旧日期、演练片、循环画面把广播错了变成可复查事实，但不越级确定幕后者；路线片又给可试通路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 99,
+      "quote": "杜姨在册上找到林渡那一行，让他自己应。林渡应了一声，把册页递还，没有去和广播比谁喊得大。",
+      "reason": "无此人的广播被身边应名反证，记录主题化成互动，而非只靠旁白宣言。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 99,
+      "quote": "他先接过杜姨抬不动的担架尾，才向前端示意。去看看那艘船，不等于答应将孩子交给它。",
+      "reason": "船灯逐格亮、旧图通平台；整队前往但保留判断权，追问白船接谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 100,
+      "quote": "走到第三根时，白船已从原先的位置滑出两跨；他每过一根立柱，就用鞋尖在浮灰上划一道，数到第五根才停，随即举手让前面的担架放慢。",
+      "reason": "两种可见位移比较追船速度，压力不是抽象倒数；开场即减速护伤员。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 100,
+      "quote": "他没有喊进船。四个长屋孩子也不往舱里送，岑野守在箱边，将两处的人分开报数。",
+      "reason": "发现舱孩后目标由登船转为接人出船，不把已有孩子交未知装置，区别于只求上船的逃亡者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 100,
+      "quote": "最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+      "reason": "舱孩救出、饮水分尽、绳扣留失，获救者增加同时生存储备下降。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 100,
+      "quote": "那只手终于松了。",
+      "reason": "护板后孩子听到同伴回应才松开衣摆，恐惧到信任有落点；未把看不见的主舱也宣布救空。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 100,
+      "quote": "自己沿新亮起的船灯寻找仍接着平台的路，走几步便回头核一次人数。",
+      "reason": "船飞走、更多船灯亮，而林渡留平台负担更多活人；找接路和找门后人形成双钩。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 100,
+      "quote": "林渡让林栖照原字抄下，另标明是从这艘船上看见的。武器站在哪里、里面在做什么，他们还不知道；眼前这道门把哪些人留在外面，却已经有一排孩子坐在这里作证。",
+      "reason": "跨断阶保人、保存真实记录的承诺，在到上城区、两次接孩子和非核心不回收的现场证据中局部兑现；未靠终局揭秘。095选择依据另阻断整体，不能被此pass抵销。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 100,
+      "quote": "上城区深处，更多船灯一盏接一盏亮起。",
+      "reason": "压力从091—095结构/材料不足与失联，升级到096—099身份否认，再到100选择性撤离；新增孩子却失水失工具，扩大救谁/如何作证的难题，不只增加敌人。",
+      "verdict": "pass"
+    }
+  ],
+  "attraction_coverage": {
+    "chapters_full_read": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "chapter_checks": 50,
+    "arc_checks": 2,
+    "total": 52,
+    "pass": 50,
+    "needs_revision": 2,
+    "failed_issue_count": 1,
+    "not_reviewed_opening_criteria": [
+      "first_page_hook",
+      "protagonist_stakes",
+      "three_chapter_promise",
+      "exposition_cost"
+    ],
+    "note": "真实入口与前三章不在范围，未审、不倒签开篇四项。"
+  },
+  "unchanged_since_recovery2": [
+    91,
+    93,
+    94,
+    96,
+    97
+  ],
+  "unchanged_review_note": "091/093/094/096/097与recovery2同SHA，旧独审指定问题闭环加本次全文实读确认；未直接继承整体pass，改动章不沿用旧指纹。",
+  "write_scope": [
+    "harness/maintenance/R004/B10/approved-v2-body-first.md",
+    "harness/maintenance/R004/B10/approved-v2-final.md",
+    "harness/maintenance/R004/B10/approved-v2-final.json"
+  ],
+  "manuscript_edits": [],
+  "ledger_edits": [],
+  "navigation_edits": [],
+  "publication_commands_run": [],
+  "report_complete": true,
+  "advisory_observations": [
+    {
+      "id": "R004-B10-AV2-A01",
+      "chapter": 93,
+      "severity": "轻微",
+      "status": "needs_polish",
+      "blocking": false,
+      "title": "抄烧过程的追兵缓冲不够可跟踪",
+      "evidence": [
+        {
+          "chapter": 93,
+          "quote": "金属靴底的回声比刚才近了，祝衡报过的两百步不是一个能慢慢商量的期限。",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 43,
+          "line_end": 43
+        },
+        {
+          "chapter": 93,
+          "quote": "“约两百步。过不了坏桥，正绕平台。”",
+          "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+          "line_start": 9,
+          "line_end": 9
+        }
+      ],
+      "reason": "坏桥迫绕已经写出，不能判两百步内抄烧绝对不可能。但逐人问、逐行抄、逐页烧较长，逼近脚步之后没再给读者可跟踪的缓冲变化。",
+      "action": "在抄烧中用现有阿九听脚步补一次距离/方向变化或简短催报，不另加新障碍。"
+    },
+    {
+      "id": "R004-B10-AV2-A02",
+      "chapter": 94,
+      "severity": "轻微",
+      "status": "needs_polish",
+      "blocking": false,
+      "title": "短延迟的粗估归属可更清楚",
+      "evidence": [
+        {
+          "chapter": 94,
+          "quote": "争得的是不到半个时辰的短延迟，不是人人能安稳停留的六小时；随着风又开始向内吸，这一点延迟也在流失。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "reason": "旧薄片、最后回摆、垫片记号已给粗估依据，不认仪器复活或硬时间矛盾；但不到半时辰用旁白确定口吻，容易被当精确剩余量。",
+      "action": "落到弥娅依据最后一次粗测的估计，不把旧六小时周期当从现在开始的安全窗，不用台账替正文证明。"
+    },
+    {
+      "id": "R004-B10-AV2-A03",
+      "chapter": 99,
+      "severity": "轻微",
+      "status": "needs_polish",
+      "blocking": false,
+      "title": "取片角的对象及孩子位置略含糊",
+      "evidence": [
+        {
+          "chapter": 99,
+          "quote": "林渡不肯让孩子再靠回墙前，取的是已经松开的片角，由弥娅托住，林栖用铜片隔在旧触点之间试接，手摇灯只照字，不给整面墙供能。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 37,
+          "line_end": 37
+        }
+      ],
+      "reason": "前文先翻片角，后文仍四片有覆膜路线；此句未分清取下整片、单片角还是仅将翘角移近，需回读才能想象孩子是否仍靠识读口。不是报废仪器复活。",
+      "action": "明确取下的是已松脱片角还是整片，以及孩子仍留安全侧；只澄清现有动作，不增万能读片功能。"
+    },
+    {
+      "id": "R004-B10-AV2-A04",
+      "chapter": 100,
+      "severity": "轻微",
+      "status": "needs_polish",
+      "blocking": false,
+      "title": "槐七伸手时的承力接续可补半句",
+      "evidence": [
+        {
+          "chapter": 100,
+          "quote": "借槐七伸来的手，才把小臂搭回平台。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 75,
+          "line_end": 75
+        },
+        {
+          "chapter": 100,
+          "quote": "槐七把绳套绕过止动环，另一端先走箱座下的固定铁耳，才同阿九一起向侧后方拉。",
+          "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+          "line_start": 39,
+          "line_end": 39
+        }
+      ],
+      "reason": "前面绳经固定铁耳转向，槐七只伸一手帮小臂搭回，未说双手全松或把林渡整人提起，故不足以判承力断裂；但读者仍需自行保留另一只手。",
+      "action": "补另一手仍压绳或明确现有人接手，不新增人/绳，不取消原有损耗。"
+    },
+    {
+      "id": "R004-B10-AV2-A05",
+      "chapter": 91,
+      "severity": "轻微",
+      "status": "needs_polish",
+      "blocking": false,
+      "title": "边界总结与叙述辩护仍有残留",
+      "evidence": [
+        {
+          "chapter": 91,
+          "quote": "他们不能每换一处地，就把旧账和当前的人重新搅在一起。",
+          "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+          "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+          "line_start": 17,
+          "line_end": 17
+        },
+        {
+          "chapter": 94,
+          "quote": "这个调整没有加出新材料，只把两个人从更方便的位置赶到了难以使劲的位置。",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+          "line_start": 61,
+          "line_end": 61
+        },
+        {
+          "chapter": 95,
+          "quote": "这个桩根需要他活着用力，木牌上的签字也仍需要他活着解释。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 61,
+          "line_end": 61
+        },
+        {
+          "chapter": 99,
+          "quote": "林渡看着他做完，仍让妹妹把那句关于表的话记在口述后，不拿这一下照顾作抵账。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+          "line_start": 59,
+          "line_end": 59
+        }
+      ],
+      "reason": "分栏已给出后再总结，和094材料辩护、095活着解释签字、099照顾不抵账形成同声的边界说明。旧指定句删掉不等于全文AI腔清零；不按“不”词频删必要规则。",
+      "action": "091留指旧行/分栏动作；094留岗位改变和木粉停止，删没加材料总结；095留父亲压桩与未完证词的后续行动；099留另记口述，删不抵账尾评。"
+    },
+    {
+      "id": "R004-B10-AV2-A06",
+      "chapter": 95,
+      "severity": "轻微",
+      "status": "needs_polish",
+      "blocking": false,
+      "title": "木屑姓名的来源指代易误认实物",
+      "evidence": [
+        {
+          "chapter": 95,
+          "quote": "槐七按着空掌站了一会儿，走到林栖身边，看她把木屑上的姓名再读一遍，才去扶伤员。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 85,
+          "line_end": 85
+        },
+        {
+          "chapter": 95,
+          "quote": "林栖看见其中一个字被木纹劈开，问他怎样念，照答声先抄进册页。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 39,
+          "line_end": 39
+        },
+        {
+          "chapter": 95,
+          "quote": "槐七僵了片刻，松开手里那块木屑，热风将它从掌边卷走。",
+          "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+          "line_start": 77,
+          "line_end": 77
+        }
+      ],
+      "reason": "前文已先抄进册页、木屑又被风卷走，此处是林栖读册内抄录的合理指代，不判木屑复活；但“木屑上的”容易暂时让读者回指仍在手的物件。用户后提供WB交叉线索，不追写成首读已发现。",
+      "action": "改为“看她把从木屑抄进册页的姓名再读一遍”或等价来源限定；正文不增取回木屑事件。"
+    }
+  ],
+  "first_read_followup": [
+    {
+      "chapter": 93,
+      "result": "轻微节奏建议",
+      "reference": "R004-B10-AV2-A01"
+    },
+    {
+      "chapter": 94,
+      "result": "不构成仪器恢复或硬时间矛盾；轻微知识归属建议",
+      "reference": "R004-B10-AV2-A02"
+    },
+    {
+      "chapter": 95,
+      "result": "核实为中等未闭",
+      "reference": "R004-B10-AV2-N01"
+    },
+    {
+      "chapter": 98,
+      "result": "消疑，不判万能破解",
+      "evidence": [
+        {
+          "chapter": 98,
+          "quote": "林栖已经看见平口边的旧触点亮了一瞬，随后又亮又灭，在反复等某一路信号。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 39,
+          "line_end": 39
+        },
+        {
+          "chapter": 98,
+          "quote": "阿九看见后立刻叫她别持续摇，反向电流只许短触，烧坏灯线，他们连下一处裂缝都照不清。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 55,
+          "line_end": 55
+        },
+        {
+          "chapter": 98,
+          "quote": "墙内的针阵停顿了一息，旧识读触点发出细小的噼啪声，不再催动下一轮。",
+          "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 59,
+          "line_end": 59
+        }
+      ],
+      "reason": "现文是有限试接：先观察触点，正接引防卫，撤片换向短触，只停针一息，机械推楔仍必要；角色电池学徒设定仅相容核对，不代补正文经验。可选将试错意图再点明，但不列同级问题。"
+    },
+    {
+      "chapter": 99,
+      "result": "片角指代轻微；广播判断已有重播限界",
+      "reference": "R004-B10-AV2-A03"
+    },
+    {
+      "chapter": 100,
+      "result": "不判槐七瞬移/两手全松；建议补承力接续",
+      "reference": "R004-B10-AV2-A04"
+    }
+  ],
+  "standards_crosscheck": {
+    "正文与连载规范第九节": [
+      {
+        "item": 1,
+        "title": "人物位置链",
+        "verdict": "pass",
+        "reason": "091先过岸接应、095实际渡次、100灯和杜姨箱边岗位均可回查；留守必要性的中等问题非位置瞬移。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "林渡落地先解下套绳，让来岸沿原线拉回。阿九系上套绳，伏着残轨过来，接管对岸绳扣；套绳再送回，槐七才过岸，坐到桩后试收两次。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 49,
+            "line_end": 49
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "title": "数字闭环",
+        "verdict": "pass",
+        "reason": "原册、会合者、新孩、两失联分栏；094一包可用药保留；100不精确化舱孩。C05只解101实录授权，不推48。",
+        "evidence": [
+          {
+            "chapter": 100,
+            "quote": "四名长屋孩子在原来的四行里，舱中孩子另起一组。",
+            "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+            "line_start": 83,
+            "line_end": 83
+          }
+        ]
+      },
+      {
+        "item": 3,
+        "title": "信息释放顺序",
+        "verdict": "pass",
+        "reason": "在日期比较后才纠偏；重播而非幕后人、船名而非双陆终局，局部异常未提前写成制度全解。",
+        "evidence": [
+          {
+            "chapter": 99,
+            "quote": "“纸面是七年前。”祝衡说，“不是他们在这里待了七年。”",
+            "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+            "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+            "line_start": 31,
+            "line_end": 31
+          }
+        ]
+      },
+      {
+        "item": 4,
+        "title": "知识来源",
+        "verdict": "needs_polish",
+        "reason": "旧薄片与最后回摆支持估计，但旁白量值归属可更清楚；098试接及099旧影像另有可见依据。",
+        "evidence": [
+          {
+            "chapter": 94,
+            "quote": "争得的是不到半个时辰的短延迟，不是人人能安稳停留的六小时；随着风又开始向内吸，这一点延迟也在流失。",
+            "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+            "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+            "line_start": 81,
+            "line_end": 81
+          }
+        ],
+        "action": "落到弥娅依据最后一次粗测的估计，不把旧六小时周期当从现在开始的安全窗，不用台账替正文证明。",
+        "issue_ref": "R004-B10-AV2-A02"
+      },
+      {
+        "item": 5,
+        "title": "物件物理",
+        "verdict": "needs_polish",
+        "reason": "尺不承力、仪器不复活、灯线复位可追；此处取片角与孩子位置仍有轻微不清。095回程可行条件另见中等N01；100承力接续见A04。",
+        "evidence": [
+          {
+            "chapter": 99,
+            "quote": "林渡不肯让孩子再靠回墙前，取的是已经松开的片角，由弥娅托住，林栖用铜片隔在旧触点之间试接，手摇灯只照字，不给整面墙供能。",
+            "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+            "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+            "line_start": 37,
+            "line_end": 37
+          }
+        ],
+        "action": "明确取下的是已松脱片角还是整片，以及孩子仍留安全侧；只澄清现有动作，不增万能读片功能。",
+        "issue_ref": "R004-B10-AV2-A03"
+      },
+      {
+        "item": 6,
+        "title": "时间口径",
+        "verdict": "needs_polish",
+        "reason": "同日凉时末到热时未混成另一天；追兵坏桥绕行已给，但长抄烧过程缺可追踪缓冲。",
+        "evidence": [
+          {
+            "chapter": 93,
+            "quote": "金属靴底的回声比刚才近了，祝衡报过的两百步不是一个能慢慢商量的期限。",
+            "path": "异星录/正文/第一卷_热海坠城/第093章_烧毁名单.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+            "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa",
+            "line_start": 43,
+            "line_end": 43
+          }
+        ],
+        "action": "在抄烧中用现有阿九听脚步补一次距离/方向变化或简短催报，不另加新障碍。",
+        "issue_ref": "R004-B10-AV2-A01"
+      },
+      {
+        "item": 7,
+        "title": "光影方向",
+        "verdict": "pass",
+        "reason": "檐影遮光不当作降温，滴水遇热槽给依据；097靠山避街心识读灯、100前后回照均守可见范围，未见倒投影。",
+        "evidence": [
+          {
+            "chapter": 96,
+            "quote": "阴影遮住了灯，却不一定比路中凉。",
+            "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+            "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+            "line_start": 69,
+            "line_end": 69
+          }
+        ]
+      },
+      {
+        "item": 8,
+        "title": "能力边界/供能",
+        "verdict": "pass",
+        "reason": "手摇仅给短触信号，开门靠屋内动力及推楔；094靠管压人工杆，099墙内供能读旧画面；无新增电池或神力。",
+        "evidence": [
+          {
+            "chapter": 98,
+            "quote": "“不是给门供力。”林栖说，“只试这处询问触点。里面的开门机构还得有自己的电。”",
+            "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+            "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+            "line_start": 43,
+            "line_end": 43
+          }
+        ]
+      },
+      {
+        "item": 9,
+        "title": "感官依据",
+        "verdict": "pass",
+        "reason": "热汽预判有灰的方向和吸气声，098哭声从墙脚出、白布盖声；不是看穿墙或凭空闻抽象气味。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "细灰朝裂口内卷，随后停在边缘打转，下面的气流正在换向。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 11,
+            "line_end": 11
+          }
+        ]
+      },
+      {
+        "item": 10,
+        "title": "人体常识",
+        "verdict": "pass",
+        "reason": "搬运随伤改姿势；父亲仅左手稳方向、不能接全重；旧伤制约动作，残液不入口，不把伤势需要时消除。",
+        "evidence": [
+          {
+            "chapter": 92,
+            "quote": "杜姨替他将伤腿顺直，避免布边缠在梁的接头，告诉他只用两肘，不用那条腿蹬。",
+            "path": "异星录/正文/第一卷_热海坠城/第092章_共同架桥.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+            "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+            "line_start": 33,
+            "line_end": 33
+          }
+        ]
+      },
+      {
+        "item": 11,
+        "title": "叙述者翻译/辩护",
+        "verdict": "needs_polish",
+        "reason": "坐低换承点和木粉停止已给结果，再总结未新增材料偏面向审稿者；091/095/099也有边界尾评。",
+        "evidence": [
+          {
+            "chapter": 94,
+            "quote": "这个调整没有加出新材料，只把两个人从更方便的位置赶到了难以使劲的位置。",
+            "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+            "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+            "line_start": 61,
+            "line_end": 61
+          }
+        ],
+        "action": "091留指旧行/分栏动作；094留岗位改变和木粉停止，删没加材料总结；095留父亲压桩与未完证词的后续行动；099留另记口述，删不抵账尾评。",
+        "issue_ref": "R004-B10-AV2-A05"
+      },
+      {
+        "item": 12,
+        "title": "动作—结果闭环",
+        "verdict": "pass",
+        "reason": "看的是锁杆连接，结果决定推柜；100看受压是否松动，非“再看一眼”悬空。转运段长但动作有位置/体位结果，不一概判流水账。",
+        "evidence": [
+          {
+            "chapter": 97,
+            "quote": "林栖看清不连门内锁杆，才从侧面推开。",
+            "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+            "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+            "line_start": 23,
+            "line_end": 23
+          }
+        ]
+      },
+      {
+        "item": 13,
+        "title": "验证动作分工",
+        "verdict": "pass",
+        "reason": "一人给位置一人核受压状态，旧重复看已分工；093读回姓名属抄录差错校验，有真实纠错后果，不是无效复查。",
+        "evidence": [
+          {
+            "chapter": 100,
+            "quote": "父亲报出支承位置，林渡便看梁头受压时有没有松动，再让父亲指给下一个人认。",
+            "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+            "line_start": 13,
+            "line_end": 13
+          }
+        ]
+      },
+      {
+        "item": 14,
+        "title": "指代落地",
+        "verdict": "needs_polish",
+        "reason": "册中已有抄名，木屑已卷走；可理解为来源指代但容易误读实物仍在。099片角另见A03。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "槐七按着空掌站了一会儿，走到林栖身边，看她把木屑上的姓名再读一遍，才去扶伤员。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 85,
+            "line_end": 85
+          }
+        ],
+        "action": "改为“看她把从木屑抄进册页的姓名再读一遍”或等价来源限定；正文不增取回木屑事件。",
+        "issue_ref": "R004-B10-AV2-A06"
+      },
+      {
+        "item": 15,
+        "title": "像是限量",
+        "verdict": "pass",
+        "reason": "痕迹观察直接落物；逐章“像是”均0，但只作计数辅助，不以此保证全文风格。",
+        "evidence": [
+          {
+            "chapter": 98,
+            "quote": "屋前地板留着人反复走过的磨痕，磨痕到墙根便断，墙脚三排小孔却一直往外送温热的气。",
+            "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+            "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+            "line_start": 5,
+            "line_end": 5
+          }
+        ]
+      },
+      {
+        "item": 16,
+        "title": "称谓中性",
+        "verdict": "pass",
+        "reason": "用职业/相对年龄区分身份，不以伤病侮辱命名；裴七、阿九的伤势用于行动限制。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "一名年长旧维修者蹲到桩旁。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 23,
+            "line_end": 23
+          }
+        ]
+      },
+      {
+        "item": 17,
+        "title": "用字与命名",
+        "verdict": "pass",
+        "reason": "简体叙述；水壶持有人/来源稳定，蓝扣、卡扣不混成同一种功能件；本次人工未见需另立的人名异写。",
+        "evidence": [
+          {
+            "chapter": 98,
+            "quote": "最大女孩解下腰间的小水壶，递给杜姨：“屋里发的饮水，处理过的。我们喝到只剩这些了。”",
+            "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+            "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+            "line_start": 89,
+            "line_end": 89
+          }
+        ]
+      },
+      {
+        "item": 18,
+        "title": "纯汉字硬下限",
+        "verdict": "pass",
+        "reason": "本句仅定位实稿，统计全章非此引句：去Markdown标题，按统一汉字正则计数；十章2220—2584，均过2200且未过3200。字数不替代质量。",
+        "evidence": [
+          {
+            "chapter": 99,
+            "quote": "“一起走。孩子在中间。”",
+            "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+            "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+            "line_start": 81,
+            "line_end": 81
+          }
+        ]
+      },
+      {
+        "item": 19,
+        "title": "行数参考",
+        "verdict": "pass",
+        "reason": "实稿83—99行低于第一卷参考100—180，但参考非硬门禁，短句与较长动作段自然交错，不应为凑行加注水句。",
+        "evidence": [
+          {
+            "chapter": 100,
+            "quote": "白船还没有离开轨道。",
+            "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+            "line_start": 3,
+            "line_end": 3
+          }
+        ]
+      },
+      {
+        "item": 20,
+        "title": "补字内容/结果边界",
+        "verdict": "pass",
+        "reason": "本次批准补丁补水来源/容器链，不增加精确容量或新净化能力；其他补字核承接而非为达字数增事件。仍有A05可删总结。",
+        "evidence": [
+          {
+            "chapter": 100,
+            "quote": "她解下长屋女孩交来的小水壶，将上次封回的处理水余量一点点分给刚接出的孩子，只够各润一小口。",
+            "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+            "line_start": 81,
+            "line_end": 81
+          }
+        ]
+      }
+    ],
+    "文风与细节精修规范第二节": [
+      {
+        "item": 1,
+        "title": "抽象结论代替动作",
+        "verdict": "pass",
+        "reason": "父子隔阂用拒绝接手落地；无须直接宣布关系恢复。A05所列主题尾评仍建议删。",
+        "evidence": [
+          {
+            "chapter": 91,
+            "quote": "父亲伸手要替他系结，林渡把手收回，叫岑野帮忙。",
+            "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+            "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+            "line_start": 79,
+            "line_end": 79
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "title": "连续否定解释",
+        "verdict": "needs_polish",
+        "reason": "有必要区分旧失联、信号与供力，但已给动作后的否定总结多处同声；不是见“不”就删。",
+        "evidence": [
+          {
+            "chapter": 91,
+            "quote": "他们不能每换一处地，就把旧账和当前的人重新搅在一起。",
+            "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+            "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+            "line_start": 17,
+            "line_end": 17
+          }
+        ],
+        "action": "091留指旧行/分栏动作；094留岗位改变和木粉停止，删没加材料总结；095留父亲压桩与未完证词的后续行动；099留另记口述，删不抵账尾评。",
+        "issue_ref": "R004-B10-AV2-A05"
+      },
+      {
+        "item": 3,
+        "title": "比喻密度及职业尺度",
+        "verdict": "pass",
+        "reason": "尺度来自身体和梁板，不为漂亮比喻打断危险；未见同一场景连续两明喻堆叠。",
+        "evidence": [
+          {
+            "chapter": 91,
+            "quote": "脚下凹下去一掌深。",
+            "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+            "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+            "line_start": 19,
+            "line_end": 19
+          }
+        ]
+      },
+      {
+        "item": 4,
+        "title": "同构句/匀称段落",
+        "verdict": "needs_polish",
+        "reason": "动作段与短问答交错，但多章仍有“有X却不等于Y”的收尾形态；针对A05删旁白尾评，不全章机械换开头。",
+        "evidence": [
+          {
+            "chapter": 94,
+            "quote": "争得的是不到半个时辰的短延迟，不是人人能安稳停留的六小时；随着风又开始向内吸，这一点延迟也在流失。",
+            "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+            "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+            "line_start": 81,
+            "line_end": 81
+          }
+        ],
+        "action": "091留指旧行/分栏动作；094留岗位改变和木粉停止，删没加材料总结；095留父亲压桩与未完证词的后续行动；099留另记口述，删不抵账尾评。",
+        "issue_ref": "R004-B10-AV2-A05"
+      },
+      {
+        "item": 5,
+        "title": "全知情绪动机",
+        "verdict": "pass",
+        "reason": "祝衡情绪从手、语句、分装推知，没有宣布鞋扣归属；林渡限知的判断不升级为他人内心事实。",
+        "evidence": [
+          {
+            "chapter": 97,
+            "quote": "他不说这是妹妹的，只说自己在家属身上见过类似的款式。",
+            "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+            "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+            "line_start": 65,
+            "line_end": 65
+          }
+        ]
+      },
+      {
+        "item": 6,
+        "title": "无功能点头/沉默",
+        "verdict": "pass",
+        "reason": "沉默后有具体照护动作，回答不了人在哪里的张力保留；尾部不抵账总结另列A05。",
+        "evidence": [
+          {
+            "chapter": 99,
+            "quote": "父亲没回答，转身用左手给最小孩子挡住了屋角凸出的木刺。",
+            "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+            "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+            "line_start": 59,
+            "line_end": 59
+          }
+        ]
+      },
+      {
+        "item": 7,
+        "title": "叙述者翻译/辩护",
+        "verdict": "needs_polish",
+        "reason": "口述另记已足，尾接不抵账替读者解释关系；旧指定句闭合不代表新残留免审。",
+        "evidence": [
+          {
+            "chapter": 99,
+            "quote": "林渡看着他做完，仍让妹妹把那句关于表的话记在口述后，不拿这一下照顾作抵账。",
+            "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+            "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+            "line_start": 59,
+            "line_end": 59
+          }
+        ],
+        "action": "保留另记口述，删“不拿这一下照顾作抵账”的尾评。",
+        "issue_ref": "R004-B10-AV2-A05"
+      },
+      {
+        "item": 8,
+        "title": "动作罗列流水账",
+        "verdict": "pass",
+        "reason": "前接针位与手势，后接雾偏，动作每步改变状态；段落技术较密但有结果，不只操作清单。",
+        "evidence": [
+          {
+            "chapter": 94,
+            "quote": "管内压力推着连杆向回退了半格，他抵住杆尾，不让它继续回走。",
+            "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+            "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+            "line_start": 65,
+            "line_end": 65
+          }
+        ]
+      },
+      {
+        "item": 9,
+        "title": "动词悬空",
+        "verdict": "pass",
+        "reason": "探孔后见连锁杆，有观察对象与结论，不是“换两处听”之类悬空。",
+        "evidence": [
+          {
+            "chapter": 96,
+            "quote": "里面不是空门闩，而是一排连到地板下的锁杆。",
+            "path": "异星录/正文/第一卷_热海坠城/第096章_上城区外缘.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+            "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+            "line_start": 43,
+            "line_end": 43
+          }
+        ]
+      },
+      {
+        "item": 10,
+        "title": "重复验证",
+        "verdict": "pass",
+        "reason": "父亲报位置与林渡查受压各有侧重，确认再指下一人不是再做同一个检验。",
+        "evidence": [
+          {
+            "chapter": 100,
+            "quote": "父亲报出支承位置，林渡便看梁头受压时有没有松动，再让父亲指给下一个人认。",
+            "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+            "line_start": 13,
+            "line_end": 13
+          }
+        ]
+      },
+      {
+        "item": 11,
+        "title": "像是堆叠",
+        "verdict": "pass",
+        "reason": "痕迹以具体磨损写出；逐章0次“像是”符合至多一处，但不以词频代风格判断。",
+        "evidence": [
+          {
+            "chapter": 98,
+            "quote": "屋前地板留着人反复走过的磨痕，磨痕到墙根便断，墙脚三排小孔却一直往外送温热的气。",
+            "path": "异星录/正文/第一卷_热海坠城/第098章_没有门的建筑.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+            "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+            "line_start": 5,
+            "line_end": 5
+          }
+        ]
+      }
+    ],
+    "文风与细节精修规范第七节": [
+      {
+        "item": 1,
+        "title": "明喻/推断句密度",
+        "verdict": "pass",
+        "reason": "尺度性描述服务危险；“像是”十章均0，未靠连续明喻制造情绪。",
+        "evidence": [
+          {
+            "chapter": 91,
+            "quote": "脚下凹下去一掌深。",
+            "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+            "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+            "line_start": 19,
+            "line_end": 19
+          }
+        ]
+      },
+      {
+        "item": 2,
+        "title": "突然是否替代征兆",
+        "verdict": "pass",
+        "reason": "爆裂前已有吸气声与细灰换向；100离轨前船灯/轨靴/震动铺垫，不是仅靠突然推动。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "细灰朝裂口内卷，随后停在边缘打转，下面的气流正在换向。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 11,
+            "line_end": 11
+          }
+        ]
+      },
+      {
+        "item": 3,
+        "title": "连续无功能沉默",
+        "verdict": "pass",
+        "reason": "未答问题后挡木刺是实际动作；沉默有拒答/无法答功能，不作为万能节拍填充。",
+        "evidence": [
+          {
+            "chapter": 99,
+            "quote": "父亲没回答，转身用左手给最小孩子挡住了屋角凸出的木刺。",
+            "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+            "sha256": "f6feb2a0148176b4eaab0ad193a74499f73ce8dfb98a3388c609185deca30142",
+            "line_start": 59,
+            "line_end": 59
+          }
+        ]
+      },
+      {
+        "item": 4,
+        "title": "连续不是而是解释",
+        "verdict": "needs_polish",
+        "reason": "必要供能边界保留，动作后再向读者澄清未增材料偏冗余。",
+        "evidence": [
+          {
+            "chapter": 94,
+            "quote": "这个调整没有加出新材料，只把两个人从更方便的位置赶到了难以使劲的位置。",
+            "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+            "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+            "line_start": 61,
+            "line_end": 61
+          }
+        ],
+        "action": "091留指旧行/分栏动作；094留岗位改变和木粉停止，删没加材料总结；095留父亲压桩与未完证词的后续行动；099留另记口述，删不抵账尾评。",
+        "issue_ref": "R004-B10-AV2-A05"
+      },
+      {
+        "item": 5,
+        "title": "感知动词对象",
+        "verdict": "pass",
+        "reason": "观察对象为锁杆连接，结果决定动作，未见须另立的悬空动词。",
+        "evidence": [
+          {
+            "chapter": 97,
+            "quote": "林栖看清不连门内锁杆，才从侧面推开。",
+            "path": "异星录/正文/第一卷_热海坠城/第097章_无人街道.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+            "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+            "line_start": 23,
+            "line_end": 23
+          }
+        ]
+      },
+      {
+        "item": 6,
+        "title": "翻译辩护禁语",
+        "verdict": "needs_polish",
+        "reason": "即使不含禁词，这句仍代读者总结分栏含义，列出实句而非凭关键词判无问题。",
+        "evidence": [
+          {
+            "chapter": 91,
+            "quote": "他们不能每换一处地，就把旧账和当前的人重新搅在一起。",
+            "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+            "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+            "line_start": 17,
+            "line_end": 17
+          }
+        ],
+        "action": "091留指旧行/分栏动作；094留岗位改变和木粉停止，删没加材料总结；095留父亲压桩与未完证词的后续行动；099留另记口述，删不抵账尾评。",
+        "issue_ref": "R004-B10-AV2-A05"
+      },
+      {
+        "item": 7,
+        "title": "重复验证分工",
+        "verdict": "pass",
+        "reason": "工法位置、当前受力状态和教给下一人分开，旧I19闭合。",
+        "evidence": [
+          {
+            "chapter": 100,
+            "quote": "父亲报出支承位置，林渡便看梁头受压时有没有松动，再让父亲指给下一个人认。",
+            "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+            "line_start": 13,
+            "line_end": 13
+          }
+        ]
+      },
+      {
+        "item": 8,
+        "title": "指代先行词",
+        "verdict": "needs_polish",
+        "reason": "四人等数量有长屋先行组，木屑姓名虽有册中抄名依据仍易回指实物；099片角也宜明确。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "槐七按着空掌站了一会儿，走到林栖身边，看她把木屑上的姓名再读一遍，才去扶伤员。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 85,
+            "line_end": 85
+          }
+        ],
+        "action": "改为“看她把从木屑抄进册页的姓名再读一遍”或等价来源限定；正文不增取回木屑事件。",
+        "issue_ref": "R004-B10-AV2-A06"
+      },
+      {
+        "item": 9,
+        "title": "中性称谓",
+        "verdict": "pass",
+        "reason": "职业称谓区分与年轻维修员不同的人，不拿手伤/失能当身份辱称。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "一名年长旧维修者蹲到桩旁。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 23,
+            "line_end": 23
+          }
+        ]
+      },
+      {
+        "item": 10,
+        "title": "人物对话可听辨",
+        "verdict": "pass",
+        "reason": "阿九短促挖苦；林渡问顺序/失败信号，弥娅说能核不保证，林栖追问原件可信性，祝衡区分终端记录，林岑偏工法和总数。均谨慎略同声但有任务词与句长差异，未至需中等修整。",
+        "evidence": [
+          {
+            "chapter": 91,
+            "quote": "“撑到你问第二遍之前。”",
+            "path": "异星录/正文/第一卷_热海坠城/第091章_二次坍塌.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+            "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42",
+            "line_start": 27,
+            "line_end": 27
+          }
+        ]
+      },
+      {
+        "item": 11,
+        "title": "段落长短/插话",
+        "verdict": "pass",
+        "reason": "长技术动作被短问答和木粉落下的停手打断；不以统一行长或一行一句充排版。",
+        "evidence": [
+          {
+            "chapter": 94,
+            "quote": "“第二次就一定对？”",
+            "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+            "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3",
+            "line_start": 49,
+            "line_end": 49
+          }
+        ]
+      },
+      {
+        "item": 12,
+        "title": "作者总结关系/主题",
+        "verdict": "needs_polish",
+        "reason": "压桩及保留证词已表现人物必须活着承担，尾句主题解释可退去。",
+        "evidence": [
+          {
+            "chapter": 95,
+            "quote": "这个桩根需要他活着用力，木牌上的签字也仍需要他活着解释。",
+            "path": "异星录/正文/第一卷_热海坠城/第095章_最后跳跃.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+            "sha256": "995a495d0dd1872722fdec527a2c602bae1be818aff416a786d90a70239434df",
+            "line_start": 61,
+            "line_end": 61
+          }
+        ],
+        "action": "留父亲压桩及后续证词行为，删此主题总结或移为人物必要短句。",
+        "issue_ref": "R004-B10-AV2-A05"
+      },
+      {
+        "item": 13,
+        "title": "简体/同物同名",
+        "verdict": "pass",
+        "reason": "便携手摇冷凝灯有连续持有人；蓝扣/卡扣功能不同不强行改成同名；本次未见需另立繁体混入。",
+        "evidence": [
+          {
+            "chapter": 100,
+            "quote": "岑野在箱边把灯还给林栖。",
+            "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+            "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+            "sha256": "b9dcafe41dd6da35a4cadac6f93fdc94567fe9b70cbf7e4fda2198ed5a4b1e2c",
+            "line_start": 27,
+            "line_end": 27
+          }
+        ]
+      }
+    ]
+  },
+  "review_scope": {
+    "full_manuscript_read": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "context_only": "WB九文件51—101相关实录/R004补记，世界规则与角色固定设定、指定规范与裁定、指定旧问题及批准补丁。对照不等于整库审读。",
+    "boundary_only": [
+      101
+    ],
+    "not_reviewed": [
+      "楔子及001—003开篇四项",
+      "001—090、102—800正文全文及全量历史事实",
+      "正式101全文事实与吸引力",
+      "WB九文件的未来卷全部规划、回填发布验收",
+      "用户拟议095修改后的新字节",
+      "发布、gate、check及项目工具验收"
+    ],
+    "rule_note": "初审20项及recovery2指定旧六项/轻微项已逐项核；未审范围不得从旧报告继承pass。"
+  },
+  "revision_followup_boundary": {
+    "current_report": "封存本轮未修改字节的needs_revision失败证据，不覆盖为新稿pass。",
+    "user_proposed_revision": "095按不能保证最后回撤的风险口径说明末人自套回送套绳、再松无人接替的桩；仍尝试接回，桩/轨先坏无第二路；不新增必死限制、不改后续实际失联；姓名改册中抄名。",
+    "applied": false,
+    "reviewed": false,
+    "next_step": "主线程可在本轮封存后局部改稿，由新的短复核文件绑定新SHA；本轮三个文件不随修稿覆盖。"
+  },
+  "context_inputs": [
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb",
+      "scope": "审读执行入口"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05",
+      "scope": "独立审读、关闭证据与吸引力要求"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "1559cd0b90183ef0d16be4cd54de3c44be30dc162c41a17be5f11807ddaf1db6",
+      "scope": "入口硬规则与独审流程；用户预先提供文本，阶段2核根文件"
+    },
+    {
+      "path": "harness/maintenance/R004/B10/initial-issues.json",
+      "sha256": "86aeb129a977ec26dbff82b02d6f490c6b15257823dfaf524b83fc6f924539c4",
+      "scope": "初审20项逐项追踪"
+    },
+    {
+      "path": "harness/maintenance/R004/B10/recovery2-recheck.json",
+      "sha256": "41942ba7321a467eefc67e326b3a38793481c21e1b2d1ed769d0d8d4c37812cd",
+      "scope": "旧六项、RF/RR问题、轻微项及旧manifest；不继承整体结论"
+    },
+    {
+      "path": "harness/maintenance/R004/approved-changes.json",
+      "sha256": "9d8cb2bd94130a2d78c85b3ac4666991566b25e5f1a9d7d2d797e5e0dfff35d0",
+      "scope": "7条批准补丁与当前句子/末端SHA核对"
+    },
+    {
+      "path": "harness/maintenance/R004/事实冲突与处理边界.md",
+      "sha256": "b6d6cc47378bc75a85211f68a296629ddca4870076fe42a2f671ab1e774d6e1f",
+      "scope": "R004事实优先级、C01—05处理边界"
+    },
+    {
+      "path": "tools/check_reader_pull.py",
+      "sha256": "2b938c6f78c892e711565b7a0a598fa96f9d563a4ee4523faa8fe050f0a5b719",
+      "scope": "只读digest_rows与checks字段算法；未执行"
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md",
+      "sha256": "fbe42034184b50f5215f720974e8d52b53d99b83c34158ca6922dbbb3011d12b",
+      "scope": "本批技术/地点/时间固定边界"
+    },
+    {
+      "path": "异星录/02_角色档案/角色圣经.md",
+      "sha256": "70b29d33318f143006b4c975e77609717423b4e6f8a26a6de15ea6d289551c4c",
+      "scope": "本批相关人物能力与责任固定设定"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "sha256": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879",
+      "scope": "第二、七节"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "sha256": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f",
+      "scope": "第九节"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814",
+      "scope": "逐章五项/篇章两项；开篇项仅确认范围外"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+      "sha256": "5babb7e0b68b9fe8d8c3d3ec94a782f8fa2abc8c766c6a493f4d691df113e0d3",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+      "sha256": "8104de85f5802d63f4473865a890ec40ffce9c55da9657c139e930a4bee797fb",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+      "sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/后七卷设定决策与执行约束.md",
+      "sha256": "fbdf6296ba79a44afab8f089ed96d4c49b4be474b40292a301fe3b412a323462",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语与命名表.md",
+      "sha256": "09cc4251e38b6b352a8d3fd28e9e75f6b0c3902b8d899f11c80d91905a686795",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语词典.md",
+      "sha256": "d1c00162f077b77bc0f4d62ee8e5b4ca1cc7e4f4d79e74cecbdd4b71a0693033",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+      "sha256": "abcc36de0a6a784753e9631342f526588fa5c467973f47eb56329a281fe54294",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "4a3232e0c299bf7827cd2279526d4540c244875aa58133d619992153222a79a8",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "212bfa9069883b88ba331100c0545469a50d4c6cacdcdcb7bad96e3a0a9f9ea6",
+      "scope": "51—101相关实录、R004补记及与本批有关的固定执行边界；未审后续卷全文规划"
+    },
+    {
+      "path": "异星录/06_执行计划/设定决策/R004_C04-C05裁定.md",
+      "sha256": "607ff3d4148155034892f897b250817f70293306340ef4c8bb3ffa54a4b02259",
+      "scope": "C04处理水壶/C05既有101人数实录例外"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+      "sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb",
+      "scope": "只核100→101接口；不签101全文或吸引力"
+    }
+  ],
+  "context_digest": "7bd84915c11d6f38565ec9c0db5c9fd40e387f2973acafa89fb9142e695517a2",
+  "context_digest_algorithm": "sha256(json.dumps(context_inputs, sort_keys=True, ensure_ascii=False).encode()); 与正文三字段source_digest分开。",
+  "context_snapshot_note": "续接前已经实读的对照范围沿用本任务证据；此处指纹在封存时重取，仅绑定所列范围，不能声称逐字审过文件所有章节。WB可能由主线程另行同步，不据此改正文结论。",
+  "writeback_sync": {
+    "status": "pending_author_sync",
+    "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+    "sha256": "4a3232e0c299bf7827cd2279526d4540c244875aa58133d619992153222a79a8",
+    "line": 224,
+    "quote": "| 旧维修者身份 | 第92章一名维修员摘下面罩并公开姓名，第95章另一名旧维修者留守后失联 | 无面者开始出现公开姓名的先例；具体姓名仅保留在水票册和槐七手中 |",
+    "reason": "封存时资源表仍称具体姓名在槐七手中；正文095先抄册、后木屑被风卷走。正文不判木屑复活，WB来源/载体仍需主线程同步。此项是资料同步待办，不另计正文中等问题；用户承诺修WB不等于已关闭。"
+  },
+  "length_audit": {
+    "method": "排除Markdown标题行后统计[\\u3400-\\u4dbf\\u4e00-\\u9fff]；行数为splitlines长度",
+    "chapters": [
+      {
+        "chapter": 91,
+        "han_characters": 2321,
+        "lines": 89
+      },
+      {
+        "chapter": 92,
+        "han_characters": 2584,
+        "lines": 85
+      },
+      {
+        "chapter": 93,
+        "han_characters": 2440,
+        "lines": 93
+      },
+      {
+        "chapter": 94,
+        "han_characters": 2467,
+        "lines": 85
+      },
+      {
+        "chapter": 95,
+        "han_characters": 2320,
+        "lines": 93
+      },
+      {
+        "chapter": 96,
+        "han_characters": 2366,
+        "lines": 85
+      },
+      {
+        "chapter": 97,
+        "han_characters": 2260,
+        "lines": 97
+      },
+      {
+        "chapter": 98,
+        "han_characters": 2386,
+        "lines": 93
+      },
+      {
+        "chapter": 99,
+        "han_characters": 2220,
+        "lines": 83
+      },
+      {
+        "chapter": 100,
+        "han_characters": 2542,
+        "lines": 99
+      }
+    ],
+    "note": "2200—3200范围内；行数不作注水硬门槛，计数不替代事实/吸引力判断。"
+  },
+  "patch_comparison": {
+    "items": [
+      {
+        "issue": "R004-B10-polish-092a",
+        "chapter": 92,
+        "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+        "after_quote": "裴七把第二根绳带到对岸后",
+        "current_text_matches": true,
+        "previous_patch_sha_chain_matches": true
+      },
+      {
+        "issue": "R004-B10-polish-092b",
+        "chapter": 92,
+        "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+        "after_quote": "",
+        "current_text_matches": true,
+        "previous_patch_sha_chain_matches": true
+      },
+      {
+        "issue": "R004-B10-polish-095",
+        "chapter": 95,
+        "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+        "after_quote": "阿九退到桩后坐低，改用前臂控制方向。",
+        "current_text_matches": true,
+        "previous_patch_sha_chain_matches": true
+      },
+      {
+        "issue": "R004-B10-I07/C04",
+        "chapter": 98,
+        "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+        "after_quote": "最大女孩解下腰间的小水壶，递给杜姨：“屋里发的饮水，处理过的。我们喝到只剩这些了。”壶一倾，底下轻轻响了一声。杜姨接住，没有往装器具残液的袋里塞，另系在自己腰侧。最小的孩子伸手够，她先护住壶盖：“离开门口就分，一人只能润一小口。”",
+        "current_text_matches": true,
+        "previous_patch_sha_chain_matches": true
+      },
+      {
+        "issue": "R004-B10-I07/C04",
+        "chapter": 99,
+        "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+        "after_quote": "杜姨解下长屋女孩交来的小水壶，打开盖，先让她看清壶底那点余水，再给这四个孩子各润进一小口，随即盖好。壶仍系在杜姨腰侧，与装器具残液的袋子分开。",
+        "current_text_matches": true,
+        "previous_patch_sha_chain_matches": true
+      },
+      {
+        "issue": "R004-B10-RF-N01",
+        "chapter": 99,
+        "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+        "after_quote": "杜姨按住刚封好的壶盖，没有再开。女孩盯着那只小壶，慢慢把弟弟似的小孩拉回身边，却也说不清他究竟是不是自己的亲人。",
+        "current_text_matches": true,
+        "previous_patch_sha_chain_matches": true
+      },
+      {
+        "issue": "R004-B10-I07/C04",
+        "chapter": 100,
+        "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+        "after_quote": "杜姨在木箱间逐个摸孩子的额头，先把能应声的与不能站稳的分开。几个人争着要水，她解下长屋女孩交来的小水壶，将上次封回的处理水余量一点点分给刚接出的孩子，只够各润一小口。旁人照着分饮次序，在临时行旁逐个点记。最后一口倒出，她把壶斜着等了等，再没有水落下，才盖好收回腰侧。",
+        "current_text_matches": true,
+        "previous_patch_sha_chain_matches": true
+      }
+    ],
+    "last_patch_sha_matches_current_work": true,
+    "first_patch_sha_matches_recovery2": true,
+    "method_note": "只核现句、删除句不在、同文件SHA链及首尾manifest；没有逆向重建历史全文，不据補丁存在判定文学质量。"
+  },
+  "boundary_review": {
+    "C04": "098孩子交来同一已处理饮水壶→099四孩小口封回→100给舱孩分尽；未回滚049水尽、未把器具残液入口、未补净化能力或精确容量。",
+    "C05": "仅按裁定保留既有101实录13+4=17例外；100仍四名/十余并分栏，不推48。101正文未明确写13/17，不把台账数冒充正文原句。",
+    "101_interface": "仅核靠山平台、白船离开、册归林渡、两失联另列、新孩分栏、盐药最后一包拆留小半。舱孩所抱空壶不等于长屋饮水壶。",
+    "not_signed": "101全文事实与吸引力均未签。",
+    "prior_decisions": "不重开C01—03。"
+  },
+  "reveal_and_hook_review": {
+    "verdict": "pass_with_separate_blocker",
+    "reason": "钩子从防卫装置、点名/记录、仪器失效倒数、白灯拒绝、空城、额外哭声、合门、追船至更多船/继续找路交替，不以连续突然出敌替代追读。093状态表/广播、096身份拒绝、097空柜、099旧日期循环提供记录失真及选择性撤离的前置；没有提前解答双陆历史或终局机制。095选择因果另列中等，不能由钩子有效抵销。"
+  },
+  "validation": {
+    "method": "本会话Python内存断言；未调用项目checker/gate/check或发布命令。",
+    "checks_exact_five_fields": true,
+    "checks_unique_52": true,
+    "chapter_five_and_arc_two": true,
+    "checks_quotes_in_actual_work": true,
+    "evidence_entries_checked_including_repeated_views": 202,
+    "evidence_quote_sha_path_and_line_match": true,
+    "initial20_previous6_minor3_present": true,
+    "unique_old_issues_closed": 28,
+    "initial_I13_to_I20_old_quote_absence_confirmed": true,
+    "manuscripts_exact_three_fields": true,
+    "source_digest_matches_checker_algorithm": true,
+    "ten_work_sha_match_body_first": true,
+    "body_first_file_sha_preserved": true,
+    "scope_warning": "只验证数据结构、引用与字节绑定；不能自动判小说通过。本轮文学结论仍needs_revision。"
+  },
+  "report_completion_note": "本次所声明范围审读和失败报告已完成。report_complete不表示正文通过；095拟改未读、WB同步待办和范围外章节均未签。"
+}

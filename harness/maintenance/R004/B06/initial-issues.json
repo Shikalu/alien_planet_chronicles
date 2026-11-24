@@ -1,0 +1,291 @@
+{
+  "schema_version": 1,
+  "kind": "initial_review",
+  "writer": "/root",
+  "reviewer": "/root/r004_b06_reader",
+  "independent": true,
+  "body_first": true,
+  "body_first_note": "先完整逐章阅读R004-B06的051—060工作稿；未先查作者解释、旧报告或台账。后读AGENTS、项目skill/editorial、固定资料及相应历史台账。050/061最后仅作边界核验，不计本批阅读覆盖。",
+  "chapters": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "manuscripts": [
+    {
+      "chapter": 51,
+      "path": "异星录/正文/第一卷_热海坠城/第051章_湿木桩.md",
+      "sha256": "5caba165384f95f422ce8ee4de125052cff4b8a089cab10e5dda580d6c570c0b"
+    },
+    {
+      "chapter": 52,
+      "path": "异星录/正文/第一卷_热海坠城/第052章_身后的平台.md",
+      "sha256": "aa0ebee4563fc5f29d12db14cc2fa524c48a7a07b21df9e926290f06a4cbd7f0"
+    },
+    {
+      "chapter": 53,
+      "path": "异星录/正文/第一卷_热海坠城/第053章_两条路线.md",
+      "sha256": "4ed9adbc7d257a0edefcbced1407826ffab9573ac1b3fd5c45d730443c392650"
+    },
+    {
+      "chapter": 54,
+      "path": "异星录/正文/第一卷_热海坠城/第054章_上方截击.md",
+      "sha256": "c6db961033e2c7e59c552d3c0b858d20abfbad8603add936e9f47acc8a50264d"
+    },
+    {
+      "chapter": 55,
+      "path": "异星录/正文/第一卷_热海坠城/第055章_备用缆绳.md",
+      "sha256": "ce9091193284031d4c69531aa56bcabd3ebc4bbdc0303cccd018bff23d409e0b"
+    },
+    {
+      "chapter": 56,
+      "path": "异星录/正文/第一卷_热海坠城/第056章_黑暗缺口.md",
+      "sha256": "37ec23edf2cd9beabc70af6e3b762db080ca45feec89dd746d98a5ca74a8f8cb"
+    },
+    {
+      "chapter": 57,
+      "path": "异星录/正文/第一卷_热海坠城/第057章_封锁网.md",
+      "sha256": "7a0bba531bd331b914b8669fb0e1bfa7163d1f9d80ab53d93c19c91951eadb25"
+    },
+    {
+      "chapter": 58,
+      "path": "异星录/正文/第一卷_热海坠城/第058章_违令切网.md",
+      "sha256": "8a10736405e300d37e93d2a6e53d0bec1f7eb1b129f0b565e8d0963bf7ff5eea"
+    },
+    {
+      "chapter": 59,
+      "path": "异星录/正文/第一卷_热海坠城/第059章_黑潮遮城.md",
+      "sha256": "1292414cfcb4e112420bcea5f8f3a7fac24710293192b10123ee6c50bfde3609"
+    },
+    {
+      "chapter": 60,
+      "path": "异星录/正文/第一卷_热海坠城/第060章_断阶下缘.md",
+      "sha256": "847af355c553bd9de144d5d1248cc2f6a1ecc78716741cac51e4ef53890fb479"
+    }
+  ],
+  "input_digest": "1e3cf42d9ee30dc9186f3fddd2a44b3be5b01f7ab7172de6d341fcf6963804d9",
+  "verdict": "needs_revision",
+  "fact_logic_verdict": "needs_revision",
+  "attraction_verdict": "needs_revision",
+  "issues": [
+    {
+      "id": "R004-B06-I01",
+      "chapter": 51,
+      "severity": "minor",
+      "quote": "少掉的药不会因为记了账就回来，杜姨仍让林渡把这一笔写下。",
+      "problem": "已写药包污染与隔放，旁白又替记账行为辩护，削弱药损的直接后果。",
+      "suggestion": "保留实际耗损与记账动作，删反事实主题说明。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I02",
+      "chapter": 53,
+      "severity": "minor",
+      "quote": "她没有为了争赢而开一次不能保证结果的精读。",
+      "problem": "旁白直接替非视角人物断定动机，且已有手触仪器又停的动作。",
+      "suggestion": "保留动作与仪器失准，删动机辩护。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I03",
+      "chapter": 54,
+      "severity": "minor",
+      "quote": "枪口每偏一寸，祝衡的食指都从扳机护圈外抬开，始终没有让那只手替他扣下去。祝衡试拉了一下，没有把枪口转向担架。",
+      "problem": "食指既已在护圈外，反复抬开及“那只手替他”显得悬空；试拉对象也省略。",
+      "suggestion": "直接落到枪机与食指位置。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I04",
+      "chapter": 54,
+      "severity": "minor",
+      "quote": "不是装作没看见，好让这一趟快些结束；他让前端偏向外侧一点，腾出腿边的空隙。",
+      "problem": "叙述者先虚构一种不负责的动机再替林渡辩护，打断枪下转运。",
+      "suggestion": "只写叫停后改转向。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I05",
+      "chapter": 54,
+      "severity": "minor",
+      "quote": "枪声在石壁间撞回第二遍，一个居民先弯了膝，随即蹲下，把两手抱在头顶。枪声在山壁间撞回来，他以为头上的木头也要断，怎么催都不肯抬脚。",
+      "problem": "两句连续重复枪声撞回；同时替居民断言以为木头将断。",
+      "suggestion": "合并重复声音，把恐惧落到居民抬眼观察与动作。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I06",
+      "chapter": 55,
+      "severity": "minor",
+      "quote": "不是谁年纪轻就该去冒险；他们能贴着窄架转身，而阿九的膝盖和林渡的肩都做不到。",
+      "problem": "后半已给分工理由，前半又替人物向读者求情，趋于操作说明。",
+      "suggestion": "保留身体能力对比。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I07",
+      "chapter": 56,
+      "severity": "medium",
+      "quote": "凉暖两股气在门内顶着，灯焰一直偏向靠山。",
+      "problem": "同段明确是手摇冷凝灯；没有火焰来源，不能靠灯焰识风。",
+      "suggestion": "用后文已经挂在灯边的湿布显示来风，不新增设备。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I08",
+      "chapter": 56,
+      "severity": "medium",
+      "quote": "一刻的约定还没到，弥娅已经报风转向。",
+      "problem": "本章前文只约定每到转弯回报、只分这一小段，没有约定一刻。上一处“这个约定不是保证一刻里绝不会出事”也凭空引入精确钟点。",
+      "suggestion": "删两处一刻及用满时限，只保留每个转弯报风的原约定。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I09",
+      "chapter": 57,
+      "severity": "severe",
+      "quote": "网升到能让人低头钻过的高度便停住。林渡把残片递给林栖，她比过担架厚度，又将尺交回，示意平着送仍差一点，必须侧斜着过。",
+      "problem": "只按高度判断，担架侧斜会把宽度转成垂直高度，不能解决平放厚度仍过不去的问题；人已能低头钻与担架连厚度都不足也难相容。后文朝左斜送需要一个侧高侧低的实际空间依据。",
+      "suggestion": "写清网框偏斜造成一侧较高的缺口，担架沿较高侧通过，不能把“侧斜能变薄”作为原理。保留同一网与同一长梁，不增装备。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I10",
+      "chapter": 57,
+      "severity": "medium",
+      "quote": "林渡与岑野一内一外，把担架朝左斜送。",
+      "problem": "岑野先入内侧接人，林渡结尾明确仍在网外；但紧接着“林渡的左肩被网框边擦得发麻，还是等岑野确认整副落地，才放开牵引”可推得位置，当前一内一外按语序却易读成林渡内岑野外。",
+      "suggestion": "显式写林渡守外侧后杆、岑野在内接前杆；不交换既有位置。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I11",
+      "chapter": 57,
+      "severity": "medium",
+      "quote": "落框将绳尾咬住，轮子仍在转，缆绳绷紧，把裴七担架的一角向后拖了一点。",
+      "problem": "前文备用保护缆系网框、担架牵引绳系伤员；这里换称缆绳，且只有网框夹绳，没有交代夹住的余尾怎样受到轮子的持续牵拉。58又靠拨叉松绳，力的传递链缺一节。",
+      "suggestion": "统一这里为担架牵引绳，并交代同一绳尾卡在网框/牵引轮连接处；作者须选与已有竖槽机构相容的局部卡夹描述，不能新增一套电机或绳。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I12",
+      "chapter": 58,
+      "severity": "medium",
+      "quote": "林渡靠墙写下：拒绝继续封锁，随队进入断阶下缘；手腕灼伤，左腿不能负重。",
+      "problem": "刚写林渡手指蜷得拿不住炭笔、下一段改别人收绳，紧接又让他执笔；后文墨痕与既有炭笔不一致。",
+      "suggestion": "让接过册子的杜姨代记，林渡口述；把墨痕改炭痕。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I13",
+      "chapter": 59,
+      "severity": "minor",
+      "quote": "担架不能一直抬着，落下又会陷入更浓的雾，有秘密的路也得先放下担架；他们需要一处能平放伤员的地面。",
+      "problem": "“有秘密的路”主语/含义突然转换，前文没有“有秘密”这一分类，也不帮助当前救伤选择。",
+      "suggestion": "删除悬空分类，落到抬与落两难。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I14",
+      "chapter": 59,
+      "severity": "minor",
+      "quote": "弥娅跟到后面，先不将脸凑近。她等过一次外侧气流回卷，发现缝里的来风仍没停，才让人靠近这边换气。\n\n弥娅等到袖口第三次被来风吹起，才说：“有风，不是通行许可。”",
+      "problem": "同一人已经等过回卷得出持续来风，紧接再次等三次袖口并重复有风，验证结果没有新增用途。",
+      "suggestion": "合并成一次持续性核验，把下一句交给林渡探承重，不另计三次。",
+      "fact_change_required": false,
+      "category": "style_attraction"
+    },
+    {
+      "id": "R004-B06-I15",
+      "chapter": 60,
+      "severity": "medium",
+      "quote": "两丈来宽的楼梯已经断去大半，只剩靠墙一带铺板搭在旧轨上，连到比外壁低半尺的门槛。",
+      "problem": "先给楼梯横宽两丈，结尾“两丈宽的断口”又像把同一数字换成前进方向的跨度。读者难画出墙线、门槛、横越断口的关系。",
+      "suggestion": "沿061既有两丈断口，统一为沿前进方向约两丈的缺段，写清靠墙板原先跨接两端。不要把横宽直接当跨距。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I16",
+      "chapter": 60,
+      "severity": "severe",
+      "quote": "林渡刚叫阿九收梁，靠墙铺板便翘起一角。两人各守一端，将先前垫接头的长梁顺轨抽回；另一根已经留在外侧。梁收走，松板失去压持，缓缓翻进黑口，歪斜的门槛也跟着向外倾了一点。",
+      "problem": "已知外面还有17人，主角主动抽走压板唯一长梁导致通路消失，却未先说明梁已滑脱必须回收或门内承载耗尽到不能再送。下一句外侧居民的指控成立，林渡“路断了”反而回避人为抽梁的责任。",
+      "suggestion": "保持断路结果，改清已有翘板/倾斜使梁无法继续安全压住接头，林渡叫停并在两端保命条件下收料；或承认主动收梁的排序责任。需把动作因果写实，不新增一次事故与新支撑。",
+      "fact_change_required": false,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I17",
+      "chapter": 60,
+      "severity": "severe",
+      "quote": "“内侧十七。”\n\n岑野隔着门槛应：“外侧十七。”",
+      "problem": "R003已核34只是原登记核验子集，另列阿九、弥娅，祝衡052又随队；本章把17+17直接当全部两边，至少漏了3个另列者。后续061虽另记祝衡，仍漏阿九弥娅。这是两份历史实录口径相撞，不能默许失联或补新人口。",
+      "suggestion": "推荐维持原子集17+17并逐一点明阿九外侧、弥娅与祝衡内侧另列；全现场变为内19外18（37），须同步061后分组口径与后续约数。备选回改前期登记分母需扩大授权，不推荐。",
+      "fact_change_required": true,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I18",
+      "chapter": 60,
+      "severity": "severe",
+      "quote": "另一根留给阿九接担架，谁过来都不准两副并行。",
+      "problem": "R003已核048折一长梁、049—050仅一整梁与原断段；本章前一句“一根长梁”加“另一根”恢复两完整长梁。旧台账又称两根保留至065，形成已发生事实冲突。",
+      "suggestion": "推荐把此处另一根限定为原断梁段并校验它只在短接头上接手，不跨两丈缺口；若后续065确需两完整梁则等待作者对既有损失的方案裁定。不得捡新梁补洞。",
+      "fact_change_required": true,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I19",
+      "chapter": 60,
+      "severity": "severe",
+      "quote": "担架送到靠墙地梁上，他终于能平躺，嘴唇却仍发白。",
+      "problem": "本章上下文明确裴七进入维修层门内；B07交叉提示063把裴七写成原在外侧、066再从外侧跌出，与060当场空间链冲突。不能把“靠墙地梁”静默解释成门外：此前“门内有几段……靠墙这几根能放担架”，随后杜姨还在换气缝下照护。",
+      "suggestion": "优先保留060裴七内侧既有转运，核063/066能否恢复为另一原有伤员；若无明确证据则列作者裁定。备选改060裴七留门外需连改伤员优先入内与杜姨位置，不是纯称谓修正，不能补编返外事件。",
+      "fact_change_required": true,
+      "category": "fact_logic"
+    },
+    {
+      "id": "R004-B06-I20",
+      "chapter": 60,
+      "severity": "medium",
+      "quote": "这一轮凉时结束前，两边得找到能重新汇合的办法，不能只等雾自己散。",
+      "problem": "正文053保留原半个凉时，060仍用同轮凉时；资源/时间线却记051—060为T4黑潮至T5凉时前，且说下一凉时前汇合。没有正文跨时段过程，两个时段不能一起签过。",
+      "suggestion": "推荐保留本批连续行动的原剩余窗口，在台账将T4/T5范围按真正过渡章修齐；若确需跨黑潮至下一凉时，必须依据已发生过渡句，不能临时补一夜休息。",
+      "fact_change_required": true,
+      "category": "fact_logic"
+    }
+  ],
+  "han_counts": {
+    "51": 2361,
+    "52": 2510,
+    "53": 2414,
+    "54": 2342,
+    "55": 2315,
+    "56": 2351,
+    "57": 2324,
+    "58": 2326,
+    "59": 2519,
+    "60": 2312
+  }
+}

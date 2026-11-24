@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "kind": "authorized_writeback_supplement",
+  "batch": "R006-B20",
+  "issue_id": "B20-WB-X01",
+  "created_at": "2026-11-07T15:46:36+08:00",
+  "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+  "reviewer_identity_source": "CODEX_THREAD_ID",
+  "writer": "R006-main",
+  "independent": true,
+  "verdict": "pass",
+  "status": "closed_for_A10_attribution",
+  "scope": "仅候选资源台账A11电项中对A10末格壳状态的倒引，及197原句依据；不是A11正文审读。",
+  "authorization": "用户确认精确应用handoff并要求单条短核补证；保留已有pass，待正式发布字节绑定。",
+  "review_result": "原“已归还（A10）”已撤，现只陈述A10末装留证袋、候下一班送回。后续归还进度未认定，不添加用电、材料或归还事件。",
+  "patch": {
+    "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+    "before": "短门登记电源壳已归还（A10）",
+    "after": "A10末短门登记电源壳装留证袋、候下一班送水带回塔；其后归还进度另据本段实录核记",
+    "before_sha256": "48746b2fa4d2f7db9194bf9d9ac5f66d7c3d92726f474451ff57ccb91d82e59a",
+    "after_sha256": "ebdc5ef5e317f4517ec47ffa3e8eb891b399e59d1e90f8ba661c7e38bdfa186e",
+    "after_occurrences": 1,
+    "before_occurrences": 0,
+    "current_line": 430,
+    "current_line_quote": "| 电 | 无新增用电 | A10末短门登记电源壳装留证袋、候下一班送水带回塔；其后归还进度另据本段实录核记 |"
+  },
+  "source_evidence": {
+    "chapter": 197,
+    "path": "异星录/06_执行计划/工作区/R006-B20/第197章_把没听清的留空.md",
+    "sha256": "42bf8546afa70f01d166a9503cff08007b7f3d5edf379c5226be3730d5f8dfaa",
+    "quote": "该落的签记已经落过，格壳还等下一班送水的人带回塔。",
+    "line": 82
+  },
+  "writeback_log": {
+    "path": "harness/maintenance/R006/writeback-log.json",
+    "sha256": "dc0b36f695c0766e9a0cc3d7ae1f56fdee42e7e641c6278498dec2477e403595",
+    "entry_index_1based": 287,
+    "entry": {
+      "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "before": "短门登记电源壳已归还（A10）",
+      "after": "A10末短门登记电源壳装留证袋、候下一班送水带回塔；其后归还进度另据本段实录核记",
+      "issue_ids": [
+        "B20-WB-X01"
+      ],
+      "reason": "只纠正A11对本轮197章A10末候还状态的错误倒引；201—210正文无归还记录，不修改范围外正文或断言后续状态",
+      "before_sha256": "48746b2fa4d2f7db9194bf9d9ac5f66d7c3d92726f474451ff57ccb91d82e59a",
+      "after_sha256": "ebdc5ef5e317f4517ec47ffa3e8eb891b399e59d1e90f8ba661c7e38bdfa186e"
+    },
+    "provenance_note": "日志中“201—210正文无归还记录”是主线程检索结论；本读者未独立审读该十章，不将其当自身审读覆盖。"
+  },
+  "validation": {
+    "exact_patch_reconstructs_prior_resource_sha256": true,
+    "B20_resource_reviewed_excerpts_unchanged": true,
+    "manuscripts_unchanged": 10,
+    "same_manuscript_digest": true,
+    "final_and_reader_checks_unchanged": true,
+    "frozen_reports_preserved": true
+  },
+  "manuscripts": [
+    {
+      "chapter": 191,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第191章_塔灯换回原色.md",
+      "sha256": "bdc4d77b2ff900c113c9611df6687176e91bfe6f17f311804ee6f3119de297ac"
+    },
+    {
+      "chapter": 192,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第192章_门后只剩这些回应.md",
+      "sha256": "65bafd488f7bb2c1f00f60c87fe4437339e003c940024de8412c7bc833bf59e6"
+    },
+    {
+      "chapter": 193,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第193章_柜子留在原地.md",
+      "sha256": "67c9143d52fbf08efce08a31ec0730786492e444b9ecf39faf2fa2823a124bc7"
+    },
+    {
+      "chapter": 194,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第194章_再报一次自己.md",
+      "sha256": "4d8bf6b7c7aa16c1ba98b3a1f109c24cb891141568ce9ec0900df6a16d593c57"
+    },
+    {
+      "chapter": 195,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第195章_谁回去查那根线.md",
+      "sha256": "2a3a66e779fc7dea356bf9807c1dd5fc48f3d2a03659f303ca44f447815b5228"
+    },
+    {
+      "chapter": 196,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第196章_只回答眼前这一端.md",
+      "sha256": "5eea713afca1e2f48281b9e68063e1d784823a4de345734bf9aee500abd0e11d"
+    },
+    {
+      "chapter": 197,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第197章_把没听清的留空.md",
+      "sha256": "42bf8546afa70f01d166a9503cff08007b7f3d5edf379c5226be3730d5f8dfaa"
+    },
+    {
+      "chapter": 198,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第198章_门和隧道不是一回事.md",
+      "sha256": "60f8ff8658beb909dca140e5ae449834b873ab51139fe56d71c492eabbddc662"
+    },
+    {
+      "chapter": 199,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第199章_走出去的人还要喝水.md",
+      "sha256": "6dc1f026ae563c1cb382da8cbe17f2c7d2f5e8e96e5d19971aa8afc49194fd84"
+    },
+    {
+      "chapter": 200,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第200章_只开这一段.md",
+      "sha256": "7b6404038c9b90104bb0dd589f6cb68202992644ac4b1fba30d50b3ab692573b"
+    }
+  ],
+  "source_digest": "7c2f2faf54a5fea3236e9332e6c6990a1e27060d198629645c6c82f63897e31f",
+  "retained_review": {
+    "fact_verdict": "pass",
+    "reader_verdict": "pass",
+    "issues_closed": 47,
+    "reader_checks_pass": 52,
+    "source_review": "harness/maintenance/R006/B20/final-authorized.json",
+    "reader_review": "harness/maintenance/R006/B20/reader-authorized.json"
+  },
+  "frozen_artifacts": [
+    {
+      "path": "harness/maintenance/R006/B20/final-authorized.json",
+      "sha256": "3424336dec9e0f39330ccb3d06d9b8b6cdfb56dc8d540b4c6179d3f6b56a2d8f"
+    },
+    {
+      "path": "harness/maintenance/R006/B20/final-authorized.md",
+      "sha256": "38e37b04b86bc25705e0c8ecbcd12e45fa9e5e1694593fe410a31088fa8f4fa0"
+    },
+    {
+      "path": "harness/maintenance/R006/B20/reader-authorized.json",
+      "sha256": "e7af5b0568a65ef2fef1d9b6975d0e9cd846992a1c912c65df832afa7779e436"
+    },
+    {
+      "path": "harness/maintenance/R006/B20/authorized-source-evidence.json",
+      "sha256": "bcad4f8a851def6f6cdb572434ab4e08daa1f6265dd28cf7f4bf5c169921537a"
+    },
+    {
+      "path": "harness/maintenance/R006/B20/final-authorized-validation.json",
+      "sha256": "1cdb93f9b324bf92d53f9bad41d7aefa1b873d2a2e4762adc672e22d10c39f97"
+    },
+    {
+      "path": "harness/maintenance/R006/B20/authorized-cross-scope-handoff.json",
+      "sha256": "be4ab1dc74f22bf6ead909b47f906f59b227c0a9ca455ab081ec45fd4693b128"
+    }
+  ],
+  "publication_binding": {
+    "status": "awaiting_actual_publication",
+    "record": "harness/maintenance/R006/B20/publication-binding.json",
+    "note": "本补证仅更新该候选资源文件的证据SHA；未核正式发布路径，不推进章节或日次。"
+  }
+}

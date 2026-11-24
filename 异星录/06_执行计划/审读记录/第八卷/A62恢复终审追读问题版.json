@@ -1,0 +1,442 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "A62",
+  "writer": "writer-A62",
+  "reviewer": "01a1e877-766b-7cf2-90b4-00066bc0eafd",
+  "reviewer_name": "Banach",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 711,
+      "path": "异星录/06_执行计划/工作区/A62/第711章_不识字的人先说.md",
+      "sha256": "44f2349c0b360c1a13652110deb38aadaef214d7cd2c4a3dfaf73678cb6f5fe0"
+    },
+    {
+      "chapter": 712,
+      "path": "异星录/06_执行计划/工作区/A62/第712章_封包还在.md",
+      "sha256": "f9d852c3bb6e8fb102c2f9a34e6f153576dd231bd08025f36db96fdb9850990f"
+    },
+    {
+      "chapter": 713,
+      "path": "异星录/06_执行计划/工作区/A62/第713章_桌后的空位.md",
+      "sha256": "58557cdcfe95a0310caa407562eff4b235f50de15001a45639df8df446a94535"
+    },
+    {
+      "chapter": 714,
+      "path": "异星录/06_执行计划/工作区/A62/第714章_他长大以后.md",
+      "sha256": "4e6c75d7cce2b12262184c08b40c4474643c04473603de2e4a28e59563551382"
+    },
+    {
+      "chapter": 715,
+      "path": "异星录/06_执行计划/工作区/A62/第715章_三张纸回到桌上.md",
+      "sha256": "f4bbed2914be4395f4886423c861446fb9749f052b6c30d77f5f7e4fea728e32"
+    },
+    {
+      "chapter": 716,
+      "path": "异星录/06_执行计划/工作区/A62/第716章_救过人也要答.md",
+      "sha256": "38aec24bb18b8722212d347b288408f28780691a34042953eadc0e9fcf1f37da"
+    },
+    {
+      "chapter": 717,
+      "path": "异星录/06_执行计划/工作区/A62/第717章_理由不能只念结尾.md",
+      "sha256": "b119d87acfb50462acff09c10134ba9fdbb1b43bd1832124c574689df6a5fb53"
+    },
+    {
+      "chapter": 718,
+      "path": "异星录/06_执行计划/工作区/A62/第718章_空班不能守门.md",
+      "sha256": "07bc17eaf4acbbe48bb343a96b0edc542929fbda806c19eba8551bb8ede86a0b"
+    },
+    {
+      "chapter": 719,
+      "path": "异星录/06_执行计划/工作区/A62/第719章_原来的错也留下.md",
+      "sha256": "3bbaee679b4bd3049823ad65276c6620c20dee9cd1bb732394b5a9190973308d"
+    },
+    {
+      "chapter": 720,
+      "path": "异星录/06_执行计划/工作区/A62/第720章_两壶水的条件.md",
+      "sha256": "ed9e5aa0a29277cdc13b8dbfab201cfb13e4bf6fd3175e5207224a2bec55141c"
+    }
+  ],
+  "source_digest": "d730535da4135232fbceea7e83a405ebedeefd93f6a114301d35b45a9a4972e8",
+  "sealed_input_digest": "dd341a8c3a2a46107c39491b07c2d9048c76a88b5f7b43a3945a74dab99bf7f0",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 711,
+      "quote": "年轻人把那张纸拿回去时，林渡以为他要走。纸已经在晾场桌上压了一夜，边角沾着灶灰；他却将它翻到背面，问能不能不写，先说。",
+      "reason": "问者取回纸却要求先说，冲突落在不识字者能否被听见，第一页就给了具体行动而非制度概览。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 711,
+      "quote": "我能说我在场听见了什么。没在场的事，我不是他的另一张嘴。",
+      "reason": "林渡没有以儿子身份包答未知，选择陪问且分授权，家属立场有被问的成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 711,
+      "quote": "收到的人也须念给他听，不能只让他按完就走。",
+      "reason": "口述从被代写变成当事人能逐句纠正的接收；实名只准原经手核，去处仍待查而不是假结案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 711,
+      "quote": "年轻人有两次摇头，第三次听到“去处未核，愿问封锁经手者”才按了自己惯用的记号。",
+      "reason": "问者的两次纠正改变记录，不识字不等于必须满意；回报是自己的话终于能被认回。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 711,
+      "quote": "这回不要只送回一张我看不懂的纸。",
+      "reason": "下一章必须见原经手并带回听得懂的答复；祝衡与家属能否裁自己案具体可追。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 712,
+      "quote": "值台门里先伸出来的不是接纸的手，是一根挡住门缝的木杆。第六百二十七日初凉，林渡陪年轻问者走到五层原址，听见里面问：要找人，还是要看名字？",
+      "reason": "木杆挡门先于接纸，隐私与求知的阻碍立即可见；必须核人在不在、能读哪页，而不是泛说档案重要。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 712,
+      "quote": "林渡仍坐门旁，三人谁也没有请他坐进裁案的位置。",
+      "reason": "祝衡移到桌侧，林渡也不占裁案席，两种利益相关身份退出最后决定权，非任意搬工的操作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 712,
+      "quote": "林渡只目送到内阶口，没有跟去，年轻人留在桌边，目光像钉在空出来的封夹位置上。",
+      "reason": "核封、门号与回避已有变化，但原件开始递取这一关键可见兑现，先目送到内阶口后又临出门补授权再离开，时序/站位未连续，不能靠读者补返回判完整。",
+      "verdict": "needs_revision",
+      "action": "按A62-I02将唯一目送移到补授权、复述和实际出发之后，修后重读完整站位链。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 712,
+      "quote": "年轻人要求拿一张不含邻名的接收条，免得下一回来了又从头证明交过。",
+      "reason": "没有查出去处，不是假救人成功；问者拿到可追踪接收凭据，下一次不用重证自己交过，局部回报成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 712,
+      "quote": "林渡答应明日先把桌子摆开，再请双方当着受托人说明：哪一句谁在答，哪一张纸还在路上。",
+      "reason": "原件跨日与没有裁案地方两种压力合成借桌/回避的下一步；不是空说神秘档案。出发链必改另见可见变化项。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 713,
+      "quote": "桌子还没搬进遮棚，棚主就抬起一条凳腿，把他们想用的地方挡住了。“到日光升高，我要在这儿刨料。你们不能说有人受过害，就叫我的活一直等。”",
+      "reason": "棚主以凳腿挡桌并索回刨料时间，有限核问没有免费地和时间，借桌困难不是后补代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 713,
+      "quote": "林渡也说自己作为林家家属，只回答亲见和父亲在他面前说过的话，不能参与父亲责任的理由结论。",
+      "reason": "主角不靠救人声望留主位，双方当面委托三人；私人棚借只有一小时约束问次。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 713,
+      "quote": "年轻人看他把椅子转到桌侧，才同意让这三人接问。",
+      "reason": "临时桌由真实委托与回避成为可接两件口述的地方；女人守原包，三人不是自封全城法院。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 713,
+      "quote": "老妇人听见自己的话没有整页丢掉，才说那户最后在四层，今日去处她不知道。",
+      "reason": "亲见/闻讯拆开却没有整页退回，老妇能接着说而不被无居证排除，情绪落在实际听话方式。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 713,
+      "quote": "旧自述去处待核",
+      "reason": "祝衡后来任职责任与原自述位置分开待答，下一章问成年经办并核来源，世界缺纸与人物须来答相扣。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 714,
+      "quote": "“那时候我大约十三岁。”祝衡说完，年轻人把空壶落在桌边，壶底磕出一声轻响。",
+      "reason": "十三岁的辩护被后来也一直十三岁当场打断，读者立即等待成年后的具体选择如何回答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 714,
+      "quote": "林渡请三人把这句作为说话者的主张另记，不把它塞进问者父亲的经历。",
+      "reason": "主角拒以有效分流的宏观理由代替具体受害经历，治理成果仍可核而不能自动免责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 714,
+      "quote": "那是回数，不是连续月份。",
+      "reason": "亲认后来退条是进展，但这里把180已核七年连续84行及183已公开任职七年改成不连续月份，责任认识层级倒退。标今日解释待核未明示与旧事实冲突；新增N03妨碍把本章认知变化判达标。",
+      "verdict": "needs_revision",
+      "action": "按A62-N03恢复已核七年连续84行与待核具体案/日期的分层；若有意改口须明确冲突和核问，不能把新口述当新世界规则。修后实际重读。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 714,
+      "quote": "“知道有。”祝衡答。",
+      "reason": "被问家属仍退回等待后，祝衡两个短答逼停辩护，读者得到具体责任承认的回报；月巡冲突另使认知变化失败，不能用这短答抹掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 714,
+      "quote": "明晨，我要听他原来签的每一句。",
+      "reason": "原夹在四层宿、D630可能回五层，把下一章期待落在逐页读真签与未签空格，非又等不知哪处的另查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 715,
+      "quote": "第六百三十日初凉，罗芹先来问听证桌还要借几天。林渡正站在晾场门口等取件人，听见这句话，才将望向内阶的目光收回来。",
+      "reason": "取件回来那天先撞到借期到期，重要证词不能使原住户无条件继续让地，兑现同时有支出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 715,
+      "quote": "他请对方把救护问到另页，自己今天不是来换一张免问的条。",
+      "reason": "父亲救人死亡本可成为护家口实，林渡主动让责任原签留在本案，付的是家属情感与声望。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 715,
+      "quote": "原夹有三张林岑本人签过的证词，签抄相应页次齐，接收栏与返还栏分别记。",
+      "reason": "等了数日的双源纸真到、逐页读出三签和空格，而不是又一张回报；读完重封、归还未成也写清。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 715,
+      "quote": "她问：“还留着点火那句吗？”",
+      "reason": "妹妹在父亲已葬后问是否保留不利证词，亲情不变成撤责交易；纸真回来的回报不是圆满或赦免。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 715,
+      "quote": "年轻人听见，要求下一张纸不要只写救过谁。",
+      "reason": "口信已实到槐七手且只许明晨能走再来，下一章等他亲口答守密夺纸，盟友功劳不能遮掉旧问项。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 716,
+      "quote": "槐七到遮棚时，年轻人问的第一句话是：“今天你不戴面具，那些抢走的纸是谁拿的？”",
+      "reason": "槐七刚到便被索谁抢了纸，救人盟友要亲口答不利自身的事，压力不是突然加敌人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 716,
+      "quote": "他请三人先留明这一户的缺项，随后问槐七，受护记录为什么有时不让受害者自己看到。",
+      "reason": "林渡没有急着为盟友讲护密意义，先留问者真实缺项再追夺记录，关系受到实问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 716,
+      "quote": "那是我选的，不是你选的。",
+      "reason": "槐七将夺纸等待的选择认在自己名下；原旁听者展开旧页提出自己的记录，更多问项实际接住，功劳未抵伤害。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 716,
+      "quote": "槐七将自己那张现口述推给记话者。“那是我选的，不是你选的。”",
+      "reason": "替别人保护却使别人无限等的选择被本人认领；受护者仍可拒出面证明有功，复杂而非打脸的回报有效。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 716,
+      "quote": "这格也要念给大家听。",
+      "reason": "保护班空着要公开读，下一章责任理由和谁接护人必须一起答，认错不自动安全的压力真实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 717,
+      "quote": "梭工女人刚念到“责任”，棚外便有人催她先说要罚什么。第六百三十二日初凉，借来的桌还在值台外干处，三名核问人面前摆着的不是刑令，只是这些日子听过、核过的纸。",
+      "reason": "催先说罚什么与已有纸能证明什么冲突，理由不是惩罚口号，问者的不耐烦给长回读场以压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 717,
+      "quote": "他请三人保留家属能提供的见闻，但不替林栖答应赔工，也不把自己的救护工折成父亲的免责。",
+      "reason": "林渡拒无证连坐和功劳抵扣，同时仍留亲见线索，不是只摆一个无责声明。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 717,
+      "quote": "他自己出时间，不抽管簿女人去找而让原簿无人看；若到期没交，理由页记未履",
+      "reason": "从答话转到明确D639补交和缺项回告，问者可异议、原三人不可自己复核；原纸与人手有限令承诺不空泛。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 717,
+      "quote": "年轻人第一次抬眼看向他，不是请求一张住位。",
+      "reason": "问者不是来向救命主角求席而是保留不满意并收责任理由，关系从求助转向共同追問；长回读当章已有这一变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 717,
+      "quote": "理由已经给了，下一班呢？",
+      "reason": "水已用尽、原陪伴者要回家，明晨找屋主/成人接班的工程性行动是具体下一章理由，不继续欠口号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 718,
+      "quote": "侧屋主人把自己的席卷抱起来，问林渡：“我让这里给你们躺，明天我睡哪儿？”",
+      "reason": "主人让躺处却追问自己明晚睡哪里，保护第一次落成前必须问实际个人代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 718,
+      "quote": "林渡当即请他撤掉，外头可以接话，不能把受护者挡在需要别人开门的屋里。",
+      "reason": "门杆试推失败后他选撤而非加固，保护改为门外接话和可退路线。长问哪日延期有轻微承接观察N01，不否定本段明确选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 718,
+      "quote": "两名成人从这一段初凉同时接守两小时，一人在门外接话，另一人在门边看通道与传叫，共四工时，实来才记履行。",
+      "reason": "保护从缺格变成真实并守第一班，后班另记、无整夜保证；受护者愿回旧借处而非被锁成制度成果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 718,
+      "quote": "受护成人末凉前醒来，说今夜愿让那位邻人陪回原暂住处，明晨再来这屋。",
+      "reason": "躺下歇和自己决定夜里回去兑现了不逼证人，靠具体选择而不是班表口号；N02检查意义重复翻译可删，尚不抹除真实回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 718,
+      "quote": "换两个人听我说。",
+      "reason": "真实保护已有班，原理由却可能误扩范围；问者要求换非原作者复核，下章能否认错与继续保护形成双压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 719,
+      "quote": "年轻问者没让梭工女人再念一遍原来的结论。昨夜记话的成人把申诉句读给他听，他在页边按过自己的记号。今日他把那处记号转向新来的两人，要先亲口重说，不请写原理由的人替他解释。",
+      "reason": "问者拒原三人代解释，转向新两人亲口说，纠错不只是换页，谁掌解释权一开始就在变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 719,
+      "quote": "他请两名复核人把仍保留的三项也念完。",
+      "reason": "父亲被误扩责任收窄后，林渡没有求谅解或删既有三项，把纠错与洗白分开；长内心可压但选择明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 719,
+      "quote": "新页与旧页一同进纠正记录，往后公开回读只用改后句，同时说明曾有转录错误",
+      "reason": "宽范围改窄且原错误留底，已听者末凉实际回告；纠错不替找去处、不顺延材料期限，结果可回看。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 719,
+      "quote": "“留着，标明哪句撤改、为什么改。”",
+      "reason": "纠错不烧旧页，问者的异议进入历史而不是只拿更正纸，仍保留父亲去处空格，回报与未解痛苦共存。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 719,
+      "quote": "先让所有人看清他们欠着什么，才知道自己将要答应什么。",
+      "reason": "供水者只说愿来，明晨回读水柴班/原夹欠额并看条件；实际匮乏逼选择，供货不会自动入库。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 720,
+      "quote": "两壶水放在值台门外，来人却没松开提绳。第六百三十五日初凉，蓄水屋主人先问林渡：“我给的东西，往后谁说用在哪一边？”",
+      "reason": "两样壶有私封且提绳未松，救急供给附带未来用途条件，收不收已成为当下选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 720,
+      "quote": "未获双方委托的工程路线，不能给你作抵押。",
+      "reason": "急需水却拒越权签未来排他供路，继而让侧屋实际缩时、收回，选择真丢掉眼前救急机会。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 720,
+      "quote": "日光升高，侧屋受护成人由约定邻人陪回，主人实收回躺处，席卷仍是自己的。",
+      "reason": "谈供物失败造成有形缩护/收回，样壶带走、公水仍0；不是口头拒绝而实际照旧无限开放。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 720,
+      "quote": "年轻问者也收起纸，给后来问话的人让出半步。",
+      "reason": "没水仍不能给去处答案，但下一件口述不用等林渡先坐主位，问者主动让位不是被赶走，秩序局部温度成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 720,
+      "quote": "能交原闸资料的人。先问哪一边真能答。",
+      "reason": "样壶未收、供物者愿谈有限批次但仍要真签权人，下一篇必须找实际资料和谈判权限。首读转题略突的观察保留，不提前要求揭机制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 719,
+      "quote": "“留着，标明哪句撤改、为什么改。”念信女人答，“否则以后只见两张不同的纸，没人知道你问过什么。”",
+      "reason": "711不识字者不只拿纸的承诺在712接收回读、715原签实到、717理由/异议入口、719换两人纠错实质兑现；父亲去处从未承诺本篇查明，仍缺对应材料是开放问题。已兑现不免修712/714两个局部失败。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 720,
+      "quote": "主人把两只样壶挪到自己脚边。它们未入收水栏，没拆私封，既没煮给受护者，也没被写成应收六壶里的两壶。",
+      "reason": "十章从谁能接案/裁案升级到盟友答夺纸、有限理由、真实护人换班、异议改错，最后缺水迫近未经委托的未来排他交易；水/工时/私地确有成本并收回，不是每章换敌人。后半边界翻译和720转题略突需精简，但各工序承担不同戏剧作用，非阻断观察不夸为整篇无升级。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "needs_revision",
+  "first_read_observations": "异星录/06_执行计划/工作区/A62/A62恢复终审首读.md",
+  "fact_report": "异星录/06_执行计划/审读记录/第八卷/A62修后独立复核.md",
+  "review_process": "先按711—720全文首读且冻结观察，随后读规则/修订/来源核事实，未参与创作改写。愿追读不等于所有验收项通过；本轮实际52项，712/714可见变化needs_revision，其余50项pass。未审楔子/1—3，不声明全书开篇通过。正文改后重新seal并真实重读，不仅换摘要。",
+  "nonblocking_observations": [
+    "A62-N01：718明晨长问与今日减场时间承接",
+    "A62-N02：718检查意义翻译及后段重复边界解释",
+    "720工程转题略突；下一篇期待实际找资料/真实签权人"
+  ]
+}

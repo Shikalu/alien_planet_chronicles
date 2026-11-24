@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "source_digest": "ebf924aa51e966806834ccc5d94ebc3be46751e1cbf5915c458b5ed3cef292c6",
+  "full_reread_chapters": [
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170
+  ],
+  "checks_count": 52,
+  "all_check_quotes_exact": true,
+  "all_issue_review_quotes_exact": true,
+  "standards_count": 15,
+  "initial_hashes_unchanged": true,
+  "body_hashes_unchanged_during_review": true,
+  "format_and_coverage_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "strict_release_validation": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "followup_edits_unique_nonoverlapping": true,
+  "followup_only_han_simulation": {
+    "161": 2313,
+    "162": 2331,
+    "163": 2332,
+    "164": 2344,
+    "165": 2369,
+    "166": 2380,
+    "167": 2314,
+    "168": 2306,
+    "169": 2359,
+    "170": 2435
+  },
+  "d32_plan_only_han_simulation": {
+    "161": 2347,
+    "162": 2357
+  },
+  "note": "结构/精确引文/覆盖合格；严格放行预期失败，不能将该失败绕过或改成pass。"
+}

@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R009-B36",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B35-B36",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 351,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第351章_灯先照车里.md",
+      "sha256": "a0471a0958d886bde22f78a09e6dbec229aef4c812bfd486772511b4af19cc03"
+    },
+    {
+      "chapter": 352,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第352章_褥子放到门外.md",
+      "sha256": "fb6373865af78978b49fa93abb11a4a354e1cea7650682030d8321ca682cb3f4"
+    },
+    {
+      "chapter": 353,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第353章_先留能关回去的口.md",
+      "sha256": "ca781d2c7d570c8354e3c1f7dae4cfc7115f705d8cadba789dee8552993d711d"
+    },
+    {
+      "chapter": 354,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第354章_图要带到实物旁.md",
+      "sha256": "18a8d7889c88502240238508ad1764b90e4f4bf96d33835d7d22995f8b9d67fb"
+    },
+    {
+      "chapter": 355,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第355章_谁留在这张纸上.md",
+      "sha256": "0e7e30e56584cb6cfd89b819feb96220b7081dcb787492c3c9eda997bc708d04"
+    },
+    {
+      "chapter": 356,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第356章_回路没有接上.md",
+      "sha256": "e347175f1c96ca26cd1072762f7b95230139155de116c6affb06b72716acda8e"
+    },
+    {
+      "chapter": 357,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第357章_只买下面这一副.md",
+      "sha256": "0e6a98c38e8f4deb6584eb373c56fe09257e37498c8ca6bbd8c230185010bde9"
+    },
+    {
+      "chapter": 358,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第358章_凹口朝着哪一边.md",
+      "sha256": "ed4e2d41a4d6993d809fdaf490c3db91b727c76334a19f21ab78253f79a5096f"
+    },
+    {
+      "chapter": 359,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第359章_底盘不是床.md",
+      "sha256": "ca9dadaf08155129286abd55864cdb7bf7b9360be551213af3b65a9bc8421a50"
+    },
+    {
+      "chapter": 360,
+      "path": "异星录/06_执行计划/工作区/R009-B36/第360章_空着的电池座.md",
+      "sha256": "de3cb1d46c55281aef8c57ff41fd46055c2f3592da36f538c96d8c22dffc57b6"
+    }
+  ],
+  "source_digest": "23ee1ab734fa5b00fc87677f144d5190f55a083ff8919d87a64e36f46bd89b3b",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 351,
+      "quote": "灯罩刚拧松，裂缝里便落下一小撮灰。",
+      "reason": "裂罩落灰把上一篇用尽常班后的维护压力落到实物；随后门光照不到车腹，读者马上知道认底架仍要付出照明成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 351,
+      "quote": "“没移车。”林渡说，“接下来只拆车里的隔板。你这根不拿去吊盖。”",
+      "reason": "向物主承认使用范围，不把续借绳变成新吊具；灯、挡、绳分别获允，林渡的组织选择受物权约束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 351,
+      "quote": "林渡记了三格新的空框，没将之前那四格擦去重用。",
+      "reason": "铜把实付换来三短拆班，旧四班不重置，轮套也原样退回待修；本章确实获得有限的新拆验条件而非免费续航。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 351,
+      "quote": "林渡伸左手接衣，没有去扶盖。阿九还捏着衣角，过了一会儿才松。",
+      "reason": "牺牲最后私角不是一笔公账：衣角迟放让阿九的犹豫可见，林渡接衣而非催开盖，保住两人对物主选择的尊重。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 351,
+      "quote": "再往下拆，阿九今晚睡在哪里，也得一并找好。",
+      "reason": "认底架的技术目标被住处代价拦住；下一章须同时解决拆哪些木条和主人在哪里过夜，问题具体而非泛泛神秘。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 352,
+      "quote": "阿九在窄隔壁上划了三道炭线，第四道没落下去。",
+      "reason": "炭线停顿接着揭示贯通顶棚的壳肋，私隔板不能一锯到底；开头的迟疑马上成为结构风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 352,
+      "quote": "“从钉这边退。”他说，“留那根整肋。”",
+      "reason": "林渡选择退钉、留肋而非把清出空间当拆架许可，随后承重边和盖唇能分清，主角判断改变实际操作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 352,
+      "quote": "平盖的第四边终于露出来。",
+      "reason": "最后私隔板实拆，原来被压住的盖边显露；再用第一短班清槽却不开盖，进展与当日安全止点都可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 352,
+      "quote": "“这个不算公共账。”\n\n“你的。”林渡说。",
+      "reason": "阿九收回潮湿旧零件价纸，林渡没有把私物全部登记成公共资产；拆掉私人空间时仍保留隐私，比抽象感谢更有温度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 352,
+      "quote": "明早清出来的，是一条普通盖缝，还是一直带在身上的那片东西所缺的位置，须先让盖下的实物见光。",
+      "reason": "盖缝与随身三凹口片形成可验证的追问；夜宿已找到但明晨仍问本人，不把借到睡处偷换成继续拆验许可。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 353,
+      "quote": "螺钉转了，盖没起来。",
+      "reason": "清槽后的预期受隐藏夹片阻断，盖边鼓弧立即说明继续硬撬会损坏；这次开盖与上章拆板不是重复劳动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 353,
+      "quote": "“先画。片放进去，会不会让下面动，你没有说过。”",
+      "reason": "弥娅当场挡住可能试片的动作，阿九承认不知道并空手退出；对未知机制的限制通过共同选择成立，不靠作者宣布安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 353,
+      "quote": "脊上三道凹位高低不齐，凹位外沿有旧擦痕，与阿九银黑片的三个缺口轮廓相近。",
+      "reason": "第二短班真正打开大盖，找到有形对应的三凹位和独立管路；仍留第三处灰与管线空断，不直接跳到发动钥匙。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 353,
+      "quote": "“当时的轮和承重都验了。我验的是能上路的车，没验能下海。”",
+      "reason": "阿九对自己多年居住的车承认知识边界，随后划掉床脚旧线，私人经验与新发现之间的失落有具体落点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 353,
+      "quote": "下一次开盖，必须先知道要把仅余的光照在哪里。",
+      "reason": "最后一短班尚在，但不能再盲探；明日先找外侧方向和旧图对照，有明确节省资源的调查理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 354,
+      "quote": "弥娅把林渡图上的一根箭头擦掉了。",
+      "reason": "从一处实际纠错切入，随即交代车头／车尾视向不一；读者能理解看似相交的管路为什么必须返回实物校准。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 354,
+      "quote": "“水是在别处亲眼见的。这一笔不替它作证。”",
+      "reason": "弥娅即使已经见海也不拿结果反改旧字证据，林渡据此分图修正；共同对证而非全知译者替主角补答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 354,
+      "quote": "阿九把最后一格短拆班划成两段位置，一段照内牌，一段照底座，旁边写同一班，不把两处当两次免费点灯。",
+      "reason": "外侧断字明确了下一次开盖必须同核的对象，最后一班变成有目标的两处照明；只核方向的天光工没有额外耗芯。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 354,
+      "quote": "“这回我不解绳。我要离开，先跟你说。”",
+      "reason": "岑野向弟弟承诺不再擅动，孩子仍未立即释然；照护关系有小幅推进而非用一次道歉清掉擅拖后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 354,
+      "quote": "明早借檐的答复、五层第二段核包与自己能否按时回来，须各有实际一笔。",
+      "reason": "下一章不是再译一张纸：D217借檐到期、D218还工和两凉返程同时要求执行，生活与公共债都在催促行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 355,
+      "quote": "住户把门帘卷高，先请姨母看柱脚。",
+      "reason": "到期续借没有自动获准，柱脚潮湿与母亲出入要先核；人物能否继续照护孩子是即时压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 355,
+      "quote": "“今天先还工。新料另谈。”",
+      "reason": "林渡将本次到场目标限定为还第二段核包，不借浅海发现再开材料欠条；实际销工与新合作分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 355,
+      "quote": "一段工做满，原主和复点者各认过，第二格才销。",
+      "reason": "第二段私核包确实劳动并由双方认账，且四包债仍未销；上返不是一趟没有变化的汇报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 355,
+      "quote": "钱婶将钥匙收回原布角，说自己问过的交还处仍未答，若下回带纸上来，记得问接纸的是不是管屋的人。",
+      "reason": "与钱婶的短遇让无房者继续有自己的未决问题，不被主线新核心吞没；林渡保留原问、不虚许新居，温度有代价边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 355,
+      "quote": "有人愿意给电池或给料，究竟要换走阿九的哪一部分，须等本人坐到纸旁再问。",
+      "reason": "下面传来的买架消息改变回程关注点；主角不是物主，下一次谈判须等阿九到场，供能希望与私产风险并生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 356,
+      "quote": "林渡返山口，先听见车里一声空响。",
+      "reason": "返程刚落脚便有车内声响，紧接铜管擦盖的来源及车未动，制造检查冲动而没有伪装成启动反转。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 356,
+      "quote": "“不接。”阿九说，“管都没认清，拿火试家里有没有柴？”",
+      "reason": "面对买方可能带能量的诱惑，阿九先拒绝用通电来试未知回路；裂垫环、不同管径和遮孔提供具体依据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 356,
+      "quote": "裂环不回用，短铜管仍存原私人件袋，护套夹回原位，不把一次比尺寸说成修复一套回路。",
+      "reason": "旧生活管不能直接套用的判断落实为报废一环、保留旧样、护套复原；发现排除错误接法，没有凭空修好冷却。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 356,
+      "quote": "“在。要去车边，先跟你讲。”岑野说。",
+      "reason": "孩子从能否走转问哥哥明早是否在，岑野答自己的可履行承诺；修后“自己那句”明确说话归属，关系变化不靠治好伤腿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 356,
+      "quote": "他写：阿九认机械，弥娅只译可见旧字；自己说明现路、原债与搬运条件。",
+      "reason": "来客前先划三人权限，次章谈判会检验这条分工能否守住；不拿未核“配得上”当担保。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 357,
+      "quote": "来人没有看车门上的旧招牌。",
+      "reason": "买方跳过生活车招牌直问底架边界，迅速暴露与主人不同的估值视角；读者想知道他要买哪一部分。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 357,
+      "quote": "“现在先认下面。今天不卖，也不押整机。”",
+      "reason": "阿九在尚未认用途、又缺供能时拒绝整机押卖，保住下一步辨件的主动权；不是把对方简单写成不可谈的恶人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 357,
+      "quote": "他把整张展开压平，请麦穗将供料、运序与原四包条件抄在同一面，折口空出来。",
+      "reason": "新的交易代价从给物料显出长期排货权与家属优先；修后只一次并列重抄，让条件不再被折页遮住，未成交仍清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 357,
+      "quote": "少年想了一会儿，说那个人还没有能去的地方，先列的也只是一张未定的纸。",
+      "reason": "岑野没有为弟弟抢先列名就许出发，这次克制正对过去擅拖；孩子的急切仍在，成长不是口号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 357,
+      "quote": "后日若要答卖不卖，他们首先得认出，这副被别人按整机要价的底架究竟能做什么。",
+      "reason": "买方约后日答复，剩下的一班光必须先给用途鉴别；技术谜题与交易时限真正扣在一起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 358,
+      "quote": "银黑片翻到反面，三个凹口就全错开了。",
+      "reason": "纸面错向产生可当场纠正的障碍，读者马上面对实际试片的精度要求；不是靠神秘器件自动认主。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 358,
+      "quote": "阿九只松开一根手指，其余手指仍捏着片边，确认它不会自己向内滑，便将片取回，重新包住。",
+      "reason": "在可见浅台上试合后主动取回，满足辨认目标又不深入未知机构；动作及停点限制了技术跃迁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 358,
+      "quote": "护盖移开半掌，下面两管在同一段内架上分别进出，走向相反，末端都没有与生活回路相接。",
+      "reason": "第三短班把之前虚线的一段变成实见，侧护盖和铭牌随之成为可移到门光下的新证据；不把独立管路认清写成已通液。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 358,
+      "quote": "“这车上带得走的，剩得不多。”阿九把布包按进衣内，“以前怕拆丢了找不回来。如今找着地方，更不能随便交人。”",
+      "reason": "片有了对应位置，阿九反而更清楚为何要守住它；私人空间不断减少的代价与对买家的拒押意愿相连。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 358,
+      "quote": "明日来收旧机的人要听答复，而那块带出暗处的铭牌，还压着决定这副底架去留的一行字。",
+      "reason": "铭牌已取出且有天光可清，关键字被硬结挡住、膝痛迫使停工；悬念由实物和时间限制产生，不是作者故意让人不看。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 359,
+      "quote": "硬结从铭牌边缘起了一条细缝。",
+      "reason": "承接上一章未清的实体障碍，剥松壳、护铆耳的动作将揭示与损坏风险并列，读者能等到一个有来源的答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 359,
+      "quote": "“另算。第一趟到成本收足都由一家排，不行。只接我们这些人，也不行。”",
+      "reason": "林渡承认供料有代价却拒绝无限期独占运序及家属特权；对方有出资理由，冲突因此是实际制度选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 359,
+      "quote": "“下面这一副是列车船的启动核心。你床脚那张图，得改名字了。”",
+      "reason": "从多年床下未知架转为有范围的启动核心，牌文、图框和已见空座共同支持；名称是本篇兑现，不是假装已获得动力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 359,
+      "quote": "“今晚先睡昨天借的那块。今天没给我多出一张床。”",
+      "reason": "孩子开始关心阿九住处，阿九用短答承受发现之后依旧无床的事实；重大揭示落回人物生活而非单纯名词升级。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 359,
+      "quote": "他将纸递给弥娅：“明早先核缺什么，再去问能拿什么换。别让人拿一个名字，就收走整条路。”",
+      "reason": "用途已认，下一步转为供能规格与交换底线；旧机人愿带看件但未交电池，360有明确新任务。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 360,
+      "quote": "阿九在供能座外形图旁放了早先已耗尽的那枚照明芯格。",
+      "reason": "章首先做实物大小对比，立刻压住“启动核心已认即可开车”的误期待；修后明确最早耗尽芯，不冲销前章残余能量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 360,
+      "quote": "林渡在另一纸记愿意了解的人，不记新货位债，也不在原四包之后排出一长串第几包。",
+      "reason": "面对住户愿意出小芯或门板，林渡不以热情募集不适用物料、许未验货位；公共组织成长表现为拒绝过早扩债。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 360,
+      "quote": "阿九膝僵，明日不定为自己全程赶路，先由林渡与槐七去核路、问见物时间，能否带下设备再另排。",
+      "reason": "借物分别续到D234，外形问单有了具体会面地点与有限侦路人选；仍不等于供货成交或阿九能全程上路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 360,
+      "quote": "林渡让出他扶门的地方，没将小钩也列到可交换的铜件中。",
+      "reason": "阿九取回最后的小帘钩，林渡主动留它为私物；先前铜铰、铜把已换光，这次留下一个不必交易的物件构成克制的回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 360,
+      "quote": "车在原粉线里，空电池座在合好的盖下。林渡将四包旧纸留在山口最外侧，自己带走的是一张还没有供货人签名的问单。",
+      "reason": "静车、空座、未签问单将下一步限定为实际侦路核件，远潮旧页不是库存或承诺；可直接接361货场路线而不跳成交。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 359,
+      "quote": "弥娅沿字后的小线找到图内黑框。框从浅槽所在的脊向后延伸，包住内机与独立管路，车壳在框外，只用短线连接。",
+      "reason": "351私角压住盖、353三凹位与独立粗管、354同向对照及同核断字、358浅试与两管实见，最终由359铭牌黑框限定启动核心范围；回答了底架是什么，但供能、频率、冷却和线路仍各待核，兑现不越级。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 360,
+      "quote": "“你不肯让我整买，又想所有人看见成本，讨价不会快。”那人说。",
+      "reason": "351付铜续光与352失去夜宿→353只剩一班→355实还工仍无货→357供料绑定运权→359认核心却拒绝独占→360须公开成本逐件谈，资源、私产、信用和公共分配逐级联动，而非反复扩大同一种危险。",
+      "verdict": "pass"
+    }
+  ],
+  "actual_reread_scope": "351—360十章修后全文实读；50项逐章与2项本篇，不是原初审版本。",
+  "limitations": "不代签全书黄金开篇、五十章审计、邻章或冻结回填候选。"
+}

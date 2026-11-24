@@ -1,0 +1,342 @@
+{
+  "schema_version": 1,
+  "kind": "scoped-writeback-r3-review",
+  "batch": "R009-B34",
+  "reviewer": "R009-reader-B33-B34",
+  "independent": true,
+  "date": "2026-11-10",
+  "scope_chapters": [
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340
+  ],
+  "body_digest": "498fbb294d3b5db1f9112d565e11c22ce95b8491aa3a8ae65cde59f1f1764304",
+  "freeze_path": "harness/maintenance/R009/writeback-freeze-r3.json",
+  "freeze_sha256": "21bdfb84f6c02fc78b636384dfe2dac0b53889bd128669964221407963eb90bf",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f"
+    }
+  ],
+  "verdict": "pass",
+  "blockers": [],
+  "review_method": "本轮先实际读取r3交接、新freeze和精确变更表，核八候选实SHA；以r2时间线完整存档作逐字差异及反向替换等价核验，确认仅394方向词一处，另七份与r2的SHA相同。随后实际重新读取八候选的A24完整相关段、R009本组适用说明和必要接口，逐文件范围见checks.read_ranges，再形成此新报告，并非复制旧报告只改摘要。只校验所属十章正文哈希及既有终审/52项报告的摘要与状态，未重新首读正文、未重做52项。394仅作为全文件差异定位读取，不扩审391—400、不代B40关闭问题。",
+  "scope_limit": "仅签本组十章对应的八候选A段和R009适用说明。哈希校验覆盖完整文件不等于全历史语义审读；320/341等邻章只核接口条件，不扩签正文。未修改候选/正文/旧报告，未运行发布、gate或续写close。",
+  "prior_review": {
+    "path": "harness/maintenance/R009/B34/writeback-freeze-review.json",
+    "sha256": "4c5343f326e73a0581b4435d22a0b8c27088ac30b891537c0b5cf8480e6ea2c7",
+    "freeze_sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a",
+    "note": "保留旧冻结下的真实结论；此引用不宣称旧报告已签过r3。"
+  },
+  "version_verification": {
+    "previous_freeze_path": "harness/maintenance/R009/writeback-freeze-r2.json",
+    "previous_freeze_sha256": "10e292e51889a19883988f1b2906a8adeb3835104e7997ecf1b6025024cf24f3",
+    "candidate_files_verified": 8,
+    "unchanged_file_count": 7,
+    "changed_candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+    "history_archive": "harness/maintenance/R009/writeback-history/r2/事件与地点时间线.md",
+    "before_sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44",
+    "after_sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23",
+    "only_replacement": {
+      "chapter": 394,
+      "old": "D292大匣出棚、293/294充、295回",
+      "new": "D292大匣出坪送棚、293/294充、295回"
+    },
+    "full_file_exact_replacement_verified": true,
+    "own_body_manuscripts_verified_unchanged": 10,
+    "out_of_scope_issue": "B40-WB01由B40审者另行核闭；本组不出具其closure。"
+  },
+  "body_review_preserved": {
+    "final_path": "harness/maintenance/R009/B34/final.json",
+    "final_sha256": "fc75f37723a7a638965b97b4767c2f50282db1fdf9b2248821e86e8558bb4388",
+    "reader_review_path": "harness/maintenance/R009/B34/reader-review.json",
+    "reader_review_sha256": "9806b949cfb3e324917fe47d7aa881addf0ec7394222ec0d646ea3c19e04e6aa",
+    "same_body_digest": true,
+    "existing_final_verdict": "pass",
+    "existing_reader_review_verdict": "pass",
+    "existing_reader_check_count": 52,
+    "new_body_review_performed": false,
+    "new_reader_review_performed": false
+  },
+  "checks": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "scope": "A24人物原段773—790行；R009第952行仅337停搬与338器材两句，366子句在签域外。",
+      "read_ranges": [
+        [
+          773,
+          790
+        ],
+        [
+          952,
+          952
+        ]
+      ],
+      "quote": "337眩晕借工只在坐处认工具，槐七与未眩晕者轮作；338器材仍存实石，不是支承已重新承梁。",
+      "supporting_quotes": [
+        "一人D191手麻／短时眩晕，停搬、饮水休息，D192自述已不麻后仅认半班；无永久新伤",
+        "山口D194收工，拟D195上四层、D196上五层实交工具并接原岗；尚未实际返抵，不记归还。"
+      ],
+      "reason": "重新逐行读A24人物状态，眩晕者D191停止搬运，D192自报不麻才有限半班；未被“轮作”重新拉进当日重活。338器材仍平码实石，配合资源行D193复摆，没有提前承梁。弥娅返程、纸抄分持、旧圈责任、三少年与照护留守仍在；两工D194尚未返抵。394仅改后篇大匣方向，不涉及本组岗位；同一说明中的366不扩签。",
+      "verdict": "pass",
+      "current_sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "scope": "A24资源原段658—674行；R009第858行D锚点和864行配水子句；六包及400条目不倒填本组。",
+      "read_ranges": [
+        [
+          658,
+          674
+        ],
+        [
+          856,
+          864
+        ]
+      ],
+      "quote": "D187约过两旬即D207重议未兑现风险补偿，与D197还实物分开；截至D194兑现0包",
+      "supporting_quotes": [
+        "山口施工至D194半班，D195全凉上四层、D196全凉上五层实报／接原岗；D194尚未返。",
+        "D191长班削为短班／轮歇，眩晕停搬不扣水或删工时",
+        "D192观察湿线与还班，D193复摆支承；",
+        "各A21—A30已发生D锚点保留；正文用相对日与旬头表达，不把十章视作十日。"
+      ],
+      "reason": "本次重读日次、私料、借工具、车借具、工班和货位债，4木2鞋不与前组已还2撑2垫混，清障短绳不代车后好绳。D194收班后另留两整凉上返，不能在本组先记归还；D197三个实物/檐期限与D207四包风险重议分开。337停搬仍记真实工时及原份水，338观察而非提前复摆。r3未改本文件，六包0兑是后篇范围，本组仍四包0兑。",
+      "verdict": "pass",
+      "current_sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "scope": "A24伏笔原段594—608行；R009第755行无新增命名、责任仍待取证；341仅核新盖未开的出口，不签后续揭秘。",
+      "read_ranges": [
+        [
+          594,
+          608
+        ],
+        [
+          753,
+          757
+        ]
+      ],
+      "quote": "不是人门，盖未开、后面未知；接341先认盖周承压与查法，不将主墙自行打通",
+      "supporting_quotes": [
+        "重逢不等于全盘互信、交出载体或原圈全部回收；拒押仅地方合作条件，无正式叛徒判决",
+        "本轮无新增命名伏笔。",
+        "两陆旧史责任仍须取证，林岑旧爆破责任不因亲情或新工程免除。"
+      ],
+      "reason": "当前本组各伏笔行和钩子摘要重读后仍有明确层级：双端图纹与纸抄只是部件比对，弥娅归来不销旧圈，四包货债尚未兑现，340仅露新盖而非开洞。R009通则没有将后篇网络或回应倒送给本组人物。394方向变动不影响这些未揭边界或340→341的先查压物条件；不据此对350以后回收作独立结论。",
+      "verdict": "pass",
+      "current_sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "scope": "A24时间线450—466行；R009第623行中337与D锚点、第625行340回叙；472行341仅核两凉返程接口。",
+      "read_ranges": [
+        [
+          450,
+          466
+        ],
+        [
+          472,
+          472
+        ],
+        [
+          621,
+          625
+        ]
+      ],
+      "quote": "340中段明确为开工前未接梁重的短绳练退，随后回到本章第一次正式停令核清后的复工，不在持载暂停时另排演。",
+      "supporting_quotes": [
+        "一工手麻眩晕停搬，槐七与另一借工轮作；水仍原份，医疗不挪；",
+        "两配水工尚在三层，拟后两凉上返非已还",
+        "两工工具随人上四；次凉才上五，未提前认实还。"
+      ],
+      "reason": "本轮顺读331—340时间线并读341接口，337继续搬运的是槐七与另一借工，纸条/本人到达仍分日分层。340未载练退明确属于开工前，正式停令核清后才复工，不把两次动作挤在持载暂停中。已用r2完整档验证新文件唯一改变是394出发方向，A24、R009本组说明及341接口逐字未变；重读也未见连带矛盾。394不属本组，本报告不裁定B40-WB01关闭。",
+      "verdict": "pass",
+      "current_sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23",
+      "reread_this_round": true,
+      "r3_file_change": "394方向词一处改变，本组范围未变",
+      "scoped_bytes_equal_r2_archive": true
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "scope": "A24现场命名277—290行；R009第431行无新能力和旧测潮仪未恢复子句，后篇核心细节不签。",
+      "read_ranges": [
+        [
+          277,
+          290
+        ],
+        [
+          429,
+          431
+        ]
+      ],
+      "quote": "334五层料场借一根，340绕独立短梁、同绳两端两成人收力",
+      "supporting_quotes": [
+        "不是两根，不剪断；不代四层原主好后绳，不拖整车",
+        "非主架、非已开人门，盖没启，房车仍无动力",
+        "测水记录页不是新仪表，旧测潮仪未恢复；"
+      ],
+      "reason": "实际重读六项本组用语与岗位区分，一根清障绳仍同绳双尾两人收力，不冒生第二根，也不剪成新件；4木2鞋只接独立外构件。墙脚检修盖与原废构件双端小盖不同，尚未启；纸抄不是新仪器或完整原档。三类成人岗位没有合并，旧测潮仪无读数。r3方向修正未改变本组器物名、能力或物权。",
+      "verdict": "pass",
+      "current_sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "scope": "A24词义137—147行；R009第279行无新增揭秘及D索引说明；后篇侧护盖不作为本组开盖权限。",
+      "read_ranges": [
+        [
+          137,
+          147
+        ],
+        [
+          277,
+          279
+        ]
+      ],
+      "quote": "两位主角均能叫停不等于两人垄断决定，错误警报也须记实原因",
+      "supporting_quotes": [
+        "340任何在场者发现结构、来水或身体异常可报停；先稳原受力再退，复工逐项核清，借班临到期不能压过异议",
+        "四块木不补齐全洞轨枕；受重垫不能先抽，支承临时用后清点归存",
+        "正文作者D编号改为相对日与旬头，作者台账D索引不变；"
+      ],
+      "reason": "重读本组定义，独立停令覆盖所有现场者及身体异常，先稳受力再退而非两位主角专权；这与337停搬及340风草误报照核相接。受重垫不得先抽，普通货位只有限4包，接续件比对也不授开盖权限。R009未升级术语、D索引保持原值；394方向词变化不改变停令、承重或归存概念。",
+      "verdict": "pass",
+      "current_sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "scope": "A24实录143—164行，含341输入；R009第309行本组承诺与317行中332/339相对日、340未载练绳说明。",
+      "read_ranges": [
+        [
+          143,
+          164
+        ],
+        [
+          309,
+          309
+        ],
+        [
+          317,
+          317
+        ]
+      ],
+      "quote": "一工手麻眩晕停搬，喝原份歇息；槐七与未眩晕借工排短班轮休，只清外沟已松草团／陶片",
+      "supporting_quotes": [
+        "定点变更：332/339相对日校正；340未载练绳放回开工前；",
+        "同根清障绳成套、两尾分握，移已断外梁并包尖，收4木2鞋与工具",
+        "原两借工拟D195上四、D196上五实报归具，当前尚未启程、不能提前记归还；",
+        "| 331—340 | 怎样借到有归期的工料 | 问债、借工、共同停令移独立横梁 | 眩晕者停搬、两凉返程、借物有期 | 新露检修盖能证明什么 |"
+      ],
+      "reason": "重新顺读十条已发生实录与出口，不用写前卡的规划代替事实。337分岗与人物表一致，338收条、339本人到达及复摆的次序未倒置；340未载练绳已由定点说明置回开工前，移走的仍独立外梁。返程尚未启动、檐/私料/绳挡归期各在，下一班不能凭计划自动拥有同规模人手。本组实录与R009行均未受394方向更正影响。",
+      "verdict": "pass",
+      "current_sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "scope": "十章篇章卡A24原第14行；R009第57、64行；A23第13行只核前组有限停班后的输入。",
+      "read_ranges": [
+        [
+          13,
+          14
+        ],
+        [
+          55,
+          59
+        ],
+        [
+          64,
+          64
+        ]
+      ],
+      "quote": "D194只露主墙脚窄检修盖，车仍无动力；弥娅D193实到、旧圈未消；工人待返，D197借物与檐须再问",
+      "supporting_quotes": [
+        "公开4包普通货优先债、公共急用前置；原轮班2成人各限替2趟；人人可停、核清再开",
+        "| 331—340 | 怎样借到有归期的工料 | 问债、借工、共同停令移独立横梁 | 眩晕者停搬、两凉返程、借物有期 | 新露检修盖能证明什么 |"
+      ],
+      "reason": "当前篇行与R009本组承诺已实际复读：工料有归期、货位有限且急用前置，眩晕导致停搬而非无代价补足工时；兑现仅为共同停令移外梁。两凉返程在篇末是待履约，原行“工人待返”清楚，并未写成已还；旧圈不销、新盖未开与341输入相接。第394方向修正不触及本篇，其他A段或后篇卡不在本组语义签域。",
+      "verdict": "pass",
+      "current_sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    }
+  ],
+  "interface_checks": [
+    {
+      "interface": "330→331",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "quote": "| 331／D183 | 山口／外檐，工面停，准备上返 |",
+      "reason": "前组限班停与本组工面停接续，未凭新freeze变成已经有长班。"
+    },
+    {
+      "interface": "340→341",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "quote": "两工工具随人上四；次凉才上五，未提前认实还。",
+      "reason": "340仍三层，341仅第一凉上四，工具实还还要下一凉；只核接口，不审签341整章。"
+    }
+  ]
+}

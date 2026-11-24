@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "kind": "publication-binding",
+  "batch": "R006-B17",
+  "reviewer": "01a1b471-6c35-7321-ab02-bfb79da42b6a",
+  "writer": "R006-main",
+  "independent": true,
+  "body_first": true,
+  "body_first_basis": "继承已冻结initial与final/reader的真实正文先读流程；本轮仅正式发布同字节绑定，不冒称新盲读或重新审稿。",
+  "verified_at": "2026-11-07T16:11:45.893962+08:00",
+  "verdict": "pass",
+  "source_digest": "0247236d426409ae719999942144b5f26d49d5bfb0c3975f6eb2c94d2b4bcfd5",
+  "source_digest_algorithm": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode())",
+  "manuscripts": [
+    {
+      "chapter": 161,
+      "path": "异星录/正文/第二卷_黑暗断阶/第161章_从四层抬头看塔.md",
+      "sha256": "bc65cd0af62e9fd7aff50aa7825bc23ec2236ed994751cc0b8e139ca0e19213b"
+    },
+    {
+      "chapter": 162,
+      "path": "异星录/正文/第二卷_黑暗断阶/第162章_上去的人少一半.md",
+      "sha256": "a71976414bc128ddf50229fe146a2bfbbad8b6f51fe4eb9149dbd08d6ca3a36d"
+    },
+    {
+      "chapter": 163,
+      "path": "异星录/正文/第二卷_黑暗断阶/第163章_借表不借答案.md",
+      "sha256": "72b0c5698c11b073ecd156d765820139695bb1c07f2bfba39882b26b3e88915a"
+    },
+    {
+      "chapter": 164,
+      "path": "异星录/正文/第二卷_黑暗断阶/第164章_先让泵停稳.md",
+      "sha256": "821a89761c764d519b3cb0e04872646f19ea7cee244d106fd9ea7c81821e77b4"
+    },
+    {
+      "chapter": 165,
+      "path": "异星录/正文/第二卷_黑暗断阶/第165章_声音经过两根管.md",
+      "sha256": "b57ae61ebeb32499f61ac27ab9b5f712a19891dc70aa3bc9c0e7f05468440fa0"
+    },
+    {
+      "chapter": 166,
+      "path": "异星录/正文/第二卷_黑暗断阶/第166章_敲击者.md",
+      "sha256": "e393b33f0105f7305c87a1424352e0f28a39765efe40c77c2b34df9924034649"
+    },
+    {
+      "chapter": 167,
+      "path": "异星录/正文/第二卷_黑暗断阶/第167章_他们还在下面.md",
+      "sha256": "6b8e5e6f4ac1a14b9462b5a51fc64a55b82e4b2c2e534a1063ff832afbab369f"
+    },
+    {
+      "chapter": 168,
+      "path": "异星录/正文/第二卷_黑暗断阶/第168章_轮值表贴在哪里.md",
+      "sha256": "44e2e9d2ce3f1cfbd98348ec7d831e9ad8aa6774ea6fd8de5f6eb3adf1181cf7"
+    },
+    {
+      "chapter": 169,
+      "path": "异星录/正文/第二卷_黑暗断阶/第169章_谁先喝这一班.md",
+      "sha256": "f3300f1dc6f6434b1606dc32dfec303a33240032d701b0cd2eb0f8624559b25a"
+    },
+    {
+      "chapter": 170,
+      "path": "异星录/正文/第二卷_黑暗断阶/第170章_塔没有换主人.md",
+      "sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a"
+    }
+  ],
+  "reviewed_work_digest": "4d8fc4e61520b17e51925d8639064697618057f0b4bcb94b63d1beb0b27de0cb",
+  "manifest": {
+    "path": "harness/maintenance/R006/publication-manifest.json",
+    "sha256": "e8db0266149168d8f6d9e9f7d47c4b980916c7eabed7c8f9d69e937557b92468",
+    "published_digest": "0247236d426409ae719999942144b5f26d49d5bfb0c3975f6eb2c94d2b4bcfd5"
+  },
+  "frozen_reviews": {
+    "fact": {
+      "path": "harness/maintenance/R006/B17/final-authorized.json",
+      "sha256": "da23266b3cec8d48348fa057bbd843c983db0b3b16a1e7ef915b1374769060f1",
+      "manifest_frozen_sha256": "da23266b3cec8d48348fa057bbd843c983db0b3b16a1e7ef915b1374769060f1",
+      "matches_frozen": true,
+      "source_digest": "4d8fc4e61520b17e51925d8639064697618057f0b4bcb94b63d1beb0b27de0cb",
+      "verdict": "pass"
+    },
+    "reader": {
+      "path": "harness/maintenance/R006/B17/reader-authorized.json",
+      "sha256": "f3210a1657d0b92b887efc31977002e1fd0a32ccded7a1c16d466b70e382b9ff",
+      "manifest_frozen_sha256": "f3210a1657d0b92b887efc31977002e1fd0a32ccded7a1c16d466b70e382b9ff",
+      "matches_frozen": true,
+      "source_digest": "4d8fc4e61520b17e51925d8639064697618057f0b4bcb94b63d1beb0b27de0cb",
+      "verdict": "pass"
+    }
+  },
+  "manuscript_bindings": [
+    {
+      "chapter": 161,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第161章_从四层抬头看塔.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第161章_从四层抬头看塔.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第161章_从四层抬头看塔.md",
+      "reviewed_sha256": "bc65cd0af62e9fd7aff50aa7825bc23ec2236ed994751cc0b8e139ca0e19213b",
+      "work_sha256": "bc65cd0af62e9fd7aff50aa7825bc23ec2236ed994751cc0b8e139ca0e19213b",
+      "published_sha256": "bc65cd0af62e9fd7aff50aa7825bc23ec2236ed994751cc0b8e139ca0e19213b",
+      "manifest_after_sha256": "bc65cd0af62e9fd7aff50aa7825bc23ec2236ed994751cc0b8e139ca0e19213b",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 162,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第162章_上去的人少一半.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第162章_上去的人少一半.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第162章_上去的人少一半.md",
+      "reviewed_sha256": "a71976414bc128ddf50229fe146a2bfbbad8b6f51fe4eb9149dbd08d6ca3a36d",
+      "work_sha256": "a71976414bc128ddf50229fe146a2bfbbad8b6f51fe4eb9149dbd08d6ca3a36d",
+      "published_sha256": "a71976414bc128ddf50229fe146a2bfbbad8b6f51fe4eb9149dbd08d6ca3a36d",
+      "manifest_after_sha256": "a71976414bc128ddf50229fe146a2bfbbad8b6f51fe4eb9149dbd08d6ca3a36d",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 163,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第163章_借表不借答案.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第163章_借表不借答案.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第163章_借表不借答案.md",
+      "reviewed_sha256": "72b0c5698c11b073ecd156d765820139695bb1c07f2bfba39882b26b3e88915a",
+      "work_sha256": "72b0c5698c11b073ecd156d765820139695bb1c07f2bfba39882b26b3e88915a",
+      "published_sha256": "72b0c5698c11b073ecd156d765820139695bb1c07f2bfba39882b26b3e88915a",
+      "manifest_after_sha256": "72b0c5698c11b073ecd156d765820139695bb1c07f2bfba39882b26b3e88915a",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 164,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第164章_先让泵停稳.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第164章_先让泵停稳.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第164章_先让泵停稳.md",
+      "reviewed_sha256": "821a89761c764d519b3cb0e04872646f19ea7cee244d106fd9ea7c81821e77b4",
+      "work_sha256": "821a89761c764d519b3cb0e04872646f19ea7cee244d106fd9ea7c81821e77b4",
+      "published_sha256": "821a89761c764d519b3cb0e04872646f19ea7cee244d106fd9ea7c81821e77b4",
+      "manifest_after_sha256": "821a89761c764d519b3cb0e04872646f19ea7cee244d106fd9ea7c81821e77b4",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 165,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第165章_声音经过两根管.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第165章_声音经过两根管.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第165章_声音经过两根管.md",
+      "reviewed_sha256": "b57ae61ebeb32499f61ac27ab9b5f712a19891dc70aa3bc9c0e7f05468440fa0",
+      "work_sha256": "b57ae61ebeb32499f61ac27ab9b5f712a19891dc70aa3bc9c0e7f05468440fa0",
+      "published_sha256": "b57ae61ebeb32499f61ac27ab9b5f712a19891dc70aa3bc9c0e7f05468440fa0",
+      "manifest_after_sha256": "b57ae61ebeb32499f61ac27ab9b5f712a19891dc70aa3bc9c0e7f05468440fa0",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 166,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第166章_敲击者.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第166章_敲击者.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第166章_敲击者.md",
+      "reviewed_sha256": "e393b33f0105f7305c87a1424352e0f28a39765efe40c77c2b34df9924034649",
+      "work_sha256": "e393b33f0105f7305c87a1424352e0f28a39765efe40c77c2b34df9924034649",
+      "published_sha256": "e393b33f0105f7305c87a1424352e0f28a39765efe40c77c2b34df9924034649",
+      "manifest_after_sha256": "e393b33f0105f7305c87a1424352e0f28a39765efe40c77c2b34df9924034649",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 167,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第167章_他们还在下面.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第167章_他们还在下面.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第167章_他们还在下面.md",
+      "reviewed_sha256": "6b8e5e6f4ac1a14b9462b5a51fc64a55b82e4b2c2e534a1063ff832afbab369f",
+      "work_sha256": "6b8e5e6f4ac1a14b9462b5a51fc64a55b82e4b2c2e534a1063ff832afbab369f",
+      "published_sha256": "6b8e5e6f4ac1a14b9462b5a51fc64a55b82e4b2c2e534a1063ff832afbab369f",
+      "manifest_after_sha256": "6b8e5e6f4ac1a14b9462b5a51fc64a55b82e4b2c2e534a1063ff832afbab369f",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 168,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第168章_轮值表贴在哪里.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第168章_轮值表贴在哪里.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第168章_轮值表贴在哪里.md",
+      "reviewed_sha256": "44e2e9d2ce3f1cfbd98348ec7d831e9ad8aa6774ea6fd8de5f6eb3adf1181cf7",
+      "work_sha256": "44e2e9d2ce3f1cfbd98348ec7d831e9ad8aa6774ea6fd8de5f6eb3adf1181cf7",
+      "published_sha256": "44e2e9d2ce3f1cfbd98348ec7d831e9ad8aa6774ea6fd8de5f6eb3adf1181cf7",
+      "manifest_after_sha256": "44e2e9d2ce3f1cfbd98348ec7d831e9ad8aa6774ea6fd8de5f6eb3adf1181cf7",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 169,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第169章_谁先喝这一班.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第169章_谁先喝这一班.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第169章_谁先喝这一班.md",
+      "reviewed_sha256": "f3300f1dc6f6434b1606dc32dfec303a33240032d701b0cd2eb0f8624559b25a",
+      "work_sha256": "f3300f1dc6f6434b1606dc32dfec303a33240032d701b0cd2eb0f8624559b25a",
+      "published_sha256": "f3300f1dc6f6434b1606dc32dfec303a33240032d701b0cd2eb0f8624559b25a",
+      "manifest_after_sha256": "f3300f1dc6f6434b1606dc32dfec303a33240032d701b0cd2eb0f8624559b25a",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    },
+    {
+      "chapter": 170,
+      "reviewed_path": "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第170章_塔没有换主人.md",
+      "reviewed_sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+      "work_sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+      "published_sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+      "manifest_after_sha256": "004526bf632c940b9700ddf7466d170a736a57ec33ea0a96208ce56837e58d5a",
+      "path_mapping_matches": true,
+      "published_equals_work_bytes": true,
+      "published_matches_reviewed_sha256": true,
+      "published_matches_manifest": true
+    }
+  ],
+  "writeback_file_bindings": [
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "published_path": "异星录/04_连续性管理/人物状态台账.md",
+      "work_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "published_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "manifest_after_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "published_path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "published_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "manifest_after_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "published_path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "published_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "manifest_after_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "published_path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "work_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "published_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "manifest_after_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "work_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "published_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "manifest_after_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/十章篇章卡.md",
+      "published_path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "work_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "published_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "manifest_after_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/术语词典.md",
+      "published_path": "异星录/04_连续性管理/术语词典.md",
+      "work_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "published_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "manifest_after_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/术语与命名表.md",
+      "published_path": "异星录/04_连续性管理/术语与命名表.md",
+      "work_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "published_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "manifest_after_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "published_equals_current_wb_bytes": true,
+      "published_matches_manifest": true
+    }
+  ],
+  "writeback_scope_bindings": [
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "published_path": "异星录/04_连续性管理/人物状态台账.md",
+      "start_anchor": "## 第151—170章后状态（A07补）",
+      "end_exclusive": "## 第171—180章后状态（A08）",
+      "reviewed_scope_sha256": "db6a38980efa1caa64d4fceaf01b606badfbf0c9b5c586e5d8b8376e2f6aad40",
+      "work_scope_sha256": "db6a38980efa1caa64d4fceaf01b606badfbf0c9b5c586e5d8b8376e2f6aad40",
+      "published_scope_sha256": "db6a38980efa1caa64d4fceaf01b606badfbf0c9b5c586e5d8b8376e2f6aad40",
+      "published_lines": {
+        "start_line": 304,
+        "end_line": 324
+      },
+      "scope_bytes": 4061,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "published_path": "异星录/04_连续性管理/资源与时间台账.md",
+      "start_anchor": "## 第151—170章后资源与时间（A07补）",
+      "end_exclusive": "## 第171—180章",
+      "reviewed_scope_sha256": "679e915e02a358be77934c6d5f172811566a79f72e6b9ba471490deed574ecb6",
+      "work_scope_sha256": "679e915e02a358be77934c6d5f172811566a79f72e6b9ba471490deed574ecb6",
+      "published_scope_sha256": "679e915e02a358be77934c6d5f172811566a79f72e6b9ba471490deed574ecb6",
+      "published_lines": {
+        "start_line": 319,
+        "end_line": 331
+      },
+      "scope_bytes": 3144,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "published_path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "start_anchor": "## 第二卷时间线（161—170）",
+      "end_exclusive": "## 第二卷时间线（171—180）",
+      "reviewed_scope_sha256": "992863ed39929ed32a7c405db8b6530d3a610792257a911c8a2f7ba008fae7a7",
+      "work_scope_sha256": "992863ed39929ed32a7c405db8b6530d3a610792257a911c8a2f7ba008fae7a7",
+      "published_scope_sha256": "992863ed39929ed32a7c405db8b6530d3a610792257a911c8a2f7ba008fae7a7",
+      "published_lines": {
+        "start_line": 176,
+        "end_line": 192
+      },
+      "scope_bytes": 3512,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "published_path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "start_anchor": "## 第161—170章回填",
+      "end_exclusive": "## 悬念公平性检查",
+      "reviewed_scope_sha256": "3d9ebdb5294a5531081c67b5a70d2e6e2891a6c6c94c57c570bb31a4132e049a",
+      "work_scope_sha256": "3d9ebdb5294a5531081c67b5a70d2e6e2891a6c6c94c57c570bb31a4132e049a",
+      "published_scope_sha256": "3d9ebdb5294a5531081c67b5a70d2e6e2891a6c6c94c57c570bb31a4132e049a",
+      "published_lines": {
+        "start_line": 461,
+        "end_line": 471
+      },
+      "scope_bytes": 1489,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "start_anchor": "## A07／161—170：敲击者的塔",
+      "end_exclusive": "## A08／171—180：不能拿水报仇",
+      "reviewed_scope_sha256": "becd7c0319c92ded8c14d68a5bec967de2fd9fc7f315ecde002701bddebc1538",
+      "work_scope_sha256": "becd7c0319c92ded8c14d68a5bec967de2fd9fc7f315ecde002701bddebc1538",
+      "published_scope_sha256": "becd7c0319c92ded8c14d68a5bec967de2fd9fc7f315ecde002701bddebc1538",
+      "published_lines": {
+        "start_line": 125,
+        "end_line": 139
+      },
+      "scope_bytes": 3922,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "start_anchor": "## 十一、A07实录（161—170，2026-10-02）",
+      "end_exclusive": "## 十二、A08实录（171—180，2026-10-03）",
+      "reviewed_scope_sha256": "00da5251eee2234e630271ba38e54176179bf393d3bd09e4dcb9bbb71286b720",
+      "work_scope_sha256": "00da5251eee2234e630271ba38e54176179bf393d3bd09e4dcb9bbb71286b720",
+      "published_scope_sha256": "00da5251eee2234e630271ba38e54176179bf393d3bd09e4dcb9bbb71286b720",
+      "published_lines": {
+        "start_line": 612,
+        "end_line": 677
+      },
+      "scope_bytes": 11101,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/十章篇章卡.md",
+      "published_path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "start_anchor": "A07／161—170／敲击者的塔",
+      "end_exclusive": "\n",
+      "reviewed_scope_sha256": "8ba07888bdf55831fecad89ac763cdd944eb7a5909d58c44c6b4fd3c52c2afa7",
+      "work_scope_sha256": "8ba07888bdf55831fecad89ac763cdd944eb7a5909d58c44c6b4fd3c52c2afa7",
+      "published_scope_sha256": "8ba07888bdf55831fecad89ac763cdd944eb7a5909d58c44c6b4fd3c52c2afa7",
+      "published_lines": {
+        "start_line": 17,
+        "end_line": 17
+      },
+      "scope_bytes": 563,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/术语词典.md",
+      "published_path": "异星录/04_连续性管理/术语词典.md",
+      "start_anchor": "| 热能电池 |",
+      "end_exclusive": "\n",
+      "reviewed_scope_sha256": "f4d83bf12511a24e4e9704c3e1e878c4e5f73d914676ad26c2cc80e5d9fcc172",
+      "work_scope_sha256": "f4d83bf12511a24e4e9704c3e1e878c4e5f73d914676ad26c2cc80e5d9fcc172",
+      "published_scope_sha256": "f4d83bf12511a24e4e9704c3e1e878c4e5f73d914676ad26c2cc80e5d9fcc172",
+      "published_lines": {
+        "start_line": 27,
+        "end_line": 27
+      },
+      "scope_bytes": 115,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    },
+    {
+      "work_path": "异星录/06_执行计划/工作区/R006-WB/术语与命名表.md",
+      "published_path": "异星录/04_连续性管理/术语与命名表.md",
+      "start_anchor": "| 组织 | 塔工班 |",
+      "end_exclusive": "| 设施 | 议政厅 |",
+      "reviewed_scope_sha256": "707b577a5a081a4d49449f5934afbc01e2ec9835dd3a72668537337e96f0db26",
+      "work_scope_sha256": "707b577a5a081a4d49449f5934afbc01e2ec9835dd3a72668537337e96f0db26",
+      "published_scope_sha256": "707b577a5a081a4d49449f5934afbc01e2ec9835dd3a72668537337e96f0db26",
+      "published_lines": {
+        "start_line": 85,
+        "end_line": 87
+      },
+      "scope_bytes": 480,
+      "published_equals_wb_scope_bytes": true,
+      "published_matches_reviewed_scope": true
+    }
+  ],
+  "validation": {
+    "chapters_verified": 10,
+    "writeback_files_verified": 8,
+    "reviewed_writeback_scopes_verified": 9,
+    "inherited_reader_checks": 52,
+    "all_52_quotes_found_in_published_chapters": true,
+    "source_files_stable": true,
+    "errors": []
+  },
+  "scope": "只绑定B17正式161—170章及冻结报告中的9个WB范围；其他组内容不作重新审读结论。",
+  "writes": [
+    "harness/maintenance/R006/B17/publication-binding.json"
+  ]
+}

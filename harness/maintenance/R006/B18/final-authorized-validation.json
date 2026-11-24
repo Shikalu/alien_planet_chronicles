@@ -1,0 +1,258 @@
+{
+  "phase": "final_authorized_actual_round2_validation",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "source_digest": "7183d7c971173a6b694489cbcca357ce9a047078ca156c066130540b79c29927",
+  "errors": [],
+  "validation_passed": true,
+  "original_issues": 39,
+  "additional_issues_in_canonical_issues": 2,
+  "total_issues": 41,
+  "closed_issues": 41,
+  "checks": 52,
+  "checks_pass": 52,
+  "quoted_evidence_records_verified": 109,
+  "same_final_reader_fingerprints_and_checks": true,
+  "all_ten_manuscript_hashes_match": true,
+  "three_actual_prose_edits_reconstruct_full_read_bytes": true,
+  "operations": [
+    {
+      "id": "B18-AR-001",
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-002",
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-003",
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-004",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-005",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-006",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-007",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-008",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-009",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-010",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-011",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-012",
+      "path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-013",
+      "path": "异星录/06_执行计划/工作区/R006-WB/术语与命名表.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-014",
+      "path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-015",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-016",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-017",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-018",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-019",
+      "path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-020",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-021",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 2,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-022",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-023",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-024",
+      "path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-025",
+      "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-026",
+      "path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    },
+    {
+      "id": "B18-AR-027",
+      "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "before_occurrences": 0,
+      "after_occurrences": 1,
+      "verified_actual": true
+    }
+  ],
+  "historical_artifacts_match_frozen_sha": true,
+  "reader_checker": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "external_dependencies": [
+    {
+      "id": "B18-to-B19-copies",
+      "chapters": [
+        180,
+        182
+      ],
+      "path": "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md",
+      "sha256": "02280a592e7a23aa6fab24c73459287d97d655a4ff047fe00aa36e6c4304fc03",
+      "status": "closed_interface",
+      "blocking_for_combined_publication": false,
+      "not_pending_author": true,
+      "quote": "三摊合抄的全套副本，照清单只做两套：一套装进岑野保管的匣，校齐后随他出坡；一套留六层配水旧柜，交记账员保管。站柜、塔柜和青石层分存的是留底材料，不各添一套全本。",
+      "finding": "末次校验期间B19实稿更新，随后完整读取182核此接口：两套全抄/三处留底与180一致，岑野保管的同匣校齐后首次出坡；不增第三第四套。仅此接口关闭，不代签B19整批。",
+      "same_box_timing": "180交保管未出坡→182“先前备好的那只抄本匣”校正后首次出坡已接通。",
+      "blocking_for_local_review": false,
+      "outside_local_verdict_scope": true,
+      "previous_observed_sha256": "ce33355637650c54393c901725212a02a6bc11349240634ab654a90c59e0b92c",
+      "resolution": "末次校验期间B19实稿更新，随后完整读取182核此接口：两套全抄/三处留底与180一致，岑野保管的同匣校齐后首次出坡；不增第三第四套。仅此接口关闭，不代签B19整批。"
+    }
+  ],
+  "local_fact_verdict": "pass",
+  "combined_publication_verdict": "not_assessed_by_B18",
+  "publication_binding_performed": false,
+  "report_sha256": {
+    "final-authorized.json": "d33f0e9568c6f66776f73f0765827ec92d620fbb448897f13382faec7edff867",
+    "final-authorized.md": "b2fe5c776a9ba1edb05df4859580d2e5a0e942a754b3e101031859f813a498a5",
+    "reader-authorized.json": "62e4632046be9fcc9210419315723d19a1f7804b45bf69bd58d7dccd18d1b36a"
+  }
+}

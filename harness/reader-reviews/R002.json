@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "opening",
+  "writer": "/root",
+  "reviewer": "/root/opening_reader_r002",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 0,
+      "path": "异星录/正文/第一卷_热海坠城/楔子_岚岬与栈城.md",
+      "sha256": "171facef4a7a46238ea420b57983c2e96790c2f720478b4abf087e4f286cfb8f"
+    },
+    {
+      "chapter": 1,
+      "path": "异星录/正文/第一卷_热海坠城/第001章_热海越线.md",
+      "sha256": "dd02f17465e619be4a02431309fd6f8ff18f73ceaf58828a5ad909034c8281f3"
+    },
+    {
+      "chapter": 2,
+      "path": "异星录/正文/第一卷_热海坠城/第002章_第一根断梁.md",
+      "sha256": "bb29de2f2a599b3b4c00682de5c5d503c15a1d2b8c1fbd9501431a0095b09e6a"
+    },
+    {
+      "chapter": 3,
+      "path": "异星录/正文/第一卷_热海坠城/第003章_冷凝站里的人.md",
+      "sha256": "c0d499f1c3c791fb0c427dd0a412853614bdcb9e2f36390f4c8da3bddd2101c6"
+    }
+  ],
+  "source_digest": "a407084d35ae88adaffa53398b237704dbb6535007e5fb0169927194e6900279",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 1,
+      "quote": "林渡把水桶举过头顶时，脚下的一股热水漫过了他的脚背。",
+      "reason": "第一页动作同时给出保水与躲热水两难，紧接回流管使危险有具体来源。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 1,
+      "quote": "他松开撑杆，先抓住孩子。",
+      "reason": "在只能抓住一个的瞬间放弃工具并舍水救人，选择带来工钱与配送信用损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 1,
+      "quote": "水桶撞上梁柱，桶壁裂开，冷凝水沿木缝流进墙根的热汽里，贴到过热金属边缘后才化成白雾。",
+      "reason": "整桶水不可逆流失，配送任务从可完成变成个人欠账；三声后目标转去接妹妹。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 1,
+      "quote": "女人没有松。",
+      "reason": "救人不是抽象善意，母子与林渡实在地一起抵住桩列；失水使温度有代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 1,
+      "quote": "站门离他不到两段斜桥，却隔着正在变形的承重线。",
+      "reason": "距离看似很近但承重正在失效，读者具体等待能否到达林栖。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 2,
+      "quote": "斜桥原本有三段，第一段和第二段还挂在桩列上，第三段已经落进黑汽。",
+      "reason": "开篇直接把上章赶路目标放进两段残桥，压力没有被背景说明拖后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 2,
+      "quote": "林渡看了眼冷凝站，又看了眼桥下。",
+      "reason": "妹妹在前，男孩在下；他仍下桥救人，之后组织同一搬运工过桥。第二处近检现在位于实际走到第二段后，并据结果绕开坏板，职业判断影响选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 2,
+      "quote": "林渡把男孩拖回第一段桥靠桩的板面，手背的伤口被门框磨开，血沿着湿木淌下去。",
+      "reason": "男孩由被压到获救，林渡伤口加重，桥梁继续损坏；不是只取得一个新地点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 2,
+      "quote": "“我救不出她了。”",
+      "reason": "承认救人能力有限，男孩能活而母亲未救出；后续扶桩挪行与回望给出具体且不虚构死亡的损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 2,
+      "quote": "“哥，别站在桥中间。第二根梁已经裂了。”",
+      "reason": "妹妹终于可确认活着，却立即提供第二根梁险情，下一章的破门目标直接且由赶站选择引出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 3,
+      "quote": "第二段桥尽头，第二根横梁鼓起的瞬间，冷凝站门里的敲击停了。",
+      "reason": "上章梁险和妹妹声音直接接上，以停敲加重迫近的破门时限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 3,
+      "quote": "“你手伤了。”\n\n“你肩膀也伤了。”",
+      "reason": "林栖依据哥哥伤势争取承担维修，兄妹共同排序风险；她有技术主动性，不只作被救者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 3,
+      "quote": "阀柄终于转过半圈，喷出的黑水变成细流，墙角的咕噜声却没有停。",
+      "reason": "关阀取得有限成果，尚不能恢复主芯与供水，配角的合力有用但不无代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 3,
+      "quote": "林渡隔着衣襟按住那张维修单，取下她袖口尚干净的内层布，覆住掌心裂口，绕到手背固定。",
+      "reason": "妹妹已救到并共同维修后，包扎兑现照顾；维修单仍在衣内使互信与公共证据并存。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 3,
+      "quote": "“第一冷凝站，按调度令开门检查。”",
+      "reason": "虚假无伤亡播报之后，具体检查者到门外；带证据找互助会的决定因而受到新的人为压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 3,
+      "quote": "林渡侧身挤进冷凝站，回身把维修搬运工拽进来。",
+      "reason": "001立起救妹妹目标，002残桥延宕，003真实开门汇合并共同关阀，前三章完成一次局部交付。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 3,
+      "quote": "“那下一轮怎么办？”",
+      "reason": "风险从个人工钱与孩子的命，扩到斜桥通路，再扩为一环停产和证据受检；同为工程危机但影响人数、资源与选择难度逐级改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "first_page_hook",
+      "chapter": 0,
+      "quote": "铜制温度牌上的两根指针，都越过了红线。\n\n“要报上去吗？”学徒问。",
+      "reason": "引文位于楔子正文前100纯汉字内；越线有危险、是否拉绳有人的选择，读者先追问迟报而不是先背地图。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_stakes",
+      "chapter": 1,
+      "quote": "他还得把水送到一环东侧三户人家，再回站交班，等妹妹林栖一起回住处。",
+      "reason": "职业、目的地与妹妹在前段一起给出；热水、核票与梁险拦路，整桶欠账和妹妹安全使失败可感。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "three_chapter_promise",
+      "chapter": 3,
+      "quote": "林栖没有去捞：“三枚都报废了。”",
+      "reason": "有限手艺能救人和止部分水流，却不能把设备与储水变回来；废土压力、具体代价和被改维修记录共同兑现开篇承诺。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "exposition_cost",
+      "chapter": 2,
+      "quote": "到桥中段，前方一块板的旧钉已被拔斜。刚才隔着水汽看见的横梁缺口就在这块板下面。林渡按住内侧栏杆，先让后面的人停在靠桩处，自己蹲低，把木尺探进栏边露出的缺口，检查还连着的木纤维。",
+      "reason": "已先写踏上第二段，再到中段停住近检；量梁得到的结果直接改变绕板落脚处。世界说明分别附着核票、警号和关阀失败，不再靠补画人物路线理解工程行动。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "report": "harness/maintenance/R002/终核_独立复核.md",
+  "fact_logic_verdict": "pass",
+  "attraction_verdict": "pass"
+}

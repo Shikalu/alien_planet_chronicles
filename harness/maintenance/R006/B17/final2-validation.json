@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "source_digest": "189bac9f8f55fd0cbe8946377459481de65a47c8938ef5a2711794a8f8ea0cb1",
+  "full_reread_this_round": [
+    161,
+    162,
+    163,
+    164,
+    165,
+    168,
+    169,
+    170
+  ],
+  "v1_same_sha_full_read_reused": [
+    166,
+    167
+  ],
+  "all_50_issues_rechecked": true,
+  "all_review_evidence_exact": true,
+  "all_52_checks_exact": true,
+  "standards_count": 15,
+  "initial_and_v1_unchanged": true,
+  "manuscripts_unchanged_during_reread": true,
+  "format_and_coverage_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "strict_release_validation": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "status_counts": {
+    "closed": 40,
+    "pending_author": 8,
+    "open": 2
+  },
+  "lengths": {
+    "161": 2347,
+    "162": 2357,
+    "163": 2332,
+    "164": 2344,
+    "165": 2369,
+    "166": 2380,
+    "167": 2314,
+    "168": 2306,
+    "169": 2359,
+    "170": 2434
+  },
+  "note": "格式/引文/指纹合格不等于通过；严格失败仅因仍有未通过追读项。"
+}

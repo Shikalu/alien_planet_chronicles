@@ -1,0 +1,925 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B27",
+  "reviewer": "01a1c2c7-005e-7a93-979a-f602b603f2a1",
+  "writer": "R008-main",
+  "validated_at": "2026-11-10T09:21:10+08:00",
+  "validation_kind": "mechanical_revalidation_of_existing_genuine_review_and_application_handoff_not_new_full_reread",
+  "source_digest": "41f784dd3fdb25a49bb4d3a3b6f9623cf24f9a828ae1e1e7b62a7c40fa4d09fa",
+  "manuscripts": [
+    {
+      "chapter": 261,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第261章_廊口开了半扇.md",
+      "sha256": "30279b32f07e8a2a1c0ea995184a053c1f3600821ab9327cdb67529c9300decf"
+    },
+    {
+      "chapter": 262,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第262章_三行条件.md",
+      "sha256": "fe3054b165c2c05ea35babc60d44f0a988a0b5b974182ef27e752a0a8b24d6a0"
+    },
+    {
+      "chapter": 263,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第263章_门外的两个结.md",
+      "sha256": "f005cf28b4eb99d5aac4e7f948a4d345a891d768ef0e01f2d13219e287cf1f84"
+    },
+    {
+      "chapter": 264,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第264章_旬头账.md",
+      "sha256": "beddf419dc21a3aff0bbd9cc1cf98904b47282cc4a18264a29c03caaa19e6f40"
+    },
+    {
+      "chapter": 265,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第265章_底册.md",
+      "sha256": "016c4f84f67c8bcf43f6a8488d332d7943233ca54b95abe615d080f36625e313"
+    },
+    {
+      "chapter": 266,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第266章_陪同加一人.md",
+      "sha256": "d96f4a0450681151f1b45741855f7ddf727486466b2344f970a6438860a7af15"
+    },
+    {
+      "chapter": 267,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第267章_圈是我的.md",
+      "sha256": "d68fca8b75323a1668d896f4506198f1afc6d610536045fdde9894eb048014ff"
+    },
+    {
+      "chapter": 268,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第268章_后门比前门窄.md",
+      "sha256": "b451213f600e005b26d5db87cac9ed27c5b29c52e0ace1ebb7c8ba7342db1dbf"
+    },
+    {
+      "chapter": 269,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第269章_人未从正门出.md",
+      "sha256": "a181f56f6465187519eee75abe42765ec9fbc967ca1deb835e9d34ba62991bc8"
+    },
+    {
+      "chapter": 270,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第270章_走了两夜的迟信.md",
+      "sha256": "b587e281da0f2a30e8d2259dab8d587a0d28bb15b5884b88f3b957244b53b25f"
+    }
+  ],
+  "round3_changed_chapters": [
+    261,
+    268
+  ],
+  "round3_unchanged_chapters": [
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    269,
+    270
+  ],
+  "body_result": {
+    "verdict": "pass",
+    "initial_ids_covered": 28,
+    "pre_round2_ids_covered": 30,
+    "closed_ids": 32,
+    "open_ids": 0,
+    "actual_evidence_quotes_verified": 174,
+    "normative_checks": 20,
+    "style_checks": 14,
+    "applied_edit_records_preserved": 111,
+    "note": "语义审读及逐项关闭见final.json/recovery-round3-closure-audit.json；本轮不把字串校验冒充再次逐章阅读。"
+  },
+  "reader_result": {
+    "verdict": "pass",
+    "checks": 52,
+    "distinct_actual_quotes": 52,
+    "chapter_criteria": [
+      "emotional_payoff",
+      "next_question",
+      "opening_pressure",
+      "protagonist_choice",
+      "visible_change"
+    ],
+    "arc_criteria": [
+      "promise_payoff",
+      "progressive_stakes"
+    ],
+    "report_sha256": "755f2c1a9df0e1940a94babda8eb527fcee92af95da588eec62215d70c442172",
+    "final_link_matches": true
+  },
+  "preserved_input_fingerprints": [
+    {
+      "path": "harness/maintenance/R008/B27/initial.json",
+      "sha256": "128ca2176708be95d82e4c0d7e66194d882f0dd78735a9b8e1ca33e558506e3a",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/initial-manifest.json",
+      "sha256": "7827cdaa5c646ac47326f3a33ac7db1e91f10309f389ee408012691781b5c873",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/body-first.md",
+      "sha256": "0e7bf2ff80b346ef31f8b14343a020f2efc084a9b198acd69a7616aaa25eb50b",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/body-first-inputs.json",
+      "sha256": "cc0616b181b20648b5d822bccf036ad2030a9c01ce4f0ed74e56b6dd0d949fd9",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-body-first.md",
+      "sha256": "8aa7bce5a1acbb12b724dc49bac71cc597ff504cf0fa7fd1243753b15ef8dfca",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/applied-edits.json",
+      "sha256": "c7d5535f1b5d47d1580d9ced2441cbacb44d4db45e408d8eb209f6aae3ee0ef3",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-applied-edits.json",
+      "sha256": "0edde33c5db202208851fc1e08cce3977a222847b569d9c5a341e7433a6c91b8",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-round2-applied-edits.json",
+      "sha256": "9e9ef7f82d153e044e5cde5800f202e5a4d87d57862abf44b84e49498c07f325",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-round3-applied-edits.json",
+      "sha256": "d5208d19743d49392273db12350d85ba0b84656bf00805e2a9db374cbde8426f",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/pre-round2-final.json",
+      "sha256": "f9dcd868243b52f152c7753b891da3eadb2f84a8caee8c20c76590c9d8b48230",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/pre-round2-final-manifest.json",
+      "sha256": "26e2b34213c8f9983b4dbc39697c79c1393fd5441a346bca161027a5e12ec824",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/pre-round2-reader-review.json",
+      "sha256": "e0152490a30ef3ac9702661fcd8b4d723a370a9a3c2126457a6fef8d4b36ae30",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/pre-round2-recovery-final.md",
+      "sha256": "e0ac7376fc2be733bb2429234b029accc29e4d909a61707f328f98ee0c0b7a39",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/pre-round3-final-manifest.json",
+      "sha256": "1d5979369e74f38cc4a8776c5c73ca3edf62f833d1609cdf0024038b0a255dc7",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-suggested-edits.json",
+      "sha256": "0c7792202e8f3f28cb8014241fbf5e8e9d9ac95677bea6b00fc24e9fd8e2c919",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-round2-suggested-edits.json",
+      "sha256": "105c958e0bd4ce81ef3118e513d9cc7aa139c2b9e8ee88accde7bbcef924879e",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-round2-body-read.md",
+      "sha256": "d66fc2e0a684fff0ee82eb3a8a32021c0b502b1dc5ab3b54342b3e9a01467e06",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/recovery-round3-closure-audit.json",
+      "sha256": "43aef9da382cfb12788a85c0fca11bf1c154a3e9c84bfbeaa1475e4eafcdcb26",
+      "matches": true
+    },
+    {
+      "path": "harness/maintenance/R008/B27/final-manifest.json",
+      "sha256": "f762b2a2e0a202f31fc7ff6600fbe4699a51cdae5256f1c27c92227467b79ff7",
+      "matches": true
+    }
+  ],
+  "writeback_result": {
+    "suggestions_complete": true,
+    "total": 92,
+    "applied_indices": [
+      0,
+      91
+    ],
+    "pending_suggestion_indices": [],
+    "suggestions_sha256": "dbfb2da1083d6ee6979e3b8d1d546bcb6228e967ea1ae769320d834c3e227778",
+    "applied_logs": [
+      {
+        "path": "harness/maintenance/R008/recovery-writeback-round2-applied.json",
+        "sha256": "ddee6a73435a09f5e9b4c130f4f646bc927007fd90ff172a4b6b77c4155894b0",
+        "matched_B27_entries": 70
+      },
+      {
+        "path": "harness/maintenance/R008/recovery-writeback-b27-increment-applied.json",
+        "sha256": "9f6d52fb4e5ef9fed41f637555dea6f37ed209dbe2c707a125e4d51517a7fb40",
+        "matched_B27_entries": 22
+      }
+    ],
+    "all_92_logs_exact_match": true,
+    "all_92_new_fragments_present_once": true,
+    "checks": [
+      {
+        "index": 0,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 213
+      },
+      {
+        "index": 1,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 214
+      },
+      {
+        "index": 2,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 214
+      },
+      {
+        "index": 3,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 214
+      },
+      {
+        "index": 4,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 215
+      },
+      {
+        "index": 5,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 216
+      },
+      {
+        "index": 6,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 216
+      },
+      {
+        "index": 7,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 216
+      },
+      {
+        "index": 8,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 216
+      },
+      {
+        "index": 9,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 216
+      },
+      {
+        "index": 10,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 216
+      },
+      {
+        "index": 11,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 217
+      },
+      {
+        "index": 12,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 217
+      },
+      {
+        "index": 13,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 217
+      },
+      {
+        "index": 14,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 218
+      },
+      {
+        "index": 15,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 218
+      },
+      {
+        "index": 16,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 218
+      },
+      {
+        "index": 17,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 219
+      },
+      {
+        "index": 18,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 219
+      },
+      {
+        "index": 19,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 220
+      },
+      {
+        "index": 20,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 220
+      },
+      {
+        "index": 21,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 220
+      },
+      {
+        "index": 22,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 220
+      },
+      {
+        "index": 23,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 24,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 25,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 26,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 27,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 28,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 29,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 30,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 221
+      },
+      {
+        "index": 31,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 225
+      },
+      {
+        "index": 32,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 225
+      },
+      {
+        "index": 33,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 226
+      },
+      {
+        "index": 34,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 226
+      },
+      {
+        "index": 35,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 227
+      },
+      {
+        "index": 36,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 229
+      },
+      {
+        "index": 37,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 230
+      },
+      {
+        "index": 38,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 203
+      },
+      {
+        "index": 39,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 204
+      },
+      {
+        "index": 40,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 205
+      },
+      {
+        "index": 41,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 242
+      },
+      {
+        "index": 42,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 242
+      },
+      {
+        "index": 43,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 245
+      },
+      {
+        "index": 44,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 447
+      },
+      {
+        "index": 45,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 448
+      },
+      {
+        "index": 46,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 449
+      },
+      {
+        "index": 47,
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 452
+      },
+      {
+        "index": 48,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 332
+      },
+      {
+        "index": 49,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 334
+      },
+      {
+        "index": 50,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 334
+      },
+      {
+        "index": 51,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 335
+      },
+      {
+        "index": 52,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 336
+      },
+      {
+        "index": 53,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 336
+      },
+      {
+        "index": 54,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 336
+      },
+      {
+        "index": 55,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 336
+      },
+      {
+        "index": 56,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 337
+      },
+      {
+        "index": 57,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 337
+      },
+      {
+        "index": 58,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 338
+      },
+      {
+        "index": 59,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 338
+      },
+      {
+        "index": 60,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 338
+      },
+      {
+        "index": 61,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 339
+      },
+      {
+        "index": 62,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 339
+      },
+      {
+        "index": 63,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 340
+      },
+      {
+        "index": 64,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 340
+      },
+      {
+        "index": 65,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 340
+      },
+      {
+        "index": 66,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 341
+      },
+      {
+        "index": 67,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 341
+      },
+      {
+        "index": 68,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 341
+      },
+      {
+        "index": 69,
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 341
+      },
+      {
+        "index": 70,
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 586
+      },
+      {
+        "index": 71,
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 586
+      },
+      {
+        "index": 72,
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 587
+      },
+      {
+        "index": 73,
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 590
+      },
+      {
+        "index": 74,
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 601
+      },
+      {
+        "index": 75,
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 605
+      },
+      {
+        "index": 76,
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 943
+      },
+      {
+        "index": 77,
+        "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 508
+      },
+      {
+        "index": 78,
+        "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 511
+      },
+      {
+        "index": 79,
+        "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 513
+      },
+      {
+        "index": 80,
+        "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 514
+      },
+      {
+        "index": 81,
+        "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 158
+      },
+      {
+        "index": 82,
+        "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 158
+      },
+      {
+        "index": 83,
+        "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 160
+      },
+      {
+        "index": 84,
+        "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 162
+      },
+      {
+        "index": 85,
+        "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 165
+      },
+      {
+        "index": 86,
+        "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 58
+      },
+      {
+        "index": 87,
+        "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 59
+      },
+      {
+        "index": 88,
+        "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 270
+      },
+      {
+        "index": 89,
+        "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 188
+      },
+      {
+        "index": 90,
+        "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 17
+      },
+      {
+        "index": 91,
+        "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+        "application_log_exact_match": true,
+        "new_count": 1,
+        "current_line": 17
+      }
+    ],
+    "candidate_current_snapshots": [
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "sha256": "b0d2e2a7ca27f0d317e3545322bd2635a0df3e90ee0e75f63faabdc48496494b"
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "sha256": "ba07cc4977b2b6b1bff51c4446bc31272f7a40d46a4964c961b19964fd3e3281"
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01"
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+        "sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716"
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735"
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239"
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e"
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "sha256": "1ca55d330c668981effb26efbca7458d335eb69b0ee07b04fe982f50ccbbdae7"
+      }
+    ],
+    "whole_file_changes_since_previous_unfrozen_snapshot": [],
+    "candidate_snapshots_frozen": false,
+    "note": "仅核B27/A17建议与当前对应原行片段，不复套old，不审B28、不审其他组。整文件指纹可因其他组并发变化，当前快照不等于冻结指纹。"
+  },
+  "report_linkage": {
+    "final_sha256": "58bcbc0609c0e5be11991fcbab6c84c58865301023df7e9137d05f762ab625b7",
+    "reader_sha256": "755f2c1a9df0e1940a94babda8eb527fcee92af95da588eec62215d70c442172",
+    "writeback_audit_sha256": "99bac714e45453e942437aecdab6585db895dc7ed41737c1074c27a36e88ed74",
+    "all_links_match": true
+  },
+  "body_blockers": [],
+  "handoff_pending": [
+    "B28完成其负责的核验后由主笔冻结八候选",
+    "收到冻结版本后，只对A17原实录、时间线与相关R008校准做最终复核"
+  ],
+  "manuscripts_modified": false,
+  "candidates_modified": false,
+  "historical_reports_modified": false,
+  "publication_or_gate_claimed": false,
+  "verdict": "validated_body32_reader52_writeback92_waiting_candidate_freeze"
+}

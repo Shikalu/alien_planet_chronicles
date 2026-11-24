@@ -1,0 +1,910 @@
+{
+  "schema_version": 1,
+  "batch": "R005-B14",
+  "review_round": 2,
+  "reviewer": "01a1b3d1-602d-7250-a7b5-639453b5a3f7",
+  "reviewer_id_source": "CODEX_THREAD_ID",
+  "writer": "R005-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 131,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    }
+  ],
+  "input_digest": "b62cde367340589644ccb4b77f72a499a414e8f6e9dfbc59a4db3b4bb2b81840",
+  "source_digest": "b62cde367340589644ccb4b77f72a499a414e8f6e9dfbc59a4db3b4bb2b81840",
+  "digest_method": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode()); manuscripts依131—140排序，各项仅chapter/path/sha256；默认JSON分隔符。",
+  "sha_check_before": {
+    "timestamp": "2026-11-07T12:27:38.096109+08:00",
+    "chapter_sha256": {
+      "131": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "132": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "133": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+      "134": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "135": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "136": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "137": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "138": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+      "139": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "140": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    "all_equal": true
+  },
+  "sha_check_after_body": {
+    "timestamp": "2026-11-07T12:29:52.163671+08:00",
+    "changed_chapters": [],
+    "all_equal": true
+  },
+  "sha_check_after": {
+    "timestamp": "2026-11-07T12:36:12.554830+08:00",
+    "chapter_sha256": {
+      "131": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "132": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "133": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+      "134": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "135": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "136": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "137": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "138": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+      "139": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "140": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    "all_equal": true
+  },
+  "manuscripts_stable": true,
+  "completed_at": "2026-11-07T12:36:12.554830+08:00",
+  "kind": "review",
+  "profile": "serial",
+  "review_type": "independent_post_edit_recheck2_reader_pull",
+  "disclosure": "复核非全新盲首读：已知复核1问题；本轮先读新7章实际稿与相邻接口，之后才读followup编辑记录。3章只因字节完全相同继承已有全文实读。",
+  "verdict": "needs_revision",
+  "fact_logic_verdict": "issues",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 131,
+      "quote": "林渡把三张数纸并排压在账桌灯下，看了很久，抬头问槐七：“数是实的。路呢？”",
+      "reason": "数纸是否能转成可通行的路在开头即成为任务，不先讲背景；读者知道从测汽进入实际下探。",
+      "verdict": "pass",
+      "action": "保留数纸到立路的任务转折；日次/汽班的基本口径另见复核问题。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 131,
+      "quote": "“那就带人。”林渡说，“今天下探，立路。”",
+      "reason": "林渡决定将探路升级为他人可复用的通路，承担组织而非只亲自探看的责任。",
+      "verdict": "pass",
+      "action": "保留主动决定及后文打橛、系绳的落实。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 131,
+      "quote": "第三处木橛打进了酥石，他拽第二下就摇了，没商量，拔出来换地方重打",
+      "reason": "检验失败导致真实重打，读者看见立路不是一句完成宣告；可复用的路线是本章所得。",
+      "verdict": "pass",
+      "action": "保留失败与重做，勿压成验证次数清单。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 131,
+      "quote": "牌上的名字已经被水渍晕开，“编制四人”却还读得清楚。哪四个人、现在是否都在墙后，册子上还没有答案。",
+      "reason": "实物只确认编制，既把未知的人落到四行上，也保留未知，没有把读者的担心提前作答。",
+      "verdict": "pass",
+      "action": "保留可见牌字与未知边界；墙龄另待裁。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 131,
+      "quote": "林渡没有答。他合上册子：“明天带这个问题下去。”",
+      "reason": "前句具体问四人中是否有十天领料者；明日再探承接这一人证问题，有行动方向。",
+      "verdict": "pass",
+      "action": "保留领料者与墙内四行的待核关联，不用三十年替代证据。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 132,
+      "quote": "封墙外立了营，第二天的事就一件：听墙。",
+      "reason": "开章明确在封墙外、要听出是否有生活动静；随即否决灌水逼人回应，使目标带上不可伤人的限制。",
+      "verdict": "pass",
+      "action": "保留听墙和拒绝灌水试探；第二天的绝对落点另待日次核准。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 132,
+      "quote": "这道墙一旦开了对话，外头也就藏不住有人了。",
+      "reason": "回敲前意识到会暴露己方，却仍按槐七教的节奏交流，选择有代价而非无风险测验。",
+      "verdict": "pass",
+      "action": "保留先获码义、再承担回敲风险的顺序。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 132,
+      "quote": "会等回音的手，至少一双。",
+      "reason": "三轻两停不再只被观察，变样应答带来能互动的对象；至少一双避免直接确认四人全在。",
+      "verdict": "pass",
+      "action": "保留回敲所得，不把镜片移动另写成独立确证。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 132,
+      "quote": "“我懂的不是码，是规矩。”槐七说，“用这码的人，等外头先亮身份。咱们没亮，它也就不亮。”",
+      "reason": "槐七的经验转成双方互相防备的可理解规则，陌生墙后人不再只是谜题；这是关系理解的回报。",
+      "verdict": "pass",
+      "action": "保留有限辨认，不由这一句补全未知身份。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 132,
+      "quote": "镜片在，明天看它有没有被挪动。",
+      "reason": "镜片挪动已降为待核变化；后续复查与回敲仍是具体任务，镜片本身的空间可执行性另留I08，不拿追问方向通过代替几何通过。",
+      "verdict": "pass",
+      "action": "保留变化待核和回敲；几何须据原有路径解决，不另造灯或扩大缝。",
+      "issue_ids": [
+        "R005-B14-I08"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 133,
+      "quote": "镜片第二天被挪动了。",
+      "reason": "开头直接兑现镜片观察，随后明确仍未对话，必须找气孔；压力紧接上章而非重开新任务。",
+      "verdict": "pass",
+      "action": "保留变化与未能确证并列；另灯来源和日期不因此通过。",
+      "issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I09"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 133,
+      "quote": "今天的事就一件——在墙上找一道能过空气的孔。",
+      "reason": "林渡把确认身份让位于先建立基本生存与递送通路，目标受墙内人的需要驱动。",
+      "verdict": "pass",
+      "action": "保留先通气再递物的优先级，但不要把通孔等同供气充足。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 133,
+      "quote": "林渡把字条看了两遍，在册子上记下：孔通了，人手到顶了。",
+      "reason": "整砖取出与孔边气流是实际有限成果；文本明确方向/量未明，不再拿火苗或灯光证明进气充足，局部变化可信。",
+      "verdict": "pass",
+      "action": "保留通孔而非气路已验收的边界；灯源、日次另待核。",
+      "issue_ids": [
+        "R005-B14-I10"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 133,
+      "quote": "“人命不记损耗，是因为损耗都记在人身上。",
+      "reason": "六叔的回话把磨錾成本和人手负担放在一起，有限工程的代价不是口号之外的空白。",
+      "verdict": "pass",
+      "action": "保留实际工具损耗与工人反应，不增无代价胜利。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 133,
+      "quote": "字条末尾一行：送水的班排下去之前，别再加岗。",
+      "reason": "通孔后需要持续递水，但人手已满；照护组的限制使下一步借人与排班成为自然任务。",
+      "verdict": "pass",
+      "action": "135本轮已拒绝用伤手少睡填班；保留人手缺额的后续压力，真实施工班表仍归I25。",
+      "issue_ids": [
+        "R005-B14-I17"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 134,
+      "quote": "封墙里头的人，光靠咱们的手救不完——你那边还有没有人。",
+      "reason": "槐七视角开篇承接人手不足，求旧线帮忙有明确用途，不是无端展开组织设定。",
+      "verdict": "pass",
+      "action": "保留求援目标及不随意曝光旧线的限制。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 134,
+      "quote": "今夜只走两条，走一条，看一条。",
+      "reason": "槐七不把所有旧线一次动员，在救人和保护联络人之间作有限选择，体现只有他能做的判断。",
+      "verdict": "pass",
+      "action": "保留选择两条的有限行动，不把旧名册交给所有人。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 134,
+      "quote": "“管子的事，我应你一半。”小绳说，“管子我有，路我带。",
+      "reason": "实际获得管子与带路承诺，但不是加入团队；求援有局部兑现与边界。",
+      "verdict": "pass",
+      "action": "保留一半帮助和不留名条件，不提前宣告长期人手缺口解决。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 134,
+      "quote": "你不肯入册，我不写你的藏点。管子送到，我只记东西和交接。",
+      "reason": "槐七以不登记藏点回应信任，救人不以夺取对方身份为交换；人物温度来自选择。",
+      "verdict": "pass",
+      "action": "保留不登记藏点的让步；原明暗主题重复已删，不再要求删除不存在的段。",
+      "issue_ids": [
+        "R005-B14-I13"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 134,
+      "quote": "“明日凉时，管子到孔边。”",
+      "reason": "援助何时到、到后如何接管是具体下一步；旧线不入册给交接保留风险。",
+      "verdict": "pass",
+      "action": "保留管子到孔边和不留名条件，已压重复报话；不把一次送管承诺扩成长期班。",
+      "issue_ids": [
+        "R005-B14-I13"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 135,
+      "quote": "凉时刚开，管子到了孔边。",
+      "reason": "上一章送管承诺立即兑现，紧接展开、接管与退出，读者不必再等一章空转。",
+      "verdict": "pass",
+      "action": "保留兑现速度，不延长重复检查管子的流程。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 135,
+      "quote": "核归核——先送滤件。人家等的不是我们弄明白，人家等的是下一班料。",
+      "reason": "先供料再核账的选择仍在，且拒绝拿伤手少睡补送水岗；缺额仍显露，不以口号完成资源问题。",
+      "verdict": "pass",
+      "action": "保留先送料与照护不能空岗两个限制；缺额须另核，不补假替班。",
+      "issue_ids": [
+        "R005-B14-I17"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 135,
+      "quote": "“水……收着。滤件……先送。”",
+      "reason": "墙后首次明确提出物资优先顺序，救援从只递水转向维持供水设施，线索和资源双推进。",
+      "verdict": "pass",
+      "action": "保留咳喘中的简短需求，不把本次新增需求写成全篇首次知道活人。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 135,
+      "quote": "罐子已经被接住，外头牵着绳的一端，没再急着往里催。",
+      "reason": "接罐、牵绳和不催促构成现场信任兑现；不在场杜姨假想已删，读者不再靠旁白代受感动。",
+      "verdict": "pass",
+      "action": "保留现场行动即可，不恢复缺席人物的假想记忆。",
+      "issue_ids": [
+        "R005-B14-I11"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 135,
+      "quote": "从明天起，核两件事：里头的人怎么跟领料线对上号；外头的账，怎么把这笔十年的欠账认下来。",
+      "reason": "下一步人证与领料账线具体，且送滤件不能等待核完，形成双任务张力。",
+      "verdict": "pass",
+      "action": "保留两个待核任务；外侧新暗号须先传达再使用。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 136,
+      "quote": "送水去四层，是一笔从没算过的账。",
+      "reason": "紧跟句子把账落实为走坡、汽不等人和在途喝水，开章并非单纯抽象账论；递水成为可持续性难题。",
+      "verdict": "pass",
+      "action": "保留实际消耗；汽的班与人工班的制度口径另待I18。",
+      "issue_ids": [
+        "R005-B14-I18"
+      ],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 136,
+      "quote": "少背的那半罐先留在发出栏，不能记作已经送到。",
+      "reason": "减单次负担但不把缺口冒记完成，林渡选择诚实保留不足，而非靠表格制造送达量。",
+      "verdict": "pass",
+      "action": "保留实际已送/未送区分，不擅补第二趟。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 136,
+      "quote": "这回来汽十二息——比数纸上的八息长了。",
+      "reason": "回程实测变长得到精确记录，且下段不再偷换退汽；人会受更长来汽影响的新情况可见。",
+      "verdict": "pass",
+      "action": "保留现场十二息；台账十息口径未核，不能以本项认跨资料已统一。",
+      "issue_ids": [
+        "R005-B14-I19"
+      ],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 136,
+      "quote": "做板的人没留名。板面上刨得光光整整，边角全磨圆了：坐上去的人，不会被扎着。",
+      "reason": "匿名做凳把互助落到送水者下一趟能休息的物件上，与长段记账形成温度变化。",
+      "verdict": "pass",
+      "action": "保留无名坐板的具体作用，不另添抽象赞许。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 136,
+      "quote": "送水仍按每日那一趟排，缺的量得放在账上，等人手和汽班允许时再补",
+      "reason": "章末账被墙内认可给予暂时回报，但供水缺口仍明确未补，下一班怎样持续送到有真实未完任务；不是只剩表扬。",
+      "verdict": "pass",
+      "action": "保留这笔未补缺额；结尾可短收，不将笑声写成供水问题解决。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 137,
+      "quote": "“灯。”那声音说，“照一照你的手。”",
+      "reason": "水罐带回验手要求，身份核查变成对等而非外侧单方面审人；开头即改变关系。",
+      "verdict": "pass",
+      "action": "保留互验要求；灯苗已撤，灯种/能源来源仍是I03未解部分。",
+      "issue_ids": [
+        "R005-B14-I03"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 137,
+      "quote": "“依你。”林渡说，“老路，旧签收。可有一件不改——你手边的滤件还够几班，得告诉我们。",
+      "reason": "林渡接受不公开旧供料线，同时坚持余料必须透明；从只翻明账成长为顾及当事人风险。",
+      "verdict": "pass",
+      "action": "保留让步与底线，不把暗送解释成无限变出滤件。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 137,
+      "quote": "“领料单上那串工号的后四位——对上了。”",
+      "reason": "工具烙号可与领单互证，抽象领料号第一次落到眼前的手和器物上；未把全部历史交接一并证明。",
+      "verdict": "pass",
+      "action": "保留具体四位互对以及看见/听来的分界。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 137,
+      "quote": "你们的人断了，我这三十年的水就白养了。",
+      "reason": "墙内人反过来要求外侧别硬闯，互助关系真正双向；这份关切成立不依赖三十年的最终纪年裁定。",
+      "verdict": "pass",
+      "action": "保留对送水者生命的关切，三十年的数值不得据此自签。",
+      "issue_ids": [
+        "R005-B14-I01"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 137,
+      "quote": "“四班。”里头的声音说，“四班之后，水就得走斜的。”",
+      "reason": "第一次明确余料限度，下一步不能只查身份而必须及时续料；有资源压力和行动方向。",
+      "verdict": "pass",
+      "action": "保留有限余料警告，班的单位和140五天换算须另裁，勿自动当四天。",
+      "issue_ids": [
+        "R005-B14-I20"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 138,
+      "quote": "“我下一趟下去。”",
+      "reason": "弥娅马上提出冒腿伤下坡，紧接说明旧记录怕丢；推动者和风险在前几个段落即明。",
+      "verdict": "pass",
+      "action": "保留她主动争取看档与腿伤的对话。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 138,
+      "quote": "平常一个多时辰的坡，走了近三个。",
+      "reason": "伤者亲去的代价可见，但已有汽窗/回程限制未与三时辰慢行对接，行动能否完成要读者替作者补排班，削弱主动选择的可信度。",
+      "verdict": "needs_revision",
+      "action": "先核现有时段、歇脚和返程交接能否容纳；本轮不能补新安全窗或额外人手。待I18/I21作者确认后再写清连接。",
+      "issue_ids": [
+        "R005-B14-I18",
+        "R005-B14-I21"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 138,
+      "quote": "一格标“龛”，一格标“口”。",
+      "reason": "两匣位置及活账/旧纸来源被分别记录，明确仅听报而未取得实物；本章不是无结果探问。",
+      "verdict": "pass",
+      "action": "保留分格、信息来源和未见实物的边界，不让台账替正文亲见。",
+      "issue_ids": [
+        "R005-B14-I22"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 138,
+      "quote": "今天的次序是我提的，也是我错的——匣位记完了，可他多说了那几句话。",
+      "reason": "弥娅承认自己问话增加对方负担，停问不是被动让步；这是可理解的自省而非作者宣告人更重要。",
+      "verdict": "pass",
+      "action": "保留承认问话负担及改用书写的调整；重复边界已压，仅安全修N02的病句，不改救人与取档基本次序。",
+      "issue_ids": [
+        "R005-B14-N02"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 138,
+      "quote": "“档的事，容我想想怎么递。它比水沉，比水脆。”",
+      "reason": "两匣未取与旧纸受潮相连，下一章要解决具体递档方式，同时照顾咳喘；不是泛泛有秘密。",
+      "verdict": "pass",
+      "action": "保留递法未知，不预写图纸可卷折或取匣日期。",
+      "issue_ids": [],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 139,
+      "quote": "核人这件事，林渡把它排在了递档前头。",
+      "reason": "开篇改变前章档案优先次序，灰纸四圈立刻解释人数和抬人需求，目标不是无端核账。",
+      "verdict": "pass",
+      "action": "保留核人为后续转运服务的因果。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 139,
+      "quote": "数是你报的，人得一个一个应。怎么应，你们里头自己定",
+      "reason": "林渡不照抄报数，也不强制说话；由当事人选择口应/敲应/代报，能力与尊重同时体现。",
+      "verdict": "pass",
+      "action": "保留不同应答方式，伤情资料来源另列。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 139,
+      "quote": "本人应的三人，其中老工师、阿苗口应，老赵敲应；代报的一人，是老陈，凭旧表；听不清的，无。",
+      "reason": "四行从编制牌数字变成有应答类型和凭据的人；顶层三栏修后已闭合，未知第五人仍空。",
+      "verdict": "pass",
+      "action": "保留三栏与子类，勿把全棚人口问题一并视为核定。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 139,
+      "quote": "表在老陈那行记着，不能因为我们要作证，就把他随身的东西收走。",
+      "reason": "取证后归还物件把尊严落在行动，老陈不能本人答话也不失去所有权；情绪不是解释出来的。",
+      "verdict": "pass",
+      "action": "保留归还与记录，勿补造老陈已康复。",
+      "issue_ids": [],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 139,
+      "quote": "两样对不上，锤就不能先下去。",
+      "reason": "旧图和汽退验缝是开门前具体任务，同时墙内伤病等不起；时间压力与明确停工门槛并存。",
+      "verdict": "pass",
+      "action": "140必须接住这项前置，不能靠旧图与敲墙直接越过去。",
+      "issue_ids": [
+        "R005-B14-I28"
+      ],
+      "read_basis": "inherited_v1_full_read_sha_equal_with_interface_check",
+      "inherited_from": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+      "source_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 140,
+      "quote": "整匣图纸没能隔着孔递出来。",
+      "reason": "上一章约定看图立即遇到物件通道限制，失败对象比旧稿清楚，开章有新阻碍。",
+      "verdict": "pass",
+      "action": "保留整匣未出；旧投料口/新孔及前一天的对应仍需I27修清。",
+      "issue_ids": [
+        "R005-B14-I27"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 140,
+      "quote": "“开到一人宽。”林渡把这句定死",
+      "reason": "限制开口仍应体现结构判断，但139要求的验缝和140撑材/里侧核线未交证，文本已进入开凿。删除绝对不塌不补上决策依据。",
+      "verdict": "needs_revision",
+      "action": "核已有前置事实再承接开锤；无证不得补已验稳或新承重构件。",
+      "issue_ids": [
+        "R005-B14-I28"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 140,
+      "quote": "凿墙的头一班，进展慢得磨人。里头的人一锤一锤凿",
+      "reason": "头一班凿进墙是新阶段，但真实内外班表与开锤前置仍未成立；小石位置修正和可报疲劳不足以证明这一施工成果可靠。",
+      "verdict": "needs_revision",
+      "action": "保留小石外递；核既有内侧动锤/外侧协作与前置，不新增人手。",
+      "issue_ids": [
+        "R005-B14-I25",
+        "R005-B14-I28"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 140,
+      "quote": "哪一班顶不住，立刻报，别硬撑；换岗前把手里的活交清楚。",
+      "reason": "允许承认疲劳并要求交接，与135不压榨照护班、136轮休相接；原禁止报告疲劳的情绪失真已修。此局部回报不替未完的施工前置或真实容量验收。",
+      "verdict": "pass",
+      "action": "保留可报疲劳和交接约束；不把其通过扩为岗位、资源、工程已可执行。",
+      "issue_ids": [
+        "R005-B14-I17"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 140,
+      "quote": "四班的滤件，够撑五天。第六天开始，滤槽就得带病干活。",
+      "reason": "七天开门与五天余料有倒计时形状，但班/天换算、已送一对、补两班和跨日消耗不明，读者无法判断还差多少、为何这些补料刚好有效。",
+      "verdict": "needs_revision",
+      "action": "待作者裁定用量和时点；无法闭合前只保留余料撑不到开门的有限压力，不自行建立班—天比例。",
+      "issue_ids": [
+        "R005-B14-I20"
+      ],
+      "read_basis": "round2_current_full_text_reread",
+      "source_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 139,
+      "quote": "本人应的三人，其中老工师、阿苗口应，老赵敲应；代报的一人，是老陈，凭旧表；听不清的，无。",
+      "reason": "131编制悬念到139逐人应答、135递水及137互验提供局部兑现；本轮已撤强撑动员。但140施工缺前置仍损害有限工程救人的整体承诺，整篇不通过。",
+      "verdict": "needs_revision",
+      "action": "保留已兑现的人证与信任，不把门未开本身判失败；先核施工前置，未读后篇不承诺具体兑现章。",
+      "issue_ids": [
+        "R005-B14-I28"
+      ],
+      "read_basis": "round2_batch_reassessment_7_reread_plus_3_sha_inherited",
+      "source_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 140,
+      "quote": "“照这个进度，”阿九算，“开到一人宽，七天。”",
+      "reason": "本篇由探路→沟通→递水/滤件→互验→档案与救人排序→开门确有不同阶段，不是十章重复修管。但最后依靠七天/五天/四班升级，换算与时点未明，且真实班表未成立，使最关键压力升级缺依据。",
+      "verdict": "needs_revision",
+      "action": "保留不同阶段的戏剧作用；待日次/料耗裁定后闭合倒计时，并区分内外班表；不为加强追读新增事故、人口或资源。",
+      "issue_ids": [
+        "R005-B14-I20",
+        "R005-B14-I25"
+      ],
+      "read_basis": "round2_batch_reassessment_7_reread_plus_3_sha_inherited",
+      "source_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    }
+  ],
+  "check_counts": {
+    "pass": 46,
+    "needs_revision": 6
+  },
+  "coverage": {
+    "chapters": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "chapter_checks": 50,
+    "batch_checks": 2,
+    "total": 52,
+    "opening_checks": "不适用：未读真实第一页/前三章，不伪造开篇四项"
+  },
+  "source_scope": {
+    "full_reread_chapters": [
+      132,
+      133,
+      134,
+      135,
+      137,
+      138,
+      140
+    ],
+    "inherited_chapters": [
+      131,
+      136,
+      139
+    ],
+    "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+    "inherited_byte_equality": true,
+    "interface_line_ranges": {
+      "131": [
+        [
+          60,
+          71
+        ]
+      ],
+      "136": [
+        [
+          1,
+          28
+        ],
+        [
+          65,
+          73
+        ]
+      ],
+      "139": [
+        [
+          55,
+          93
+        ]
+      ]
+    },
+    "body_finished_before_editor_log": true,
+    "body_first_disclosure": "复核非全新盲首读：已知复核1问题；本轮先读新7章实际稿与相邻接口，之后才读followup编辑记录。3章只因字节完全相同继承已有全文实读。",
+    "history_byte_only": "编辑日志声明的历史/复核1十章仅作字节回放22处编辑及查两处语病是否既存，不算新增正文研究。",
+    "references": [
+      {
+        "path": "skills/alien-serial-harness/SKILL.md",
+        "sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb"
+      },
+      {
+        "path": "skills/alien-serial-harness/references/editorial.md",
+        "sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05"
+      },
+      {
+        "path": "异星录/05_写作规范/正文与连载规范.md",
+        "sha256": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f"
+      },
+      {
+        "path": "异星录/05_写作规范/文风与细节精修规范.md",
+        "sha256": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879"
+      },
+      {
+        "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+        "sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814"
+      },
+      {
+        "path": "harness/maintenance/R005/B14/review-v1/recheck.json",
+        "sha256": "d955e4d2598daf7e27815a49d8b1d6a116b8fa06d9e9467a9d972fca394f5586"
+      },
+      {
+        "path": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+        "sha256": "9cb58078c411e776d5bcba557dd87961468b2bff8a7582f9249388bdea941ba6"
+      },
+      {
+        "path": "harness/maintenance/R005/editor-followup-B14.json",
+        "sha256": "f5912c0276d2da2eac470ba2a162c2ba8c1fa1da578533a323bef7500b1c60a3"
+      },
+      {
+        "path": "tools/check_reader_pull.py",
+        "sha256": "2b938c6f78c892e711565b7a0a598fa96f9d563a4ee4523faa8fe050f0a5b719"
+      }
+    ],
+    "not_read": [
+      "130/074等跨组改后正文",
+      "141—150及未来章节全文",
+      "新版本卷纲/章卡/世界角色资料",
+      "新版本连续性台账及C01—10裁定资料"
+    ],
+    "limitations": "未裁历史事项依初审/复核1已核证据保持未决；不宣称本轮重新验证资料，不以边界摘要算全文已读。AGENTS由本会话用户完整提供。"
+  },
+  "contributors": [
+    {
+      "id": "01a1b3e5-2e99-7250-a488-9d8578ae325b",
+      "role": "bounded_editor_not_reviewer"
+    }
+  ],
+  "pass_note": "46个局部pass不等于全批放行；未改章明确继承复核1全文实读并核相同SHA。",
+  "structural_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "sha_check_after_reports": {
+    "timestamp": "2026-11-07T12:37:05.462343+08:00",
+    "changed_chapters": [],
+    "all_equal": true
+  }
+}

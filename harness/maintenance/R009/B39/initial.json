@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B39",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B39-B40",
+  "independent": true,
+  "body_first": true,
+  "phase": "initial",
+  "input_digest": "cb0a1abe8ca30fbb46c6096fa338b81b54a865e9670fda1c754c126e333d99b6",
+  "source_digest": "cb0a1abe8ca30fbb46c6096fa338b81b54a865e9670fda1c754c126e333d99b6",
+  "verdict": "issues",
+  "issues": [
+    {
+      "id": "B39-01",
+      "chapter": 381,
+      "severity": "中等",
+      "quote": "闻笛将借壳期限仍写到下旬第七日，与其余留用具同为D264",
+      "reader_problem": "本组叙事、对白和约期纸反复直接使用作者D锚点，读者没有该编号的起算参照。381/382/384/385/387/388/389/390均命中；它也掩盖384的次凉错位。",
+      "suggestion": "按已发生日次换为有锚点的旬内日期或实际间隔；不改资料台账D编号，不制造无来源的第X日。逐处候选见edits。",
+      "status": "open",
+      "discovery": "author-marker-followup"
+    },
+    {
+      "id": "B39-02",
+      "chapter": 383,
+      "severity": "中等",
+      "quote": "弥娅伸出描纸，对照343旧图里那种两端接口，先描可见部分。",
+      "reader_problem": "383/386/388/390的343不是人物命名过的图号；390两次第二卷属于作者叙事分卷，破坏限知与时代内称呼。",
+      "suggestion": "用墙脚检修盖背图、盖背描样、本地责任核证、断阶墙后回敲等既有对象指称；不补残工号或残年。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B39-03",
+      "chapter": 384,
+      "severity": "中等",
+      "quote": "对方的第二坛水还没运，槐七下午先帮背，次凉才有半班到山里。",
+      "reader_problem": "此刻D262，次凉即D263；同章前后约D264下板，D263应是阿九检夹。与已发生章卡/时间线不合。",
+      "suggestion": "改成先帮背，隔一凉才能进山，保留D263检夹、D264下板。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B39-04",
+      "chapter": 385,
+      "severity": "中等",
+      "quote": "两只铁鞋卸力后退出来，棚方短绳整根收回，兜绳处多了一块浅磨白",
+      "reader_problem": "上一段已收整绳、退鞋，下一段货工仍握绳尾，且要观察鞋口空隙才逐段放绳；受力解除的动作顺序倒退。",
+      "suggestion": "合并相邻两段，按落稳—退脚—见卸重—放绳—撤鞋收绳记磨损排序。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B39-05",
+      "chapter": 383,
+      "severity": "中等",
+      "quote": "林渡指给她看槽底：光落不到底，石唇下还有沿水痕剥开的细层，脚尖探下去找不到完整承面。",
+      "reader_problem": "既说光不到底又说指看槽底；脚尖探未知黑槽与已确立的实石落脚边界冲突，且伤员不应拿身体试深。",
+      "suggestion": "指槽沿可见剥层与槽底不可见，直接判不能落脚，不新增探杆测量或落脚动作。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B39-06",
+      "chapter": 388,
+      "severity": "中等",
+      "quote": "门口一空，林渡能从站位直接看见外台那盏灯。",
+      "reader_problem": "本章前段已写声从两道转角折进来；清纸角不能消除转角遮挡。此处忽然直视外台灯，空间依据不足。",
+      "suggestion": "只写从门口看见实际可見的回路首段，并收纸循原路退到台岗；不改弯道或增照明。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B39-07",
+      "chapter": 389,
+      "severity": "中等",
+      "quote": "只有原图与设备能核出同一个节点、输出与停限均过关，才播一次最短询问。",
+      "reader_problem": "本章认定一次，390执行两轮同文且没有再获授权的过渡。高优先A29实录明确两轮，不能删成一次以迁就低优先草稿。",
+      "suggestion": "把本次授权明确为同文最短询问至多两轮，第二轮须休息退温/灯和退班余量仍许可。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B39-08",
+      "chapter": 387,
+      "severity": "轻微",
+      "quote": "明日第三盏灯最后一班光",
+      "reader_problem": "易先读成仅第三盏耗尽，实为三芯同耗第四探；影响紧接388的资源压力。",
+      "suggestion": "三盏灯这一轮最后一班光，保留第四探后全部退常用。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B39-09",
+      "chapter": 385,
+      "severity": "轻微",
+      "quote": "林渡把他从候班纸的空白处移开，那里从来没落过他的名字。",
+      "reader_problem": "空白无名却把他移开，抽象动作无可执行对象，又替读者否认未发生的签名。",
+      "suggestion": "改成把纸上仍待认人的空格划去，不替已说明不守岗的人补名。",
+      "status": "open",
+      "discovery": "norm-crosscheck"
+    },
+    {
+      "id": "B39-10",
+      "chapter": 386,
+      "severity": "轻微",
+      "quote": "鞋与刷也没有为凑证据收走。",
+      "reader_problem": "叙述者主动替人物回应凑证据这一作者层面的指责，打断首次开图的期待。",
+      "suggestion": "落在林渡能见的物件原位：鞋与刷仍留门内原处；不改变物权。",
+      "status": "open",
+      "discovery": "norm-crosscheck"
+    },
+    {
+      "id": "B39-11",
+      "chapter": 384,
+      "severity": "中等",
+      "quote": "手摇不取原电匣储能，货工的手臂却已发酸。他将摇柄搁平",
+      "reader_problem": "前段由邵砺用自己的手摇柄带外泵，未写交柄，下一段操作者突然变货工。",
+      "suggestion": "疲劳/放柄者仍为邵砺；不凭空增一轮接班。",
+      "status": "open",
+      "discovery": "norm-crosscheck"
+    },
+    {
+      "id": "B39-12",
+      "chapter": 384,
+      "severity": "轻微",
+      "quote": "住户还没走，货工先捧起设备盆想将它挪到阴处。",
+      "reader_problem": "这段挪盆、晃水、让路、擦沿、分放脏布再次演示同一检修水/饮水隔离。前后黑记、原号瓶、开罐签见都已充分，挪盆细节拖慢套管仍掉屑与下板期待。",
+      "suggestion": "压缩为一次湿盆换握和让开取水路的有结果动作；保留下一段实开罐、见当前液位和不替早期试验背书，避免删掉真正新的核验范围。",
+      "status": "open",
+      "discovery": "body-first"
+    }
+  ],
+  "digest_note": "initial-manifest仅有source_digest；按tools/novel_harness.py rows_digest同口径重算manuscripts，结果与该值一致，故input_digest亦绑定这个实际封稿汇总值。未改清单。",
+  "reviewed_chapters": [
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390
+  ],
+  "not_final": true
+}

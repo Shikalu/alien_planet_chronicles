@@ -1,0 +1,1311 @@
+{
+  "schema_version": 1,
+  "kind": "independent_supplemental_review",
+  "id": "R004-B08-water-boundary-recheck",
+  "date": "2026-11-06",
+  "reviewed_at": "2026-11-06T17:42:54.020696+08:00",
+  "reviewer": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+  "reviewer_session_id": "01a1affd-68cc-7382-8187-c30f28b3265b",
+  "identity_source": "真实运行环境CODEX_THREAD_ID/CODEX_SESSION_ID",
+  "writer": "/root",
+  "independent": true,
+  "independence_note": "本线程未改正文；仅写用户指定B08补审MD/JSON。独立性依据实际职责与阅读，不借用原final的reviewer别名。",
+  "body_first": true,
+  "body_first_note": "本轮已知用户指定的水边界缺陷与上一轮WB结果，并非全新盲读。先完整读新071/076及070/072/075/077必要邻接，再核049/资源71—80、C03/C04记录、原final与补丁账；不借台账补足正文未写情节。",
+  "verdict": "pass",
+  "verdict_scope": "仅071/076此次水边界补丁及两章完整新读的事实/五项吸引力；不是整批重新全文签验，更不是R004发布通过。",
+  "fact_logic_verdict": "pass",
+  "fact_logic_scope": [
+    71,
+    76
+  ],
+  "attraction_verdict": "pass",
+  "attraction_scope": [
+    71,
+    76
+  ],
+  "ready_for_publish": false,
+  "writeback_status": "pending_R004-WB_actual_changes_and_independent_recheck",
+  "c04_status": "098—100可饮水来源仍待作者裁定；本次不读改这三章、不填水、不关闭其冲突。",
+  "coverage": {
+    "fully_read_current_chapters": [
+      71,
+      76
+    ],
+    "inherited_unchanged_chapters": [
+      72,
+      73,
+      74,
+      75,
+      77,
+      78,
+      79,
+      80
+    ],
+    "full_ten_chapter_reread": false,
+    "new_five_checks_count": 10,
+    "inherited_five_checks_count": 40,
+    "inherited_batch_checks_count": 2,
+    "batch_checks_newly_reassessed": false,
+    "context": [
+      {
+        "chapter": 70,
+        "path": "异星录/06_执行计划/工作区/R004-B07/第070章_父亲口哨.md",
+        "sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26",
+        "read_ranges": [
+          [
+            66,
+            99
+          ]
+        ],
+        "depth": "boundary_excerpt_not_full_read"
+      },
+      {
+        "chapter": 72,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+        "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+        "read_ranges": [
+          [
+            1,
+            39
+          ]
+        ],
+        "depth": "boundary_excerpt_not_full_read"
+      },
+      {
+        "chapter": 75,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+        "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+        "read_ranges": [
+          [
+            92,
+            125
+          ]
+        ],
+        "depth": "boundary_excerpt_not_full_read"
+      },
+      {
+        "chapter": 77,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+        "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+        "read_ranges": [
+          [
+            1,
+            39
+          ]
+        ],
+        "depth": "boundary_excerpt_not_full_read"
+      },
+      {
+        "chapter": 79,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+        "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+        "read_ranges": [
+          [
+            51,
+            51
+          ]
+        ],
+        "depth": "boundary_excerpt_not_full_read"
+      },
+      {
+        "chapter": 49,
+        "path": "异星录/正文/第一卷_热海坠城/第049章_封锁入口.md",
+        "sha256": "06b806749c8939f24c5f9117d52eea294a3418e7c2d5e36c03e5d0020f95c3c0",
+        "read_ranges": [
+          [
+            97,
+            109
+          ]
+        ],
+        "additional_reading": "正文水/残液/容器/药关键词命中上下文；非全文重审",
+        "depth": "authority_water_boundary_excerpt"
+      },
+      {
+        "path": "异星录/04_连续性管理/资源与时间台账.md",
+        "sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+        "read_ranges": [
+          [
+            185,
+            198
+          ],
+          [
+            145,
+            145
+          ],
+          [
+            149,
+            149
+          ]
+        ],
+        "depth": "71—80整节及首卷水相关行；非全台账重审"
+      },
+      {
+        "path": "harness/maintenance/R004/事实冲突与处理边界.md",
+        "sha256": "282aee5d2ec3ea13f927e2176830faf83c00a6d70ef1be803ecfe50fc9cdd488",
+        "read_ranges": [
+          [
+            17,
+            43
+          ]
+        ],
+        "depth": "C03已执行说明与C04待裁定范围；不另行批准候选"
+      }
+    ],
+    "policies_read": [
+      "AGENTS.md",
+      "skills/alien-serial-harness/SKILL.md",
+      "skills/alien-serial-harness/references/editorial.md",
+      "skills/alien-serial-harness/references/workflow.md",
+      "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "异星录/05_写作规范/正文与连载规范.md",
+      "异星录/05_写作规范/文风与细节精修规范.md"
+    ],
+    "status_navigation_only": "harness/status.json保持400/D320、401/A31；未推进"
+  },
+  "original_final": {
+    "path": "harness/maintenance/R004/B08/final.json",
+    "sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+    "reviewer_as_recorded_not_current_reviewer": "/root/r004_b06_reader",
+    "source_digest": "632ff219ddfc2428d3b4efdb669d504a889fa6a254b2e96a133d8b9825b5c22b",
+    "self_consistent_digest": true,
+    "entire_original_final_still_matches_current_manuscripts": false,
+    "changed_chapters": [
+      71,
+      76
+    ],
+    "unchanged_chapters": [
+      72,
+      73,
+      74,
+      75,
+      77,
+      78,
+      79,
+      80
+    ],
+    "original_fact_logic_verdict": "pass",
+    "original_attraction_verdict": "pass",
+    "original_writeback_status": "pending_R004-WB_short_recheck",
+    "preserved_unmodified": true
+  },
+  "patch_source": {
+    "path": "harness/maintenance/R004/resume-changes.json",
+    "sha256": "26ee6773f5702227b2c2afba982c369bb8108ffaafb779fd04c9a44b03139a3e"
+  },
+  "manuscripts": [
+    {
+      "chapter": 71,
+      "path": "异星录/正文/第一卷_热海坠城/第071章_试探攻击.md",
+      "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893"
+    },
+    {
+      "chapter": 72,
+      "path": "异星录/正文/第一卷_热海坠城/第072章_父亲的步法.md",
+      "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02"
+    },
+    {
+      "chapter": 73,
+      "path": "异星录/正文/第一卷_热海坠城/第073章_测潮仪被夺.md",
+      "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e"
+    },
+    {
+      "chapter": 74,
+      "path": "异星录/正文/第一卷_热海坠城/第074章_封锁命令.md",
+      "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e"
+    },
+    {
+      "chapter": 75,
+      "path": "异星录/正文/第一卷_热海坠城/第075章_槐七交换.md",
+      "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/正文/第一卷_热海坠城/第076章_木尺换仪器.md",
+      "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60"
+    },
+    {
+      "chapter": 77,
+      "path": "异星录/正文/第一卷_热海坠城/第077章_地底敲击.md",
+      "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d"
+    },
+    {
+      "chapter": 78,
+      "path": "异星录/正文/第一卷_热海坠城/第078章_人为炸毁.md",
+      "sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa"
+    },
+    {
+      "chapter": 79,
+      "path": "异星录/正文/第一卷_热海坠城/第079章_林岑现身.md",
+      "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364"
+    },
+    {
+      "chapter": 80,
+      "path": "异星录/正文/第一卷_热海坠城/第080章_百年信号灯.md",
+      "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+    }
+  ],
+  "source_digest": "6f54feb6c8aab789ffb9e7db5fbc140a91fac3ed6301a08ed1966dc7c3e6a114",
+  "input_digest": "6f54feb6c8aab789ffb9e7db5fbc140a91fac3ed6301a08ed1966dc7c3e6a114",
+  "digest_method": "SHA256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode(UTF-8))；与旧final相同的发布目标path约定；各SHA实际取自工作稿。",
+  "working_manuscripts": [
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893"
+    },
+    {
+      "chapter": 72,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+      "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02"
+    },
+    {
+      "chapter": 73,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+      "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e"
+    },
+    {
+      "chapter": 74,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+      "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e"
+    },
+    {
+      "chapter": 75,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+      "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60"
+    },
+    {
+      "chapter": 77,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+      "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d"
+    },
+    {
+      "chapter": 78,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+      "sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa"
+    },
+    {
+      "chapter": 79,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+      "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364"
+    },
+    {
+      "chapter": 80,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+      "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+    }
+  ],
+  "working_source_digest": "a2e7403c0c1e029e419d987fec73b1d4e2fe27be6aee55de12079f8ab2ac0cdd",
+  "publication_target_note": "manuscripts.path仅发布目标，不读取其旧正文验证新稿；用同名R004-B08工作稿核SHA。working_source_digest因path不同而不同，不是哈希错误。",
+  "version_comparison": [
+    {
+      "chapter": 71,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第071章_试探攻击.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "before_sha256": "3d5ae1cc7fe8e32dcec2c3b5662de10afa0159d38511076303034f98a2c541d7",
+      "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893",
+      "unchanged_from_original_final": false,
+      "evidence_mode": "new_full_chapter_read"
+    },
+    {
+      "chapter": 72,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第072章_父亲的步法.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+      "before_sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+      "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    },
+    {
+      "chapter": 73,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第073章_测潮仪被夺.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+      "before_sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+      "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    },
+    {
+      "chapter": 74,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第074章_封锁命令.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+      "before_sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+      "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    },
+    {
+      "chapter": 75,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第075章_槐七交换.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+      "before_sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+      "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    },
+    {
+      "chapter": 76,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第076章_木尺换仪器.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "before_sha256": "d778e1c0147c26d2a8dacc177c02bf811098e59c41399a852805aa4bd6265d51",
+      "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60",
+      "unchanged_from_original_final": false,
+      "evidence_mode": "new_full_chapter_read"
+    },
+    {
+      "chapter": 77,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第077章_地底敲击.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+      "before_sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+      "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    },
+    {
+      "chapter": 78,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第078章_人为炸毁.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+      "before_sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa",
+      "sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    },
+    {
+      "chapter": 79,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第079章_林岑现身.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+      "before_sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+      "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    },
+    {
+      "chapter": 80,
+      "publication_target": "异星录/正文/第一卷_热海坠城/第080章_百年信号灯.md",
+      "working_path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+      "before_sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+      "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+      "unchanged_from_original_final": true,
+      "evidence_mode": "unchanged_bytes_inherit_original_final_not_full_reread"
+    }
+  ],
+  "patches": [
+    {
+      "id": "R004-B08-WATER-071",
+      "chapter": 71,
+      "source_issue": "R004-WB-15 / C04-071-076",
+      "rule": "C03 / 已发布049残液禁入口及禁洗伤",
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 97,
+      "before_quote": "杜姨随后用原先剩下的清洁残液略润裴七唇边，空容器便重新收起，没有递出一轮大家都能喝的水。",
+      "after_quote": "杜姨扶裴七侧过头，避开吹来的灰。他舔了舔裂开的嘴唇，又停住；她把空容器放回身旁，仍没有水能给他。",
+      "before_sha256": "3d5ae1cc7fe8e32dcec2c3b5662de10afa0159d38511076303034f98a2c541d7",
+      "after_sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893",
+      "reverse_patch_sha256": "3d5ae1cc7fe8e32dcec2c3b5662de10afa0159d38511076303034f98a2c541d7",
+      "before_matches_original_final": true,
+      "after_matches_actual_working_bytes": true,
+      "matches_resume_changes": true,
+      "reverse_reconstruction_note": "没有另称读到历史备份：将当前文本唯一after_quote逆替换为before_quote；所得完整UTF-8字节SHA同时命中旧final及resume-changes补丁前SHA，证明相对旧final仅这一次替换。",
+      "unified_diff": "--- old-final/第071章_试探攻击.md\n+++ 异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md\n@@ -94,7 +94,7 @@\n \n 裴七喊住那人，让他帮着扶担架的一角。那人犹豫着收好胶带，伸手托住木框，伤员便把自己的临时号又念给他听。不是把东西交出来才算同路，肯在搬动时应答，也能让旁人记住他仍在。\n \n-杜姨随后用原先剩下的清洁残液略润裴七唇边，空容器便重新收起，没有递出一轮大家都能喝的水。林渡看见其他人咽口水的动作，没将自己的瘪水袋拿出来作姿态。他把还能搬担架的人换了一次，让刚才一直抬人的靠着稳梁歇息。\n+杜姨扶裴七侧过头，避开吹来的灰。他舔了舔裂开的嘴唇，又停住；她把空容器放回身旁，仍没有水能给他。林渡看见其他人咽口水的动作，没将自己的瘪水袋拿出来作姿态。他把还能搬担架的人换了一次，让刚才一直抬人的靠着稳梁歇息。\n \n 杜姨替他压住渗血的袖口，才说：“你保住册子，也得让拿册子的人活着。”\n \n",
+      "status": "closed_in_manuscript",
+      "fact_logic_verdict": "pass",
+      "new_patch_issue": null
+    },
+    {
+      "id": "R004-B08-WATER-076",
+      "chapter": 76,
+      "source_issue": "R004-WB-15 / C04-071-076",
+      "rule": "C03 / 已发布049残液禁入口及禁洗伤",
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 67,
+      "before_quote": "没有人多出水来，残液只够杜姨润一润最难受的伤员嘴边，空器皿很快又被收起。",
+      "after_quote": "没有人多出水来。杜姨松开伤员口边黏着灰的布，让他朝刚留出的风隙喘气；器具用的残液仍隔放着，不能拿来润嘴。",
+      "before_sha256": "d778e1c0147c26d2a8dacc177c02bf811098e59c41399a852805aa4bd6265d51",
+      "after_sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60",
+      "reverse_patch_sha256": "d778e1c0147c26d2a8dacc177c02bf811098e59c41399a852805aa4bd6265d51",
+      "before_matches_original_final": true,
+      "after_matches_actual_working_bytes": true,
+      "matches_resume_changes": true,
+      "reverse_reconstruction_note": "没有另称读到历史备份：将当前文本唯一after_quote逆替换为before_quote；所得完整UTF-8字节SHA同时命中旧final及resume-changes补丁前SHA，证明相对旧final仅这一次替换。",
+      "unified_diff": "--- old-final/第076章_木尺换仪器.md\n+++ 异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md\n@@ -64,7 +64,7 @@\n \n 有个老人把刚写的布倒过来看，问这和原先有什么不同。林渡请同来的邻人念出他的名，再让他自己应一声，说区别就是这回知道谁亲口答过，谁亲眼见过。账不能替门开锁，但搬人的时候不能再少他。\n \n-重新核号让他们又耽搁了一阵风。林栖写到手抖，便把笔交给麦穗，自己报旧号和伤情。没有人多出水来，残液只够杜姨润一润最难受的伤员嘴边，空器皿很快又被收起。\n+重新核号让他们又耽搁了一阵风。林栖写到手抖，便把笔交给麦穗，自己报旧号和伤情。没有人多出水来。杜姨松开伤员口边黏着灰的布，让他朝刚留出的风隙喘气；器具用的残液仍隔放着，不能拿来润嘴。\n \n 深处一声细长的汽笛穿过拖擦声。\n \n",
+      "status": "closed_in_manuscript",
+      "fact_logic_verdict": "pass",
+      "new_patch_issue": null
+    }
+  ],
+  "chapter_fact_reviews": [
+    {
+      "chapter": 71,
+      "verdict": "pass",
+      "reader_understanding": "刚落维修层仍拥挤缺水，试探攻击夺走六条凭证而非六个人；林渡受伤后以本人应号/同伴作证保留身份联系。",
+      "water_closure": {
+        "chapter": 71,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+        "line": 97,
+        "quote": "杜姨扶裴七侧过头，避开吹来的灰。他舔了舔裂开的嘴唇，又停住；她把空容器放回身旁，仍没有水能给他。"
+      },
+      "reason": "旧清洁残液润唇已全部删除；改为侧头避灰、空容器、仍无水，与049公共水分尽及070无新水一致。L57“水照伤情排”是配给原则，没有实际供水事件；汗和吞咽动作不算新饮水来源。无新增用药或洗伤。",
+      "adjacency": "070转移最后担架→071稳梁点名及伤口再裂→072仍护伤、守断板与绕后狭缝；无因无水补丁移动人物或治愈。"
+    },
+    {
+      "chapter": 76,
+      "verdict": "pass",
+      "reader_understanding": "仪器已交换取回但袋盖损坏、读数失效；领路者先处理闷热与担架位置，保风缝、核号后才向灯座试路。",
+      "water_closure": {
+        "chapter": 76,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+        "line": 67,
+        "quote": "没有人多出水来。杜姨松开伤员口边黏着灰的布，让他朝刚留出的风隙喘气；器具用的残液仍隔放着，不能拿来润嘴。"
+      },
+      "reason": "松开口边灰布与朝既有风隙喘气承接L41—61排风动作；器具残液隔放且明禁润嘴，没有倒入空器皿或凭空恢复饮水。呼吸与伤势仍有代价，不把换气写成补液。",
+      "adjacency": "075交尺取仪器→076护袋/检查而非再交换；077约七息机械回弹仍另列，不把076七息未复位改为预测周期。"
+    }
+  ],
+  "checks": [
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 3,
+      "quote": "最后一副担架下了斜口，维修层仍没给队伍腾出多少地方。",
+      "criterion": "opening_pressure",
+      "verdict": "pass",
+      "reason": "前3—5句承接070转移落点、窄梁与缺水，喘息并不等于脱险；钉袭发生前，承载与安置压力已可见。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 25,
+      "quote": "“原地蹲，别退！”林渡喊。",
+      "criterion": "protagonist_choice",
+      "verdict": "pass",
+      "reason": "先拦住本能后退、托住担架，再为保册追人而扯裂旧伤；随后承认伤势、分派守位，不是无差别搬运动作。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 47,
+      "quote": "最后缺了六条，六个人却都还在梁间。",
+      "criterion": "visible_change",
+      "verdict": "pass",
+      "reason": "六条旧凭证被夺但六人仍在，原姓名保留并另列临时号；损失从攻击转成身份互认成本，没有新增失踪或临时门禁权限。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 99,
+      "quote": "杜姨替他压住渗血的袖口，才说：“你保住册子，也得让拿册子的人活着。”",
+      "criterion": "emotional_payoff",
+      "verdict": "pass",
+      "reason": "保人的公共账反过来要求保住领路者；新无水照护仍有人照看、换肩休息，情感兑现不依赖凭空给水。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 111,
+      "quote": "接下来要查的不只是通往父亲的路，还有谁能绕到伤员背后。先堵住这个缺口，才轮得到他们再向前走。",
+      "criterion": "next_question",
+      "verdict": "pass",
+      "reason": "钩子落在可追查的绕后路径与先堵缺口的行动；072开头确实继续处理落板和绕后线，非抽象神秘。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 5,
+      "quote": "内袋被割开，原来的线头短得接不上。林栖想用身份胶带从里面交叉粘住，撕下一点便停了。",
+      "criterion": "opening_pressure",
+      "verdict": "pass",
+      "reason": "开头承接075已交换的结果；仪器虽回到弥娅手中，护袋损坏和胶带两用竞争立刻限制扶人/操作，不把得物当零代价胜利。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 59,
+      "quote": "林渡没有抬头：“先让他们能喘。”",
+      "criterion": "protagonist_choice",
+      "verdict": "pass",
+      "reason": "面对槐七质问失尺后是否还能领路，优先组织换位、排障、保风缝；不靠尺或仪器替人判断安全，章末仍保留自己的试路决定。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 61,
+      "quote": "等风穿回去，他也没把短撑永久留给墙缝，先等担架落到稳梁，再取回这段还能用的木头。",
+      "criterion": "visible_change",
+      "verdict": "pass",
+      "reason": "堵风担架移到稳梁、通风恢复且旧撑回收；盖扣仅以旧铜线固定，未修复读数。无水补丁没有抹掉可见的局部工程结果。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 77,
+      "quote": "“怕你以为他还醒着。”杜姨说。",
+      "criterion": "emotional_payoff",
+      "verdict": "pass",
+      "reason": "亲口应号从登记工序变成确认眼前人还清醒的照护；无水仍坚持停下查看，不用一次润唇虚构好转。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "line": 91,
+      "quote": "林渡把试路的手收回，要求先照清灯座下面。他已经交了尺，不能连下一脚该落哪里也一起交出去。",
+      "criterion": "next_question",
+      "verdict": "pass",
+      "reason": "交换不等于把路线判断交给槐七；新清槽与灯座下未知结构给出下一章具体查验对象，077从铜片和联杆接上。",
+      "evidence_mode": "new_independent_full_chapter_read"
+    }
+  ],
+  "inherited_checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 72,
+      "quote": "板下的横撑已经脱开，空处一直伸向风口。",
+      "reason": "前章落板不是一次性惊吓，脱撑仍影响后排换位与换气。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/5",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 72,
+      "quote": "他转身，先帮他们确认担架该落在哪两点。",
+      "reason": "旧布带几乎使他追父，主动回身选择护队，私人目标受真实压制。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/6",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 72,
+      "quote": "内侧一个小小的“栖”字露出来，最后一笔缝歪了，旁边留着蓝线。",
+      "reason": "普通步法升级为与家庭相关的物件，身份线索更贴近兄妹而仍不等于确认面具人。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/7",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 72,
+      "quote": "妹妹抬头看他：“我也想认。”",
+      "reason": "妹妹有独立寻父欲望，父亲悬念的情绪不只归兄长占有。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/8",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 72,
+      "quote": "要求把绕到队伍背后的窄道指出来。",
+      "reason": "没有追上身份线索，仍争取可核路线，下一步继续查侧缝有行动方向。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/9",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 73,
+      "quote": "内袋口却垂下来一截割断的线。",
+      "reason": "精确物件异常立刻交代仪器被夺，不再重复世界背景。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/10",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 73,
+      "quote": "“我不替你给他。”",
+      "reason": "林渡承认弥娅物权，又选择先保队不跨断梁，合作没有抹掉她的损失。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/11",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 73,
+      "quote": "名单已经改过，不能留下见证者。",
+      "reason": "旧录音给出具体清除条款，证据线升级，但断句留缺避免一次解谜。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/12",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 73,
+      "quote": "“我的伤口也在我身上。”弥娅说，“我不能因此看见它里面。”",
+      "reason": "她承认不知道而不认罪，人物脆弱和知识边界同时呈现。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/13",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 73,
+      "quote": "“要什么，你现在说。”",
+      "reason": "仪器在对方手里，强抢会坠落，下一章交换条件构成具体期待。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/14",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 74,
+      "quote": "来人伏在斜梁下面，外套被割成几条，腕骨贴着一片红光。",
+      "reason": "失联祝衡带伤归来，视线先见伤手和红光，归队不是无代价瞬移。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/15",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 74,
+      "quote": "“你们已经拿走六条身份胶带，不能再拿走这张纸。”",
+      "reason": "林渡拒绝烧令，以保存证据反对无面者的保护逻辑。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/16",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 74,
+      "quote": "装置没有放行，反而从远处回出尖短的拒绝声。",
+      "reason": "祝衡仍可被识别而失去放行能力，权限后果并未因归队重置。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/17",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 74,
+      "quote": "“我们早就在告诉你。”",
+      "reason": "下城受害者对祝衡迟到的醒悟提出反驳，不把他现在受伤当赦免。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/18",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 74,
+      "quote": "林渡合好册子，叫岑野带人腾出通向深处的路。",
+      "reason": "外部命令仍执行，证据保存后必须撤入深处，下一步换门有紧迫性。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/19",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 75,
+      "quote": "板尾悬着，林渡若伸手去够，就得先将重量交给它。",
+      "reason": "交换位置本身存在坠落风险，不能直接抢回仪器。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/20",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 75,
+      "quote": "“我换。不是你欠的。”",
+      "reason": "林渡舍父亲遗物，主动拒把被夺仪器的责任算给弥娅。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/21",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 75,
+      "quote": "林渡这才松手。",
+      "reason": "交换实际完成，残尺物权移动；下一章收妥不是又一次交换。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/22",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 75,
+      "quote": "最后只抓住自己的衣角。",
+      "reason": "松手后的本能抓空让遗物损失可感，强于旁白宣布成长。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/23",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 75,
+      "quote": "他叫阿九先查拖擦有没有带动板架，再请杜姨报一次后排伤员的呼吸。",
+      "reason": "取回仪器不等于路安全，拖擦和通风同时制约下一步。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/24",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 77,
+      "quote": "热气从接缝往上冒，夹着铁锈和被烘热的木油味",
+      "reason": "灯座危险从气味、热气与铜片状态进入，必须先排除可踩区域。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/30",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 77,
+      "quote": "“看不见底。”林渡说，“先按不能站。”",
+      "reason": "林渡不把机关声当通路，把未知承重按禁踩处理，避免让伤员试错。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/31",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 77,
+      "quote": "潮汐工程，联络节点七",
+      "reason": "读出局部设施名称与编号，敲击机制由猜人转向可观察装置。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/32",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 77,
+      "quote": "“那一下呢？”他问。",
+      "reason": "本地机械停后多出一下，读者与人物同步得到有分量的新疑问，仍不指定父亲。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/33",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 77,
+      "quote": "他们得找到守墙的人，问清这里为什么被封。",
+      "reason": "局部联络装置没有自动开门，下一章由声源猜测转为追问守门者责任。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/34",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 78,
+      "quote": "墙后的光又亮了，穿过顶上一道旧缝，落在补墙的黑漆上。",
+      "reason": "前章墙后光变成可察旧漆与补墙，追问有具体物证支点。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/35",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 78,
+      "quote": "“开门之前说清楚。”他看着槐七，“进去了，今天这些话还算数。救人不是不许再问。”",
+      "reason": "林渡接受开门救人又保留问责，以交换条件限制无面者垄断。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/36",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 78,
+      "quote": "议会写成事故，我们也把责任藏进了事故两个字。",
+      "reason": "无面者从仅是被放逐者变成主动隐瞒者，阵营理解显著改变。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/37",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 78,
+      "quote": "“纸没了，死的人也没回来。”",
+      "reason": "烧档自保的后果由当事人承认，不靠解说替其免责。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/38",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 78,
+      "quote": "墙后的人肯不肯出来，是下一件要当面问清的事。",
+      "reason": "责任口述推向墙后本人，父亲现身期待在下一章获得兑现。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/39",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 79,
+      "quote": "墙门打开之前，里面先放了三次气。",
+      "reason": "期待重逢先受压差与门轴危险约束，人物必须保命再认亲。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/40",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 79,
+      "quote": "“你已经把我留在你的事里了。”",
+      "reason": "林渡拒绝父亲以保护为由不认人的逻辑，主动提出自己不能退出的责任联系。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/41",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 79,
+      "quote": "林岑便从他腰侧抽出残尺。",
+      "reason": "父亲真实出现并取走遗物，主角失物与寻父两条线在眼前合拢。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/42",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 79,
+      "quote": "她把左手按住册角，问父亲还能不能把刚才那个孔位问题说完。",
+      "reason": "林栖识出童年细节却不扑入怀抱，团圆承诺兑现为可痛可问的重逢。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/43",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 79,
+      "quote": "“想让他们活，先把那盏灯重新点亮。”",
+      "reason": "父亲仍拖延责任回答，迫使主角带着问题先作业，下一章维修有两重压力。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/44",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 80,
+      "quote": "靠近一步便觉额角发烫。",
+      "reason": "灯柱风道烫人且伤员不能齐进，复灯受具体位置与热压限制。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/45",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 80,
+      "quote": "“先别送人进井。”林渡说，“开出能看落脚的位置再说。”",
+      "reason": "无面者争执时林渡坚持先验井沿，拒把同意开门当全队可通行。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/46",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 80,
+      "quote": "外排两盏方才带亮的小灯随后熄灭，再也没跟着主灯闪。",
+      "reason": "有限修复付照明损失，换气改善没有万能恢复所有设备。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/47",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 80,
+      "quote": "“有回应。”她盯着那点光，“不知道是谁。”",
+      "reason": "遥远光点给出世界扩大的希望，身份仍未知，满足一部分跨海期待。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/48",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 80,
+      "quote": "他们要问那盏灯是谁点的，也得先让活人过得了这道门。",
+      "reason": "远端回应与眼前井台容量同时待解决，下一篇既有世界问题也有救人行动。",
+      "verdict": "pass",
+      "evidence_mode": "inherited_not_new_full_read",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_report_sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "source_json_pointer": "/checks/49",
+      "current_quote_present": true,
+      "chapter_bytes_unchanged": true
+    }
+  ],
+  "historical_batch_checks": [
+    {
+      "criterion": "promise_payoff",
+      "chapter": 79,
+      "quote": "“你还活着。”",
+      "reason": "寻找父亲的长期承诺在可视可闻的本人现身中兑现；父亲先守阀、拒认并取尺，使兑现有责任冲突。73夺仪器在75交换取回也有局部交付，付残尺而非免费解围。",
+      "verdict": "pass",
+      "evidence_mode": "historical_batch_evidence_not_new_batch_reread",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_json_pointer": "/checks/50",
+      "current_quote_present": true,
+      "new_batch_verdict_issued": false
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 78,
+      "quote": "“有些人参与，有些人只负责把活人拖出来。议会写成事故，我们也把责任藏进了事故两个字。”",
+      "reason": "夺身份凭证升级到证据交易，再到无面者自认隐瞒和父亲本人现身；救人路线变成不得不与责任人合作。80远光扩大世界尺度，仍不提前揭双陆全史。",
+      "verdict": "pass",
+      "evidence_mode": "historical_batch_evidence_not_new_batch_reread",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "source_json_pointer": "/checks/51",
+      "current_quote_present": true,
+      "new_batch_verdict_issued": false
+    }
+  ],
+  "prior_issue_closure_preservation": [
+    {
+      "id": "R004-B08-I01",
+      "chapter": 71,
+      "source_json_pointer": "/initial_issue_closures/0",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "current_full_read_no_reopening"
+    },
+    {
+      "id": "R004-B08-I02",
+      "chapter": 71,
+      "source_json_pointer": "/initial_issue_closures/1",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "current_full_read_no_reopening"
+    },
+    {
+      "id": "R004-B08-I03",
+      "chapter": 72,
+      "source_json_pointer": "/initial_issue_closures/2",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I04",
+      "chapter": 73,
+      "source_json_pointer": "/initial_issue_closures/3",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I05",
+      "chapter": 73,
+      "source_json_pointer": "/initial_issue_closures/4",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I06",
+      "chapter": 74,
+      "source_json_pointer": "/initial_issue_closures/5",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I07",
+      "chapter": 75,
+      "source_json_pointer": "/initial_issue_closures/6",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I08",
+      "chapter": 75,
+      "source_json_pointer": "/initial_issue_closures/7",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I09",
+      "chapter": 76,
+      "source_json_pointer": "/initial_issue_closures/8",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "current_full_read_no_reopening"
+    },
+    {
+      "id": "R004-B08-I10",
+      "chapter": 77,
+      "source_json_pointer": "/initial_issue_closures/9",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I11",
+      "chapter": 78,
+      "source_json_pointer": "/initial_issue_closures/10",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I12",
+      "chapter": 79,
+      "source_json_pointer": "/initial_issue_closures/11",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-I13",
+      "chapter": 80,
+      "source_json_pointer": "/initial_issue_closures/12",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    },
+    {
+      "id": "R004-B08-F01",
+      "chapter": 71,
+      "source_json_pointer": "/new_issue_closures/0",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "current_full_read_no_reopening"
+    },
+    {
+      "id": "R004-B08-F02",
+      "chapter": 75,
+      "source_json_pointer": "/new_issue_closures/1",
+      "source_report": "harness/maintenance/R004/B08/final.json",
+      "original_status": "closed",
+      "closure_evidence_still_present": true,
+      "review_mode": "unchanged_bytes_inherited"
+    }
+  ],
+  "new_blocking_manuscript_issues": [],
+  "nonblocking_observations": [
+    {
+      "id": "R004-B08-WATER-L01",
+      "severity": "minor",
+      "introduced_by_patch": false,
+      "blocking": false,
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "line": 95,
+      "quote": "不是把东西交出来才算同路，肯在搬动时应答，也能让旁人记住他仍在。",
+      "category": "文风§2/7：叙述者总结动作含义",
+      "finding": "前句已用收胶带、扶担架、再念号完成互认，此句又解释“同路”的主题；属旧稿保留的轻微解释，不是无水补丁新增问题，不妨碍本次五项吸引力通过。",
+      "suggestion": "后续若获授权精修，可删此总结句，停在“伤员便把自己的临时号又念给他听。”，不必为本次水边界补审扩改。"
+    }
+  ],
+  "writeback_followups": [
+    {
+      "id": "R004-B08-WATER-WB01",
+      "status": "pending_separate_writeback_review",
+      "severity": "moderate",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "line": 189,
+      "quote": "| 冷却水与饮水 | 第71—80章未取得新水源；为伤员重排风口并维持换气，消耗少量残余冷凝液 | 无整壶冷却水；仅剩湿布、残液和个人配给记录，脱水压力继续上升 |",
+      "finding": "原资源行“未取得新水源／脱水继续上升”与新071/076一致；但把为伤员换气与“消耗少量残余冷凝液”并写，不能再拿已删除的润唇作为该耗用依据，也不能据此证明可饮水库存。此处核的是正式原台账，未重审正在修改的WB。",
+      "suggested_fragment": "第71—80章未取得新可饮水源；071以侧头避灰、换肩休息照护，076移开口边灰布、重排风口并维持换气，均未给水、未用器具残液润口或洗伤。器具残液与原湿布分列；本段不据被删除的润唇记人体用水消耗，若保留器具用量须另列实际章段依据。",
+      "does_not_block_two_chapter_prose_recheck": true,
+      "does_not_close_WB15_as_whole": true
+    }
+  ],
+  "criteria_crosscheck": {
+    "positions_counts_information": "071六凭证/六人在场、本人应号、失联行不注销；076旧六号续用、不增身份门权限；未扩大审全队人数。",
+    "object_energy_time": "075交换已完、076盖扣有限固定且机械针迟滞；077机械回弹另记。无补水/供电/药包新增。",
+    "sensation_physics_injury": "灰、汗、布与器具液分清；侧头避灰和既有风缝可直接承接；伤口与疲劳继续存在，本报告不是医疗指导。",
+    "style": "新增两段动作均有对象与结果，未新增悬空感知、相同验证或“像是”堆叠；已见旧071总结句列轻微观察，不冒称全文无AI腔。",
+    "chapter_length": {
+      "method": "正文全文匹配[\\u4e00-\\u9fff]，含中文章题；仅统计，不代替吸引力判断",
+      "71": 2304,
+      "76": 2404
+    }
+  },
+  "recheck_requirements": [
+    "正文再改则重新核受影响章与新十章指纹；不复用本次通过去覆盖未知字节。",
+    "八份WB完成后另行独立复核；本次不更新先前WB失败报告、不读取正在变化的stage。",
+    "098—100仍由作者裁定C04；不把071/076问题关闭写成整个WB-15或C04已关闭。"
+  ],
+  "files_written": [
+    "harness/maintenance/R004/B08/water-boundary-recheck.md",
+    "harness/maintenance/R004/B08/water-boundary-recheck.json"
+  ],
+  "manuscripts_modified": false,
+  "ledgers_modified": false,
+  "original_reports_modified": false,
+  "WB_stage_read_or_modified": false,
+  "gate_close_verify_repair_run": false
+}

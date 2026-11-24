@@ -1,0 +1,602 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B26",
+  "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+  "independent": true,
+  "date": "2026-11-10",
+  "body_digest": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d",
+  "body_validation": "pass",
+  "not_release_gate": true,
+  "source_issue_sets": [
+    {
+      "source": "harness/maintenance/R008/B26/initial.json",
+      "count": 32,
+      "ids": [
+        "B26-01",
+        "B26-02",
+        "B26-03",
+        "B26-04",
+        "B26-05",
+        "B26-06",
+        "B26-07",
+        "B26-08",
+        "B26-09",
+        "B26-10",
+        "B26-11",
+        "B26-12",
+        "B26-13",
+        "B26-14",
+        "B26-15",
+        "B26-16",
+        "B26-17",
+        "B26-18",
+        "B26-19",
+        "B26-20",
+        "B26-21",
+        "B26-22",
+        "B26-23",
+        "B26-24",
+        "B26-25",
+        "B26-26",
+        "B26-27",
+        "B26-28",
+        "B26-29",
+        "B26-30",
+        "B26-31",
+        "B26-32"
+      ]
+    },
+    {
+      "source": "harness/maintenance/R008/B26/recovery-new-issues.json",
+      "count": 22,
+      "ids": [
+        "R008-B26-R01",
+        "R008-B26-R02",
+        "R008-B26-R03",
+        "R008-B26-R04",
+        "R008-B26-R05",
+        "R008-B26-R06",
+        "R008-B26-R07",
+        "R008-B26-R08",
+        "R008-B26-R09",
+        "R008-B26-R10",
+        "R008-B26-R11",
+        "R008-B26-R12",
+        "R008-B26-R13",
+        "R008-B26-R14",
+        "R008-B26-R15",
+        "R008-B26-R16",
+        "R008-B26-R17",
+        "R008-B26-R18",
+        "R008-B26-R19",
+        "R008-B26-R20",
+        "R008-B26-R21",
+        "R008-B26-R22"
+      ]
+    },
+    {
+      "source": "harness/maintenance/R008/B26/recovery-round2-suggested-edits.json",
+      "count": 3,
+      "ids": [
+        "R008-B26-R2-01",
+        "R008-B26-R2-02",
+        "R008-B26-R2-03"
+      ]
+    },
+    {
+      "source": "harness/maintenance/R008/B26/recovery-round3-suggested-edits.json",
+      "count": 1,
+      "ids": [
+        "R008-B26-R3-01"
+      ]
+    }
+  ],
+  "issue_checks": [
+    {
+      "id": "B26-01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-02",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 10,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-03",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-04",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-05",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-06",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-07",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-08",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 6,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-09",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-10",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-11",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-12",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-13",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 5,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-14",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-15",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-16",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-17",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-18",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-19",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-20",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-21",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-22",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-23",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-24",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-25",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-26",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-27",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-28",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 6,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-29",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-30",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-31",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "B26-32",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R02",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R03",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R04",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R05",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R06",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R07",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R08",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R09",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R10",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R11",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R12",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R13",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R14",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 3,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R15",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R16",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R17",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R18",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 6,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R19",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R20",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 4,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R21",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R22",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R2-01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R2-02",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R2-03",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 1,
+      "resolution_present": true
+    },
+    {
+      "id": "R008-B26-R3-01",
+      "status": "closed",
+      "actual_quote_verified": true,
+      "evidence_quotes_verified": 2,
+      "resolution_present": true
+    }
+  ],
+  "issue_count": 58,
+  "closed_count": 58,
+  "open_body_count": 0,
+  "reader_check_count": 52,
+  "reader_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "pattern_hit_count": 54,
+  "current_pattern_quote_validation": "all_exact",
+  "full_reread_this_round": [
+    256
+  ],
+  "other_nine_sha_unchanged": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    257,
+    258,
+    259,
+    260
+  ],
+  "single_256_reverse_replacement_matches_previous_sha": true,
+  "writeback_freeze_revision": 3,
+  "writeback_freeze_all_8_actual_sha_match": true,
+  "writeback_closed_count": 44,
+  "writeback_open_medium": 2,
+  "writeback_open_minor": 2,
+  "writeback_verdict": "needs_revision",
+  "formal_body_unpublished": true,
+  "formal_10_equal_before_sha": true,
+  "artifacts": [
+    {
+      "path": "harness/maintenance/R008/B26/final.json",
+      "sha256": "6eaf61fcab622ce37f8d655a986137427e9322def0aca530baad1e78b235abe0"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/reader-review.json",
+      "sha256": "793abea623dd1f3d57c28d932931ccccdb15295e3e0cd16aa42481ebaacc25ef"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-final.md",
+      "sha256": "4cf98bdb2ecb5fba41a75b4953346389596b4e1969440af1be28723eef418a99"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-final-read-manifest.json",
+      "sha256": "97dee6d424381a4a5a10d6518e4c9a35c43d55274023e4a86d7dfa00e3f1b193"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-round4-read-manifest.json",
+      "sha256": "d03008de98e3d3ce6a46632154099247760e5931b6791f247c23c27ab3627964"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-round4-issue-closure.json",
+      "sha256": "699e093c6aee6887fd4e201ffb361137dd09fcc55c1071746132de44402a9123"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-standards-audit.json",
+      "sha256": "5d2c3f7a857f55d17f32b5c01bcbcac9abbdfa4b09cdaff2676a9b7e8f16bfcb"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-standards-audit.md",
+      "sha256": "9c860640cb7f5063529743629bb37b162b8e6aa4462d8856849e5eabc97d2bc3"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-writeback-freeze-suggested-edits.json",
+      "sha256": "1e1ce2b4c8e2d432fcf491a132d14da738568d11801aff067a7d224e9400a2ba"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/writeback-freeze-review.json",
+      "sha256": "29db432d19263e906154d33c6cdb26d4a9f05c943b137e2e5d1b12eff02c2642"
+    },
+    {
+      "path": "harness/maintenance/R008/B26/recovery-writeback-freeze-v3-diff.json",
+      "sha256": "413ef6fad8a18ab73641c69f9c3213d22115645b6455e84ec59f0829b271a7a7"
+    }
+  ],
+  "no_prose_or_candidate_write": true,
+  "scope_limitation": "机械校验不替代真实审读；只覆盖251—260及八候选A16相关范围。候选残留未关闭，不能据本文件发布。",
+  "revision3_diff_review": "harness/maintenance/R008/B26/recovery-writeback-freeze-v3-diff.json",
+  "revision3_A16_scope_unchanged": true,
+  "revision3_only_out_of_scope_neutral_label_changed": true
+}

@@ -1,0 +1,2043 @@
+{
+  "schema_version": 1,
+  "kind": "independent-writeback-freeze-review",
+  "batch": "R008-B29",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+  "independent": true,
+  "verdict": "pass",
+  "scope_chapters": [
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290
+  ],
+  "body_digest": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077",
+  "reviewed_at": "2026-11-10T10:27:27.131094+08:00",
+  "scope": "仅签281—290原始A19已发生行、284相关索引和R008本范围说明。280为核证/物料/免夜入口接口；275仅取印样术语相容性片段；A16/A18其余摘要只定位十项diff并核字节，不签其他篇全文、256或全历史。",
+  "method": "保留v3报告原字节；依B26四项及B28六项日志在内存逆向逐步替换，验证每步前后SHA并完整还原四候选v3字节，另四文件核SHA未变。实际重抽七个A19主体段与40范围片段：38未变、2变化实读；复算八范围投影并对两栏暂不公开/来源私留及印样同模术语作窄语义复核。核B29十章实际SHA、280接口指纹与原六建议关闭证据，不重复全量正文或范围外历史审读。",
+  "freeze": {
+    "path": "harness/maintenance/R008/writeback-freeze.json",
+    "revision": 4,
+    "sha256": "7218d02548bc68c227e5eec7440c5b78391bead3d09406a77608ee09896225f4",
+    "compiled_by": "R008-main",
+    "all_8_actual_hashes_match": true,
+    "status": "bound_to_revision_4"
+  },
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "freeze_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "逐人重核地点、伤势、工具与纸张持有、人数和知识权限；祝衡销毁对象已精确为临时比字条。孟芸290确在六人验料中；回捎未确认送达。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## 第281—290章后人物状态（A19；D154；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "sha256": "fbf53607b1e78a03ae91e802f94b24742145a45cbca02d743f6629ff16c1c59c",
+          "same_as_prefreeze": true,
+          "line_start": 663,
+          "line_end": 686,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "5cd87006865df50148309ff615076118c859e38f9e8e3e7d1cc8822697fd4ddc",
+          "same_as_prefreeze": true,
+          "line_start": 941,
+          "line_end": 941,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "9b964247a5582dd09d86273aad23eca2dd097cb19ade1d29adc9ea99b5d59630",
+          "same_as_prefreeze": true,
+          "line_start": 943,
+          "line_end": 943,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "e15008006f3dd5c9eda2983913d286f56f0688d32ff42dc862b743434b4509fc",
+          "same_as_prefreeze": true,
+          "line_start": 944,
+          "line_end": 944,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        }
+      ],
+      "scope_projection_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+      "prior_scope_projection_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+      "r008_tail_scan": {
+        "heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+        "sha256": "663aab77f0a3ad3598ace211431668b018ec4ad5cc1b538e0c4640389b3e45ca",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "same_scope_as_revision_2": true,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+        "unchanged": true,
+        "changed_spans_revalidated": 0
+      },
+      "revision_3_file_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "same_scope_as_revision_3": true
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "freeze_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "逐班80→83.5/60/23.5、15×半勺、37.5+20+2+0.5=60；11口由8/3到9/2、陶家3与另计钱婶共4；末班2.5先耗尽、六桶不增；楔耗、伤势、阀未开、两板待装及四笔候料均不新增收益。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## 第281—290章后资源与时间（A19；D145—D154；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "sha256": "d6d71c6bba1fd240c0e9ae2c7f4fc1dfce6b72ebf4f590c0594211bbe2d64191",
+          "same_as_prefreeze": true,
+          "line_start": 535,
+          "line_end": 569,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "91605f5cd155a102b879c7259c90f2eaa0442021713cbac23e68eb58e96e8a15",
+          "same_as_prefreeze": true,
+          "line_start": 849,
+          "line_end": 849,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "5551981a20ef041ac61d0a1f52cd8c87a0963bad1c7671d948d75c7508c82ce1",
+          "same_as_prefreeze": true,
+          "line_start": 850,
+          "line_end": 850,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "7f9477b7d5a528762d50415aaa5b159550f6acc17798070bde3ea4586c058f03",
+          "same_as_prefreeze": true,
+          "line_start": 851,
+          "line_end": 851,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "8322fefa1c6499cc4c541610c69a5e9f144efd1b61dbeef900b44121f6749181",
+          "same_as_prefreeze": true,
+          "line_start": 852,
+          "line_end": 852,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "e871d5ce1bbfe15b65cc7dd70c818503b1c4cda0d3e67dfb8c2a2ac01b4148e9",
+          "same_as_prefreeze": true,
+          "line_start": 853,
+          "line_end": 853,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "09cda19e826c8b95ff28bb0a7b2b989b1801a347d7c98aef548fe45bd8a2deee",
+          "same_as_prefreeze": true,
+          "line_start": 853,
+          "line_end": 853,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        }
+      ],
+      "scope_projection_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+      "prior_scope_projection_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+      "r008_tail_scan": {
+        "heading": "## R008旧章资源校准（251—300）",
+        "sha256": "2c6cb20197c1e16b744f00c9127baa6111a439701e81d02235bca9c039c52bca",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "same_scope_as_revision_2": true,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+        "unchanged": true,
+        "changed_spans_revalidated": 0
+      },
+      "revision_3_file_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "same_scope_as_revision_3": true
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+      "freeze_sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "F11旧互证强度已收窄；家属仅送抵、同类印不等于同一实印，第三名、妹妹及旧失联未知；常班将撤与未知运输链未预支。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## 第281—290章伏笔回填（A19；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "sha256": "0666580b9c2a49471eabe5adfa2c0f5da16bf387b5de2c59e812459712a224e1",
+          "same_as_prefreeze": true,
+          "line_start": 514,
+          "line_end": 531,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008线索权限校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "e2baf56a52b339a07e881d10942c94214234c5d8e19c0c45b5e42784ca3587f1",
+          "same_as_prefreeze": true,
+          "line_start": 748,
+          "line_end": 748,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008线索权限校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "baf85c7e4520b5511e199a130d524844a2618bdb41a49952883f0f31aa39969f",
+          "same_as_prefreeze": false,
+          "line_start": 749,
+          "line_end": 749,
+          "same_as_revision_2": false,
+          "same_as_revision_3": false
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008线索权限校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "051d09224a78edc258c643031032a5ac98decdd922ca497aac77f3866b308ca6",
+          "same_as_prefreeze": true,
+          "line_start": 750,
+          "line_end": 750,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        }
+      ],
+      "scope_projection_sha256": "633acac573cd7a8bd044cbaa890870f230c66205d90d54e47ff92920eaa649d2",
+      "prior_scope_projection_sha256": "a7fa35750d74e70309cda4df874d65a9b9fcdb98810f974f5bc7b10b7cf73b40",
+      "r008_tail_scan": {
+        "heading": "## R008线索权限校准（251—300）",
+        "sha256": "b27fe63829e81c07a8509b75dcfd0bdd59c2619796bd3b4034c2ca88a28a393a",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "same_scope_as_revision_2": false,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "633acac573cd7a8bd044cbaa890870f230c66205d90d54e47ff92920eaa649d2",
+        "unchanged": false,
+        "changed_spans_revalidated": 1
+      },
+      "revision_3_file_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "same_scope_as_revision_3": false
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "freeze_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "D145—D154十行完整重核，283补返五层；D148旬头、D149四口移出、D150床板搬下与分水、D151阀未开、D154待装成立。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19／第281—290章时间线（D145—D154；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "sha256": "888d8a1c648e8d97589696f633a1a866405bbdd7770197ce75d7ccf47902a559",
+          "same_as_prefreeze": true,
+          "line_start": 359,
+          "line_end": 377,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008相邻章接口校准（251—300；历史日次不变）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "936aa41dd22f987774bda77318553660e132fdcd6955380120663b2718795486",
+          "same_as_prefreeze": true,
+          "line_start": 617,
+          "line_end": 617,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008相邻章接口校准（251—300；历史日次不变）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "478732de2e0b583ff80eb62d2f8285c6b32a1d40160f782b083486b90eb38173",
+          "same_as_prefreeze": true,
+          "line_start": 618,
+          "line_end": 618,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        }
+      ],
+      "scope_projection_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+      "prior_scope_projection_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+      "r008_tail_scan": {
+        "heading": "## R008相邻章接口校准（251—300；历史日次不变）",
+        "sha256": "4087dd2ad2a4fdbdef9de3e5b30d11f5ceb6b4d7f2a3d2c258e465abac3e72d2",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "same_scope_as_revision_2": true,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+        "unchanged": true,
+        "changed_spans_revalidated": 0
+      },
+      "revision_3_file_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "same_scope_as_revision_3": true
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+      "freeze_sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "A19九条及修后状态说明重核；存根已列主名/类别/当批编号及交接字段，送抵不等于登船离港；半标准勺、检修口和工具无新增物资。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19新增用语登记（2026-10-26；正文审读已核实）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "sha256": "e77652d1196e0e56c0f5e0c2c85945534f92c5c294e6e768dc1793d9066ac908",
+          "same_as_prefreeze": true,
+          "line_start": 206,
+          "line_end": 221,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "### R008用词边界",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "4365c35e6cce1d760752ac8407399a9ff1923ae2a005680f8baabae4fd80413e",
+          "same_as_prefreeze": true,
+          "line_start": 427,
+          "line_end": 427,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "### R008用词边界",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "fa4a6138f96abd11789c07acf7f9aedda2a086cd02ff7c5439cf509e27021583",
+          "same_as_prefreeze": false,
+          "line_start": 427,
+          "line_end": 427,
+          "same_as_revision_2": false,
+          "same_as_revision_3": false
+        }
+      ],
+      "scope_projection_sha256": "1264e1b52575b16c748b85f3822e8bfed44823c57e913d474df331aea2936195",
+      "prior_scope_projection_sha256": "c83b997807408a760bb842057c2b0ee3af3c8afa09af7cd7aa2671babcd85d77",
+      "r008_tail_scan": {
+        "heading": "### R008用词边界",
+        "sha256": "fecbdd9a3a980be7219dfa4c6ef6f00246aa66b6bd523505b8d8005e1177daeb",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "same_scope_as_revision_2": false,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "1264e1b52575b16c748b85f3822e8bfed44823c57e913d474df331aea2936195",
+        "unchanged": false,
+        "changed_spans_revalidated": 1
+      },
+      "revision_3_file_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "same_scope_as_revision_3": false
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+      "freeze_sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "A19五词条及人物说明重核；候核不含船位，半勺是旧勺半体积，外堤停岗不扣水，余班不等于实收；末尾迟信/缺角印/两栏的本期约束一致。 冻结时“两栏不写来处”尾注已更新，按280核前暂存→284有限核证→288无名公开分阶段复核通过。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19／第281—290章词条（已由正文核实）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "sha256": "e51d186d8c53566762fcaf11b1cff63c32594220e2c942f0eb6f5ecc41ee16ca",
+          "same_as_prefreeze": true,
+          "line_start": 81,
+          "line_end": 94,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008语义校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "d8102d5e92080b46c72ad9434ec974e66b29fbfb1952f870bd65857711874271",
+          "same_as_prefreeze": true,
+          "line_start": 273,
+          "line_end": 273,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008语义校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "ab00850eef66040154d7a0115bd06188443667835e570275c517a7216d74cf4c",
+          "same_as_prefreeze": true,
+          "line_start": 274,
+          "line_end": 274,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008语义校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "90519bd1f7707a19069d359d05ac41efdbded3ab60d0d0817a64d4c90444afd3",
+          "same_as_prefreeze": false,
+          "line_start": 275,
+          "line_end": 275,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        }
+      ],
+      "scope_projection_sha256": "cec5f384ea2339266252b66871e51f1d73f9aeeb89150247e24e3924cdb44e1e",
+      "prior_scope_projection_sha256": "cec5f384ea2339266252b66871e51f1d73f9aeeb89150247e24e3924cdb44e1e",
+      "r008_tail_scan": {
+        "heading": "## R008语义校准（251—300）",
+        "sha256": "9f5c2d35422b85ee9eebca9b9479808cbdc601e38574e90e35f21f16797b82c8",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "same_scope_as_revision_2": true,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "cec5f384ea2339266252b66871e51f1d73f9aeeb89150247e24e3924cdb44e1e",
+        "unchanged": true,
+        "changed_spans_revalidated": 0
+      },
+      "revision_3_file_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "same_scope_as_revision_3": true
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+      "freeze_sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "A19十章实际回填、偏离说明、290批末五项续写入口及末尾281—290十行重核；283补五层、287陶继说、290孟芸验料及两板未实收均正确。写前卡只作规划背景，不将规划误签已发生。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19第281—290章正文实际回填（2026-10-26；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "sha256": "70ab9d1b7afd847b5b32be8240912cf26d2f28872fb05d7fe126e1920f332ff9",
+          "same_as_prefreeze": true,
+          "line_start": 326,
+          "line_end": 357,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "f4bbf3b3d9e2112bb390765af43f57afb6332d174b678d1dc77a53049496217f",
+          "same_as_prefreeze": true,
+          "line_start": 463,
+          "line_end": 463,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "fba79c538c1eb20b6ed5424acc8eafc9f7923b4efb64c6c473a2bf171b6ddae3",
+          "same_as_prefreeze": true,
+          "line_start": 464,
+          "line_end": 464,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "ed1d1fb766f43ae3bf41458f0402479847ee2b86b1f371ffadcfb2f2d3987115",
+          "same_as_prefreeze": true,
+          "line_start": 465,
+          "line_end": 465,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "c5fdbd86234d87a04cb7e7149f60cdceffff0023e44b2ba65c52701e862c7da8",
+          "same_as_prefreeze": true,
+          "line_start": 466,
+          "line_end": 466,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "67ad1da15a58f5bfeb43c3303edc57f6eca4af8a7a32c4b4fc6b3d693e70b1da",
+          "same_as_prefreeze": true,
+          "line_start": 467,
+          "line_end": 467,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "7a416e81d14b1beb5e8759009d8d3583397575a0e5ad66fc09685bce9fa5de26",
+          "same_as_prefreeze": true,
+          "line_start": 468,
+          "line_end": 468,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "3206a034cb9d89657b949e1e5fcf3df630ce352243402a40172684c3324436a9",
+          "same_as_prefreeze": true,
+          "line_start": 469,
+          "line_end": 469,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "99d7e120886e87afb4a80440fde0687bc37ae39c6ecba393da8a681a919f1d8a",
+          "same_as_prefreeze": true,
+          "line_start": 470,
+          "line_end": 470,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "ff2fd622fa676ba4dd844075a390f75d9d6b62a6fa3f93311a078a35e0f9460a",
+          "same_as_prefreeze": true,
+          "line_start": 471,
+          "line_end": 471,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "46a0641b9d2cd836b6ae22af9ea3b495f2351bb917f8242cd9b0eda05603f2c8",
+          "same_as_prefreeze": true,
+          "line_start": 472,
+          "line_end": 472,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        }
+      ],
+      "scope_projection_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+      "prior_scope_projection_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+      "r008_tail_scan": {
+        "heading": "## R008逐章实际校准（251—300；2026-11-10）",
+        "sha256": "252f6a3eeb1f950050e295cf6330b578d2be29dd7f8e80051e8a280dcbd45de9",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+      "same_scope_as_revision_2": true,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+        "unchanged": true,
+        "changed_spans_revalidated": 0
+      },
+      "revision_3_file_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "same_scope_as_revision_3": true
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "freeze_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "matches_freeze": true,
+      "verdict": "pass",
+      "scope_reason": "已区分写前规划与实际实录；关键索引284明确仅送抵七层口，A19实录的逐班让水/未遂停岗/两板待装正确；其他篇规划与已发生史不签。",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008五篇实际边界复核（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "sha256": "39c7bb557838bc6eb962b484e5b992edc0dcf5d81ba5067bea2959b0741ef7f5",
+          "same_as_prefreeze": true,
+          "line_start": 47,
+          "line_end": 47,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "index_fragment",
+            "section_heading": "## 关键章节索引"
+          },
+          "sha256": "4a65475cd9f0369939a332817573f9cc4cc4fe4699ed909e5f9159a24999638a",
+          "same_as_prefreeze": true,
+          "line_start": 27,
+          "line_end": 27,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "structural_context_not_historical_fact_audit",
+          "selector": {
+            "type": "planning_vs_actual_boundary"
+          },
+          "sha256": "373e26efe0ad2492b6fde096a4e4a7a09ae8bb8de011ba1f1727548c2cd27f2b",
+          "same_as_prefreeze": true,
+          "line_start": 3,
+          "line_end": 3,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        },
+        {
+          "kind": "structural_context_not_historical_fact_audit",
+          "selector": {
+            "type": "planning_vs_actual_boundary"
+          },
+          "sha256": "6b93dd807a2a322f4f6d036d2b9418d614c579dc6a58a0f9a7b09c787eaff32a",
+          "same_as_prefreeze": true,
+          "line_start": 50,
+          "line_end": 50,
+          "same_as_revision_2": true,
+          "same_as_revision_3": true
+        }
+      ],
+      "scope_projection_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+      "prior_scope_projection_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+      "r008_tail_scan": {
+        "heading": "## R008五篇实际边界复核（251—300）",
+        "sha256": "5cb7addce9b807782c3c4fd18392acca7d16f8157f89cda3b5a0d513dcc0d78f",
+        "use": "v4仅核相关精确diff与A19范围；尾段SHA只定位，不表示其他组尾段历史事实已获本读者签署。",
+        "hash_method": "UTF-8 from the recorded heading through EOF, exact bytes; locator only"
+      },
+      "revision_2_file_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "same_scope_as_revision_2": true,
+      "scope_projection_recheck": {
+        "baseline_revision": 3,
+        "actual_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+        "unchanged": true,
+        "changed_spans_revalidated": 0
+      },
+      "revision_3_file_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "same_scope_as_revision_3": true
+    }
+  ],
+  "body_binding": {
+    "manifest": "harness/maintenance/R008/B29/final-manifest.json",
+    "manifest_sha256": "2f01a1722a72018143936647be65ba80a6c9db9b2f3d1e40d0fed10f7a1051db",
+    "manuscripts": [
+      {
+        "chapter": 281,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第281章_班上还有他的名字.md",
+        "sha256": "42b31429a58232b1c0d9fbb629828bb9e9621e5d72b0b63ee4dc83692da4d4f9"
+      },
+      {
+        "chapter": 282,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第282章_做满这一旬.md",
+        "sha256": "67913f9b5c756482d5e5cdec005913a0a48654943bb99f35ade29c1d2b8df7a2"
+      },
+      {
+        "chapter": 283,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第283章_绳里面没有他们.md",
+        "sha256": "6f7bf1b5ac46f0380d92c6b4a3ab7b3998da36f5e8d1bd1408c06211931471b5"
+      },
+      {
+        "chapter": 284,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+        "sha256": "b0712b78e52374c0e58899532254e2280daa7615d4a3904e2de17abb327002a7"
+      },
+      {
+        "chapter": 285,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第285章_从靠山这一边下来.md",
+        "sha256": "a8014cc6d692ce35fe87042725639c335e435ef2e1cba0f3c7059374aa77230e"
+      },
+      {
+        "chapter": 286,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第286章_半勺写在谁的名下.md",
+        "sha256": "30d37dec04f9785fb215e89fa10a6389dc49682293777614af53b7afdc3bc112"
+      },
+      {
+        "chapter": 287,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第287章_先从沟里退出来.md",
+        "sha256": "28685d98fbe41f1d2ce0967399bc7ade82787377ef1ce6046f7acbfb72903b19"
+      },
+      {
+        "chapter": 288,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+        "sha256": "424bc46dae940929b66c7970986d83d7fee4e46e4be65dad706ad5da6aeccee0"
+      },
+      {
+        "chapter": 289,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第289章_下旬的车栏空着.md",
+        "sha256": "b76d1e788f2daf2cdcc7b7a917a848289c452a9f76b8db568d494c16491bedc4"
+      },
+      {
+        "chapter": 290,
+        "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+        "sha256": "8b5f4e13065cbe7bc5e58cae9a6a18021e4f951c15f892626682712d10194dac"
+      }
+    ],
+    "all_10_unchanged": true,
+    "prior_final": "harness/maintenance/R008/B29/final.json",
+    "prior_final_sha256": "304a47edf1d83094a56a8086cba237d35fae2f8fd75dad26107638c619337bb7",
+    "reader_review": "harness/maintenance/R008/B29/reader-review.json",
+    "reader_review_sha256": "31998148a52ee1259e294c643b3522b20df32d19f17b071254856ac5886150cb",
+    "prior_52_evidence_binding_remains_valid": true,
+    "rechecked_freeze_revision": 4,
+    "source_digest_recomputed_from_actual_manuscript_hashes": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077"
+  },
+  "comparison": {
+    "baseline": "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v3.json",
+    "baseline_sha256": "0219f4029d9e02b204b39a6c6cedcd66497956818c722387e2b7881e37fa1bcb",
+    "baseline_revision": 3,
+    "current_revision": 4,
+    "main_A19_sections_compared": 7,
+    "main_A19_sections_unchanged": 7,
+    "scope_spans_compared": 40,
+    "unchanged": 38,
+    "changed_and_reread": 2,
+    "changes": [
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "selector": {
+          "type": "fragment_in_section",
+          "section_heading": "## R008线索权限校准（251—300）",
+          "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+        },
+        "edit_ids": [
+          "RB28-W059"
+        ],
+        "old": "| F11／缺角印 | 同类或同模印及数号排法提供运输核对方向，不凭印认同一枚实印或全部同批 | 箱中用途、完整武装供应链及幕后人未揭 |",
+        "new": "| F11／缺角印 | 同类或同模印（此处同模仅指所见印样与缺角形制相同，缺角为模制而非磕损；不表示验明同一件实体模具、制印者或供货源）及数号排法提供运输核对方向，不凭印认同一枚实印或全部同批 | 箱中用途、完整武装供应链及幕后人未揭 |",
+        "old_sha256": "7901f1a3c15d2eaf9ca9054e8d227a7ee47a128aaf81ea43bad3d7847887c9d9",
+        "new_sha256": "baf85c7e4520b5511e199a130d524844a2618bdb41a49952883f0f31aa39969f",
+        "verdict": "pass",
+        "semantic_review": "stamp_shape_not_physical_mould_source",
+        "reason": "以正式术语原行优先：保留同模、同类及缺角模制而非磕损的形制事实；新增括注限定同模为所见印样/缺角形制相同，没有删掉正式事实，也没有验明同一件实体模具、制印者或供货源。与275相容性片段及280残数未全、不可推同批一致。290仍需从实装记录追问，未把缺角、站名、车箱与人员拼成完整运输或武装链；第三名仍限私核。",
+        "evidence": [
+          {
+            "path": "异星录/04_连续性管理/术语与命名表.md",
+            "sha256": "0370b6dcb62ab573da5fba399b5653a69bc5cd8605e085ceb1056d8ecc8111f5",
+            "line": 199,
+            "quote": "各处只写到缺角落在同一角，能证到同模、同类，不能认定为同一枚实印，也不能据此判定它归哪条线、哪本账；支料那枚磨角章与各处所见半印、缺角圆印是否同源，正文未定",
+            "signed": false,
+            "use": "formal terminology fact-priority excerpt only; no historical chapter signoff"
+          },
+          {
+            "path": "异星录/04_连续性管理/术语词典.md",
+            "sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+            "line": 71,
+            "quote": "缺角是模子上带的，边齐、回回在一角。缺角同在一角只证到同模、同类，不等于同一枚实印、不等于同一条线；支料那枚磨角章与各处所见半印、缺角圆印是否同源，正文未定",
+            "signed": false,
+            "use": "formal terminology fact-priority excerpt only; no historical chapter signoff"
+          },
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+            "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+            "line": 19,
+            "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”",
+            "signed": false,
+            "use": "related terminology compatibility excerpt only; not a full reread or chapter signoff",
+            "chapter": 275
+          },
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+            "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+            "line": 59,
+            "quote": "缺角只够认同类，残数也没对全，不能把它们算作同一批。眼下接得上的，是阿九看见验箱换签后，车上了转运坡这一段。",
+            "signed": false,
+            "use": "boundary excerpt only; no chapter signoff",
+            "chapter": 280
+          },
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+            "sha256": "8b5f4e13065cbe7bc5e58cae9a6a18021e4f951c15f892626682712d10194dac",
+            "line": 97,
+            "quote": "阿九早前留的缺角描样，还压在祝衡的纸包下面。海峡武器站的名字他们也早知道，名字本身不能说明这车载了谁、哪道门放了行。下一张问页要从实装记录开始，三行半页里剩下的那个人，也仍只准私下认。",
+            "signed": true,
+            "use": "A19 actual manuscript",
+            "chapter": 290
+          }
+        ]
+      },
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "selector": {
+          "type": "fragment_in_section",
+          "section_heading": "### R008用词边界",
+          "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+        },
+        "edit_ids": [
+          "RB28-W054"
+        ],
+        "old": "“两栏不写来处”仅指拟示人版本省去敏感来源，不等于销毁私存出处。",
+        "new": "“两栏不写来处”指两栏本身也暂不对外、栏上不抄能牵出人的来历；原信、原收条、核认与证词私存分源不毁。",
+        "old_sha256": "bab56a8bbb82dd0fbbb761e47d209870993b12925cde1252c32d941aad93089d",
+        "new_sha256": "fa4a6138f96abd11789c07acf7f9aedda2a086cd02ff7c5439cf509e27021583",
+        "verdict": "pass",
+        "semantic_review": "two_columns_source_retention",
+        "reason": "两栏本身在280核证前暂不对外，栏上不抄敏感来历，不是仅遮原纸包装，也不是永久禁止匿名结论。284另有存根/证人/家属互证后只公布不带名的有限送抵结论，288原名仍不公开。原信、原收条、既有核认与证词私留分源不毁，与284仅烧临时比字条、保留原半页及署名核验抄页相容；不把两家认名倒签为280已核撤离去向。",
+        "evidence": [
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+            "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+            "line": 101,
+            "quote": "“所以两栏都先压在册子里。”林渡说，“写，是给我们自己看的。什么时候能摆出去，是核到哪天算哪天。”",
+            "signed": false,
+            "use": "boundary excerpt only; no chapter signoff",
+            "chapter": 280
+          },
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+            "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+            "line": 103,
+            "quote": "两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到",
+            "signed": false,
+            "use": "boundary excerpt only; no chapter signoff",
+            "chapter": 280
+          },
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+            "sha256": "b0712b78e52374c0e58899532254e2280daa7615d4a3904e2de17abb327002a7",
+            "line": 87,
+            "quote": "祝衡依旧不贴整页。他在公开两栏旁写一段不带名字的话：已核两户优先家属，在留守复核前送抵七层登船口；普通留守与退工者仍在候船边区，无实发船位。下方分列亲属认名、工人见送，海上去处留空。",
+            "signed": true,
+            "use": "A19 actual manuscript",
+            "chapter": 284
+          },
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+            "sha256": "b0712b78e52374c0e58899532254e2280daa7615d4a3904e2de17abb327002a7",
+            "line": 95,
+            "quote": "祝衡先将原半页与送人者署名的核验抄页包好，放回原格，叮嘱仍只供两家核问；那张比字条则交给戊字一送到旧灶。",
+            "signed": true,
+            "use": "A19 actual manuscript",
+            "chapter": 284
+          },
+          {
+            "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+            "sha256": "424bc46dae940929b66c7970986d83d7fee4e46e4be65dad706ad5da6aeccee0",
+            "line": 33,
+            "quote": "原名不公开，核验日期和见证范围公开，由他守原件，愿意认错字的人可到值桌再问。",
+            "signed": true,
+            "use": "A19 actual manuscript",
+            "chapter": 288
+          },
+          {
+            "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+            "sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+            "line": 275,
+            "quote": "| 两栏不写来处 | 两栏本身也暂不对外；不抄能牵出送信、取纸、认名人的来历。私存原信、原收条两面、两家既有核认与老崔证词，来源分开可核，不因整理毁掉 | 不留任何来历而声称证据可追溯；只藏外包装却公开两栏；把两家认名或证词写成撤离去向 |",
+            "signed": false,
+            "use": "existing same-scope v3 terminology boundary"
+          }
+        ]
+      }
+    ],
+    "scope_projection_algorithm": "sha256(json.dumps([{kind, selector, sha256} for each saved scope span in original order], ensure_ascii=False, sort_keys=True).encode('utf-8'))",
+    "scope_projections": [
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "scope_spans": 4,
+        "revision_3_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+        "revision_4_actual_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "scope_spans": 7,
+        "revision_3_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+        "revision_4_actual_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "scope_spans": 4,
+        "revision_3_sha256": "a7fa35750d74e70309cda4df874d65a9b9fcdb98810f974f5bc7b10b7cf73b40",
+        "revision_4_actual_sha256": "633acac573cd7a8bd044cbaa890870f230c66205d90d54e47ff92920eaa649d2",
+        "unchanged": false
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "scope_spans": 3,
+        "revision_3_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+        "revision_4_actual_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "scope_spans": 3,
+        "revision_3_sha256": "c83b997807408a760bb842057c2b0ee3af3c8afa09af7cd7aa2671babcd85d77",
+        "revision_4_actual_sha256": "1264e1b52575b16c748b85f3822e8bfed44823c57e913d474df331aea2936195",
+        "unchanged": false
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "scope_spans": 4,
+        "revision_3_sha256": "cec5f384ea2339266252b66871e51f1d73f9aeeb89150247e24e3924cdb44e1e",
+        "revision_4_actual_sha256": "cec5f384ea2339266252b66871e51f1d73f9aeeb89150247e24e3924cdb44e1e",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "scope_spans": 11,
+        "revision_3_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+        "revision_4_actual_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+        "scope_spans": 4,
+        "revision_3_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+        "revision_4_actual_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+        "unchanged": true
+      }
+    ],
+    "scope_projections_unchanged": 6,
+    "scope_projections_changed_and_rebound": 2,
+    "r008_corresponding_scope_notes_all_unchanged": false,
+    "scope_changes_approved_after_actual_reread": true,
+    "boundary_280_sha_unchanged": true
+  },
+  "closed_suggestions": [
+    {
+      "id": "R008-B29-WB01",
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "new": "| D147／283 | 六层外堤寄工具→七层候船边区→六层→五层值桌 |",
+      "candidate_quote": "| D147／283 | 六层外堤寄工具→七层候船边区→六层→五层值桌 | 五人含领路工人按回条登记；钱婶自报；见板裂栏倾及外堤检修布局，家属发运旧联待核 | 候核≠船位；七层板险尚未修，无梁可挪；扳手寄外堤 |",
+      "body_evidence": {
+        "chapter": 283,
+        "quote": "回到五层时，拉料又少了一班。"
+      },
+      "reason": "新位置链与283末段返回五层记延期吻合，未改D147或中途六层；与284五层取纸起点连贯。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "note": "revision4按当前候选核old仍0次、new仍唯一、候选及正文关闭原句仍在；原六项未撤回。其他组日志的提案状态不由B29代关。",
+      "rechecked_freeze_revision": 4
+    },
+    {
+      "id": "R008-B29-WB02",
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "new": "| 283 | D147；六层外堤→七层候船边区→六层→五层值桌 |",
+      "candidate_quote": "| 283 | D147；六层外堤→七层候船边区→六层→五层值桌 | 陶继先在外堤寄扳手；林渡与陶家随领路原工按回条过门；区分在岗核验、家属候核、实发船位；钱婶自报身份 | 七层深色横板开裂、栏脚倾斜只封一段，未修梁；六层排水口方轴／止动／排沟先露；普通候核纸没有船位，旧联却写家属已发运 |",
+      "body_evidence": {
+        "chapter": 283,
+        "quote": "回到五层时，拉料又少了一班。"
+      },
+      "reason": "逐章卡与时间线现均补齐六层后返五层，未把写前执行卡的简略路线误作实录。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "note": "revision4按当前候选核old仍0次、new仍唯一、候选及正文关闭原句仍在；原六项未撤回。其他组日志的提案状态不由B29代关。",
+      "rechecked_freeze_revision": 4
+    },
+    {
+      "id": "R008-B29-WB03",
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "new": "临时比字条送旧灶销毁；原半页与送人者署名的核验抄页仍由祝衡私存，只供两家核问；两条旧失联空行保留",
+      "candidate_quote": "| 祝衡 | 五层值桌／公议处，守原件不跟上坡 | 左腿伤加重持续、起身扶桌，翻页须歇；三行半页包在干净纸中保管，核验抄页／检修责任／公开册沿原 | 两行主名已核为优先家属关系与送抵，一行未认；不公开整名，不补海上安全或死亡；临时比字条送旧灶销毁；原半页与送人者署名的核验抄页仍由祝衡私存，只供两家核问；两条旧失联空行保留 |",
+      "body_evidence": {
+        "chapter": 284,
+        "quote": "祝衡先将原半页与送人者署名的核验抄页包好，放回原格，叮嘱仍只供两家核问；那张比字条则交给戊字一送到旧灶。"
+      },
+      "reason": "销毁的是临时比字条，原半页与署名核验抄页私存；不再用“核验小纸”混称两种不同物件。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "note": "revision4按当前候选核old仍0次、new仍唯一、候选及正文关闭原句仍在；原六项未撤回。其他组日志的提案状态不由B29代关。",
+      "rechecked_freeze_revision": 4
+    },
+    {
+      "id": "R008-B29-WB04",
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "new": "本批仅承接挂签数号、旧收条排法与缺角描样提供的待核运输关联；不将其登记为武器供货与撤离实运链已坐实，不因同类缺角印认同一实印／全部共谋",
+      "candidate_quote": "| F11／教团上城区制式武器供货 | 故意保留；本批未获新武器实物或供货原件 | 本批仅承接挂签数号、旧收条排法与缺角描样提供的待核运输关联；不将其登记为武器供货与撤离实运链已坐实，不因同类缺角印认同一实印／全部共谋 | 供货签发归属与军用用途按既定卷段取证，本卷不解释武器原理 |",
+      "body_evidence": {
+        "chapter": 290,
+        "quote": "海峡武器站的名字他们也早知道，名字本身不能说明这车载了谁、哪道门放了行。下一张问页要从实装记录开始，三行半页里剩下的那个人，也仍只准私下认。"
+      },
+      "reason": "旧A19 F11不再把供货与撤离实运链当已坐实；与末尾F11权限及290仍待实装记录对齐；未审签A18历史。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "note": "revision4按当前候选核old仍0次、new仍唯一、候选及正文关闭原句仍在；原六项未撤回。其他组日志的提案状态不由B29代关。",
+      "rechecked_freeze_revision": 4
+    },
+    {
+      "id": "R008-B29-WB05",
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "new": "当班工人留存的发运交接联，列主名、所属家属类别、当批编号及送抵七层口的时间、接收者；只证送抵，不证登船离港或远海目的地",
+      "candidate_quote": "| 凭单 | 转运存根 | 当班工人留存的发运交接联，列主名、所属家属类别、当批编号及送抵七层口的时间、接收者；只证送抵，不证登船离港或远海目的地 | 实运全册、完整撤离名册 |",
+      "body_evidence": {
+        "chapter": 284,
+        "quote": "存根的纸比半页名单薄，一页上分成发运与接收两栏。发运栏写主名、所属家属类别、当批编号；接收栏写交到七层哪一道口、何时交到，由接手者落名。没有远海去处，也没有后续到港字。"
+      },
+      "reason": "存根字段与284实际发运/接收两栏相符，列主名、类别、批号和交接记录；证据上限仍只是送抵。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "note": "revision4按当前候选核old仍0次、new仍唯一、候选及正文关闭原句仍在；原六项未撤回。其他组日志的提案状态不由B29代关。",
+      "rechecked_freeze_revision": 4
+    },
+    {
+      "id": "R008-B29-WB06",
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "new": "284两户家属送抵七层口（不证登船离港）；本卷无正式叛徒判决",
+      "candidate_quote": "| 三 | 225：亲见赫连真实救库与排除逻辑并存 | 250：删人停止后真实供给缺口暴露 | 275：教团供货批次与撤离物资相连 | 300：证实运输和利益链，官方断运 | 206制式武器；210空街；284两户家属送抵七层口（不证登船离港）；本卷无正式叛徒判决，只写拒交载体与合作条件收紧 |",
+      "body_evidence": {
+        "chapter": 284,
+        "quote": "“已经从候船边区转到登船口。”祝衡说，“后续有没有离港、到哪儿，这两张纸还不能证。”"
+      },
+      "reason": "关键索引已写两户送抵及不证登船离港，与A19实录一致；原写前规划明确留为规划，不用它反证当前稿。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "note": "revision4按当前候选核old仍0次、new仍唯一、候选及正文关闭原句仍在；原六项未撤回。其他组日志的提案状态不由B29代关。",
+      "rechecked_freeze_revision": 4
+    }
+  ],
+  "actual_closure_reasons": [
+    {
+      "name": "阿九免夜／280→281接口",
+      "verdict": "pass",
+      "reason": "新280观察来源是原班守岗者，阿九仅桌边转述；不再派免夜的伤腿阿九夜巡。A19人物台账“不再顶夜班”、资源台账“不接夜班”及281/282正文限制保持；相邻A18/A20同名限制仅作既有约束接口对照，不签两篇正文。",
+      "evidence": [
+        {
+          "chapter": 280,
+          "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+          "quote": "天亮以前，原班守岗的人捎回了坡口的消息。阿九坐在桌边，把话转述给林渡。",
+          "signed": false,
+          "use": "boundary interface only; no chapter approval"
+        },
+        {
+          "chapter": 281,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第281章_班上还有他的名字.md",
+          "quote": "自己离开的这一小段，由老陈守板，阿九只负责换撑头，不再兼夜巡。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 282,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第282章_做满这一旬.md",
+          "quote": "阿九蹲在车边磨钝掉的锯齿，左腿平放着，不能再替他顶夜班。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        }
+      ]
+    },
+    {
+      "name": "D144检楔／D145新耗",
+      "verdict": "pass",
+      "reason": "280只检原位楔仍紧留用，墙根旧楔来自先前；281日内出现断角深色的新状态，现锯2片占棚顶份并记账，短撑仍留。没有把D145新耗提前扣进D144，也没有清除四笔候料。",
+      "evidence": [
+        {
+          "chapter": 280,
+          "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+          "quote": "阿九检查了楔尾，两片仍卡得紧，便留在原位。先前换下来的旧楔靠在墙根",
+          "signed": false,
+          "use": "boundary interface only; no chapter approval"
+        },
+        {
+          "chapter": 281,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第281章_班上还有他的名字.md",
+          "quote": "檐板料剩不足半摞。阿九挑出一截纹路顺的，用旧锯现锯两片。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 281,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第281章_班上还有他的名字.md",
+          "quote": "戊字一拿来候料页，在棚顶两处那一笔旁记了两片楔料。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        }
+      ]
+    },
+    {
+      "name": "水额、逐班让份与末班水",
+      "verdict": "pass",
+      "reason": "原80申请/60实到/20缺；新3成人足额3壶+幼童0.5增加申请至83.5、缺23.5。15成人每班各让0.5标准勺=2.5壶，37.5旧成人+20病幼+2新成人+0.5新童=60；旧工末班2.5在286前用完，不生第七桶、不合并日总耗或强迫永久让份。",
+      "evidence": [
+        {
+          "chapter": 286,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第286章_半勺写在谁的名下.md",
+          "quote": "戊字一把数读出来：原十五人各一勺半，四十五人各两勺，原成人共三十七壶半；新三成人共两壶，小满半壶，病幼旧二十壶，仍是六十。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 286,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第286章_半勺写在谁的名下.md",
+          "quote": "十五行让份只够今天这一班。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        }
+      ]
+    },
+    {
+      "name": "11口与285新增4",
+      "verdict": "pass",
+      "reason": "282从8核3待到9核2待；285只有陶家3和另计钱婶实到，原11余8未迁=6核2待；不把钱婶挤进原11、不把小满并进旧17孩子，照护与旧病幼额未变。",
+      "evidence": [
+        {
+          "chapter": 282,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第282章_做满这一旬.md",
+          "quote": "从八口到九口，次批五户十一口还差两口。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 288,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+          "quote": "陶家三口这次实到，另外八口还没有下迁，其中六口虽核上也还在原住区。钱婶另列临时安置，不塞进五户的数。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        }
+      ]
+    },
+    {
+      "name": "287阀未开、责任与领水分开",
+      "verdict": "pass",
+      "reason": "止动/卡柄/本人卸柄链与伤势限制保持；“工具给你”明示陶继，暂收扳手与外堤停岗仍留责任，未开阀不抹企图，停岗不扣整户水份，退出合作者仍在旧册。",
+      "evidence": [
+        {
+          "chapter": 287,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第287章_先从沟里退出来.md",
+          "quote": "“工具给你。”陶继说。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 287,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第287章_先从沟里退出来.md",
+          "quote": "原工把两人的判断各写在检修页上，未开阀、未失水、未伤库体，工具柄新划痕另记。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 287,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第287章_先从沟里退出来.md",
+          "quote": "他将“未开阀”那行念给林渡，另报停岗只限外堤，配水支路仍照常，不把检修责任扩成整户停水。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        }
+      ]
+    },
+    {
+      "name": "私存原件／有限公开／未知仍未知",
+      "verdict": "pass",
+      "reason": "已复核唯一变动的两栏尾注：核前暂不公开不等于永禁核后有限公开；284原半页与署名核验抄页私存、只烧临时比字条；只证两户送抵不证离港，第三名、妹妹、旧失联及完整供货链仍无结论；289回捎无送达回执。",
+      "evidence": [
+        {
+          "chapter": 280,
+          "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+          "quote": "“所以两栏都先压在册子里。”林渡说，“写，是给我们自己看的。什么时候能摆出去，是核到哪天算哪天。”",
+          "signed": false,
+          "use": "boundary interface only; no chapter approval"
+        },
+        {
+          "chapter": 284,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+          "quote": "祝衡依旧不贴整页。他在公开两栏旁写一段不带名字的话：已核两户优先家属，在留守复核前送抵七层登船口；普通留守与退工者仍在候船边区，无实发船位。下方分列亲属认名、工人见送，海上去处留空。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 288,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+          "quote": "原名不公开，核验日期和见证范围公开，由他守原件，愿意认错字的人可到值桌再问。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        }
+      ]
+    },
+    {
+      "name": "290两板待装非实收",
+      "verdict": "pass",
+      "reason": "三短一长只验得2块非承重补顶料，仍六层待核装；拟补第二漏棚，第一户异议留册；实收/安装/余班使用均未发生。运输常班将撤不等于冷却支路停水；房车四层、旧路未核通，伤势设备资源无复原。",
+      "evidence": [
+        {
+          "chapter": 290,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+          "quote": "两块仍在料场，不盖五层的实收印。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        },
+        {
+          "chapter": 290,
+          "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+          "quote": "两块顶板待在六层，水也没有第七桶。",
+          "signed": true,
+          "use": "A19 actual manuscript"
+        }
+      ]
+    }
+  ],
+  "boundary_280": {
+    "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+    "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+    "signed": false,
+    "review_use": "v2已读全文作281入口；v4确认正文同SHA，并重读两栏暂不公开/来源私留及印样分源片段，不签280全文。免夜与D144检旧楔/D145新耗接口未变。",
+    "evidence": [
+      {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "quote": "天亮以前，原班守岗的人捎回了坡口的消息。阿九坐在桌边，把话转述给林渡。",
+        "signed": false,
+        "use": "boundary interface only; no chapter approval"
+      },
+      {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "quote": "阿九检查了楔尾，两片仍卡得紧，便留在原位。先前换下来的旧楔靠在墙根",
+        "signed": false,
+        "use": "boundary interface only; no chapter approval"
+      },
+      {
+        "chapter": 280,
+        "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+        "quote": "“所以两栏都先压在册子里。”林渡说，“写，是给我们自己看的。什么时候能摆出去，是核到哪天算哪天。”",
+        "signed": false,
+        "use": "boundary interface only; no chapter approval"
+      }
+    ]
+  },
+  "revision_2_delta_scope_check": {
+    "v1_report_was_written": false,
+    "observed_v1_candidate_sha256": {
+      "人物状态台账.md": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "资源与时间台账.md": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "伏笔与悬念台账.md": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "事件与地点时间线.md": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "术语与命名表.md": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "术语词典.md": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "逐章卡.md": "639cecc8f5abc604e9684797c0202a8fbf56d5ed07cad0f9becbdb32fee7f158",
+      "十章篇章卡.md": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716"
+    },
+    "changed_files": [
+      "逐章卡.md"
+    ],
+    "other_7_actual_sha_unchanged": true,
+    "A19_card_section_and_10_R008_rows_unchanged": true,
+    "writer_described_change": "仅逐章卡256代价栏：邵家四趟七八天，不误用260两家五六天；其余七文件字节未变。B26正文256同章抬者前一后一及出门方向另有局部改字，待独立复核。",
+    "scope_decision": "本轮读取256代价行仅定位变更，不审签256正文或其估时；确认逐章卡A19实录和281—290校准原文仍与已审快照相同后绑定revision2实际SHA。没有把主笔的256正文另改声明当作本读者已审。"
+  },
+  "issues": [],
+  "suggested_edits": [],
+  "blockers": [],
+  "summary": {
+    "candidate_files_bound": 8,
+    "freeze_revision": 4,
+    "previous_suggestions_still_closed": 6,
+    "in_scope_open_issues": 0,
+    "body_changed": false,
+    "external_chapters_signed": 0,
+    "full_history_audit": false,
+    "exact_diff_steps_verified": 10,
+    "changed_candidates_vs_revision_3": 4,
+    "unchanged_candidates_vs_revision_3": 4,
+    "main_A19_sections_unchanged": 7,
+    "scope_spans_unchanged_vs_revision_3": 38,
+    "scope_spans_changed_and_reread": 2,
+    "scope_projections_unchanged_vs_revision_3": 6,
+    "scope_projections_changed_and_rebound": 2
+  },
+  "supersedes_pending_freeze_status_of": "harness/maintenance/R008/B29/recovery-writeback-final.json",
+  "not_publication_approval": true,
+  "writes": [
+    "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v3.json",
+    "harness/maintenance/R008/B29/writeback-freeze-review.json"
+  ],
+  "body_or_candidates_modified": false,
+  "protected_B29_reports_sha256_before_write": {
+    "harness/maintenance/R008/B29/recovery-writeback-review.md": "cd5d78cd5f8c0bb87073866ceea365323d5a265fe166cd0c58e499c3083eddc3",
+    "harness/maintenance/R008/B29/final-suggested-edits.json": "95f59f30efd13ba7529d6bf81688daec3a6148d13ca972b045354eb8fc2dd245",
+    "harness/maintenance/R008/B29/initial.md": "0f2bba6779164e20c1b2fe6b69bac14e23dc1e7b884d5ba42992a7f5a584aeeb",
+    "harness/maintenance/R008/B29/recovery-body-first.md": "579906b626e99e7909f6fb1ff6b1574c4b576bee852010ad5be1d95046598d92",
+    "harness/maintenance/R008/B29/initial-manifest.json": "b6587b4bc35351f53256699154159e0082c38fbf01b000c95bcbd8813e9ec7ff",
+    "harness/maintenance/R008/B29/recovery-writeback-suggestions.json": "64e875eb7a34dce2746fac8686875852922afb2887bf1770aaced93d96e49665",
+    "harness/maintenance/R008/B29/backfill-suggestions.md": "0c6c99a41b3b6abc458f728e85e713648b53059e63ae1a78f26805d719c852cb",
+    "harness/maintenance/R008/B29/reader-review.json": "31998148a52ee1259e294c643b3522b20df32d19f17b071254856ac5886150cb",
+    "harness/maintenance/R008/B29/final-manifest.json": "2f01a1722a72018143936647be65ba80a6c9db9b2f3d1e40d0fed10f7a1051db",
+    "harness/maintenance/R008/B29/recovery-validation.json": "c7b780b3185740808332c0c9a783d8c69f76de36db34ec2e5daa70f6132f6752",
+    "harness/maintenance/R008/B29/pre-recovery-final.json": "13b121593eaf9fa036f9bcdf70202337c03472b2d3888039ba6f4ec1847b0648",
+    "harness/maintenance/R008/B29/recovery-writeback-final.json": "6f60b83b1e93a52cb3436bb6bcae158c5192a7cb6eabe35be0121d15eb9f107a",
+    "harness/maintenance/R008/B29/body-first.md": "f5a72ee761d71f9a2837a76072fd7c9ef4d59aa3bd4c3b07928a242998f1b3ae",
+    "harness/maintenance/R008/B29/final.md": "6e465476941abdc697e45b1339127f6ca3be86dd817b30c05ff638c9ff9e306f",
+    "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v2.json": "00871ba3dc9538ce30887b803b7f59b17877e1eae959456ea735429759adb29c",
+    "harness/maintenance/R008/B29/suggested-edits.json": "7d8b5ebd484d763fbd26a7ceed18d331fb9a9d17147763164e32a95985022919",
+    "harness/maintenance/R008/B29/recovery-final.md": "7a4bcf1848fa4240e2208d159c466ad660a1b221863120fc877637e2a40cdc48",
+    "harness/maintenance/R008/B29/final.json": "304a47edf1d83094a56a8086cba237d35fae2f8fd75dad26107638c619337bb7",
+    "harness/maintenance/R008/B29/applied-edits.json": "9c38fb67b3ef646bd70933e3ee9c9f4a6b09992063adba3416ff3b3a463c12f8",
+    "harness/maintenance/R008/B29/pre-recovery-reader-review.json": "b9c8789f28122ae80bc209aa3b9a1b7db1954a96daa249c902a5f55cc4dd1b72",
+    "harness/maintenance/R008/B29/initial.json": "2847a073cad40ec48b4704066cd66845aba7442c2cbe23a56360ae6e60fee881",
+    "harness/maintenance/R008/B29/pre-recovery-final-manifest.json": "24883b191f2a91071b2910403f06be3c3af98d8183f114eba09c404caf67dbe9",
+    "harness/maintenance/R008/B29/pre-recovery-final.md": "6e465476941abdc697e45b1339127f6ca3be86dd817b30c05ff638c9ff9e306f",
+    "harness/maintenance/R008/B29/recovery-applied-edits.json": "95f59f30efd13ba7529d6bf81688daec3a6148d13ca972b045354eb8fc2dd245",
+    "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v3.json": "0219f4029d9e02b204b39a6c6cedcd66497956818c722387e2b7881e37fa1bcb"
+  },
+  "revision_2_prefreeze_comparison": {
+    "baseline": "harness/maintenance/R008/B29/recovery-writeback-final.json",
+    "baseline_sha256": "6f60b83b1e93a52cb3436bb6bcae158c5192a7cb6eabe35be0121d15eb9f107a",
+    "main_A19_sections_compared": 7,
+    "main_A19_sections_unchanged": 7,
+    "scope_spans_compared": 40,
+    "unchanged": 39,
+    "changed_and_reread": 1,
+    "changes": [
+      {
+        "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "selector": {
+          "type": "fragment_in_section",
+          "section_heading": "## R008语义校准（251—300）",
+          "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+        },
+        "old": "| 两栏不写来处 | 不公开取纸人、核认家属；祝衡私存半页原件和出处 | 不留任何来历而仍声称证据可追溯 |",
+        "new": "| 两栏不写来处 | 两栏本身也暂不对外；不抄能牵出送信、取纸、认名人的来历。私存原信、原收条两面、两家既有核认与老崔证词，来源分开可核，不因整理毁掉 | 不留任何来历而声称证据可追溯；只藏外包装却公开两栏；把两家认名或证词写成撤离去向 |",
+        "old_sha256": "112d0763d685fadb35c11f4c50b82840541b5ba7d2dace367597469a455e49b1",
+        "new_sha256": "90519bd1f7707a19069d359d05ac41efdbded3ab60d0d0817a64d4c90444afd3",
+        "verdict": "pass",
+        "reason": "新说明的“暂不对外”对应280核证前暂存两栏，不是永久禁止披露已核无名结论；280明说何时可摆取决于核到哪天。284经存根/见证/亲属互证后，只公布两户送抵范围的无名结论，288仍原名不公开、原件由祝衡守。私存来源不毁与284仅烧临时比字条一致。已亲读此变化，未把40片段全部写成未变。",
+        "evidence": [
+          {
+            "chapter": 280,
+            "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+            "quote": "“所以两栏都先压在册子里。”林渡说，“写，是给我们自己看的。什么时候能摆出去，是核到哪天算哪天。”",
+            "signed": false,
+            "use": "boundary interface only; no chapter approval"
+          },
+          {
+            "chapter": 284,
+            "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+            "quote": "祝衡依旧不贴整页。他在公开两栏旁写一段不带名字的话：已核两户优先家属，在留守复核前送抵七层登船口；普通留守与退工者仍在候船边区，无实发船位。下方分列亲属认名、工人见送，海上去处留空。",
+            "signed": true,
+            "use": "A19 actual manuscript"
+          },
+          {
+            "chapter": 288,
+            "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+            "quote": "原名不公开，核验日期和见证范围公开，由他守原件，愿意认错字的人可到值桌再问。",
+            "signed": true,
+            "use": "A19 actual manuscript"
+          }
+        ]
+      }
+    ],
+    "r008_corresponding_notes_rescanned": true,
+    "scope_changes_approved_after_reread": true,
+    "historical_only": "这是v2相对回填初次通过的39未变／1重读记录，不是v3新增变化。"
+  },
+  "actual_closure_reasons_binding": {
+    "origin": "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v3.json",
+    "origin_sha256": "0219f4029d9e02b204b39a6c6cedcd66497956818c722387e2b7881e37fa1bcb",
+    "status": "original_six_B29_closures_and_seven_fact_boundary_reasons_retained",
+    "note": "下列既有闭环理由来自本人前轮正文实读；v4重新核全部原句仍在，并对变化的两处范围说明另列窄语义结论，不冒称重做全篇审读。",
+    "actual_quotes_rechecked": 18
+  },
+  "revision_3_delta_scope_check": {
+    "application_log": "harness/maintenance/R008/B27/recovery-writeback-label-applied.json",
+    "application_log_sha256": "046cde90d109cfda1d24f2bc90aae25978eb70334f8e8bda1f29533d495b71e8",
+    "application_id": "B27-WF-L01",
+    "changed_files": [
+      "harness/maintenance/R008/writeback-candidates/逐章卡.md"
+    ],
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "section": "## A17批实录（261—270《留在桌上的译页》，D125—D134）",
+    "line": 228,
+    "old": "- 人手足：照护夜班三班不动；守夜与凝水一个不抽；",
+    "new": "- 人手／岗位：照护夜班三班不动；守夜与凝水一个不抽；",
+    "old_full_line": "- 人手足：照护夜班三班不动；守夜与凝水一个不抽；核人半班在D132并入照护；修管班四人仍全给搬运；弥娅离队后核证（看汽看缝）一岗由林渡自顶（白班看板、夜班守核证位、回话祝衡记）；岑野半班信使、麦穗白天管翻身；祝衡守账不动、左腿伤加重仍扶桌写字；丁字三转抄页与对旧册。",
+    "new_full_line": "- 人手／岗位：照护夜班三班不动；守夜与凝水一个不抽；核人半班在D132并入照护；修管班四人仍全给搬运；弥娅离队后核证（看汽看缝）一岗由林渡自顶（白班看板、夜班守核证位、回话祝衡记）；岑野半班信使、麦穗白天管翻身；祝衡守账不动、左腿伤加重仍扶桌写字；丁字三转抄页与对旧册。",
+    "unified_diff": "--- revision2/逐章卡.md\n+++ revision3/逐章卡.md\n@@ -228 +228 @@\n-- 人手足：照护夜班三班不动；守夜与凝水一个不抽；核人半班在D132并入照护；修管班四人仍全给搬运；弥娅离队后核证（看汽看缝）一岗由林渡自顶（白班看板、夜班守核证位、回话祝衡记）；岑野半班信使、麦穗白天管翻身；祝衡守账不动、左腿伤加重仍扶桌写字；丁字三转抄页与对旧册。\n+- 人手／岗位：照护夜班三班不动；守夜与凝水一个不抽；核人半班在D132并入照护；修管班四人仍全给搬运；弥娅离队后核证（看汽看缝）一岗由林渡自顶（白班看板、夜班守核证位、回话祝衡记）；岑野半班信使、麦穗白天管翻身；祝衡守账不动、左腿伤加重仍扶桌写字；丁字三转抄页与对旧册。\n",
+    "old_occurrences_in_current": 0,
+    "new_occurrences_in_current": 1,
+    "actual_before_sha256_proved_by_in_memory_reverse_replacement": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+    "revision_2_bound_sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+    "actual_after_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+    "reverse_reconstruction_matches_revision_2": true,
+    "other_7_actual_sha_unchanged": true,
+    "post_colon_full_line_unchanged": true,
+    "A19_all_40_scope_spans_unchanged": true,
+    "A19_all_8_scope_projections_unchanged": true,
+    "B29_all_10_manuscripts_unchanged": true,
+    "boundary_280_unchanged": true,
+    "A17_full_text_reviewed_or_signed": false,
+    "reason": "原标签“人手足”仅换为中性“人手／岗位”；冒号后岗位、缺班等整行原文一字未变。对当前文件仅逆替这一处即可复得v2全文件SHA，独立证实无第二处候选差异；A19范围投影及正文绑定均未变，六项关闭继续成立。A17只定位标签，不评价或批准其剧情、资源或人手事实。",
+    "verdict": "pass"
+  },
+  "history": {
+    "revision_2_report": "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v2.json",
+    "revision_2_report_sha256": "00871ba3dc9538ce30887b803b7f59b17877e1eae959456ea735429759adb29c",
+    "revision_3_report": "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v3.json",
+    "revision_3_report_sha256": "0219f4029d9e02b204b39a6c6cedcd66497956818c722387e2b7881e37fa1bcb",
+    "revision_3_reviewed_at": "2026-11-10T09:51:40.812798+08:00",
+    "preservation": "all prior reports retained; v3 backup is byte-identical, not reserialized"
+  },
+  "revision_3_comparison": {
+    "baseline": "harness/maintenance/R008/B29/recovery-writeback-freeze-review-v2.json",
+    "baseline_sha256": "00871ba3dc9538ce30887b803b7f59b17877e1eae959456ea735429759adb29c",
+    "baseline_revision": 2,
+    "current_revision": 3,
+    "main_A19_sections_compared": 7,
+    "main_A19_sections_unchanged": 7,
+    "scope_spans_compared": 40,
+    "unchanged": 40,
+    "changed_and_reread": 0,
+    "changes": [],
+    "scope_projection_algorithm": "sha256(json.dumps([{kind, selector, sha256} for each saved scope span in original order], ensure_ascii=False, sort_keys=True).encode('utf-8'))",
+    "scope_projections": [
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "scope_spans": 4,
+        "revision_2_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+        "revision_3_actual_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "scope_spans": 7,
+        "revision_2_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+        "revision_3_actual_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "scope_spans": 4,
+        "revision_2_sha256": "a7fa35750d74e70309cda4df874d65a9b9fcdb98810f974f5bc7b10b7cf73b40",
+        "revision_3_actual_sha256": "a7fa35750d74e70309cda4df874d65a9b9fcdb98810f974f5bc7b10b7cf73b40",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "scope_spans": 3,
+        "revision_2_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+        "revision_3_actual_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "scope_spans": 3,
+        "revision_2_sha256": "c83b997807408a760bb842057c2b0ee3af3c8afa09af7cd7aa2671babcd85d77",
+        "revision_3_actual_sha256": "c83b997807408a760bb842057c2b0ee3af3c8afa09af7cd7aa2671babcd85d77",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "scope_spans": 4,
+        "revision_2_sha256": "cec5f384ea2339266252b66871e51f1d73f9aeeb89150247e24e3924cdb44e1e",
+        "revision_3_actual_sha256": "cec5f384ea2339266252b66871e51f1d73f9aeeb89150247e24e3924cdb44e1e",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "scope_spans": 11,
+        "revision_2_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+        "revision_3_actual_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+        "unchanged": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+        "scope_spans": 4,
+        "revision_2_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+        "revision_3_actual_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+        "unchanged": true
+      }
+    ],
+    "r008_corresponding_scope_notes_unchanged": true,
+    "boundary_280_sha_unchanged": true,
+    "historical_only": "v3相对v2的40片段未变记录；不得拿它代替v4的38未变/2重读。"
+  },
+  "narrow_semantic_reviews": [
+    {
+      "id": "two_columns_source_retention",
+      "diff_ids": [
+        "RB28-W054",
+        "RB28-W056"
+      ],
+      "verdict": "pass",
+      "scope": "A19之前的280核证入口与284/288已核披露衔接，不签280全文",
+      "reason": "两栏本身在280核证前暂不对外，栏上不抄敏感来历，不是仅遮原纸包装，也不是永久禁止匿名结论。284另有存根/证人/家属互证后只公布不带名的有限送抵结论，288原名仍不公开。原信、原收条、既有核认与证词私留分源不毁，与284仅烧临时比字条、保留原半页及署名核验抄页相容；不把两家认名倒签为280已核撤离去向。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+          "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+          "line": 101,
+          "quote": "“所以两栏都先压在册子里。”林渡说，“写，是给我们自己看的。什么时候能摆出去，是核到哪天算哪天。”",
+          "signed": false,
+          "use": "boundary excerpt only; no chapter signoff",
+          "chapter": 280
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+          "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+          "line": 103,
+          "quote": "两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到",
+          "signed": false,
+          "use": "boundary excerpt only; no chapter signoff",
+          "chapter": 280
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+          "sha256": "b0712b78e52374c0e58899532254e2280daa7615d4a3904e2de17abb327002a7",
+          "line": 87,
+          "quote": "祝衡依旧不贴整页。他在公开两栏旁写一段不带名字的话：已核两户优先家属，在留守复核前送抵七层登船口；普通留守与退工者仍在候船边区，无实发船位。下方分列亲属认名、工人见送，海上去处留空。",
+          "signed": true,
+          "use": "A19 actual manuscript",
+          "chapter": 284
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+          "sha256": "b0712b78e52374c0e58899532254e2280daa7615d4a3904e2de17abb327002a7",
+          "line": 95,
+          "quote": "祝衡先将原半页与送人者署名的核验抄页包好，放回原格，叮嘱仍只供两家核问；那张比字条则交给戊字一送到旧灶。",
+          "signed": true,
+          "use": "A19 actual manuscript",
+          "chapter": 284
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+          "sha256": "424bc46dae940929b66c7970986d83d7fee4e46e4be65dad706ad5da6aeccee0",
+          "line": 33,
+          "quote": "原名不公开，核验日期和见证范围公开，由他守原件，愿意认错字的人可到值桌再问。",
+          "signed": true,
+          "use": "A19 actual manuscript",
+          "chapter": 288
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+          "sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+          "line": 275,
+          "quote": "| 两栏不写来处 | 两栏本身也暂不对外；不抄能牵出送信、取纸、认名人的来历。私存原信、原收条两面、两家既有核认与老崔证词，来源分开可核，不因整理毁掉 | 不留任何来历而声称证据可追溯；只藏外包装却公开两栏；把两家认名或证词写成撤离去向 |",
+          "signed": false,
+          "use": "existing same-scope v3 terminology boundary"
+        }
+      ]
+    },
+    {
+      "id": "stamp_shape_not_physical_mould_source",
+      "diff_ids": [
+        "RB28-W057",
+        "RB28-W058",
+        "RB28-W059"
+      ],
+      "verdict": "pass",
+      "scope": "仅核印样术语对A19运输线索的知识权限；不签A18全文或早期印章出场史",
+      "reason": "以正式术语原行优先：保留同模、同类及缺角模制而非磕损的形制事实；新增括注限定同模为所见印样/缺角形制相同，没有删掉正式事实，也没有验明同一件实体模具、制印者或供货源。与275相容性片段及280残数未全、不可推同批一致。290仍需从实装记录追问，未把缺角、站名、车箱与人员拼成完整运输或武装链；第三名仍限私核。",
+      "evidence": [
+        {
+          "path": "异星录/04_连续性管理/术语与命名表.md",
+          "sha256": "0370b6dcb62ab573da5fba399b5653a69bc5cd8605e085ceb1056d8ecc8111f5",
+          "line": 199,
+          "quote": "各处只写到缺角落在同一角，能证到同模、同类，不能认定为同一枚实印，也不能据此判定它归哪条线、哪本账；支料那枚磨角章与各处所见半印、缺角圆印是否同源，正文未定",
+          "signed": false,
+          "use": "formal terminology fact-priority excerpt only; no historical chapter signoff"
+        },
+        {
+          "path": "异星录/04_连续性管理/术语词典.md",
+          "sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+          "line": 71,
+          "quote": "缺角是模子上带的，边齐、回回在一角。缺角同在一角只证到同模、同类，不等于同一枚实印、不等于同一条线；支料那枚磨角章与各处所见半印、缺角圆印是否同源，正文未定",
+          "signed": false,
+          "use": "formal terminology fact-priority excerpt only; no historical chapter signoff"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+          "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+          "line": 19,
+          "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”",
+          "signed": false,
+          "use": "related terminology compatibility excerpt only; not a full reread or chapter signoff",
+          "chapter": 275
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+          "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+          "line": 59,
+          "quote": "缺角只够认同类，残数也没对全，不能把它们算作同一批。眼下接得上的，是阿九看见验箱换签后，车上了转运坡这一段。",
+          "signed": false,
+          "use": "boundary excerpt only; no chapter signoff",
+          "chapter": 280
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+          "sha256": "8b5f4e13065cbe7bc5e58cae9a6a18021e4f951c15f892626682712d10194dac",
+          "line": 97,
+          "quote": "阿九早前留的缺角描样，还压在祝衡的纸包下面。海峡武器站的名字他们也早知道，名字本身不能说明这车载了谁、哪道门放了行。下一张问页要从实装记录开始，三行半页里剩下的那个人，也仍只准私下认。",
+          "signed": true,
+          "use": "A19 actual manuscript",
+          "chapter": 290
+        }
+      ]
+    }
+  ],
+  "revision_4_delta_scope_check": {
+    "logs": [
+      {
+        "path": "harness/maintenance/R008/B26/recovery-freeze4-applied-edits.json",
+        "sha256": "55a7160dbf034e6edb08cc061f60dd992803c0c63c7ba4fa461d26b52d321d34"
+      },
+      {
+        "path": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+        "sha256": "a2808ab47a0b343ba338c2d9c9a08f2e27444addf82287d712e22ca020e3ae89"
+      }
+    ],
+    "total_exact_edits": 10,
+    "changed_candidates": [
+      "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "harness/maintenance/R008/writeback-candidates/逐章卡.md"
+    ],
+    "unchanged_candidates": [
+      "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "harness/maintenance/R008/writeback-candidates/十章篇章卡.md"
+    ],
+    "reverse_file_chains": [
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "edit_ids_in_application_order": [
+          "RB28-W059"
+        ],
+        "revision_3_bound_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+        "reverse_reconstructed_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+        "revision_4_actual_sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+        "exact_reverse_chain_matches": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "edit_ids_in_application_order": [
+          "RB28-W054",
+          "RB28-W058"
+        ],
+        "revision_3_bound_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+        "reverse_reconstructed_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+        "revision_4_actual_sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+        "exact_reverse_chain_matches": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "edit_ids_in_application_order": [
+          "RB28-W057"
+        ],
+        "revision_3_bound_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+        "reverse_reconstructed_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+        "revision_4_actual_sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+        "exact_reverse_chain_matches": true
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "edit_ids_in_application_order": [
+          "R008-B26-WB45",
+          "R008-B26-WB46",
+          "R008-B26-WB47",
+          "R008-B26-WB48",
+          "RB28-W055",
+          "RB28-W056"
+        ],
+        "revision_3_bound_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+        "reverse_reconstructed_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+        "revision_4_actual_sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+        "exact_reverse_chain_matches": true
+      }
+    ],
+    "edit_checks": [
+      {
+        "id": "R008-B26-WB45",
+        "log": "harness/maintenance/R008/B26/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "old": "- 下迁落地：第一批九口（五个卧床＋四个七岁以下）全部下到五层，原号不销、门禁片不交、门牌仍留、住址变更一栏空着等柜上；次批五户十一口对旧册出结果——八口对上、三口待核，其中两口同址两户（一个门牌两个号）。下迁不是注销。",
+        "new": "- 下迁落地：第一批九口（五个卧床＋四个七岁以下）D122全部下到五层，已逾旬头起两日期限；原号不销、门禁片留六层家人、身份片随本人家属、门牌仍留；原号未销旁留待柜核格，再记住址变更。次批五户十一口对旧册出结果——八口对上、三口待核，其中两口同门牌挂两号，人号及人户对应仍待当面核清。下迁不是注销。",
+        "current_line": 178,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+        "step_after_sha256": "4ae40ef40c15d751b5aaec12ae3d756454b4f1d2efaeb3734680b65375cfd28f",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "out_of_scope_exact_byte_delta_only",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": null
+      },
+      {
+        "id": "R008-B26-WB46",
+        "log": "harness/maintenance/R008/B26/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "old": "- 账与料：本支路仍按申请80／实到60／欠20出，旧欠不销、无补期，拒按人添水、拒从原号匀水；候料由三笔增至五笔（靠海侧换板两块、拉料两趟记两个班），料场只给旧板两摞、堤上料一件不动，估够一笔半。",
+        "new": "- 账与料：本支路仍按每班申请80／实到60／欠20出，旧欠不销、无补期，拒按人添水、拒从原号匀水；候料由三笔增至总五笔：四笔维修料项（新增靠海侧换板两块）＋一笔拉料工项（两趟、两个班），料工分栏、均未销。料场只给旧板两摞、堤上料一件不动，估够一笔半仅指修料，不抵拉料用工。",
+        "current_line": 179,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "4ae40ef40c15d751b5aaec12ae3d756454b4f1d2efaeb3734680b65375cfd28f",
+        "step_after_sha256": "965a08746cf2f4cd43cc9b4099cd8064141ecfdb630f46b643dc198eae803714",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "out_of_scope_exact_byte_delta_only",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": null
+      },
+      {
+        "id": "R008-B26-WB47",
+        "log": "harness/maintenance/R008/B26/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "old": "- 人手足：修管班四人全给搬运；照护夜班扩到三班，凝水班每天少一格底水；岑野半班信使、麦穗转白天翻身；祝衡左腿伤加重仍守账；两名搬运者退班不变。",
+        "new": "- 人手与照护：修管班四人参与搬运；照护夜班扩到三班，前后半夜两回翻身不减。凝水既有一格底减收持续，布位与缺工不双计，处理验记后认饮用实收、不预加本班六十壶；岑野半班信使、麦穗转白天翻身；祝衡左腿伤加重仍守账；两名搬运者退班不变。D124拉料还要占两个班，家什延到七八天，不能据已分岗认定人手充足。",
+        "current_line": 180,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "965a08746cf2f4cd43cc9b4099cd8064141ecfdb630f46b643dc198eae803714",
+        "step_after_sha256": "26604aa58c17b824de8a53b4ddea2500cb15f26bfd5384481c1ee81b74b0422c",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "out_of_scope_exact_byte_delta_only",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": null
+      },
+      {
+        "id": "R008-B26-WB48",
+        "log": "harness/maintenance/R008/B26/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "old": "- 待解：号同页异（旧册一二五页→一二七页，多出两页）已由弥娅落名、抄本先行压在桌上；内廊清运“两日内毕”，两日之后空一回，剩什么未定；弥娅准备独走查档（圈是我的，我自己去消）。",
+        "new": "- 待解：号同页异（旧抄页记125页、今日版记127页，仅确认页码差，重编或抄错未排除）已由弥娅落名；她另抄个人译页压石子留桌，圈页仍自持。内廊回条称清运“两日内毕”，D124末两日已尽，清运是否完成及搬走什么仍无门外凭据；林渡准备明早再问，弥娅表示“圈是我的，我自己去消”，准备独走查档。",
+        "current_line": 182,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "26604aa58c17b824de8a53b4ddea2500cb15f26bfd5384481c1ee81b74b0422c",
+        "step_after_sha256": "3444c8491270b51b314a3605d6519e17126bedf7a80699b908d2075e2d6f9b45",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "out_of_scope_exact_byte_delta_only",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": null
+      },
+      {
+        "id": "RB28-W054",
+        "log": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "old": "“两栏不写来处”仅指拟示人版本省去敏感来源，不等于销毁私存出处。",
+        "new": "“两栏不写来处”指两栏本身也暂不对外、栏上不抄能牵出人的来历；原信、原收条、核认与证词私存分源不毁。",
+        "current_line": 427,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+        "step_after_sha256": "d7c1cbbe2151c15f9f64aefe0fb654f7ccaba8b2f1f4c96f460cafa7415997bd",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "A19_related_semantic_interface_diff",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": false
+      },
+      {
+        "id": "RB28-W055",
+        "log": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "old": "| 277 | 送料入库只看准许范围；右臂吊着，左手扶车目数；人的页与货物页不合成无缺链。 |",
+        "new": "| 277 | 送料只到仓单室门外收签口，不入室；右臂吊着，左手扶车目数；人的页与货物页不合成无缺链。 |",
+        "current_line": 459,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "3444c8491270b51b314a3605d6519e17126bedf7a80699b908d2075e2d6f9b45",
+        "step_after_sha256": "fb3a6051d701cceee6d9a3df78f7decfaeddf32a1656b312fccc2c803589a587",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "out_of_scope_exact_byte_delta_only",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": false
+      },
+      {
+        "id": "RB28-W056",
+        "log": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "old": "| 280 | D144仅验旧楔留用，C2-B不变；两栏对外省敏感来源，私存出处不断；下一步核留下者。 |",
+        "new": "| 280 | D144仅验旧楔留用，C2-B不变；两栏均暂不对外，栏上不抄敏感来历，原信、原收条、核认与证词私存分源不毁；下一步按原自报／见证／待核状态核留下者。 |",
+        "current_line": 462,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "fb3a6051d701cceee6d9a3df78f7decfaeddf32a1656b312fccc2c803589a587",
+        "step_after_sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "A19_related_semantic_interface_diff",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": false
+      },
+      {
+        "id": "RB28-W057",
+        "log": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "old": "缺角同在一角只证到同模、同类，",
+        "new": "缺角同在一角只证到同模、同类；此处“同模”指所见印样与缺角形制相同，不是已验明同一件实体模具，也不据此认定制印者或供货源；",
+        "current_line": 71,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+        "step_after_sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "A19_related_semantic_interface_diff",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": false
+      },
+      {
+        "id": "RB28-W058",
+        "log": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "old": "各处只写到缺角落在同一角，能证到同模、同类，",
+        "new": "各处只写到缺角落在同一角，能证到同模、同类；此处“同模”指所见印样与缺角形制相同，不是已验明同一件实体模具，也不据此认定制印者或供货源；",
+        "current_line": 199,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "d7c1cbbe2151c15f9f64aefe0fb654f7ccaba8b2f1f4c96f460cafa7415997bd",
+        "step_after_sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "A19_related_semantic_interface_diff",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": false
+      },
+      {
+        "id": "RB28-W059",
+        "log": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+        "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "old": "同类或同模印及数号排法提供运输核对方向",
+        "new": "同类或同模印（此处同模仅指所见印样与缺角形制相同，缺角为模制而非磕损；不表示验明同一件实体模具、制印者或供货源）及数号排法提供运输核对方向",
+        "current_line": 749,
+        "old_occurrences_in_current": 0,
+        "new_occurrences_in_current": 1,
+        "step_before_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+        "step_after_sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+        "reverse_chain_verified": true,
+        "applied_by": "R008-main",
+        "review_scope": "A19_related_semantic_interface_diff",
+        "other_group_issue_closed_by_B29": false,
+        "proposal_status_in_log": "open",
+        "proposal_applied_field_in_log": false
+      }
+    ],
+    "all_10_step_hash_chains_verified": true,
+    "all_10_old_absent_and_new_unique_in_current": true,
+    "unlogged_candidate_differences_found": false,
+    "log_status_policy": "日志仍带status=open及部分applied=false提案字段；本报告不以其布尔标签代替事实，实际依old/new、每步前后SHA链和当前字节核验应用。其他组问题状态由对应审者维护，本报告不代关。",
+    "other_group_full_chapters_reviewed_or_signed": false,
+    "A19_main_sections_unchanged": 7,
+    "A19_scope_spans_unchanged": 38,
+    "A19_scope_spans_changed_and_reread": 2,
+    "all_10_B29_manuscripts_unchanged": true,
+    "boundary_280_unchanged": true,
+    "verdict": "pass"
+  }
+}

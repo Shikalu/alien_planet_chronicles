@@ -1,0 +1,863 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B29",
+  "kind": "independent_writeback_recheck",
+  "review_date": "2026-11-10T08:48:12.383056+08:00",
+  "reviewer": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+  "writer": "R008-main",
+  "independent": true,
+  "verdict": "pass",
+  "verdict_scope": "8候选的A19原实录、284索引及末尾281—290相关校准，在本次读取快照通过；不是八文件全历史审计或最终冻结签署。",
+  "signed_chapters": [
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290
+  ],
+  "story_days": "D145—D154",
+  "scope_exclusions": [
+    "251—280及291—300实录不签；混合行仅审核A19事实与承接约束",
+    "其他组修订结果和所有既往发布手续不重新审核",
+    "280/291正文只沿前次边界理解，不增加签署章",
+    "写前规划仅核与实录区分，不按规划未发生内容提正文问题",
+    "400/D320导航、正式回填应用和发布门禁不在本报告范围"
+  ],
+  "body_binding": {
+    "manifest": "harness/maintenance/R008/B29/final-manifest.json",
+    "manifest_sha256": "2f01a1722a72018143936647be65ba80a6c9db9b2f3d1e40d0fed10f7a1051db",
+    "source_digest": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077",
+    "all_10_manuscript_hashes_unchanged": true,
+    "prior_review": "harness/maintenance/R008/B29/final.json",
+    "prior_review_sha256": "304a47edf1d83094a56a8086cba237d35fae2f8fd75dad26107638c619337bb7",
+    "reader_review_sha256": "31998148a52ee1259e294c643b3522b20df32d19f17b071254856ac5886150cb"
+  },
+  "input_records": {
+    "writeback_map": {
+      "path": "harness/maintenance/R008/writeback-map.json",
+      "sha256": "04fc509867b79043a08a7372d1367c07c03645e79a13780d698b1a1ed060d133"
+    },
+    "suggestions": {
+      "path": "harness/maintenance/R008/B29/recovery-writeback-suggestions.json",
+      "sha256": "64e875eb7a34dce2746fac8686875852922afb2887bf1770aaced93d96e49665"
+    },
+    "applied": {
+      "path": "harness/maintenance/R008/recovery-writeback-applied.json",
+      "sha256": "87332bd0c344d6b8c133a529116dbe81e5100758000e9f0b14471bf529219ab8",
+      "entries": 40,
+      "checked_last_entries": 6,
+      "exact_file_old_new_reason_matches": true
+    }
+  },
+  "candidates": [
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "target_file": "异星录/04_连续性管理/人物状态台账.md",
+      "sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+      "bytes": 191704,
+      "scope": "逐人重核地点、伤势、工具与纸张持有、人数和知识权限；祝衡销毁对象已精确为临时比字条。孟芸290确在六人验料中；回捎未确认送达。",
+      "verdict": "pass",
+      "scope_projection_sha256": "975a2c4d7b448d19322d595562752678e66dca8195256151538a0cbbd98a7f4d",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## 第281—290章后人物状态（A19；D154；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "line_start_at_review": 663,
+          "line_end_at_review": 687,
+          "sha256": "fbf53607b1e78a03ae91e802f94b24742145a45cbca02d743f6629ff16c1c59c",
+          "text": "## 第281—290章后人物状态（A19；D154；已发生）\n\n> 状态：已发生，正文已发布（2026-10-26）。作者同意C2方案B，第280章已回修为检查旧楔留用，A18不新增耗料；独立授权回修短复核通过。此段承接A18，当前已发生锚点为第290章／D154；仍待核、未迁、冻结及未实际装运的事项继续保留，不视为已兑现。授权、复核与发布校验见06_执行计划/第三卷A19发布验收记录.md。\n\n> 本段为第290章批末已发生快照，是后续续写起点；A18历史快照保留。没有新增死亡或复活，没有全体解冻／集体迁入。\n\n| 人物 | 批末地点／移动范围 | 身体与装备 | 已知信息、关系与权限 |\n|---|---|---|---|\n| 林渡 | 五层值桌／临铺／板边；本批经六层检修棚、外堤、料场、柜房外，三次按当班准入到七层候船边区；D154回五层 | 右手抬不过肩持续，旧布条吊臂；上坡让车、沟口只用左手，不能抢柄或抬重物；账页、草图、译页两张、原迟信与“撤走／留下”纸仍随原持有 | 两户优先家属仅核送抵七层口；陶继在岗、口头撤离承诺无船位；检修口企图已止；知道常班将撤不等于停水；D153首次回捎仅旧已核数，不反推弥娅位置；明日拟核实装，不追船 |\n| 陶继（新） | 六层在岗／家属楼→七层候核→D149五层临铺，D151到外堤后返回；D154仍五层 | 一般留守工人；旧长柄扳手D147寄外堤、D149领回、D151由原工登记暂收；停岗条／旧工班交接纸分持，不添队伍工具 | 次批首待核人D146核上（9核2待）；支持赫连有换泵亲历，不因此扣水；试开阀与自己卸柄均记，仅外堤停岗，责任待核不许复岗日；旧工班不被本次责任抹掉 |\n| 孟芸（新） | 六层家属楼→候核边区→D149五层；D153一趟检修棚回话，D154验料后返五层 | 陶继妻，原8核之一；不识细字，不代读内账；旧布包持家属续留纸；床板两块与旧木脚夫妻自拆搬，不借新梁 | 只送约定短条／认交给谁，不入内廊、不抵水；D154只接帮扶板端的一趟，不承担无限木工或照护岗 |\n| 陶小满（新） | 八岁；D149起五层靠山临铺；D153等母亲回来再看脚 | 原8核之一，实到后新幼童临时半壶，不新增卧床／不占旧病幼20壶；帆布底旧鞋仍需照护 | 钱婶只在孟芸指定一趟代看，不据此改五卧床照护三班；与钱婶另有临时份，不混入旧17孩子 |\n| 钱婶（新） | 七层普通退工候核者→D149五层按日临借铺 | 褥子／退工条／原屋旧钥匙随身；原屋已交，不能凭钥匙或车位许永久安置 | 非次批五户11口；新成人临时两平勺；支持修泵成果但不将“统一安排”当船位；与孟芸约下一趟问钥匙交还处，尚未交还 |\n| 阿九 | 五层料场／检修坡／六层外堤、外缘料场；D154回五层 | 左腿拖、膝僵持续，卡柄后更僵；小臂伤沿旧结痂；卡钳／拉料绳／撬棍依原持有；不再顶夜班 | D149在六层分段接四人、不上七层；D151只卡柄不替转轴；D154验坏榫／两块非承重顶板；房车仍四层旧轨旁，未取回 |\n| 祝衡 | 五层值桌／公议处，守原件不跟上坡 | 左腿伤加重持续、起身扶桌，翻页须歇；三行半页包在干净纸中保管，核验抄页／检修责任／公开册沿原 | 两行主名已核为优先家属关系与送抵，一行未认；不公开整名，不补海上安全或死亡；临时比字条送旧灶销毁；原半页与送人者署名的核验抄页仍由祝衡私存，只供两家核问；两条旧失联空行保留 |\n| 林栖 | 六层柜房守原三份执行页，未随公议／验料下五层 | 右掌旧伤持续；只经丁字三送核数页，当班原工旁核流，不独开系统 | D150核83.5／60／23.5与逐班让份，旧额不改；原回条／涉档冻结不解除 |\n| 戊字一／丁字三 | 戊五层值桌，丁五层↔六层柜房外／检修棚／料场；D154核装运问页待递核心外柜 | 戊嗓子沿旧恢复；标准勺／六桶／水册／岗位页；丁持抄条、存根木匣与问页，不带原名上坡 | 戊逐班重认15让份、旧号不销；丁核人在岗、收班／供水分册，孟芸只替送一趟不代抄；问页非入柜凭纸 |\n| 两名原退班搬运者 | 仍五层原墙下铺卷处，没有转走 | 一人旧手裂口D151握柄再渗血、包布；另一人未参加开阀；仍属原成人60人 | D152从仅退搬运变退出其余合作（回话／核证／搬料），不再排补班；两人仍按旧号领两平勺、不因退出扣水，开阀责任仅记参与者 |\n| 杜姨／麦穗／岑野 | 杜、麦仍五层照护；岑五层半班回话 | 五卧床照护三班不抽；岑只半班、不顶全部缺口 | 新幼童另初单，不把旧病幼20壶分成18份；孟芸、钱婶帮一趟不等于增加永久照护班 |\n| 老陈／老崔 | 老陈五层旧栏截，老崔五层料场白班 | 老陈拄杖／尺沿原，短撑不撤；老崔虎口旧黑布、旧肩勒痕，不排夜班 | 老崔妹妹十年前“往外挪”仍无下落、名字未对上，优先两户日期不套她；曾承诺只单独告诉他的范围保留 |\n| 弥娅 | 栈城北部可交接档案与译者渠道内，未跨海；本批只以原迟信和D153回捎出现 | 腿沉沿旧，旧测潮仪读数永久失去；圈页、档片匣、短炭笔仍由她持有 | 回捎是否收到／何日收到未知；不把车线、家属证据并入她的线，不反推落点；本卷无正式叛徒判决，押存未兑现 |\n\n> 同行验料／救人的两名当日搬运者不是前述退出合作二人。新增掌压痕、旧裂口渗血、小满旧鞋问题不计重大新伤；不据“阀未开”删除企图记录。\n\n"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 941,
+          "line_end_at_review": 941,
+          "sha256": "5cd87006865df50148309ff615076118c859e38f9e8e3e7d1cc8822697fd4ddc",
+          "text": "282由8核3待变为9核2待，285陶家三人落定后余8未迁（6核2待）；钱婶另计。"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 943,
+          "line_end_at_review": 943,
+          "sha256": "9b964247a5582dd09d86273aad23eca2dd097cb19ade1d29adc9ea99b5d59630",
+          "text": "祝衡左腿伤、林栖右手限制及阿九左膝限制延续。"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 944,
+          "line_end_at_review": 944,
+          "sha256": "e15008006f3dd5c9eda2983913d286f56f0688d32ff42dc862b743434b4509fc",
+          "text": "陶继287未遂，阀未开、无失水；本人卸柄不抹责任，停外堤操作不等于停水。"
+        }
+      ],
+      "tail_scan": {
+        "heading": "## R008旧章修订校准（251—300；不推进400／D320）",
+        "sha256_observed": "fced216cfc4e7848739c63ea8f6758d5f38082763aa493406732ea13f0bc4ef1",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "target_file": "异星录/04_连续性管理/资源与时间台账.md",
+      "sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+      "bytes": 159237,
+      "scope": "逐班80→83.5/60/23.5、15×半勺、37.5+20+2+0.5=60；11口由8/3到9/2、陶家3与另计钱婶共4；末班2.5先耗尽、六桶不增；楔耗、伤势、阀未开、两板待装及四笔候料均不新增收益。",
+      "verdict": "pass",
+      "scope_projection_sha256": "02c2b03bacbd60eb65a398f57e280573fb7e0bf65e6dd5864080cf87e1ddaeac",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## 第281—290章后资源与时间（A19；D145—D154；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "line_start_at_review": 535,
+          "line_end_at_review": 570,
+          "sha256": "d6d71c6bba1fd240c0e9ae2c7f4fc1dfce6b72ebf4f590c0594211bbe2d64191",
+          "text": "## 第281—290章后资源与时间（A19；D145—D154；已发生）\n\n> 状态：已发生，正文已发布（2026-10-26）。作者同意C2方案B，第280章已回修为检查旧楔留用，A18不新增耗料；独立授权回修短复核通过。此段承接A18，当前已发生锚点为第290章／D154；仍待核、未迁、冻结及未实际装运的事项继续保留，不视为已兑现。授权、复核与发布校验见06_执行计划/第三卷A19发布验收记录.md。\n\n### 配水切换（单位沿旧：一壶＝三标准平勺；每约定发放班，不假定每天只有一班）\n\n| 项目 | D145—D149 | D150起／D154批末 |\n|---|---|---|\n| 足额申请／实到／欠额 | 原80壶／60壶／20壶；回补零，旧欠不销 | 83.5壶／60壶／23.5壶；原80＋新3成人足额3壶＋新幼童初单0.5壶；旧欠20仍在，不因让份抹掉 |\n| 原成人 | 60人各2平勺＝40壶 | 15人自愿各让0.5勺、实领1.5勺；45人仍2勺；合112.5勺＝37.5壶，不改旧原额、不替未到者签 |\n| 原病幼 | 原单20壶先出 | 原单20壶不动；旧17孩子等原单按原分法，不将20壶改分18份；医疗专线独立 |\n| 新临时4人 | D149末班旧工班共2.5壶，清退前已拨边区陶缸；钱婶旧条领至清退班、陶家日核留三口；三成人各2平勺、幼童半壶；原工销已拨栏、记末班实发，三只自有罐携带；仅本次清退随人带走，D150开桶前已喝用完；不并五层六桶、不重复领边区下一班 | 新3成人各2勺＝2壶，陶小满初单0.5壶；共2.5壶，由15×0.5勺＝7.5勺让份供；钱婶不属11口，另列 |\n| 实发闭环 | 原成人40＋原病幼20＝60 | 37.5＋20＋2＋0.5＝60；每班逐人重认，同意仅限当班；不同意／退出合作／支持赫连不扣水，劳动不抵份 |\n\n- D150校半勺：借本班尚未发的一平勺水，量壶记三分之一壶水线，两次同浅线凑同一水线；水与接下余滴全收回，不增加耗水或份额；标准勺炭记半线，原勺壶单位不改。等工者多等一刻，另留迟工原因交接。\n- 未按十天乘算总水量；本批每班申请／实发口径明确，回补零、欠额累计方式沿既有账，不把23.5当所有旧欠总和。\n\n### 人数、料、运输与设备\n\n| 项目 | 本批变化／批末实存 | 未兑现／约束 |\n|---|---|---|\n| 次批安置 | 原5户11口由8核3待→D146为9核2待；D149陶家3口实到，其余8口未迁（6核2待）；另钱婶1人临时实到，总新到4＝3成人1幼童 | 不等于全体下迁，2待核与同址两户问题仍在；涉档冻结／外库核页条不解除 |\n| 临铺／家什 | 五层靠山灶砖旧圈原家什位，主人按日借、留走道；陶家从六层原屋自拆自搬两块床板＋旧木脚；钱婶自带褥子 | 不占照护位、不添新梁，不许永久住房；原屋钥匙尚未交还 |\n| 靠海板／楔 | D145现锯并换入2片楔料（继D135、D138后的第三次换楔；D144仅检查旧楔留用），占棚顶料；短撑1根继续留、靠海第二板不撤撑；檐板料不足半摞进一步减去这两片用量，不编新精确摞数 | 四笔候料不因换楔减少：支板换榫／棚顶两处／斜梯两板／拉料两趟；凝水布持续少一格底 |\n| D154验料 | 六层外缘料场出示三块短顶板、一根旧长材；长材榫内松空且截后长度不足，一短板浸软裂，不领；两块可作不承重补顶，挂本支路抄号待核装，拟先补第二处漏棚 | 两块仍在六层料场，五层实收0、安装0、余班实用0；只能补一处，不可做梁／支板／斜梯；第一漏棚异议留册，四笔均未销 |\n| 本旬材料余班 | D153核一次可申；D154装料申请收下，两块待核，核装后才排实际交接 | 名额不是实运／物料产出，不载人、不许安置；原两趟拉料仍欠，验料一趟不抵两趟 |\n| 运输／供水时间 | D148旬头；D153核通知：旬末官方山脊常班撤、下一旬常班暂不排；特许转运另核；D154冷却支路下一班交接仍在 | 旬末尚未实际收班，不写立即断运；不等于停泵／回补／解冻；核心外柜核装运问页仅待递，非入柜授权 |\n| 人手 | 原照护3班／五卧床不抽，岑野半班；阿九不接夜班、老崔白班；D152两原退搬运者退出其他合作但仍在成人60水册；孟芸D153送一趟回话、D154帮验扶板端 | 陶继外堤停岗，工具暂收，不能凭救济自动复岗；两当日搬运者为正常另两人，不冒用退出者名字 |\n| 水库／检修 | D151止开阀成功：止动保持／阿九卡柄／陶继自卸；无新增泄水、无试排、库体无新增损坏；正常管流持续 | 长柄扳手原工登记暂收，柄划痕记；企图不删除、原工守阀责任不替陶继承担；不把停岗扩为停户水 |\n| 房车／路／能量 | 房车仍四层旧轨旁、未取回；山腹旧路未重新核通；热能电池与列车船沿原持有和存量，无新入账 | 独立货运／隧道／跨海均未成立，不能凭官方撤班变成可走路线 |\n| 证据／信件 | 祝衡守原半页与核验抄页；两户优先家属只证到七层口；D153回捎旧数纸交普通拣料同行渠道下一手，公开只记捎出日与接手者 | 不追船、不公开原名、不附弥娅人名位置／路线／新通知，原迟信仍林渡持有，回捎到达／回话时间未许 |\n| 伤亡／失联 | 无新增死亡；一旧退班者手裂口再渗血、原工掌压痕、阿九腿僵加重；新幼童仅临时照护初单 | 不增重大新伤／卧床；旧两失联空行保留，老崔妹妹未对上／无消息 |\n\n批末优先顺序：保供水、照护、看板与必要回话；先核两块待装旧顶板的实际交接，再对实际装运／送人存根／已知站名。官方常班退出的具体兑现留A20，不能先把计划视为完成。\n\n"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 849,
+          "line_end_at_review": 849,
+          "sha256": "91605f5cd155a102b879c7259c90f2eaa0442021713cbac23e68eb58e96e8a15",
+          "text": "水额依约定发放班核算，不用D114—D164天数或50章数乘出总耗。286前80申请／60实到／20班缺；286起83.5／60／23.5，无回补。"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 850,
+          "line_end_at_review": 850,
+          "sha256": "5551981a20ef041ac61d0a1f52cd8c87a0963bad1c7671d948d75c7508c82ce1",
+          "text": "原15成人每班各让半标准勺共2.5壶；37.5旧成人＋20旧病幼＋2新成人＋0.5新童＝60。每班重认，不把陶小满并进旧17孩子。初到四口的2.5壶末班水先用完，不与五层新班重算。"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 851,
+          "line_end_at_review": 851,
+          "sha256": "7f9477b7d5a528762d50415aaa5b159550f6acc17798070bde3ea4586c058f03",
+          "text": "D145另取新两楔（C2-B不变）。"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 852,
+          "line_end_at_review": 852,
+          "sha256": "8322fefa1c6499cc4c541610c69a5e9f144efd1b61dbeef900b44121f6749181",
+          "text": "既有凝水一格底损失不回补，也不擅换算壶数。"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 853,
+          "line_end_at_review": 853,
+          "sha256": "e871d5ce1bbfe15b65cc7dd70c818503b1c4cda0d3e67dfb8c2a2ac01b4148e9",
+          "text": "290两旧顶板待装"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008旧章资源校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 853,
+          "line_end_at_review": 853,
+          "sha256": "09cda19e826c8b95ff28bb0a7b2b989b1801a347d7c98aef548fe45bd8a2deee",
+          "text": "常班撤回不等于供水守班停运。"
+        }
+      ],
+      "tail_scan": {
+        "heading": "## R008旧章资源校准（251—300）",
+        "sha256_observed": "2c6cb20197c1e16b744f00c9127baa6111a439701e81d02235bca9c039c52bca",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "target_file": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+      "bytes": 111483,
+      "scope": "F11旧互证强度已收窄；家属仅送抵、同类印不等于同一实印，第三名、妹妹及旧失联未知；常班将撤与未知运输链未预支。",
+      "verdict": "pass",
+      "scope_projection_sha256": "a7fa35750d74e70309cda4df874d65a9b9fcdb98810f974f5bc7b10b7cf73b40",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## 第281—290章伏笔回填（A19；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "line_start_at_review": 514,
+          "line_end_at_review": 532,
+          "sha256": "0666580b9c2a49471eabe5adfa2c0f5da16bf387b5de2c59e812459712a224e1",
+          "text": "## 第281—290章伏笔回填（A19；已发生）\n\n> 状态：已发生，正文已发布（2026-10-26）。作者同意C2方案B，第280章已回修为检查旧楔留用，A18不新增耗料；独立授权回修短复核通过。此段承接A18，当前已发生锚点为第290章／D154；仍待核、未迁、冻结及未实际装运的事项继续保留，不视为已兑现。授权、复核与发布校验见06_执行计划/第三卷A19发布验收记录.md。\n\n| 线索 | 状态／实际触碰 | 本批能确认的边界 | 后续待回收 |\n|---|---|---|---|\n| F04／撤走与留下、半页家属名 | 阶段回收／关系互证：284原半页两行＋独立送人存根＋原工见证＋亲属核关系，288无名结论公开；陶继真留岗与家属候核另有在岗旁证 | 优先两户分别为调度监理弟弟、库务主管妻子，旬头普通家属核验前已送抵七层登船口；不证登船／离港／目的地；三行半页第三行仍未认 | 不把两户当全部撤离者、不把老崔妹妹套进两户时间；其他八口未迁与两待核继续 |\n| F09／已知海峡武器站、货运和利益链 | 半揭／互证推进：家属有优先送抵实录；290写核实际装运与收班范围问页，尚待递送，常班将撤而特许另核 | 海峡武器站之名早已知道，未获实装／军用通道完整证；缺角描样仅同模同类不定同一实印；挂签数／船灯不能单独定航路 | 完整站名＋家属＋实运／军用通道链留300；不提前讲热流武器原理，不追离港船 |\n| 候核边区板险／外堤排水口 | 新增后阶段回收：283深色横板裂、栏脚倾斜与方轴／止动／排沟布局；284续留纸仍无船位；285板险清退；286扳手意图／预告；287止企图 | 退四人是避板险，不是获撤离资格；排水口未开、未新增失水，陶继停岗／工具暂收是真代价 | 检修责任仍待核、不因卸柄洗白；候核制度不因救人消失 |\n| 原成人自愿半勺／合作退出 | 新机制持续：286校量与15人逐班让份；288两旧退班者退出其余合作不扣水 | 原成人水册仍60人、原病幼20壶不动、新4人临时2.5壶；逐班重认，不把当班签字当永久合约 | 哪个班让份不足须重议，不预写永久15同意；必要岗位空缺／拉料未补 |\n| F02／旧测潮录音缺口保留；分持载体与迟信为辅助线 | 故意分线保留，289第一次回捎：本地已核三点灯、夜三趟每趟4箱、候料旧数，仅添“收到上一张” | 圈页／档片匣仍她持有；回捎只经拣料同行下一手，不知到日／落点；原迟信与译页仍林渡持有 | 不将家属调查纸／回捎／清运车线合并，不反推位置、不写已回信；本卷无正式叛徒判决 |\n| F11／教团上城区制式武器供货 | 故意保留；本批未获新武器实物或供货原件 | 本批仅承接挂签数号、旧收条排法与缺角描样提供的待核运输关联；不将其登记为武器供货与撤离实运链已坐实，不因同类缺角印认同一实印／全部共谋 | 供货签发归属与军用用途按既定卷段取证，本卷不解释武器原理 |\n| F14／旧断口失联；老崔妹妹为独立辅助线 | 故意保留：284明确妹妹十年前“往外挪”仍无对应，两户消息不能替她下结论 | 两失联空行不抹不发；老崔名字未对上；若有消息仅单独告知其本人 | 一行未认、旧失联与妹妹继续待核 |\n| 押存条件／涉档冻结 | 未兑现／保留 | 外库核页条停发、涉档报文冻结；本批核人／运输申请非解冻，问页无“待提取”日期 | 后续按权限另核，不在本卷虚构代押或催领 |\n| 官方常班收班／替代货路 | 新增运输时间压力：289通知、290核执行范围与两块旧顶板待装 | 常班旬末将撤，次旬暂不排；冷却支路另留班，特许另核；余班未实用；房车四层、山腹旧路未核通 | A20核实际装运与退出兑现；第四卷先取回修复房车／核障，不提前成立新货线 |\n\n本批钩子顺序：身份→时间→发现→关系→安置缺水危险→放水选择→检修责任行动→合作退出关系→余班时间→装运利益链／另寻货路行动。不是十章反复“敌人突然出现”。\n\n"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008线索权限校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 748,
+          "line_end_at_review": 748,
+          "sha256": "e2baf56a52b339a07e881d10942c94214234c5d8e19c0c45b5e42784ca3587f1",
+          "text": "289回捎无送达回执 | 弥娅落脚点与收信情况不推断 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008线索权限校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 749,
+          "line_end_at_review": 749,
+          "sha256": "7901f1a3c15d2eaf9ca9054e8d227a7ee47a128aaf81ea43bad3d7847887c9d9",
+          "text": "| F11／缺角印 | 同类或同模印及数号排法提供运输核对方向，不凭印认同一枚实印或全部同批 | 箱中用途、完整武装供应链及幕后人未揭 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008线索权限校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 750,
+          "line_end_at_review": 750,
+          "sha256": "051d09224a78edc258c643031032a5ac98decdd922ca497aac77f3866b308ca6",
+          "text": "| 半页／两栏 | 两家先私核，不张贴完整半页；对外隐去取纸人与核认家属，私存原纸与来源不毁 | 第三名、老崔妹妹及旧两行失联均无结论 |"
+        }
+      ],
+      "tail_scan": {
+        "heading": "## R008线索权限校准（251—300）",
+        "sha256_observed": "4b6c45a133a2b1cbd8ec98f98a105c7a78afb678dc1837b6f2cf09d5e27646f8",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "target_file": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+      "bytes": 128803,
+      "scope": "D145—D154十行完整重核，283补返五层；D148旬头、D149四口移出、D150床板搬下与分水、D151阀未开、D154待装成立。",
+      "verdict": "pass",
+      "scope_projection_sha256": "f08cc6bcbabab98d7d725135dee228cf58a86c830925c41c6a8b762882abcd30",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19／第281—290章时间线（D145—D154；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "line_start_at_review": 359,
+          "line_end_at_review": 378,
+          "sha256": "888d8a1c648e8d97589696f633a1a866405bbdd7770197ce75d7ccf47902a559",
+          "text": "## A19／第281—290章时间线（D145—D154；已发生）\n\n> 状态：已发生，正文已发布（2026-10-26）。作者同意C2方案B，第280章已回修为检查旧楔留用，A18不新增耗料；独立授权回修短复核通过。此段承接A18，当前已发生锚点为第290章／D154；仍待核、未迁、冻结及未实际装运的事项继续保留，不视为已兑现。授权、复核与发布校验见06_执行计划/第三卷A19发布验收记录.md。\n\n| 日次／章 | 位置链（林渡主限知） | 事件／交接／代价 | 信息层级与未发生边界 |\n|---|---|---|---|\n| D145／281 | 五层值桌→靠海板→六层柜房外→家属楼门口→五层 | D144检查旧楔留用，未新增耗料；D145新取两片楔占顶料，为D135、D138后第三次换楔；与孟芸见陶继，自报在岗，次日接班旁证；丁字三在柜房外分手 | L3；旧册“已撤”与本人在岗相冲突，未擅核完整旧班；统一安排无船位 |\n| D146／282 | 六层检修棚黄线外→五层 | 接班者核陶继当班，8核3待变9核2待；岑野半班捎回条，次日获随班候核边区准入 | 只核人不解冻迁入／新增水，登船口未授权 |\n| D147／283 | 六层外堤寄工具→七层候船边区→六层→五层值桌 | 五人含领路工人按回条登记；钱婶自报；见板裂栏倾及外堤检修布局，家属发运旧联待核 | 候核≠船位；七层板险尚未修，无梁可挪；扳手寄外堤 |\n| D148／284（旬头） | 五层取两行小纸→随工人七层边区核存根→五层亲属核认 | 两户优先送抵七层口早于普通旬头复核；原半页／核验抄页归祝衡，小纸送旧灶烧；孟芸再来报陶继一人另获一晚留棚许可，妻女回六层 | 两家关系核、见证送抵范围分开；不证离港去向；小满回六层，陶继仍候核，妹妹未知 |\n| D149／285 | 五层→随清退班七层裂板→六层交阿九→五层按日借铺 | 陶家3＋钱婶1共4实到；分段搬运不抽照护；边区最后原工班水2.5壶移出销账；陶继领回扳手 | 未获撤离，安置有铺无下一班水；其他清退者去向不算本支路新到 |\n| D150／286 | 五层分水处／值桌／临铺 | 两床板旧木脚自行搬下；15原成人逐班让0.5勺，闭环60实发；需求83.5欠23.5，校量迟工一刻另条；林栖由丁字三核数 | D149工班水已用完；原病幼不扣；陶继欲开阀，当班原工事先获预告 |\n| D151／287 | 五层→六层外堤→坡腰→五层 | 原工守止动、阿九卡柄、林渡守沟外整板退路、陶继自卸；丁字三去柜房外报原工又带抄页回；停岗／工具收存 | 未开阀无新增失水／库伤；责任不抹，水份不扣；旧手裂口渗血与伤腿僵持续 |\n| D152／288 | 五层公议桌／临铺／原墙下 | 三纸公开；杜姨只换班听一段即返照护；两旧退班者退出其他合作仍留水册；孟芸约一趟回话、钱婶代看 | 陶家3实到，另外8未迁6核2待；临时1人钱婶另列；让份逐班重认 |\n| D153／289 | 五层（孟芸→六层检修棚→五层；丁字三→六层柜房外→五层） | 核旬末常班将撤／次旬暂不排／冷却班另留；本旬余一次可申材料车；首次回捎旧数交拣料同行下一手 | 无材料实到、不等于停水／解冻；回捎不知送达／不定弥娅位置，车与信两线分开 |\n| D154／290 | 五层→六层外缘料场→五层两漏口→六层柜房外／坡口→五层 | 两块非承重旧顶板留料场待核装，拟补第二漏口、第一户异议留册；核运输／供水不同收班范围，问页待往核心外柜 | 余班未实用／四笔未销，不载人／许安置；实际装运未核成；房车四层／山腹未通，A20续 |\n\n本批以D148为旬头承接D128、D138既有旬序；旬末收班在将来，不写成D153当日立即全断。D码只作台账定位，正文用场内“昨日／明日／旬头”等说法，不混入作者计日编号。\n\n"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008相邻章接口校准（251—300；历史日次不变）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 617,
+          "line_end_at_review": 617,
+          "sha256": "936aa41dd22f987774bda77318553660e132fdcd6955380120663b2718795486",
+          "text": "| 281—286 | D145新换两楔；282核人9／2，285陶家三人及另计钱婶下迁，286调整本班份额。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008相邻章接口校准（251—300；历史日次不变）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 618,
+          "line_end_at_review": 618,
+          "sha256": "478732de2e0b583ff80eb62d2f8285c6b32a1d40160f782b083486b90eb38173",
+          "text": "D154验料待装"
+        }
+      ],
+      "tail_scan": {
+        "heading": "## R008相邻章接口校准（251—300；历史日次不变）",
+        "sha256_observed": "4087dd2ad2a4fdbdef9de3e5b30d11f5ceb6b4d7f2a3d2c258e465abac3e72d2",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "target_file": "异星录/04_连续性管理/术语与命名表.md",
+      "sha256": "55c4de64795167fccac7383bee47037d60d0c32d898005b8c7247c901336ee03",
+      "bytes": 58570,
+      "scope": "A19九条及修后状态说明重核；存根已列主名/类别/当批编号及交接字段，送抵不等于登船离港；半标准勺、检修口和工具无新增物资。",
+      "verdict": "pass",
+      "scope_projection_sha256": "c83b997807408a760bb842057c2b0ee3af3c8afa09af7cd7aa2671babcd85d77",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19新增用语登记（2026-10-26；正文审读已核实）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "line_start_at_review": 206,
+          "line_end_at_review": 222,
+          "sha256": "e77652d1196e0e56c0f5e0c2c85945534f92c5c294e6e768dc1793d9066ac908",
+          "text": "## A19新增用语登记（2026-10-26；正文审读已核实）\n\n| 类别 | 统一写法 | 范围与作用 | 禁用混称 |\n|---|---|---|---|\n| 人物 | 陶继 | 六层普通工班留守者，首次为次批五户十一口中的一个待核人，282已核在岗；支持赫连的治理，非高层家属 | 陶师傅作为叙述本名 |\n| 人物 | 孟芸 | 陶继妻子，次批已有核对记录；到五层前不另增配给 | 芸嫂作为叙述本名 |\n| 人物 | 陶小满 | 陶继与孟芸之女，八岁；已有核对记录，285实到后列临时幼童份 | 小满与另一孩子混指 |\n| 人物 | 钱婶 | 普通退工人员的自报称呼；七层候船边区居民，不属次批五户十一口 | 钱婆婆作为叙述本名 |\n| 地点 | 候船边区 | 七层转运坡顶靠山一侧的临时等候处；获准到边区不等于获登船位 | 撤离码头、登船口（两处有别） |\n| 凭单 | 转运存根 | 当班工人留存的发运交接联，列主名、所属家属类别、当批编号及送抵七层口的时间、接收者；只证送抵，不证登船离港或远海目的地 | 实运全册、完整撤离名册 |\n| 地点 | 外堤检修排水口 | 六层水库外堤靠山侧的排水检修处，排沟在外；当班人控阀，外侧可接近工具口 | 总阀、库底阀（非同一处） |\n| 物件 | 长柄扳手 | 陶继旧工班工具，需人力转柄；287卸下交原工登记，非队伍无限工具来源 | 撬棍（功能不同） |\n| 计量 | 半标准勺 | 旧标准平勺的一半体积；一壶三平勺，两次同浅水线校成一平勺，只限定让份取量，不新增配给单位 | 半家用勺、半壶（不是同一量） |\n\n> 修后状态：以上统一写法已随第281—290章发布转为正文核实记录。候船边区过夜须另记一晚许可，候核续留不自动赋予住处或船位；末班旧工班水资格、计量、容器与次班停领见A19已发生台账。C2已按作者同意的方案B回修并复核：D144检查留用，不新增耗料；D145换楔占顶料。详见06_执行计划/第三卷A19发布验收记录.md。\n\n"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "### R008用词边界",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 427,
+          "line_end_at_review": 427,
+          "sha256": "4365c35e6cce1d760752ac8407399a9ff1923ae2a005680f8baabae4fd80413e",
+          "text": "不保证逆向回话到达。"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "### R008用词边界",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 427,
+          "line_end_at_review": 427,
+          "sha256": "bab56a8bbb82dd0fbbb761e47d209870993b12925cde1252c32d941aad93089d",
+          "text": "“两栏不写来处”仅指拟示人版本省去敏感来源，不等于销毁私存出处。"
+        }
+      ],
+      "tail_scan": {
+        "heading": "### R008用词边界",
+        "sha256_observed": "876d262f826be7059b783bf01e6d8e74a6a49e4fd9885f6395a8622872e94510",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "target_file": "异星录/04_连续性管理/术语词典.md",
+      "sha256": "5c6391b2f6b96ca99687d09816ca4b2c80db0bc8b50ca66f6f71b1fd6b44311b",
+      "bytes": 37971,
+      "scope": "A19五词条及人物说明重核；候核不含船位，半勺是旧勺半体积，外堤停岗不扣水，余班不等于实收；末尾迟信/缺角印/两栏的本期约束一致。",
+      "verdict": "pass",
+      "scope_projection_sha256": "f49db1bbaf59c89c3674b7dec84cbb4eb6c7c31b6f2d9c5dfa8857188935d7c9",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19／第281—290章词条（已由正文核实）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "line_start_at_review": 81,
+          "line_end_at_review": 95,
+          "sha256": "e51d186d8c53566762fcaf11b1cff63c32594220e2c942f0eb6f5ecc41ee16ca",
+          "text": "## A19／第281—290章词条（已由正文核实）\n\n> 状态：已发生，正文已发布（2026-10-26）。作者同意C2方案B，第280章已回修为检查旧楔留用，A18不新增耗料；独立授权回修短复核通过。此段承接A18，当前已发生锚点为第290章／D154；仍待核、未迁、冻结及未实际装运的事项继续保留，不视为已兑现。授权、复核与发布校验见06_执行计划/第三卷A19发布验收记录.md。\n\n| 词条／首次解释 | 名词与范围 | 作用、因果及角色误解 | 统一命名／权限边界 |\n|---|---|---|---|\n| 候船边区／283 | 七层转运坡顶靠山一侧临时等候区，低棚内核普通留守与退工者纸；与更靠海登船口隔绳 | 随获准当班人按回条登记能到区，不等于船位；“统一安排”“候核续留”易被当作撤离承诺，过夜另须明确登记一晚许可，283—285实际证明只有候核／板险清退 | 不改叫码头／登船口；原工带路人数包括带路人；普通候核不能任意过绳 |\n| 转运存根／284 | 工人留存的一笔发运交接联，记录主名／日期／人数／送抵七层口 | 与半页、见证人、亲属关系互证可核两优先家属已送抵；不能单凭存根说离港、安全或海上目的地 | 非完整撤离册；原主名不公开；同类缺角印不认同一实印 |\n| 外堤检修排水口／283先展示、287使用 | 六层水库外堤靠山侧的排水检修处，工具口内有方轴、止动，外侧排沟通废渠不通饮水柜 | 检修试排要原工控止动；陶继想转柄逼船位却会排走本支路的水，原工与阿九保止动、本人卸柄，阀未开 | 非水库总阀／库底阀，未发生大规模泄水；停外堤岗不等于停户水 |\n| 半标准勺／286 | 原标准平勺的半体积，一壶三平勺；同浅水线两次达到量壶三分之一壶线，以旧勺炭记半线 | 15原成人每班各自愿让半勺＝7.5勺＝2.5壶给新4人；试量水全回收；当班认不约束将来 | 不与家用木勺／旧票面混用，不另创单位；旧病幼20壶不重分，劳动／政治态度不换水 |\n| 常班／余班／289—290（既有用语在本批限定范围） | 官方山脊材料运输常班；余班是本旬尚可申请的一次运输，不是已装已收 | 常班旬末撤、次旬暂不排，特许另核；冷却支路另留。两旧顶板待核装，不凭车名额宣布料到账或人员安置 | 不是停泵／解冻通知；余班未实用，不提前写新货线已通 |\n\n陶继／孟芸／陶小满／钱婶是最小场景人物，姓名与家庭关系统一见《术语与命名表》A19表；不添加尚未核的正式姓名、籍贯或后台。\n\n"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008语义校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 273,
+          "line_end_at_review": 273,
+          "sha256": "d8102d5e92080b46c72ad9434ec974e66b29fbfb1952f870bd65857711874271",
+          "text": "| 迟信 | 北部渠道逐手递，D134首封、D140第二封 | 已知落脚点、同步消息或289回话已送达 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008语义校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 274,
+          "line_end_at_review": 274,
+          "sha256": "ab00850eef66040154d7a0115bd06188443667835e570275c517a7216d74cf4c",
+          "text": "| 缺角印／批次 | 同类印与数号排法可引向记录核对，运输件与人分别核 | 仅凭缺角即确定同一实印、全批来源或武器用途 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008语义校准（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 275,
+          "line_end_at_review": 275,
+          "sha256": "112d0763d685fadb35c11f4c50b82840541b5ba7d2dace367597469a455e49b1",
+          "text": "| 两栏不写来处 | 不公开取纸人、核认家属；祝衡私存半页原件和出处 | 不留任何来历而仍声称证据可追溯 |"
+        }
+      ],
+      "tail_scan": {
+        "heading": "## R008语义校准（251—300）",
+        "sha256_observed": "7ecf1d9e49a2f1eab26c68e5d9220cb5231760aa2ae3898716206eab73f28d6f",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "target_file": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+      "bytes": 125056,
+      "scope": "A19十章实际回填、偏离说明、290批末五项续写入口及末尾281—290十行重核；283补五层、287陶继说、290孟芸验料及两板未实收均正确。写前卡只作规划背景，不将规划误签已发生。",
+      "verdict": "pass",
+      "scope_projection_sha256": "21688db4f3e1b0b5b55eea97ce036d48a18c4dceedcb9b638a209e9127b2c7ca",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "heading_section",
+            "start_heading": "## A19第281—290章正文实际回填（2026-10-26；已发生）",
+            "end_rule": "next level-2 heading exclusive"
+          },
+          "line_start_at_review": 324,
+          "line_end_at_review": 356,
+          "sha256": "70ab9d1b7afd847b5b32be8240912cf26d2f28872fb05d7fe126e1920f332ff9",
+          "text": "## A19第281—290章正文实际回填（2026-10-26；已发生）\n\n> 状态：已发生，正文已发布（2026-10-26）。作者同意C2方案B，第280章已回修为检查旧楔留用，A18不新增耗料；独立授权回修短复核通过。此段承接A18，当前已发生锚点为第290章／D154；仍待核、未迁、冻结及未实际装运的事项继续保留，不视为已兑现。授权、复核与发布校验见06_执行计划/第三卷A19发布验收记录.md。\n\n| 章 | 时间／地点与视角 | 实际行动、旁证与选择 | 代价／连续性落点／钩子 |\n|---:|---|---|---|\n| 281 | D145；林渡；五层值桌／板边→六层柜房外→家属楼→五层 | 见到陶继本人与旧工班交接纸，尚待接班者旁证；本人支持赫连有换泵亲历；工班薄纸只有“统一安排”，撤离为发纸人口头承诺 | D145新取两片楔占棚顶料（继D135、D138后的第三次换楔；D144只检查留用）；短撑不撤，原定拉料延期；不以政治认错作核人条件，次批仍8核／3待 |\n| 282 | D146；六层检修棚黄线外→五层 | 陶继及接班者分别核在岗记录，改为9核／2待；获次日随工班到七层候船边区的回条，不能进入登船口 | 人核上不等于解冻下迁、新增水或船位；两待核仍与同址两户有关；照护班、伤员、半班少年不能无条件补搬运 |\n| 283 | D147；六层外堤→七层候船边区→六层→五层值桌 | 陶继先在外堤寄扳手；林渡与陶家随领路原工按回条过门；区分在岗核验、家属候核、实发船位；钱婶自报身份 | 七层深色横板开裂、栏脚倾斜只封一段，未修梁；六层排水口方轴／止动／排沟先露；普通候核纸没有船位，旧联却写家属已发运 |\n| 284 | D148（旬头）；五层→七层边区→五层 | 原半页两行、独立转运存根、送人者见证、亲属关系核对互证；两户分别为调度监理弟弟、库务主管妻子，优先送抵七层登船口，早于普通家属旬头核验 | 只证送抵，不证登船、离港、目的地；不公开原名，原半页与核验抄页归祝衡，小纸送旧灶销毁；陶继候核续留并另记一晚至次日凉时前，仅本人留棚、妻女回原屋，不作船位；老崔妹妹仍未对上 |\n| 285 | D149；七层裂板→六层交接→五层临铺 | 清退班分段撤出陶家三口与钱婶；阿九在六层接人；原照护岗不抽；五层靠山灶砖旧圈临借按日安置，不堵走道 | 实到4人＝3成人1幼童；清退前已拨边区的末班旧工班水2.5壶按旧条／日核留资格发给四人，原班销已拨栏、记末班实发；三自有罐带下、清退后停领，仅作最后一班且286前喝用完，不并五层60壶；陶继领回旧扳手；拉料两趟仍欠 |\n| 286 | D150；五层分水处／值桌 | 陶家自拆自搬两块旧床板、旧木脚；15名原成人每班逐人自愿让半标准勺，共7.5勺＝2.5壶，供新三成人各2平勺、幼童半壶；林栖经丁字三数页核合计 | 申请83.5／实到60／欠23.5，旧欠20不销；原病幼20壶不动，不愿者不扣；试量水与接下余滴全收回，迟工一刻另留交接；陶继欲以放水逼交船位 |\n| 287 | D151；五层→六层外堤检修口→五层 | 陶继与旧退班搬运者试图转柄；当班原工守止动，阿九卡柄，林渡只疏沟外退路与谈判；陶继自行卸柄 | 阀未开启、无新增失水、无库体损坏；扳手交原工登记暂收，陶继仅外堤停岗、另得停岗回条，原登记页留检修处、水份不扣；退班者旧手裂口再渗血，原工掌压痕，阿九腿更僵；旧班责任与今日企图区分 |\n| 288 | D152；五层公议处／临铺 | 同桌公开无名优先两户、检修责任、当班配水；不以支持赫连换水，也不因退出合作扣水；孟芸主动接一趟五层到六层检修棚回话，钱婶只代看这一趟 | 两名原退搬运者退出其余合作但仍住五层、仍在原成人60水册；次批陶家3口实到，另8口未迁（6核2待），钱婶另列；岗位不足不靠替他人签名补满 |\n| 289 | D153；五层／六层柜房外（丁字三核） | 孟芸完成一趟短条交接；核官方常班旬末撤、次旬常班暂不排，特许另核、冷却支路另留班；本支路本旬余一次可申运输，先验料再核装 | 无料实到、余班未实用；首次回捎迟信只写本地已核船灯三点、夜三趟各四箱、四笔候料等旧数及“收到上一张”，不写人名路线／家属结论／当日收班新消息；不推弥娅落点或到日 |\n| 290 | D154；五层→六层外缘料场→五层两处漏棚→六层柜房外→五层 | 林渡、丁字三、阿九、孟芸、两名当日搬运者共六人验料；三短顶板一旧长材中仅两块短板可作非承重补顶，料场挂牌待核装；两漏口比较后拟补第二处，第一户异议留册；写核装运与收班范围问页，拟依交账权限递往核心调度外柜（尚未递到） | 两块仍在六层料场，未到账／未安装／余班未用；不载人、不许安置；四笔候料均留；官方运输与供水班分开；下一步从实际装运对家属存根与已知站名，不用同类缺角印代替运输链 |\n\n### 本批偏离与最小补充的已核落点\n\n- A19执行卡方向未改。284按规划只完成优先两户与送抵环节核实；F09的实运／军用通道／已知站名完整利益链留第300章，不提前认定海上去向。\n- 285新增“边区四人末班旧工班水2.5壶”为已核实的最小场景补充：清退前已拨陶缸，钱婶退工候安置旧条领到清退班；陶家日核留页列三口，过夜许可不添水。三成人各2标准平勺、幼童半壶，原工逐笔销已拨栏／记末班实发；钱婶原罐、孟芸自带两罐接水，清退后停止续领。不是新产水或五层第七桶；D150起由原成人逐班让份。此规则为本批最小补充，不是假称旧资料早已规定。\n- 290新增外缘料场验料小场景：只获两块非承重旧顶板待核装，三短一长的另两件不领；拟只补第二处，不能据候装销四笔维修。没有新增设备、梁材、资金收入或运输实到。\n- 上述最小场景补充已完成独立审读与修后复核，不更改固定设定。C2已按作者同意的方案B回修第280章并完成关联独立短复核，第281—290章已发布。写前规划保留为溯源，正式续写以本批已发生实录及第290章批末台账为准；尚未发生的装运、停运兑现与解冻仍不得提前记实。\n\n### A20续写入口（据第290章已发布正文；以下为批末现状与未兑现事项，不是A20已发生事件）\n\n1. 水：每约定班申请83.5壶／实到60壶／欠23.5壶，15名原成人逐班自愿让半勺；没有永久同意、没有回补。\n2. 人：陶家与钱婶仍临借五层铺；次批其余8口未迁、2待核不解冻；退出合作两人仍在旧水册；照护三班、看板、分水及必要回话优先。\n3. 运：本旬一次可申材料余班尚未实际执行；两块旧顶板仍在六层料场待核装；旬末官方常班将撤／次旬暂不排，特许另核，冷却支路留班。\n4. 证：祝衡守三行半页（两行关系与送抵已核，一行未认）；F09还差实际装运与军用通道，不把已知海峡武器站当新发现、不追船。\n5. 路：房车仍四层旧轨旁，山腹旧路未重新走通；不提前宣告隧道可用或独立货运成立。外库核页条与涉档报文仍冻结，押存条件未兑现。\n\n"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 461,
+          "line_end_at_review": 461,
+          "sha256": "f4bbf3b3d9e2112bb390765af43f57afb6332d174b678d1dc77a53049496217f",
+          "text": "| 281 | D145另取新两楔；所护是板上行人，不增加板下通道；按班格查待核人。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 462,
+          "line_end_at_review": 462,
+          "sha256": "fba79c538c1eb20b6ed5424acc8eafc9f7923b4efb64c6c473a2bf171b6ddae3",
+          "text": "| 282 | 陶继补核使9核2待；其自愿做工与水份权利分别记录，不用立场换资格。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 463,
+          "line_end_at_review": 463,
+          "sha256": "ed1d1fb766f43ae3bf41458f0402479847ee2b86b1f371ffadcfb2f2d3987115",
+          "text": "| 283 | 钱婶旧条仍自持，未被没收；家属已发运只是牌上文字，还需实际核证。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 464,
+          "line_end_at_review": 464,
+          "sha256": "c5fdbd86234d87a04cb7e7149f60cdceffff0023e44b2ba65c52701e862c7da8",
+          "text": "| 284 | 只核两位优先家属已送抵七层，不预支登船离栈、去向或安全抵达。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 465,
+          "line_end_at_review": 465,
+          "sha256": "67ad1da15a58f5bfeb43c3303edc57f6eca4af8a7a32c4b4fc6b3d693e70b1da",
+          "text": "| 285 | 先稳住人再归包裹，握带时保留扶柱手；陶家3与另计钱婶4人下迁；原11余8。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 466,
+          "line_end_at_review": 466,
+          "sha256": "7a416e81d14b1beb5e8759009d8d3583397575a0e5ad66fc09685bce9fa5de26",
+          "text": "| 286 | 旧勺炭记半勺线不变成新刻量具；15人每班让半勺，总水仍60；尚待末班复核。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 467,
+          "line_end_at_review": 467,
+          "sha256": "3206a034cb9d89657b949e1e5fcf3df630ce352243402a40172684c3324436a9",
+          "text": "| 287 | 阀未开、无失水；说“工具给你”的是陶继，卸柄不销责任；限外堤操作不等于停水。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 468,
+          "line_end_at_review": 468,
+          "sha256": "99d7e120886e87afb4a80440fde0687bc37ae39c6ecba393da8a681a919f1d8a",
+          "text": "| 288 | 低水位及留守压力保留，查验不能外推库存天数或从安全线下拨水。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 469,
+          "line_end_at_review": 469,
+          "sha256": "ff2fd622fa676ba4dd844075a390f75d9d6b62a6fa3f93311a078a35e0f9460a",
+          "text": "| 289 | 左手按纸后执笔，伤右手不帮压；下行回捎没有送达回执。 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008逐章实际校准（251—300；2026-11-10）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 470,
+          "line_end_at_review": 470,
+          "sha256": "46a0641b9d2cd836b6ae22af9ea3b495f2351bb917f8242cd9b0eda05603f2c8",
+          "text": "| 290 | 两旧顶板还在六层待装；未实收未安装，交给下一篇核装运与停常班压力。 |"
+        }
+      ],
+      "tail_scan": {
+        "heading": "## R008逐章实际校准（251—300；2026-11-10）",
+        "sha256_observed": "aaa8fa00fdff5ca4726657bc9d8201e7dace877b47e14ca2b2a7443eee189cf5",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "target_file": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "sha256": "508586db4f1e3650605979bb19375cf6213b038fcc51420c996125fd6d06969e",
+      "bytes": 8168,
+      "scope": "已区分写前规划与实际实录；关键索引284明确仅送抵七层口，A19实录的逐班让水/未遂停岗/两板待装正确；其他篇规划与已发生史不签。",
+      "verdict": "pass",
+      "scope_projection_sha256": "309b5457ad34fd38f7ff1614f359c1f9b2a91932fc2ef06ba2c568b253e4263c",
+      "scope_spans": [
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "fragment_in_section",
+            "section_heading": "## R008五篇实际边界复核（251—300）",
+            "relevance": "only A19/batch-end permissions and carried constraints; mixed-row other chapters excluded"
+          },
+          "line_start_at_review": 47,
+          "line_end_at_review": 47,
+          "sha256": "39c7bb557838bc6eb962b484e5b992edc0dcf5d81ba5067bea2959b0741ef7f5",
+          "text": "| A19 | 制止陶继但不断其水；接陶家三口与另计钱婶，逐班征求让份 | 未遂仍停外堤操作；新需水增、两旧顶板290只待装，常班将停 |"
+        },
+        {
+          "kind": "reviewed_fact_scope",
+          "selector": {
+            "type": "index_fragment",
+            "section_heading": "## 关键章节索引"
+          },
+          "line_start_at_review": 27,
+          "line_end_at_review": 27,
+          "sha256": "4a65475cd9f0369939a332817573f9cc4cc4fe4699ed909e5f9159a24999638a",
+          "text": "284两户家属送抵七层口（不证登船离港）；本卷无正式叛徒判决"
+        },
+        {
+          "kind": "structural_context_not_historical_fact_audit",
+          "selector": {
+            "type": "planning_vs_actual_boundary"
+          },
+          "line_start_at_review": 3,
+          "line_end_at_review": 3,
+          "sha256": "373e26efe0ad2492b6fde096a4e4a7a09ae8bb8de011ba1f1727548c2cd27f2b",
+          "text": "> 下表保留开写前十章篇规划；本卷已发生内容以[逐章卡实录](逐章卡.md)和动态台账为准。卷级边界见[本卷卷纲](卷纲.md)，细化条件见[剧情架构索引](../README.md)。"
+        },
+        {
+          "kind": "structural_context_not_historical_fact_audit",
+          "selector": {
+            "type": "planning_vs_actual_boundary"
+          },
+          "line_start_at_review": 50,
+          "line_end_at_review": 50,
+          "sha256": "6b93dd807a2a322f4f6d036d2b9418d614c579dc6a58a0f9a7b09c787eaff32a",
+          "text": "上表为已发生实录校准；表头篇章规划里的货梯、新梁材、已成完整武装链等预想不得覆盖实际正文。未新增世界设定，八卷规划和400／D320导航不动。"
+        }
+      ],
+      "tail_scan": {
+        "heading": "## R008五篇实际边界复核（251—300）",
+        "sha256_observed": "7fef0d7edeab6ee159c76988fd6c391003ee10c875345cf22211740527c5a711",
+        "binding_use": "inventory only; whole tail is NOT approved, mixed rows are signed only for selected A19 content. On freeze re-scan for new A19 rows, not just old fragment matches."
+      }
+    }
+  ],
+  "closed_issues": [
+    {
+      "id": "R008-B29-WB01",
+      "suggestion_number": 1,
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old": "| D147／283 | 六层外堤寄工具→七层候船边区→六层 |",
+      "new": "| D147／283 | 六层外堤寄工具→七层候船边区→六层→五层值桌 |",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "candidate_quote": "| D147／283 | 六层外堤寄工具→七层候船边区→六层→五层值桌 | 五人含领路工人按回条登记；钱婶自报；见板裂栏倾及外堤检修布局，家属发运旧联待核 | 候核≠船位；七层板险尚未修，无梁可挪；扳手寄外堤 |",
+      "body_evidence": {
+        "chapter": 283,
+        "quote": "回到五层时，拉料又少了一班。"
+      },
+      "reason": "新位置链与283末段返回五层记延期吻合，未改D147或中途六层；与284五层取纸起点连贯。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_evidence": {
+        "path": "harness/maintenance/R008/recovery-writeback-applied.json",
+        "array_position_1_based": 35,
+        "group": "B29",
+        "index": 0,
+        "recorded_before_sha256": "25ef414deadc8c3efff648eb2f3c861e95501357ecdd437676f9d47ee3af2921",
+        "recorded_after_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+        "recorded_after_matches_observed_file": true,
+        "note": "applied记录自身的pending状态未由读者改写；本报告给出独立关闭结论。"
+      }
+    },
+    {
+      "id": "R008-B29-WB02",
+      "suggestion_number": 2,
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old": "| 283 | D147；六层外堤→七层候船边区→六层 |",
+      "new": "| 283 | D147；六层外堤→七层候船边区→六层→五层值桌 |",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "candidate_quote": "| 283 | D147；六层外堤→七层候船边区→六层→五层值桌 | 陶继先在外堤寄扳手；林渡与陶家随领路原工按回条过门；区分在岗核验、家属候核、实发船位；钱婶自报身份 | 七层深色横板开裂、栏脚倾斜只封一段，未修梁；六层排水口方轴／止动／排沟先露；普通候核纸没有船位，旧联却写家属已发运 |",
+      "body_evidence": {
+        "chapter": 283,
+        "quote": "回到五层时，拉料又少了一班。"
+      },
+      "reason": "逐章卡与时间线现均补齐六层后返五层，未把写前执行卡的简略路线误作实录。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_evidence": {
+        "path": "harness/maintenance/R008/recovery-writeback-applied.json",
+        "array_position_1_based": 36,
+        "group": "B29",
+        "index": 1,
+        "recorded_before_sha256": "36d358f75537b773cfaf5308dabc12b70bb7559b31fc10304a34f5b0a6b2af37",
+        "recorded_after_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+        "recorded_after_matches_observed_file": true,
+        "note": "applied记录自身的pending状态未由读者改写；本报告给出独立关闭结论。"
+      }
+    },
+    {
+      "id": "R008-B29-WB03",
+      "suggestion_number": 3,
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old": "核验小纸送旧灶销毁；两条旧失联空行保留",
+      "new": "临时比字条送旧灶销毁；原半页与送人者署名的核验抄页仍由祝衡私存，只供两家核问；两条旧失联空行保留",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "candidate_quote": "| 祝衡 | 五层值桌／公议处，守原件不跟上坡 | 左腿伤加重持续、起身扶桌，翻页须歇；三行半页包在干净纸中保管，核验抄页／检修责任／公开册沿原 | 两行主名已核为优先家属关系与送抵，一行未认；不公开整名，不补海上安全或死亡；临时比字条送旧灶销毁；原半页与送人者署名的核验抄页仍由祝衡私存，只供两家核问；两条旧失联空行保留 |",
+      "body_evidence": {
+        "chapter": 284,
+        "quote": "祝衡先将原半页与送人者署名的核验抄页包好，放回原格，叮嘱仍只供两家核问；那张比字条则交给戊字一送到旧灶。"
+      },
+      "reason": "销毁的是临时比字条，原半页与署名核验抄页私存；不再用“核验小纸”混称两种不同物件。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_evidence": {
+        "path": "harness/maintenance/R008/recovery-writeback-applied.json",
+        "array_position_1_based": 37,
+        "group": "B29",
+        "index": 2,
+        "recorded_before_sha256": "69cd2acab30e71515f95a5060a26d83ad81ffb16ae8182919da0329a6de668ef",
+        "recorded_after_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+        "recorded_after_matches_observed_file": true,
+        "note": "applied记录自身的pending状态未由读者改写；本报告给出独立关闭结论。"
+      }
+    },
+    {
+      "id": "R008-B29-WB04",
+      "suggestion_number": 4,
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old": "A18的供货批次与撤离物资互证沿旧；本批不能因同类缺角印认同一实印／全部共谋",
+      "new": "本批仅承接挂签数号、旧收条排法与缺角描样提供的待核运输关联；不将其登记为武器供货与撤离实运链已坐实，不因同类缺角印认同一实印／全部共谋",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "candidate_quote": "| F11／教团上城区制式武器供货 | 故意保留；本批未获新武器实物或供货原件 | 本批仅承接挂签数号、旧收条排法与缺角描样提供的待核运输关联；不将其登记为武器供货与撤离实运链已坐实，不因同类缺角印认同一实印／全部共谋 | 供货签发归属与军用用途按既定卷段取证，本卷不解释武器原理 |",
+      "body_evidence": {
+        "chapter": 290,
+        "quote": "海峡武器站的名字他们也早知道，名字本身不能说明这车载了谁、哪道门放了行。下一张问页要从实装记录开始，三行半页里剩下的那个人，也仍只准私下认。"
+      },
+      "reason": "旧A19 F11不再把供货与撤离实运链当已坐实；与末尾F11权限及290仍待实装记录对齐；未审签A18历史。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_evidence": {
+        "path": "harness/maintenance/R008/recovery-writeback-applied.json",
+        "array_position_1_based": 38,
+        "group": "B29",
+        "index": 3,
+        "recorded_before_sha256": "517a4c723c9a28705f58ae6b690dfc95ba6e915d2d0bceb38c318174539f3159",
+        "recorded_after_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+        "recorded_after_matches_observed_file": true,
+        "note": "applied记录自身的pending状态未由读者改写；本报告给出独立关闭结论。"
+      }
+    },
+    {
+      "id": "R008-B29-WB05",
+      "suggestion_number": 5,
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "old": "当班工人留存的发运交接联，只核人数、批次与交到的登船口；不含远海目的地",
+      "new": "当班工人留存的发运交接联，列主名、所属家属类别、当批编号及送抵七层口的时间、接收者；只证送抵，不证登船离港或远海目的地",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "candidate_quote": "| 凭单 | 转运存根 | 当班工人留存的发运交接联，列主名、所属家属类别、当批编号及送抵七层口的时间、接收者；只证送抵，不证登船离港或远海目的地 | 实运全册、完整撤离名册 |",
+      "body_evidence": {
+        "chapter": 284,
+        "quote": "存根的纸比半页名单薄，一页上分成发运与接收两栏。发运栏写主名、所属家属类别、当批编号；接收栏写交到七层哪一道口、何时交到，由接手者落名。没有远海去处，也没有后续到港字。"
+      },
+      "reason": "存根字段与284实际发运/接收两栏相符，列主名、类别、批号和交接记录；证据上限仍只是送抵。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_evidence": {
+        "path": "harness/maintenance/R008/recovery-writeback-applied.json",
+        "array_position_1_based": 39,
+        "group": "B29",
+        "index": 4,
+        "recorded_before_sha256": "78ec8bfff9933d19aa3a8730600035286d5f81f718c400f7acddb98451e28305",
+        "recorded_after_sha256": "55c4de64795167fccac7383bee47037d60d0c32d898005b8c7247c901336ee03",
+        "recorded_after_matches_observed_file": true,
+        "note": "applied记录自身的pending状态未由读者改写；本报告给出独立关闭结论。"
+      }
+    },
+    {
+      "id": "R008-B29-WB06",
+      "suggestion_number": 6,
+      "status": "closed",
+      "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "old": "284家属实运；本卷无正式叛徒判决",
+      "new": "284两户家属送抵七层口（不证登船离港）；本卷无正式叛徒判决",
+      "old_occurrences": 0,
+      "new_occurrences": 1,
+      "candidate_quote": "| 三 | 225：亲见赫连真实救库与排除逻辑并存 | 250：删人停止后真实供给缺口暴露 | 275：教团供货批次与撤离物资相连 | 300：证实运输和利益链，官方断运 | 206制式武器；210空街；284两户家属送抵七层口（不证登船离港）；本卷无正式叛徒判决，只写拒交载体与合作条件收紧 |",
+      "body_evidence": {
+        "chapter": 284,
+        "quote": "“已经从候船边区转到登船口。”祝衡说，“后续有没有离港、到哪儿，这两张纸还不能证。”"
+      },
+      "reason": "关键索引已写两户送抵及不证登船离港，与A19实录一致；原写前规划明确留为规划，不用它反证当前稿。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_evidence": {
+        "path": "harness/maintenance/R008/recovery-writeback-applied.json",
+        "array_position_1_based": 40,
+        "group": "B29",
+        "index": 5,
+        "recorded_before_sha256": "4a213bdf6e7277e99dbd9d4f0ccd6f081b0b3419f04046c8808c2b7d7e83c7ab",
+        "recorded_after_sha256": "508586db4f1e3650605979bb19375cf6213b038fcc51420c996125fd6d06969e",
+        "recorded_after_matches_observed_file": true,
+        "note": "applied记录自身的pending状态未由读者改写；本报告给出独立关闭结论。"
+      }
+    }
+  ],
+  "issues": [],
+  "summary": {
+    "candidate_files": 8,
+    "prior_suggestions": 6,
+    "closed": 6,
+    "remaining_in_scope_issues": 0,
+    "new_body_issues": 0
+  },
+  "snapshot_checks": {
+    "all_six_old_absent_new_unique": true,
+    "six_closure_quotes_exact_in_current_body": true,
+    "candidate_bytes_stable_at_report_write": true,
+    "full_file_sha_is_snapshot_not_full_history_approval": true
+  },
+  "freeze_binding": {
+    "status": "awaiting_writer_final_freeze",
+    "binding_stage": "pre_freeze_scope_pass",
+    "final_freeze_confirmed": false,
+    "final_frozen_binding_performed": false,
+    "pending_action": "主笔明确最终冻结8候选后，按本报告同一范围重抽A19实录/索引/校准；检查混合尾段是否新增或改动本范围语句，确认正文仍同一digest，再更新实际8 SHA并附最终绑定记录。",
+    "comparison_rule": "先比每个scope_spans原文与范围投影；整文件SHA变化本身不判本范围失败。变化若仅属其他组且A19范围/新增相关条目无变，可重新绑定新8 SHA；本范围有变化则亲读差异再给结论，不沿用本次pass。",
+    "do_not_expand_to_full_history_audit": true
+  },
+  "supersedes_status_only": {
+    "reports": [
+      "harness/maintenance/R008/B29/recovery-writeback-review.md",
+      "harness/maintenance/R008/B29/recovery-validation.json",
+      "harness/maintenance/R008/B29/final.json"
+    ],
+    "note": "以上报告里的“6条待主笔处理”是上一快照状态，本报告确认现已应用并独立关闭；旧报告不改写。最终冻结仍未完成。"
+  },
+  "writes": [
+    "harness/maintenance/R008/B29/recovery-writeback-final.json"
+  ],
+  "candidate_modified_by_reviewer": false,
+  "body_modified_by_reviewer": false,
+  "not_publication_approval": true
+}

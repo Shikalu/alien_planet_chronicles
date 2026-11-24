@@ -1,0 +1,24 @@
+{
+  "writer": "R005-resume-main",
+  "source": "harness/maintenance/R005/resume-20261109/B12/recheck-edits-v3.json",
+  "source_sha256": "87af8dab490c5808a4e0346727fb1afb5cf278c8842847a6acfcfdddf21b4e04",
+  "edits": [
+    {
+      "issue_ids": [
+        "R005-resume-B12-recheck-v3-001"
+      ],
+      "chapter": 117,
+      "before": "杜姨是跟着第二批孩子下来的。",
+      "after": "杜姨跟着这八个孩子里压后的一组下来。",
+      "reason": "第一批八人分小组过梯，杜姨随其中压后一组；不另收第二批九人，保八在六/九在七与D4末批。"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 117,
+      "before_sha256": "b5159578d0ae6df45e910b21d3b0794b556f3daa758c5354e51a57f7617cd563",
+      "after_sha256": "c7bf21f4d6447d547522783b42d49e7504abdf4729073e56ec505d225b60d8d6",
+      "han": 2566
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "schema_version": 1,
+  "kind": "publication-binding",
+  "batch": "R006-B18",
+  "date": "2026-11-07T16:12:29.786354+08:00",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "writer": "R006-main",
+  "identity_binding": {
+    "agent_id": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+    "role": "R006-B18独立读者",
+    "source": "主线程在本会话提供的实际spawn/send_input调用元数据；用户确认target即此ID，初审、v1、v2与本次授权终审属于同一独立线程。",
+    "source_visibility": "本会话据主线程在用户消息提供的实际spawn/send_input调用元数据亲自绑定；非角色标签、非推测；未声称自行看过底层调用日志。",
+    "same_independent_thread": true,
+    "same_thread_reviews": [
+      "harness/maintenance/R006/B18/initial.json",
+      "harness/maintenance/R006/B18/final.json",
+      "harness/maintenance/R006/B18/final2.json",
+      "harness/maintenance/R006/B18/final-authorized.json"
+    ],
+    "historical_records_preserved": "已核initial.json与final.json的reviewer均为null；保持原字节，不补造历史通过签名。主线程另作身份交接包装。",
+    "writer": "R006-main",
+    "reviewer_wrote_manuscripts": false
+  },
+  "independent": true,
+  "body_first": true,
+  "body_first_note": "沿用原真实先正文后作者资料流程；本次为发布后实文件字节/路径/回填绑定，不冒称新的首读。",
+  "verdict": "pass",
+  "verdict_scope": "B18正式171—180与原独立终审同字节；A08对应WB正式落盘及172重命名导航。非R006全组发布验收，不推进故事状态。",
+  "manuscripts": [
+    {
+      "chapter": 171,
+      "path": "异星录/正文/第二卷_黑暗断阶/第171章_有人摸到总阀.md",
+      "sha256": "9fc4b757ab9ac17bac9b7708c9052455034fd2079fa6bc6fb88122ebc8a819af"
+    },
+    {
+      "chapter": 172,
+      "path": "异星录/正文/第二卷_黑暗断阶/第172章_先断谁的水.md",
+      "sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3"
+    },
+    {
+      "chapter": 173,
+      "path": "异星录/正文/第二卷_黑暗断阶/第173章_复仇名单上有孩子.md",
+      "sha256": "10bf5cd47b9c9364526e11193d915de0a27d094e68cef01e66802905e4114928"
+    },
+    {
+      "chapter": 174,
+      "path": "异星录/正文/第二卷_黑暗断阶/第174章_父亲要的那一道门.md",
+      "sha256": "941a8ffcd33a1d4d69c261797cb83ade17e53d736f17af09d469425b58878084"
+    },
+    {
+      "chapter": 175,
+      "path": "异星录/正文/第二卷_黑暗断阶/第175章_把队列摆在图旁.md",
+      "sha256": "7e5da27afe9b397f53db7936dabaf66dcbb254639cc57ce5bae7df7743e1c597"
+    },
+    {
+      "chapter": 176,
+      "path": "异星录/正文/第二卷_黑暗断阶/第176章_不再替你解释.md",
+      "sha256": "16c12ac6a648cf840b07d8ab018a4a49804f5f3f4171ff5e737f707e92515570"
+    },
+    {
+      "chapter": 177,
+      "path": "异星录/正文/第二卷_黑暗断阶/第177章_离开的那一班人.md",
+      "sha256": "f5e72bc5b1abcfa15bf46c4824419b79db119c82aba9a66d400f16327e3a0306"
+    },
+    {
+      "chapter": 178,
+      "path": "异星录/正文/第二卷_黑暗断阶/第178章_这一趟不装匣子.md",
+      "sha256": "372e56120b6b857df8fdd6cc8f930b1bbf4760118f5d76dafd97f2c803850337"
+    },
+    {
+      "chapter": 179,
+      "path": "异星录/正文/第二卷_黑暗断阶/第179章_对不上的是哪一笔.md",
+      "sha256": "5c13e84dcebeec57d25d1a373ff9793927c5de010d6de0cfb0bc1a6ef36af6ee"
+    },
+    {
+      "chapter": 180,
+      "path": "异星录/正文/第二卷_黑暗断阶/第180章_谁能带走一份.md",
+      "sha256": "ba0937d6116324ea8e990614e7965b0f43c3d4f2428a9e9e3aed9109ca95779c"
+    }
+  ],
+  "source_digest": "8782c64dcdadd2abdce818213981777efb98fc897df89d4a31d02c8e2fb5638c",
+  "digest_method": "SHA256(json.dumps(manuscripts, sort_keys=True, ensure_ascii=False).encode()); rows含chapter/path/sha256，正式路径变化故与work digest不同。",
+  "reviewed_work_source_digest": "7183d7c971173a6b694489cbcca357ce9a047078ca156c066130540b79c29927",
+  "publication_manifest": {
+    "path": "harness/maintenance/R006/publication-manifest.json",
+    "sha256": "e8db0266149168d8f6d9e9f7d47c4b980916c7eabed7c8f9d69e937557b92468",
+    "group": "B18",
+    "declared_published_digest": "8782c64dcdadd2abdce818213981777efb98fc897df89d4a31d02c8e2fb5638c"
+  },
+  "review_references": {
+    "final": {
+      "path": "harness/maintenance/R006/B18/final-authorized.json",
+      "sha256": "d33f0e9568c6f66776f73f0765827ec92d620fbb448897f13382faec7edff867",
+      "verdict": "pass"
+    },
+    "reader": {
+      "path": "harness/maintenance/R006/B18/reader-authorized.json",
+      "sha256": "62e4632046be9fcc9210419315723d19a1f7804b45bf69bd58d7dccd18d1b36a",
+      "verdict": "pass"
+    },
+    "reader_published": {
+      "path": "harness/maintenance/R006/B18/reader-published.json",
+      "sha256": "75509a26021e3a04cd24cd680ee7091010679326e8343e5426afcb5c1ffad1f2",
+      "verdict": "pass"
+    }
+  },
+  "file_checks": [
+    {
+      "chapter": 171,
+      "path": "异星录/正文/第二卷_黑暗断阶/第171章_有人摸到总阀.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "sha256": "9fc4b757ab9ac17bac9b7708c9052455034fd2079fa6bc6fb88122ebc8a819af",
+      "reviewed_sha256": "9fc4b757ab9ac17bac9b7708c9052455034fd2079fa6bc6fb88122ebc8a819af",
+      "publication_manifest_sha256": "9fc4b757ab9ac17bac9b7708c9052455034fd2079fa6bc6fb88122ebc8a819af",
+      "work_sha256": "9fc4b757ab9ac17bac9b7708c9052455034fd2079fa6bc6fb88122ebc8a819af",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 172,
+      "path": "异星录/正文/第二卷_黑暗断阶/第172章_先断谁的水.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3",
+      "reviewed_sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3",
+      "publication_manifest_sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3",
+      "work_sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass",
+      "before_path": "异星录/正文/第二卷_黑暗断阶/第172章_流不到议政厅的那一管.md"
+    },
+    {
+      "chapter": 173,
+      "path": "异星录/正文/第二卷_黑暗断阶/第173章_复仇名单上有孩子.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "sha256": "10bf5cd47b9c9364526e11193d915de0a27d094e68cef01e66802905e4114928",
+      "reviewed_sha256": "10bf5cd47b9c9364526e11193d915de0a27d094e68cef01e66802905e4114928",
+      "publication_manifest_sha256": "10bf5cd47b9c9364526e11193d915de0a27d094e68cef01e66802905e4114928",
+      "work_sha256": "10bf5cd47b9c9364526e11193d915de0a27d094e68cef01e66802905e4114928",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 174,
+      "path": "异星录/正文/第二卷_黑暗断阶/第174章_父亲要的那一道门.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "sha256": "941a8ffcd33a1d4d69c261797cb83ade17e53d736f17af09d469425b58878084",
+      "reviewed_sha256": "941a8ffcd33a1d4d69c261797cb83ade17e53d736f17af09d469425b58878084",
+      "publication_manifest_sha256": "941a8ffcd33a1d4d69c261797cb83ade17e53d736f17af09d469425b58878084",
+      "work_sha256": "941a8ffcd33a1d4d69c261797cb83ade17e53d736f17af09d469425b58878084",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 175,
+      "path": "异星录/正文/第二卷_黑暗断阶/第175章_把队列摆在图旁.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "sha256": "7e5da27afe9b397f53db7936dabaf66dcbb254639cc57ce5bae7df7743e1c597",
+      "reviewed_sha256": "7e5da27afe9b397f53db7936dabaf66dcbb254639cc57ce5bae7df7743e1c597",
+      "publication_manifest_sha256": "7e5da27afe9b397f53db7936dabaf66dcbb254639cc57ce5bae7df7743e1c597",
+      "work_sha256": "7e5da27afe9b397f53db7936dabaf66dcbb254639cc57ce5bae7df7743e1c597",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 176,
+      "path": "异星录/正文/第二卷_黑暗断阶/第176章_不再替你解释.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "sha256": "16c12ac6a648cf840b07d8ab018a4a49804f5f3f4171ff5e737f707e92515570",
+      "reviewed_sha256": "16c12ac6a648cf840b07d8ab018a4a49804f5f3f4171ff5e737f707e92515570",
+      "publication_manifest_sha256": "16c12ac6a648cf840b07d8ab018a4a49804f5f3f4171ff5e737f707e92515570",
+      "work_sha256": "16c12ac6a648cf840b07d8ab018a4a49804f5f3f4171ff5e737f707e92515570",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 177,
+      "path": "异星录/正文/第二卷_黑暗断阶/第177章_离开的那一班人.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "sha256": "f5e72bc5b1abcfa15bf46c4824419b79db119c82aba9a66d400f16327e3a0306",
+      "reviewed_sha256": "f5e72bc5b1abcfa15bf46c4824419b79db119c82aba9a66d400f16327e3a0306",
+      "publication_manifest_sha256": "f5e72bc5b1abcfa15bf46c4824419b79db119c82aba9a66d400f16327e3a0306",
+      "work_sha256": "f5e72bc5b1abcfa15bf46c4824419b79db119c82aba9a66d400f16327e3a0306",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 178,
+      "path": "异星录/正文/第二卷_黑暗断阶/第178章_这一趟不装匣子.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "sha256": "372e56120b6b857df8fdd6cc8f930b1bbf4760118f5d76dafd97f2c803850337",
+      "reviewed_sha256": "372e56120b6b857df8fdd6cc8f930b1bbf4760118f5d76dafd97f2c803850337",
+      "publication_manifest_sha256": "372e56120b6b857df8fdd6cc8f930b1bbf4760118f5d76dafd97f2c803850337",
+      "work_sha256": "372e56120b6b857df8fdd6cc8f930b1bbf4760118f5d76dafd97f2c803850337",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 179,
+      "path": "异星录/正文/第二卷_黑暗断阶/第179章_对不上的是哪一笔.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "sha256": "5c13e84dcebeec57d25d1a373ff9793927c5de010d6de0cfb0bc1a6ef36af6ee",
+      "reviewed_sha256": "5c13e84dcebeec57d25d1a373ff9793927c5de010d6de0cfb0bc1a6ef36af6ee",
+      "publication_manifest_sha256": "5c13e84dcebeec57d25d1a373ff9793927c5de010d6de0cfb0bc1a6ef36af6ee",
+      "work_sha256": "5c13e84dcebeec57d25d1a373ff9793927c5de010d6de0cfb0bc1a6ef36af6ee",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 180,
+      "path": "异星录/正文/第二卷_黑暗断阶/第180章_谁能带走一份.md",
+      "work_path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "sha256": "ba0937d6116324ea8e990614e7965b0f43c3d4f2428a9e9e3aed9109ca95779c",
+      "reviewed_sha256": "ba0937d6116324ea8e990614e7965b0f43c3d4f2428a9e9e3aed9109ca95779c",
+      "publication_manifest_sha256": "ba0937d6116324ea8e990614e7965b0f43c3d4f2428a9e9e3aed9109ca95779c",
+      "work_sha256": "ba0937d6116324ea8e990614e7965b0f43c3d4f2428a9e9e3aed9109ca95779c",
+      "bytes_equal_to_work": true,
+      "matches_reviewed_sha256": true,
+      "matches_manifest": true,
+      "work_path_matches_frozen_review": true,
+      "verdict": "pass"
+    }
+  ],
+  "writeback_file_checks": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "source_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "manifest_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "325—350，A08完整；后轮24处对应整行复核。相邻A09偶见不用作本组已发生事实。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "source_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "manifest_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "332—347，A08完整；医疗、班表、能量与原抄盘点回填再核。 最终封存前复读332—347行；全文件SHA仅绑定当次观察，不扩大审读范围。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "source_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "manifest_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "F03相关旧条、F16/F17完整行、25—34 A08新增；其余未全读。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "source_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "manifest_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "195—211，171—180对应条目；197—210再次核。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/术语词典.md",
+      "sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "source_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "manifest_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "以171—180/对应专名检索定位，未见本组专属新条；偶见未来条目不倒灌，不声称全表读完。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/术语与命名表.md",
+      "sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "source_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "manifest_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "86—94，执行图、议政厅172新题、月巡簿、逐号查行；其余仅定位检索。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "source_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "manifest_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "140—154 A08规划；678—742 A08实录分段补足，旧closed及本轮回填逐项；未宣称全卷。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/十章篇章卡.md",
+      "sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "source_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "manifest_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "A08整行；A09/A10相邻行仅规划边界，不当当前事实。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/目录.md",
+      "source_path": "异星录/06_执行计划/工作区/R006-WB/目录.md",
+      "sha256": "dd784eeff5755ded880984ddf9a983e2b59c944cb70cd6bce5bf4ad8e54959f7",
+      "source_sha256": "dd784eeff5755ded880984ddf9a983e2b59c944cb70cd6bce5bf4ad8e54959f7",
+      "manifest_sha256": "dd784eeff5755ded880984ddf9a983e2b59c944cb70cd6bce5bf4ad8e54959f7",
+      "byte_identical_to_published_candidate": true,
+      "matches_publication_manifest": true,
+      "review_scope": "75—84第171—180链接；73—79回核172候选。",
+      "verdict": "pass"
+    }
+  ],
+  "writeback_scope_note": "九文件整字节相同只证明发布转存；内容核验范围沿原报告A08与对应旧条，不宣称重审其他批次。原41项正文/WB证据共86条及末轮27处after已在正式路径核实。",
+  "issue_binding_checks": [
+    {
+      "id": "R006-B18-001",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/0"
+    },
+    {
+      "id": "R006-B18-002",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/1"
+    },
+    {
+      "id": "R006-B18-003",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/2"
+    },
+    {
+      "id": "R006-B18-004",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/3"
+    },
+    {
+      "id": "R006-B18-005",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/4"
+    },
+    {
+      "id": "R006-B18-006",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/5"
+    },
+    {
+      "id": "R006-B18-007",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 4,
+      "source_reference": "final-authorized.json#/issues/6"
+    },
+    {
+      "id": "R006-B18-008",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/7"
+    },
+    {
+      "id": "R006-B18-009",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/8"
+    },
+    {
+      "id": "R006-B18-010",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/9"
+    },
+    {
+      "id": "R006-B18-011",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/10"
+    },
+    {
+      "id": "R006-B18-012",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/11"
+    },
+    {
+      "id": "R006-B18-013",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 5,
+      "source_reference": "final-authorized.json#/issues/12"
+    },
+    {
+      "id": "R006-B18-014",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 8,
+      "source_reference": "final-authorized.json#/issues/13"
+    },
+    {
+      "id": "R006-B18-015",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/14"
+    },
+    {
+      "id": "R006-B18-016",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/15"
+    },
+    {
+      "id": "R006-B18-017",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 3,
+      "source_reference": "final-authorized.json#/issues/16"
+    },
+    {
+      "id": "R006-B18-018",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/17"
+    },
+    {
+      "id": "R006-B18-019",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/18"
+    },
+    {
+      "id": "R006-B18-020",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/19"
+    },
+    {
+      "id": "R006-B18-021",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 4,
+      "source_reference": "final-authorized.json#/issues/20"
+    },
+    {
+      "id": "R006-B18-022",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/21"
+    },
+    {
+      "id": "R006-B18-023",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/22"
+    },
+    {
+      "id": "R006-B18-024",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/23"
+    },
+    {
+      "id": "R006-B18-025",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/24"
+    },
+    {
+      "id": "R006-B18-026",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/25"
+    },
+    {
+      "id": "R006-B18-027",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/26"
+    },
+    {
+      "id": "R006-B18-028",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/27"
+    },
+    {
+      "id": "R006-B18-029",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/28"
+    },
+    {
+      "id": "R006-B18-030",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/29"
+    },
+    {
+      "id": "R006-B18-031",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/30"
+    },
+    {
+      "id": "R006-B18-032",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/31"
+    },
+    {
+      "id": "R006-B18-033",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/32"
+    },
+    {
+      "id": "R006-B18-034",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/33"
+    },
+    {
+      "id": "R006-B18-035",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 2,
+      "source_reference": "final-authorized.json#/issues/34"
+    },
+    {
+      "id": "R006-B18-036",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/35"
+    },
+    {
+      "id": "R006-B18-037",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/36"
+    },
+    {
+      "id": "R006-B18-038",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 4,
+      "source_reference": "final-authorized.json#/issues/37"
+    },
+    {
+      "id": "R006-B18-039",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/38"
+    },
+    {
+      "id": "R006-B18-040",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 1,
+      "source_reference": "final-authorized.json#/issues/39"
+    },
+    {
+      "id": "R006-B18-041",
+      "status": "closed",
+      "published_evidence_verified": true,
+      "evidence_records": 12,
+      "source_reference": "final-authorized.json#/issues/40"
+    }
+  ],
+  "last_round_applied_operation_checks": [
+    {
+      "id": "B18-AR-001",
+      "path": "异星录/正文/第二卷_黑暗断阶/第174章_父亲要的那一道门.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-002",
+      "path": "异星录/正文/第二卷_黑暗断阶/第175章_把队列摆在图旁.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-003",
+      "path": "异星录/正文/第二卷_黑暗断阶/第176章_不再替你解释.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-004",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-005",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-006",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-007",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-008",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-009",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-010",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-011",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-012",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-013",
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-014",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-015",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-016",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-017",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-018",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-019",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-020",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-021",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-022",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-023",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-024",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-025",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-026",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "after_present": true,
+      "before_absent": true
+    },
+    {
+      "id": "B18-AR-027",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "after_present": true,
+      "before_absent": true
+    }
+  ],
+  "title_navigation": {
+    "status": "published_and_verified",
+    "chapter": 172,
+    "work_path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+    "title": "第一百七十二章 先断谁的水",
+    "before_path": "异星录/正文/第二卷_黑暗断阶/第172章_流不到议政厅的那一管.md",
+    "publication_path": "异星录/正文/第二卷_黑暗断阶/第172章_先断谁的水.md",
+    "evidence": [
+      {
+        "path": "异星录/正文/第二卷_黑暗断阶/目录.md",
+        "quote": "- [第172章 先断谁的水](第172章_先断谁的水.md)"
+      },
+      {
+        "path": "异星录/04_连续性管理/术语与命名表.md",
+        "quote": "172章《先断谁的水》"
+      }
+    ],
+    "note": "旧工作路径保留绑定，不重写initial/v1/v2路径；WB是发布导航候选，新链接目标须发布重命名后验证，当前不把它误报断链。",
+    "work_path_preserved": true,
+    "before_path_absent": true,
+    "published_title": "# 第一百七十二章 先断谁的水"
+  },
+  "reader_binding": {
+    "checks": 52,
+    "checks_identical_to_frozen_reader": true,
+    "all_quotes_present_in_published_files": true,
+    "formal_paths_only": true,
+    "checker_result": {
+      "errors": [],
+      "incomplete_checks": [],
+      "reader_review_passed": true,
+      "verdict": "pass",
+      "chapters": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "includes_prologue": false,
+      "profile": "serial"
+    }
+  },
+  "frozen_artifacts_preserved": {
+    "harness/maintenance/R006/B18/final-authorized.json": "d33f0e9568c6f66776f73f0765827ec92d620fbb448897f13382faec7edff867",
+    "harness/maintenance/R006/B18/reader-authorized.json": "62e4632046be9fcc9210419315723d19a1f7804b45bf69bd58d7dccd18d1b36a",
+    "harness/maintenance/R006/B18/final-authorized.md": "b2fe5c776a9ba1edb05df4859580d2e5a0e942a754b3e101031859f813a498a5",
+    "harness/maintenance/R006/B18/final-authorized-validation.json": "68e913fb5de2bec2dfff69d892ccbd9226dfa033d912f95083e9896e45634bf0"
+  },
+  "errors": []
+}

@@ -1,0 +1,915 @@
+{
+  "batch": "R005-B11",
+  "phase": "recheck4",
+  "review_date": "2026-11-07",
+  "writer": "R005-main",
+  "reviewer": "01a1b3d0-dd0f-76f2-9300-fb7115bccc61",
+  "reviewer_identity_source": "CODEX_THREAD_ID（本轮exec实取）",
+  "body_first": true,
+  "independent": true,
+  "independence_note": "同一独立审读者未修稿；108先全文实读后对照。九章按前轮实际阅读与相同SHA明确继承，不冒充本轮重读。",
+  "manuscripts": [
+    {
+      "chapter": 101,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "sha256": "014cdb954d1846ced0fb2266ffb563e0c108079aee9baceef6a19304d1cdd056"
+    },
+    {
+      "chapter": 102,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "sha256": "f32a0b5147d8d3c603a4af36d9b9ff5eaba065d75db97dee86a967d19440f964"
+    },
+    {
+      "chapter": 103,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "sha256": "f907ce5153999c2d98f63a0a24837dea2ac81e60270e3a8021d8baf8facd3d7c"
+    },
+    {
+      "chapter": 104,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "sha256": "97d0f9cfec8b8e0cfda5f560bfb72e3d571cd07db1d80b869063d3ec4f9738a2"
+    },
+    {
+      "chapter": 105,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "sha256": "5c01acd4ada4b43d42eed69a25033f3e6c072c43616ba33aca5d0267e00ab980"
+    },
+    {
+      "chapter": 106,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "sha256": "3ed59ed36af27c94a4c1f1ee7da957d4c0a21dd3b5d808802270e0fc06aa732e"
+    },
+    {
+      "chapter": 107,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "sha256": "57b5b82d6f969f051002fa18d02ebea6d6c922e1ac1860c06eab2dcb304f7537"
+    },
+    {
+      "chapter": 108,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "sha256": "8913021b9fea527aa1c42338873057a44cf0742c784d9a1b03a52234f6c19dc3"
+    },
+    {
+      "chapter": 109,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "sha256": "5508406e887478a2833800d776e6a04434051111b1e78d56f35b7b945ae887a9"
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "sha256": "f84b465d91ddc2c59b0610096bdef350747c0a2bb13a0b4d55fcccf5a2002e5d"
+    }
+  ],
+  "input_digest": "65a711609f94c3d9ece0b12e3d0cada4412269470c463c7f3eca2437c3d711d8",
+  "read_coverage": [
+    {
+      "chapter": 101,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "014cdb954d1846ced0fb2266ffb563e0c108079aee9baceef6a19304d1cdd056",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 102,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "f32a0b5147d8d3c603a4af36d9b9ff5eaba065d75db97dee86a967d19440f964",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 103,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "f907ce5153999c2d98f63a0a24837dea2ac81e60270e3a8021d8baf8facd3d7c",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 104,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "97d0f9cfec8b8e0cfda5f560bfb72e3d571cd07db1d80b869063d3ec4f9738a2",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 105,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "5c01acd4ada4b43d42eed69a25033f3e6c072c43616ba33aca5d0267e00ab980",
+      "last_full_read": "recheck3"
+    },
+    {
+      "chapter": 106,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "3ed59ed36af27c94a4c1f1ee7da957d4c0a21dd3b5d808802270e0fc06aa732e",
+      "last_full_read": "recheck3"
+    },
+    {
+      "chapter": 107,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "57b5b82d6f969f051002fa18d02ebea6d6c922e1ac1860c06eab2dcb304f7537",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 108,
+      "mode": "full_reread_current_bytes",
+      "previous_sha256": "4b1fd721146d564ca231b79774f343680905cf9cc65f2ac83e5cf1398c25ea66",
+      "last_full_read": "recheck4"
+    },
+    {
+      "chapter": 109,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "5508406e887478a2833800d776e6a04434051111b1e78d56f35b7b945ae887a9",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 110,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "f84b465d91ddc2c59b0610096bdef350747c0a2bb13a0b4d55fcccf5a2002e5d",
+      "last_full_read": "recheck2"
+    }
+  ],
+  "coverage_limits": [
+    "本轮只完整实读当前108（含删句上下文）；其余九章未重读全文，只核与复核3相同SHA后继承。",
+    "105/106最近完整阅读为复核3，其余未变七章为复核2；同一审读者并未参与正文修稿。",
+    "本轮先108正文后旧报告/diff；先取旧manifest仅作指纹基线，不以diff代替实读。",
+    "未查最新作者台账、章卡、edits或未来正文；不把未裁事实自行关闭。",
+    "字节/原句自动核验不算人工全文阅读；本轮不涉及黄金前三章，也不代表全书验收。"
+  ],
+  "previous_input_digest": "c3c8b8cc1a53d2feb0e4a0e9b16c56294fffaaf263e7326cc505e981f66856ee",
+  "source_review": "harness/maintenance/R005/B11/review-v3/recheck3.json",
+  "source_review_sha256": "868b1333e06a69cd8957ae76c26dad3e5a142431efc12f6e49f5e5dd54b006dd",
+  "source_snapshot": "harness/maintenance/R005/B11/review-v3/snapshot.json",
+  "verdict": "issues",
+  "checkpoint": "pending-author",
+  "checkpoint_note": "仍有I12/I13/N03安全open及8项pending_author；不签全组pass。",
+  "digest_algorithm": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode())；101—110排序，每项仅chapter/path/sha256，默认分隔符。",
+  "issue_results": [
+    {
+      "id": "R005-B11-I01",
+      "chapter": 109,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "约好灯送回前不再挪人",
+      "problem": "借灯与原地照护仍成立，不批准后续转运。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I02",
+      "chapter": 108,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "那处短避点离柜影隔着四跨梁",
+      "problem": "四跨短避点端位及避喷流条件仍待裁。",
+      "suggestion": "作者确认原护线端位与遮蔽，不新增平台。",
+      "needs_author_decision": true,
+      "review_basis": "108_full_reread"
+    },
+    {
+      "id": "R005-B11-I03",
+      "chapter": 105,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "沿竖管旁的检修路送上平台",
+      "problem": "传册上送返还、丙七先下平台再看册仍成立。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited_with_108_crosscheck"
+    },
+    {
+      "id": "R005-B11-I04",
+      "chapter": 104,
+      "severity": "严重",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "长屋和船舱接出来的孩子，两组合计十七个",
+      "problem": "17仍限定两处新救子组，不是全体儿童。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I05",
+      "chapter": 104,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "另来的照原册分开核。伤员抬着的三副。",
+      "problem": "正文未报48；旧48混口径依赖仍未裁。",
+      "suggestion": "裁定旧统计口径，不补人或造失联凑48。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I06",
+      "chapter": 105,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "人没回来，归队栏不填，原有的名字和来处照留。",
+      "problem": "保留失联姓名来处，仅空归队栏。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I07",
+      "chapter": 108,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "留在短避点的三个大人、两个孩子，就够不着水了。",
+      "problem": "108仍明确三个成人、两个孩子。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "108_full_reread"
+    },
+    {
+      "id": "R005-B11-I08",
+      "chapter": 102,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "槐七把第三副接到它们后头，沿山壁纵着放",
+      "problem": "三副担架过跨及第三副纵放闭环保持。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I09",
+      "chapter": 109,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "明早清场广播再响之前，开始转人。",
+      "problem": "仍无等到明早的灯序余量及统一日次参照。",
+      "suggestion": "按既有日次/灯序补可知截止，不自造宽限。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I10",
+      "chapter": 110,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "方才第一批孩子过缝时，曾出了一个小岔子。",
+      "problem": "“方才”回叙标识保持，不等于转运安全。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I11",
+      "chapter": 109,
+      "severity": "严重",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "从灯边留下的空隙往下看",
+      "problem": "小孔只探灯、侧脸看，尺度旧误未复发。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I12",
+      "chapter": 110,
+      "severity": "严重",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "撑着担架沿一级一级往下挪，蹭完二十一级，比吊着快。",
+      "problem": "卧床者竖吊中改自撑更快，承力、体位及接手未解决。",
+      "suggestion": "先给既有人手、器材和空间下的受助转运方案。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I13",
+      "chapter": 109,
+      "severity": "严重",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "抓梯用左手。",
+      "problem": "106左臂失力仍接109左手抓梯，慢动作不是功能恢复。",
+      "suggestion": "重排探路/辅助并兑现伤侧限制，不以疼痛代修复。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "他左臂使不上力，只能用右肩找平"
+        },
+        {
+          "chapter": 109,
+          "quote": "抓梯用左手。"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-I14",
+      "chapter": 106,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "我的右肩不能举，只能用左边接一小段。吊绳别松，两边继续扶料。",
+      "problem": "林岑右肩禁用、左侧短接及外部扶料限制保持。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I15",
+      "chapter": 104,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "矿物析出，水本身没坏。",
+      "problem": "外观保证可饮仍缺来源、保管及处理依据。",
+      "suggestion": "先撤外观可饮保证；待作者确认既有来源/处理。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I16",
+      "chapter": 104,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "管壁温而不烫，温到水匀了才端开。",
+      "problem": "有温管壁热源；温/烧旧回填差异仍未核清。",
+      "suggestion": "核温/烧旧回填，不补热能电池或净化功能。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I17",
+      "chapter": 104,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "化在水里能顶半包药。",
+      "problem": "防暑盐块与半包药用途及库存折算未裁。",
+      "suggestion": "盐块与外伤药分记用途、量，待作者裁定。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I18",
+      "chapter": 108,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "罐底留给守短避点的居民。",
+      "problem": "108罐底余水仅分守点居民，无两用。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "108_full_reread"
+    },
+    {
+      "id": "R005-B11-I19",
+      "chapter": 107,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "碗不碰伤口，擦过的布也不回碗里蘸",
+      "problem": "倾清水不接污及本班领到水的承接保持；不保证源水。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I20",
+      "chapter": 108,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "两个孩子醒过来，能自己捧碗了，才各分两口",
+      "problem": "108仍先醒来能捧碗，再给孩子分水。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "108_full_reread"
+    },
+    {
+      "id": "R005-B11-I21",
+      "chapter": 108,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "这一跨，人影会落到上面的山壁。",
+      "problem": "108该跨实际投影及回报同为山壁。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "108_full_reread"
+    },
+    {
+      "id": "R005-B11-I22",
+      "chapter": 109,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "再带他核过外侧那道缝，送水才改了线。",
+      "problem": "109先报验再改线的旧证保持，与108约定一致。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited_with_108_crosscheck"
+    },
+    {
+      "id": "R005-B11-I23",
+      "chapter": 109,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "改用扳手的咬口卡住螺母",
+      "problem": "废接头换用既有扳手，未复活工具。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I24",
+      "chapter": 103,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "储物格另在旁边，仍隔着一道锁住的内盖。",
+      "problem": "外盖、通廊门脸、储物内盖仍区分。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I25",
+      "chapter": 105,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "再让替班把单子递还林渡。",
+      "problem": "工时单录簿后返还，持有闭环保持。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I26",
+      "chapter": 106,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "用布片裹了贴身收好",
+      "problem": "长尺贴身正确；旧夹册回填仍待核。",
+      "suggestion": "核改旧回填，不倒改正确正文收纳。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I27",
+      "chapter": 101,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "这些号，我们是照腕片抄的。",
+      "problem": "抄腕片与同序疑问保持，不认定机器读纸册。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I28",
+      "chapter": 103,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "片上的记录日期，是七年前。",
+      "problem": "只确认记录日期；真实年代和个人经历仍未裁。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I29",
+      "chapter": 102,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "上头的水线在让劲，才会把水从接缝里挤出来。",
+      "problem": "102单因断语子项仍open，旧F15实录依赖仍待裁。",
+      "suggestion": "102可降为待检；旧F15实录层级由作者确认。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited",
+      "subresults": [
+        {
+          "scope": "102单因断语",
+          "status": "open"
+        },
+        {
+          "scope": "旧F15实录依赖",
+          "status": "pending_author"
+        },
+        {
+          "scope": "104/109/110原定位",
+          "status": "closed"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-I30",
+      "chapter": 110,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "先别念。等我能站到门前自己念了，你们再念。",
+      "problem": "孩子先提出不念姓名，转述来源保持。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I31",
+      "chapter": 102,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "盖住自己腕上那枚早已不亮的印记。",
+      "problem": "旧动宾、比较对象修正保持。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I32",
+      "chapter": 106,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "走到凹槽口，林渡听见短料擦过石壁，回头看了一眼。",
+      "problem": "106回头视线、108麦穗转述保持。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited_with_108_crosscheck"
+    },
+    {
+      "id": "R005-B11-I33",
+      "chapter": 105,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "扶住还没放稳的备料兜",
+      "problem": "105尾部事件动作保持，未恢复双重主题翻译。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I34",
+      "chapter": 106,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "左手去理右肩勒皱的固定带",
+      "problem": "106尾部动作仍有伤势和关系作用。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I35",
+      "chapter": 104,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "倒出一小盏，放在灯下。",
+      "problem": "验水动作分工旧修保持；可饮问题另列I15。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I36",
+      "chapter": 106,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "他对着摊开的册子说",
+      "problem": "旧双像是及同义动机翻译未恢复。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-N01",
+      "chapter": 108,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "绳结是认脚下落点的，别把步子走乱。",
+      "problem": "数到三是时长、绳结是落点，口令仍清楚。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "108_full_reread"
+    },
+    {
+      "id": "R005-B11-N02",
+      "chapter": 105,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "顺着竖管旁的吊绳放下来，落在柜口。",
+      "problem": "105长期习惯担保句删除保持。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-N03",
+      "chapter": 110,
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "剩下的绳留在护线上，两头不断。",
+      "problem": "拆护线后仍仅称两头不断，停用段与剩余覆盖未说明。",
+      "suggestion": "先核可拆停用段与仍用覆盖，不凭空加绳。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-N04",
+      "chapter": 106,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "先漫过一段旧木槽，再向下层平台流去",
+      "problem": "106排水指代、108病句及章末罐称呼均保持修正。",
+      "suggestion": "保留现有修正；本项关闭不连带关闭其他事实问题。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited_with_108_crosscheck",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "先漫过一段旧木槽，再向下层平台流去"
+        },
+        {
+          "chapter": 108,
+          "quote": "谁也别替我们不好意思。"
+        },
+        {
+          "chapter": 108,
+          "quote": "罐还是那只罐，印还是那个印"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-N05",
+      "chapter": 108,
+      "severity": "轻微",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "她先坐实了，再抬头去看护线那头",
+      "problem": "108删塞壶动作后，松开孩子→坐实→看护线连续；无新增容器或水。",
+      "suggestion": "保持删句后的现场动作，不补水壶来源或新增分水。",
+      "needs_author_decision": false,
+      "review_basis": "108_full_reread",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "她先坐实了，再抬头去看护线那头"
+        },
+        {
+          "chapter": 108,
+          "quote": "岑野和同伴还伏在护板后，谁也没有先动。"
+        },
+        {
+          "chapter": 108,
+          "quote": "他把封罐重新抬起来"
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "R005-B11-I02",
+      "chapter": 108,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "那处短避点离柜影隔着四跨梁",
+      "problem": "四跨短避点端位及避喷流条件仍待裁。",
+      "suggestion": "作者确认原护线端位与遮蔽，不新增平台。",
+      "needs_author_decision": true,
+      "review_basis": "108_full_reread"
+    },
+    {
+      "id": "R005-B11-I05",
+      "chapter": 104,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "另来的照原册分开核。伤员抬着的三副。",
+      "problem": "正文未报48；旧48混口径依赖仍未裁。",
+      "suggestion": "裁定旧统计口径，不补人或造失联凑48。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I09",
+      "chapter": 109,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "明早清场广播再响之前，开始转人。",
+      "problem": "仍无等到明早的灯序余量及统一日次参照。",
+      "suggestion": "按既有日次/灯序补可知截止，不自造宽限。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I12",
+      "chapter": 110,
+      "severity": "严重",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "撑着担架沿一级一级往下挪，蹭完二十一级，比吊着快。",
+      "problem": "卧床者竖吊中改自撑更快，承力、体位及接手未解决。",
+      "suggestion": "先给既有人手、器材和空间下的受助转运方案。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I13",
+      "chapter": 109,
+      "severity": "严重",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "抓梯用左手。",
+      "problem": "106左臂失力仍接109左手抓梯，慢动作不是功能恢复。",
+      "suggestion": "重排探路/辅助并兑现伤侧限制，不以疼痛代修复。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "他左臂使不上力，只能用右肩找平"
+        },
+        {
+          "chapter": 109,
+          "quote": "抓梯用左手。"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-I15",
+      "chapter": 104,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "矿物析出，水本身没坏。",
+      "problem": "外观保证可饮仍缺来源、保管及处理依据。",
+      "suggestion": "先撤外观可饮保证；待作者确认既有来源/处理。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I16",
+      "chapter": 104,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "管壁温而不烫，温到水匀了才端开。",
+      "problem": "有温管壁热源；温/烧旧回填差异仍未核清。",
+      "suggestion": "核温/烧旧回填，不补热能电池或净化功能。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I17",
+      "chapter": 104,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "化在水里能顶半包药。",
+      "problem": "防暑盐块与半包药用途及库存折算未裁。",
+      "suggestion": "盐块与外伤药分记用途、量，待作者裁定。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I26",
+      "chapter": 106,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "用布片裹了贴身收好",
+      "problem": "长尺贴身正确；旧夹册回填仍待核。",
+      "suggestion": "核改旧回填，不倒改正确正文收纳。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited"
+    },
+    {
+      "id": "R005-B11-I29",
+      "chapter": 102,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "上头的水线在让劲，才会把水从接缝里挤出来。",
+      "problem": "102单因断语子项仍open，旧F15实录依赖仍待裁。",
+      "suggestion": "102可降为待检；旧F15实录层级由作者确认。",
+      "needs_author_decision": true,
+      "review_basis": "same_sha_inherited",
+      "subresults": [
+        {
+          "scope": "102单因断语",
+          "status": "open"
+        },
+        {
+          "scope": "旧F15实录依赖",
+          "status": "pending_author"
+        },
+        {
+          "scope": "104/109/110原定位",
+          "status": "closed"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-N03",
+      "chapter": 110,
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "剩下的绳留在护线上，两头不断。",
+      "problem": "拆护线后仍仅称两头不断，停用段与剩余覆盖未说明。",
+      "suggestion": "先核可拆停用段与仍用覆盖，不凭空加绳。",
+      "needs_author_decision": false,
+      "review_basis": "same_sha_inherited"
+    }
+  ],
+  "new_issues": [],
+  "issue_counts": {
+    "inherited_total": 41,
+    "closed": 30,
+    "open": 3,
+    "pending_author": 8,
+    "new_issues": 0,
+    "all_unresolved": 11
+  },
+  "pure_han_counts": {
+    "101": 2382,
+    "102": 2362,
+    "103": 2221,
+    "104": 2256,
+    "105": 2209,
+    "106": 2284,
+    "107": 2283,
+    "108": 2303,
+    "109": 2406,
+    "110": 2388
+  },
+  "pure_han_method": "去Markdown标题；统计U+3400—4DBF与U+4E00—9FFF。仅篇幅核验。",
+  "reader_review_path": "harness/maintenance/R005/B11/reader-review4.json",
+  "reader_check_counts": {
+    "pass": 46,
+    "needs_revision": 6
+  },
+  "fact_conclusion": "N05关闭，其余40项保持；无新增问题或删句引入的新硬冲突。核心安全与未裁事实仍未通过。",
+  "reader_conclusion": "46 pass、6 needs_revision；108五项成立，不代表整组通过。",
+  "sources_read_this_round": [
+    "当前工作稿108全文",
+    "review-v3/recheck3.json：41项及字节基线",
+    "review-v3/reader-review3.json：结构、108/篇章项及继承记录",
+    "review-v3/snapshot.json：历史稿和三报告SHA核验",
+    "历史/复核3/108：读后仅核单处diff",
+    "skills/alien-serial-harness/SKILL.md及references/editorial.md",
+    "AGENTS.md用户提供全文",
+    "正文与连载规范第9节、文风与细节精修规范第2/7节、黄金开篇与持续追读规范",
+    "校验器自动读取十章字节/原句和project.json路径配置，不计人工阅读"
+  ],
+  "validation": {
+    "reader_schema_quotes_coverage": {
+      "errors": [],
+      "incomplete_checks": [],
+      "reader_review_passed": false,
+      "verdict": "needs_revision",
+      "chapters": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "includes_prologue": false,
+      "profile": "serial"
+    },
+    "strict_reader_errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "all_41_ids_unique_and_inherited": true,
+    "all_issue_quotes_match_current_bytes": true,
+    "nine_unchanged_sha_match_review_v3": true,
+    "snapshot_report_and_manuscript_hashes_match": true,
+    "body_changed_during_read": false
+  }
+}

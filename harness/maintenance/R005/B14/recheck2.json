@@ -1,0 +1,2029 @@
+{
+  "schema_version": 1,
+  "batch": "R005-B14",
+  "review_round": 2,
+  "reviewer": "01a1b3d1-602d-7250-a7b5-639453b5a3f7",
+  "reviewer_id_source": "CODEX_THREAD_ID",
+  "writer": "R005-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 131,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    }
+  ],
+  "input_digest": "b62cde367340589644ccb4b77f72a499a414e8f6e9dfbc59a4db3b4bb2b81840",
+  "source_digest": "b62cde367340589644ccb4b77f72a499a414e8f6e9dfbc59a4db3b4bb2b81840",
+  "digest_method": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode()); manuscripts依131—140排序，各项仅chapter/path/sha256；默认JSON分隔符。",
+  "sha_check_before": {
+    "timestamp": "2026-11-07T12:27:38.096109+08:00",
+    "chapter_sha256": {
+      "131": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "132": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "133": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+      "134": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "135": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "136": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "137": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "138": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+      "139": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "140": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    "all_equal": true
+  },
+  "sha_check_after_body": {
+    "timestamp": "2026-11-07T12:29:52.163671+08:00",
+    "changed_chapters": [],
+    "all_equal": true
+  },
+  "sha_check_after": {
+    "timestamp": "2026-11-07T12:36:12.554830+08:00",
+    "chapter_sha256": {
+      "131": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "132": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "133": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+      "134": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "135": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "136": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "137": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "138": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+      "139": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "140": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    },
+    "all_equal": true
+  },
+  "manuscripts_stable": true,
+  "completed_at": "2026-11-07T12:36:12.554830+08:00",
+  "phase": "independent_post_edit_recheck2",
+  "verdict": "issues",
+  "fact_logic_verdict": "issues",
+  "reader_pull_verdict": "needs_revision",
+  "checkpoint_required": true,
+  "initial_input_digest": "f6060d11f191ee23fe388da0c9ad1e2a4d2cc5a2ccda4176547fefbfacc6d91f",
+  "previous_input_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+  "initial_fingerprint_overwritten": false,
+  "prior_reports_overwritten": false,
+  "issues": [
+    {
+      "id": "R005-B14-I01",
+      "chapter": 131,
+      "initial_severity": "严重",
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "它背后是四个人的三十年。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "三十年墙龄、被封经历与工龄仍混用；C02本地爆破十六年未获关系裁定。",
+      "suggestion": "保留作者裁定；不能全改16、制造更早封存，亦不能因本轮未改数字当批准。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 131,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+          "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+          "quote": "它背后是四个人的三十年。",
+          "line_start": 53,
+          "line_end": 53
+        },
+        {
+          "chapter": 137,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+          "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+          "quote": "我在这墙里三十年没改过规矩",
+          "line_start": 69,
+          "line_end": 69
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I02",
+      "chapter": 130,
+      "initial_severity": "严重",
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "他在缝外的街面上，把一枚蓝色的旧扣件放在了窗台底下——放得端正，谁路过都看得见。",
+      "quote_scope": "initial_historical_boundary_not_reread_in_round2",
+      "problem": "跨组蓝扣冲突无新裁定；130/074不在本轮实读范围，继承初审登记而非新增核证。",
+      "suggestion": "由主线程跨R004及130登记后请作者裁定；不虚构取回、新扣或挪用他人整扣。",
+      "needs_author_decision": true,
+      "current_evidence": [],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭",
+      "historical_evidence_source": "initial.json / R005-B14-I02（074完整蓝扣已留入口与130/台账复用的跨组登记；本轮未重读其正文）"
+    },
+    {
+      "id": "R005-B14-I03",
+      "chapter": 133,
+      "initial_severity": "严重",
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "阿九把灯凑近孔口。灯光落在孔沿上，照不出这股气流的方向。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "133/137火苗及由火苗验风的子项关闭；灯种、数量、持有和能源链仍未核定。134吹熄可能属于固定棚灯，不能一律判成手摇灯错误。",
+      "suggestion": "只据已核物件区分随队灯与固定设施；灯源未定继续留口，不补燃料、不凭删除火焰替完整灯链验收。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "阿九把灯凑近孔口。灯光落在孔沿上，照不出这股气流的方向。",
+          "line_start": 53,
+          "line_end": 53
+        },
+        {
+          "chapter": 137,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+          "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+          "quote": "林渡看着那盏仍搁在孔沿的灯，一时没有接话。",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 134,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+          "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+          "quote": "他吹熄自己那截棚角的灯。",
+          "line_start": 91,
+          "line_end": 91
+        }
+      ],
+      "editor_record_sequences": [
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        17
+      ],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I04",
+      "chapter": 131,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "那面墙上的一句话跟着他回去了：这段里该有四个人。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "131错冒号/断句、相邻立路和到达重复已消除，岑野名单不再截断弥娅交代；132接纸起步、135听磕重启也已合并。关闭的是所列机械重复，不是全批AI腔。",
+      "suggestion": "保留已修句间承接；其他主题复述分别见I13/I23。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 131,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+          "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+          "quote": "那面墙上的一句话跟着他回去了：这段里该有四个人。",
+          "line_start": 65,
+          "line_end": 65
+        },
+        {
+          "chapter": 131,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+          "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+          "quote": "哪四个人、现在是否都在墙后，册子上还没有答案。",
+          "line_start": 63,
+          "line_end": 63
+        },
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "罐子已经被接住，外头牵着绳的一端，没再急着往里催。",
+          "line_start": 47,
+          "line_end": 47
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I05",
+      "chapter": 131,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "什么时候钉的，得找人问；光看这几颗钉，定不了日子。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "钉龄半年和半鞋印证明多次探看两项越界断言均撤；观察与待核已分开。",
+      "suggestion": "保留新钉与足印作为待问线索，不补锈龄算法。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 131,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+          "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+          "quote": "什么时候钉的，得找人问；光看这几颗钉，定不了日子。",
+          "line_start": 57,
+          "line_end": 57
+        },
+        {
+          "chapter": 131,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+          "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+          "quote": "是不是来看牌的，来过几回，这半个印子说不清。",
+          "line_start": 61,
+          "line_end": 61
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I06",
+      "chapter": 132,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "墙外五个人分了工",
+      "quote_scope": "current_working_manuscript",
+      "problem": "实际名单五人及两名听守者已区分；六字暗语不再称三个字。此项与全棚四十八口是否成立无关，不能连带关闭人口问题。",
+      "suggestion": "维持外侧五人、内侧编制四人两个范围；全棚人口另待作者裁定。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 132,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+          "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+          "quote": "墙外五个人分了工",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 132,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+          "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+          "quote": "墙上有人点数",
+          "line_start": 27,
+          "line_end": 27
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I07",
+      "chapter": 132,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "三声轻敲，声与声之间停了两次。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "码式记录与三轻两停一致；槐七认码段已在林渡回敲之前；三遍规律声不再直接确诊机器。镜片独证人的另一路越界仍归I08。",
+      "suggestion": "保留回敲前获得知识的顺序，不把镜片变化或年代引语当此项获证。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 132,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+          "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+          "quote": "三声轻敲，声与声之间停了两次。",
+          "line_start": 19,
+          "line_end": 19
+        },
+        {
+          "chapter": 132,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+          "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+          "quote": "完全一样就把间隔记齐，有出入就记在哪一下，别忙着给它定名。",
+          "line_start": 33,
+          "line_end": 33
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I08",
+      "chapter": 132,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "一面巴掌大的旧镜片，一根细绳——从封墙侧边一道指宽的石缝里，把镜片吊了下去，吊在墙与地面的夹角处。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "132挪动独证人/读懂意图已撤，133相接为待核变化；巴掌镜经过指宽缝的姿态、落点哪侧、照明观察路径仍缺。",
+      "suggestion": "不得补假几何、放宽石缝或新增灯；有既有依据再写清路径，否则由主笔提出撤镜证方案。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 132,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+          "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+          "quote": "一面巴掌大的旧镜片，一根细绳——从封墙侧边一道指宽的石缝里，把镜片吊了下去，吊在墙与地面的夹角处。",
+          "line_start": 73,
+          "line_end": 73
+        },
+        {
+          "chapter": 132,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+          "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+          "quote": "只凭镜片变了，还不能断定有人碰过，更不能据它朝哪边认定里头的人想看什么。",
+          "line_start": 71,
+          "line_end": 71
+        }
+      ],
+      "editor_record_sequences": [
+        1,
+        2
+      ],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I09",
+      "chapter": 133,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "这一句，第二天隔孔问出去，得到的回答是一个字：“井。”",
+      "quote_scope": "current_working_manuscript",
+      "problem": "133第二天问井后继续安排明天扩孔，跨日落点仍不明；131凉时与初审资料热时差异未有新证。本轮未重读时间线。",
+      "suggestion": "作者确认各场日次后再标叙述返回点；不擅增删一天，不将气流措辞修正算成日次关闭。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "这一句，第二天隔孔问出去，得到的回答是一个字：“井。”",
+          "line_start": 63,
+          "line_end": 63
+        },
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "扩孔的活排进明天的班。",
+          "line_start": 83,
+          "line_end": 83
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I10",
+      "chapter": 133,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "孔打通了，气的账还没算清。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "出孔→入孔的无证反转、火苗测风与章末气路已成均撤；现在仅确认孔通、有气流，方向及量待核。关闭断言错误，不是验收换气工程。",
+      "suggestion": "保留通孔与方向/量未知的界线；日次仍归I09，灯源归I03。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "孔打通了，气的账还没算清。",
+          "line_start": 59,
+          "line_end": 59
+        },
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "眼下还不能填朝里或朝外，来汽时会不会变也得留意；",
+          "line_start": 69,
+          "line_end": 69
+        },
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "林渡把字条看了两遍，在册子上记下：孔通了，人手到顶了。",
+          "line_start": 87,
+          "line_end": 87
+        }
+      ],
+      "editor_record_sequences": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I11",
+      "chapter": 133,
+      "initial_severity": "轻微",
+      "severity": "轻微",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "林渡闻到一股潮旧布似的气味，很淡，没法再分出别的来源。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "133闻到的来源限知仍在；135缺席杜姨的假想记忆及紧接主题翻译已删，改接两罐水、牵绳和滤件需求。",
+      "suggestion": "保留现场所闻和行动，不把杜姨补到孔边；不等于全批旁白已无修辞问题。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "林渡闻到一股潮旧布似的气味，很淡，没法再分出别的来源。",
+          "line_start": 47,
+          "line_end": 47
+        },
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "两罐水已经送了进去，外头的人还牵着绳，等着听清滤件的事。",
+          "line_start": 53,
+          "line_end": 53
+        }
+      ],
+      "editor_record_sequences": [
+        15
+      ],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I12",
+      "chapter": 134,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "跟在你后头系绳的那个，过一个刻点就系一段。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "小绳用位置和动作识别林渡，不再把祝衡腿伤移到系绳人身上。",
+      "suggestion": "保留131既有分工，勿为旧比喻新增腿伤。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 134,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+          "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+          "quote": "跟在你后头系绳的那个，过一个刻点就系一段。",
+          "line_start": 31,
+          "line_end": 31
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I13",
+      "chapter": 134,
+      "initial_severity": "轻微",
+      "severity": "轻微",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "纸条留给林渡，名册仍由他自己带着；",
+      "quote_scope": "current_working_manuscript",
+      "problem": "第二次次日报话预演已压，明暗主题收束已删；现留纸条、私持名册、仅送一程与交接条件，功能可以区分。原指定机械重复关闭，不宣称全章不可再压。",
+      "suggestion": "保留小绳不留名和仅送一程，不把一次帮忙写成常驻人手。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 134,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+          "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+          "quote": "纸条留给林渡，名册仍由他自己带着；",
+          "line_start": 87,
+          "line_end": 87
+        },
+        {
+          "chapter": 134,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+          "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+          "quote": "小绳许的是送一段管，不是往后每一趟都来；",
+          "line_start": 89,
+          "line_end": 89
+        },
+        {
+          "chapter": 134,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+          "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+          "quote": "明早交接时，还得当面报清管子的来处和不留名的条件，免得接东西的人到孔边才碰上规矩。",
+          "line_start": 91,
+          "line_end": 91
+        }
+      ],
+      "editor_record_sequences": [
+        13,
+        14
+      ],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I14",
+      "chapter": 135,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "数记对了，拿料的时候还得照这份尺寸核，别让人把它抹成整的。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "回念仅证明零头记对，不再冒认阿九独立测量；配料仍是下一步核验。",
+      "suggestion": "保留尺寸来源和核料任务。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "数记对了，拿料的时候还得照这份尺寸核，别让人把它抹成整的。",
+          "line_start": 67,
+          "line_end": 67
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I15",
+      "chapter": 135,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "三样记号先写进外侧的册子，下一班得带到孔边，让里头逐个核认，不能只凭外头定了就照用。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "棚内定号和双方理解分开，两份的外侧保存位置已明示。关闭当前场景的未经送达完成态，不代表本报告证明日后实际核认已发生。",
+      "suggestion": "保留待核认任务；后续交接仍须据真实场景，不能拿此关单当墙内已签收。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "三样记号先写进外侧的册子，下一班得带到孔边，让里头逐个核认，不能只凭外头定了就照用。",
+          "line_start": 79,
+          "line_end": 79
+        },
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "这两份都在墙外",
+          "line_start": 81,
+          "line_end": 81
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I16",
+      "chapter": 135,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "这次接管后的交接，林渡先递话，没有马上递水；先前对上的敲声还不能告诉他，里头的人此刻接不接得住。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "第一次限定为本次接管交接，不再把135当全篇首次发现活人；本章真正新增的是接水、咳嗽及滤件需求。",
+      "suggestion": "保留新的伤情/需求升级，不撤133口答。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "这次接管后的交接，林渡先递话，没有马上递水；先前对上的敲声还不能告诉他，里头的人此刻接不接得住。",
+          "line_start": 17,
+          "line_end": 17
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I17",
+      "chapter": 140,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "少睡一段，也不能把两边的班一起顶上。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "135明确不以伤手少睡填送水班，并保留滤件趟缺人；140允许即时报疲劳、交清换岗。原两条强撑指令均关闭；容量、替班和真实班表并未获证。",
+      "suggestion": "保留缺额，不凭拒绝加岗就认定有人接班；实际内外班表继续I25，不虚构人手。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "少睡一段，也不能把两边的班一起顶上。",
+          "line_start": 73,
+          "line_end": 73
+        },
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "滤件多出来的那一趟，仍得另找人手。",
+          "line_start": 73,
+          "line_end": 73
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "哪一班顶不住，立刻报，别硬撑；换岗前把手里的活交清楚。",
+          "line_start": 21,
+          "line_end": 21
+        }
+      ],
+      "editor_record_sequences": [
+        16,
+        22
+      ],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I18",
+      "chapter": 136,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "坡道一天过热汽两班，能走的时间窗就那两段；送一趟水占一个班，送粮送料另算。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "息级汽循环、每日通行窗口和人工班仍共用班，缺少有效映射；十二息修正不等于窗口制度修正。",
+      "suggestion": "待作者确认原有时段规则与数据来源，再区分来退歇、可走时段、人工班；裁定前不得发明一天两班的依据或折算常数。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 136,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+          "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+          "quote": "坡道一天过热汽两班，能走的时间窗就那两段；送一趟水占一个班，送粮送料另算。",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 131,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+          "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+          "quote": "来八息，退三十息，歇五十息上下",
+          "line_start": 5,
+          "line_end": 5
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I19",
+      "chapter": 136,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "这回来汽十二息——比数纸上的八息长了。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "136字节未改，十二息实测与不偷换退汽的正文修复仍成立；初审/复核1所记台账十息口径未核齐，本轮不读新台账。",
+      "suggestion": "主线程出示对应时点资料与原始依据再复核；若触动已发生事实须作者裁定，不因文字已修覆盖台账。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 136,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+          "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+          "quote": "这回来汽十二息——比数纸上的八息长了。",
+          "line_start": 45,
+          "line_end": 45
+        },
+        {
+          "chapter": 136,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+          "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+          "quote": "退汽占多久，还得另看，不能拿来汽多出来的数去充。",
+          "line_start": 47,
+          "line_end": 47
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I20",
+      "chapter": 140,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "前一班送下的那对滤件，尺寸照你报的数备的。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "136那对已承接，旧四班到140五天、期间消耗与暗补两班仍无时点/单位闭环。不能把四班自然理解成四天。",
+      "suggestion": "作者确认班的用量单位和报数时点、是否含已送一对及待补两班；暂不能算清则只保留料撑不到开门的压力，不自行换算或加余料。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 137,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+          "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+          "quote": "前一班送下的那对滤件，尺寸照你报的数备的。",
+          "line_start": 67,
+          "line_end": 67
+        },
+        {
+          "chapter": 137,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+          "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+          "quote": "四班之后，水就得走斜的。",
+          "line_start": 83,
+          "line_end": 83
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "四班的滤件，够撑五天。第六天开始，滤槽就得带病干活。",
+          "line_start": 51,
+          "line_end": 51
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "滤件暗补两班。",
+          "line_start": 67,
+          "line_end": 67
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I21",
+      "chapter": 138,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "平常一个多时辰的坡，走了近三个。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "慢行扶绳及伤势代价存在，但三时辰下坡与返程如何容纳每日汽窗仍不明；与I18共用日次/窗口裁定，不能假称有新安全窗口。",
+      "suggestion": "沿既有歇脚位及守数安排先核可行时段、返程交接；未裁前不新造通道/人员、不让夹板腿恢复。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "平常一个多时辰的坡，走了近三个。",
+          "line_start": 19,
+          "line_end": 19
+        },
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "到封墙外那片平处，她的腿已经不听使唤",
+          "line_start": 27,
+          "line_end": 27
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I22",
+      "chapter": 138,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "受过潮的图有没有黏住，封进去的纸边还受不受得住卷折，都不是隔着这一声回答便能看见的。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "138仍仅听报并未亲见、未取；初审台账亲眼核两匣/湿布缓气与正文的跨资料冲突未裁。本轮没有重新审读台账版本。",
+      "suggestion": "核原条目来源后请作者处理，不能倒补亲见或湿布动作迁就台账。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "受过潮的图有没有黏住，封进去的纸边还受不受得住卷折，都不是隔着这一声回答便能看见的。",
+          "line_start": 61,
+          "line_end": 61
+        },
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "别让带话的人听见‘记下了’，就当成我们已经接出来了。",
+          "line_start": 101,
+          "line_end": 101
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I23",
+      "chapter": 138,
+      "initial_severity": "轻微",
+      "severity": "轻微",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "今天不取。匣先在，账先记。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "首次提前交代带话者未取的重复段已删，中段不填日期已撤；现在保留首核匣位、停问决定、结尾交纸纠偏，各有任务，原重复闭合问题可关。",
+      "suggestion": "保留受潮未知与一次带话澄清；新发现的句法问题N02另修，不把信息边界全删。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "今天不取。匣先在，账先记。",
+          "line_start": 87,
+          "line_end": 87
+        },
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "别让带话的人听见‘记下了’，就当成我们已经接出来了。",
+          "line_start": 101,
+          "line_end": 101
+        },
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "还定不下取匣的日子。",
+          "line_start": 103,
+          "line_end": 103
+        }
+      ],
+      "editor_record_sequences": [
+        18,
+        19,
+        20
+      ],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I24",
+      "chapter": 139,
+      "initial_severity": "轻微",
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "本人应的三人，其中老工师、阿苗口应，老赵敲应；代报的一人，是老陈，凭旧表；听不清的，无。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "顶层三栏一致，口应和敲应为子类；伤情来源、旧表归还及未知第五人边界未丢。",
+      "suggestion": "保留此分类与来源，整棚人口另议。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 139,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+          "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+          "quote": "本人应的三人，其中老工师、阿苗口应，老赵敲应；代报的一人，是老陈，凭旧表；听不清的，无。",
+          "line_start": 49,
+          "line_end": 49
+        },
+        {
+          "chapter": 139,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+          "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+          "quote": "老赵的伤情仍记在老工师代述下，听到他敲应，不等于外头已看清他的伤。",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I25",
+      "chapter": 140,
+      "initial_severity": "严重",
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "她按班表跟阿九留在墙外，接手向孔里递工具的活。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "小石留外侧递具不退回旧位置错误；三人一班、两班一轮仍未拆墙内轮锤与墙外递具/记录，伤情和真实人手能否支撑未明。",
+      "suggestion": "凭既有人物与岗位核实际班表；不加工人，不让外侧人穿墙顶内侧班，未能落实就保留缺额。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "她按班表跟阿九留在墙外，接手向孔里递工具的活。",
+          "line_start": 29,
+          "line_end": 29
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "凿墙班三人一班、两班一轮",
+          "line_start": 21,
+          "line_end": 21
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "凿墙的活从外头动不了手——墙基实心，六叔的开凿线画在里侧。",
+          "line_start": 31,
+          "line_end": 31
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I26",
+      "chapter": 140,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "送水班仍按一日一趟排，跟凿墙错峰；照护和轮值不动。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "不再把136已有频次包装成本章降频腾人的措施。该笔措辞错误关闭；人手缺额和三人班表仍在I17/I25，不因仍字而消失。",
+      "suggestion": "保留维持频次表述，另据真实交接排缺额。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "送水班仍按一日一趟排，跟凿墙错峰；照护和轮值不动。",
+          "line_start": 21,
+          "line_end": 21
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I27",
+      "chapter": 140,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "整匣图纸没能隔着孔递出来。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "整匣未出与外侧阅图主语维持修复；旧投料口/新孔、裁卷、前一天递出和本日展开的路径日次接口仍未核明。",
+      "suggestion": "依据既有事件澄清具体哪个孔/哪天/谁接；日次未裁不补新搬运、不虚构看过整匣。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "整匣图纸没能隔着孔递出来。",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "后一匣太沉，投料口只过得去滤件和纸页。",
+          "line_start": 5,
+          "line_end": 5
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "绢卷是前一天从孔里递出来的",
+          "line_start": 9,
+          "line_end": 9
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I28",
+      "chapter": 140,
+      "initial_severity": "严重",
+      "severity": "严重",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "老工师告知，外侧尚待验看。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "绝对不塌保证已删，但139外侧尚待验缝、两样对不上不下锤与140已开凿之间，仍缺验缝结果、撑顶到位及里侧核线交接。列材/敲墙看图不是全部前置完成。",
+      "suggestion": "先核已有验缝、安装及核线事实；无证不能补一句已验稳、不能新造承重构件。删断言不等于工程验收，继续checkpoint。",
+      "needs_author_decision": true,
+      "current_evidence": [
+        {
+          "chapter": 139,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+          "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+          "quote": "老工师告知，外侧尚待验看。",
+          "line_start": 89,
+          "line_end": 89
+        },
+        {
+          "chapter": 139,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+          "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+          "quote": "两样对不上，锤就不能先下去。",
+          "line_start": 89,
+          "line_end": 89
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "再加撑顶的木料",
+          "line_start": 17,
+          "line_end": 17
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "凿墙的头一班，进展慢得磨人。",
+          "line_start": 41,
+          "line_end": 41
+        }
+      ],
+      "editor_record_sequences": [
+        21
+      ],
+      "closure_scope": "未关闭"
+    },
+    {
+      "id": "R005-B14-I29",
+      "chapter": 140,
+      "initial_severity": "严重",
+      "severity": "严重",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "老工师、阿苗的口应和老赵的敲应仍算本人应，老陈那行仍是代报。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "四行不再全当代报，开门不预支老陈恢复本人应；与139分类连续。",
+      "suggestion": "保留随人交接时逐个核问，勿拿获救替伤病恢复。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "老工师、阿苗的口应和老赵的敲应仍算本人应，老陈那行仍是代报。",
+          "line_start": 69,
+          "line_end": 69
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "不能拿开门的日子替谁应声。",
+          "line_start": 69,
+          "line_end": 69
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I30",
+      "chapter": 140,
+      "initial_severity": "中等",
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "他听到的咳嗽轻了些，至于里头的人是否好转，还得等下一班逐个问。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "咳轻仅为所闻，不再证明供气充足/伤病解决。闭合的是因果确定性，非气路工程/滤件余量。",
+      "suggestion": "保留下一班核问，不将物资到位自动等同康复。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "他听到的咳嗽轻了些，至于里头的人是否好转，还得等下一班逐个问。",
+          "line_start": 73,
+          "line_end": 73
+        },
+        {
+          "chapter": 140,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+          "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+          "quote": "管路、水和滤件的交接都有记录，不能拿几声咳嗽替下这些核问。",
+          "line_start": 73,
+          "line_end": 73
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I31",
+      "chapter": 135,
+      "initial_severity": "轻微",
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "咳完，里头又传来一个含混的音，字咬不清。林渡没有替它猜出一句话",
+      "quote_scope": "current_working_manuscript",
+      "problem": "135听不清译成两套台词未恢复；字面“像是”仍1处。维持原语言子项关闭，不替其他旁白总验收。",
+      "suggestion": "保留不猜台词的反应；别以同义像字补回密集解释。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "咳完，里头又传来一个含混的音，字咬不清。林渡没有替它猜出一句话",
+          "line_start": 27,
+          "line_end": 27
+        },
+        {
+          "chapter": 135,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+          "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+          "quote": "像是从很浅的气力里挤出来的",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    },
+    {
+      "id": "R005-B14-I32",
+      "chapter": 133,
+      "initial_severity": "轻微",
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "松下来的砖仍要接住，不能往气道里掉。",
+      "quote_scope": "current_working_manuscript",
+      "problem": "无落点三项清单和过三遍已压，留下接砖保气道等实际约束；不据此确认140施工前置齐备。",
+      "suggestion": "保留有效约束，不恢复空泛验证次数。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "松下来的砖仍要接住，不能往气道里掉。",
+          "line_start": 77,
+          "line_end": 77
+        }
+      ],
+      "editor_record_sequences": [],
+      "closure_scope": "仅关闭所列原问题，不扩为整项工程/全棚资源/台账验收"
+    }
+  ],
+  "issue_status_counts": {
+    "pending_author": 7,
+    "open": 6,
+    "closed": 19
+  },
+  "new_issues": [
+    {
+      "id": "R005-B14-N01",
+      "chapter": 133,
+      "severity": "轻微",
+      "status": "open",
+      "quote": "孔里回了轻轻地两下。",
+      "problem": "“轻轻地”放在“两下”前，副词与数量短语搭配不顺。",
+      "suggestion": "改为“孔里轻轻回了两下。”只调整状语位置，保留两下应答。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 133,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+          "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+          "quote": "孔里回了轻轻地两下。",
+          "line_start": 83,
+          "line_end": 83
+        }
+      ],
+      "newly_detected_in_round2": true,
+      "introduced_by_followup": false,
+      "baseline_note": "复核1字节已含同一句；本轮新发现，不算本次22处编辑引入。"
+    },
+    {
+      "id": "R005-B14-N02",
+      "chapter": 138,
+      "severity": "轻微",
+      "status": "open",
+      "quote": "林渡点头，将这句带回话里的次序写清。",
+      "problem": "“将这句带回话里的次序”缺清楚的支配关系，读者要回读才能明白记录的是少说话、改书写的提醒。",
+      "suggestion": "改为“林渡点头，把‘往后递档，让他写，别让他说’记进要带回棚里的话。”仅明确原有提醒与记录对象。",
+      "needs_author_decision": false,
+      "current_evidence": [
+        {
+          "chapter": 138,
+          "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+          "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+          "quote": "林渡点头，将这句带回话里的次序写清。",
+          "line_start": 93,
+          "line_end": 93
+        }
+      ],
+      "newly_detected_in_round2": true,
+      "introduced_by_followup": false,
+      "baseline_note": "复核1已有“将这句带回话里的次序写清”片段；编辑第19条删尾句但未新增该句法。"
+    }
+  ],
+  "new_issue_counts": {
+    "open": 2,
+    "轻微": 2
+  },
+  "total_issue_status_counts": {
+    "pending_author": 7,
+    "open": 8,
+    "closed": 19
+  },
+  "read_scope": {
+    "full_reread_chapters": [
+      132,
+      133,
+      134,
+      135,
+      137,
+      138,
+      140
+    ],
+    "inherited_chapters": [
+      131,
+      136,
+      139
+    ],
+    "inherited_source_digest": "c63eab9aad6f6f379b9ce5484672adc5d2dbc252b579b204ffe72cbd06c428e1",
+    "inherited_byte_equality": true,
+    "interface_line_ranges": {
+      "131": [
+        [
+          60,
+          71
+        ]
+      ],
+      "136": [
+        [
+          1,
+          28
+        ],
+        [
+          65,
+          73
+        ]
+      ],
+      "139": [
+        [
+          55,
+          93
+        ]
+      ]
+    },
+    "body_finished_before_editor_log": true,
+    "body_first_disclosure": "复核非全新盲首读：已知复核1问题；本轮先读新7章实际稿与相邻接口，之后才读followup编辑记录。3章只因字节完全相同继承已有全文实读。",
+    "history_byte_only": "编辑日志声明的历史/复核1十章仅作字节回放22处编辑及查两处语病是否既存，不算新增正文研究。",
+    "references": [
+      {
+        "path": "skills/alien-serial-harness/SKILL.md",
+        "sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb"
+      },
+      {
+        "path": "skills/alien-serial-harness/references/editorial.md",
+        "sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05"
+      },
+      {
+        "path": "异星录/05_写作规范/正文与连载规范.md",
+        "sha256": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f"
+      },
+      {
+        "path": "异星录/05_写作规范/文风与细节精修规范.md",
+        "sha256": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879"
+      },
+      {
+        "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+        "sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814"
+      },
+      {
+        "path": "harness/maintenance/R005/B14/review-v1/recheck.json",
+        "sha256": "d955e4d2598daf7e27815a49d8b1d6a116b8fa06d9e9467a9d972fca394f5586"
+      },
+      {
+        "path": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+        "sha256": "9cb58078c411e776d5bcba557dd87961468b2bff8a7582f9249388bdea941ba6"
+      },
+      {
+        "path": "harness/maintenance/R005/editor-followup-B14.json",
+        "sha256": "f5912c0276d2da2eac470ba2a162c2ba8c1fa1da578533a323bef7500b1c60a3"
+      },
+      {
+        "path": "tools/check_reader_pull.py",
+        "sha256": "2b938c6f78c892e711565b7a0a598fa96f9d563a4ee4523faa8fe050f0a5b719"
+      }
+    ],
+    "not_read": [
+      "130/074等跨组改后正文",
+      "141—150及未来章节全文",
+      "新版本卷纲/章卡/世界角色资料",
+      "新版本连续性台账及C01—10裁定资料"
+    ],
+    "limitations": "未裁历史事项依初审/复核1已核证据保持未决；不宣称本轮重新验证资料，不以边界摘要算全文已读。AGENTS由本会话用户完整提供。"
+  },
+  "editor_log_comparison": {
+    "path": "harness/maintenance/R005/editor-followup-B14.json",
+    "sha256": "f5912c0276d2da2eac470ba2a162c2ba8c1fa1da578533a323bef7500b1c60a3",
+    "editor": "01a1b3e5-2e99-7250-a488-9d8578ae325b",
+    "role": "contributor_not_reviewer",
+    "record_count": 22,
+    "all_10_before_match_v1": true,
+    "all_10_after_match_actual": true,
+    "in_memory_replay_records": 22,
+    "in_memory_replay_match": true,
+    "changed_chapters": [
+      132,
+      133,
+      134,
+      135,
+      137,
+      138,
+      140
+    ],
+    "unchanged_chapters": [
+      131,
+      136,
+      139
+    ]
+  },
+  "body_han_counts": {
+    "131": 2252,
+    "132": 2236,
+    "133": 2264,
+    "134": 2214,
+    "135": 2247,
+    "136": 2392,
+    "137": 2299,
+    "138": 2241,
+    "139": 2298,
+    "140": 2302
+  },
+  "count_method": "tools/novel_harness.py count_text(text)[0]；排除Markdown标题",
+  "literal_like_shi_counts": {
+    "131": 0,
+    "132": 0,
+    "133": 0,
+    "134": 1,
+    "135": 1,
+    "136": 0,
+    "137": 0,
+    "138": 1,
+    "139": 0,
+    "140": 0
+  },
+  "chapter_reading_evidence": [
+    {
+      "chapter": 131,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "read_mode": "inherited_v1_full_read_sha_equal",
+      "reader_understanding": "从五层棚下探封墙；编制四人仍非四人都在的证据。",
+      "identity_goal_rules": "林渡目标由核数转立路，岑野守数。",
+      "willingness_or_stall": "继承复核1整章实读，复读末段确认132接口。",
+      "evidence": [
+        {
+          "chapter": 131,
+          "quote": "林渡把三张数纸并排压在账桌灯下，看了很久，抬头问槐七：“数是实的。路呢？”",
+          "line_start": 5,
+          "line_end": 5
+        },
+        {
+          "chapter": 131,
+          "quote": "林渡没有答。他合上册子：“明天带这个问题下去。”",
+          "line_start": 69,
+          "line_end": 69
+        }
+      ]
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "read_mode": "full_reread",
+      "reader_understanding": "封墙外五人分工听守，拒绝灌水试人，回敲带来互动。",
+      "identity_goal_rules": "林渡谨慎开口；镜片意图降级但几何仍卡顿。",
+      "willingness_or_stall": "愿读：谁应答；卡顿：镜片何侧可见。",
+      "evidence": [
+        {
+          "chapter": 132,
+          "quote": "封墙外立了营，第二天的事就一件：听墙。",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 132,
+          "quote": "镜片在，明天看它有没有被挪动。",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ]
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+      "read_mode": "full_reread",
+      "reader_understanding": "阿九/槐七/六叔掏孔，整砖取出、孔边有气流；方向/气量待问。",
+      "identity_goal_rules": "林渡通孔后面对人手到顶，不能把孔通当气路验收。",
+      "willingness_or_stall": "愿读：送水如何排班；卡顿：第二天后再明天及N01。",
+      "evidence": [
+        {
+          "chapter": 133,
+          "quote": "镜片第二天被挪动了。",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 133,
+          "quote": "字条末尾一行：送水的班排下去之前，别再加岗。",
+          "line_start": 85,
+          "line_end": 85
+        }
+      ]
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "read_mode": "full_reread",
+      "reader_understanding": "槐七访两条旧线，小绳仅送管，不入册、不续任。",
+      "identity_goal_rules": "保护名册与救援交接分别成立，尾部减少重复。",
+      "willingness_or_stall": "愿读：明日管到孔边；未扩为旧线整体加盟。",
+      "evidence": [
+        {
+          "chapter": 134,
+          "quote": "封墙里头的人，光靠咱们的手救不完——你那边还有没有人。",
+          "line_start": 7,
+          "line_end": 7
+        },
+        {
+          "chapter": 134,
+          "quote": "“明日凉时，管子到孔边。”",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ]
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "read_mode": "full_reread",
+      "reader_understanding": "小绳送管撤离，林渡先接话再送水，墙内转索滤件。",
+      "identity_goal_rules": "林栖拒绝少睡顶送水，林渡留人手缺额。",
+      "willingness_or_stall": "愿读：工号怎样接领料账；已无缺席杜姨回忆。",
+      "evidence": [
+        {
+          "chapter": 135,
+          "quote": "凉时刚开，管子到了孔边。",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 135,
+          "quote": "从明天起，核两件事：里头的人怎么跟领料线对上号；外头的账，怎么把这笔十年的欠账认下来。",
+          "line_start": 75,
+          "line_end": 75
+        }
+      ]
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "read_mode": "inherited_v1_full_read_sha_equal",
+      "reader_understanding": "五层至四层在途水/人手与十二息实测。",
+      "identity_goal_rules": "下一趟歇整班；汽窗和资料十息待核。",
+      "willingness_or_stall": "继承复核1整章实读，重读开头及末段接口。",
+      "evidence": [
+        {
+          "chapter": 136,
+          "quote": "送水去四层，是一笔从没算过的账。",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 136,
+          "quote": "送水仍按每日那一趟排，缺的量得放在账上，等人手和汽班允许时再补",
+          "line_start": 53,
+          "line_end": 53
+        }
+      ]
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "read_mode": "full_reread",
+      "reader_understanding": "隔孔互验手、錾烙号与日期，老工师自报签收旧线。",
+      "identity_goal_rules": "林渡接受暗线但要求余料数；灯苗已撤。",
+      "willingness_or_stall": "愿读：四班后如何送料；不把工号相合当整段历史实证。",
+      "evidence": [
+        {
+          "chapter": 137,
+          "quote": "“灯。”那声音说，“照一照你的手。”",
+          "line_start": 7,
+          "line_end": 7
+        },
+        {
+          "chapter": 137,
+          "quote": "“四班。”里头的声音说，“四班之后，水就得走斜的。”",
+          "line_start": 83,
+          "line_end": 83
+        }
+      ]
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+      "read_mode": "full_reread",
+      "reader_understanding": "弥娅夹板腿到孔边，仅问得两匣位置/受潮情况。",
+      "identity_goal_rules": "因咳喘停问让孔口，改让对方写；返程/汽窗仍缺。",
+      "willingness_or_stall": "愿读：如何递脆档；卡顿：近三时辰时窗与N02句法。",
+      "evidence": [
+        {
+          "chapter": 138,
+          "quote": "“我下一趟下去。”",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 138,
+          "quote": "“档的事，容我想想怎么递。它比水沉，比水脆。”",
+          "line_start": 85,
+          "line_end": 85
+        }
+      ]
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "read_mode": "inherited_v1_full_read_sha_equal",
+      "reader_understanding": "本人应与代述三栏核四行，留下未知空栏和实物归还。",
+      "identity_goal_rules": "老陈需门，验缝/看图必须在开锤之前。",
+      "willingness_or_stall": "继承复核1整章实读，复读后段对140前置。",
+      "evidence": [
+        {
+          "chapter": 139,
+          "quote": "核人这件事，林渡把它排在了递档前头。",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 139,
+          "quote": "两样对不上，锤就不能先下去。",
+          "line_start": 89,
+          "line_end": 89
+        }
+      ]
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+      "read_mode": "full_reread",
+      "reader_understanding": "外侧递具、内侧动锤；门仍未开，暗补滤件。",
+      "identity_goal_rules": "可报疲劳已修；内外班表、开锤前置、料班换算仍未成立。",
+      "willingness_or_stall": "愿读压力存在；退出风险在把未核工程直接写成已施工。",
+      "evidence": [
+        {
+          "chapter": 140,
+          "quote": "整匣图纸没能隔着孔递出来。",
+          "line_start": 3,
+          "line_end": 3
+        },
+        {
+          "chapter": 140,
+          "quote": "四班的滤件，够撑五天。第六天开始，滤槽就得带病干活。",
+          "line_start": 51,
+          "line_end": 51
+        }
+      ]
+    }
+  ],
+  "high_frequency_checks": [
+    {
+      "category": "人物位置链",
+      "evidence": [
+        {
+          "chapter": 140,
+          "quote": "她按班表跟阿九留在墙外，接手向孔里递工具的活。",
+          "line_start": 29,
+          "line_end": 29
+        },
+        {
+          "chapter": 140,
+          "quote": "凿墙班三人一班、两班一轮",
+          "line_start": 21,
+          "line_end": 21
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I25",
+        "R005-B14-I27"
+      ],
+      "result": "小石外递已修；内外班表及图卷接口仍open，不能按位置词修正推整表成立。",
+      "suggestion": "按现有人手、具体孔道与既定日次核交接，不新增人物移动。"
+    },
+    {
+      "category": "数字闭环",
+      "evidence": [
+        {
+          "chapter": 132,
+          "quote": "墙外五个人分了工",
+          "line_start": 13,
+          "line_end": 13
+        },
+        {
+          "chapter": 140,
+          "quote": "四班的滤件，够撑五天。",
+          "line_start": 51,
+          "line_end": 51
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I06",
+        "R005-B14-I20",
+        "R005-B14-I25"
+      ],
+      "result": "外侧五人局部闭合；料班/天与施工岗位未闭，全棚人口未裁。",
+      "suggestion": "不拿五人分工或139三栏替全棚人口/失联归组放行。"
+    },
+    {
+      "category": "信息释放顺序",
+      "evidence": [
+        {
+          "chapter": 135,
+          "quote": "这次接管后的交接，林渡先递话，没有马上递水；",
+          "line_start": 17,
+          "line_end": 17
+        },
+        {
+          "chapter": 138,
+          "quote": "别让带话的人听见‘记下了’，就当成我们已经接出来了。",
+          "line_start": 101,
+          "line_end": 101
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I16",
+        "R005-B14-I22"
+      ],
+      "result": "首接管递话顺序清楚；两匣只是听报，资料亲见仍待裁。",
+      "suggestion": "保留仅听报，不按台账倒补眼见。"
+    },
+    {
+      "category": "知识来源",
+      "evidence": [
+        {
+          "chapter": 132,
+          "quote": "只凭镜片变了，还不能断定有人碰过",
+          "line_start": 71,
+          "line_end": 71
+        },
+        {
+          "chapter": 137,
+          "quote": "阿九在抄样旁添了“自报青石、墙角”，没有写成亲见。",
+          "line_start": 41,
+          "line_end": 41
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I08"
+      ],
+      "result": "镜片结论降级、磨石来源限知有效；几何未解。",
+      "suggestion": "不让待核变化重新变成确定人证。"
+    },
+    {
+      "category": "物件物理",
+      "evidence": [
+        {
+          "chapter": 132,
+          "quote": "一道指宽的石缝",
+          "line_start": 73,
+          "line_end": 73
+        },
+        {
+          "chapter": 140,
+          "quote": "再加撑顶的木料",
+          "line_start": 17,
+          "line_end": 17
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I02",
+        "R005-B14-I08",
+        "R005-B14-I28"
+      ],
+      "result": "镜片通行路径与撑材实际到位仍缺；蓝扣跨组历史冲突未重读。",
+      "suggestion": "不新造镜片姿态、支撑完成或蓝扣取回。"
+    },
+    {
+      "category": "时间口径",
+      "evidence": [
+        {
+          "chapter": 133,
+          "quote": "这一句，第二天隔孔问出去",
+          "line_start": 63,
+          "line_end": 63
+        },
+        {
+          "chapter": 136,
+          "quote": "坡道一天过热汽两班",
+          "line_start": 15,
+          "line_end": 15
+        },
+        {
+          "chapter": 140,
+          "quote": "绢卷是前一天从孔里递出来的",
+          "line_start": 9,
+          "line_end": 9
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I09",
+        "R005-B14-I18",
+        "R005-B14-I19",
+        "R005-B14-I20",
+        "R005-B14-I21",
+        "R005-B14-I27"
+      ],
+      "result": "日次/窗口/来退息/滤料班未取得统一口径。",
+      "suggestion": "由作者与主线程核时点，不用修辞裁日期。"
+    },
+    {
+      "category": "光影与能力边界",
+      "evidence": [
+        {
+          "chapter": 133,
+          "quote": "灯光落在孔沿上，照不出这股气流的方向。",
+          "line_start": 53,
+          "line_end": 53
+        },
+        {
+          "chapter": 134,
+          "quote": "他吹熄自己那截棚角的灯。",
+          "line_start": 91,
+          "line_end": 91
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I10",
+        "R005-B14-I28"
+      ],
+      "result": "火焰验风已撤；灯源及固定/随队属性未裁，工程能力仍受前置限制。",
+      "suggestion": "不拿灯光判风，不给固定设施补燃料，不删保证就判施工合格。"
+    },
+    {
+      "category": "感官依据",
+      "evidence": [
+        {
+          "chapter": 133,
+          "quote": "林渡闻到一股潮旧布似的气味，很淡，没法再分出别的来源。",
+          "line_start": 47,
+          "line_end": 47
+        },
+        {
+          "chapter": 140,
+          "quote": "至于里头的人是否好转，还得等下一班逐个问。",
+          "line_start": 73,
+          "line_end": 73
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I11",
+        "R005-B14-I30"
+      ],
+      "result": "气味来源和咳轻仅是感知，原过度确定性未恢复。",
+      "suggestion": "保留感知限度，不据咳轻判康复/气够。"
+    },
+    {
+      "category": "人体常识",
+      "evidence": [
+        {
+          "chapter": 135,
+          "quote": "少睡一段，也不能把两边的班一起顶上。",
+          "line_start": 73,
+          "line_end": 73
+        },
+        {
+          "chapter": 138,
+          "quote": "平常一个多时辰的坡，走了近三个。",
+          "line_start": 19,
+          "line_end": 19
+        }
+      ],
+      "issue_ids": [
+        "R005-B14-I17",
+        "R005-B14-I21"
+      ],
+      "result": "伤手少睡动员已撤；夹板腿慢行的窗口/返程可行性仍未核。",
+      "suggestion": "不得凭扶绳细节把时间安全问题关闭。"
+    },
+    {
+      "category": "篇幅口径",
+      "evidence": [
+        {
+          "chapter": 133,
+          "quote": "林渡把字条看了两遍，在册子上记下：孔通了，人手到顶了。",
+          "line_start": 87,
+          "line_end": 87
+        }
+      ],
+      "issue_ids": [],
+      "result": "10章以count_text排除Markdown标题核纯汉字，全部2200—3200；篇幅通过不是事实或吸引力通过。",
+      "suggestion": "不为凑字恢复重复收束；实数字数见body_han_counts。"
+    }
+  ],
+  "ai_style_checks": [
+    {
+      "category": "叙述者翻译与辩护",
+      "evidence": [
+        {
+          "chapter": 140,
+          "quote": "这意味着凿墙的锤錾要从孔里递进去，交给里头的人用，外头的人隔墙指点。",
+          "line_start": 31,
+          "line_end": 31
+        }
+      ],
+      "result": "135缺席杜姨解释已修；此句仍是解释性引导，不另冒充新的基本事实冲突。",
+      "suggestion": "可直接删“这意味着”，保留器具递入及里外分工；不因此解决I25真实班表。"
+    },
+    {
+      "category": "动作罗列流水账",
+      "evidence": [
+        {
+          "chapter": 133,
+          "quote": "松下来的砖仍要接住，不能往气道里掉。",
+          "line_start": 77,
+          "line_end": 77
+        }
+      ],
+      "result": "I32维持关闭：所列动作对应防落砖结果；140材料表服务资源限制，但不是安装完成。",
+      "suggestion": "保留接砖约束；不要以操作表代替工程前置结果。"
+    },
+    {
+      "category": "动词悬空",
+      "evidence": [
+        {
+          "chapter": 138,
+          "quote": "林渡点头，将这句带回话里的次序写清。",
+          "line_start": 93,
+          "line_end": 93
+        }
+      ],
+      "result": "命中句法/对象不清，登记N02；不是凭词频猜问题。",
+      "suggestion": "明确记录的是前句“让他写，别让他说”的提醒，见N02安全替句。"
+    },
+    {
+      "category": "验证动作重复",
+      "evidence": [
+        {
+          "chapter": 138,
+          "quote": "还定不下取匣的日子。",
+          "line_start": 103,
+          "line_end": 103
+        }
+      ],
+      "result": "I13/I23目标重复已压；匣位初核、受潮询问、带话纠偏功能不同，不能机械全删。",
+      "suggestion": "保留一次带话者澄清；137烙痕与日期分工、139本人应/代述不误删。"
+    },
+    {
+      "category": "“像是”堆叠",
+      "evidence": [
+        {
+          "chapter": 135,
+          "quote": "像是从很浅的气力里挤出来的",
+          "line_start": 49,
+          "line_end": 49
+        }
+      ],
+      "result": "字面“像是”134/135/138各1，其余0；未见本次新增同章第二处。字面达标不等于所有比喻自然。",
+      "suggestion": "保留气力不足的现场读感，不以同义“像”补回密集主题解释。"
+    }
+  ],
+  "reader_review_path": "harness/maintenance/R005/B14/reader-review2.json",
+  "reader_review_counts": {
+    "pass": 46,
+    "needs_revision": 6
+  },
+  "reader_review_structural_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "author_decisions_received": false,
+  "pending_author_topics": [
+    "三十年墙龄/墙内经历/工龄与C02十六年前本地爆破关系",
+    "C01—10无本轮裁定：不推定整棚人口、失联归组、水/霉瓮可饮量、蓝扣或日次获批",
+    "随队/固定灯的来源、持有、数量与能源；只撤火焰不添加燃料",
+    "汽窗/来退息/人工班、滤件四班/五天/暗补两班与已送一对的时点",
+    "夹板腿近三时辰下坡及返程适配原有窗口",
+    "仅听报两匣与初审台账亲见/湿布动作差异",
+    "镜片真实几何、内外实际班表、验缝/支撑/里侧核线与图卷路径：不得自行补完成事实"
+  ],
+  "safe_direct_fixes": [
+    "R005-B14-N01",
+    "R005-B14-N02"
+  ],
+  "next_step": "保留checkpoint与本会话；主笔可另做N01/N02安全句法修改，任何字节变化均使本轮该章绑定失效，须冻结后短复核。未决事实不由主笔或编辑自签。",
+  "protected_reference_files_unchanged": true,
+  "sha_check_after_reports": {
+    "timestamp": "2026-11-07T12:37:05.462271+08:00",
+    "changed_chapters": [],
+    "all_equal": true
+  }
+}

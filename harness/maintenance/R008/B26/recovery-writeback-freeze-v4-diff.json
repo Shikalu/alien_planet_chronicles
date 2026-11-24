@@ -1,0 +1,580 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B26",
+  "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+  "independent": true,
+  "date": "2026-11-10",
+  "body_digest": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d",
+  "scope_chapters": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260
+  ],
+  "from_revision": 3,
+  "to_revision": 4,
+  "previous_freeze": "harness/maintenance/R008/writeback-freeze-v3.json",
+  "previous_freeze_sha256": "564c141211821358a5851d1f5d9ef13792d1df6f9dd98dd5b4242e5dfb1e5c9f",
+  "current_freeze": "harness/maintenance/R008/writeback-freeze.json",
+  "current_freeze_sha256": "7218d02548bc68c227e5eec7440c5b78391bead3d09406a77608ee09896225f4",
+  "delta_logs": [
+    {
+      "path": "harness/maintenance/R008/B26/recovery-freeze4-applied-edits.json",
+      "sha256": "55a7160dbf034e6edb08cc061f60dd992803c0c63c7ba4fa461d26b52d321d34",
+      "purpose": "A16四项实际事实复核"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-freeze4-applied-edits.json",
+      "sha256": "a2808ab47a0b343ba338c2d9c9a08f2e27444addf82287d712e22ca020e3ae89",
+      "purpose": "范围外差异定位，不代签B28"
+    }
+  ],
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "v3_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "v4_actual_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": true,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "edits": [],
+      "read_range_comparisons": [
+        {
+          "start_line": 555,
+          "end_line": 580,
+          "v3_excerpt_sha256": "400b54960966d078afecce2a28c706b8d0401d14bc81195e7605d4222c9c4b66",
+          "v4_excerpt_sha256": "400b54960966d078afecce2a28c706b8d0401d14bc81195e7605d4222c9c4b66",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 939,
+          "end_line": 946,
+          "v3_excerpt_sha256": "81214b6a9bfe43ebe214d8a5a724d209b40e7c099510ab814c25650342e360ea",
+          "v4_excerpt_sha256": "81214b6a9bfe43ebe214d8a5a724d209b40e7c099510ab814c25650342e360ea",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        }
+      ]
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "v3_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "v4_actual_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": true,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "edits": [],
+      "read_range_comparisons": [
+        {
+          "start_line": 488,
+          "end_line": 500,
+          "v3_excerpt_sha256": "569751700f4deda7e2154c984302898f75b089d5eba4fb5cd4e83995601d731c",
+          "v4_excerpt_sha256": "569751700f4deda7e2154c984302898f75b089d5eba4fb5cd4e83995601d731c",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 847,
+          "end_line": 854,
+          "v3_excerpt_sha256": "ca69bc7f946e18aac66f552cd14728966f510107436d2e3cacd58a7e8a8ed942",
+          "v4_excerpt_sha256": "ca69bc7f946e18aac66f552cd14728966f510107436d2e3cacd58a7e8a8ed942",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        }
+      ]
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "v3_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "v4_actual_sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": false,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "edits": [
+        {
+          "id": "RB28-W059",
+          "actual_line": 749,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "B28_boundary_only_not_fact_signed"
+        }
+      ],
+      "read_range_comparisons": [
+        {
+          "start_line": 141,
+          "end_line": 151,
+          "v3_excerpt_sha256": "4ca740f1e7822ffc8281ca25ae53de41dc6963c4413c3730daf75051f061f75b",
+          "v4_excerpt_sha256": "4ca740f1e7822ffc8281ca25ae53de41dc6963c4413c3730daf75051f061f75b",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 743,
+          "end_line": 751,
+          "v3_excerpt_sha256": "e4befeea453c1b5e14cfebeb41477caa955772574bff99bfe8b0e256371a5ca6",
+          "v4_excerpt_sha256": "23c67b5ffe3d89d37aa39c2943ae6495782678807890bad9f2d8b5164b2c5d5d",
+          "raw_excerpt_unchanged": false,
+          "changed_ids": [
+            "RB28-W059"
+          ],
+          "scope_note": "旧阅读窗口含范围外共用说明；该处真实改变，不能写成窗口字节未变。只核变更未修改251—260事实断言，不签B28事实。"
+        }
+      ]
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "v3_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "v4_actual_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": true,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "edits": [],
+      "read_range_comparisons": [
+        {
+          "start_line": 313,
+          "end_line": 326,
+          "v3_excerpt_sha256": "1220b09e4c4cbc464d212fedf74803e094ded9a89cb0472350771df2268ea1b9",
+          "v4_excerpt_sha256": "1220b09e4c4cbc464d212fedf74803e094ded9a89cb0472350771df2268ea1b9",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 608,
+          "end_line": 614,
+          "v3_excerpt_sha256": "9deedff559365b820b39eb740a02a88bd6a518443227221d618a00c6b8fb745f",
+          "v4_excerpt_sha256": "9deedff559365b820b39eb740a02a88bd6a518443227221d618a00c6b8fb745f",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        }
+      ]
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "v3_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "v4_actual_sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": false,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "edits": [
+        {
+          "id": "RB28-W054",
+          "actual_line": 427,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "B28_boundary_only_not_fact_signed"
+        },
+        {
+          "id": "RB28-W058",
+          "actual_line": 199,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "B28_boundary_only_not_fact_signed"
+        }
+      ],
+      "read_range_comparisons": [
+        {
+          "start_line": 161,
+          "end_line": 185,
+          "v3_excerpt_sha256": "9d23e9f187a6a757b04ec6eaa024e09f9fe6521d1e71ea4ad08f5923513f3dab",
+          "v4_excerpt_sha256": "9d23e9f187a6a757b04ec6eaa024e09f9fe6521d1e71ea4ad08f5923513f3dab",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 425,
+          "end_line": 427,
+          "v3_excerpt_sha256": "3a3424ca0b1b6d4423e5a8dc1b8cf639e19492a9e9382ed95d375f7f4b270a67",
+          "v4_excerpt_sha256": "04f0a77b0dc53cdd52698a78a73705b7d68544803ce7ca1867660a728e844e45",
+          "raw_excerpt_unchanged": false,
+          "changed_ids": [
+            "RB28-W054"
+          ],
+          "scope_note": "旧阅读窗口含范围外共用说明；该处真实改变，不能写成窗口字节未变。只核变更未修改251—260事实断言，不签B28事实。"
+        }
+      ]
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "v3_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "v4_actual_sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": false,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "edits": [
+        {
+          "id": "RB28-W057",
+          "actual_line": 71,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "B28_boundary_only_not_fact_signed"
+        }
+      ],
+      "read_range_comparisons": [
+        {
+          "start_line": 50,
+          "end_line": 56,
+          "v3_excerpt_sha256": "b03ffe93f0ca34fcbc669b1fb96244e12ed50fa72e8342277db4c6f4f44ba0fe",
+          "v4_excerpt_sha256": "b03ffe93f0ca34fcbc669b1fb96244e12ed50fa72e8342277db4c6f4f44ba0fe",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 266,
+          "end_line": 276,
+          "v3_excerpt_sha256": "68cd8eea5c96ef2a6d61eb9703f6bca9b2dc159248b247601949aa88cee1b0b9",
+          "v4_excerpt_sha256": "68cd8eea5c96ef2a6d61eb9703f6bca9b2dc159248b247601949aa88cee1b0b9",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        }
+      ]
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "v3_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "v4_actual_sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": false,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "edits": [
+        {
+          "id": "R008-B26-WB45",
+          "actual_line": 178,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "A16_WB45_48_fact_recheck"
+        },
+        {
+          "id": "R008-B26-WB46",
+          "actual_line": 179,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "A16_WB45_48_fact_recheck"
+        },
+        {
+          "id": "R008-B26-WB47",
+          "actual_line": 180,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "A16_WB45_48_fact_recheck"
+        },
+        {
+          "id": "R008-B26-WB48",
+          "actual_line": 182,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "A16_WB45_48_fact_recheck"
+        },
+        {
+          "id": "RB28-W055",
+          "actual_line": 459,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "B28_boundary_only_not_fact_signed"
+        },
+        {
+          "id": "RB28-W056",
+          "actual_line": 462,
+          "current_new_occurrences": 1,
+          "old_occurrences": 0,
+          "logged_chain_before_after_verified": true,
+          "scope": "B28_boundary_only_not_fact_signed"
+        }
+      ],
+      "read_range_comparisons": [
+        {
+          "start_line": 138,
+          "end_line": 159,
+          "v3_excerpt_sha256": "e376e9847d745bf455b901ed5ff52daaab10db7dcf9a5f632f27de12315854d5",
+          "v4_excerpt_sha256": "e376e9847d745bf455b901ed5ff52daaab10db7dcf9a5f632f27de12315854d5",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 161,
+          "end_line": 182,
+          "v3_excerpt_sha256": "92ef1089b5ab53991a8bd9674185ccb182546cea54e0dba7be9eece2c45caae8",
+          "v4_excerpt_sha256": "4976a54002e35f20befb95f5a1f5817c210249d56d8da1e2160707475f6799a2",
+          "raw_excerpt_unchanged": false,
+          "changed_ids": [
+            "R008-B26-WB45",
+            "R008-B26-WB46",
+            "R008-B26-WB47",
+            "R008-B26-WB48"
+          ],
+          "scope_note": "A16四项候选正文事实复核；其余原句不变。"
+        },
+        {
+          "start_line": 427,
+          "end_line": 442,
+          "v3_excerpt_sha256": "7c889946b750783cbe9375f114082069600ba1fdc6d2a1eadff9a8e93819cabf",
+          "v4_excerpt_sha256": "7c889946b750783cbe9375f114082069600ba1fdc6d2a1eadff9a8e93819cabf",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        }
+      ]
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "v3_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "v4_actual_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "actual_matches_v4_freeze": true,
+      "whole_file_unchanged": true,
+      "reverse_all_logged_edits_reconstructs_v3_sha256": true,
+      "reconstructed_v3_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "edits": [],
+      "read_range_comparisons": [
+        {
+          "start_line": 1,
+          "end_line": 7,
+          "v3_excerpt_sha256": "fb5c8621fe072d74034b5592b594c3ec8ec18f199787c18b647e51bb9a163090",
+          "v4_excerpt_sha256": "fb5c8621fe072d74034b5592b594c3ec8ec18f199787c18b647e51bb9a163090",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 16,
+          "end_line": 16,
+          "v3_excerpt_sha256": "f9fdeae3456d92b67188f31abcdf030d6518c5c6f3713874090782a36f2e800e",
+          "v4_excerpt_sha256": "f9fdeae3456d92b67188f31abcdf030d6518c5c6f3713874090782a36f2e800e",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        },
+        {
+          "start_line": 40,
+          "end_line": 44,
+          "v3_excerpt_sha256": "2d25f5bd248a847d4dd8cba46528319ea2f377a2e2b0f8df565bf5d06db56d16",
+          "v4_excerpt_sha256": "2d25f5bd248a847d4dd8cba46528319ea2f377a2e2b0f8df565bf5d06db56d16",
+          "raw_excerpt_unchanged": true,
+          "changed_ids": []
+        }
+      ]
+    }
+  ],
+  "all_8_current_sha_match_freeze": true,
+  "all_10_logged_exact_edits_verified": true,
+  "no_unlogged_byte_changes": true,
+  "A16_other_content_unchanged_except_WB45_48": true,
+  "changed_raw_read_windows": [
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "start_line": 743,
+      "end_line": 751,
+      "v3_excerpt_sha256": "e4befeea453c1b5e14cfebeb41477caa955772574bff99bfe8b0e256371a5ca6",
+      "v4_excerpt_sha256": "23c67b5ffe3d89d37aa39c2943ae6495782678807890bad9f2d8b5164b2c5d5d",
+      "raw_excerpt_unchanged": false,
+      "changed_ids": [
+        "RB28-W059"
+      ],
+      "scope_note": "旧阅读窗口含范围外共用说明；该处真实改变，不能写成窗口字节未变。只核变更未修改251—260事实断言，不签B28事实。"
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "start_line": 425,
+      "end_line": 427,
+      "v3_excerpt_sha256": "3a3424ca0b1b6d4423e5a8dc1b8cf639e19492a9e9382ed95d375f7f4b270a67",
+      "v4_excerpt_sha256": "04f0a77b0dc53cdd52698a78a73705b7d68544803ce7ca1867660a728e844e45",
+      "raw_excerpt_unchanged": false,
+      "changed_ids": [
+        "RB28-W054"
+      ],
+      "scope_note": "旧阅读窗口含范围外共用说明；该处真实改变，不能写成窗口字节未变。只核变更未修改251—260事实断言，不签B28事实。"
+    },
+    {
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "start_line": 161,
+      "end_line": 182,
+      "v3_excerpt_sha256": "92ef1089b5ab53991a8bd9674185ccb182546cea54e0dba7be9eece2c45caae8",
+      "v4_excerpt_sha256": "4976a54002e35f20befb95f5a1f5817c210249d56d8da1e2160707475f6799a2",
+      "raw_excerpt_unchanged": false,
+      "changed_ids": [
+        "R008-B26-WB45",
+        "R008-B26-WB46",
+        "R008-B26-WB47",
+        "R008-B26-WB48"
+      ],
+      "scope_note": "A16四项候选正文事实复核；其余原句不变。"
+    }
+  ],
+  "B28_boundary_review": {
+    "method": "实际读B28六处old/new及当前相邻栏目/章号；逐项逆替换连锁SHA与v3冻结完整SHA相符。仅判断是否改动A16已审事实，不评价B28修订是否充分。",
+    "changed_ids": [
+      "RB28-W054",
+      "RB28-W055",
+      "RB28-W056",
+      "RB28-W057",
+      "RB28-W058",
+      "RB28-W059"
+    ],
+    "A16_original_rows_changed_by_B28": false,
+    "shared_windows_changed": [
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "line": 749,
+        "id": "RB28-W059",
+        "assessment": "共用R008的F11运输比对边界，新增同模释义与实体模具/来源未验限制；未改A16号同页异条及A16实录。只核不赋予251—260新知识，不签运输比对实证。"
+      },
+      {
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "line": 427,
+        "id": "RB28-W054",
+        "assessment": "共用R008说明中改的是B28“两栏不写来处”从句；A16相关译页区分原句未改。两栏公开范围及私存出处本组不签。"
+      }
+    ],
+    "shared_term_boundary": {
+      "ids": [
+        "RB28-W057",
+        "RB28-W058"
+      ],
+      "read_only_changed_definitions_and_context": true,
+      "assessment": "条目带有256/259/260半印章号引用；这些章号、语域叫法与同源未定结论未改。新增“同模”仅指印样/缺角形制，且不得推同一实体模具/制印者/来源，未将这些实体或来源知识倒灌到A16；同模和模制缺角原文保留，不以此评价207—280其他章节证据。"
+    },
+    "chapter_rows_outside_scope": [
+      277,
+      280
+    ],
+    "A17_or_A18_full_review_performed": false,
+    "scope_expanded": false,
+    "conclusion": "B28六项仅纳入精确差异定位及不影响A16的边界核验；不纳入本组48项事实关闭，B28事实验收留给B28。"
+  },
+  "B26_all_10_body_sha_unchanged": true,
+  "manuscripts": [
+    {
+      "chapter": 251,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第251章_窄台只过一个人.md",
+      "sha256": "738b71554676fa5fdfd6ba6eb4487e012d3339c269a7d7844a8c66da23ea7996"
+    },
+    {
+      "chapter": 252,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第252章_先报的名单.md",
+      "sha256": "68cc62e5baf32278cbbdb9d3187abd7f4cf42845b59f69ecfe19bdaed114080f"
+    },
+    {
+      "chapter": 253,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第253章_棚区腾位.md",
+      "sha256": "02c88de48c88d3f6f4fc0b56ec23ee5d32599484743835d4eb4a7d1de600c1ef"
+    },
+    {
+      "chapter": 254,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第254章_拆栏旧板.md",
+      "sha256": "701e8fa4dff2c321fb4afe507df14ff09e800942dbade4369e8525bd8a176bc6"
+    },
+    {
+      "chapter": 255,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第255章_抬下去.md",
+      "sha256": "a5b4672b4fdb992cac82ec7f8362d61ac0eae6e5f4f7926a9a339a1d37ea8332"
+    },
+    {
+      "chapter": 256,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第256章_门牌还留着.md",
+      "sha256": "dd830cbc407efeec11dc4494d82a26fdf72e86e8d89e9f57c0d09f8905cfc62c"
+    },
+    {
+      "chapter": 257,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第257章_分人.md",
+      "sha256": "9030875e4ec16bfd370ce03f91b51d9cfa30632ccbb2796047971894bf11d95d"
+    },
+    {
+      "chapter": 258,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第258章_欠额不销.md",
+      "sha256": "c03b8d5121e7f7088a0fe0927ec4e0f95836c862aba8ef79ffcc883ffaa0b771"
+    },
+    {
+      "chapter": 259,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第259章_两日之内.md",
+      "sha256": "4fb0d2f4b72c3cfdfd0fc0a3c10b46a178eb1b49de821158e3be8544b8b189f3"
+    },
+    {
+      "chapter": 260,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第260章_桌上的译页.md",
+      "sha256": "99b4a078ddb606bc9e0df1f29653e89913a7ddb21d8c566e831222bf9a6bf126"
+    }
+  ],
+  "body_verdict": "pass",
+  "body_issues_closed": 58,
+  "reader_52_unchanged": true,
+  "reader_review_sha256": "793abea623dd1f3d57c28d932931ccccdb15295e3e0cd16aa42481ebaacc25ef",
+  "formal_body_unpublished": true,
+  "writeback_verdict": "pass",
+  "writeback_closed_ids": [
+    "R008-B26-WB01",
+    "R008-B26-WB02",
+    "R008-B26-WB03",
+    "R008-B26-WB04",
+    "R008-B26-WB05",
+    "R008-B26-WB06",
+    "R008-B26-WB07",
+    "R008-B26-WB08",
+    "R008-B26-WB09",
+    "R008-B26-WB10",
+    "R008-B26-WB11",
+    "R008-B26-WB12",
+    "R008-B26-WB13",
+    "R008-B26-WB14",
+    "R008-B26-WB15",
+    "R008-B26-WB16",
+    "R008-B26-WB17",
+    "R008-B26-WB18",
+    "R008-B26-WB19",
+    "R008-B26-WB20",
+    "R008-B26-WB21",
+    "R008-B26-WB22",
+    "R008-B26-WB23",
+    "R008-B26-WB24",
+    "R008-B26-WB25",
+    "R008-B26-WB26",
+    "R008-B26-WB27",
+    "R008-B26-WB28",
+    "R008-B26-WB29",
+    "R008-B26-WB30",
+    "R008-B26-WB31",
+    "R008-B26-WB32",
+    "R008-B26-WB33",
+    "R008-B26-WB34",
+    "R008-B26-WB35",
+    "R008-B26-WB36",
+    "R008-B26-WB37",
+    "R008-B26-WB38",
+    "R008-B26-WB39",
+    "R008-B26-WB40",
+    "R008-B26-WB41",
+    "R008-B26-WB42",
+    "R008-B26-WB43",
+    "R008-B26-WB44",
+    "R008-B26-WB45",
+    "R008-B26-WB46",
+    "R008-B26-WB47",
+    "R008-B26-WB48"
+  ],
+  "scope_limitation": "只签251—260/A16对应回填事实。未修改正文/候选；不签B28全文、其他章节或发布流程。"
+}

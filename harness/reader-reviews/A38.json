@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root",
+  "reviewer": "/root/a38_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 471,
+      "path": "异星录/06_执行计划/工作区/A38/第471章_让开那道阴凉.md",
+      "sha256": "ad126d12652aaa276fa00f45dda43c8fbaec76c2ab77fc89c438728b4ea6f953"
+    },
+    {
+      "chapter": 472,
+      "path": "异星录/06_执行计划/工作区/A38/第472章_印下有一道折.md",
+      "sha256": "8c793df51f6e68ee47ffb1cd362736094b4bb8f8ba8fc437032a837ec3226b7d"
+    },
+    {
+      "chapter": 473,
+      "path": "异星录/06_执行计划/工作区/A38/第473章_课上少掉的那一栏.md",
+      "sha256": "8af233273c9086615788e3901756d3a1d0c3084c019aed2c654e664e01e571f3"
+    },
+    {
+      "chapter": 474,
+      "path": "异星录/06_执行计划/工作区/A38/第474章_四个人和两道封.md",
+      "sha256": "40666af6e170eaf0bdacecc114318e55743d108feec467bb4de835421a9d87a2"
+    },
+    {
+      "chapter": 475,
+      "path": "异星录/06_执行计划/工作区/A38/第475章_同一天还差一笔.md",
+      "sha256": "87b75240a31bd19bc8696f7128055060f1a556f9af2a8d8e082e022975ff62a2"
+    },
+    {
+      "chapter": 476,
+      "path": "异星录/06_执行计划/工作区/A38/第476章_各自划掉的字.md",
+      "sha256": "bd982d9a456df119f2cc7620c094291d0f7ae5e68478445415d7329ec9ed4c07"
+    },
+    {
+      "chapter": 477,
+      "path": "异星录/06_执行计划/工作区/A38/第477章_你坐到我这边.md",
+      "sha256": "12a0530023fbf2222ce80a26499b6ddd7f01accc507b0823302115add694e958"
+    },
+    {
+      "chapter": 478,
+      "path": "异星录/06_执行计划/工作区/A38/第478章_一张先走陆路.md",
+      "sha256": "cc627600ffdcf318a21b37a1c9782da791964b07b28524fa452787a6d6e1f21e"
+    },
+    {
+      "chapter": 479,
+      "path": "异星录/06_执行计划/工作区/A38/第479章_水单少一笔.md",
+      "sha256": "479962a8c66f7c6dd5910a1f69ad4c083e0c436abca4c34d28b0a7e185563c1f"
+    },
+    {
+      "chapter": 480,
+      "path": "异星录/06_执行计划/工作区/A38/第480章_等他们把章按下去.md",
+      "sha256": "97c5eb79bedd250c097046211558028093919403d62bfb4d9a7c57b5f60b9927"
+    }
+  ],
+  "source_digest": "8eb4977afed710675a9c80d8209f95fbd44cc729d4bd6cfce867a694ca379a3c",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 471,
+      "quote": "旧档的案子得往外挪。",
+      "reason": "见证案第一张纸才摊开，领水者就要同一段阴凉。开会得先解决眼前冲突。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 471,
+      "quote": "案放到窄柱以内，领水的人留在这里。",
+      "reason": "林渡先看旧廊的柱位和板缝，选能站旁听人又不抢饮水队的地方。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 471,
+      "quote": "过四天午后有个当年在收声台帮着归夹的人会来领自己的木牌。",
+      "reason": "白礁保有教学样，取得可亲问当年退夹人的时段和原柜入口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 471,
+      "quote": "她愿让候水的人从自己的位置看见谁先把原件交进柜，不为他们认听来的一句话。",
+      "reason": "空壶女人先帮挪案，再给出自己能承担的见证，阴凉里留得下港人的位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 471,
+      "quote": "桌上至少得给衡陆那一份原来该坐的人留出一个空位。",
+      "reason": "沿潮港有了一个当年人，栈城的材料与人仍要经手实到。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 472,
+      "quote": "头一栏写从山口联络岗来的字，末一栏空着。",
+      "reason": "换岸开场用空栏说明消息到了哪、接下来找谁，林栖还要让完抬水队。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 472,
+      "quote": "她请持档人把夹子向内转小半圈",
+      "reason": "林栖不硬翻脆纸，借窗光照折边，收件人和发印出处可以分开辨。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 472,
+      "quote": "来处那一栏原来写的是沿潮港，印到那份底单就只剩“异星”。",
+      "reason": "同号记录证明岸名在内页可知，面向外面的称谓是后改。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 472,
+      "quote": "两件材料上的年和字格没合，祝衡便把要查的名字从本地那一夹移开",
+      "reason": "林栖问父亲而得到一个有限答案，保住原有责任，也免得新签自动由旧罪人承担。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 472,
+      "quote": "曲荻带着的那个封口该当着谁先打开",
+      "reason": "纸从五层到曲荻手里，接下来要看她能不能真的到对岸、当着哪方人开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 473,
+      "quote": "认旧声条的人只肯坐在廊外。",
+      "reason": "来人的条件立刻改变安排，白礁得决定自己在哪、认到哪里。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 473,
+      "quote": "林渡把凳子的前脚挪到进廊的背面，让他不必转身面对外窗说话。",
+      "reason": "让退夹者有自己的站位和说话次序，给他的有限见证留实际空间。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 473,
+      "quote": "现行公开样只留本地的答名。",
+      "reason": "旧记与教样的差别落到两岸答名，后来配发的回记又牵出另一时期。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 473,
+      "quote": "当年在课上只教那一行的人，在公开时由他答。",
+      "reason": "白礁开始为自己从前教过的版本答问，关系从师徒之间转向被删掉那一栏的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 473,
+      "quote": "问这里可有一笔曾写给夹上看不到的人。",
+      "reason": "退夹人站到接不着纸的一边追问，读者要等原签到岸后白礁如何当面回答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 474,
+      "quote": "离船头还有一条病船",
+      "reason": "两船争同一接手位置，开头使带证物的急切与伤者优先发生碰撞。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 474,
+      "quote": "他请伙计把空夹放低，从病船留给抬手的位置退开。",
+      "reason": "林渡按撑脚、热面和抬手空位排序，把原签等候的代价留给自己一方。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 474,
+      "quote": "薄的那一份是同号的有署名原签和附的原回记",
+      "reason": "一封原签及附记、一封两期节抄随曲荻亲抵，取得另一岸可见的原件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 474,
+      "quote": "抬架沿着新空出的脚路转过帘角",
+      "reason": "在岸台抢时间的动作真正让伤者通过，接纸也保留了干位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 474,
+      "quote": "开第一道封时得有一个衡陆人在这里先念自己的名字。",
+      "reason": "不仅等开包，也等衡陆经手人亲口承担，留给次章实开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 475,
+      "quote": "一张写着“同日”的纸被风掀起来",
+      "reason": "别人已把缺项写成同日，开场就有一个容易复述却站不住的答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 475,
+      "quote": "我认得那个日子。别替我在它下面先写同箱。",
+      "reason": "弥娅选择用自己能证的日期说话，拒绝在听证前填上自己也想知道的箱身份。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 475,
+      "quote": "两张纸要对的是出工年份。",
+      "reason": "旧工册对年、旧表缺原潮时、近年箱记对离岸和进门日界，区分出能够核的证据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 475,
+      "quote": "弥娅把水壶放下，让他将那一行再念给她。",
+      "reason": "她肯让林渡重读受伤时的所见，一起保留也许永远不能拼满的一格。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 475,
+      "quote": "得把那一手签叫到自己眼前再问。",
+      "reason": "章末承诺下一次把听来的同日放到经手人面前，次章证词会可验证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 476,
+      "quote": "为什么他小时候听的是异星。",
+      "reason": "听众把学舍里的称谓同眼前具名印发材料对照，开篇直扣两边各删过什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 476,
+      "quote": "林渡将栈城的原签往自己的桌边移一寸，叫站在旁边的人也能问这一头。",
+      "reason": "林渡让人复问本方署名，弥娅与白礁给出本岸原记和经手，面对双向责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 476,
+      "quote": "他在被占的冷凝站亲耳听见鸦母用过，后来仓库旧轨旁的喇叭也反复这样念。",
+      "reason": "名单上两格分别接008残签、021当面和044广播；共同工册及各自原签同时完成双边可归责的史证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 476,
+      "quote": "那一段，我抽的。",
+      "reason": "白礁让签名与当众认下的动作接到一起，读者终于听见少了哪段、谁亲手抽掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 476,
+      "quote": "已经有人捏着来领整册的空夹",
+      "reason": "认错后纸会不会又被一手收走，下一章的压力来自本次公开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 477,
+      "quote": "来领整册的人挤到内帘下",
+      "reason": "对方持有印的代收文书，当场施压，要把白礁手里的纸一起拿走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 477,
+      "quote": "把那枚本次带读的领签当面还给管柜人。",
+      "reason": "白礁承担亲手抽页的后果，留下公开答话却交出馆内带读资格。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 477,
+      "quote": "抄手将两支笔拢回衣里，挪到门边同来的人说今天先走。",
+      "reason": "失去抄手这个可见后果，让双人见证有了真实代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 477,
+      "quote": "弥娅把自己的凳子向他那一侧挪过来。",
+      "reason": "弥娅和林渡在各认本方不利证据之后并席，照顾吊臂的动作不遮挡签字。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 477,
+      "quote": "给出一条不经过同一张案的路。",
+      "reason": "要让不在这一处的人还能核证，下一章看两路送出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 478,
+      "quote": "去北面小港的旧坡热起来了。",
+      "reason": "送抄的人倒出鞋中灰砂，同时指出近水路的热压，纸怎么送立刻牵涉安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 478,
+      "quote": "林渡从自己夹子上拆出护封的两块干板，把窄一点的一块让他捆",
+      "reason": "宁愿损失自己两块护板的余裕，也让小港、老货台各得一整份可复问的文字。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 478,
+      "quote": "两个方向的人都已经离开。",
+      "reason": "两份均离案，底联等待实收。可回问的内容开始摆脱唯一场所。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 478,
+      "quote": "她自己的旧铺凭不跟它一道交。",
+      "reason": "修缆妇人把自己听的一音按手印留下，继续为住位保留原凭。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 478,
+      "quote": "外面那两张已经不在案脚下了。",
+      "reason": "明日能否分别拿到实收，以及代保水能否领，成为两项可追问的后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 479,
+      "quote": "仓口放到案上的水单少了一笔。",
+      "reason": "昨日为两位送抄者留的待领水被停保，政治争执落到仓门水位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 479,
+      "quote": "裁了船上就少一个要用的套。",
+      "reason": "曲荻保住护缆材料，与舵手搬罐换出工水，林渡先给病号让路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 479,
+      "quote": "尚未有水送给那两个送抄人。",
+      "reason": "旧保中止、病水另罐、两小壶劳务水已经实量，三种后果看得分明。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 479,
+      "quote": "林渡从案边看见两张回联实到的时刻不同",
+      "reason": "一处当晚实交一处次晨，承担路上的热、过夜和等待，终于各有亲手送达回证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 479,
+      "quote": "有一张空桌正被人从旧柱旁拖开",
+      "reason": "停保之后又换了收验位置，下一章能见新岗如何扣箱、验航水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 480,
+      "quote": "是要验里面的绳，还是要验他下一次想同谁换水。",
+      "reason": "已寄的两捆干绳被拦在栏内，箱主问出收验扩大到人的去向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 480,
+      "quote": "下一回船要去哪里还得由船工亲看，眼下先不签。",
+      "reason": "原舵手愿对水罐的来处作证，拒绝以补水之便预报未验航段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 480,
+      "quote": "封过口的一罐停在栏外低台上，船没收也没记实交。",
+      "reason": "收验制已经实际拦住东西，原封底、在泊船和两处副抄各自留下。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 480,
+      "quote": "收验的人把断头举到众人眼前",
+      "reason": "坏绳带来的真实风险支撑收验人动机，同时箱主已摸不到自己的货，压力不靠突然冒出的恶意。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 480,
+      "quote": "哪一口水先要过谁的手。",
+      "reason": "曲荻亲到新桌找经手，下一篇的选择已经落到第一船明凉的补水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 476,
+      "quote": "纸上第一格同弥娅在祭棚亲眼见的字相合，第二格同林渡在栈城亲耳听见的叫法相合。",
+      "reason": "471留出衡陆席，474原签和节抄实抵，476把两岸共同修造和分别删改摆到听众眼前。008所见的残签、021和044听到的称谓各回到对应的档案栏位，043异星警报另作亲闻。读者能指出每一手有什么责任，教团后续经手、失散者及正式判决仍留待后文。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 480,
+      "quote": "栏内的空处足够再放两只罐，伸手过栏的人却得先交一张纸。",
+      "reason": "471争的是案与水队共用的一片阴凉，474伤船优先，476经手承责，477带读、同席与抄手构成关系代价。478两路出件后，479停保及实际搬罐换水，480新岗动手扣货、拒先收航水。压力扩大到普通箱主和船员，已经送到的两处证词仍能复问。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

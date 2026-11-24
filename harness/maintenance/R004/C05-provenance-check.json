@@ -1,0 +1,570 @@
+{
+  "schema_version": 1,
+  "kind": "limited_provenance_check",
+  "id": "R004-C05",
+  "date": "2026-11-06",
+  "reviewer": "01a1b002-648c-7311-a0a2-647911278770",
+  "agent_id": "01a1b002-648c-7311-a0a2-647911278770",
+  "independent": true,
+  "role": "独立来源核验者；不是主笔，不写故事",
+  "source_read_only": true,
+  "allowed_writes": [
+    "harness/maintenance/R004/C05-provenance-check.md",
+    "harness/maintenance/R004/C05-provenance-check.json"
+  ],
+  "verdict": "author_decision_required",
+  "provenance_verdict": "historical_source_and_recorded_cutoff_found_but_authorization_conflicted",
+  "can_close_current_scope": false,
+  "true_author_approval_found": false,
+  "approval_search_result": "not_found_in_checked_scope",
+  "explicit_historical_cutoff_found": true,
+  "historical_cutoff": {
+    "chapter": 101,
+    "story_time": "D0热时（第100章当日）",
+    "location": "7层木箱区",
+    "event": "分组过册",
+    "document_date": "2026-09-30",
+    "evidence_ids": [
+      "E10",
+      "E11",
+      "E12",
+      "E13",
+      "E24"
+    ],
+    "status": "historically_recorded_not_newly_certified"
+  },
+  "resolved_subquestion": "船舱13及101截点确有既往字面来源，不是本轮通过17减4生成；不等于C05整体关闭。",
+  "scope": {
+    "requested": "C05人数来源与批准/成立截点；第一卷快照、101相关卡账、既有审读审计与裁定",
+    "body_read_scope": "100孩子数量/分组段与101登记相关场景；不作101—400整体或抽样质量审读",
+    "excluded": [
+      "不审102—400正文",
+      "不重做B06终审",
+      "不审WB完整回填",
+      "不改变正文、台账、章卡、登记或他人报告",
+      "不发布、不运行gate/close/verify-repair",
+      "不以17减4或旧表加总生成来源"
+    ]
+  },
+  "read_order": [
+    "C05现有登记",
+    "第一卷收官快照",
+    "100/101直接文字及101规划/实录与卡账",
+    "既有A01/第一卷审读审计",
+    "作者决策存档及人数执行约束",
+    "相关字面Git历史查询",
+    "核原句、行号、当前SHA后仅写本报告对"
+  ],
+  "findings": [
+    {
+      "id": "C05-P01",
+      "question": "船舱13是否只有17减4的推算来源",
+      "verdict": "historical_literal_source_found",
+      "evidence_ids": [
+        "E10",
+        "E11",
+        "E12"
+      ],
+      "conclusion": "不是仅有推算：2026-09-30 A01实录直接写船舱核实13、加长屋4共17。历史来源缺失这一子问题已取得实证；不得继续说所有资料都没有13。"
+    },
+    {
+      "id": "C05-P02",
+      "question": "是否存在明确记录的成立截点",
+      "verdict": "recorded_cutoff_found_authority_conflicted",
+      "evidence_ids": [
+        "E04",
+        "E10",
+        "E11",
+        "E13",
+        "E14",
+        "E19",
+        "E24"
+      ],
+      "conclusion": "存在明确记载：101、D0热时、七层木箱区分组过册；但当前正文不明写结果，同期执行约束禁止101—110直接精确化。找到的是既往实录认定的截点，不是本轮确认无冲突的获准截点。"
+    },
+    {
+      "id": "C05-P03",
+      "question": "是否有针对13/17的真实作者批准",
+      "verdict": "not_found_in_checked_scope",
+      "evidence_ids": [
+        "E12",
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ],
+      "conclusion": "范围内未找到。实录的“允许核实”、旧审读的“无冲突”不等于作者授权。找到的作者指示限定C01/C02；其文件还保留相反人数边界。"
+    },
+    {
+      "id": "C05-P04",
+      "question": "约48能否成为100或101的精确共同分母",
+      "verdict": "historical_approximation_only",
+      "evidence_ids": [
+        "E02",
+        "E03",
+        "E05",
+        "E06",
+        "E07",
+        "E08",
+        "E14",
+        "E21"
+      ],
+      "conclusion": "约48有旧快照、卷级审计与资源账的直接文字来源，但始终带约/至少约。未找到当前登记子集与各新增组统一核对的分母凭证，不据表格加减得到全场总数，不倒灌100。"
+    },
+    {
+      "id": "C05-P05",
+      "question": "C05能否在当前范围整体关闭",
+      "verdict": "keep_open_for_author_decision",
+      "evidence_ids": [
+        "E01",
+        "E11",
+        "E12",
+        "E18",
+        "E19",
+        "E20"
+      ],
+      "conclusion": "不能。可以消除“找不到任何既往13来源/截点”的绝对说法，但还缺对101实录与既有执行边界冲突的裁定。保留现有已发生记录，不以规划覆盖台账；也不把台账相互重复当成批准链。"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E01",
+      "source_id": "S01",
+      "path": "harness/maintenance/R004/事实冲突与处理边界.md",
+      "source_sha256": "282aee5d2ec3ea13f927e2176830faf83c00a6d70ef1be803ecfe50fc9cdd488",
+      "line_start": 46,
+      "line_end": 46,
+      "quote": "WB独立复核指出：100只分别写长屋4名、检修舱十余名；已发布101逐个登记但没有“13/17”核数句，时间线101却写17＝4＋13。该精确数现有权威出处与成立截点尚待核，不能由101笼统登记反推出100已确认13或全队约48。R004不擅改101—400正文、不对其质量签通过；暂存登记待核依赖，保留原权威记录及其来源冲突。该依赖不允许R004快照继续混合不同分母报总数。",
+      "evidence_role": "existing_issue",
+      "interpretation": "原登记要求追溯精确数来源与成立截点，不授权改101—400。"
+    },
+    {
+      "id": "E02",
+      "source_id": "S02",
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "source_sha256": "5c2ff2f020ac3b9bf97d8abd9e8d8b72875579fcff3a42ac77009cd77f2f4614",
+      "line_start": 69,
+      "line_end": 69,
+      "quote": "舱内有十余个孩子。有人会报名字，有人只指腕片上的数字，还有一个抱着空水壶，怎么劝也不松手。林渡让他连壶一起递出，到了外面再核，不在舱口争论哪样东西值得带。",
+      "evidence_role": "current_manuscript",
+      "interpretation": "100正式路径正文只给船舱十余，没有13。"
+    },
+    {
+      "id": "E03",
+      "source_id": "S02",
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "source_sha256": "5c2ff2f020ac3b9bf97d8abd9e8d8b72875579fcff3a42ac77009cd77f2f4614",
+      "line_start": 83,
+      "line_end": 83,
+      "quote": "四名长屋孩子在原来的四行里，舱中孩子另起一组。不会说名字的先留编号，会说的由身旁孩子复述一遍。林渡把册子托在箱顶，听杜姨报数，没有往先前那名失联伤员的空行补进任何一个新名字。",
+      "evidence_role": "current_manuscript",
+      "interpretation": "长屋4与船舱另组；新名不抵失联行。"
+    },
+    {
+      "id": "E04",
+      "source_id": "S03",
+      "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+      "source_sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb",
+      "line_start": 23,
+      "line_end": 23,
+      "quote": "长屋四个孩子在头一列，最大女孩坐在末尾，替最小的拢着衣襟。船舱里出来的孩子排在另一列，一个一个往箱缝前走。会报名字的，林渡照音记下；只指腕片的，他照片上那串数字记；抱着空水壶不肯放的那个，他让孩子连壶一起站到灯下，在册页边画了一只壶。",
+      "evidence_role": "current_manuscript",
+      "interpretation": "101有逐人过册，正文未写船舱13或孩子17的核数结果。"
+    },
+    {
+      "id": "E05",
+      "source_id": "S04",
+      "path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "source_sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+      "line_start": 3,
+      "line_end": 3,
+      "quote": "> 冻结点：第100章《秘密撤离船》结束。第二卷正文必须以本文件和动态台账的第91—100章后状态为起点。",
+      "evidence_role": "snapshot_cutoff",
+      "interpretation": "这是100结束的冻结点，不是101核数完成后的快照。"
+    },
+    {
+      "id": "E06",
+      "source_id": "S04",
+      "path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "source_sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+      "line_start": 19,
+      "line_end": 19,
+      "quote": "| 第100章白船孩子 | 十余名，已离开白船检修舱，转移到高架平台木箱间并临时登记；未进入白船主体 |",
+      "evidence_role": "snapshot_group",
+      "interpretation": "快照仍写十余且临时登记，不能从中直接读取13。"
+    },
+    {
+      "id": "E07",
+      "source_id": "S04",
+      "path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "source_sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+      "line_start": 20,
+      "line_end": 20,
+      "quote": "| 当前可确认活人 | 至少约48名；“十余名”尚未逐一核实名字，后续不能擅自写成精确总数 |",
+      "evidence_role": "historical_approximation",
+      "interpretation": "至少约48是旧快照粗口径，原句同时禁止擅自写成精确总数。"
+    },
+    {
+      "id": "E08",
+      "source_id": "S05",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "line_start": 15,
+      "line_end": 15,
+      "quote": "| 照护与人数 | 固定照护组负责儿童及伤员，侦查组可出入；岑野等外围人员先会合再算在现场。至少约48名是卷初口径，不擅自变精确数；新救出、已安置、临时离队、失联、确认死亡分栏。 |",
+      "evidence_role": "planning_constraint",
+      "interpretation": "卷初约48且分栏；不能作为新孩子精确数量的来源。"
+    },
+    {
+      "id": "E09",
+      "source_id": "S05",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "line_start": 39,
+      "line_end": 39,
+      "quote": "| 101／灯没有灭 | 七层木箱区，T8热时 | 安置刚救出的孩子；白船已升空、第二批喷流逼近，旁门仍拒绝权限 | 林渡接回杜姨临时保管的公共册，按能否行走分组；祝衡守入口，先撤孩子不追船 | 用余湿布隔热，药先处理渗血伤；成年人让出遮蔽位 | 目/资/规：孩子分组不并失联账，权限仍无效 | （危险）追捕广播扩到本平台；林渡沿山侧立柱安排短移 |",
+      "evidence_role": "planning_card",
+      "interpretation": "规划只要求分组与照护，没有指定船舱13。"
+    },
+    {
+      "id": "E10",
+      "source_id": "S05",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "line_start": 212,
+      "line_end": 212,
+      "quote": "## 五、A01实录（101—110，2026-09-30）",
+      "evidence_role": "dated_historical_record",
+      "interpretation": "文件将随后的101实录标注为2026-09-30；不是本轮补记。"
+    },
+    {
+      "id": "E11",
+      "source_id": "S05",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "line_start": 216,
+      "line_end": 216,
+      "quote": "实际发生：林渡接回公共册，全员按能否行走分四组；船舱孩子核实为13名、加长屋4名共17名，男孩拒绝以腕片号当身份，册页留空格；盐药最后一包拆用；湿布铺箱顶隔热，成人让出遮蔽位；弥娅判断第二批船将离轨；广播开始按册页编号顺序念临时编号，灯柱扫立柱，队伍向山侧立柱短移。",
+      "evidence_role": "explicit_recorded_cutoff",
+      "interpretation": "找到直接写出船舱13、长屋4、共17及101过册截点的既往实录；不是本轮17减4所得。"
+    },
+    {
+      "id": "E12",
+      "source_id": "S05",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "source_sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "line_start": 217,
+      "line_end": 217,
+      "quote": "偏离原因：无；孩子\"十余名\"落实为13名，属101章分组过册的允许核实。",
+      "evidence_role": "claimed_permission",
+      "interpretation": "实录自称允许核实，但这不是带作者身份/授权范围的批准凭证。"
+    },
+    {
+      "id": "E13",
+      "source_id": "S07",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "line_start": 43,
+      "line_end": 43,
+      "quote": "| 101 | D0热时 | 7层木箱区 | 林渡接回公共册，全员按能否行走分四组；孩子落实为17名（长屋4+船舱13）；盐药最后一包拆用；队伍开始向山侧立柱短移 | L3：广播照册页顺序念临时编号，灯柱扫立柱 |",
+      "evidence_role": "existing_fact_record",
+      "interpretation": "正式时间线把17与4+13放在101；本轮保留，不静默改写。"
+    },
+    {
+      "id": "E14",
+      "source_id": "S08",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "line_start": 239,
+      "line_end": 239,
+      "quote": "| 队伍人数 | 第101章孩子组落实为17名（长屋4＋船舱13），原“十余名”核实；第102—110章无新增死亡、失联 | 高架平台至遮蔽廊约48名可确认活人口径不变；第66、95章失联者两行空行保留 |",
+      "evidence_role": "existing_fact_record",
+      "interpretation": "资源账明确101精确化并延续约48；这是待追溯记录本身，不能循环作批准证据。"
+    },
+    {
+      "id": "E15",
+      "source_id": "S09",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "line_start": 202,
+      "line_end": 202,
+      "quote": "| 孩子组（17名：长屋4+船舱13） | 7层遮蔽廊干段 | 普遍脱水缓解，无新增重伤 | 灰白身份片、临时编号 | 腕片“模板过期”被识读台当面确认；一名船舱男孩在册页空格自填姓名并约定不外念 | 从被登记对象转为有约定、有次序的照护组 |",
+      "evidence_role": "existing_fact_record",
+      "interpretation": "人物账亦沿用同一口径，是既有记载佐证，不是新的核验事件。"
+    },
+    {
+      "id": "E16",
+      "source_id": "S10",
+      "path": "异星录/06_执行计划/审读记录/第二卷/第二卷A01批101-110章读者审读报告.md",
+      "source_sha256": "6b4927907f1d913548f9c9a06e9c3bedf1435c92122c05682ec43fe479ab52ee",
+      "line_start": 26,
+      "line_end": 26,
+      "quote": "核实无冲突项：伤势连续性、装备持有、人数口径（约48人、孩子17名）、资源消耗、L3信息边界、钩子类型序列。",
+      "evidence_role": "historical_review_acceptance",
+      "interpretation": "旧审读明确接受约48与孩子17；保留此历史结论，但它未列具体核数原句或作者批准。"
+    },
+    {
+      "id": "E17",
+      "source_id": "S10",
+      "path": "异星录/06_执行计划/审读记录/第二卷/第二卷A01批101-110章读者审读报告.md",
+      "source_sha256": "6b4927907f1d913548f9c9a06e9c3bedf1435c92122c05682ec43fe479ab52ee",
+      "line_start": 60,
+      "line_end": 60,
+      "quote": "独立复核：待作者或下一批次独立读者继续验证。",
+      "evidence_role": "review_limit",
+      "interpretation": "不能把旧报告主会话短复核与后续待独立验证，升级为作者对人数例外的批准。"
+    },
+    {
+      "id": "E18",
+      "source_id": "S12",
+      "path": "异星录/00_项目总览/后七卷设定决策与执行约束.md",
+      "source_sha256": "f86d5b7d4d917828b280a573c31e866a71c58fe4d252a16f86b1a1cea8d50719",
+      "line_start": 3,
+      "line_end": 3,
+      "quote": "> 确认日期：2026-09-30。作者指示：“按照你的建议来，但是要更新相关的设定资料，如果有后面章节需要注意的地方也需要记录好供后面章节编写使用。”据此采用规划审计推荐的C01晚判、C02分期方案。本文记录批准范围与后续执行要求；**设定已确认不等于未来剧情已发生，也不等于角色、读者已经知情**。",
+      "evidence_role": "actual_approval_record_scope",
+      "interpretation": "找到了存档作者指示，但明记批准的是C01晚判、C02分期，不是船舱13/孩子17。"
+    },
+    {
+      "id": "E19",
+      "source_id": "S12",
+      "path": "异星录/00_项目总览/后七卷设定决策与执行约束.md",
+      "source_sha256": "f86d5b7d4d917828b280a573c31e866a71c58fe4d252a16f86b1a1cea8d50719",
+      "line_start": 41,
+      "line_end": 41,
+      "quote": "| 101—110 | 孩子照护、册子交接、权限拒绝、升空喷流和追捕；S01限量饮水的实物来源与劳务续供 | 不恢复权限/仪器/完整绳具，不把十余孩子换成精确数；本次批准不自动落实S01库存 | 逐班领水、照护责任、实际人数口径与下一供给点 |",
+      "evidence_role": "contrary_execution_constraint",
+      "interpretation": "同一批准范围文件在101—110行明写不把十余孩子换成精确数；未找到专门解除/修改该边界的作者批准。"
+    },
+    {
+      "id": "E20",
+      "source_id": "S13",
+      "path": "异星录/06_执行计划/设定决策/后七卷规划审计与待审核项.md",
+      "source_sha256": "7b6dca2adf159d3ed2e308d9e5a6b434f9d4e1656d86720a660f9ccecbefbe88",
+      "line_start": 22,
+      "line_end": 22,
+      "quote": "| 至少约48名不是精确总数 | 原组、四名长屋孩子、十余白船孩子分开，127/139/194实际核认后才可明确新数 | 通过，未制造精确总人数 |",
+      "evidence_role": "planning_verification_boundary",
+      "interpretation": "旧规划将新数明确放到127/139/194实际核认后；本轮不读取这些正文，更不认定其后来实际完成。"
+    },
+    {
+      "id": "E21",
+      "source_id": "S11",
+      "path": "异星录/06_执行计划/连续性审计/第一卷/第一卷卷级连续性审计报告.md",
+      "source_sha256": "306e3aa4b5bb95627ae42e09c28af50d93f5c640f4068cc5ca9d6130a1bf3a1c",
+      "line_start": 47,
+      "line_end": 47,
+      "quote": "第90章约35名确认同行者在第95章减少一名旧维修者后约34名；第98章新增4名长屋孩子，第100章新增十余名白船孩子。当前只能写“至少约48名可确认活人”，不能把“十余名”擅自换算成精确总数，也不能把早期下城区失联居民算入当前队伍。",
+      "evidence_role": "historical_approximation",
+      "interpretation": "旧卷审计支持分组与至少约48的粗口径，也明确不能擅自把十余变精确数；不证明新共同分母。"
+    },
+    {
+      "id": "E22",
+      "source_id": "S15",
+      "path": "异星录/06_执行计划/审读记录/第一卷/审读报告_第091-100章.md",
+      "source_sha256": "c8a35038723e2cbd970d947627e74dc99acdbf74e9db3663854a5fe904303540",
+      "line_start": 11,
+      "line_end": 11,
+      "quote": "严重问题：未发现阻碍理解的严重问题。断阶上行、身份系统拒绝、无人街道、旧广播和秘密撤离船之间有连续行动因果。第100章已补写从检修舱实际转移十余名孩子的动作，正文与台账一致。",
+      "evidence_role": "historical_body_review",
+      "interpretation": "旧91—100审读确认实际转移十余，并未给13。"
+    },
+    {
+      "id": "E23",
+      "source_id": "S06",
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "source_sha256": "5a9f22e501d52ca780a12ef66afa07ab5741befeb38d4cefc059a63ab17cfea8",
+      "line_start": 11,
+      "line_end": 11,
+      "quote": "| A01／101—110／灯下没有名额 | 船已升空，先让孩子离喷流、有水可喝 | 101木箱区接手照护与公共册；102移山侧立柱；104探检修储水柜；110进七层遮蔽廊 | 不追新亮船灯，先分有限处理水 | 最后约1包盐药开始用于伤口；架护线占用旧绳，不能全收回 | 灰白身份片仍套旧模板；F09船名不再当新谜底 | 获第一批限量水、暂避喷流；人员广播追踪仍在，须向下找可持续水点 |",
+      "evidence_role": "arc_card_scope",
+      "interpretation": "篇章卡目标是安置/饮水/暂避，没有数量13的批准。"
+    },
+    {
+      "id": "E24",
+      "source_id": "S07",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "line_start": 39,
+      "line_end": 39,
+      "quote": "> 时段沿用相对描述（热时/凉时、当日/次日），不新增世界历法；D0指第100章当日。",
+      "evidence_role": "time_anchor",
+      "interpretation": "101的D0沿用100当日；不能以同日为由把101记录倒灌到100结束。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "path": "harness/maintenance/R004/事实冲突与处理边界.md",
+      "sha256": "282aee5d2ec3ea13f927e2176830faf83c00a6d70ef1be803ecfe50fc9cdd488",
+      "read_scope": "先读C05登记；其余段仅作边界，不重裁C01—C04"
+    },
+    {
+      "id": "S02",
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "sha256": "5c2ff2f020ac3b9bf97d8abd9e8d8b72875579fcff3a42ac77009cd77f2f4614",
+      "read_scope": "仅核孩子来源、数量与分组段，不作本章新审读"
+    },
+    {
+      "id": "S03",
+      "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+      "sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb",
+      "read_scope": "仅核点名/分组/过册场景；全文检索13/17字面，不作质量终审"
+    },
+    {
+      "id": "S04",
+      "path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "sha256": "d460c0a5f1652f17e92e5041f9605a83005214bbf843881b8a7851ef341a9f86",
+      "read_scope": "第100章冻结点、人员与人数口径"
+    },
+    {
+      "id": "S05",
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "sha256": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+      "read_scope": "开写人数约束、101规划卡、A01实录中101条；不审后续章节"
+    },
+    {
+      "id": "S06",
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "sha256": "5a9f22e501d52ca780a12ef66afa07ab5741befeb38d4cefc059a63ab17cfea8",
+      "read_scope": "A01行的任务与照护范围"
+    },
+    {
+      "id": "S07",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "read_scope": "101条及D0说明；其他命中不据此作审读结论"
+    },
+    {
+      "id": "S08",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "read_scope": "第101—110章后队伍人数行与该节标题"
+    },
+    {
+      "id": "S09",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "read_scope": "第101—110章后孩子组行"
+    },
+    {
+      "id": "S10",
+      "path": "异星录/06_执行计划/审读记录/第二卷/第二卷A01批101-110章读者审读报告.md",
+      "sha256": "6b4927907f1d913548f9c9a06e9c3bedf1435c92122c05682ec43fe479ab52ee",
+      "read_scope": "既有审读的人数结论、日期与复核身份；不重审该批正文"
+    },
+    {
+      "id": "S11",
+      "path": "异星录/06_执行计划/连续性审计/第一卷/第一卷卷级连续性审计报告.md",
+      "sha256": "306e3aa4b5bb95627ae42e09c28af50d93f5c640f4068cc5ca9d6130a1bf3a1c",
+      "read_scope": "第100章转移与人数分层口径"
+    },
+    {
+      "id": "S12",
+      "path": "异星录/00_项目总览/后七卷设定决策与执行约束.md",
+      "sha256": "f86d5b7d4d917828b280a573c31e866a71c58fe4d252a16f86b1a1cea8d50719",
+      "read_scope": "作者指示及批准范围、101—110禁止提前确数行"
+    },
+    {
+      "id": "S13",
+      "path": "异星录/06_执行计划/设定决策/后七卷规划审计与待审核项.md",
+      "sha256": "7b6dca2adf159d3ed2e308d9e5a6b434f9d4e1656d86720a660f9ccecbefbe88",
+      "read_scope": "规划性质、启动人数边界、C01/C02批准范围"
+    },
+    {
+      "id": "S14",
+      "path": "异星录/06_执行计划/设定决策/本轮连续性裁定与待审核项.md",
+      "sha256": "fe2ff0b5e772b85197139e451506dc16635ce37c0972a8858a9d9d0ac170e006",
+      "read_scope": "核既有裁定有无13/17批准；未找到相应条目"
+    },
+    {
+      "id": "S15",
+      "path": "异星录/06_执行计划/审读记录/第一卷/审读报告_第091-100章.md",
+      "sha256": "c8a35038723e2cbd970d947627e74dc99acdbf74e9db3663854a5fe904303540",
+      "read_scope": "既有第100章十余孩子实际转移结论"
+    }
+  ],
+  "source_digest": "fd58a1e2047b20829cf6d819e69e67a39c301ba00f5f0a2afdb16be6689d886e",
+  "input_digest": "fd58a1e2047b20829cf6d819e69e67a39c301ba00f5f0a2afdb16be6689d886e",
+  "digest_algorithm": "sha256(json.dumps([{path,sha256} for sources in listed order], ensure_ascii=False, sort_keys=True).encode(\"utf-8\"))",
+  "git_provenance": [
+    {
+      "command": [
+        "git",
+        "log",
+        "--format=%H %ad %s",
+        "--date=iso-strict",
+        "-S",
+        "孩子\"十余名\"落实为13名",
+        "--",
+        "异星录/03_剧情架构/第二卷/逐章卡.md"
+      ],
+      "result": [
+        "18ed483ca3314d2e5cc96136afac8f75f8de22d6 2026-09-30T17:04:51+08:00 feature/120check"
+      ],
+      "interpretation": "只证实相关字面曾在该提交历史出现；提交时间/提交人不能充当作者批准，也不证明故事内核数完成。"
+    },
+    {
+      "command": [
+        "git",
+        "log",
+        "--format=%H %ad %s",
+        "--date=iso-strict",
+        "-S",
+        "不把十余孩子换成精确数",
+        "--",
+        "异星录/00_项目总览/后七卷设定决策与执行约束.md"
+      ],
+      "result": [
+        "71189b3a39a2cd2d6e353bb6d9674d5b1086ac76 2026-09-30T12:16:30+08:00 feature/overall"
+      ],
+      "interpretation": "只证实相关字面曾在该提交历史出现；提交时间/提交人不能充当作者批准，也不证明故事内核数完成。"
+    }
+  ],
+  "search_scope": {
+    "positive_sources": "sources清单及其read_scope",
+    "additional_keyword_search_only": [
+      "异星录/00_项目总览/*.md",
+      "异星录/06_执行计划/设定决策/*.md",
+      "异星录/06_执行计划/连续性审计/第一卷/*.md",
+      "异星录/06_执行计划/审读记录/第一卷/**/*.md"
+    ],
+    "terms": [
+      "船舱13",
+      "13名",
+      "十三名",
+      "十余…精确",
+      "十余…核实",
+      "人数…批准",
+      "批准…人数"
+    ],
+    "limitations": "未搜索私有聊天/外部系统；不能证明作者从未批准，只能说本次本地限范围未找到相应批准。少数索引命中后续章号仅作来源定位，不作为审读或成立事实。"
+  },
+  "structural_checks": {
+    "all_quotes_match_current_source_lines": true,
+    "source_hashes_rechecked_before_write": true,
+    "chapter101_explicit_13_17_matches": [],
+    "only_two_report_outputs": true,
+    "not_a_body_or_attraction_gate": true
+  },
+  "authority_handling": "已发生台账保持原样，不因较早规划而静默删除17/13；但多个表沿用与章卡自称允许不构成作者批准。冲突以原句并列提交，不选择性遗忘任一来源。",
+  "remaining_author_decisions": [
+    {
+      "id": "C05-A",
+      "question": "是否认可101分组过册为船舱13、与长屋4合为孩子17的有效成立截点；若认可，是否明确这是对101—110“不把十余换成精确数”边界的例外或后续替代？",
+      "reason": "当前同时存在相反执行约束和较后实录“允许核实”，未找到专门裁定；由作者确认，不由本审读者补签。"
+    },
+    {
+      "id": "C05-B",
+      "question": "约48所指人员集合与适用截点是什么；在未给明确同分母依据前，是否维持100仅来源分组、不据101数字回填全场总人数的边界？",
+      "reason": "旧近似记载可追溯，但不能升级为当前全场精确总数。本轮不新增核数事件或算式。"
+    }
+  ],
+  "current_recommendation": "C05整体保留作者决定；交付新增的历史来源与相反边界证据供主线程裁定。100仍按原来源分组，101及后续已发生记录不擅改。",
+  "new_story_facts_added": false,
+  "other_files_modified": false,
+  "body_verdict": "not_reviewed_for_quality",
+  "attraction_verdict": "not_reviewed",
+  "writeback_verdict": "not_reviewed"
+}

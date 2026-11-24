@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B18",
+  "phase": "revision2_short_review",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "identity_binding": {
+    "agent_id": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+    "role": "R006-B18独立读者",
+    "source": "主线程实际spawn/调用元数据；用户确认send_input target即此ID，并确认初审、v1与本次v2属于同一独立线程。",
+    "source_visibility": "本会话据用户提供的调用元数据亲自填写，未自行猜测ID，也不声称自行读取过未提供的spawn日志。",
+    "same_independent_thread": true,
+    "same_thread_reviews": [
+      "harness/maintenance/R006/B18/initial.json",
+      "harness/maintenance/R006/B18/final.json",
+      "harness/maintenance/R006/B18/final2.json"
+    ],
+    "historical_records_preserved": "已核initial.json与final.json的reviewer均为null；保持原字节，不补造历史通过签名。主线程另作身份交接包装。",
+    "writer": "R006-main",
+    "reviewer_wrote_manuscripts": false
+  },
+  "source_digest": "d3b7a59136a615c32f9a8f1ad336bc6cd90f9c4241fe17cb7958fbc48c3ec706",
+  "manuscripts": [
+    {
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "sha256": "4414acadbb520b537f07fa7754caba0d955d2bb3e6e44116019634eb6496dfc0"
+    },
+    {
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "sha256": "fa050e6da8048dcda71f790cfe9668e70b69d912428cd3dfa53059728ea53aeb"
+    },
+    {
+      "chapter": 173,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "sha256": "d6fea4341551efb6fe4e2eb3449392e0055759c069170cca1358e0bbf47da84e"
+    },
+    {
+      "chapter": 174,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "sha256": "421f80ba157a2b49fc31b5d352604a93eac3ed8edb02ca851ed7098652128017"
+    },
+    {
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "sha256": "26ab32c9daa7cd988578fd1a2565874916e49a00890237a59a20d556db038cb6"
+    },
+    {
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "sha256": "5153f0948bf1f06b7d50b65421a823243befc3db90d359924e52a206eeaf7746"
+    },
+    {
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "sha256": "910e5f1ff364d80d393c12d177d6f6b50a9a3f4c6e6adecc7794b526586cfeec"
+    },
+    {
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "sha256": "320e80857ffd2884cc113c97b990da54ecaf5c02a2fd0b41f0dbedb59f0959b4"
+    },
+    {
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "sha256": "28a3ab8b1fe2f492b968ce32ea000a104ac2bb446076041bfba9ba72ce62d2de"
+    },
+    {
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "sha256": "4a77c791c6d24c4f3e2742f637183e9bd6403eeaad7ba975143ae31924a9e7fb"
+    }
+  ],
+  "frozen_artifacts_verified": [
+    {
+      "path": "harness/maintenance/R006/B18/final-body-first-notes.md",
+      "sha256": "fdce449d8a94c575c2d57c1c09aad049ed21d73ddcd1cbf0a41109adb2771862"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/final-reading-manifest.json",
+      "sha256": "9cf558131934d2c071000b2134f08f2ad88b5fbb1c78307e3309af404225a8ec"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/final-suggested-edits.json",
+      "sha256": "8926c8ca02a8c7e4b3670e19313e9fbdda452e0666f761f4933a36c78c9ef46e"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/final-validation.json",
+      "sha256": "317472495d3c91697714b86eeeab2a8f3f07205fe822b88e0506a686d0ee4759"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/final.json",
+      "sha256": "cb27678064fecfec735f4e3252a52fa4e7bc7cd227618adf4c64ebfbfe154935"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/final.md",
+      "sha256": "3d298f454a01dba421e87742b4bdc9bf62bb61282d057c6c3d7345b85db0f9fa"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/initial-reader-notes.md",
+      "sha256": "2899e26ae6326355d4ee5e3483b08cb43fe86d84414ce2d77361dff6333ab481"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/initial-validation.json",
+      "sha256": "d60954d6c236ff901b47358093c58157c012c9c7e2248461f3fabc8527db803f"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/initial.json",
+      "sha256": "a2d2efb10863c4d19428a2e85cd630a1e10b1412baa456c2f09f0f087c4a2852"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/initial.md",
+      "sha256": "7d49b139d4e4cbc70ae5f027e393c634379ab9dcd593020bd9bea0d804ded13a"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/reader-review.json",
+      "sha256": "4683b9006be5b6635e6406987846a710c69b7b9809489835a9f88394f7e98a5b"
+    },
+    {
+      "path": "harness/maintenance/R006/B18/suggested-edits.json",
+      "sha256": "6f817962b2d749863e25875b2f979f7bb45ba996c83b612d01a6a8564f87fd66"
+    }
+  ],
+  "editor_entries_replayed": 55,
+  "revision2_entries_replayed": 20,
+  "editor_log_sha256": "f73eae6a139a468837449708934b9a02ce16703c7dd173cb6b7c7c90e55f3357",
+  "no_unexplained_manuscript_changes": true,
+  "current_literal_evidence_verified": 237,
+  "issues": {
+    "closed": 21,
+    "open": 0,
+    "pending_author": 18
+  },
+  "blocking_issues": 18,
+  "reader_checks": {
+    "total": 52,
+    "pass": 38,
+    "needs_revision": 14,
+    "chapter_items": 50,
+    "batch_items": 2
+  },
+  "reader_structure": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "strict_reader_acceptance": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "word_counts": [
+    {
+      "chapter": 171,
+      "han": 2260,
+      "nonspace": 2658,
+      "minimum_margin": 60
+    },
+    {
+      "chapter": 172,
+      "han": 2274,
+      "nonspace": 2687,
+      "minimum_margin": 74
+    },
+    {
+      "chapter": 173,
+      "han": 2231,
+      "nonspace": 2680,
+      "minimum_margin": 31
+    },
+    {
+      "chapter": 174,
+      "han": 2367,
+      "nonspace": 2862,
+      "minimum_margin": 167
+    },
+    {
+      "chapter": 175,
+      "han": 2251,
+      "nonspace": 2690,
+      "minimum_margin": 51
+    },
+    {
+      "chapter": 176,
+      "han": 2219,
+      "nonspace": 2741,
+      "minimum_margin": 19
+    },
+    {
+      "chapter": 177,
+      "han": 2248,
+      "nonspace": 2668,
+      "minimum_margin": 48
+    },
+    {
+      "chapter": 178,
+      "han": 2268,
+      "nonspace": 2684,
+      "minimum_margin": 68
+    },
+    {
+      "chapter": 179,
+      "han": 2280,
+      "nonspace": 2720,
+      "minimum_margin": 80
+    },
+    {
+      "chapter": 180,
+      "han": 2329,
+      "nonspace": 2785,
+      "minimum_margin": 129
+    }
+  ],
+  "scope_note": {
+    "initial": "冻结initial-reader-notes.md、initial.json/md；首读认识不回填。",
+    "revision": "本轮完整逐章读171、172、173、175、176、177、179、180当前工作稿，完成final2-body-first-notes.md后重开v1详表与编辑日志。",
+    "unchanged_chapters": "174、178的SHA256与v1完全相同，继承v1真实全文审读；178另定点读13—22行核038，不称本轮全文重读。",
+    "prior_knowledge": "已知上轮资料及主笔在通知中描述的改动；独立修后复核不是重新盲读。body_first记录此次先正文后详表/日志。",
+    "scope": "52项逐项重新判断并核当前引句；174/178继承同字节实读并逐项复核。182只核v1接口证据与指纹未变，无B19全文或吸引力验收声明。",
+    "identity": "本轮亲自绑定真实调用ID，历史null保持不变。"
+  },
+  "delivered_artifact_sha256": {
+    "harness/maintenance/R006/B18/final2.json": "a1bc9683534c28316ca7437de533828230a2811a7289a6a51b0b57556b64c83b",
+    "harness/maintenance/R006/B18/final2.md": "056c44bce89834d831d30ca361f17abcea5a2091906f3ef2598fa0e7cfea4df9",
+    "harness/maintenance/R006/B18/reader-review2.json": "9212f3358d6b6f1634c83dd9623c6caf74dc1970fab5ba95447ceb208cc050f4",
+    "harness/maintenance/R006/B18/final2-body-first-notes.md": "248a4010adee5ea78b0659e72c541be7d02a84ac87a8433b9b51e2c112d0d76b",
+    "harness/maintenance/R006/B18/final2-reading-manifest.json": "72b0c4658f677a906826f0e7d516ace18c9bdd15e1c43ab02c7ac6ef68306108"
+  }
+}

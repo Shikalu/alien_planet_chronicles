@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "reviewer": "/root/review_241_250",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "verdict": "issues",
+  "stage": "202-change-final-candidate-audit",
+  "issues": [
+    {
+      "id": "R005-resume-WB-026",
+      "category": "132—138观测结果与换气方法漏同步",
+      "problem": "新正文132/133不知谁挪镜片，133手背温热不能判风向/量且无布条验向；138停问/让管位/收绳等喘匀。回填多个原行仍称被里头转向、布条进气、湿布半掩孔缓气，与新卡138/正文相反。",
+      "source_basis": [
+        "当前132/133/138实际工作正文",
+        "202版资源/时间线/章卡及新增段"
+      ],
+      "severity": "moderate",
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-027",
+      "category": "139本人回应与代报伤情的分类",
+      "problem": "140终稿本人应3=口应2+敲应1；老陈代报1，空栏另留。人物和139旧摘要仍把老赵敲应写代报，易认本人只2。",
+      "source_basis": [
+        "当前139/140实际核人四行",
+        "202版人物祝衡/139卡/时间线"
+      ],
+      "severity": "moderate",
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-028",
+      "category": "141—147实际耗时不含翌日计划",
+      "problem": "旧表143从D18起、145耗至D22、147耗至D23将计划的翌日动作当当章实耗；142实际延至夜，144确由当夜筹排到翌凉时卸重，141掌灯后非热时。只缩准回填表不移动正文。",
+      "source_basis": [
+        "B15实际141—149终稿逐章全文",
+        "root最后要求核143/144/145旧宽范围"
+      ],
+      "severity": "moderate",
+      "status": "open",
+      "blocking": true
+    }
+  ],
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+      "reviewed_sha256": "33abf00aa0cd1eb50d24e06ebeebd3862f0613b518b081c8ad31ab9d822cb2b8",
+      "verdict": "issues"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+      "reviewed_sha256": "68f8c057f2bf9f91aba60eafbab339a35115091bc0c663f6239c2a73dfec5fbb",
+      "verdict": "issues"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/伏笔与悬念台账.md",
+      "reviewed_sha256": "3e97075ed59c7b5fb0fc213ef813fcdf0a38fed49f9e63816ff50ecb3662e37b",
+      "verdict": "no_new_issue_in_reviewed_scope"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+      "reviewed_sha256": "4e478a8db7f97c13a240e595ef00a14f7856c3a74adf9f8a1c950a528933f9c5",
+      "verdict": "issues"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/术语与命名表.md",
+      "reviewed_sha256": "0370b6dcb62ab573da5fba399b5653a69bc5cd8605e085ceb1056d8ecc8111f5",
+      "verdict": "no_new_issue_in_reviewed_scope"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/术语词典.md",
+      "reviewed_sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+      "verdict": "no_new_issue_in_reviewed_scope"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+      "reviewed_sha256": "3aed75a7e34f77746242b6e57dbaa0183a764eebf282bc840fc30f087dc4e0fa",
+      "verdict": "issues"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/十章篇章卡.md",
+      "reviewed_sha256": "88706ad11ebedf05ed596e0ce4c1d2a0a9a88cef6659020ae4f89bb6bc228455",
+      "verdict": "issues"
+    }
+  ],
+  "suggested_edits_count": 21,
+  "no_manuscript_or_ledger_changed": true,
+  "note": "前38+25语义闭合；本轮发现B14最终同步残尾及B15旧表实际耗时宽记，先修表再签8份最终SHA。"
+}

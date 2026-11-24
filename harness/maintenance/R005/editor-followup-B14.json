@@ -1,0 +1,1033 @@
+{
+  "id": "R005-editor-followup-B14",
+  "date": "2026-11-07T12:24:12.258946+08:00",
+  "role": "bounded_editor_not_reviewer",
+  "editor_thread_id": "01a1b3e5-2e99-7250-a488-9d8578ae325b",
+  "status": "frozen_pending_independent_review",
+  "body_writes_finished": true,
+  "no_pass_signed": true,
+  "scope": {
+    "body_only": "异星录/06_执行计划/工作区/R005-B14",
+    "chapters": [
+      131,
+      140
+    ],
+    "own_log_only": "harness/maintenance/R005/editor-followup-B14.json",
+    "excluded": [
+      "R005-B15",
+      "published",
+      "台账",
+      "初审",
+      "recheck",
+      "review-v1",
+      "历史/复核1",
+      "editor-131-150.json(md)",
+      "main edits.json"
+    ]
+  },
+  "baseline": "B14复核1当前稿及历史/复核1；不是R005最初published baseline",
+  "record_replay_method": "依sequence，以split(\\n\\n)精确匹配唯一完整段；after为空时删除该段，再以双换行合并。删除段记录before不吞相邻段；每条整章前后SHA均须一致。",
+  "count_method": "导入tools/novel_harness.py的count_text(text)，函数排除Markdown标题；tuple[0]为正文纯汉字，tuple[1]仅作无空白字符辅数。",
+  "protected_read_only_fingerprints": [
+    {
+      "path": "harness/maintenance/R005/B14/recheck.json",
+      "sha256": "d955e4d2598daf7e27815a49d8b1d6a116b8fa06d9e9467a9d972fca394f5586"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/initial.json",
+      "sha256": "e9ddfac36b05932e5f2a6133bfefac43310269319f86c375e1a1200b09c23c6a"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/initial.md",
+      "sha256": "866f358da770981510239c423b4a5e07f169cf62754eb07bddd641db8f31fa9e"
+    },
+    {
+      "path": "harness/maintenance/R005/editor-131-150.json",
+      "sha256": "230d8888826c6383ff8fd1e0e33be512537771b504ed5c1d1a747752ce4361f8"
+    },
+    {
+      "path": "harness/maintenance/R005/editor-131-150.md",
+      "sha256": "aad5962b38acadf8833e1eae061d86c6f73a7feb6da11326862979c7949104b1"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/review-v1/reader-review.json",
+      "sha256": "9cb58078c411e776d5bcba557dd87961468b2bff8a7582f9249388bdea941ba6"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/review-v1/recheck.json",
+      "sha256": "d955e4d2598daf7e27815a49d8b1d6a116b8fa06d9e9467a9d972fca394f5586"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/review-v1/recheck.md",
+      "sha256": "0926457583a66c13a3f60d5b09412d13fe2471ea55b3b8918105253fd7969193"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/review-v1/snapshot.json",
+      "sha256": "4e8992e90c5b55dcd9ef0996afce1e9014c86316e80cd938dda2f737e9a37d32"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第131章_向下的一段新路.md",
+      "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第132章_谁在里头换班.md",
+      "sha256": "7e01215e1ab838a233a17ac9a521d0a112c882e22458c22291ca0896252a3602"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第133章_孔里先过空气.md",
+      "sha256": "f4fde48df7b485b1e92a665f659919b7894fb15359123b7ce9327ec69454cb89"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第134章_面具后面的名字.md",
+      "sha256": "fd1116237dc80859343fe71140b73a88928f7a6af1f748e6446040593b29b330"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第135章_先听见咳嗽.md",
+      "sha256": "18c00ccaba9f2eb0e6d9346eda0d13ecc0d74de1e08e3ebd4dbb24e8fa831225"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第136章_送水的人要喝水.md",
+      "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第137章_看见一只手.md",
+      "sha256": "f182b1123fbc47ce7dea9f81c50694922af7f5bdb287ecede0dbf622d5142690"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第138章_两只匣子.md",
+      "sha256": "6d452114bf701fd0fb2784b1b0ee653415808ffe15499bb1fdac71a74a84f621"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第139章_让他们自己报.md",
+      "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第140章_门还没有开.md",
+      "sha256": "eaa588d54363c6b1dfd1a40587adaed050b560d25f9445cb8f242ddb2fe29f85"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/firstread-issues.json",
+      "sha256": "4c1d5b7514c390d22233a095555dab02ef7f4f959b12c86685b031c7676713ef"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/reader-review.json",
+      "sha256": "9cb58078c411e776d5bcba557dd87961468b2bff8a7582f9249388bdea941ba6"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/recheck.md",
+      "sha256": "0926457583a66c13a3f60d5b09412d13fe2471ea55b3b8918105253fd7969193"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 131,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第131章_向下的一段新路.md",
+      "before_sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "after_sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "before_count_text": [
+        2252,
+        2634
+      ],
+      "after_count_text": [
+        2252,
+        2634
+      ],
+      "body_han_count": 2252,
+      "changed": false,
+      "record_sequences": [],
+      "status": "unchanged_from_review_v1"
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第132章_谁在里头换班.md",
+      "before_sha256": "7e01215e1ab838a233a17ac9a521d0a112c882e22458c22291ca0896252a3602",
+      "after_sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "before_count_text": [
+        2213,
+        2594
+      ],
+      "after_count_text": [
+        2236,
+        2619
+      ],
+      "body_han_count": 2236,
+      "changed": true,
+      "record_sequences": [
+        1,
+        2
+      ],
+      "status": "frozen_edited_pending_independent_review"
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第133章_孔里先过空气.md",
+      "before_sha256": "f4fde48df7b485b1e92a665f659919b7894fb15359123b7ce9327ec69454cb89",
+      "after_sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+      "before_count_text": [
+        2276,
+        2646
+      ],
+      "after_count_text": [
+        2264,
+        2624
+      ],
+      "body_han_count": 2264,
+      "changed": true,
+      "record_sequences": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "status": "frozen_edited_pending_independent_review"
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第134章_面具后面的名字.md",
+      "before_sha256": "fd1116237dc80859343fe71140b73a88928f7a6af1f748e6446040593b29b330",
+      "after_sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "before_count_text": [
+        2330,
+        2741
+      ],
+      "after_count_text": [
+        2214,
+        2609
+      ],
+      "body_han_count": 2214,
+      "changed": true,
+      "record_sequences": [
+        13,
+        14
+      ],
+      "status": "frozen_edited_pending_independent_review"
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第135章_先听见咳嗽.md",
+      "before_sha256": "18c00ccaba9f2eb0e6d9346eda0d13ecc0d74de1e08e3ebd4dbb24e8fa831225",
+      "after_sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "before_count_text": [
+        2268,
+        2648
+      ],
+      "after_count_text": [
+        2247,
+        2623
+      ],
+      "body_han_count": 2247,
+      "changed": true,
+      "record_sequences": [
+        15,
+        16
+      ],
+      "status": "frozen_edited_pending_independent_review"
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第136章_送水的人要喝水.md",
+      "before_sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "after_sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "before_count_text": [
+        2392,
+        2798
+      ],
+      "after_count_text": [
+        2392,
+        2798
+      ],
+      "body_han_count": 2392,
+      "changed": false,
+      "record_sequences": [],
+      "status": "unchanged_from_review_v1"
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第137章_看见一只手.md",
+      "before_sha256": "f182b1123fbc47ce7dea9f81c50694922af7f5bdb287ecede0dbf622d5142690",
+      "after_sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "before_count_text": [
+        2309,
+        2726
+      ],
+      "after_count_text": [
+        2299,
+        2715
+      ],
+      "body_han_count": 2299,
+      "changed": true,
+      "record_sequences": [
+        17
+      ],
+      "status": "frozen_edited_pending_independent_review"
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第138章_两只匣子.md",
+      "before_sha256": "6d452114bf701fd0fb2784b1b0ee653415808ffe15499bb1fdac71a74a84f621",
+      "after_sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+      "before_count_text": [
+        2281,
+        2704
+      ],
+      "after_count_text": [
+        2241,
+        2655
+      ],
+      "body_han_count": 2241,
+      "changed": true,
+      "record_sequences": [
+        18,
+        19,
+        20
+      ],
+      "status": "frozen_edited_pending_independent_review"
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第139章_让他们自己报.md",
+      "before_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "after_sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "before_count_text": [
+        2298,
+        2753
+      ],
+      "after_count_text": [
+        2298,
+        2753
+      ],
+      "body_han_count": 2298,
+      "changed": false,
+      "record_sequences": [],
+      "status": "unchanged_from_review_v1"
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "baseline_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核1/第140章_门还没有开.md",
+      "before_sha256": "eaa588d54363c6b1dfd1a40587adaed050b560d25f9445cb8f242ddb2fe29f85",
+      "after_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+      "before_count_text": [
+        2313,
+        2708
+      ],
+      "after_count_text": [
+        2302,
+        2692
+      ],
+      "body_han_count": 2302,
+      "changed": true,
+      "record_sequences": [
+        21,
+        22
+      ],
+      "status": "frozen_edited_pending_independent_review"
+    }
+  ],
+  "records": [
+    {
+      "sequence": 1,
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "initial_issue_ids": [
+        "R005-B14-I08"
+      ],
+      "before": "动手之前，林渡把镜片的用法对众人交代了一遍：镜面朝上吊下去，明早换灯照，看镜面的朝向变没变。变了，说明有人碰过；朝向对着哪边，说明那人想看什么。一面旧镜片，几尺细绳，是最不惊动人的探问。",
+      "after": "动手之前，林渡把镜片的用法对众人交代了一遍：镜面朝上吊下去，明早换灯照，看镜面的朝向变没变。若有变化，先记下朝向；只凭镜片变了，还不能断定有人碰过，更不能据它朝哪边认定里头的人想看什么。一面旧镜片，几尺细绳，先留作一处待核的记号。",
+      "reason": "撤镜片移动独证有人、朝向独证意图的断言，限于待核变化；不改镜片姿态、石缝宽度、落点或照明几何。",
+      "review_v1_paragraph_index_zero_based_including_heading": 35,
+      "applied_paragraph_index_zero_based_including_heading": 35,
+      "operation": "replace_paragraph",
+      "before_sha256": "7e01215e1ab838a233a17ac9a521d0a112c882e22458c22291ca0896252a3602",
+      "after_sha256": "5defaaef2eafae78b614c6fa4e00bdd2ed03d8987b6088306720ed5ead034c15",
+      "han_delta": 21
+    },
+    {
+      "sequence": 2,
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "initial_issue_ids": [
+        "R005-B14-I08"
+      ],
+      "before": "“不撤主撑，不多敲。”他对众人说，“镜片在，明天看它有没有被挪动。挪了，说明里头有人到了缝边；不挪，我们再等。”",
+      "after": "“不撤主撑，不多敲。”他对众人说，“镜片在，明天看它有没有被挪动。挪了，把变化记下来，等回敲时再核；不挪，我们再等。”",
+      "reason": "将挪动即有人到了缝边降为后续待核，不新增检验结果，不补镜片几何。",
+      "review_v1_paragraph_index_zero_based_including_heading": 37,
+      "applied_paragraph_index_zero_based_including_heading": 37,
+      "operation": "replace_paragraph",
+      "before_sha256": "5defaaef2eafae78b614c6fa4e00bdd2ed03d8987b6088306720ed5ead034c15",
+      "after_sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "han_delta": 2
+    },
+    {
+      "sequence": 3,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I10"
+      ],
+      "before": "砖整块取出来的那一刻，一股气流从孔里缓缓淌出来——温的，带着一点潮，还有一股很淡的、人住的地方才有的气味。",
+      "after": "砖整块取出来的那一刻，孔边能感到一股缓缓的气流——温的，带着一点潮，还有一股很淡的气味。",
+      "reason": "只保留原通孔时气流、温潮与淡气味的感受，撤出入方向确证；气味来源沿后段限知，不恢复人居独证。",
+      "review_v1_paragraph_index_zero_based_including_heading": 22,
+      "applied_paragraph_index_zero_based_including_heading": 22,
+      "operation": "replace_paragraph",
+      "before_sha256": "f4fde48df7b485b1e92a665f659919b7894fb15359123b7ce9327ec69454cb89",
+      "after_sha256": "b16b74c302ddc3b85691f4af30368b3add30911ffb406cc4e6c283e1f3edd2d5",
+      "han_delta": -8
+    },
+    {
+      "sequence": 4,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I10"
+      ],
+      "before": "风进来了。",
+      "after": "",
+      "reason": "撤与取砖时出气相跳转的“风进来了”断言，不添加转向过程。",
+      "review_v1_paragraph_index_zero_based_including_heading": 25,
+      "applied_paragraph_index_zero_based_including_heading": 25,
+      "operation": "delete_paragraph",
+      "before_sha256": "b16b74c302ddc3b85691f4af30368b3add30911ffb406cc4e6c283e1f3edd2d5",
+      "after_sha256": "2a2ce4c796aaf1c8bcbbd197b06b288ee73c2e9889a684bc920731601a279962",
+      "han_delta": -4
+    },
+    {
+      "sequence": 5,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I10"
+      ],
+      "before": "阿九把灯苗凑近孔口：火苗朝孔里倒，稳稳地倒——外头的气正往里走。",
+      "after": "阿九把灯凑近孔口。灯光落在孔沿上，照不出这股气流的方向。",
+      "reason": "保留既有灯与凑近动作，撤火苗、朝孔里倒和入气确证；灯光不作测风证据，不新增灯或燃料。",
+      "review_v1_paragraph_index_zero_based_including_heading": 27,
+      "applied_paragraph_index_zero_based_including_heading": 26,
+      "operation": "replace_paragraph",
+      "before_sha256": "2a2ce4c796aaf1c8bcbbd197b06b288ee73c2e9889a684bc920731601a279962",
+      "after_sha256": "80431e547760a4ef75f2c499ecb4f6d52195d5797905be69484190955c73a343",
+      "han_delta": -2
+    },
+    {
+      "sequence": 6,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I10"
+      ],
+      "before": "火苗倒得有多稳，风就有多顺。这口气走了三十年的旧井、旧坡、新开的孔，走到的第一站是几个人发烫的脸——他们围着孔口，像围着一段活的脉搏。他又把孔口用手掌盖了一半，火苗晃了晃，还是朝里。",
+      "after": "阿九又把孔口用手掌盖了一半。林渡脸上还能感到那点温热，可只凭这点感觉，分不清气流是否一直朝着同一边，更说不准墙里的人能分到多少。",
+      "reason": "保留原手掌遮半孔与脸上气流感受，删两次火苗验证、稳定入风及气路已贯通的推断；限定方向和通气量未知。",
+      "review_v1_paragraph_index_zero_based_including_heading": 28,
+      "applied_paragraph_index_zero_based_including_heading": 27,
+      "operation": "replace_paragraph",
+      "before_sha256": "80431e547760a4ef75f2c499ecb4f6d52195d5797905be69484190955c73a343",
+      "after_sha256": "473e7de9784d8682604b3984d98e0caff98f21326cff6da00a28ae5cc9d0b6d1",
+      "han_delta": -20
+    },
+    {
+      "sequence": 7,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I10"
+      ],
+      "before": "“进气。”他说，“里头有自己的路出气，不然这口气进不去。”",
+      "after": "“里头原来的气路通到哪里？”阿九说，“这得问里头，咱们在外头看不全。”",
+      "reason": "撤据无效火苗推定进气及已有出气路，改为原后续询问所需的未知边界，明确说话人仍为阿九。",
+      "review_v1_paragraph_index_zero_based_including_heading": 29,
+      "applied_paragraph_index_zero_based_including_heading": 28,
+      "operation": "replace_paragraph",
+      "before_sha256": "473e7de9784d8682604b3984d98e0caff98f21326cff6da00a28ae5cc9d0b6d1",
+      "after_sha256": "8beff3e67131326ddd5f48101129b946975a1402b2d4276d637a301ec08c1aeb",
+      "han_delta": 6
+    },
+    {
+      "sequence": 8,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I10"
+      ],
+      "before": "气路的账好算，人气难算。",
+      "after": "孔打通了，气的账还没算清。",
+      "reason": "承接撤去测风确证后的未知通气量，不再声称气路的账好算。",
+      "review_v1_paragraph_index_zero_based_including_heading": 30,
+      "applied_paragraph_index_zero_based_including_heading": 29,
+      "operation": "replace_paragraph",
+      "before_sha256": "8beff3e67131326ddd5f48101129b946975a1402b2d4276d637a301ec08c1aeb",
+      "after_sha256": "6db5cb40433bd5c6864330f65e548ae16e9fbd2cb3d1e4ff347fe0ddc5fa464d",
+      "han_delta": 1
+    },
+    {
+      "sequence": 9,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I10"
+      ],
+      "before": "气的账弥娅在坡口也推了一版，托岑野带下来一页纸：只知道孔的大小，不知道风过得多快，算不出够几个人呼吸；里头若是四人，更不能凭灯苗往里倒就认定气够了。里侧气道有多长、通到哪里，还得问墙后的人。纸末她添了一句：问他们要气道图，不用全图，先要“出气口在哪”一句。",
+      "after": "气的账弥娅在坡口也推了一版，托岑野带下来一页纸：只知道孔的大小，不知道风过得多快，算不出够几个人呼吸；里头若是四人，更不能凭孔边能感到气流就认定气够了。里侧气道有多长、通到哪里，还得问墙后的人。纸末她添了一句：问他们要气道图，不用全图，先要“出气口在哪”一句。",
+      "reason": "撤纸条中沿用的灯苗方向证据，保留原孔径不足以定呼吸量、询问出气口的边界；不改人数或通气制度。",
+      "review_v1_paragraph_index_zero_based_including_heading": 31,
+      "applied_paragraph_index_zero_based_including_heading": 30,
+      "operation": "replace_paragraph",
+      "before_sha256": "6db5cb40433bd5c6864330f65e548ae16e9fbd2cb3d1e4ff347fe0ddc5fa464d",
+      "after_sha256": "19e00032a3999b6811cc6194ef28c2a70d7724bf5a3330f54897ca552cfe0814",
+      "han_delta": 2
+    },
+    {
+      "sequence": 10,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I10"
+      ],
+      "before": "林渡另起一行，记下孔的位置和见过湿泥的那段砖缝。他把“通气”旁边空出一块，留着记以后每次看到的风向。今天能进风，不等于明天汽上来时还朝同一头走；这件事得交给下一班，不能只留在阿九的眼里。",
+      "after": "林渡另起一行，记下孔的位置和见过湿泥的那段砖缝。他把“通气”旁边空出一块，留着以后记辨清的风向。眼下还不能填朝里或朝外，来汽时会不会变也得留意；换班时要把这些没核清的事交出去，不能让下一班照猜的方向办。",
+      "reason": "撤今天已能进风的确证，将既有空栏与交班要求用于尚未辨清的风向；不虚构测风方法、结果或汽循环。",
+      "review_v1_paragraph_index_zero_based_including_heading": 35,
+      "applied_paragraph_index_zero_based_including_heading": 34,
+      "operation": "replace_paragraph",
+      "before_sha256": "19e00032a3999b6811cc6194ef28c2a70d7724bf5a3330f54897ca552cfe0814",
+      "after_sha256": "a7b1db9fac5847876e8dd3845e8f28e0245003966d391056143e40b58848c1b1",
+      "han_delta": 8
+    },
+    {
+      "sequence": 11,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I03",
+        "R005-B14-I10"
+      ],
+      "before": "弥娅在五层坡口等着消息。岑野把孔边见到的事带上去，又把她的话带了下来：风向里走，里头有人避砖；孔若再扩半拳，递水的办法才好安排。",
+      "after": "弥娅在五层坡口等着消息。岑野把孔边见到的事带上去，又把她的话带了下来：孔已通，孔边能感到气流，里头有人避砖；孔若再扩半拳，递水的办法才好安排。",
+      "reason": "送达消息只承接已有通孔及气流感受，撤风向里走；不改既有避砖、扩孔安排及其日次。",
+      "review_v1_paragraph_index_zero_based_including_heading": 36,
+      "applied_paragraph_index_zero_based_including_heading": 35,
+      "operation": "replace_paragraph",
+      "before_sha256": "a7b1db9fac5847876e8dd3845e8f28e0245003966d391056143e40b58848c1b1",
+      "after_sha256": "e68a8587759833a82ced4b0682a05d15a2eb912d566dd543acdee32d3331e311",
+      "han_delta": 6
+    },
+    {
+      "sequence": 12,
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "initial_issue_ids": [
+        "R005-B14-I10"
+      ],
+      "before": "林渡把字条看了两遍，在册子上记下：气路成了，人手到顶了。\n",
+      "after": "林渡把字条看了两遍，在册子上记下：孔通了，人手到顶了。\n",
+      "reason": "章末只确认开孔完成，不以无效测风把整条气路记为已成；原人手到顶及照护字条不动。",
+      "review_v1_paragraph_index_zero_based_including_heading": 44,
+      "applied_paragraph_index_zero_based_including_heading": 43,
+      "operation": "replace_paragraph",
+      "before_sha256": "e68a8587759833a82ced4b0682a05d15a2eb912d566dd543acdee32d3331e311",
+      "after_sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035",
+      "han_delta": -1
+    },
+    {
+      "sequence": 13,
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "initial_issue_ids": [
+        "R005-B14-I13"
+      ],
+      "before": "他吹熄自己那截棚角的灯。黑里，他把明天要交代的事又过了一遍：先看林渡有没有收下纸条，再当面报管子的来处和交接条件。纸上的话头不能替他答话；林渡若追问是谁送的，他得把不留名这件事说清楚，不能让接东西的人到了孔边才碰上规矩。",
+      "after": "他吹熄自己那截棚角的灯。明早交接时，还得当面报清管子的来处和不留名的条件，免得接东西的人到孔边才碰上规矩。",
+      "reason": "压缩第二次预演次日报话，保留管子来处、不留名条件与孔边交接风险；前段纸条留置、名册私持和只送一程边界均保留。",
+      "review_v1_paragraph_index_zero_based_including_heading": 45,
+      "applied_paragraph_index_zero_based_including_heading": 45,
+      "operation": "replace_paragraph",
+      "before_sha256": "fd1116237dc80859343fe71140b73a88928f7a6af1f748e6446040593b29b330",
+      "after_sha256": "929884585b1c618bdd5ee7449abcc148f2841bfcca03b5b400f82162ea3b716a",
+      "han_delta": -52
+    },
+    {
+      "sequence": 14,
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "initial_issue_ids": [
+        "R005-B14-I13"
+      ],
+      "before": "灯熄以后，他还记得自己的那行。摘面的人，名字记在明处；线上的名字，藏在暗处。明暗之间隔着的东西，他花了半辈子才学会称呼——不是敌意，是各自活命的章程。\n",
+      "after": "",
+      "reason": "删明暗主题的重复总结，以前段明早交接收束；不删小绳条件，不延长其合作承诺。",
+      "review_v1_paragraph_index_zero_based_including_heading": 46,
+      "applied_paragraph_index_zero_based_including_heading": 46,
+      "operation": "delete_paragraph",
+      "before_sha256": "929884585b1c618bdd5ee7449abcc148f2841bfcca03b5b400f82162ea3b716a",
+      "after_sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "han_delta": -64
+    },
+    {
+      "sequence": 15,
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "initial_issue_ids": [
+        "R005-B14-I11"
+      ],
+      "before": "这句话落在孔外，几个人都没马上接。杜姨要是听见，会想起六层落点那晚裴七的话——水来了先紧发热的孩子，自己那口还没化。墙里墙外，隔着三十年的墙，说出来的话是同一副骨头：把活命的先紧着别人。",
+      "after": "这句话落在孔外，几个人都没马上接。两罐水已经送了进去，外头的人还牵着绳，等着听清滤件的事。",
+      "reason": "删不在场杜姨的假想记忆与替全队解释牺牲主题；只接本场已递两罐水、牵绳及滤件需求，不补杜姨到场。",
+      "review_v1_paragraph_index_zero_based_including_heading": 26,
+      "applied_paragraph_index_zero_based_including_heading": 26,
+      "operation": "replace_paragraph",
+      "before_sha256": "18c00ccaba9f2eb0e6d9346eda0d13ecc0d74de1e08e3ebd4dbb24e8fa831225",
+      "after_sha256": "e3e7115e8cab6eadbe711e94128cca8d26a9bd5318d1785ad54b18b8e02ef284",
+      "han_delta": -42
+    },
+    {
+      "sequence": 16,
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "initial_issue_ids": [
+        "R005-B14-I17"
+      ],
+      "before": "并起来的还有一笔账——人手。滤件要走旧路，送水的班已经排满，多出来的活从哪儿出？账桌上静了一阵，最后是林栖把照护组的夜班往里压了压：“我夜里少睡一个时辰，腾出来给送水的班。我的手白天写账，夜里不使劲。”她的手当晚还在渗血，可账桌上没有人比她更该说这句话——孩子页是她添的“在不在”栏，如今墙里四行，她认了。",
+      "after": "并起来的还有一笔账——人手。滤件要走旧路，送水的班已经排满，多出来的活从哪儿出？账桌上静了一阵，林栖看着照护组的夜班：“我的手白天写账，夜里照护，不能再挤一个时辰去送水。少睡一段，也不能把两边的班一起顶上。”她的手当晚还在渗血，孩子页是她添的“在不在”栏，如今墙里又添了四行。林渡没把她填进送水班，照护的活不能空下来；滤件多出来的那一趟，仍得另找人手。",
+      "reason": "依133已明说人手到顶、别再加岗和本段伤手渗血/照护夜班，撤少睡顶送水及旁白嘉许；留下缺额，不新增替班人、休班完成或新班表。",
+      "review_v1_paragraph_index_zero_based_including_heading": 36,
+      "applied_paragraph_index_zero_based_including_heading": 36,
+      "operation": "replace_paragraph",
+      "before_sha256": "e3e7115e8cab6eadbe711e94128cca8d26a9bd5318d1785ad54b18b8e02ef284",
+      "after_sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "han_delta": 21
+    },
+    {
+      "sequence": 17,
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "initial_issue_ids": [
+        "R005-B14-I03"
+      ],
+      "before": "孔沿上的灯苗晃了一下。林渡看着那盏仍搁在孔沿的灯，一时没有接话。",
+      "after": "林渡看着那盏仍搁在孔沿的灯，一时没有接话。",
+      "reason": "只撤便携灯的灯苗晃动，保留既有搁灯位置和人物停顿，不新增灯种或供能。",
+      "review_v1_paragraph_index_zero_based_including_heading": 32,
+      "applied_paragraph_index_zero_based_including_heading": 32,
+      "operation": "replace_paragraph",
+      "before_sha256": "f182b1123fbc47ce7dea9f81c50694922af7f5bdb287ecede0dbf622d5142690",
+      "after_sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "han_delta": -10
+    },
+    {
+      "sequence": 18,
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "initial_issue_ids": [
+        "R005-B14-I23"
+      ],
+      "before": "“这一页先给带话的人看。”她低声说，“只报匣位，别报取到了。”",
+      "after": "",
+      "reason": "删首次向带话人交代未取的重复句，保留结尾实际交纸时对带话口径的澄清；匣位首核、受潮未知均不动。",
+      "review_v1_paragraph_index_zero_based_including_heading": 31,
+      "applied_paragraph_index_zero_based_including_heading": 31,
+      "operation": "delete_paragraph",
+      "before_sha256": "6d452114bf701fd0fb2784b1b0ee653415808ffe15499bb1fdac71a74a84f621",
+      "after_sha256": "fe76233af27eff533c861a7ddab051a0435b91f4c33a1218cf9d55936a19830b",
+      "han_delta": -23
+    },
+    {
+      "sequence": 19,
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "initial_issue_ids": [
+        "R005-B14-I23"
+      ],
+      "before": "林渡点头，将这句带回话里的次序写清，没在取匣那一栏填日期。",
+      "after": "林渡点头，将这句带回话里的次序写清。",
+      "reason": "保留记录改用书面递档的要求，删此处重复的未填取匣日期，日期限制留至结尾。",
+      "review_v1_paragraph_index_zero_based_including_heading": 47,
+      "applied_paragraph_index_zero_based_including_heading": 46,
+      "operation": "replace_paragraph",
+      "before_sha256": "fe76233af27eff533c861a7ddab051a0435b91f4c33a1218cf9d55936a19830b",
+      "after_sha256": "aba3483cfeff81948baf5b606e3336a3eb26f6879e0a62d62bd6f528230a8976",
+      "han_delta": -10
+    },
+    {
+      "sequence": 20,
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "initial_issue_ids": [
+        "R005-B14-I23"
+      ],
+      "before": "林渡把这个区别记在带回棚里的话里。抬托板的人要的是过弯的余地，取旧纸也得先问清它能不能弯。他们此刻连图纸黏没黏在一起都不知道，没人能在班表上先填一个取匣的日子。",
+      "after": "林渡把这个区别记在带回棚里的话里。抬托板的人要的是过弯的余地，取旧纸也得先问清它能不能弯。他们此刻连图纸黏没黏在一起都不知道，还定不下取匣的日子。\n",
+      "reason": "压缩结尾再次展开班表不得填取期的同义结论；保留纸张黏连未知及尚不能定取期，不改取档优先级。",
+      "review_v1_paragraph_index_zero_based_including_heading": 52,
+      "applied_paragraph_index_zero_based_including_heading": 51,
+      "operation": "replace_paragraph",
+      "before_sha256": "aba3483cfeff81948baf5b606e3336a3eb26f6879e0a62d62bd6f528230a8976",
+      "after_sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e",
+      "han_delta": -7
+    },
+    {
+      "sequence": 21,
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "initial_issue_ids": [
+        "R005-B14-I28"
+      ],
+      "before": "“墙是真墙，可它上头有梁。”六叔指着图，“当年封段的人聪明，封门没封梁——梁还架着，梁上头是五层棚的地基。开墙先动梁下那两块砖，口开到能过一个人就收手，梁不吃劲，上头就塌不了。可要是贪大，把梁边的砖也撬了——”他把手往下一压，“五层的棚，睡着我们四十八口人。”",
+      "after": "“墙是真墙，可它上头有梁。”六叔指着图，“当年封段的人聪明，封门没封梁——梁还架着，梁上头是五层棚的地基。开墙先动梁下那两块砖，口开到能过一个人就收手。可要是贪大，把梁边的砖也撬了——”他把手往下一压，“五层的棚，睡着我们四十八口人。”",
+      "reason": "只删梁不吃劲就绝对不塌的保证；不补验缝、撑顶到位、里侧核线等未证前置，不据此认定可施工。",
+      "review_v1_paragraph_index_zero_based_including_heading": 5,
+      "applied_paragraph_index_zero_based_including_heading": 5,
+      "operation": "replace_paragraph",
+      "before_sha256": "eaa588d54363c6b1dfd1a40587adaed050b560d25f9445cb8f242ddb2fe29f85",
+      "after_sha256": "ff9d7ccd3ce7f11b6e08ade8535b329c3b4fee5536b9c5386ce038053a95c876",
+      "han_delta": -10
+    },
+    {
+      "sequence": 22,
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "initial_issue_ids": [
+        "R005-B14-I17"
+      ],
+      "before": "林渡把班表重新划了：凿墙班三人一班、两班一轮；送水班仍按一日一趟排，跟凿墙错峰；照护和轮值不动。划完他把表举给众人看：“苦。可这道门开一天，墙里的人少熬一天。哪一班顶不住，现在说，我换人；进了班，就没有‘顶不住’三个字。”",
+      "after": "林渡把班表重新划了：凿墙班三人一班、两班一轮；送水班仍按一日一趟排，跟凿墙错峰；照护和轮值不动。划完他把表举给众人看：“苦。可这道门开一天，墙里的人少熬一天。哪一班顶不住，立刻报，别硬撑；换岗前把手里的活交清楚。”",
+      "reason": "撤进班后不得报告顶不住的禁令，依原交接换岗规则改为即时报疲劳、交清后换岗；不改变三人两班人数或声称替班已解决。",
+      "review_v1_paragraph_index_zero_based_including_heading": 10,
+      "applied_paragraph_index_zero_based_including_heading": 10,
+      "operation": "replace_paragraph",
+      "before_sha256": "ff9d7ccd3ce7f11b6e08ade8535b329c3b4fee5536b9c5386ce038053a95c876",
+      "after_sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+      "han_delta": -1
+    }
+  ],
+  "initial_unresolved_issues": [
+    {
+      "id": "R005-B14-I01",
+      "chapter": 131,
+      "status_at_review_v1": "pending_author",
+      "problem": "墙龄、墙内经历、工龄仍混作三十年；初审所核C02本地爆破十六年关系未裁。不能因保留原句而视作已获批准。"
+    },
+    {
+      "id": "R005-B14-I02",
+      "chapter": 130,
+      "status_at_review_v1": "pending_author",
+      "problem": "跨组蓝扣持物冲突未解决。本轮未读改后130/074或重核台账，不能凭本批没有再露扣件而关单。"
+    },
+    {
+      "id": "R005-B14-I03",
+      "chapter": 133,
+      "status_at_review_v1": "open",
+      "problem": "137搁灯后突然举灯已修；133便携灯火苗验风和137灯苗仍在。固定棚灯不可与随队手摇灯合并处理；131/135/140没有直接火焰词。"
+    },
+    {
+      "id": "R005-B14-I08",
+      "chapter": 132,
+      "status_at_review_v1": "open",
+      "problem": "133已撤转向即可读懂意图，但132原几何和挪动独证人断言还在。不能用后章谨慎措辞倒签前章成立；薄镜片侧送并非绝对不可能，问题是空间路径没写清。"
+    },
+    {
+      "id": "R005-B14-I09",
+      "chapter": 133,
+      "status_at_review_v1": "pending_author",
+      "problem": "第二天问井后又返回今天通气、明天扩孔的时间指代仍未标；131凉时与初审台账热时、跨章第二天对应均未定。本轮未重新读取时间线。"
+    },
+    {
+      "id": "R005-B14-I10",
+      "chapter": 133,
+      "status_at_review_v1": "open",
+      "problem": "出孔与入孔连续反转未交代，火苗验证仍无效。末尾关于风向可能变化的限制不能替代本场转向过程。"
+    },
+    {
+      "id": "R005-B14-I11",
+      "chapter": 133,
+      "status_at_review_v1": "open",
+      "problem": "133气味和缺席杜姨假想、135辨磕法那一处已修；135替不在场杜姨联想旧事仍在，因此整项不能关闭。"
+    },
+    {
+      "id": "R005-B14-I13",
+      "chapter": 134,
+      "status_at_review_v1": "open",
+      "problem": "先宣告管子谈成已修，交接边界也具体了；章末仍连续以纸条留置、一次性帮忙、次日再报、明暗主题重复收束，新的现场动作在放纸条后停得偏久。属轻微节奏残留，非合作事实矛盾。"
+    },
+    {
+      "id": "R005-B14-I17",
+      "chapter": 140,
+      "status_at_review_v1": "open",
+      "problem": "伤手少睡与禁止报顶不住仍被认可；136轮休和133别再加岗的代价未落实到动员。小石改做递具解决空间，不解决这条疲劳规则。"
+    },
+    {
+      "id": "R005-B14-I18",
+      "chapter": 136,
+      "status_at_review_v1": "pending_author",
+      "problem": "息级汽循环、每日通行窗口和人工班仍共用班，缺少有效映射；十二息修正不等于窗口制度修正。"
+    },
+    {
+      "id": "R005-B14-I19",
+      "chapter": 136,
+      "status_at_review_v1": "open",
+      "problem": "正文两个子问题已关闭：实测12写入回报，且不再由来汽推退汽。编辑日志明确台账十息未同步；本轮未重读台账，跨资料口径不能关闭。"
+    },
+    {
+      "id": "R005-B14-I20",
+      "chapter": 140,
+      "status_at_review_v1": "pending_author",
+      "problem": "136那对已承接，旧四班到140五天、期间消耗与暗补两班仍无时点/单位闭环。不能把四班自然理解成四天。"
+    },
+    {
+      "id": "R005-B14-I21",
+      "chapter": 138,
+      "status_at_review_v1": "pending_author",
+      "problem": "慢行扶绳及伤势代价存在，但三时辰下坡与返程如何容纳每日汽窗仍不明；与I18共用日次/窗口裁定，不能假称有新安全窗口。"
+    },
+    {
+      "id": "R005-B14-I22",
+      "chapter": 138,
+      "status_at_review_v1": "pending_author",
+      "problem": "正文仍清楚：仅听报未亲见、未取匣；初审核到的台账亲眼核两匣及湿布缓气无正文依据，编辑日志确认未动资料。本轮不重审资料，不能按正文更谨慎就关掉跨资料冲突。"
+    },
+    {
+      "id": "R005-B14-I23",
+      "chapter": 138,
+      "status_at_review_v1": "open",
+      "problem": "删掉一次重复念位有效；现稿仍在中段、停问后、回坡/交纸结尾多次强调未取、不能定取期。受潮限制与询问来源有新信息，应保留；同一未取结论不必反复闭合。"
+    },
+    {
+      "id": "R005-B14-I25",
+      "chapter": 140,
+      "status_at_review_v1": "open",
+      "problem": "小石位置和磨茧来源已改为外侧递具；但三人一班、两班一轮仍称凿墙班，墙内实际谁轮锤/墙外谁递具没有拆开。不能把小石不穿墙视为整张施工班表获证。"
+    },
+    {
+      "id": "R005-B14-I27",
+      "chapter": 140,
+      "status_at_review_v1": "open",
+      "problem": "失败主语和外侧隔孔授图已修；旧投料口与新孔的失败/成功路径仍相接不清，开头递卷再补前一天尚未整成连续时间链。"
+    },
+    {
+      "id": "R005-B14-I28",
+      "chapter": 140,
+      "status_at_review_v1": "open",
+      "problem": "139修后更明确验缝/看图是开锤前置，140依旧未呈现验缝与撑顶到位即施工，绝对不塌仍在。列出材料不等于支撑已安装。"
+    }
+  ],
+  "independent_review_statement": "本文件仅编辑记录及技术核验，不关闭审读问题，不签pass；必须由原独立审读者读取修改后的实际正文。",
+  "body_frozen_at": "2026-11-07T12:25:55.671470+08:00",
+  "write_paths": [
+    "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+    "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+    "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+    "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+    "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+    "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+    "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+    "harness/maintenance/R005/editor-followup-B14.json"
+  ],
+  "body_change_notification": "本次相对于review-v1修改7章、22条记录；交接后正文不再修改。独立读者必须读本日志after_sha256对应实际稿，旧复核1不得套用新字节。以后正文变化须先通知主线程。",
+  "issue_disposition": [
+    {
+      "id": "R005-B14-I03",
+      "editor_status": "safety_edit_pending_independent_review",
+      "record_sequences": [
+        3,
+        5,
+        6,
+        7,
+        9,
+        11,
+        17
+      ],
+      "remaining": "133/137火苗表述已撤；灯数量、固定棚灯种类、随队灯持有与能源不裁。本编辑不关闭整项。"
+    },
+    {
+      "id": "R005-B14-I08",
+      "editor_status": "partial_edit_geometry_unresolved",
+      "record_sequences": [
+        1,
+        2
+      ],
+      "remaining": "只降镜片挪动/朝向独证人与意图的断言；镜片姿态、落点、照明观察路径仍待核，未补几何。"
+    },
+    {
+      "id": "R005-B14-I10",
+      "editor_status": "safety_edit_pending_independent_review",
+      "record_sequences": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "remaining": "只留通孔气流感受；实际方向、通气量及循环未确证；日次问题I09仍原样待裁。"
+    },
+    {
+      "id": "R005-B14-I11",
+      "editor_status": "safety_edit_pending_independent_review",
+      "record_sequences": [
+        15
+      ],
+      "remaining": "135缺席杜姨假想及其主题翻译已撤，待原独立读者核实际段落；不改救援/滤件优先级。"
+    },
+    {
+      "id": "R005-B14-I13",
+      "editor_status": "compression_pending_independent_review",
+      "record_sequences": [
+        13,
+        14
+      ],
+      "remaining": "压134重复报话预演和明暗主题收束；小绳条件、纸条留置、名册私持、一次性送管均保留，节奏是否足够由独立读者复核。"
+    },
+    {
+      "id": "R005-B14-I17",
+      "editor_status": "partial_edit_capacity_unresolved",
+      "record_sequences": [
+        16,
+        22
+      ],
+      "remaining": "135不再以伤手少睡填班，140改即时报疲劳、交清换岗；缺额、实际替班能力及末段居民自行揽活的容量未解决，不新造人手或班表。"
+    },
+    {
+      "id": "R005-B14-I19",
+      "editor_status": "untouched_cross_ledger_reconciliation",
+      "record_sequences": [],
+      "remaining": "136原实测十二息正文不改；台账十息口径由主线程依事实另核，本轮不动台账。"
+    },
+    {
+      "id": "R005-B14-I23",
+      "editor_status": "compression_pending_independent_review",
+      "record_sequences": [
+        18,
+        19,
+        20
+      ],
+      "remaining": "压138未取/不能定取期的重复表达；首核匣位、受潮未知、结尾交纸时对带话者的一次澄清保留，未改变档案征询或急救优先级。"
+    },
+    {
+      "id": "R005-B14-I25",
+      "editor_status": "untouched_no_existing_basis",
+      "record_sequences": [],
+      "remaining": "三人两班与墙内轮锤/墙外递具的岗位和缺额仍未厘清；不造施工班表。"
+    },
+    {
+      "id": "R005-B14-I27",
+      "editor_status": "untouched_no_existing_basis",
+      "record_sequences": [],
+      "remaining": "旧投料口/新孔与图纸裁卷、前一天递出及展开的路径/日次未裁，不补搬运。"
+    },
+    {
+      "id": "R005-B14-I28",
+      "editor_status": "partial_edit_prerequisites_unresolved",
+      "record_sequences": [
+        21
+      ],
+      "remaining": "仅撤绝对不塌；139要求的验缝、撑顶到位、里侧开凿线交接与140已动锤的前置缺口原样保留。不得据删保证句认定施工安全或通过。"
+    }
+  ],
+  "untouched_author_decisions": [
+    {
+      "id": "R005-B14-I01",
+      "chapter": 131,
+      "problem": "墙龄、墙内经历、工龄仍混作三十年；初审所核C02本地爆破十六年关系未裁。不能因保留原句而视作已获批准。",
+      "editor_action": "untouched_pending_author"
+    },
+    {
+      "id": "R005-B14-I02",
+      "chapter": 130,
+      "problem": "跨组蓝扣持物冲突未解决。本轮未读改后130/074或重核台账，不能凭本批没有再露扣件而关单。",
+      "editor_action": "untouched_pending_author"
+    },
+    {
+      "id": "R005-B14-I09",
+      "chapter": 133,
+      "problem": "第二天问井后又返回今天通气、明天扩孔的时间指代仍未标；131凉时与初审台账热时、跨章第二天对应均未定。本轮未重新读取时间线。",
+      "editor_action": "untouched_pending_author"
+    },
+    {
+      "id": "R005-B14-I18",
+      "chapter": 136,
+      "problem": "息级汽循环、每日通行窗口和人工班仍共用班，缺少有效映射；十二息修正不等于窗口制度修正。",
+      "editor_action": "untouched_pending_author"
+    },
+    {
+      "id": "R005-B14-I20",
+      "chapter": 140,
+      "problem": "136那对已承接，旧四班到140五天、期间消耗与暗补两班仍无时点/单位闭环。不能把四班自然理解成四天。",
+      "editor_action": "untouched_pending_author"
+    },
+    {
+      "id": "R005-B14-I21",
+      "chapter": 138,
+      "problem": "慢行扶绳及伤势代价存在，但三时辰下坡与返程如何容纳每日汽窗仍不明；与I18共用日次/窗口裁定，不能假称有新安全窗口。",
+      "editor_action": "untouched_pending_author"
+    },
+    {
+      "id": "R005-B14-I22",
+      "chapter": 138,
+      "problem": "正文仍清楚：仅听报未亲见、未取匣；初审核到的台账亲眼核两匣及湿布缓气无正文依据，编辑日志确认未动资料。本轮不重审资料，不能按正文更谨慎就关掉跨资料冲突。",
+      "editor_action": "untouched_pending_author"
+    }
+  ],
+  "untouched_policy": [
+    "三十年与十六年、人口、蓝扣丢失、霉瓮可饮量不裁；B15未读正文也未写。",
+    "灯数量/能源不新增；本轮仅撤便携灯火苗和由此得出的测风结论。",
+    "日次、每日窗口与息级班次、滤件存量/消耗单位映射不裁。",
+    "施工先撑后卸及验缝/安装/核线是否完成不补。",
+    "档案征询与急救优先级保留原文待裁，不以修辞替作者确定。",
+    "不写published、台账、初审、recheck、review-v1、正文历史、旧editor日志或main edits.json。"
+  ],
+  "technical_validation": {
+    "validated_at": "2026-11-07T12:25:55.671470+08:00",
+    "validation_type": "technical_only_not_reader_acceptance",
+    "replayed_records": 22,
+    "replay_against_review_v1_bytes": true,
+    "all_final_sha_match": true,
+    "all_10_chapters_counted": true,
+    "minimum_body_han": 2214,
+    "minimum_chapter": [
+      134
+    ],
+    "maximum_body_han": 2392,
+    "below_2200": [],
+    "above_3200": [],
+    "unchanged_chapters": [
+      131,
+      136,
+      139
+    ],
+    "protected_fingerprint_count": 22,
+    "protected_files_unchanged": true,
+    "no_gate_close_or_pass": true,
+    "note": "技术检查不等于事实/逻辑或吸引力审读通过；未修改任何审读问题状态。"
+  },
+  "frozen_manifest": {
+    "encoding": "UTF-8",
+    "serialization": "chapter\\tpath\\tafter_sha256\\n; chapter ascending",
+    "sha256": "1ec0b27f90fc4df052df4a454ca0fd9c57241fa19ef718380eafe9857c1cb931",
+    "chapter_count": 10
+  }
+}

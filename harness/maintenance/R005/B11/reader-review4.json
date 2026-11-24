@@ -1,0 +1,603 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R005-B11",
+  "phase": "recheck4",
+  "review_date": "2026-11-07",
+  "writer": "R005-main",
+  "reviewer": "01a1b3d0-dd0f-76f2-9300-fb7115bccc61",
+  "reviewer_identity_source": "CODEX_THREAD_ID（本轮exec实取）",
+  "body_first": true,
+  "independent": true,
+  "independence_note": "同一独立审读者未修稿；108先全文实读后对照。九章按前轮实际阅读与相同SHA明确继承，不冒充本轮重读。",
+  "manuscripts": [
+    {
+      "chapter": 101,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "sha256": "014cdb954d1846ced0fb2266ffb563e0c108079aee9baceef6a19304d1cdd056"
+    },
+    {
+      "chapter": 102,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "sha256": "f32a0b5147d8d3c603a4af36d9b9ff5eaba065d75db97dee86a967d19440f964"
+    },
+    {
+      "chapter": 103,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "sha256": "f907ce5153999c2d98f63a0a24837dea2ac81e60270e3a8021d8baf8facd3d7c"
+    },
+    {
+      "chapter": 104,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "sha256": "97d0f9cfec8b8e0cfda5f560bfb72e3d571cd07db1d80b869063d3ec4f9738a2"
+    },
+    {
+      "chapter": 105,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "sha256": "5c01acd4ada4b43d42eed69a25033f3e6c072c43616ba33aca5d0267e00ab980"
+    },
+    {
+      "chapter": 106,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "sha256": "3ed59ed36af27c94a4c1f1ee7da957d4c0a21dd3b5d808802270e0fc06aa732e"
+    },
+    {
+      "chapter": 107,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "sha256": "57b5b82d6f969f051002fa18d02ebea6d6c922e1ac1860c06eab2dcb304f7537"
+    },
+    {
+      "chapter": 108,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "sha256": "8913021b9fea527aa1c42338873057a44cf0742c784d9a1b03a52234f6c19dc3"
+    },
+    {
+      "chapter": 109,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "sha256": "5508406e887478a2833800d776e6a04434051111b1e78d56f35b7b945ae887a9"
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "sha256": "f84b465d91ddc2c59b0610096bdef350747c0a2bb13a0b4d55fcccf5a2002e5d"
+    }
+  ],
+  "input_digest": "65a711609f94c3d9ece0b12e3d0cada4412269470c463c7f3eca2437c3d711d8",
+  "read_coverage": [
+    {
+      "chapter": 101,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "014cdb954d1846ced0fb2266ffb563e0c108079aee9baceef6a19304d1cdd056",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 102,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "f32a0b5147d8d3c603a4af36d9b9ff5eaba065d75db97dee86a967d19440f964",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 103,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "f907ce5153999c2d98f63a0a24837dea2ac81e60270e3a8021d8baf8facd3d7c",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 104,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "97d0f9cfec8b8e0cfda5f560bfb72e3d571cd07db1d80b869063d3ec4f9738a2",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 105,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "5c01acd4ada4b43d42eed69a25033f3e6c072c43616ba33aca5d0267e00ab980",
+      "last_full_read": "recheck3"
+    },
+    {
+      "chapter": 106,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "3ed59ed36af27c94a4c1f1ee7da957d4c0a21dd3b5d808802270e0fc06aa732e",
+      "last_full_read": "recheck3"
+    },
+    {
+      "chapter": 107,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "57b5b82d6f969f051002fa18d02ebea6d6c922e1ac1860c06eab2dcb304f7537",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 108,
+      "mode": "full_reread_current_bytes",
+      "previous_sha256": "4b1fd721146d564ca231b79774f343680905cf9cc65f2ac83e5cf1398c25ea66",
+      "last_full_read": "recheck4"
+    },
+    {
+      "chapter": 109,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "5508406e887478a2833800d776e6a04434051111b1e78d56f35b7b945ae887a9",
+      "last_full_read": "recheck2"
+    },
+    {
+      "chapter": 110,
+      "mode": "inherited_same_sha",
+      "previous_sha256": "f84b465d91ddc2c59b0610096bdef350747c0a2bb13a0b4d55fcccf5a2002e5d",
+      "last_full_read": "recheck2"
+    }
+  ],
+  "coverage_limits": [
+    "本轮只完整实读当前108（含删句上下文）；其余九章未重读全文，只核与复核3相同SHA后继承。",
+    "105/106最近完整阅读为复核3，其余未变七章为复核2；同一审读者并未参与正文修稿。",
+    "本轮先108正文后旧报告/diff；先取旧manifest仅作指纹基线，不以diff代替实读。",
+    "未查最新作者台账、章卡、edits或未来正文；不把未裁事实自行关闭。",
+    "字节/原句自动核验不算人工全文阅读；本轮不涉及黄金前三章，也不代表全书验收。"
+  ],
+  "source_digest": "65a711609f94c3d9ece0b12e3d0cada4412269470c463c7f3eca2437c3d711d8",
+  "previous_source_digest": "c3c8b8cc1a53d2feb0e4a0e9b16c56294fffaaf263e7326cc505e981f66856ee",
+  "inherited_from": "harness/maintenance/R005/B11/review-v3/reader-review3.json",
+  "verdict": "needs_revision",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 101,
+      "quote": "广播换了词。",
+      "reason": "沿用复核3：开头撤离承诺转成驱逐非登记人员，找不到船路的行动紧接广播，不需先读台账才知道危险改变。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 101,
+      "quote": "孩子先单列，按来处记。",
+      "reason": "沿用复核3：林渡选择分来源留人名、分成人行动能力再短移，组织行动不是被广播牵着走。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 101,
+      "quote": "怎么连顺序都一样？还有谁拿着这一份？",
+      "reason": "沿用复核3：本轮已把同号同序留为有边界的新异常，而非凭空掌握读册机制；人口分组和追查威胁都可见。",
+      "verdict": "pass",
+      "related_issues": [
+        "R005-B11-I27"
+      ],
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 101,
+      "quote": "数是门上认的，格子留给你自己。想好了再来填。",
+      "reason": "沿用复核3：给无名男孩保留自填空间，不以编号定义他；可期待110兑现，回报不是主题口号。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 101,
+      "quote": "下一根立柱，走背光那面。",
+      "reason": "沿用复核3：喷流、扫描之下如何把担架移到下一根柱，行动钩子接住世界压力。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 102,
+      "quote": "要抬的三副担架还留在木箱区。到立柱这一段，中间横着四跨梁",
+      "reason": "沿用复核3：有限目的地与三副担架的四跨距离很快出现，跨梁风险明确。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 102,
+      "quote": "这跨少吃重。",
+      "reason": "沿用复核3：先试板、再减载分批，能看出主角的结构经验而非单靠胆量。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 102,
+      "quote": "槐七把第三副接到它们后头，沿山壁纵着放",
+      "reason": "沿用复核3：三架各有落位，随后取水柜成为下一目标；不是只换名词的原地移动。I02后来回移端点仍另待核。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 102,
+      "quote": "自己迎着风口坐下。她坐稳了，就伸手替旁边一个歪着睡的年轻人扶正脑袋",
+      "reason": "沿用复核3：老妇先护孙再照看旁人，群体互助通过动作兑现穿梁后的喘息。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 102,
+      "quote": "先找能开的口。",
+      "reason": "沿用复核3：拒绝硬撬后的开口/权限问题具体，读者愿意跟进柜内的水。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 103,
+      "quote": "柜体侧面那道检修盖板，阿九拆到第二枚螺栓就停了手。",
+      "reason": "沿用复核3：上章开口目标立刻遇新封漆与两层入口的阻碍，没有把生存任务停下换设定说明。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 103,
+      "quote": "念到第五个，林渡上前把识读台遮住了。",
+      "reason": "沿用复核3：停止让孩子逐个受拒，改找实际守窗者和当班工，选择有温度也有解决路径。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 103,
+      "quote": "当班的在上一层廊里，换班才下来。你们要水，得他认。",
+      "reason": "沿用复核3：从门不认人推进到知道掌水者的位置和权限；七年前仅为记录日期，不虚增已知经历。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 103,
+      "quote": "不细不行。",
+      "reason": "沿用复核3：杜姨记谁喝过谁咳嗽的细账承受照护责任，守窗人因此愿意引路，回报落在说得出的行为。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 103,
+      "quote": "孩子坐在这儿，不挪窝，等他一句话。",
+      "reason": "沿用复核3：热影下的等待与派人上廊相扣，下一章有具体能否获得水的期待。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 104,
+      "quote": "孩子们安静下来，眼睛轮着往竖管那边瞟。",
+      "reason": "沿用复核3：开头等待当班工期间仍在挪发热伤员，孩子盯竖管把等待压力具象化，人物介绍没有完全冲散求水目标。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 104,
+      "quote": "我们先求站，再求水。",
+      "reason": "沿用复核3：先争容身再争水，得到一次施舍后主动提出修理换续水，主角的选择改变谈判方式。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 104,
+      "quote": "矿物析出，水本身没坏。",
+      "reason": "沿用复核3：喝到水与获得工班关系是变化，但关键“可饮”成果只靠外观断言支撑，有限能力求生的兑现因此不够可信。",
+      "verdict": "needs_revision",
+      "action": "先按作者确认的既有水源/处理依据修妥可饮链；不得以更多验水动作、天赋或新设备补票。",
+      "related_issues": [
+        "R005-B11-I15",
+        "R005-B11-I16",
+        "R005-B11-I17"
+      ],
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 104,
+      "quote": "他想留着这一口在嘴里，多含一会儿。",
+      "reason": "沿用复核3：孩子舍不得咽水，抬手互让，饥渴与照顾他人的温度都具体；这一情绪有效不等于水质事实通过。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 104,
+      "quote": "修一次，换一批；修到哪天，算到哪天。",
+      "reason": "沿用复核3：一次救急转为能否持续换水的谈判，丙七还要掂量，下一章责任和期限都有方向。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 105,
+      "quote": "丙七上了检修平台，谈判没有断。",
+      "reason": "沿用复核3：开头位置转换仍有上下传话通道，查账追责迅速把求水谈判压紧；删习惯旁白没有削弱压力。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 105,
+      "quote": "整条线我修不了，也不应你。",
+      "reason": "沿用复核3：林渡拒绝无限承诺、实名承担有限维修，并放弃探船；这是有边界的组织选择。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 105,
+      "quote": "他把填过的项目抄进工班簿，再让替班把单子递还林渡。",
+      "reason": "沿用复核3：修水换水从口头谈判变为可追责、可持有的双边记录，动作链在本轮全文中完整。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 105,
+      "quote": "记我头上。",
+      "reason": "沿用复核3：签名留血印后仍由林渡接下阿九的船账，共担后果有温度；删丙七习惯概括没有损失这份回报。",
+      "verdict": "pass",
+      "related_issues": [
+        "R005-B11-I33"
+      ],
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 105,
+      "quote": "下一次喷流之前，必须修好。",
+      "reason": "沿用复核3：放弃探船后立即承担喷流前完工的压力，下一章要怎样动手是具体的。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 106,
+      "quote": "下端已经从旧桩上滑脱半掌，被一根悬挑横木临时别住。",
+      "reason": "沿用复核3：工班到场与失稳支架紧接出现，承接105急修截止，不让危险停下来等说明。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 106,
+      "quote": "班给你。",
+      "reason": "沿用复核3：接受父亲有限协作并给守班职责，同时保留旁的照账走，关系推进没有赦免既有责任。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 106,
+      "quote": "水流过的时候，整条线只轻轻抖了一下。",
+      "reason": "沿用复核3：放空、换架、复水和验工构成可见结果；排水方向修顺不等于净化成果，也未让坏尺恢复。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 106,
+      "quote": "林渡没有回去替他拉，抬高工具袋，免得碰响料头。",
+      "reason": "沿用复核3：回头所见与轻放工具传递克制关照，父子边界有动作而非主题解说。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 106,
+      "quote": "下一班水要照他们方才说定的领，料钱和守夜工时也得一笔一笔认。",
+      "reason": "沿用复核3：工程结束而水尚待领取，读者想看约定如何兑换，107开头对账接口相接。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 107,
+      "quote": "丙七从上层下来，先不碰水，把工班簿摊在小台上，和林渡的册子并排放着。",
+      "reason": "沿用复核3：水在眼前却须先对账，承接上章付工是否得水的期待。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 107,
+      "quote": "修架子的班照排。",
+      "reason": "沿用复核3：林渡保住供水劳动，同时分人寻找不靠登记的路，选择是兼顾生存与撤离而非丢下一头。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 107,
+      "quote": "领水分三栏。",
+      "reason": "沿用复核3：劳动换来连续领取、伤口和设备配额及班次，但清场会撤柜；获取与失去的条件均改变，碗不接污也已补清。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 107,
+      "quote": "开口报下一班的人名时，嗓子不再刮得发疼。",
+      "reason": "沿用复核3：一口水的实际缓解兑现抢修劳动，豁口避唇的传碗细节比抽象团结更有温度。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 107,
+      "quote": "去找一条不靠登记的路。",
+      "reason": "沿用复核3：清场机器按表碾过与身份门路封死迫出明确的找路任务。时间口径仍须另核，不抹去任务方向。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 108,
+      "quote": "接水点的规矩却仍是当场喝、不带走——留在短避点的三个大人、两个孩子，就够不着水了。",
+      "reason": "重读仍可直接确认卧床者够不着水与柜前喝的冲突；任务压力有效，端位事实另按I02待裁。",
+      "verdict": "pass",
+      "review_method": "full_reread_current_bytes"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 108,
+      "quote": "孩子组一个也不许动。",
+      "reason": "限定成人送水、伤脚麦穗照护记账，选择有身体能力边界；删塞壶动作不改变分工。",
+      "verdict": "pass",
+      "review_method": "full_reread_current_bytes"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 108,
+      "quote": "带过去的，照这一栏走，定人定量，容器用你们柜上的，喝完的罐子收回来。",
+      "reason": "协商获定线定量送水例外并实送；第三趟遇灯迫使复验。删句后罐仍随送水者，未虚增资源。",
+      "verdict": "pass",
+      "review_method": "full_reread_current_bytes"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 108,
+      "quote": "人回去，比罐子回来要紧。",
+      "reason": "裴七反过来关心送水者，麦穗松开孩子后坐稳观望，关怀与余悸由现场动作承接。",
+      "verdict": "pass",
+      "review_method": "full_reread_current_bytes"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 108,
+      "quote": "回去报丙七，外侧那道缝也让他看过，不能再照这趟走。",
+      "reason": "改验外缝是具体下一步，光影风险和人物选择相接；删物件岔点后仍愿读下一章。",
+      "verdict": "pass",
+      "related_issues": [
+        "R005-B11-I21",
+        "R005-B11-I22"
+      ],
+      "review_method": "full_reread_current_bytes"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 109,
+      "quote": "那道缝的尽头，山壁上有一块颜色不一样。",
+      "reason": "沿用复核3：送水改线经核验后产生新入口线索，旧风险自然引出发现，而非从天落路。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 109,
+      "quote": "抓梯用左手。",
+      "reason": "沿用复核3：先放灯的谨慎已经写实，但106左臂失力后仍以左手换右手亲下，能力验证变成忽略伤势，削弱主角组织取舍的可信度。",
+      "verdict": "needs_revision",
+      "action": "在既有人手与绳索限制内重排探路或写清受助承力，不用仅疼痛/慢动作充作安全解法。",
+      "related_issues": [
+        "R005-B11-I13"
+      ],
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 109,
+      "quote": "牌子标着下六层。",
+      "reason": "沿用复核3：从封板见到可站的平廊和下行方向；不是已知全路安全，限员未知及担架瓶颈仍保留。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 109,
+      "quote": "少了它，下一处的活儿就得换法子干。",
+      "reason": "沿用复核3：失去接头后用现有工具费时打开，付出损失才换来下路，具有限制性的发现回报。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 109,
+      "quote": "明早清场广播再响之前，开始转人。",
+      "reason": "沿用复核3：下一步转人方向明确，但按灯序且循环的广播为何允许等到明早没有依据；钩子把迫近压力自行放宽，读者会先问为什么敢睡。",
+      "verdict": "needs_revision",
+      "action": "按作者核定的日次/灯序余量补当场可知截止，或据既有截止调整行动；不虚构延迟清场。",
+      "related_issues": [
+        "R005-B11-I09"
+      ],
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 110,
+      "quote": "柜口要有人接水，廊口要有人接伤员。",
+      "reason": "沿用复核3：开头两端守岗与留人接水并存，转运不只是全队换场景，资源和伤者构成任务压力。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 110,
+      "quote": "撑着担架沿一级一级往下挪，蹭完二十一级，比吊着快。",
+      "reason": "沿用复核3：在最需要照护和分工的兑现处，以伤员自撑更快解决竖吊瓶颈，旧伤和支护约束被意志跨过，主动性变成不可信的捷径。",
+      "verdict": "needs_revision",
+      "action": "先解决既有器材下受助转运方案，明确停稳与接手；保留裴七能做的配合，不让卧床者普遍仿效自攀。",
+      "related_issues": [
+        "R005-B11-I12"
+      ],
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 110,
+      "quote": "剩下的绳留在护线上，两头不断。",
+      "reason": "沿用复核3：人进廊、名单和照护完成是明确变化，但拆护线后外面仍接水守哨，没说明剩余覆盖；连同吊伤员缺口，暂不能把安全安顿当已挣来的成果。",
+      "verdict": "needs_revision",
+      "action": "确定已停用可拆段和仍用护线覆盖，再写睡区防护；若现有资源不足就保留代价与阻断，不凭一句不断抹平。",
+      "related_issues": [
+        "R005-B11-I12",
+        "R005-B11-N03"
+      ],
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 110,
+      "quote": "先别念。等我能站到门前自己念了，你们再念。",
+      "reason": "沿用复核3：男孩自己写字、自己定公开条件，呼应101空格；17子组与别组交接、失联姓名保留也让照护回报具体。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 110,
+      "quote": "明天起查这条廊到底通哪、查验是个什么章程。",
+      "reason": "沿用复核3：从机器识读改到维修工牌，工时单能否成为合法通行依据形成下一篇具体问题；未把牌朝向写成幕后真相。",
+      "verdict": "pass",
+      "review_method": "inherited_same_sha"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 110,
+      "quote": "照护交班。",
+      "reason": "108定量送水与互助回报经重读保持；其余九章按同SHA继承。水质、伤侧探梯、卧床转运及护绳仍未解决，删除塞壶动作不能使生存承诺兑现通过。",
+      "verdict": "needs_revision",
+      "action": "先修妥I12/I13/N03，并等待水源/处理等作者裁定；保留已有效的姓名与照护回报，不以主题宣言或增字掩盖生存缺口。",
+      "related_issues": [
+        "R005-B11-I12",
+        "R005-B11-I13",
+        "R005-B11-I15",
+        "R005-B11-N03"
+      ],
+      "review_method": "mixed_batch_reassessment"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 110,
+      "quote": "通行以工牌为准，工牌查验在下行口。",
+      "reason": "108从柜前喝到送水例外、再到遇灯复验的升级保持；与其余九章同SHA证据合看，身份、资源、清场和下行关卡仍逐级改变选择难度。",
+      "verdict": "pass",
+      "review_method": "mixed_batch_reassessment"
+    }
+  ],
+  "check_counts": {
+    "pass": 46,
+    "needs_revision": 6
+  },
+  "scope_note": "52项：108五项重读重判；九章45项同SHA继承；篇章2项混合重判。各章实际SHA见manifest，最近完整阅读见read_coverage。"
+}

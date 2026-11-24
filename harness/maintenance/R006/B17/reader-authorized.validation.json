@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "validator": "tools.check_reader_pull.validate",
+  "validated_at": "2026-11-07T15:47:29.233048+08:00",
+  "record": "harness/maintenance/R006/B17/reader-authorized.json",
+  "record_sha256": "f3210a1657d0b92b887efc31977002e1fd0a32ccded7a1c16d466b70e382b9ff",
+  "previous_record_sha256": "e645e873db998ca2dcaa813a58cf34dfbba87f170ae8ebb7b3f62f6169c6e28e",
+  "metadata_before": {
+    "schema_version": 1,
+    "kind": "reader_review",
+    "profile": "H002"
+  },
+  "metadata_after": {
+    "schema_version": 1,
+    "kind": "review",
+    "profile": "serial"
+  },
+  "changed_fields": [
+    "kind",
+    "profile"
+  ],
+  "only_requested_metadata_changed": true,
+  "source_digest": "4d8fc4e61520b17e51925d8639064697618057f0b4bcb94b63d1beb0b27de0cb",
+  "require_pass": true,
+  "expected_rows_source": "harness/maintenance/R006/B17/final-authorized.json",
+  "checks_count": 52,
+  "checks_unchanged": true,
+  "checks_sha256": "fd927bf488948964ab1b68e7a79b5f23828ffaabeb5a47d13602eefb2dc584f9",
+  "issues_count": 55,
+  "issues_unchanged": true,
+  "source_bytes_unchanged": true,
+  "other_b17_reports_unchanged": true,
+  "result": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "note": "独立复核2真实所读字节原样留存；原报告仍绑定原路径和当时SHA，不改历史结论。",
+  "source_digest": "142f47b430237b3064eb1c550e8f777b182befc58a5806af5e4d2b0e13611813",
+  "manuscripts": [
+    {
+      "chapter": 121,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第121章_工班不够两处用.md",
+      "sha256": "bce341062dc946ca208c65d79aa052e68d5915649860fde317693fc469c0d357"
+    },
+    {
+      "chapter": 122,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第122章_滤槽下面.md",
+      "sha256": "33b2ef2eace6d08047c1abb6e8505ad3df2bac08669f3e0080946e7f9578152d"
+    },
+    {
+      "chapter": 123,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第123章_一班能领多少.md",
+      "sha256": "bfd46191b5776e1f8d0338a8941b1f4a51def5db894c2be0e8b891610c36c851"
+    },
+    {
+      "chapter": 124,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第124章_死者领走的滤件.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第124章_死者领走的滤件.md",
+      "sha256": "e60e3adac84755fd3551db2d131df9900de99b69ccf39760ade292ab65a2b0d9"
+    },
+    {
+      "chapter": 125,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第125章_旧门牌没有注销.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第125章_旧门牌没有注销.md",
+      "sha256": "69eede53da6f373ef1cb5734e12dc2aea00bed2d7a9cccb73d6524660640e06e"
+    },
+    {
+      "chapter": 126,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第126章_住进去之前.md",
+      "sha256": "132e47164138633d7ec4c9739300b68b8d7726269550d980c8d7328d8bf459b5"
+    },
+    {
+      "chapter": 127,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第127章_多出来的那一栏.md",
+      "sha256": "af925b69acfa82ad1e1e3699e00cbaa529bd1d964b1ec30ca1354808a58022e2"
+    },
+    {
+      "chapter": 128,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第128章_药柜不是赠品.md",
+      "sha256": "a096e27242491d7e3fff3d9bd086f5501bbbb493aa4b838c45d4047940711d5f"
+    },
+    {
+      "chapter": 129,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第129章_槐七只指到转角.md",
+      "sha256": "4fcbe3b3b7cdc67bb6155dbb49e387a95d2c66b6bd7a9e1f7cae10fbdf12fecc"
+    },
+    {
+      "chapter": 130,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B13/历史/复核2/第130章_留在棚里的人.md",
+      "sha256": "341e064418f7c8e69533293d02a8c267d38fac3bf6aa42174408cc2abe59c464"
+    }
+  ],
+  "reports": [
+    {
+      "path": "harness/maintenance/R005/B13/review-v2/recheck2.md",
+      "sha256": "980d2a71595dd6a34cc3cd1179a11895283c75fc3fac7a29b6e1db96e3d66576"
+    },
+    {
+      "path": "harness/maintenance/R005/B13/review-v2/recheck2.json",
+      "sha256": "be1fd6e5c9597587f5a9e545e10a8389fee77821a5f8855c274532d95911e10f"
+    },
+    {
+      "path": "harness/maintenance/R005/B13/review-v2/reader-review2.json",
+      "sha256": "ee8b7d25e6da85b6421f1d02a1cc4a4bce390d63ce90900bb892497658e5d61e"
+    }
+  ]
+}

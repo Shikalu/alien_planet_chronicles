@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root",
+  "reviewer": "/root/reader_a41",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 501,
+      "path": "异星录/06_执行计划/工作区/A41/第501章_船还在往里走.md",
+      "sha256": "aa45b5bfdd83dc9cb1750e37f646fdce4f0835f91b06ee5e21adfa596845aed0"
+    },
+    {
+      "chapter": 502,
+      "path": "异星录/06_执行计划/工作区/A41/第502章_白纸朝着岸.md",
+      "sha256": "a9239cd5894863539db9ce4569d4aeda103cd0c827acc6c8a7af9ab30b81b440"
+    },
+    {
+      "chapter": 503,
+      "path": "异星录/06_执行计划/工作区/A41/第503章_等船的人吃什么.md",
+      "sha256": "e9b0066b4f08ed0a2b7c53448f6af551131882204e6e827da9dd6b9a0a9c6dc2"
+    },
+    {
+      "chapter": 504,
+      "path": "异星录/06_执行计划/工作区/A41/第504章_把枪摆在秤上.md",
+      "sha256": "48852aefe15fcc609dbbd1584bf189adf826311dd9838d0d4dc7b4c676803979"
+    },
+    {
+      "chapter": 505,
+      "path": "异星录/06_执行计划/工作区/A41/第505章_收药的人要到场.md",
+      "sha256": "bced0fa97bb5f4f7d097a40b6ef8435aecd3cb756eb53930f1ebe7644e08a015"
+    },
+    {
+      "chapter": 506,
+      "path": "异星录/06_执行计划/工作区/A41/第506章_那块板只能去一处.md",
+      "sha256": "0b080373ec38609ec1cfad76d74cd128ec97c7468c0d0daaee55f86f5f160f4e"
+    },
+    {
+      "chapter": 507,
+      "path": "异星录/06_执行计划/工作区/A41/第507章_箱底那一层.md",
+      "sha256": "8b108794b57061f11ed28f1b0b3a918a909918356c4252fb8500a4c76f6beba5"
+    },
+    {
+      "chapter": 508,
+      "path": "异星录/06_执行计划/工作区/A41/第508章_在旧水里掉头.md",
+      "sha256": "75f983ecd391f6da2af43ef176182ce770a7ca60b13c209c33fd8d2f78aeaf04"
+    },
+    {
+      "chapter": 509,
+      "path": "异星录/06_执行计划/工作区/A41/第509章_把名字放在药后面.md",
+      "sha256": "166c4b0638211f6ecd4f4df3197342b5c7d9a3421920fa757ece04c754cf2813"
+    },
+    {
+      "chapter": 510,
+      "path": "异星录/06_执行计划/工作区/A41/第510章_两箱药一条水路.md",
+      "sha256": "b5e89435ec00eb5bb78d70cf7a475e3afbe13928ac7f01b307ad05e6c7cf0bab"
+    }
+  ],
+  "source_digest": "61a1a4410c72dab9da5e3da816904eddc9d982223f703e8c51227d24cd5b6d37",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 501,
+      "quote": "船上的人往外打手势，船还在往里走。",
+      "reason": "一个动作与它造成的相反结果把困艇的位置、时限和异常放在开头，想立刻知道岸上如何止住漂移。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 501,
+      "quote": "先收索。今凉不上水。",
+      "reason": "林渡救完两人主动取消原拟的查海，知道下次何时能查仍未定，把可用的凉时让给撤离。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 501,
+      "quote": "剩下那人跳下来时自己带了缆，把空艇系到同一侧的稳石",
+      "reason": "开场失控的船终于停稳，两个人都上了岸。未拿到邻湾药，海口新封控也还在。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 501,
+      "quote": "我这条腿今早只许做一件事。",
+      "reason": "阿九把还能做的事交代清楚，稍后真的从高处喊退。旧伤留下限制，他仍能在救援中起作用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 501,
+      "quote": "下一次退水前，至少得有人下到那人听得见的地方，把整句话带回来。",
+      "reason": "新危险有具体来源和窗口。下一章要辨出旗艇来意和界线，救艇之后仍有行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 502,
+      "quote": "白纸抬得太高，传令的小艇差点擦上浮子下面的绳。",
+      "reason": "送话的人自己也受制于夹水口的回水，上章的问题一开场就有人冒险来答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 502,
+      "quote": "接话留一个人就够。退艇的人都往岸台去，别拿着东西在阶上等。",
+      "reason": "林渡把眼前两件必须做的事分别交人，保留能听见告示的位置，也防止搬运者扎堆在湿阶。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 502,
+      "quote": "药得有医者的来源封，接去的人也得能验，随船不能夹带武器。",
+      "reason": "封控从一条拦船的绳变成有限的民药条件。两箱药未来可以沿此问路，武装货与普通货没有因此获准。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 502,
+      "quote": "叫他等手好了来货架数一遍还缺几枚钉。",
+      "reason": "卸货工耽误一班自己的活，伤手艇工也丢了活钱。两人以一次实做认下人情，救援成本有了着落。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 502,
+      "quote": "棚外已经有人来打听，说护卫肯替他们把船开出去。",
+      "reason": "允许民药问单的同一刻出现带护卫的运力，想看林渡与曲荻在缺船时会不会接受这个条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 503,
+      "quote": "有人想把一只药箱横着推进外廊，箱耳卡进两侧的木柱。",
+      "reason": "空箱已挤住外廊，弥娅自己也只能走受限的人路。一开头就能看见药不能从她旧路过。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 503,
+      "quote": "两件事分开写。",
+      "reason": "弥娅把粮户的四袋意向与民医的药单分开，保住有限运力的一种用法，也让粮户能保留对自己粮的决定权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 503,
+      "quote": "可筹备一批无武器的民药。粮没有准字。",
+      "reason": "两箱从意愿变成可备的实货，护岗许可仍及白礁本人，实际放缆与四袋粮另悬。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 503,
+      "quote": "让他看刚才写的药包要留下。",
+      "reason": "病人怕援外挤掉手边药，民医当面按住那条封，给这份不安一个现在就看得见的答复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 503,
+      "quote": "那张纸上，能开箱验药的那一栏还空着。",
+      "reason": "弥娅已经画到栈城岸棚医桌，空栏直接问下一步需要哪一双手。它也与她自己被撤掉名字形成具体关系。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 504,
+      "quote": "军需来的人把一支枪放到了秤上。",
+      "reason": "日用秤上突然压来武器，枪口还指向坡上来人。筹运药和军需想要的舱位马上撞在一处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 504,
+      "quote": "船有没有退路，归开船的说。岸棚的药归医者接。",
+      "reason": "林渡按风险分配决定权，拒绝靠自己代签或军需承诺跳过船员和医者，承担商人随后撤牌。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 504,
+      "quote": "秤上空了，原先愿去找船的人也走了一个。",
+      "reason": "军需收枪，伴运人也撤回。货场付出真实的船源损失才保住无武器药单的条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 504,
+      "quote": "我今天再去问一户能不能先赊两顿。",
+      "reason": "想要药和粮的人没有轻松站在安全一边。她接受自己得再赊饭，反映拒用军运的近处代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 504,
+      "quote": "第二船缺着一块护板，守船的两个人没有报它能开。",
+      "reason": "可以直接追问留在外锚的船能否补板、谁愿担风险。拒绝军需后还有一条可检验的路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 505,
+      "quote": "刚从下面上来的送瓶人看见自己家里的名字，一掌盖住纸。",
+      "reason": "急着求药的善意已经要把病家姓名送出海，封单还没离台就有必须制止的事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 505,
+      "quote": "巡船得知道谁会真的收箱。把认箱的人写进去。",
+      "reason": "林渡把知道名字与有资格验封分开，由实际接药的医者认下责任，患家仍有隐私。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 505,
+      "quote": "栈城的船若能验过，只准沿熟水去图上的旧停位等候，不准接商粮，不准载武器。",
+      "reason": "从问单拿到只去一个停位的条件，也把四袋粮的希望实撤，限度和进展都可核。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 505,
+      "quote": "四个洞还在，他们就总有人会端着碗来。",
+      "reason": "四袋货位从纸上数量变成几户人的下一锅。撤下木牌后须有人当面认话。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 505,
+      "quote": "破口没补，一份回签放多久也长不成护板。",
+      "reason": "下一步从纸面问许可信转到原船物理修复，留了具体要补的东西和能做的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 506,
+      "quote": "我只答应拿来量一量。",
+      "reason": "板主按住木板，谁说了算、材料有多紧张在第一处动作和话里同时明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 506,
+      "quote": "我只认路和交接，不碰桨，不抬药。",
+      "reason": "林渡问到给棚挡风的办法，把板留给板主决定，最后自己也退离操船和搬药，分工由行为兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 506,
+      "quote": "船工举手说绳结没滑。试过就复归原锚。",
+      "reason": "空船已经实用新板经小涌验证，确有修理结果，仍需带水验船方可出航。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 506,
+      "quote": "只要别叫我去给它抬脚。",
+      "reason": "孩子用一句玩笑说出脚伤的限制。托面带着伤脚平移，换板的成本并未被海上成功抹掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 506,
+      "quote": "还要看它带上航水后，离水有多高。",
+      "reason": "读者知道下一次的门槛是实装湿线，护板能挡一道涌只解决了复航的一部分。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 507,
+      "quote": "船还没来，岸上的四袋粮已经叫人搬回去了。",
+      "reason": "开篇就兑现粮未获准。袋口洒粟还被主人用手护住，货主和等粮的人都看得见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 507,
+      "quote": "我在沿潮港外廊，凉时能到西台。",
+      "reason": "弥娅只报自己确能到的地点与时间，请押药人经检查带纸；她选择守住留下的人和自己持有的原声材料。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 507,
+      "quote": "船过墙脚，药箱便都被船帮遮住了。",
+      "reason": "西台的两箱经过验封和实装确实离岸，另找的三人小船开始承担约定，扣泊第一船状态没变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 507,
+      "quote": "她等墨稍干，才在下面添了三字：“先收药。”",
+      "reason": "两人长时间未通消息，弥娅仍将眼下能救人的事写在个人相见之前。510会以同三个字改动林渡行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 507,
+      "quote": "船要是回来得晚，这一处的门每天还得照常开。",
+      "reason": "弥娅留岸维持改了排班的诊棚。读者会接着追西边是否也能按同一窗口放船，免使这一趟有去无接。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 508,
+      "quote": "两位船员和他一共三人，原来议给她的第四个坐处要空着，留给可能接回来的药。",
+      "reason": "出发前就少一个人，空位的用途明确。能不能带药回来首先是载荷和人员分工问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 508,
+      "quote": "林渡叫先退回上一处已过的水背。",
+      "reason": "林渡放弃抢过暗汽，选择保住看得见的退点，并让两名船员完成掉头，代价是一晚和三人用水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 508,
+      "quote": "旧停位的石肩出现在水面。",
+      "reason": "读者看到短暂停航和重新测水仍能送西船到约定地点，另一头的帆梢从预期变成可见的证据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 508,
+      "quote": "再迟一些，上一处石肩也得没在里面。",
+      "reason": "退回带来的安全由扩开的暗汽当场验证，读者同时明白犹豫为何危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 508,
+      "quote": "明日若能开口，他想先问那条船的人见没见过弥娅。",
+      "reason": "两船已经近到能辨帆脚仍不能在涌里靠上。问药和问人的答案都得等下一个可站的凉时。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 509,
+      "quote": "今天凉时刚到，退水比他们等的还少一级。",
+      "reason": "谈判从站脚不够起步，值岗的条件直接关系药箱能不能放在石上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 509,
+      "quote": "到第二船我签。上了岸，医者开箱认药再签。",
+      "reason": "林渡以自己的承接名字回应药箱的去处，既保护押药人能按实交回报，也给岸医留验药权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 509,
+      "quote": "他愿意签一个换货窗口。",
+      "reason": "巡船带回查验的提议被改成值岗在场的轮靠实交。两船只获得一凉和两箱的条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 509,
+      "quote": "若能按程回到沿潮港，他去外廊交给本人。",
+      "reason": "接箱之前先有一个现实可抵达弥娅的信使，私信有了去处，代价是林渡还要等到真正返抵才可能知道她收没收。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 509,
+      "quote": "要是明凉连两指都退不下去，纸上已经签好的这一趟也得空着回去。",
+      "reason": "明凉水是否露出同一块托箱石成了可对照的追问，510开头就兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 510,
+      "quote": "东船刚碰上石台，巡船值岗就举起手，叫第二船留在岩背。",
+      "reason": "续上两指能否退够的等待，开头先让一个船靠、另一个船等，地形和时间压力直接作用在两箱药上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 510,
+      "quote": "他捏住两张纸的边，沿原折痕折回去，叫船头的人将药绑牢。",
+      "reason": "林渡刚得知弥娅受判，压住掉头找她的念头，履行三人和两箱药按原路回岸的责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 510,
+      "quote": "他当面在岸棚实收栏签字，药才移到自己的案上。",
+      "reason": "两箱经历石台实交和西船承接，最终由能验药的人领进案头，505开始留空的岸棚栏得到实填。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 510,
+      "quote": "曲荻替他折好压在凳角，他才肯将手肘从腰侧移开，让医者看见两层布下面裹着的地方。",
+      "reason": "等药人怕丢号而始终抓着纸，现在有人替他按住纸并实际给他换药，运输的结果落在一个人的伤处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 510,
+      "quote": "沿潮港外廊也有人会量水，可从今日起，谁还肯替两头递一次读数？",
+      "reason": "军需公开把降温当启用理由，林渡先找本岸原有量水人；还要有来自另一岸的实际读数，才有下一步可做。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 510,
+      "quote": "医者从第一箱取出一封，给棚里一位一直没等到合用药的伤者换药。",
+      "reason": "开头短渡被堵时空着药篓，503找到西台的两箱与能发封的医者，509只争得一次轮靠。本句把十章所等的药送到伤处。四袋粮在两岸分别撤，锅边少用添碗勺，药到没有抹平断粮。两人的消息只证判决摘记向西送达，栈城短联向东仍待亲接。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 510,
+      "quote": "告示说一旦启用，可以让本岸近水降温。",
+      "reason": "503的港内拒绝和504的枪换舱位先争有限货权，506付掉挡风板，508耗掉航水，509—510才实交一班。军需这句把代价从一船药粮推向两岸住人的热水，林渡要先找启动前的温度和下一位传读数的人，未预支热量转移的结论。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

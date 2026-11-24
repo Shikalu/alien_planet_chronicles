@@ -1,0 +1,51 @@
+{
+  "batch": "R006-B20",
+  "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+  "scope": "不修改源文件，不给范围外201以后签通过",
+  "handoffs": [
+    {
+      "owner": "R006-main/B18",
+      "path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "before": "线上账三十一年由其记，接手人未跟完不挪窝",
+      "after": "线上账由其持续记录，接手人未跟完不挪窝",
+      "reason": "175钩子旧绝对年数；B20只核本段，不自审上游",
+      "application_status": "handoff_only_not_in_local_patch_list",
+      "target_sha256": "ce9a0e079709ce871edce3c6f48ca992d00a77a99d35ea7010d5324d37cb0bed",
+      "blocking_for_B20": false,
+      "status": "transferred_to_main_and_source_batch",
+      "note": "用户明确不由B20承担；不据交接条目宣告其上游已经核平。"
+    },
+    {
+      "owner": "R006-main/B17",
+      "path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "before": "第五工号三证核讫、求援敲声三十一年有主",
+      "after": "第五工号三证核讫、求援敲声的接应对象已核，守候年数不在此确定",
+      "reason": "166汇总旧绝对年数；先与该组真实修稿核再应用",
+      "application_status": "handoff_only_not_in_local_patch_list",
+      "target_sha256": "ce9a0e079709ce871edce3c6f48ca992d00a77a99d35ea7010d5324d37cb0bed",
+      "blocking_for_B20": false,
+      "status": "transferred_to_main_and_source_batch",
+      "note": "用户明确不由B20承担；不据交接条目宣告其上游已经核平。"
+    },
+    {
+      "id": "B20-WB-X01",
+      "owner": "R006-main/A11",
+      "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "scope": "201—210资源实录；不是本组正文的新问题",
+      "before": "短门登记电源壳已归还（A10）",
+      "after": "A10末短门登记电源壳装留证袋、候下一班送水带回塔；其后归还进度另据本段实录核记",
+      "target_sha256": "48746b2fa4d2f7db9194bf9d9ac5f66d7c3d92726f474451ff57ccb91d82e59a",
+      "reason": "A10本组最后可证状态是候还而非已还；仅纠正A11对A10的倒引，不推测A11归还动作。",
+      "source_evidence": {
+        "chapter": 197,
+        "path": "异星录/06_执行计划/工作区/R006-B20/第197章_把没听清的留空.md",
+        "sha256": "42bf8546afa70f01d166a9503cff08007b7f3d5edf379c5226be3730d5f8dfaa",
+        "quote": "该落的签记已经落过，格壳还等下一班送水的人带回塔。",
+        "line": 82
+      },
+      "blocking_for_B20": false,
+      "status": "out_of_scope_handoff_not_applied",
+      "before_occurrences": 1
+    }
+  ]
+}

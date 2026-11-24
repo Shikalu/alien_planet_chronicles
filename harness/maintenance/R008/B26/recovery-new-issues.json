@@ -1,0 +1,686 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B26",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 251,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第251章_窄台只过一个人.md",
+      "sha256": "e18632b17cd84c84db9b18f7206eec916e7fd34dd019ccbba4b53ef0069ed47f"
+    },
+    {
+      "chapter": 252,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第252章_先报的名单.md",
+      "sha256": "b047599572505c3084679ffe6afc58bca9100392f8fc9b1c06e69cf2c8db1a73"
+    },
+    {
+      "chapter": 253,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第253章_棚区腾位.md",
+      "sha256": "bbc8cf4cc8a0dc7848cdba820eb28c59250033c39dabb3a17ac4d356eda04500"
+    },
+    {
+      "chapter": 254,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第254章_拆栏旧板.md",
+      "sha256": "eb1539ad6296f8fb4a306e659ed9d1ac8af3b6e4bb0c31f40b2c6ace709bbe61"
+    },
+    {
+      "chapter": 255,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第255章_抬下去.md",
+      "sha256": "0fe5dbf585f926a788da2c88e7efbf84dd63705f9ce505e4194e7a97651a7ec1"
+    },
+    {
+      "chapter": 256,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第256章_门牌还留着.md",
+      "sha256": "d24912cda68c723c84b2671426b66ccb3c563e863f7eb81c8fe40af4ae792ff1"
+    },
+    {
+      "chapter": 257,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第257章_分人.md",
+      "sha256": "80c0345b69a2966deb48abc96989289a76ac1833a78876754765ce46998891fd"
+    },
+    {
+      "chapter": 258,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第258章_欠额不销.md",
+      "sha256": "4b288d5e7ac76826b18cc9919b2fff30baf5b7d52155cd9bf7b25d33721e8251"
+    },
+    {
+      "chapter": 259,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第259章_两日之内.md",
+      "sha256": "5a4479a6a97652c5b0f7788da1932df942caea89273682be0a21243a7f3a3206"
+    },
+    {
+      "chapter": 260,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第260章_桌上的译页.md",
+      "sha256": "09088dfbda753cbfdb9a9750de6e8bdcc8b327f3a153b924942ecae8905ac1b1"
+    }
+  ],
+  "source_digest": "c13d6bda5a020254f11b540669f5cc1de3484872c1ab630a9f56bc69416a6f08",
+  "scope": "251—260十章；范围外正文未审；只提出建议，不改正文",
+  "verdict": "needs_revision",
+  "issues": [
+    {
+      "id": "R008-B26-R01",
+      "severity": "中等",
+      "title": "四尺见方容不下成人平卧托板及换向",
+      "categories": [
+        "人物位置链",
+        "物件物理"
+      ],
+      "problem": "255把空屋地面定成四尺见方，却让成人始终平躺，整副托板入屋后再调头。正文没有另设尺制，也没有更长的实际净空；“正好”不能代替空间条件。",
+      "evidence": [
+        {
+          "chapter": 255,
+          "quote": "屋里地是干的，四尺见方，放一张托板正好。"
+        },
+        {
+          "chapter": 255,
+          "quote": "后端向前送，等整副板进屋才调头。"
+        }
+      ],
+      "action": "去掉与动作冲突的精确尺寸，写清可供整副平放、换向的长地；保留空板试行，不凭空增设新桥。",
+      "initial_issue_ids": [
+        "B26-02"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R02",
+      "severity": "中等",
+      "title": "三人写成四人，伤手仍托肩背",
+      "categories": [
+        "数字闭环",
+        "人体常识"
+      ],
+      "problem": "255只点出沈家儿子和两名修管工，共三人，却说四人用力；255/259又让虎口受伤者先托肩背，抵消同章“不算两双好手”的限制。四名健全修管工就在场，不必让伤者承担身体负载。",
+      "evidence": [
+        {
+          "chapter": 255,
+          "quote": "沈家儿子先托住肩背，修管班两个人托住腿和腰，四个人一起用力，像抬一张绷紧的板。"
+        },
+        {
+          "chapter": 259,
+          "quote": "沈家儿子托肩背，修管班两个人托腿和腰，林渡只在门内用右手扶正板尾，左肩避开横杠；出门前便交回修管工。"
+        }
+      ],
+      "action": "床边转移由在场四名修管工承担；林渡与沈家儿子只做不承重的接扶、理布，窄台仍前后两人。",
+      "initial_issue_ids": [
+        "B26-19"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R03",
+      "severity": "严重",
+      "title": "带尾交邵萍，与仅两人上窄台互相抵消",
+      "categories": [
+        "人物位置链",
+        "物件物理",
+        "人体常识"
+      ],
+      "problem": "先规定拦腰带尾在抬者手里，实际交邵萍并让她跟在侧后；下一段却说只有两名修管工出门，余人留门内。若她跟出，窄台多一人且侧向站位冲突；若留内，带尾随板如何通过不明。",
+      "evidence": [
+        {
+          "chapter": 255,
+          "quote": "拦腰带上好，绳头交到邵萍手里，松握着，不缠手腕。邵萍把小罐挎在自己肩上，跟在托板侧后。"
+        },
+        {
+          "chapter": 255,
+          "quote": "两名修管工一前一后抬着，余下的人留在门内。"
+        }
+      ],
+      "action": "按已有抬者持带规则指定后端抬者，邵萍明确在门内，解除第三人上窄台。",
+      "initial_issue_ids": [
+        "B26-02",
+        "B26-12"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R04",
+      "severity": "中等",
+      "title": "黑潮后半到棚与首夜前后半班不相接",
+      "categories": [
+        "时间口径",
+        "人体常识"
+      ],
+      "problem": "开篇已是黑潮过半才重抬，抵棚之后却回称前半夜一班已替她翻身。黑潮与半夜不是已定义的等值刻度，正文既未解释此处时段换算，也没写前半夜照护发生在空屋。后半夜只写换垫布，照护页却记翻身两回。不能代作者脑补第二次。",
+      "evidence": [
+        {
+          "chapter": 256,
+          "quote": "黑潮过半，才重新抬起邵萍母亲的托板，走第二段。"
+        },
+        {
+          "chapter": 256,
+          "quote": "照护夜班按名单守了两班：前半夜一班替她翻身，后半夜一班替她换垫布。"
+        },
+        {
+          "chapter": 256,
+          "quote": "翻身两回，都醒着。"
+        }
+      ],
+      "action": "保持D118黑潮到棚，首夜例外按抵达后两班接守写，不把首夜套回常规前半夜；明写两回翻身。",
+      "initial_issue_ids": [
+        "B26-11"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R05",
+      "severity": "中等",
+      "title": "传话后林渡无移动直接参加柜房对话",
+      "categories": [
+        "人物位置链"
+      ],
+      "problem": "256明确林渡和丁字三在原屋门口；随后只说丁把话带给柜上，林渡却直接回答原工，后又直接回值桌。259杜姨此前只有五层照护安排，在六层床边出现也没有同行交代。需最短位置桥，不新增她同时守五层的承诺。",
+      "evidence": [
+        {
+          "chapter": 256,
+          "quote": "丁字三把这话带给柜上那位当班的原工，原工听完摇头。"
+        },
+        {
+          "chapter": 256,
+          "quote": "“护得住的就护。”林渡说，“护不住的也写下来。”"
+        },
+        {
+          "chapter": 259,
+          "quote": "杜姨把鞋拾起来，装进一只布袋，挂在托板边上，袋口收紧，塞在老人的手底下。"
+        }
+      ],
+      "action": "补林渡随到柜房、返值桌；杜姨随转运队去并随老人回五层。",
+      "initial_issue_ids": [
+        "B26-14",
+        "B26-25"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R06",
+      "severity": "中等",
+      "title": "不许私占却变成柜上写名即可搬",
+      "categories": [
+        "制度规则",
+        "叙述因果"
+      ],
+      "problem": "林渡刚拒绝交片和重新分配，理由是父亲仍日日回屋；转头却许申请人只要柜上写名就搬，还说“屋子你们自己搬”。这不只是语气强硬，实际放宽了尚未核清的占屋条件，与结尾既不许占也不许销冲突。",
+      "evidence": [
+        {
+          "chapter": 256,
+          "quote": "柜上把你的名写上去，你再搬。"
+        },
+        {
+          "chapter": 256,
+          "quote": "“屋子你们自己搬。”林渡补了一句，“搬进去，也得搬得出来。”"
+        },
+        {
+          "chapter": 256,
+          "quote": "既不许占，也不许销"
+        }
+      ],
+      "action": "报名≠批准占屋；把柜上登记限定为申请，待原住户居住与物权核清前不得搬入。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R07",
+      "severity": "中等",
+      "title": "未派弥娅，却断言见证人只能从已派岗位抽",
+      "categories": [
+        "主动选择",
+        "知识来源",
+        "叙述者翻译与辩护"
+      ],
+      "problem": "正文特写弥娅未被点名，却直接用“进去的只能是干活的那几个人之一”排除她，门房三规没有这条。押物只要求可认领，亦没给只收生产工具或档片匣的条件。选择本可写不愿停核证、不愿承担押物风险；当前却假装客观无路可选。",
+      "evidence": [
+        {
+          "chapter": 257,
+          "quote": "人一个一个派完，账桌这边只剩弥娅没被点。"
+        },
+        {
+          "chapter": 257,
+          "quote": "进去的只能是干活的那几个人之一，今天这几处岗位一个也抽不出来"
+        },
+        {
+          "chapter": 257,
+          "quote": "你我手上能拿出去押的，只有吃饭的家伙。"
+        }
+      ],
+      "action": "保留错过当日窗口的已定结果，把弥娅的在岗事务和林渡拒绝调配写成主动取舍；不临添身份门槛或抵押估价规则。",
+      "initial_issue_ids": [
+        "B26-16"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": true
+    },
+    {
+      "id": "R008-B26-R08",
+      "severity": "中等",
+      "title": "第三箱仍被叙述者坐实",
+      "categories": [
+        "信息释放顺序",
+        "知识来源"
+      ],
+      "problem": "259呈请已从三箱改为这些箱子，但258现场仍称“第三只”，随后才说被遮挡、一闪即逝。“见二疑三”的疑不能由下一段倒补成叙述者先验知道。",
+      "evidence": [
+        {
+          "chapter": 258,
+          "quote": "第三只被别的东西挡住了，只在光边闪过一下，就没有了。"
+        }
+      ],
+      "action": "第三处只写可见轮廓，明确不能确认是箱；保留两只确认与第三疑似。",
+      "initial_issue_ids": [
+        "B26-26"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R09",
+      "severity": "中等",
+      "title": "静止门框被当成时间上轮声分格的原因",
+      "categories": [
+        "感官依据",
+        "物件物理"
+      ],
+      "problem": "轮声先由轮子碾板缝解释，后又变成隔两道静止门框所以一格一格。门框造成遮挡衰减不等于轮子逐次碾缝的节律；两个原因混为一谈，削弱据声记班的可信度。",
+      "evidence": [
+        {
+          "chapter": 258,
+          "quote": "声音过一道框，闷一下，过一道框，又闷一下，所以听着是一格、一格，不是连成一串。"
+        }
+      ],
+      "action": "将门框写为声音闷的来源，将一格一格仍归给实际滚轮与板缝；不推断箱子用途。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R10",
+      "severity": "中等",
+      "title": "送前端入屋却让屋内人先接后端",
+      "categories": [
+        "人物位置链",
+        "物件物理"
+      ],
+      "problem": "255已把可行路线明确为屋内接前端、后端随后进屋。259复用同一路线却写屋里的人接后端，后端此刻还在窄台上，直接倒置交接动作。",
+      "evidence": [
+        {
+          "chapter": 259,
+          "quote": "前端先送进空屋。屋里的人接住后端，等整副托板落平才换向。"
+        }
+      ],
+      "action": "逐字改为先接前端、再等后端入门。",
+      "initial_issue_ids": [
+        "B26-02",
+        "B26-25"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R11",
+      "severity": "中等",
+      "title": "歇台两块承人板无可核来源，下一句又成中间一块",
+      "categories": [
+        "数字闭环",
+        "物件物理",
+        "资源闭环"
+      ],
+      "problem": "254的十根已分为三根好料用于一副半、七根退料不得承人；257只补一根成为另一副。259忽然用两块拆栏旧板搭承人歇台，没有说明另取、来源或验载。不能自动断定用了坏板，也不能替作者变出好板。两块板之后又有“中间那一块”，三块垫石与板的指代混了。",
+      "evidence": [
+        {
+          "chapter": 259,
+          "quote": "两块拆栏旧板横铺在两级踏步上，板下垫了三块石头"
+        },
+        {
+          "chapter": 259,
+          "quote": "两头的板角不响，中间那一块响半声。"
+        }
+      ],
+      "action": "主笔确认是否另从尚未拆尽的废栏取两块；若是，补取材与试压，并回填新增取材，不动七根退料；中间改指支点。",
+      "initial_issue_ids": [
+        "B26-07",
+        "B26-25"
+      ],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": true
+    },
+    {
+      "id": "R008-B26-R12",
+      "severity": "中等",
+      "title": "五项待办被写成五笔候料，同量比较失真",
+      "categories": [
+        "数字闭环",
+        "制度规则",
+        "资源闭环"
+      ],
+      "problem": "原三笔维修再加靠海换板是一笔新增维修，拉料两趟是用工项目，不是第五笔待修物。把五行全部叫候料，再和材料够一笔半相比，读者无法知道缺的是三笔半维修还是包括运料工时。旧台账也这样写，不能据旧错恢复正当性；五项义务都应保留。",
+      "evidence": [
+        {
+          "chapter": 260,
+          "quote": "候料从三笔变成五笔，缺的还是那些人手和那些料。"
+        },
+        {
+          "chapter": 260,
+          "quote": "“五笔候料，够一笔半。”林渡把这句话记在单子底下。"
+        }
+      ],
+      "action": "分开四笔维修候料和一项运料用工，总待办仍五项；够一笔半只比较维修用料，两个工班另记，不删债。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R13",
+      "severity": "中等",
+      "title": "拒匀水的受保护人从已迁者滑回六层",
+      "categories": [
+        "主语指代",
+        "制度规则"
+      ],
+      "problem": "建议匀的是已下迁者仍挂原号的份，林渡却用“人还在六层门后”反驳。此前明确人移、份按原号继续给本人；若说留六层的父亲，须讲清同户未迁成员的份不能冒充已迁者重复份。不能含糊制造第二份可用水。",
+      "evidence": [
+        {
+          "chapter": 260,
+          "quote": "下来的人原号上还挂着份，从那一份里匀两壶出来补，账上就平了。"
+        },
+        {
+          "chapter": 260,
+          "quote": "号上那份人还在六层门后头站着，他的水一分没多。"
+        }
+      ],
+      "action": "直接指出已迁人的原号份仍给本人，未迁家人也未多水，两边都不能当余量。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R14",
+      "severity": "轻微",
+      "title": "晒面参照不明、湿痕像木材回弹、越界替配角判理解",
+      "categories": [
+        "感官依据",
+        "光影与能力边界",
+        "全知情绪与动机解说"
+      ],
+      "problem": "254旧版光钻木心已删除，不再以此阻断；现稿背面/正面与晒面/阴面没有统一，尾部“印子平了”可误读为木材凹痕自复原。限知叙述直接说沈家儿子没听懂，而非给问话或动作。",
+      "evidence": [
+        {
+          "chapter": 254,
+          "quote": "晒透了，背面先干，正面还涨着"
+        },
+        {
+          "chapter": 254,
+          "quote": "沈家儿子没听懂线是什么线。林渡懂。"
+        },
+        {
+          "chapter": 254,
+          "quote": "板面发凉，手指抬起时留下的印子，一会儿就平了。"
+        }
+      ],
+      "action": "统一晒面与背阴面；只让水痕散去；把配角理解状态落成提问。",
+      "initial_issue_ids": [
+        "B26-09"
+      ],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R15",
+      "severity": "轻微",
+      "title": "认得住笔误与合页重复",
+      "categories": [
+        "同构句和匀称段落",
+        "动作罗列流水账"
+      ],
+      "problem": "252连续合页两次，第二次没有新结果；“只认得住了”拗口且像把门牌当住处。",
+      "evidence": [
+        {
+          "chapter": 252,
+          "quote": "只认得住了一张门牌和一双布鞋。"
+        },
+        {
+          "chapter": 252,
+          "quote": "再把圈页合上。她轻轻合上圈页，页脚留出半指宽的缝。"
+        }
+      ],
+      "action": "保留一次合页与页缝结果；修正认得。",
+      "initial_issue_ids": [
+        "B26-31"
+      ],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R16",
+      "severity": "轻微",
+      "title": "253叙述翻译、重复数九与跨段回话",
+      "categories": [
+        "叙述者翻译与辩护",
+        "验证动作重复",
+        "主语指代"
+      ],
+      "problem": "吃什么已是具体问题，无须作者宣布实在；戊字一数九后弥娅重复同样五加四，未体现不同核证对象；竖线又靠老记法解释。插入长段后单独“不”难立即回指裴七日期。",
+      "evidence": [
+        {
+          "chapter": 253,
+          "quote": "这句问的是实在事。林渡没答水，答的是班："
+        },
+        {
+          "chapter": 253,
+          "quote": "抱在怀里，算是答了。"
+        },
+        {
+          "chapter": 253,
+          "quote": "弥娅在另一边把九口从头数了一遍：卧床五个，孩子四个，一个不多，一个不少。"
+        },
+        {
+          "chapter": 253,
+          "quote": "竖线是她的老记法：核过一份画一道；这一道后面还留着一处要回头问。"
+        },
+        {
+          "chapter": 253,
+          "quote": "“不。”林渡说，“今天只剩半天，明天一过就是旬头。”"
+        }
+      ],
+      "action": "让答话直接给解决办法；弥娅改核人/片状态栏，与数头分工；日期回话点名裴七。",
+      "initial_issue_ids": [
+        "B26-31",
+        "B26-32"
+      ],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R17",
+      "severity": "轻微",
+      "title": "页缝再次解释未算完",
+      "categories": [
+        "叙述者翻译与辩护"
+      ],
+      "problem": "257已经写明窗口未用和圈，后又解释合页留缝等于未算完，与252符号段重复。",
+      "evidence": [
+        {
+          "chapter": 257,
+          "quote": "合页的时候留出半指宽的缝——那一页没算完，她留着缝。"
+        }
+      ],
+      "action": "保留物件状态，不再译给读者。",
+      "initial_issue_ids": [
+        "B26-31"
+      ],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R18",
+      "severity": "轻微",
+      "title": "258未完家什说搬完、无出处六趟及三个字、重复水数",
+      "categories": [
+        "数字闭环",
+        "感官依据",
+        "叙述者翻译与辩护",
+        "验证动作重复"
+      ],
+      "problem": "午前写已搬完自家东西，午后继续搬床、260仍有零碎；六趟家什没交代是实做还是累计，不能用既有四趟计划脑补；三个字实际指三项。水数同章反复三次没有新增比较。",
+      "evidence": [
+        {
+          "chapter": 258,
+          "quote": "对面楼那家的男人搬完了自家东西"
+        },
+        {
+          "chapter": 258,
+          "quote": "天天接几滴气。"
+        },
+        {
+          "chapter": 258,
+          "quote": "两张板、六趟家什、十一口新名单、二十壶旧欠。"
+        },
+        {
+          "chapter": 258,
+          "quote": "头一个字记起，末一个字记止，中间记数。"
+        },
+        {
+          "chapter": 258,
+          "quote": "把这三个字默了两回"
+        },
+        {
+          "chapter": 258,
+          "quote": "本班六十壶照发，病幼二十壶照单，成人六十人各两平勺。"
+        }
+      ],
+      "action": "把完成范围限于一趟，未核趟数改为尚未完项；气不能计滴；起止和数按实际顺序说明；第三遍水数保留未销的动作。",
+      "initial_issue_ids": [
+        "B26-17",
+        "B26-32"
+      ],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R19",
+      "severity": "轻微",
+      "title": "锈味和海气熏黑未落实到物质来源",
+      "categories": [
+        "感官依据"
+      ],
+      "problem": "251风里铁锈味与256海气熏黑把锈层、湿气和气味/烟熏混写；没有必要替这些细节补造化学来源。",
+      "evidence": [
+        {
+          "chapter": 251,
+          "quote": "井下有风，风里带着铁锈味，井壁挂着一层盐白"
+        },
+        {
+          "chapter": 256,
+          "quote": "号码让海气熏得发黑"
+        }
+      ],
+      "action": "落到锈屑与盐霜可见状态，门牌只写污黑，不无依据归因海气。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R20",
+      "severity": "中等",
+      "title": "腐空顶梁柱旁的临时短撑返还条件缺失",
+      "categories": [
+        "物件物理",
+        "资源闭环"
+      ],
+      "problem": "顶梁柱底已泡空，拆板先加承重短撑合理；但阿九说撑完可收，末账又用后返还，没有说明原受力体系何时另行验稳。此处未实写已经返还，故不判短撑凭空消失；必须限制返还条件，不能让拆完等于不用再承梁。",
+      "evidence": [
+        {
+          "chapter": 254,
+          "quote": "“这根底下泡空了。”阿九把手收回来，“它顶着梁。”"
+        },
+        {
+          "chapter": 254,
+          "quote": "撑完还能收回来。"
+        },
+        {
+          "chapter": 254,
+          "quote": "短撑一根，用后返还；"
+        }
+      ],
+      "action": "明确短撑暂留、只在梁下另验稳后才能返还；借用未销继续占用。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": true,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R21",
+      "severity": "轻微",
+      "title": "258灯与轮声连续反向解释",
+      "categories": [
+        "不是A而是B的连续解释",
+        "同构句和匀称段落"
+      ],
+      "problem": "同一观察段连续用不是全亮/不是轮子碾土的纠偏句，无角色误判作为参照。直接呈现小口漏光和板缝顿响更清楚，保留后续箱数的不确定性。",
+      "evidence": [
+        {
+          "chapter": 258,
+          "quote": "不是全亮，是廊子尽头某一处开了一扇小口"
+        },
+        {
+          "chapter": 258,
+          "quote": "不是木头轮子碾土，是轮子压在有缝的板上，一格，一格。"
+        }
+      ],
+      "action": "这一段改直接感官来源，避免对不存在的误解连续辩解。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    },
+    {
+      "id": "R008-B26-R22",
+      "severity": "轻微",
+      "title": "说完就不说与空格格言重复",
+      "categories": [
+        "叙述者翻译与辩护",
+        "动作罗列流水账"
+      ],
+      "problem": "260说完就不说没有新增观察，格子空着比填错好重复256的作者总结；当场移笔留下空格即可表现。",
+      "evidence": [
+        {
+          "chapter": 260,
+          "quote": "戊字一说完就不说了。格子空着，比填错好。"
+        }
+      ],
+      "action": "让空格作为结果，删同义总结。",
+      "initial_issue_ids": [],
+      "status": "open",
+      "blocking": false,
+      "requires_author_confirmation": false
+    }
+  ]
+}

@@ -1,0 +1,1662 @@
+{
+  "batch": "R005-B11",
+  "phase": "recheck2",
+  "review_date": "2026-11-07",
+  "writer": "R005-main",
+  "reviewer": "01a1b3d0-dd0f-76f2-9300-fb7115bccc61",
+  "reviewer_identity_source": "CODEX_THREAD_ID（本轮exec环境核验）",
+  "body_first": true,
+  "independent": true,
+  "independence_note": "同一独立审读者未参与正文修稿；本轮101—110全文先于edits/旧报告对照。已保有首轮知识，不冒充失忆的新首次读者。",
+  "verdict": "issues",
+  "checkpoint": "pending-author",
+  "checkpoint_note": "仍有未解决正文安全项及待作者事实；pending-author不是所有安全项已关，也不是pass。",
+  "manuscripts": [
+    {
+      "chapter": 101,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "sha256": "014cdb954d1846ced0fb2266ffb563e0c108079aee9baceef6a19304d1cdd056"
+    },
+    {
+      "chapter": 102,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "sha256": "f32a0b5147d8d3c603a4af36d9b9ff5eaba065d75db97dee86a967d19440f964"
+    },
+    {
+      "chapter": 103,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "sha256": "f907ce5153999c2d98f63a0a24837dea2ac81e60270e3a8021d8baf8facd3d7c"
+    },
+    {
+      "chapter": 104,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "sha256": "97d0f9cfec8b8e0cfda5f560bfb72e3d571cd07db1d80b869063d3ec4f9738a2"
+    },
+    {
+      "chapter": 105,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "sha256": "fb5ba9a2bf84f7238b17e93fbff792b210953978ce8c6b2251a018afaf4e2b7e"
+    },
+    {
+      "chapter": 106,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "sha256": "b8bacc19413e5d8c1c3d020e6ac8ba6a67cc82182f3f34e88ea6883822da6971"
+    },
+    {
+      "chapter": 107,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "sha256": "57b5b82d6f969f051002fa18d02ebea6d6c922e1ac1860c06eab2dcb304f7537"
+    },
+    {
+      "chapter": 108,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "sha256": "3c0b29e9b100717f588cc61314d4fb1f02902979dc30da40fb248f64b5ea7d1e"
+    },
+    {
+      "chapter": 109,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "sha256": "5508406e887478a2833800d776e6a04434051111b1e78d56f35b7b945ae887a9"
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "sha256": "f84b465d91ddc2c59b0610096bdef350747c0a2bb13a0b4d55fcccf5a2002e5d"
+    }
+  ],
+  "input_digest": "0633d33b0731fa95890618e357f2e15de071d93504f00beb53e1ac1dbc40d1ff",
+  "digest_algorithm": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode())；按101—110排序，每项仅chapter/path/sha256，默认分隔符",
+  "previous_input_digest": "4ee24e63e6ac827e224eaccee4097d3dbd882cf3ec64b0e8113d9a4043eeb8e2",
+  "initial_input_digest": "affda7120e44856ce84c061d11fdfbfa4b82a6d0e16565048bd1a569fa4dd673",
+  "issue_results": [
+    {
+      "id": "R005-B11-I01",
+      "chapter": 109,
+      "severity": "中等",
+      "title": "手摇灯被写成燃烧灯，照护与探路交接缺口",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "临走前，他向小石接过冷凝灯。麦穗把孩子收拢在伤员身边，照护的人贴近各自看管的睡位，约好灯送回前不再挪人；林渡应了，才提灯跟上岑野。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "临走前，他向小石接过冷凝灯。麦穗把孩子收拢在伤员身边，照护的人贴近各自看管的睡位，约好灯送回前不再挪人；林渡应了，才提灯跟上岑野。"
+        },
+        {
+          "chapter": 110,
+          "quote": "只有井道口那盏手摇冷凝灯挪到了廊里，小石缓着手柄，只维持够点名的亮度。"
+        }
+      ],
+      "problem": "唯一灯的借出及无灯期间贴身照护已落地；仍用摇柄和绳头探风，没有复活灯芯或第二盏灯。关闭原物性及交接问题，不等于批准后续转运。",
+      "suggestion": "保留借灯、原地照护和摇柄限制，不新增灯具或供能。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I02",
+      "chapter": 108,
+      "severity": "严重",
+      "title": "木箱区—第一根立柱—柜影—短避点四跨关系冲突",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "那处短避点离柜影隔着四跨梁，担架不能为每一口水来回抬。",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "那处短避点离柜影隔着四跨梁，担架不能为每一口水来回抬。"
+        },
+        {
+          "chapter": 102,
+          "quote": "要抬的三副担架还留在木箱区。到立柱这一段，中间横着四跨梁"
+        },
+        {
+          "chapter": 108,
+          "quote": "裴七和另两名卧床伤员被安顿到护线另一端的立柱后"
+        }
+      ],
+      "problem": "拥挤导致迁移已经写出，仍未说明护线另一端究竟是102木箱区端还是另一处柱后。四跨护线从原木箱区引出，回原端的避喷流条件或新端位置都不能由读者补齐。",
+      "suggestion": "作者确认既有护线两端、柱位与喷流遮蔽条件，再落一句方位承接；不创造新平台或任意缩短四跨。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I03",
+      "chapter": 105,
+      "severity": "中等",
+      "title": "上层值班工突然看见柜口纸页，108又跳到台前",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "杜姨把册子递进窗孔，替班接过去，沿竖管旁的检修路送上平台。",
+      "evidence": [
+        {
+          "chapter": 105,
+          "quote": "杜姨把册子递进窗孔，替班接过去，沿竖管旁的检修路送上平台。"
+        },
+        {
+          "chapter": 108,
+          "quote": "丙七从上层下来时，林渡把册子翻到伤口栏那一页，摊在小台上"
+        },
+        {
+          "chapter": 108,
+          "quote": "岑野在第二趟送水时歇在柜影这头，第三趟他跟着那个居民同行"
+        }
+      ],
+      "problem": "本版仍写册子上送/返还；108丙七从上层下来后才看纸，岑野第二趟在柜影、第三趟随行。相关位置跳接未复发。",
+      "suggestion": "保留纸册与人员往返，不以本项关闭短避点方位问题。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I04",
+      "chapter": 104,
+      "severity": "严重",
+      "title": "17名新救儿童子组被表述为全部儿童",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "长屋和船舱接出来的孩子，两组合计十七个，另来的照原册分开核。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "长屋和船舱接出来的孩子，两组合计十七个，另来的照原册分开核。"
+        },
+        {
+          "chapter": 110,
+          "quote": "长屋和船舱两组的十七个孩子，换班时逐个应名；别组仍对原册交接，不能拿这十七个抵掉。"
+        }
+      ],
+      "problem": "17已限定为长屋与船舱两个新救子组；110明确别组另对原册，不能拿17抵掉。105简写“孩子十七个”紧承这页当轮水账，现不再单凭它判全体儿童总数。关闭本项范围误写，不确认全队48或别组精确总量。",
+      "suggestion": "保留分来源逐名核对。未来回填仍不得将17替代所有儿童。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I05",
+      "chapter": 104,
+      "severity": "严重",
+      "title": "旧章卡及资源台账约48混口径依赖尚未裁定",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "长屋和船舱接出来的孩子，两组合计十七个，另来的照原册分开核。伤员抬着的三副。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "长屋和船舱接出来的孩子，两组合计十七个，另来的照原册分开核。伤员抬着的三副。"
+        }
+      ],
+      "problem": "这是正文人数接口，不是正文报48错误。旧章卡/资源表约48的混口径及R004跨范围依赖，本轮未获新裁定或回填纠正证据；17限定修好不能使48自动闭合。",
+      "suggestion": "作者/主线程裁定旧回填统计口径。保持来源与状态分别核，不补人、不造伤亡失联凑48。",
+      "needs_author_decision": true,
+      "issue_scope": "旧回填与跨范围依赖；当前正文没有报48",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I06",
+      "chapter": 105,
+      "severity": "中等",
+      "title": "已知失联者姓名被空行逻辑抹去",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "人没回来，归队栏不填，原有的名字和来处照留。",
+      "evidence": [
+        {
+          "chapter": 105,
+          "quote": "人没回来，归队栏不填，原有的名字和来处照留。"
+        },
+        {
+          "chapter": 101,
+          "quote": "原先记下的名字和来处不擦。"
+        },
+        {
+          "chapter": 110,
+          "quote": "失联的两行保留姓名与来处，归队栏照旧空着。"
+        }
+      ],
+      "problem": "101、105、110现在都保留姓名来处，只空归队栏；两起失联未合并，男孩自填名字的空格另有独立用途。",
+      "suggestion": "保持两个失联事件独立，与男孩姓名空格分开。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I07",
+      "chapter": 108,
+      "severity": "中等",
+      "title": "三位卧床成人加两孩的指代算术错误",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "留在短避点的三个大人、两个孩子，就够不着水了。",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "留在短避点的三个大人、两个孩子，就够不着水了。"
+        }
+      ],
+      "problem": "仍明确三卧床成人加两名儿童，旧三个人/两张嘴指代问题不再存在。",
+      "suggestion": "保留分列，本项不确认全队总数。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I08",
+      "chapter": 102,
+      "severity": "中等",
+      "title": "担架过跨计次和落位重复",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "槐七把第三副接到它们后头，沿山壁纵着放",
+      "evidence": [
+        {
+          "chapter": 102,
+          "quote": "槐七把第三副接到它们后头，沿山壁纵着放"
+        },
+        {
+          "chapter": 102,
+          "quote": "最后一副担架过跨时，第二批船的喷流到了。"
+        }
+      ],
+      "problem": "三副逐次过跨、两副并排加第三副纵放仍可追踪，不是容量凭空多一副。初审111卧床四人边界未在本轮复查，不归本项关闭。",
+      "suggestion": "保留过跨次序及通道；111由对应范围核。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I09",
+      "chapter": 109,
+      "severity": "严重",
+      "title": "跨日、班次与清场截止未形成同一时钟",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "明早清场广播再响之前，开始转人。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "明早清场广播再响之前，开始转人。"
+        },
+        {
+          "chapter": 107,
+          "quote": "清场作业按灯序实施。"
+        },
+        {
+          "chapter": 107,
+          "quote": "这条广播从昨天就播。"
+        },
+        {
+          "chapter": 110,
+          "quote": "那段耽搁耗掉了原留给转运的小半个班。"
+        }
+      ],
+      "problem": "107广播一直循环且清场按灯序；109为何可等次晨仍无可知余量。106紧接107的跨日参照、热时与班次仍未统一；110“昨天”不能倒替这些环节补时钟。不是要求随意新增宽限。",
+      "suggestion": "作者给出既有日次/班次口径及清场安全截止依据，主笔据此补人物能知道的参照；不得编停机期或延长清场。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I10",
+      "chapter": 110,
+      "severity": "中等",
+      "title": "先写全队三批完成，再回到半途未标回叙",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "方才第一批孩子过缝时，曾出了一个小岔子。",
+      "evidence": [
+        {
+          "chapter": 110,
+          "quote": "方才第一批孩子过缝时，曾出了一个小岔子。"
+        },
+        {
+          "chapter": 110,
+          "quote": "由麦穗和小石每人每趟带三个，送到井口交给接应的成人，再回来领下一拨"
+        }
+      ],
+      "problem": "多轮领送和“方才”回叙仍在；不再全队三批结束后无标记跳回半途。耽搁时长是否合理仍归I09。",
+      "suggestion": "保留回叙标识和井口成人接应，不替转运安全签字。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I11",
+      "chapter": 109,
+      "severity": "严重",
+      "title": "拳头尺度检修口与上半身探入不相容",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "最后让槐七托住灯，自己贴着口沿侧过脸，从灯边留下的空隙往下看。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "最后让槐七托住灯，自己贴着口沿侧过脸，从灯边留下的空隙往下看。"
+        }
+      ],
+      "problem": "小口只伸灯并侧脸观察，没有上半身进入拳头大孔的尺度矛盾。",
+      "suggestion": "保留尺寸限制，不把检修口补成人孔。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I12",
+      "chapter": 110,
+      "severity": "严重",
+      "title": "卧床伤员在竖吊途中自撑下梯，保护与代价不足",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "他不能用左腿，可他有两条胳膊，脚踩稳台阶，撑着担架沿一级一级往下挪，蹭完二十一级，比吊着快。",
+      "evidence": [
+        {
+          "chapter": 110,
+          "quote": "他不能用左腿，可他有两条胳膊，脚踩稳台阶，撑着担架沿一级一级往下挪，蹭完二十一级，比吊着快。"
+        },
+        {
+          "chapter": 108,
+          "quote": "一个腿不能弯，两个发热。"
+        },
+        {
+          "chapter": 110,
+          "quote": "后面两个卧床伤员，能挪的都学他，只剩一个昏沉的，仍用担架吊。"
+        }
+      ],
+      "problem": "竖吊七八级后改自撑的核心仍在。卧床、左腿不能弯的约束没有被稳定接手、体位与承力说明满足，后两名还仿效更快；不能以胳膊存在或积极意志替代受伤限制。两绳轮换也不能自动证明吊具稳定。",
+      "suggestion": "待既有空间、人手、绳长可行方案：保留受助转运与伤腿限制，停稳接手写清；不能只加疼痛、勇敢或一句“绑牢”。若须新设备/改基本路线再交作者。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I13",
+      "chapter": 109,
+      "severity": "严重",
+      "title": "空载试探与林渡亲下相撞，左手不能替代左肩承力",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "掌伤在右手。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "掌伤在右手。"
+        },
+        {
+          "chapter": 106,
+          "quote": "他左臂使不上力，只能用右肩找平"
+        },
+        {
+          "chapter": 109,
+          "quote": "抓梯用左手。"
+        },
+        {
+          "chapter": 109,
+          "quote": "左肩每换一次手都牵得生疼，他放慢换手的节奏，把重心尽量交给双腿。"
+        }
+      ],
+      "problem": "空灯先探子项保持关闭；106明确左臂使不上力，109却继续以“抓梯用左手”解决右掌伤。减慢换手、疼痛、重心交双腿不交代失力左侧怎样维持抓持及腰绳是否承担保护。",
+      "suggestion": "按现有人手重排探路/辅助，明确受助和左侧限制；不得以左右互换宣告恢复。方案未落正文前继续open。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I14",
+      "chapter": 106,
+      "severity": "中等",
+      "title": "顶料不用肩与立即左肩顶料相撞，换手承接不足",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "我的右肩不能举，只能用左边接一小段。吊绳别松，两边继续扶料。",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "我的右肩不能举，只能用左边接一小段。吊绳别松，两边继续扶料。"
+        }
+      ],
+      "problem": "林岑右肩禁用、左侧只短接，吊绳和两侧扶料均已建立并保留牵痛。按小说给定连续性关闭；不是现实载荷鉴定，更不是林渡左臂已恢复的依据。",
+      "suggestion": "保留右肩固定与有限支护；不扩大到长时承力能力。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I15",
+      "chapter": 104,
+      "severity": "严重",
+      "title": "开封水的感官观察被写成完整可饮证明",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "矿物析出，水本身没坏。静一静，取上头清的，温过再给幼儿",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "矿物析出，水本身没坏。静一静，取上头清的，温过再给幼儿"
+        },
+        {
+          "chapter": 104,
+          "quote": "四只瓮里有一只的纸印缺了角"
+        },
+        {
+          "chapter": 104,
+          "quote": "她懂水。"
+        }
+      ],
+      "problem": "删闻/晃重复只改善文风。缺角封印瓮的浑水白痕仍被直接保证没坏并供幼儿饮用，外观与“她懂水”不足构成文内保管、处理和开封安全链。",
+      "suggestion": "先撤仅凭外观保证可饮的断言；作者确认现有来源及处理依据，不能另造净化器、备用水或超常辨水能力。未决时不签可饮通过。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I16",
+      "chapter": 104,
+      "severity": "中等",
+      "title": "正文管壁温水与已发生回填烧水相冲突",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "管壁温而不烫，温到水匀了才端开。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "管壁温而不烫，温到水匀了才端开。"
+        }
+      ],
+      "problem": "正文有温管壁热源，不应再报“完全无能源”。温热不等于烧开或净化；与初审已核旧回填“烧过”的差异尚无本轮纠正证据。",
+      "suggestion": "保留现有温水物性，作者/主线程核旧回填温/烧口径；可饮另归I15，不倒造热能电池。",
+      "needs_author_decision": true,
+      "issue_scope": "正文温水与旧回填术语依赖，旧表当前字节未重查",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I17",
+      "chapter": 104,
+      "severity": "严重",
+      "title": "防暑盐块与伤口盐药按半包折算，功能越界未裁定",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "化在水里能顶半包药。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "化在水里能顶半包药。"
+        },
+        {
+          "chapter": 104,
+          "quote": "柜上防中暑的。"
+        },
+        {
+          "chapter": 104,
+          "quote": "上药的、隔布的，都在里头。"
+        }
+      ],
+      "problem": "前接给祝衡换布与半包外用药，后给两粒防暑盐块，仍把防暑用途与外伤药包混折。单独包写丙七账没有澄清功能与量的替代关系。",
+      "suggestion": "两粒独立记来源和用途，不补成外伤药余量；作者裁定既有盐药范围及旧回填，不能设万能配方。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I18",
+      "chapter": 108,
+      "severity": "中等",
+      "title": "罐底同一余水先留咳孩后分居民",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "罐底留给守短避点的居民。",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "罐底留给守短避点的居民。"
+        },
+        {
+          "chapter": 108,
+          "quote": "喂完后罐底还剩一层水，她没有倒掉，摇匀了，给守短避点的居民分了。"
+        }
+      ],
+      "problem": "余水预留和实际分给的都是守点居民，分完才标空，未恢复“一份余水两用”。",
+      "suggestion": "保留单一去向；不据此推算额外库存。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I19",
+      "chapter": 107,
+      "severity": "中等",
+      "title": "饮水补给到手与容器转用缺少承接",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "水从碗沿倾出，碗不碰伤口，擦过的布也不回碗里蘸；淌下来的污水落在地上，不能接回饮用栏",
+      "evidence": [
+        {
+          "chapter": 107,
+          "quote": "水从碗沿倾出，碗不碰伤口，擦过的布也不回碗里蘸；淌下来的污水落在地上，不能接回饮用栏"
+        },
+        {
+          "chapter": 109,
+          "quote": "先喝了半口水，是杜姨从这一班刚领的份里倒给他的"
+        },
+        {
+          "chapter": 110,
+          "quote": "把这一班领水装的那只壶递过去。"
+        }
+      ],
+      "problem": "107碗只倾清水、不触伤、不回蘸旧布；109到手水和110递壶均明确本班已领份。关闭旧库存复活疑虑与容器接污的叙事缺口，不代表水源/消毒现实鉴定通过。",
+      "suggestion": "保留清水流向及本班份额；继续将I15源水安全与本项分开。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I20",
+      "chapter": 108,
+      "severity": "中等",
+      "title": "叫不醒与可直接喂水的状态跳变",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "两个孩子醒过来，能自己捧碗了，才各分两口",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "两个孩子醒过来，能自己捧碗了，才各分两口"
+        }
+      ],
+      "problem": "仍是清醒并能捧碗后分水，不是叫不醒直接强喂。",
+      "suggestion": "保留状态先行；不连带关闭I15。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I21",
+      "chapter": 108,
+      "severity": "中等",
+      "title": "光从街面上扫，影子却被总结为甩回街面",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "这一跨，人影会落到上面的山壁。",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "这一跨，人影会落到上面的山壁。"
+        },
+        {
+          "chapter": 108,
+          "quote": "罐子的影子被拉长，贴着护线内侧滑出去，在山壁上拖成细细一条"
+        }
+      ],
+      "problem": "第三趟实际落影与回报已同为山壁。前段丙七讲路线一般风险用箱壁，非声称此跨实际影面，现不再把两处照搬判冲突。",
+      "suggestion": "保留具体这一跨的影面及先报验；不移动光源。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I22",
+      "chapter": 109,
+      "severity": "中等",
+      "title": "刚约定先验路线，下一趟已擅自换路",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "岑野把第三趟遇灯的事报给丙七，再带他核过外侧那道缝，送水才改了线。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "岑野把第三趟遇灯的事报给丙七，再带他核过外侧那道缝，送水才改了线。"
+        }
+      ],
+      "problem": "实际先报告并现场核验，再改路线，符合108约定。",
+      "suggestion": "保留顺序；不能据此签I02全部方位。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I23",
+      "chapter": 109,
+      "severity": "中等",
+      "title": "报废方头之后仍退螺栓，实际用具不明",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "他卸下滚圆的接头，改用扳手的咬口卡住螺母，先敲松锈，再退半圈、回半圈，一点一点往外磨。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "他卸下滚圆的接头，改用扳手的咬口卡住螺母，先敲松锈，再退半圈、回半圈，一点一点往外磨。"
+        }
+      ],
+      "problem": "废接头没有继续工作，已有扳手咬口替代并付时间成本。",
+      "suggestion": "保留工具损失，不恢复完好数量。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I24",
+      "chapter": 103,
+      "severity": "中等",
+      "title": "同一道盖板先是门脸，后变三层储物柜",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "盖板后正对着一条窄廊的门脸，储物格另在旁边，仍隔着一道锁住的内盖。",
+      "evidence": [
+        {
+          "chapter": 103,
+          "quote": "盖板后正对着一条窄廊的门脸，储物格另在旁边，仍隔着一道锁住的内盖。"
+        },
+        {
+          "chapter": 104,
+          "quote": "他转到矮门旁的储物格前，用另一枚更长的钥匙开内盖。"
+        }
+      ],
+      "problem": "外盖、通廊矮门、储物内盖仍分开；104开内盖能与103衔接。",
+      "suggestion": "保留结构区别及盖板状态。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I25",
+      "chapter": 105,
+      "severity": "中等",
+      "title": "工时单收走后又在林渡手中，无返还",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "他把填过的项目抄进工班簿，再让替班把单子递还林渡。",
+      "evidence": [
+        {
+          "chapter": 105,
+          "quote": "他把填过的项目抄进工班簿，再让替班把单子递还林渡。"
+        }
+      ],
+      "problem": "签单上送、录簿、返还可回查，没有凭空多出副本。",
+      "suggestion": "保留原单返回与夹层持有。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I26",
+      "chapter": 106,
+      "severity": "中等",
+      "title": "正文已正确收裂尺，旧回填却塞进册页夹层",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "把裂尺擦了擦，用布片裹了贴身收好——尺身太长，册页夹层只放得下盐药和工时单。",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "把裂尺擦了擦，用布片裹了贴身收好——尺身太长，册页夹层只放得下盐药和工时单。"
+        }
+      ],
+      "problem": "正文收纳仍正确。待核的是初审旧人物/资源表“夹册”的纠正，本轮没有其当前字节或确认，不把依赖不明改写成正文错误。",
+      "suggestion": "主线程按正文核改旧回填并提供证据；不要让长尺塞回册页迁就旧表。",
+      "needs_author_decision": true,
+      "issue_scope": "仅旧回填纠正待确认，正文不需改",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I27",
+      "chapter": 101,
+      "severity": "中等",
+      "title": "广播编号相同被直接断言为读取手写册",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "这些号，我们是照腕片抄的。",
+      "evidence": [
+        {
+          "chapter": 101,
+          "quote": "这些号，我们是照腕片抄的。"
+        },
+        {
+          "chapter": 101,
+          "quote": "怎么连顺序都一样？还有谁拿着这一份？"
+        }
+      ],
+      "problem": "号码来源已由“给号”改为抄腕片，同序异常之后只追问谁拿着这一份；未断言广播远程读取纸册。追捕威胁的感受不再等同已知技术机制。",
+      "suggestion": "保留同号同序与疑问；不要在回填升级成机器读册定论。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I28",
+      "chapter": 103,
+      "severity": "中等",
+      "title": "旧模板日期再次变成孩子所属年代",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "片上的记录日期，是七年前。",
+      "evidence": [
+        {
+          "chapter": 103,
+          "quote": "片上的记录日期，是七年前。"
+        }
+      ],
+      "problem": "当前句仅指片上记录日期，不再将孩子年龄或归属年代直接判成七年前。本项狭义措辞保持关闭；模板真实年代、关押时长及作者层年代事实仍未裁定，不能借此签完整年代一致。",
+      "suggestion": "保持记录日期/模板/个人经历分层，作者未裁前不写七年囚禁或确定年龄。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I29",
+      "chapter": 102,
+      "severity": "中等",
+      "title": "痕迹被一步推成责任与动机真相",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "上头的水线在让劲，才会把水从接缝里挤出来。",
+      "evidence": [
+        {
+          "chapter": 102,
+          "quote": "上头的水线在让劲，才会把水从接缝里挤出来。"
+        },
+        {
+          "chapter": 104,
+          "quote": "我得上去看是接头松了，还是托梁在让劲。"
+        },
+        {
+          "chapter": 109,
+          "quote": "是不是同一批人干的，还得往里查。"
+        },
+        {
+          "chapter": 110,
+          "quote": "灯照出牌面朝向下行梯的斜角。"
+        }
+      ],
+      "problem": "104已把接头/托梁列为待检，109同批施工者和110牌意的证据层级亦改善。但本轮全文另见102仍以单因定论解释渗水，应与104待检层级一致；旧F15“两批人”已证实与否仍待裁，不能因正文降层就关闭旧依赖。",
+      "suggestion": "102可安全降为疑问或待检；旧F15/时间线由作者确认规划与已证实之别，不添加责任人或动机。",
+      "needs_author_decision": true,
+      "issue_scope": "102残余正文推断＋旧回填依赖",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json",
+      "subresults": [
+        {
+          "scope": "104/109/110原定位证据层级",
+          "status": "closed"
+        },
+        {
+          "scope": "102同类单因断语，本轮新定位，非确认修稿新增",
+          "status": "open"
+        },
+        {
+          "scope": "旧F15与时间线“两批人”实录依赖",
+          "status": "pending_author"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-I30",
+      "chapter": 110,
+      "severity": "中等",
+      "title": "男孩姓名隐私约定未发生就被转述",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "先别念。等我能站到门前自己念了，你们再念。",
+      "evidence": [
+        {
+          "chapter": 110,
+          "quote": "先别念。等我能站到门前自己念了，你们再念。"
+        }
+      ],
+      "problem": "男孩先亲口提出隐私条件，林栖再转述、杜姨再记录。信息来源完整，也兑现101姓名空格。",
+      "suggestion": "保留孩子自主权，不代他公布姓名。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I31",
+      "chapter": 102,
+      "severity": "轻微",
+      "title": "动宾与尺度参照错误",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "盖住自己腕上那枚早已不亮的印记。",
+      "evidence": [
+        {
+          "chapter": 102,
+          "quote": "盖住自己腕上那枚早已不亮的印记。"
+        },
+        {
+          "chapter": 106,
+          "quote": "他顶料的样子和别人不同"
+        }
+      ],
+      "problem": "原两处明确病句已改正：发亮对象是腕上印记，106比较对象是别人；103钥匙与109尺度旧修仍在。另发现的不同句语病归N04，不混作原句未修。",
+      "suggestion": "保留现有对象限定，不借修语病补履历。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I32",
+      "chapter": 106,
+      "severity": "中等",
+      "title": "林渡离开后叙述无人看见动作及他人心理",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "走到凹槽口，林渡听见短料擦过石壁，回头看了一眼。",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "走到凹槽口，林渡听见短料擦过石壁，回头看了一眼。"
+        },
+        {
+          "chapter": 108,
+          "quote": "这话由麦穗转述过去。"
+        }
+      ],
+      "problem": "106原无人可见动作已有林渡回头视线；108裴七的意思经麦穗转述，原定位保持关闭。N02的另一处习惯概括仍另报。",
+      "suggestion": "保留现场听见、看见、转述链。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I33",
+      "chapter": 105,
+      "severity": "轻微",
+      "title": "主题被叙述者重复翻译，挤弱事件尾钩",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "林栖本想跟上，听见竖管又颤了一声，便停在柜旁，扶住还没放稳的备料兜。",
+      "evidence": [
+        {
+          "chapter": 105,
+          "quote": "林栖本想跟上，听见竖管又颤了一声，便停在柜旁，扶住还没放稳的备料兜。"
+        },
+        {
+          "chapter": 105,
+          "quote": "泊位先不去了。"
+        }
+      ],
+      "problem": "原尾部双重纸绳主题翻译已撤，备料、震动、船灯现在把签名后果接到实际抢修选择；不是换一段同义道理。",
+      "suggestion": "保留既有物件与压力，不为字数补回主题解释。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I34",
+      "chapter": 106,
+      "severity": "轻微",
+      "title": "尾段维护动作清单与解释重复",
+      "previous_status": "closed",
+      "status": "closed",
+      "quote": "林岑已在新支架旁坐下，把短料竖在左脚边，左手去理右肩勒皱的固定带。",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "林岑已在新支架旁坐下，把短料竖在左脚边，左手去理右肩勒皱的固定带。"
+        }
+      ],
+      "problem": "尾段动作仍有伤势及父子不代劳的作用，接107待领水，而非无结果维护清单。",
+      "suggestion": "保留功能性动作，少添同义总结。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I35",
+      "chapter": 104,
+      "severity": "中等",
+      "title": "验水动作重复且闻的结果没有落地",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "丙七挑了那只缺角的，用刀沿灰纸裁开，倒出一小盏，放在灯下。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "丙七挑了那只缺角的，用刀沿灰纸裁开，倒出一小盏，放在灯下。"
+        },
+        {
+          "chapter": 104,
+          "quote": "弥娅把盏微微倾斜——水贴着盏壁淌下去，挂出一道白痕，慢慢退尽了，不拉稠丝。"
+        }
+      ],
+      "problem": "丙七开封倒样，弥娅倾盏观察流态/白痕；无结果嗅验及重复晃看已撤。只关闭动作分工与悬空嗅觉，不关闭“水没坏”的证据跳跃。",
+      "suggestion": "保留动作—可见结果；水质判断必须另待I15，不用更多检验动作装饰替代。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I36",
+      "chapter": 106,
+      "severity": "轻微",
+      "title": "同句像是重复而不承担痕迹推断",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "他对着摊开的册子说",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "他对着摊开的册子说"
+        },
+        {
+          "chapter": 103,
+          "quote": "窗孔里那声木器的轻响又来了一回。这一回林渡没有再敲，仍贴在窗侧听。"
+        }
+      ],
+      "problem": "双“像是”代分台词动机已撤；103第二声轻响现在使林渡停敲听候，不再重复猜换体位。功能性的尺度/方向推断不一概删除。",
+      "suggestion": "保留有结果的听候，别再追加同义动机。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-N01",
+      "chapter": 108,
+      "severity": "轻微",
+      "title": "路线口令的计时词不成立",
+      "previous_status": "open",
+      "status": "closed",
+      "quote": "影子甩出去之前，只有数到三的空当。绳结是认脚下落点的，别把步子走乱。",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "影子甩出去之前，只有数到三的空当。绳结是认脚下落点的，别把步子走乱。"
+        }
+      ],
+      "problem": "数拍作为时长、绳结作为位置分开，旧“三下结”单位已消除；不由此确认I09的日次/清场时钟。",
+      "suggestion": "保留口令与落点分工。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-N02",
+      "chapter": 105,
+      "severity": "中等",
+      "title": "丙七未说出的经历被叙述直接读取",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "这是丙七的习惯：话不说第二遍，东西先到位。",
+      "evidence": [
+        {
+          "chapter": 105,
+          "quote": "这是丙七的习惯：话不说第二遍，东西先到位。"
+        },
+        {
+          "chapter": 104,
+          "quote": "他的指头停在验工那栏，册子没推回来，话也没有立刻接。"
+        },
+        {
+          "chapter": 105,
+          "quote": "林渡没有追问。他顺着丙七指的方向看了看管子，把方才想站的位置让开。"
+        }
+      ],
+      "problem": "104“看过太多账”、105“事故见过不止一次”原定位已改成可见反应，均可关闭。但105本句仍由一次放备料直接概括丙七长期习惯，林渡没有已写出的知情来源；该残余本轮新定位，不认定修稿新增。",
+      "suggestion": "直接留布兜落柜口或明确限于这一次的观察，删去长期习惯担保；无需增加事故/交往履历。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json",
+      "subresults": [
+        {
+          "scope": "104阅历与105多次事故原句",
+          "status": "closed"
+        },
+        {
+          "scope": "105长期习惯概括残余",
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-N03",
+      "chapter": 110,
+      "severity": "中等",
+      "title": "护线拆段与仍不断的覆盖缺口",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "绳从护线上拆了一段，拉在廊里当护栏——隔开睡区和风道口，防止睡着的孩子翻身滚过去。剩下的绳留在护线上，两头不断。",
+      "evidence": [
+        {
+          "chapter": 110,
+          "quote": "绳从护线上拆了一段，拉在廊里当护栏——隔开睡区和风道口，防止睡着的孩子翻身滚过去。剩下的绳留在护线上，两头不断。"
+        }
+      ],
+      "problem": "原护线绳不够长且拼旧缆，外部仍有接水与守哨需求。拆哪段、哪段已停用、余线怎样仍护住使用中的跨均未写；“两头不断”不能替代覆盖说明。不是断言绳实际已断。",
+      "suggestion": "待既有路线/绳长方案后写明确切拆取段和仍用护线；无可拆段则不能直接签安全。不得凭空加绳或另设安全通路。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    }
+  ],
+  "issue_counts": {
+    "inherited_total": 39,
+    "closed": 27,
+    "pending_author": 8,
+    "open": 4,
+    "new_issues": 1,
+    "all_unresolved": 13
+  },
+  "issues": [
+    {
+      "id": "R005-B11-I02",
+      "chapter": 108,
+      "severity": "严重",
+      "title": "木箱区—第一根立柱—柜影—短避点四跨关系冲突",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "那处短避点离柜影隔着四跨梁，担架不能为每一口水来回抬。",
+      "evidence": [
+        {
+          "chapter": 108,
+          "quote": "那处短避点离柜影隔着四跨梁，担架不能为每一口水来回抬。"
+        },
+        {
+          "chapter": 102,
+          "quote": "要抬的三副担架还留在木箱区。到立柱这一段，中间横着四跨梁"
+        },
+        {
+          "chapter": 108,
+          "quote": "裴七和另两名卧床伤员被安顿到护线另一端的立柱后"
+        }
+      ],
+      "problem": "拥挤导致迁移已经写出，仍未说明护线另一端究竟是102木箱区端还是另一处柱后。四跨护线从原木箱区引出，回原端的避喷流条件或新端位置都不能由读者补齐。",
+      "suggestion": "作者确认既有护线两端、柱位与喷流遮蔽条件，再落一句方位承接；不创造新平台或任意缩短四跨。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I05",
+      "chapter": 104,
+      "severity": "严重",
+      "title": "旧章卡及资源台账约48混口径依赖尚未裁定",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "长屋和船舱接出来的孩子，两组合计十七个，另来的照原册分开核。伤员抬着的三副。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "长屋和船舱接出来的孩子，两组合计十七个，另来的照原册分开核。伤员抬着的三副。"
+        }
+      ],
+      "problem": "这是正文人数接口，不是正文报48错误。旧章卡/资源表约48的混口径及R004跨范围依赖，本轮未获新裁定或回填纠正证据；17限定修好不能使48自动闭合。",
+      "suggestion": "作者/主线程裁定旧回填统计口径。保持来源与状态分别核，不补人、不造伤亡失联凑48。",
+      "needs_author_decision": true,
+      "issue_scope": "旧回填与跨范围依赖；当前正文没有报48",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I09",
+      "chapter": 109,
+      "severity": "严重",
+      "title": "跨日、班次与清场截止未形成同一时钟",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "明早清场广播再响之前，开始转人。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "明早清场广播再响之前，开始转人。"
+        },
+        {
+          "chapter": 107,
+          "quote": "清场作业按灯序实施。"
+        },
+        {
+          "chapter": 107,
+          "quote": "这条广播从昨天就播。"
+        },
+        {
+          "chapter": 110,
+          "quote": "那段耽搁耗掉了原留给转运的小半个班。"
+        }
+      ],
+      "problem": "107广播一直循环且清场按灯序；109为何可等次晨仍无可知余量。106紧接107的跨日参照、热时与班次仍未统一；110“昨天”不能倒替这些环节补时钟。不是要求随意新增宽限。",
+      "suggestion": "作者给出既有日次/班次口径及清场安全截止依据，主笔据此补人物能知道的参照；不得编停机期或延长清场。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I12",
+      "chapter": 110,
+      "severity": "严重",
+      "title": "卧床伤员在竖吊途中自撑下梯，保护与代价不足",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "他不能用左腿，可他有两条胳膊，脚踩稳台阶，撑着担架沿一级一级往下挪，蹭完二十一级，比吊着快。",
+      "evidence": [
+        {
+          "chapter": 110,
+          "quote": "他不能用左腿，可他有两条胳膊，脚踩稳台阶，撑着担架沿一级一级往下挪，蹭完二十一级，比吊着快。"
+        },
+        {
+          "chapter": 108,
+          "quote": "一个腿不能弯，两个发热。"
+        },
+        {
+          "chapter": 110,
+          "quote": "后面两个卧床伤员，能挪的都学他，只剩一个昏沉的，仍用担架吊。"
+        }
+      ],
+      "problem": "竖吊七八级后改自撑的核心仍在。卧床、左腿不能弯的约束没有被稳定接手、体位与承力说明满足，后两名还仿效更快；不能以胳膊存在或积极意志替代受伤限制。两绳轮换也不能自动证明吊具稳定。",
+      "suggestion": "待既有空间、人手、绳长可行方案：保留受助转运与伤腿限制，停稳接手写清；不能只加疼痛、勇敢或一句“绑牢”。若须新设备/改基本路线再交作者。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I13",
+      "chapter": 109,
+      "severity": "严重",
+      "title": "空载试探与林渡亲下相撞，左手不能替代左肩承力",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "掌伤在右手。",
+      "evidence": [
+        {
+          "chapter": 109,
+          "quote": "掌伤在右手。"
+        },
+        {
+          "chapter": 106,
+          "quote": "他左臂使不上力，只能用右肩找平"
+        },
+        {
+          "chapter": 109,
+          "quote": "抓梯用左手。"
+        },
+        {
+          "chapter": 109,
+          "quote": "左肩每换一次手都牵得生疼，他放慢换手的节奏，把重心尽量交给双腿。"
+        }
+      ],
+      "problem": "空灯先探子项保持关闭；106明确左臂使不上力，109却继续以“抓梯用左手”解决右掌伤。减慢换手、疼痛、重心交双腿不交代失力左侧怎样维持抓持及腰绳是否承担保护。",
+      "suggestion": "按现有人手重排探路/辅助，明确受助和左侧限制；不得以左右互换宣告恢复。方案未落正文前继续open。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I15",
+      "chapter": 104,
+      "severity": "严重",
+      "title": "开封水的感官观察被写成完整可饮证明",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "矿物析出，水本身没坏。静一静，取上头清的，温过再给幼儿",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "矿物析出，水本身没坏。静一静，取上头清的，温过再给幼儿"
+        },
+        {
+          "chapter": 104,
+          "quote": "四只瓮里有一只的纸印缺了角"
+        },
+        {
+          "chapter": 104,
+          "quote": "她懂水。"
+        }
+      ],
+      "problem": "删闻/晃重复只改善文风。缺角封印瓮的浑水白痕仍被直接保证没坏并供幼儿饮用，外观与“她懂水”不足构成文内保管、处理和开封安全链。",
+      "suggestion": "先撤仅凭外观保证可饮的断言；作者确认现有来源及处理依据，不能另造净化器、备用水或超常辨水能力。未决时不签可饮通过。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I16",
+      "chapter": 104,
+      "severity": "中等",
+      "title": "正文管壁温水与已发生回填烧水相冲突",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "管壁温而不烫，温到水匀了才端开。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "管壁温而不烫，温到水匀了才端开。"
+        }
+      ],
+      "problem": "正文有温管壁热源，不应再报“完全无能源”。温热不等于烧开或净化；与初审已核旧回填“烧过”的差异尚无本轮纠正证据。",
+      "suggestion": "保留现有温水物性，作者/主线程核旧回填温/烧口径；可饮另归I15，不倒造热能电池。",
+      "needs_author_decision": true,
+      "issue_scope": "正文温水与旧回填术语依赖，旧表当前字节未重查",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I17",
+      "chapter": 104,
+      "severity": "严重",
+      "title": "防暑盐块与伤口盐药按半包折算，功能越界未裁定",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "化在水里能顶半包药。",
+      "evidence": [
+        {
+          "chapter": 104,
+          "quote": "化在水里能顶半包药。"
+        },
+        {
+          "chapter": 104,
+          "quote": "柜上防中暑的。"
+        },
+        {
+          "chapter": 104,
+          "quote": "上药的、隔布的，都在里头。"
+        }
+      ],
+      "problem": "前接给祝衡换布与半包外用药，后给两粒防暑盐块，仍把防暑用途与外伤药包混折。单独包写丙七账没有澄清功能与量的替代关系。",
+      "suggestion": "两粒独立记来源和用途，不补成外伤药余量；作者裁定既有盐药范围及旧回填，不能设万能配方。",
+      "needs_author_decision": true,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I26",
+      "chapter": 106,
+      "severity": "中等",
+      "title": "正文已正确收裂尺，旧回填却塞进册页夹层",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "把裂尺擦了擦，用布片裹了贴身收好——尺身太长，册页夹层只放得下盐药和工时单。",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "把裂尺擦了擦，用布片裹了贴身收好——尺身太长，册页夹层只放得下盐药和工时单。"
+        }
+      ],
+      "problem": "正文收纳仍正确。待核的是初审旧人物/资源表“夹册”的纠正，本轮没有其当前字节或确认，不把依赖不明改写成正文错误。",
+      "suggestion": "主线程按正文核改旧回填并提供证据；不要让长尺塞回册页迁就旧表。",
+      "needs_author_decision": true,
+      "issue_scope": "仅旧回填纠正待确认，正文不需改",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-I29",
+      "chapter": 102,
+      "severity": "中等",
+      "title": "痕迹被一步推成责任与动机真相",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote": "上头的水线在让劲，才会把水从接缝里挤出来。",
+      "evidence": [
+        {
+          "chapter": 102,
+          "quote": "上头的水线在让劲，才会把水从接缝里挤出来。"
+        },
+        {
+          "chapter": 104,
+          "quote": "我得上去看是接头松了，还是托梁在让劲。"
+        },
+        {
+          "chapter": 109,
+          "quote": "是不是同一批人干的，还得往里查。"
+        },
+        {
+          "chapter": 110,
+          "quote": "灯照出牌面朝向下行梯的斜角。"
+        }
+      ],
+      "problem": "104已把接头/托梁列为待检，109同批施工者和110牌意的证据层级亦改善。但本轮全文另见102仍以单因定论解释渗水，应与104待检层级一致；旧F15“两批人”已证实与否仍待裁，不能因正文降层就关闭旧依赖。",
+      "suggestion": "102可安全降为疑问或待检；旧F15/时间线由作者确认规划与已证实之别，不添加责任人或动机。",
+      "needs_author_decision": true,
+      "issue_scope": "102残余正文推断＋旧回填依赖",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json",
+      "subresults": [
+        {
+          "scope": "104/109/110原定位证据层级",
+          "status": "closed"
+        },
+        {
+          "scope": "102同类单因断语，本轮新定位，非确认修稿新增",
+          "status": "open"
+        },
+        {
+          "scope": "旧F15与时间线“两批人”实录依赖",
+          "status": "pending_author"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-N02",
+      "chapter": 105,
+      "severity": "中等",
+      "title": "丙七未说出的经历被叙述直接读取",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "这是丙七的习惯：话不说第二遍，东西先到位。",
+      "evidence": [
+        {
+          "chapter": 105,
+          "quote": "这是丙七的习惯：话不说第二遍，东西先到位。"
+        },
+        {
+          "chapter": 104,
+          "quote": "他的指头停在验工那栏，册子没推回来，话也没有立刻接。"
+        },
+        {
+          "chapter": 105,
+          "quote": "林渡没有追问。他顺着丙七指的方向看了看管子，把方才想站的位置让开。"
+        }
+      ],
+      "problem": "104“看过太多账”、105“事故见过不止一次”原定位已改成可见反应，均可关闭。但105本句仍由一次放备料直接概括丙七长期习惯，林渡没有已写出的知情来源；该残余本轮新定位，不认定修稿新增。",
+      "suggestion": "直接留布兜落柜口或明确限于这一次的观察，删去长期习惯担保；无需增加事故/交往履历。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json",
+      "subresults": [
+        {
+          "scope": "104阅历与105多次事故原句",
+          "status": "closed"
+        },
+        {
+          "scope": "105长期习惯概括残余",
+          "status": "open"
+        }
+      ]
+    },
+    {
+      "id": "R005-B11-N03",
+      "chapter": 110,
+      "severity": "中等",
+      "title": "护线拆段与仍不断的覆盖缺口",
+      "previous_status": "open",
+      "status": "open",
+      "quote": "绳从护线上拆了一段，拉在廊里当护栏——隔开睡区和风道口，防止睡着的孩子翻身滚过去。剩下的绳留在护线上，两头不断。",
+      "evidence": [
+        {
+          "chapter": 110,
+          "quote": "绳从护线上拆了一段，拉在廊里当护栏——隔开睡区和风道口，防止睡着的孩子翻身滚过去。剩下的绳留在护线上，两头不断。"
+        }
+      ],
+      "problem": "原护线绳不够长且拼旧缆，外部仍有接水与守哨需求。拆哪段、哪段已停用、余线怎样仍护住使用中的跨均未写；“两头不断”不能替代覆盖说明。不是断言绳实际已断。",
+      "suggestion": "待既有路线/绳长方案后写明确切拆取段和仍用护线；无可拆段则不能直接签安全。不得凭空加绳或另设安全通路。",
+      "needs_author_decision": false,
+      "issue_scope": "正文",
+      "previous_record": "harness/maintenance/R005/B11/review-v1/recheck.json"
+    },
+    {
+      "id": "R005-B11-N04",
+      "chapter": 106,
+      "severity": "轻微",
+      "title": "残余病句及同一送水容器换称",
+      "status": "open",
+      "previous_status": "not_previously_located",
+      "quote": "再落到下层平台的接水里",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "再落到下层平台的接水里"
+        },
+        {
+          "chapter": 108,
+          "quote": "谁也别替我们几条腿的不好意思。"
+        },
+        {
+          "chapter": 108,
+          "quote": "壶还是那只壶，印还是那个印"
+        }
+      ],
+      "problem": "“接水里”缺可确认的承接对象；“替我们几条腿的不好意思”搭配不成句；108同趟封盖铁皮罐结尾改称壶。均为本轮全文新定位的存量表述，不断言由本轮修改引入，也不解释为新增容器。",
+      "suggestion": "106删悬空“的接水里”或按已定实物补称，不新设接水设施；108可收为“谁也别替我们不好意思”；结尾壶统一为罐，不加水量。",
+      "needs_author_decision": false,
+      "issue_scope": "正文表述",
+      "introduced_by_revision": "未断定；本轮新定位"
+    }
+  ],
+  "new_issues": [
+    {
+      "id": "R005-B11-N04",
+      "chapter": 106,
+      "severity": "轻微",
+      "title": "残余病句及同一送水容器换称",
+      "status": "open",
+      "previous_status": "not_previously_located",
+      "quote": "再落到下层平台的接水里",
+      "evidence": [
+        {
+          "chapter": 106,
+          "quote": "再落到下层平台的接水里"
+        },
+        {
+          "chapter": 108,
+          "quote": "谁也别替我们几条腿的不好意思。"
+        },
+        {
+          "chapter": 108,
+          "quote": "壶还是那只壶，印还是那个印"
+        }
+      ],
+      "problem": "“接水里”缺可确认的承接对象；“替我们几条腿的不好意思”搭配不成句；108同趟封盖铁皮罐结尾改称壶。均为本轮全文新定位的存量表述，不断言由本轮修改引入，也不解释为新增容器。",
+      "suggestion": "106删悬空“的接水里”或按已定实物补称，不新设接水设施；108可收为“谁也别替我们不好意思”；结尾壶统一为罐，不加水量。",
+      "needs_author_decision": false,
+      "issue_scope": "正文表述",
+      "introduced_by_revision": "未断定；本轮新定位"
+    }
+  ],
+  "pure_han_counts": {
+    "101": 2382,
+    "102": 2362,
+    "103": 2221,
+    "104": 2256,
+    "105": 2227,
+    "106": 2287,
+    "107": 2283,
+    "108": 2321,
+    "109": 2406,
+    "110": 2388
+  },
+  "pure_han_method": "去Markdown标题后统计U+3400—4DBF与U+4E00—9FFF；仅字数，不替代事实或文学验收",
+  "sources_read_this_round": [
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "coverage": "本轮第二次安全修稿后逐章全文；读取完成后才查修改记录与旧审读"
+    },
+    {
+      "path": "AGENTS.md",
+      "coverage": "用户本轮提供全文；报告遵循8.1，无新增正文/剧情扩写"
+    },
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "coverage": "本轮读完十章后复核全文"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "coverage": "本轮全文"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "coverage": "本轮第9节；其他部分仅继承此前已读"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "coverage": "本轮第2、7节；长输出截断后单独完整补读"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "coverage": "本轮全文；本批仅serial，不核楔子/前三章"
+    },
+    {
+      "path": "harness/maintenance/R005/B11/review-v1/recheck.json",
+      "coverage": "39项结构化原问题全文分段读取；既有覆盖及边界记录；不是本轮新查作者事实"
+    },
+    {
+      "path": "harness/maintenance/R005/B11/review-v1/reader-review.json",
+      "coverage": "本轮仅101—103的15项及结构；其余本轮52项重新独立判读"
+    },
+    {
+      "path": "harness/maintenance/R005/B11/review-v1/snapshot.json",
+      "coverage": "元数据与十章冻结SHA；不改历史，不把历史稿当本轮正文"
+    },
+    {
+      "path": "harness/maintenance/R005/edits.json",
+      "coverage": "仅本轮reason含“复核B11”的21项；在全文之后；不按作者status/reason签关闭"
+    },
+    {
+      "path": "tools/check_reader_pull.py",
+      "coverage": "格式、证据、独立性与摘要验证逻辑；不把程序结果当文学判断"
+    }
+  ],
+  "prior_reference_coverage": [
+    {
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101—110章（各正式同名文件）",
+      "coverage": "阶段一逐章全文首读；逐文件名与冻结SHA见work_manuscripts及manuscripts。此后不读已改工作稿。"
+    },
+    {
+      "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+      "coverage": "阶段一结束后全文边界阅读；后补查日期、分来源、饮水原句。"
+    },
+    {
+      "path": "异星录/正文/第一卷_热海坠城/第100章_秘密撤离船.md",
+      "coverage": "阶段一结束后全文边界阅读；后补查左肩、两只壶及耗尽。"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第111章_不走来时的路.md",
+      "coverage": "仅此一章全文边界阅读；后定位短芯灯/卧床四个。不作111整章验收。"
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第101—110章（逐文件见manuscripts）",
+      "coverage": "阶段一结束后的原句核对；均已核与首读SHA相同，未以其外的版本替换初审。"
+    },
+    {
+      "path": "AGENTS.md",
+      "coverage": "全文，首读结束后读取；报告按8.1，事实优先级与H002边界。"
+    },
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "coverage": "全文，首读后。"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "coverage": "全文，首读后。"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "coverage": "全文；第九节另逐类核对。"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "coverage": "全文；第二、七节另核。"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "coverage": "全文；应用本批逐章五项/篇章两项。"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/卷纲.md",
+      "coverage": "全文。"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "coverage": "开写约束与A01规划（1—48行分段）、A01实录（212—273行对应101—110）；不宣称全卷逐章卡已审。"
+    },
+    {
+      "path": "异星录/04_连续性管理/第一卷收官状态快照.md",
+      "coverage": "全文。"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "coverage": "91—100、101—110对应段及R004末尾补记；先前取段时也见111—120状态表，不等于后续正文审读。"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "coverage": "91—100、101—110及R004返修资源边界、持物与留失表。"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "coverage": "101—110逐章日次及R004末尾依赖；取段附带见111—120时间线，未扩读其正文。"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "coverage": "91—100、101—110及R004补记；取段附带见111—120回填开头。不凭后续答案替首次读者补脑。"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "coverage": "前段相关词条、短避点/七层遮蔽廊定位及R004统一写法；非全表逐项阅读。"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "coverage": "前段相关词条（约1—48行）及R004既有用语消歧（226行起末尾）；非全词典。"
+    },
+    {
+      "path": "异星录/06_执行计划/设定决策/R004_C04-C05裁定.md",
+      "coverage": "全文。"
+    },
+    {
+      "path": "harness/maintenance/R004/跨范围依赖.md",
+      "coverage": "全文。"
+    },
+    {
+      "path": "harness/maintenance/R004/事实冲突与处理边界.md",
+      "coverage": "部分：C01—03、既有批准说明与C04片段；长输出有截断，不声称完整读过。"
+    },
+    {
+      "path": "异星录/00_项目总览/项目总纲.md",
+      "coverage": "全文，首读后。"
+    },
+    {
+      "path": "异星录/02_角色档案/角色圣经.md",
+      "coverage": "全文，首读后。"
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md",
+      "coverage": "全文，含对截断的技术/大陆段补读。"
+    },
+    {
+      "path": "harness/maintenance/R005/B11/first_read_evidence.json",
+      "coverage": "阶段一结束即保存的原始首读证据；原样保留，未用资料核对结论覆写。"
+    }
+  ],
+  "coverage_limits": [
+    "本轮全文范围仅当前工作区101—110；099—100、111及以后正文没有重读。review-v1历史正文不重新阅读，仅snapshot核版本元数据。",
+    "既有卷纲/101—110章卡/收官快照/六连续性对应段/C04-C05/R004跨范围依赖只继承初审已核范围，本轮未扫描当前字节。旧回填待确认不等于已证明当前表仍未修改。",
+    "初审部分资料有截断、世界/社会/势力/语气等非全套覆盖，沿既有记录如实保留，不声称全库验收。",
+    "111卧床四人及灯的边界仅继承登记，不签关闭或补入本批人数；没有扩看未来答案。",
+    "I28仅关闭日期被写成人年代的措辞错误；真实模板年代、记录含义及关押年限未裁，不反推七年经历。",
+    "52项只覆盖serial逐章五项及篇章两项，不含实际第一页/黄金前三章专项。",
+    "这是小说连续性和读者证据审查，不是现实医学、结构载荷或转运安全鉴定。",
+    "不改正文、章卡、台账、edits、initial、review-v1或历史稿；不运行gate/close/verify-repair。工作稿再变须新指纹复核。"
+  ],
+  "fact_conclusion": "issues：39项中27 closed、4 open、8 pending_author；另新定位N04轻微表述open。I12/I13/N03继续待安全方案，I15/I16/I17及48/时间/旧回填等未决。",
+  "reader_conclusion": "needs_revision：52项，46 pass、6 needs_revision。101同序疑问、105情绪回报、108开头任务吸引力成立；水质成果、伤侧探梯、等明早依据、竖吊/护绳与篇章生存兑现仍拖弱信任。",
+  "reader_review_path": "harness/maintenance/R005/B11/reader-review2.json",
+  "reader_check_counts": {
+    "pass": 46,
+    "needs_revision": 6
+  }
+}

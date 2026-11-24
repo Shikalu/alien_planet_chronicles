@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "date": "2026-11-06",
+  "mode": "old_chapter_repair_recovery",
+  "source_trace": "845fc1401bdb4725b912410270053398",
+  "source_thread": "01a1affd-68cc-7382-8187-c30f28b3265b",
+  "status": "awaiting_author_decisions_C04_C05",
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "prose_patches": {
+    "original": 111,
+    "resumed": 62,
+    "total": 173,
+    "changed_chapters": 49,
+    "unchanged_chapters": [
+      70
+    ]
+  },
+  "writebacks": {
+    "file_count": 8,
+    "patch_count": 102,
+    "status": "known_local_issues_closed_author_decisions_pending",
+    "latest_review": {
+      "path": "harness/maintenance/R004/writeback-recovery2-final.json",
+      "sha256": "efb07e3274b7192acd471a841b261c7f2b1ebce86b8dd447e3c1592b391bdf08",
+      "reviewer": {
+        "name": "Codex",
+        "thread_id": "01a1b159-38ff-7e30-a4e5-3489563941b7",
+        "session_id": "01a1b157-10bb-7b91-bafb-e4a08703bbec",
+        "identity_source": "current_runtime_environment",
+        "same_as_previous_reviewer": true,
+        "provided_previous_edit_suggestions": true,
+        "implemented_current_edits": false,
+        "independent_of_edit_implementation": true,
+        "blind_read": false,
+        "note": "同一复核者曾给上轮建议，未实施本轮修改；独立于修改实施者，不冒称全新盲读或先正文后资料。未读旧会话、未调用其他agent。",
+        "change_log_writer_label": "/root"
+      },
+      "summary_counts": {
+        "targeted_edits": 5,
+        "closed_edits": 5,
+        "open_edits": 0,
+        "closed_issue_groups": 2,
+        "new_content_issues_within_scope": 0,
+        "unchanged_inherited_files": 6
+      },
+      "not_overall_acceptance": true
+    }
+  },
+  "validation": "harness/maintenance/R004/recovery2-validation-final.json",
+  "independent_reviews_in_progress": [],
+  "inherited_body_reviews": [
+    {
+      "path": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "reviewer": "01a1b002-648c-7311-a0a2-647911278770",
+      "verdict": "pass",
+      "fact_logic_verdict": "pass",
+      "attraction_verdict": "pass",
+      "manuscript_sha_mismatches": [],
+      "quote_mismatches": [],
+      "check_count": 52,
+      "source_digest_matches": true,
+      "coverage_note": "新增resume-recheck2.md/json且只写这两文件；未改工作稿、正式正文、初审/前轮失败报告或他人报告。继承已读证据但重新核全部52原句与10章封稿摘要；未运行会写其他文件的gate、verify-repair或check。"
+    },
+    {
+      "path": "harness/maintenance/R004/B07/final.json",
+      "sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "reviewer": "/root/r004_b08_reader",
+      "verdict": "pass",
+      "fact_logic_verdict": "pass",
+      "attraction_verdict": "pass",
+      "manuscript_sha_mismatches": [],
+      "quote_mismatches": [],
+      "check_count": 52,
+      "source_digest_matches": true,
+      "coverage_note": null
+    },
+    {
+      "path": "harness/maintenance/R004/B08/final.json",
+      "sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc",
+      "reviewer": "/root/r004_b06_reader",
+      "verdict": "pass",
+      "fact_logic_verdict": "pass",
+      "attraction_verdict": "pass",
+      "manuscript_sha_mismatches": [
+        71,
+        76
+      ],
+      "quote_mismatches": [],
+      "check_count": 52,
+      "source_digest_matches": true,
+      "coverage_note": "Historical B08 final superseded for 071/076 only; use water-boundary-recheck, other eight inherited."
+    },
+    {
+      "path": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "reviewer": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+      "verdict": "pass",
+      "fact_logic_verdict": "pass",
+      "attraction_verdict": "pass",
+      "manuscript_sha_mismatches": [],
+      "quote_mismatches": [],
+      "check_count": 10,
+      "source_digest_matches": true,
+      "coverage_note": null
+    },
+    {
+      "path": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "reviewer": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+      "verdict": "pass",
+      "fact_logic_verdict": "pass",
+      "attraction_verdict": "pass",
+      "manuscript_sha_mismatches": [],
+      "quote_mismatches": [],
+      "check_count": 52,
+      "source_digest_matches": true,
+      "coverage_note": null
+    }
+  ],
+  "pending_author_decisions": [
+    {
+      "id": "C04",
+      "status": "not_authorized_not_applied",
+      "proposal": "098救出长屋四孩时接收孩子仅存的少量已处理饮水与容器；099—100少量分饮耗尽；101仍缺水。"
+    },
+    {
+      "id": "C05",
+      "status": "historical_evidence_found_but_authorization_conflict_unresolved",
+      "proposal": "请作者确认101过册核13+4=17是否为精确化限制的特定例外；本轮不改101—400正文，不把101数字倒灌100。"
+    }
+  ],
+  "published": false,
+  "release_eligible": false,
+  "gate_run": false,
+  "verify_repair_run": false,
+  "close_run": false,
+  "official_files_modified": false,
+  "supersedes_navigation_only": "harness/maintenance/R004/resume-checkpoint-20261106-latest.json",
+  "validation_sha256": "3219a50ee32b174f47c4b6b2bf2785390023d0ba5bebc0b83d770b5757a11c4d",
+  "independent_reviews_completed": [
+    {
+      "scope": "091—100全文事实与52项追读检查",
+      "path": "harness/maintenance/R004/B10/recovery2-recheck.json",
+      "sha256": "41942ba7321a467eefc67e326b3a38793481c21e1b2d1ed769d0d8d4c37812cd",
+      "reviewer": "01a1b158-f090-7110-add3-16ffbd023fcb",
+      "fact_logic_verdict": "needs_revision",
+      "attraction_verdict": "needs_revision",
+      "summary": {
+        "previous_six": {
+          "closed_this_round": 3,
+          "remaining": 3
+        },
+        "all_tracked": {
+          "total": 25,
+          "closed": 22,
+          "partial": 1,
+          "open": 2
+        },
+        "new_blocking_issues": 0,
+        "new_advisory_issues": 1,
+        "fact_logic": "未通过：C04水源、099容器状态和C05授权仍未闭。WB新五处已独立短复核关闭，不再虚列为未完成；来源/授权冲突仍不可自签。其余旧问题逐项按现稿复核。",
+        "attraction": "未通过：52项全文实读；50项通过，099情绪兑现及篇章承诺兑现2项待修。救援/具名/失联的情绪实际成立，但来源不明的饮水削弱有限资源承诺的可信度。",
+        "not_a_release": "没有作者批准，不因大部分修复已完成自签通过。"
+      }
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-recovery2-final.json",
+      "sha256": "efb07e3274b7192acd471a841b261c7f2b1ebce86b8dd447e3c1592b391bdf08",
+      "reviewer": {
+        "name": "Codex",
+        "thread_id": "01a1b159-38ff-7e30-a4e5-3489563941b7",
+        "session_id": "01a1b157-10bb-7b91-bafb-e4a08703bbec",
+        "identity_source": "current_runtime_environment",
+        "same_as_previous_reviewer": true,
+        "provided_previous_edit_suggestions": true,
+        "implemented_current_edits": false,
+        "independent_of_edit_implementation": true,
+        "blind_read": false,
+        "note": "同一复核者曾给上轮建议，未实施本轮修改；独立于修改实施者，不冒称全新盲读或先正文后资料。未读旧会话、未调用其他agent。",
+        "change_log_writer_label": "/root"
+      },
+      "summary_counts": {
+        "targeted_edits": 5,
+        "closed_edits": 5,
+        "open_edits": 0,
+        "closed_issue_groups": 2,
+        "new_content_issues_within_scope": 0,
+        "unchanged_inherited_files": 6
+      },
+      "not_overall_acceptance": true
+    }
+  ],
+  "current_body_review": {
+    "path": "harness/maintenance/R004/B10/recovery2-recheck.json",
+    "sha256": "41942ba7321a467eefc67e326b3a38793481c21e1b2d1ed769d0d8d4c37812cd",
+    "reviewer": "01a1b158-f090-7110-add3-16ffbd023fcb",
+    "verdict": "needs_revision",
+    "fact_logic_verdict": "needs_revision",
+    "attraction_verdict": "needs_revision",
+    "manuscript_sha_mismatches": [],
+    "quote_mismatches": [],
+    "check_count": 52,
+    "source_digest_matches": true,
+    "coverage_note": null
+  },
+  "working_chapter_summary": {
+    "count": 50,
+    "min": 2230,
+    "max": 2614,
+    "outside_2200_3200": [],
+    "changed_chapters": 49
+  },
+  "official_changes": {
+    "manuscripts": {
+      "count": 401,
+      "changed": []
+    },
+    "sources": {
+      "count": 53,
+      "changed": []
+    }
+  },
+  "remaining_blocking_issues": [
+    {
+      "id": "R004-B10-I01",
+      "title": "人数分组可读；C05精确人数授权仍待裁定",
+      "status": "partial",
+      "action": "作者裁定101精确人数的授权关系及约48的人员集合/截点。临时推荐保持100四名/十余分组、不倒灌13/17/48；若保留101精确数，须明确专项授权与核实位置；若撤回精确数，须授权调整既有台账及下游，审读者不择一覆盖。WB五处局部短复核已完成，不再作为独立待办。"
+    },
+    {
+      "id": "R004-B10-I07",
+      "title": "C04：098—100饮水来源仍未获裁定",
+      "status": "open",
+      "action": "由作者明确选择保留饮用结果并批准有限来源/容器交接，或授权修改既有结果及下游；未定前保留未通过，不加水也不删饮用。"
+    },
+    {
+      "id": "R004-B10-RF-N01",
+      "title": "099空容器/残量与100继续分水矛盾未闭",
+      "status": "open",
+      "action": "先待C04来源裁定，再统一099分后封回/仍余与100最终用尽的同一容器状态；本轮不代改。"
+    }
+  ],
+  "nonblocking_polish": [
+    {
+      "id": "R004-B10-RR-A02",
+      "title": "残余叙述者翻译/辩护",
+      "status": "needs_polish",
+      "note": "旧有观察仍存在，非本轮新风险；改为林渡不催摘布、阿九退位改前臂的现有动作即可，删作者重复总结；未实际修改。"
+    },
+    {
+      "id": "R004-B10-R2-A01",
+      "title": "092新补丁首句语序轻微卡顿",
+      "status": "needs_polish",
+      "note": "瞬间可误读为把裴七送到绳所在处。建议“裴七把第二根绳带到对岸后”。上文已明说拖第二根绳，故不是新的物件/空间阻断风险；只给建议，不改正文。"
+    }
+  ],
+  "remaining_after_decisions": [
+    "按获批C04处理098—100水源与同一容器取得、分用、封回和耗尽，分别关闭来源与099空容器问题；处理两项轻微语言建议。",
+    "同步受影响的暂存章卡/台账，按新SHA重新执行事实和吸引力审读及回填短复核。",
+    "整理五个十章连续性汇总、后五十章及卷末接口审计、reader_review与独立maintenance record；verify-repair验收后才发布唯一正文。",
+    "不套续写close，不推进400/D320或401/A31，不把101—400签成本轮已审。"
+  ]
+}

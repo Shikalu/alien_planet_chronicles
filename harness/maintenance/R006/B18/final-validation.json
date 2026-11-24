@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B18",
+  "source_digest": "9dd31e95db09475122787a91c11d6c7a86efdc5f5c3e0b2757bba33ab249c0ce",
+  "manuscripts": [
+    {
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "sha256": "d208c7e2ecf8597d74ef064adcc87cca3ec852a20ca70caef666efd5c2333179"
+    },
+    {
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "sha256": "e0bc6fdc80f8848c8941f3fb755ffb527de9411ff23134e54ae4bc1e6eaf9a6a"
+    },
+    {
+      "chapter": 173,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "sha256": "a9548d293bc3c75c35f72c3e1bb83058d9272365f7c045e378e609abb2c28505"
+    },
+    {
+      "chapter": 174,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "sha256": "421f80ba157a2b49fc31b5d352604a93eac3ed8edb02ca851ed7098652128017"
+    },
+    {
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "sha256": "cfc18b01b607367a79371d83c76680f3b7f50d6e2809a12c6a1d9410165e43d5"
+    },
+    {
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "sha256": "8cc2c5cfc282bf651fc7161016856f1f3814796fbede8b6775b2046ff1c61482"
+    },
+    {
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "sha256": "171936b9cd4a14cd4d284d20a3f706bcde390a8e41e57fda1b615a3daf98c774"
+    },
+    {
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "sha256": "320e80857ffd2884cc113c97b990da54ecaf5c02a2fd0b41f0dbedb59f0959b4"
+    },
+    {
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "sha256": "cd6f00d99205acde6801964aa52e7d2614e68814f59aee02629959feae7df0b8"
+    },
+    {
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "sha256": "8498218b23890fa001e7372741ffa31699884110108c4e16ae1bac5311b7cb1e"
+    }
+  ],
+  "frozen_artifacts_verified": {
+    "initial-reader-notes.md": "2899e26ae6326355d4ee5e3483b08cb43fe86d84414ce2d77361dff6333ab481",
+    "initial.json": "a2d2efb10863c4d19428a2e85cd630a1e10b1412baa456c2f09f0f087c4a2852",
+    "initial.md": "7d49b139d4e4cbc70ae5f027e393c634379ab9dcd593020bd9bea0d804ded13a",
+    "suggested-edits.json": "6f817962b2d749863e25875b2f979f7bb45ba996c83b612d01a6a8564f87fd66",
+    "final-body-first-notes.md": "fdce449d8a94c575c2d57c1c09aad049ed21d73ddcd1cbf0a41109adb2771862"
+  },
+  "editor_entries_replayed": 35,
+  "editor_log_sha256": "4544de23b6e2423f35c492bd0eaff8f811240fadb1b2373ab1c1be096f473709",
+  "no_unexplained_manuscript_changes": true,
+  "current_literal_evidence_verified": 209,
+  "issues": {
+    "closed": 14,
+    "pending_author": 17,
+    "open": 8
+  },
+  "blocking_issues": 21,
+  "reader_checks": {
+    "total": 52,
+    "pass": 38,
+    "needs_revision": 14,
+    "chapter_items": 50,
+    "batch_items": 2
+  },
+  "reader_structure": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "strict_reader_acceptance": {
+    "errors": [
+      "吸引力验收缺真实独立首读记录；作者诊断不能自签通过",
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "word_counts": [
+    {
+      "chapter": 171,
+      "han": 2309,
+      "nonspace": 2714,
+      "minimum_margin": 109
+    },
+    {
+      "chapter": 172,
+      "han": 2297,
+      "nonspace": 2715,
+      "minimum_margin": 97
+    },
+    {
+      "chapter": 173,
+      "han": 2262,
+      "nonspace": 2716,
+      "minimum_margin": 62
+    },
+    {
+      "chapter": 174,
+      "han": 2367,
+      "nonspace": 2862,
+      "minimum_margin": 167
+    },
+    {
+      "chapter": 175,
+      "han": 2249,
+      "nonspace": 2688,
+      "minimum_margin": 49
+    },
+    {
+      "chapter": 176,
+      "han": 2229,
+      "nonspace": 2754,
+      "minimum_margin": 29
+    },
+    {
+      "chapter": 177,
+      "han": 2239,
+      "nonspace": 2659,
+      "minimum_margin": 39
+    },
+    {
+      "chapter": 178,
+      "han": 2268,
+      "nonspace": 2684,
+      "minimum_margin": 68
+    },
+    {
+      "chapter": 179,
+      "han": 2241,
+      "nonspace": 2680,
+      "minimum_margin": 41
+    },
+    {
+      "chapter": 180,
+      "han": 2268,
+      "nonspace": 2723,
+      "minimum_margin": 68
+    }
+  ],
+  "safe_suggestions": {
+    "path": "harness/maintenance/R006/B18/final-suggested-edits.json",
+    "count": 11,
+    "issue_ids": [
+      "R006-B18-005",
+      "R006-B18-009",
+      "R006-B18-015",
+      "R006-B18-033",
+      "R006-B18-038"
+    ],
+    "status": "建议未应用；未改工作稿/正式正文/台账，终审仍绑定建议前实际字节",
+    "preview_han_counts": {
+      "171": 2260,
+      "172": 2274,
+      "173": 2231,
+      "174": 2367,
+      "175": 2249,
+      "176": 2219,
+      "177": 2239,
+      "178": 2268,
+      "179": 2222,
+      "180": 2263
+    },
+    "note": "11条仅针对可安全局部修正；030/031/035需核现有人物/路线/物件再拟文本，未伪造精确补写。038尚有175/177/178等残项，清单非全关闭承诺。未裁项不拟擅断替换。应用后须另封v2，当前final/reader-review不可改成通过。"
+  },
+  "scope_note": "本轮只在B18写报告/建议；没有编辑正文或台账。对所有主线程并发活动不作工作区全局零变更保证；这里只验证本次所审B18字节与冻结证据。",
+  "delivered_artifact_sha256": {
+    "final.json": "cb27678064fecfec735f4e3252a52fa4e7bc7cd227618adf4c64ebfbfe154935",
+    "final.md": "3d298f454a01dba421e87742b4bdc9bf62bb61282d057c6c3d7345b85db0f9fa",
+    "reader-review.json": "4683b9006be5b6635e6406987846a710c69b7b9809489835a9f88394f7e98a5b",
+    "final-suggested-edits.json": "8926c8ca02a8c7e4b3670e19313e9fbdda452e0666f761f4933a36c78c9ef46e"
+  }
+}

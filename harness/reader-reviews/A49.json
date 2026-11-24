@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "writer": "Codex /root",
+  "reviewer": "Codex /root/review_49",
+  "independent": true,
+  "body_first": true,
+  "profile": "serial",
+  "manuscripts": [
+    {
+      "chapter": 581,
+      "path": "异星录/06_执行计划/工作区/A49/第581章_线外有人住.md",
+      "sha256": "352cad859580ec16cfd51b32d24eab82c7d3add95a3d8562af4f26c23957597d"
+    },
+    {
+      "chapter": 582,
+      "path": "异星录/06_执行计划/工作区/A49/第582章_签不到的地方.md",
+      "sha256": "d431f868964a242bd1a4192bf9912f7f0be813a5ce01244baf42dddfcc195369"
+    },
+    {
+      "chapter": 583,
+      "path": "异星录/06_执行计划/工作区/A49/第583章_桅上只回了一边.md",
+      "sha256": "35f24ac75a5514f2a59a627a7489a23eb201555755fa7894a1d66ad96dce6167"
+    },
+    {
+      "chapter": 584,
+      "path": "异星录/06_执行计划/工作区/A49/第584章_比上回少半线.md",
+      "sha256": "701bc0747e2b3ac8c08074990f48356be91b7a245043693cdfe9b259585906fa"
+    },
+    {
+      "chapter": 585,
+      "path": "异星录/06_执行计划/工作区/A49/第585章_先把轮退回来.md",
+      "sha256": "2950a6c6ad689ff047915732b740e82b937cd09ffe18983212f59edbfdb24e72"
+    },
+    {
+      "chapter": 586,
+      "path": "异星录/06_执行计划/工作区/A49/第586章_这一格不能用东水补.md",
+      "sha256": "8159a668225faf634b46c62ebde92870997317b9339a06fe54d97dbb3d673ec4"
+    },
+    {
+      "chapter": 587,
+      "path": "异星录/06_执行计划/工作区/A49/第587章_旧铁开了一线.md",
+      "sha256": "1aca440a29a6008ad74788ea39c8018ebafca44b19203f19811b9dd055a7cf39"
+    },
+    {
+      "chapter": 588,
+      "path": "异星录/06_执行计划/工作区/A49/第588章_销退出孔眼.md",
+      "sha256": "807fe3fa6a44b46960a10e1b5ddabca5e7e190ef36fad2c0a2a30033fd17028f"
+    },
+    {
+      "chapter": 589,
+      "path": "异星录/06_执行计划/工作区/A49/第589章_那一级石头空了.md",
+      "sha256": "ae6b81c10759076a72d3f3dd3429422de06f7a62399a9e1ee37c62eb98e00d81"
+    },
+    {
+      "chapter": 590,
+      "path": "异星录/06_执行计划/工作区/A49/第590章_一页纸先过西水.md",
+      "sha256": "3eb5f23891559aa71e2765256b6238fc80954c8cfa4cb72512cad0e0b8bf374a"
+    }
+  ],
+  "source_digest": "e3929507df272363616e69a3a5ad330b82d509231d637dbb6cef3988e6f1f70a",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 581,
+      "quote": "现在昨夜放过鞋跟的半寸已经湿了。",
+      "reason": "同一块石头的着脚余量在一夜间消失，脚边水位立即威胁必须趁凉赶回的试机。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 581,
+      "quote": "下回若有船向沿潮港送消息，让人到旧岸问那两户认得哪条高路。",
+      "reason": "林渡从带伤跑路线转向查逃路，凭自己认过的水路找确认人，不贸然替住户选路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 581,
+      "quote": "那港工给其中一家修过松钉，才识这纸上的长钉孔。",
+      "reason": "原图断续的空白被一名实际修板人接到有人日用的踏板，东支开始承担具体的人身后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 581,
+      "quote": "同住一户的母子常替对门抱瓮过槽，退潮之后仍走原板。",
+      "reason": "过水板既是短路也是邻人互助的日常，居民第一次从纸角上的签押变成会抱瓮回家的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 581,
+      "quote": "留给这轮试停的水还是原来的水，余水走西还是另开东面，现在得有人肯在案上写清。",
+      "reason": "两条支路都已出现具体居民，催签的下一人必须回答把危险交给谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 582,
+      "quote": "小工念到「西岸同意另借东槽」，原检修人便从轮边出来，拿手指按住那个借字。",
+      "reason": "军需用岸的名义索要另一条水路，按住一个字就把同意的权限争端带进场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 582,
+      "quote": "“西线去哪里我写给岸上。让东槽开掉这股热，我不签。”",
+      "reason": "林渡主动留下本岸风险并签在自己所见下面，为拒转热承担可回问的责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 582,
+      "quote": "小工将署名和留给本岸的空栏分开。",
+      "reason": "西向风险从抽象态势成为可以实送的本岸纸，仍有独立一栏给棚人亲报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 582,
+      "quote": "帘后孩子的托面留在后柱，离出坡有一段窄处。",
+      "reason": "读者知道栈城并非西岸两个字：孩子需经过大人端壶要转身的细路，拒东转有两面代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 582,
+      "quote": "能不能起第一次整布，先看值岗能不能把两条武装艇从候水里各叫出去。",
+      "reason": "短时已花去一截，下一章须看各船实际腾出的转水，站工才有可能动手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 583,
+      "quote": "林渡在柱旁等小工报第二声，听见的还是只有第二船已经认窗。",
+      "reason": "旗被风拍回、前几息只有中继船能答，让缺东和缺西都成为逼近最低水位的压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 583,
+      "quote": "“艇在，空着接人。”林渡说。",
+      "reason": "他记得涨水中有人最后仅够搭住桨，主动把外测观察位和自己那一趟都留给救人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 583,
+      "quote": "两条退线、一处还能让人上艇的高脚，纸上的空白总算缩到一行。",
+      "reason": "东西武装实退且可见的横停转报试成，正式起刻还留下一道清楚边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 583,
+      "quote": "前些时候台阶一下被淹，那个坐着等回船的人最后只剩肩能搭住桨。",
+      "reason": "失去水纹观测有直接而可回想的人命理由，操作中的留空是选择后的回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 583,
+      "quote": "他听见邵砺在背后问，旧接头今日第一次进水，短漏要从哪一声开计。",
+      "reason": "船已实退、旗已验，下一步真正计时要进有旧缺的接头，局部政治承诺第一次变成操作风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 584,
+      "quote": "检修人刚把两手甩干，窗下的水便从白壳背面擦了过去。",
+      "reason": "轮手尚未动，来水已贴近白壳下缘；能否打开旁支还得有整块高脚和一桨退水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 584,
+      "quote": "林渡请他把原拟添的一段去掉，把省出的时刻留给回刻、退人。",
+      "reason": "他在额外一次读数和受伤者有船可退之间取舍，减掉完整测段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 584,
+      "quote": "轮缘先转过两根辐条，小片还压原刻。",
+      "reason": "手和轮的空行程可见，之后指片落入上回止位以内才是首次真动，使谨慎变成可观测变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 584,
+      "quote": "小工将笔倒靠窗边，没有把空下的读数补成零。",
+      "reason": "人物在损失测值时也肯让记录空着，技术诚实回报了前文对军需和岸上签纸的坚持。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 584,
+      "quote": "走到两边会从谁的脚下先放上来，窗边的方布答不了。",
+      "reason": "站上白壳与压差只证这头可以小动，焦点转到哪边会最先看见下游后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 585,
+      "quote": "“东岩横布。停，回刻！”",
+      "reason": "开篇先见横停，紧接着水打铁栏盖住第一声，上一章的问题立刻落在东岩脚下。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 585,
+      "quote": "林渡请他把船头留在看得见旧高脚的安全处，人若还没站稳，先问能不能上船，别催一张写数的纸。",
+      "reason": "他没追着一格空读数，用有限传话趟先验东边的人能退，和换高脚前的问题相扣。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 585,
+      "quote": "东岩原先搁测绳的窄棱被侧浪泼湿，从较高的脚位看，限深绳斜着，结没抵到石沿。",
+      "reason": "原脚与原结的可比性被物理破坏，空读发生的原因能够复查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 585,
+      "quote": "“先别在东岩那头补个零。”林渡说。",
+      "reason": "弥娅的停布确实能让轮回去，她的证据标准也留在两端共用的纸上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 585,
+      "quote": "可在这个窗里，哪一段还能剩给他们读清下一步？",
+      "reason": "第一次回刻实际花时间，仍能不能重起取决于高脚交接、两端看见和可撤时间。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 586,
+      "quote": "军需的纸从原窗递进来，右下角夹着一小片锡，湿风没能把它从小工指间卷走。",
+      "reason": "硬锡压住的纸在停机时间缩水时直接抵达，企图开东阀的外令立即挤进工班选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 586,
+      "quote": "林渡把那只空漏放回案角，请检修人先扣回能退人的时间，再排余下三步。",
+      "reason": "他不承认第一次曾推进就能跳到第二步，重排时仍留现场停与海上撤人的余量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 586,
+      "quote": "下次起数由他报，见退路起水也由他叫停。",
+      "reason": "弥娅同船首实交换筒与停权，才进入站内查启用臂，人员位次和所有权都改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 586,
+      "quote": "弥娅听见便伸手扶了一下纸边，正好给林渡留出一角写东支继续闭。",
+      "reason": "两人表态落实为共扶一页与一侧署名，前面她先问站上是否听到停，互信有了实凭。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 586,
+      "quote": "那道反扣接头还能在手轮真正走向第二步时，给他们留下几息？",
+      "reason": "两岸回报仍容许重启，第一次没有到的第二步将把旧试验安全用量推到新压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 587,
+      "quote": "海上第二次试摆横布，东边的先到了。",
+      "reason": "开章第一息把已换人的东端能否报停付诸实见，重来不是对旧结果的文字确认。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 587,
+      "quote": "林渡伸指在图上按住西回沟尽头，让小工把缺掉的那段末测留给撤人。",
+      "reason": "他有西向风险在手，仍肯舍掉可能解答本岸水况的末测，保障能从仅剩退脚撤出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 587,
+      "quote": "铁棱两处旧缺尖之间裂出一截缝，贴石的水沿斜面流到低口台脚，把悬在栏外的绳湿了一段。",
+      "reason": "旧渗迹转为永久维修损失，护绳的伤来自可见的水路，支路再用须降温、卸压并补材料。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 587,
+      "quote": "邵砺将干端挂到作废的钉上，叫艇工别再往那根绳上伸手。",
+      "reason": "拒继续使用被烫的绳在艇工手伸过去前落实，灾情第一次由未来撤人的手承担。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 587,
+      "quote": "失了旁支，这一步只靠轮边这一双手，东支上原来那只锁还得扣着。",
+      "reason": "第二步暂稳只奖给最后一小程，在最大考验到来前永久少了一条已试补路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 588,
+      "quote": "第二步的指片还贴着细线，窗下的水声先矮了一层。",
+      "reason": "上一章隔掉的旁支先在声音上变了，轮手须立刻判断能不能靠主管独自完成最后一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 588,
+      "quote": "林渡请艇工按原撤次来，先问东脚能不能送人，回来再接西侧，轮边这一组最后退。",
+      "reason": "军需已经近逼入口，他仍先保东脚实接，自己知西水急也不去抢撤序。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 588,
+      "quote": "转接销整个退出来时，启用臂仍贴在止面，另一边长杆只对着空孔。",
+      "reason": "读者亲眼见强制启动的力路被断，继续有水头与原供给已停止的差别也由两针给定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 588,
+      "quote": "她松开手，先循刚才抬头时看好的两块干石退了出来。",
+      "reason": "弥娅以现场许可、手指控制和预先量过的脚位取销，她确实做成一件没有人能在远岸替她做的事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 588,
+      "quote": "已经过去的热水还贴着西岩走，他得赶在它涨到下一道石标以前，让守在那一面的人知道自己该看什么。",
+      "reason": "刚才的成功阻住续供，水与艇仍有自己的行程，下一章变成信息要和余热赛跑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 589,
+      "quote": "涨过石沟的那股水把下半扇挡片顶歪，门底的砂正顺着水往里爬。",
+      "reason": "窗缝肉眼缩短，高脚一次少半步，前夜预留的三趟当场可能不足。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 589,
+      "quote": "林渡照原来工作艇能分几次接人，请他不要等所有旧册都找齐。",
+      "reason": "在保存纪录和确保工班及时走之间选择节抄，留下能供后来追问的人与柜签。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 589,
+      "quote": "林渡在西高肩等到站上两人实来。",
+      "reason": "工班最后一趟平安到，次凉东纸另外证东船三人及末测，人员撤出变成确定事件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 589,
+      "quote": "林渡拿左腕替她抵住将要从衣缝滑出的夹纸。",
+      "reason": "伤手仍不能攥牢，但他能暂帮她稳住亲历记录；她接下手继续写，两人下一次何地交回不被预定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 589,
+      "quote": "再往西低一层，昨日来时可留一只脚的那道石边已经没在水里。",
+      "reason": "新回水有可看的消失物，先送本岸预警的决定要追究下一层石标和实际送达人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 590,
+      "quote": "站窗下的高阶实际已有两名守卫，原门槛处也拉了拦绳。",
+      "reason": "已完成的撤退转成无法进入站口的损失，读者不需等进入轮室才知道门被军方守住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 590,
+      "quote": "林渡让船首从原线先退，照实际船位走，别为了同那道水并肩观察把第二船拖进横涌。",
+      "reason": "他让原线送警与保船各走有实据的水，看到新水也不拿四人再换不可靠观测。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 590,
+      "quote": "船首人报第二船原两员、邵砺和林渡已是实到的四人。",
+      "reason": "实际四人上西船、站工另在后石落稳、快艇已出先送；没有把待收写成到岸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 590,
+      "quote": "他帮林渡把外面松开的麻布结从掌下挪到手腕边，压一下让它别挂船舷。",
+      "reason": "读者在接力空隙看见小工已会避开林渡伤手，和前一日两人把停声送到轮边一样，帮助落在具体的手上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 590,
+      "quote": "他从衣内又摸出一张空纸，准备让真正站在栈城高石上接信的人，告诉他波头从哪一面开始越过标记。",
+      "reason": "下一段的追问明确落到本岸高石的接信人、来水方向和标记顺序。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 588,
+      "quote": "站里第三步做完，停止的是进武器的供给。",
+      "reason": "前批直到580只获短窗与卸力规则；581住岸实证、582拒转、585实停、587旁支失效、588亲拔销，让阻止持续供给真正完成。589—590由两地末记与西回水接续，保持热和水头滞留的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 590,
+      "quote": "水头带起了砂，在西熟水第一道石尖旋了一回，再往前时看不见原来的亮边。",
+      "reason": "由签字到住岸后果，再由旁支损坏及军守入口转为谁来退与谁来接警，选择的代价逐次增加。西向实见升为前往栈城验证的本岸风险，东岸免被借槽而实读仍暖，两端都没有全域凉复的捷径。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

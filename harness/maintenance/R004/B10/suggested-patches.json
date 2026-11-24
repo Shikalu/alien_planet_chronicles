@@ -1,0 +1,107 @@
+{
+  "reviewer": "/root/r004_b07_reader",
+  "body_first": true,
+  "input_digest": "fd43f56f4807e3855da6a69555b95dd395037fb8a213121f1a7eb216c96909b5",
+  "patches": [
+    {
+      "issue_id": "R004-B10-I10",
+      "chapter": 94,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+      "before": "她用指腹沿裂缝试了一下，伤处碰不得冷玻璃，随即改用垫片边缘比着刻度。",
+      "after": "她用指腹沿裂缝试了一下，玻璃裂缘擦得伤处发疼，随即改用垫片边缘比着刻度。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I11",
+      "chapter": 95,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+      "before": "每涌过一阵汽，枕木上的沉垢便少一圈，露出的木纹却已经被烫得发黑。",
+      "after": "枕木上的沉垢边缘已经破碎，露出的木纹发黑；热汽一过，那些细小裂口便湿亮起来。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I12",
+      "chapter": 99,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+      "before": "雾一沾立柱便凝成滚烫水珠",
+      "after": "水雾沿立柱挂成滚烫水珠",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I13",
+      "chapter": 91,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+      "before": "三个人将他拖回上行侧，不是拖回已断的来路。",
+      "after": "三个人将他拖回上行侧。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I14",
+      "chapter": 92,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+      "before": "省料没有更好看，只是把原来靠木头做的活交给人的眼睛。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I15",
+      "chapter": 96,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+      "before": "他没有把断裂说成父亲活该，也没有因为心疼一把尺就把门当成仇人踢上一脚。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I16",
+      "chapter": 97,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+      "before": "这不是她忽然获得了开柜权限，只是一只本来就没关严的外柜。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I17",
+      "chapter": 97,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+      "before": "他可以继续盼它与家人有关，却不能让盼望顶替来源。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I18",
+      "chapter": 99,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+      "before": "胶边还没干裂，女孩的这句证词便比日期更近；她只说贴片发生在这一次热起来前，没有说孩子带着它等了好几年。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I19",
+      "chapter": 100,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+      "before": "每报一处支承，林渡都蹲下来再看一眼，然后让父亲指给下一个人认。",
+      "after": "父亲报出支承位置，林渡便看梁头受压时有没有松动，再让父亲指给下一个人认。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B10-I20",
+      "chapter": 91,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+      "before": "大家都在找一种更快的办法，真正能省下的却只是一次绊倒。",
+      "after": "",
+      "fact_change_required": false
+    }
+  ],
+  "excluded_issues": [
+    "R004-B10-I01",
+    "R004-B10-I02",
+    "R004-B10-I03",
+    "R004-B10-I04",
+    "R004-B10-I05",
+    "R004-B10-I06",
+    "R004-B10-I07",
+    "R004-B10-I08",
+    "R004-B10-I09"
+  ],
+  "note": "精确局部建议；没有改正文。不得以本建议表代替独立终审。"
+}

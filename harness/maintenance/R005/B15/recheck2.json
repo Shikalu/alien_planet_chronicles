@@ -1,0 +1,2099 @@
+{
+  "schema_version": 1,
+  "batch": "R005-B15",
+  "stage": "recheck_2",
+  "review_round": 2,
+  "date": "2026-11-07",
+  "writer": "R005-main",
+  "reviewer": "01a1b3d1-8a65-75b2-8484-e2414b4db24b",
+  "reviewer_id_source": "主线程转交的本次 subagent roster／工具ID；与本会话 CODEX_THREAD_ID 相符。",
+  "body_first": true,
+  "independent": true,
+  "fresh_first_read": false,
+  "body_first_statement": "本轮先核十章SHA，再完整实读143、146、147、148、149、150，之后才读复核1及本轮edits条目。141/142/144/145未重读全文，仅在SHA相等后继承本会话复核1完整实读。body_first指本轮正文先于本轮日志对照，不代表全新首次阅读；用户已提示修项，复核者也保有旧审知识。",
+  "manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0"
+    }
+  ],
+  "work_manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0"
+    }
+  ],
+  "input_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+  "source_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+  "digest_algorithm": "sha256(json.dumps(manuscripts,ensure_ascii=False,sort_keys=True).encode())；默认分隔符，章号升序，每项仅chapter/path/sha256。两摘要均绑定同一实际工作manifest，不冒充发布稿审读。",
+  "fingerprint_checks": {
+    "before_read": [
+      {
+        "chapter": 141,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+        "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+      },
+      {
+        "chapter": 142,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+        "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba"
+      },
+      {
+        "chapter": 143,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+        "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587"
+      },
+      {
+        "chapter": 144,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+        "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4"
+      },
+      {
+        "chapter": 145,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+        "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb"
+      },
+      {
+        "chapter": 146,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+        "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6"
+      },
+      {
+        "chapter": 147,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+        "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88"
+      },
+      {
+        "chapter": 148,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+        "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569"
+      },
+      {
+        "chapter": 149,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+        "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197"
+      },
+      {
+        "chapter": 150,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+        "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0"
+      }
+    ],
+    "after_read": [
+      {
+        "chapter": 141,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+        "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+      },
+      {
+        "chapter": 142,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+        "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba"
+      },
+      {
+        "chapter": 143,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+        "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587"
+      },
+      {
+        "chapter": 144,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+        "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4"
+      },
+      {
+        "chapter": 145,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+        "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb"
+      },
+      {
+        "chapter": 146,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+        "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6"
+      },
+      {
+        "chapter": 147,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+        "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88"
+      },
+      {
+        "chapter": 148,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+        "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569"
+      },
+      {
+        "chapter": 149,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+        "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197"
+      },
+      {
+        "chapter": 150,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+        "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0"
+      }
+    ],
+    "before_write_matches_frozen": true,
+    "after_write_matches_frozen": true,
+    "changed_since_review1": [
+      143,
+      147,
+      148,
+      149
+    ],
+    "unchanged_since_review1": [
+      141,
+      142,
+      144,
+      145,
+      146,
+      150
+    ],
+    "reverse_all_11_edits_reconstructs_review1_sha": true
+  },
+  "manuscript_metrics": [
+    {
+      "chapter": 141,
+      "bytes": 8140,
+      "body_han_count": 2247
+    },
+    {
+      "chapter": 142,
+      "bytes": 8398,
+      "body_han_count": 2325
+    },
+    {
+      "chapter": 143,
+      "bytes": 8235,
+      "body_han_count": 2283
+    },
+    {
+      "chapter": 144,
+      "bytes": 8064,
+      "body_han_count": 2231
+    },
+    {
+      "chapter": 145,
+      "bytes": 8281,
+      "body_han_count": 2294
+    },
+    {
+      "chapter": 146,
+      "bytes": 8206,
+      "body_han_count": 2261
+    },
+    {
+      "chapter": 147,
+      "bytes": 7906,
+      "body_han_count": 2229
+    },
+    {
+      "chapter": 148,
+      "bytes": 8125,
+      "body_han_count": 2218
+    },
+    {
+      "chapter": 149,
+      "bytes": 8451,
+      "body_han_count": 2324
+    },
+    {
+      "chapter": 150,
+      "bytes": 8581,
+      "body_han_count": 2345
+    }
+  ],
+  "sources": [
+    {
+      "path": "harness/maintenance/R005/B15/review-v1/recheck.json",
+      "sha256": "452fa7c3c64ba12cc546ad61b84b4aab7d945ccb29542cf97fcffe53bf75b528",
+      "coverage": "旧30问题及复核1新增2问题逐项对照；未改章全文实读继承来源。"
+    },
+    {
+      "path": "harness/maintenance/R005/B15/review-v1/reader-review.json",
+      "sha256": "c203014c3226f3d342d74e7115ce5f343eddf29a3c992076edff2f9918ce35ba",
+      "coverage": "既有52项逐项后置对照；改稿/接口重新判断，其余同SHA继承。"
+    },
+    {
+      "path": "harness/maintenance/R005/B15/review-v1/snapshot.json",
+      "sha256": "13aa4ec320e84e3f458bbecb48638699700630f5541f433eae93671cbab65c8c",
+      "coverage": "快照manifest与复核1指纹核对，不重新全文读历史副本。"
+    },
+    {
+      "path": "harness/maintenance/R005/edits.json",
+      "sha256": "3b6b0743c29212bcb3d18d4f4bfdbfb8b7ed2ca151b80324fa565c06042a984e",
+      "coverage": "本批11条零基索引207—217；105/110身份保留相关附引18/165/177；未据其他条目扩大审读。",
+      "selected_json_indices_zero_based": [
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217
+      ],
+      "related_identity_indices_zero_based": [
+        18,
+        165,
+        177
+      ]
+    }
+  ],
+  "reading_scope": [
+    "本轮全文重读143/147/148/149四份修改稿；146/150接口实际也阅读全文。",
+    "141/142/144/145仅继承复核1全文实读，核当前工作SHA相等；六个未改章均核SHA，其中146/150另行全文重读。",
+    "读后只核review-v1/recheck.json、reader-review.json及snapshot.json路径/指纹，主笔edits.json本批11条；用逆向应用11条重建复核1SHA，十章均一致。",
+    "105/110仅采用同一日志中身份保留相关附引（零基索引18/165/177），未扩大正文阅读；066/095只知本次任务/日志所述两案，不声明已核正文。",
+    "沿用已读AGENTS 8.1、三份规范与初审已核设定/台账范围；本轮仅回读skill editorial流程，未重新全文扫描作者资料。"
+  ],
+  "not_covered": [
+    "未读140/151或任何未来正文；未重读066/095/105/110正文。",
+    "未重审141/142/144/145全文；未重新审计全部台账、章卡、世界/角色资料；未获得F类或C06作者裁定。",
+    "本轮是同一独立审读者的增量复核，非全新首读；非黄金第一页/前三章审读。",
+    "不改正文/章卡/台账/编辑日志/旧报告/状态；不运行gate、close或verify-repair，不发布、不强行pass。"
+  ],
+  "chapter_reading_evidence": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7",
+      "read_mode": "inherited_review1_full_read_sha_unchanged",
+      "changed_since_review1": false,
+      "source_report": "harness/maintenance/R005/B15/review-v1/recheck.json",
+      "statement": "本轮未重读全文；继承同一审读者复核1完整实读，当前字节SHA与该轮完全相等。相关原句仅作证据存在性校验，不冒称新首读。"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba",
+      "read_mode": "inherited_review1_full_read_sha_unchanged",
+      "changed_since_review1": false,
+      "source_report": "harness/maintenance/R005/B15/review-v1/recheck.json",
+      "statement": "本轮未重读全文；继承同一审读者复核1完整实读，当前字节SHA与该轮完全相等。相关原句仅作证据存在性校验，不冒称新首读。"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587",
+      "read_mode": "current_full_reread",
+      "changed_since_review1": true,
+      "location": "五层出发，经坡口到封墙外垫毡，停凿后上坡。",
+      "identity_goal": "林栖短抄/拓号，祝衡按工具；核号而非替杜姨顶照护班。",
+      "rules_causality": "查看两根錾、仅带号者可拓；五件四号，一光杆存疑。落屑促停凿、重打撑。",
+      "quote": "五件家什看完，只拓出四个号。",
+      "hesitation": "旧拓两根卡点已消失；本轮未新增必须改的语病。",
+      "continue_point": "老工师隔缝问手伤，下一步重打撑有明确理由。",
+      "exit_point": "原C02不再构成退出点；仍不把认号当亲手领料证明。",
+      "evidence": {
+        "chapter": 143,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+        "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587",
+        "quote": "五件家什看完，只拓出四个号。",
+        "line": 45,
+        "read_basis": "current_full_reread"
+      }
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4",
+      "read_mode": "inherited_review1_full_read_sha_unchanged",
+      "changed_since_review1": false,
+      "source_report": "harness/maintenance/R005/B15/review-v1/recheck.json",
+      "statement": "本轮未重读全文；继承同一审读者复核1完整实读，当前字节SHA与该轮完全相等。相关原句仅作证据存在性校验，不冒称新首读。"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb",
+      "read_mode": "inherited_review1_full_read_sha_unchanged",
+      "changed_since_review1": false,
+      "source_report": "harness/maintenance/R005/B15/review-v1/recheck.json",
+      "statement": "本轮未重读全文；继承同一审读者复核1完整实读，当前字节SHA与该轮完全相等。相关原句仅作证据存在性校验，不冒称新首读。"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6",
+      "read_mode": "current_full_reread",
+      "changed_since_review1": false,
+      "location": "一人宽缝口内外两侧，随后撤缝上坡。",
+      "identity_goal": "林渡排出老赵；阿苗内侧提示，照护者外侧安抚；下一载定老陈。",
+      "rules_causality": "头夜预排、窄板已做，汽来撤退；档匣复掩，下一载急救老陈。",
+      "quote": "人是老陈。躺了三年，背上的疮等不得。",
+      "hesitation": "与148无条件匣优先承诺仍冲突，F05不关；日次F04不关。",
+      "continue_point": "老赵掌心拍数安定；老陈急迫、匣还未出。",
+      "exit_point": "若148把救人次序交给无条件否决，会削弱已承诺的急救可信度。",
+      "evidence": {
+        "chapter": 146,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+        "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6",
+        "quote": "人是老陈。躺了三年，背上的疮等不得。",
+        "line": 87,
+        "read_basis": "current_full_reread"
+      }
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88",
+      "read_mode": "current_full_reread",
+      "changed_since_review1": true,
+      "location": "转运坡路、中继与五层棚内新组账页。",
+      "identity_goal": "照护者/阿九送老赵，成人腾铺；杜姨登记、照护，林渡交病情与实领。",
+      "rules_causality": "三项水耗两笔半，候汽时长另记；失联者姓名来处保留，只空归队栏，老赵另有本组新页中的一行。",
+      "quote": "姓名和来处都在，归队栏空了很多天了。",
+      "hesitation": "摆手释义及水账辩护已去，未新增必须改的语言问题；身份继承历史只在后置日志范围核对。",
+      "continue_point": "不拿失联者顶新人，夜里留灯，安置具有具体情绪回报。",
+      "exit_point": "本轮没有新增明确退出点；不靠删安置过程提速。",
+      "evidence": {
+        "chapter": 147,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+        "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88",
+        "quote": "姓名和来处都在，归队栏空了很多天了。",
+        "line": 53,
+        "read_basis": "current_full_reread"
+      }
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569",
+      "read_mode": "current_full_reread",
+      "changed_since_review1": true,
+      "location": "五层棚外水缸边，弥娅伤腿夹板仍在。",
+      "identity_goal": "弥娅问取档共同次序，林渡承担预排未问责任；二人继续接译。",
+      "rules_causality": "准备时可征询，与现场三口气限制已分开；三条为抄本先行、先问受潮、存疑画圈。",
+      "quote": "排手位时没问你，到缝口也没有再问，是我的错。",
+      "hesitation": "C04与S01卡点已清；“你回了不让，匣先走，人后挪”的F05仍是停顿点。",
+      "continue_point": "认责、接译、保留圈记让争执有合作结果。",
+      "exit_point": "未经裁定的下一载无条件压后伤员仍会破坏读者信任。",
+      "evidence": {
+        "chapter": 148,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+        "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569",
+        "quote": "排手位时没问你，到缝口也没有再问，是我的错。",
+        "line": 41,
+        "read_basis": "current_full_reread"
+      }
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197",
+      "read_mode": "current_full_reread",
+      "changed_since_review1": true,
+      "location": "五层账桌三处摆证，夜间核账至天快亮。",
+      "identity_goal": "林栖读号、弥娅找单、老赵认主、祝衡笔录，筹备两账公开。",
+      "rules_causality": "本人认主不再推出连续持用三十年；三圈明确为光杆归属、日期、签收身份，洇字另记已校改。",
+      "quote": "挂着的：一根无号錾的归属，一处没填的日子，还有签收人的身份。洇开的字已经标改，原痕留着。",
+      "hesitation": "C08/N01已清；天快亮后明天晚上与150接口仍待F04，半盏灯油仍待F03。",
+      "continue_point": "“工没停。账没停。停的是名字。”兑现前面工具与人证线。",
+      "exit_point": "若日期或供灯来源继续不可核，会拖累公开可信度；本轮不代裁。",
+      "evidence": {
+        "chapter": 149,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+        "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197",
+        "quote": "挂着的：一根无号錾的归属，一处没填的日子，还有签收人的身份。洇开的字已经标改，原痕留着。",
+        "line": 55,
+        "read_basis": "current_full_reread"
+      }
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0",
+      "read_mode": "current_full_reread",
+      "changed_since_review1": false,
+      "location": "五层棚前空地木板，护线延至坡口。",
+      "identity_goal": "林渡/戊字一公开两账，林岑自己念责；面具者要求封纸，先保送水再约谈纸。",
+      "rules_causality": "三圈有149对应对象；老陈包含墙内三口；核数后证据留板，谈纸明晚是公开之后另一事件。",
+      "quote": "此处存疑，此处存疑，此处存疑——三处，一个没抹。",
+      "hesitation": "三圈接口已顺；年代、灯与绝对日次仍待裁。未见日志所称三口气记账引用。",
+      "continue_point": "水照走、纸待谈，未知批单者和保护家属形成下一步。",
+      "exit_point": "不把公开场面的情绪兑现当未决事实已通过。",
+      "evidence": {
+        "chapter": 150,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+        "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0",
+        "quote": "此处存疑，此处存疑，此处存疑——三处，一个没抹。",
+        "line": 47,
+        "read_basis": "current_full_reread"
+      }
+    }
+  ],
+  "verdict": "issues",
+  "logic_verdict": "issues",
+  "reader_pull_verdict": "needs_revision",
+  "previous_issue_count": 32,
+  "previous_issue_basis": "initial30项＋复核1新增N01/N02；不把复核1新增项漏出本轮逐项处置。",
+  "old_issue_status_counts": {
+    "closed": 25,
+    "open": 0,
+    "pending_author": 7
+  },
+  "issue_resolutions": [
+    {
+      "id": "R005-B15-F01",
+      "chapter": 141,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "original_quote": "你说的号，是三十年前的事。",
+      "quote": "你说的号，是三十年前的事。",
+      "current_evidence": [
+        {
+          "chapter": 141,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+          "quote": "你说的号，是三十年前的事。",
+          "line": 31,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "第二栏，塌方那年封门，他十六岁，坡上背工具，亲见；",
+          "line": 53,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "识人/从业三十年、十六岁亲见封门、墙龄及连续在岗史仍混用。46岁与16年前本地爆破不能推导所有封门发生在同一年；本轮无作者裁定。",
+      "suggestion": "分别裁定从业识人、外段初封、现墙封存、本地爆破四条年代。保留林岑本地爆破责任；未裁不全改十六年，也不私造另一场灾变。",
+      "needs_author_decision": true,
+      "verification": {
+        "reread_chapters": [
+          150
+        ],
+        "inherited_sha_unchanged_chapters": [
+          141
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-F02",
+      "chapter": 145,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "original_quote": "霉的那瓮，上层还清，撇出半瓮，底下带霉的沉渣不算数。",
+      "quote": "霉的那瓮，上层还清，撇出半瓮，底下带霉的沉渣不算数。",
+      "current_evidence": [
+        {
+          "chapter": 145,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+          "quote": "霉的那瓮，上层还清，撇出半瓮，底下带霉的沉渣不算数。",
+          "line": 47,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 145,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+          "quote": "数完记账：可纳入的，一瓮半。",
+          "line": 47,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      ],
+      "reason": "仍由清澈外观直接转入可纳用水；初审已核资源台账把这半瓮计为饮用水。表面清澈不足以在故事内建立可饮判据；不是加法错误。",
+      "suggestion": "作者确认霉究竟在封布/外壁还是水里；如为水污染，批准可饮量或有来源的处理过程及损耗。不得直接扣半瓮、添加煮沸/过滤/盐药/能源来关闭问题。",
+      "needs_author_decision": true,
+      "verification": {
+        "reread_chapters": [],
+        "inherited_sha_unchanged_chapters": [
+          145
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-F03",
+      "chapter": 141,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "original_quote": "灯花爆了一下，他伸手把灯芯捻小了些。",
+      "quote": "灯花爆了一下，他伸手把灯芯捻小了些。",
+      "current_evidence": [
+        {
+          "chapter": 141,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+          "quote": "灯花爆了一下，他伸手把灯芯捻小了些。",
+          "line": 81,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "这一来一回，半盏灯油下去了。",
+          "line": 47,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "他吹熄了账桌上的一盏灯，留了一盏给木板。",
+          "line": 110,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "灯芯、燃烧和耗油仍在；没有新证据确认棚内灯、墙内灯与随队手摇冷凝灯分别是什么。不能把不同场地的灯一律认成同一盏，也不能凭空承认燃油库存。",
+      "suggestion": "按持有人和场地确认灯型、数量、来源、耗材；只对已确认同一手摇灯改动作。未确认的油灯和半盏油保留裁定，不用统删灯焰掩盖来源。",
+      "needs_author_decision": true,
+      "verification": {
+        "reread_chapters": [
+          149,
+          150
+        ],
+        "inherited_sha_unchanged_chapters": [
+          141
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-F04",
+      "chapter": 145,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "original_quote": "明天凉时，他出这道缝。",
+      "quote": "明天凉时，他出这道缝。",
+      "current_evidence": [
+        {
+          "chapter": 145,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+          "quote": "明天凉时，他出这道缝。",
+          "line": 89,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 146,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+          "quote": "过缝排在第二天凉时，汽退最长的那一段。",
+          "line": 3,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "三遍过完，天快亮了。",
+          "line": 53,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "“明天晚上。”他说",
+          "line": 75,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "账桌搬到棚前空地，是第二天掌灯时分。",
+          "line": 3,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "相对日次链未改。初审已核台账D22过缝、D24掌灯公开；145收束参照、147至148是否隔日、149天快亮后的“明天”仍不能顺畅对齐。150章末明晚是谈纸，不能拿来替公开日解围。",
+      "suggestion": "先由作者确认事件日历，优先尊重已发生日次。若149说话已在D24天亮后，则公开称当晚而非明晚；此改动须在参照日获确认后实施。151仅保留初审边界风险，本轮未重新读或改151。",
+      "needs_author_decision": true,
+      "verification": {
+        "reread_chapters": [
+          146,
+          149,
+          150
+        ],
+        "inherited_sha_unchanged_chapters": [
+          145
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-F05",
+      "chapter": 148,
+      "severity": "严重",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "original_quote": "你回了‘不让’，匣先走，人后挪。",
+      "quote": "你回了‘不让’，匣先走，人后挪。",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "你回了‘不让’，匣先走，人后挪。",
+          "line": 67,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 146,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+          "quote": "人是老陈。躺了三年，背上的疮等不得。",
+          "line": 87,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "三条编号整理不能关闭决策权问题。征询仍自动变成人命/档案次序否决权，与已安排老陈下一载和伤势紧迫性抵牾。",
+      "suggestion": "作者明确共同预排、现场急救优先与查档异议的边界；保留弥娅参与权及档案延误代价。不能删她的发言权假修，也不能私定匣先人后生效。",
+      "needs_author_decision": true,
+      "verification": {
+        "reread_chapters": [
+          146,
+          148
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-F06",
+      "chapter": 144,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "original_quote": "压缝的留到最后，卸之前先把撑打好。",
+      "quote": "压缝的留到最后，卸之前先把撑打好。",
+      "current_evidence": [
+        {
+          "chapter": 144,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+          "quote": "压缝的留到最后，卸之前先把撑打好。",
+          "line": 37,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 144,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+          "quote": "两副管卡先下",
+          "line": 39,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 144,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+          "quote": "最后是料架。",
+          "line": 39,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      ],
+      "reason": "规则说先撑后卸，实际卸件仍未区分哪些压缝、撑何时到位。两根好料让墙仅证明资源调配，不证明施工已完成。",
+      "suggestion": "作者确认三项是否均非压缝件；若均非压缝，说明压缝件暂留；否则补已实际实施的撑就位及验缝承接。不得虚构支点、额外材料或施工完成。",
+      "needs_author_decision": true,
+      "verification": {
+        "reread_chapters": [],
+        "inherited_sha_unchanged_chapters": [
+          144
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-C01",
+      "chapter": 143,
+      "severity": "严重",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "到坡腰凳那儿歇脚，她把抄件铺在膝盖上，就着祝衡挡风的背，一个号一个号地对。",
+      "quote": "林栖还留在墙外的垫毡边",
+      "current_evidence": [
+        {
+          "chapter": 143,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+          "quote": "林栖还留在墙外的垫毡边",
+          "line": 45,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 143,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+          "quote": "上坡的路上她走在祝衡身后",
+          "line": 83,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "对号留在墙外垫毡，落屑停凿后再上坡，原坡腰/缝口瞬移消失。",
+      "suggestion": "保持这一顺序；不补多一趟往返。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          143
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C02",
+      "chapter": 143,
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "錾二号不对。领单上“尖錾”那笔的号，跟拓出来的对不上。",
+      "quote": "四根錾里查看了两根。带号的一根拓了号，另一根是回炉重打的光杆，没有号可拓；余下两根没动。",
+      "current_evidence": [
+        {
+          "chapter": 143,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+          "quote": "四根錾里查看了两根。带号的一根拓了号，另一根是回炉重打的光杆，没有号可拓；余下两根没动。",
+          "line": 35,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 143,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+          "quote": "五件家什看完，只拓出四个号。",
+          "line": 45,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "查看两根与仅拓带号一根已经分开；五件、四号、一光杆、另两根未动的数量链相合。",
+      "suggestion": "无需继续改数量或补号。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          143
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C03",
+      "chapter": 146,
+      "severity": "严重",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "阿苗在他背后按住他的肩。",
+      "quote": "阿苗仍在口内的灯边",
+      "current_evidence": [
+        {
+          "chapter": 146,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+          "quote": "阿苗仍在口内的灯边",
+          "line": 43,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 146,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+          "quote": "阿苗在口内说：“拍拍他的掌心，两下，停，再两下。”",
+          "line": 55,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 146,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+          "quote": "照护者蹲在老赵身边，托起他的手",
+          "line": 55,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "阿苗在内侧提示、外侧既有照护者实施；无新增第二人过缝。",
+      "suggestion": "保持内外侧分工及提示来源。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          146
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C04",
+      "chapter": 148,
+      "severity": "严重",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "缝口上就三口气的工夫。人或者匣。",
+      "quote": "手位头天夜里就排定了",
+      "current_evidence": [
+        {
+          "chapter": 146,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+          "quote": "手位头天夜里就排定了",
+          "line": 5,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "手位是头天夜里排的，托板也是连夜改的。今早在缝口，我又念了一遍只过一个人的条件。",
+          "line": 27,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "不是让你把人堵在缝里等，是在准备的时候先问一句。",
+          "line": 29,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "排手位时没问你，到缝口也没有再问，是我的错。",
+          "line": 41,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "三口气的次序未问，责任在渡。",
+          "line": 43,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "146预排、缝口执行与148回述已经对齐；弥娅明确把征询放在准备时段，不再要求三口气内往返传讯。保留的自书短句在紧邻认责对话中指这次执行次序，不再被用作“直到临场才决定”的原因。只关闭预排/时限因果，不关闭F05下一载的否决承诺。",
+      "suggestion": "预排因果无需再改；“匣先人后”的权利边界仍交F05裁定。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          146,
+          148
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C05",
+      "chapter": 147,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "在途饮用一笔，洒耗半笔，汽班折损一笔",
+      "quote": "在途饮用一笔，洒耗半笔，罐壁残留一笔。",
+      "current_evidence": [
+        {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "quote": "在途饮用一笔，洒耗半笔，罐壁残留一笔。",
+          "line": 59,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "quote": "候汽时长另记行程。",
+          "line": 59,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "复核2全文确认三扣事实仍正确，候汽与水耗继续分开；N02的冗长解释也已独立关闭，不重开资源事实。",
+      "suggestion": "保留三项类别和两笔半；只精简N02的审校口吻，不编容积换算。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          147
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C06",
+      "chapter": 141,
+      "severity": "中等",
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "original_quote": "册页夹层里，那截裂尺露出一角，他按了按，没让它滑出来。",
+      "quote": "册页夹层里，那截裂尺露出一角，他按了按，没让它滑出来。",
+      "current_evidence": [
+        {
+          "chapter": 141,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+          "quote": "册页夹层里，那截裂尺露出一角，他按了按，没让它滑出来。",
+          "line": 85,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 142,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+          "quote": "裂尺仍搁在随身工具的原位。",
+          "line": 85,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      ],
+      "reason": "142仅删自辩，141册夹与142工具原位仍并存。编辑日志新增引文称第101—110章后人物台账已记“水票册（内夹裂尺作证物、签名的工时单、小半包盐药）”；本轮只核日志附引，未扩读该早期台账。初审直接移尺建议因此不再无条件安全。",
+      "suggestion": "先由主线程/作者核实较高优先级台账与物件规则，确定册夹是否合法及“工具原位”是否同处；未核前不要按初审把141裂尺擅移到工具袋。若确认册夹为已发生且可保留，再将142对应位置写实。",
+      "needs_author_decision": true,
+      "verification": {
+        "reread_chapters": [],
+        "inherited_sha_unchanged_chapters": [
+          141,
+          142
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-C07",
+      "chapter": 142,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "墨迹在纸上洇开了一小团",
+      "quote": "炭痕压得很深——落笔的地方停过很久，笔尖旁边积了一小撮炭灰。",
+      "current_evidence": [
+        {
+          "chapter": 142,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+          "quote": "炭痕压得很深——落笔的地方停过很久，笔尖旁边积了一小撮炭灰。",
+          "line": 5,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      ],
+      "reason": "炭笔对应炭痕/炭灰，不再无来源地墨迹洇开。",
+      "suggestion": "保留，不添加墨水来源。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [],
+        "inherited_sha_unchanged_chapters": [
+          142
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-C08",
+      "chapter": 143,
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "两处对上，就是说这工具的主人亲手领过料、亲手换过件。",
+      "quote": "同号还不能说明谁亲自领、谁亲自换过件",
+      "current_evidence": [
+        {
+          "chapter": 143,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+          "quote": "同号还不能说明谁亲自领、谁亲自换过件",
+          "line": 47,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 144,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+          "quote": "不能拿这一件替别的作数。",
+          "line": 59,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "更不能定在我们手里最早那笔之前几年。",
+          "line": 25,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "石板上的两个字写得很重。他举着没有放下，等桌边的人看清，才把石板转向祝衡。",
+          "line": 19,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "149已撤“自己的东西，摸了三十年”的持续持用确证，保留本人写“我的”及展示动作；与143同号边界、144母模边界和149无日期旧写法相容。不据此裁定F01年代。",
+      "suggestion": "保留本人认领，勿补借还年史。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          143,
+          149
+        ],
+        "inherited_sha_unchanged_chapters": [
+          144
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-C09",
+      "chapter": 145,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "让她数指头，他数对了；让她扶他走三步",
+      "quote": "她在外侧举起手指让老赵数，他数对了；她请里侧的老工师扶他走三步",
+      "current_evidence": [
+        {
+          "chapter": 145,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+          "quote": "她在外侧举起手指让老赵数，他数对了；她请里侧的老工师扶他走三步",
+          "line": 33,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      ],
+      "reason": "数手指主语为老赵，外侧照护者和内侧扶行者分清，尾段不再暗示外侧者已跨墙扶人。",
+      "suggestion": "保持检查主体，不新增过缝。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [],
+        "inherited_sha_unchanged_chapters": [
+          145
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-C10",
+      "chapter": 145,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "缝就一个，出了缝的人回不去，序排错了，没有第二次。",
+      "quote": "到了口边才发现接手不够，就得退开等下一次，不能硬挤。",
+      "current_evidence": [
+        {
+          "chapter": 145,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+          "quote": "到了口边才发现接手不够，就得退开等下一次，不能硬挤。",
+          "line": 21,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      ],
+      "reason": "无依据的永久单向门已改成当轮窗口及接手不足限制，与撤回条件可并存。",
+      "suggestion": "保留窗口和接手限制，不恢复“出了便回不去”。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [],
+        "inherited_sha_unchanged_chapters": [
+          145
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-C11",
+      "chapter": 146,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "下一载，老陈。托板改窄，今晚改出来。",
+      "quote": "窄托板已经备着，就照你说的，把他那副垫层再压厚半指，今晚做出来。",
+      "current_evidence": [
+        {
+          "chapter": 146,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+          "quote": "窄托板已经备着，就照你说的，把他那副垫层再压厚半指，今晚做出来。",
+          "line": 89,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "板已改窄与今夜补垫层成为两项动作，不再重复下令锯窄。",
+      "suggestion": "保持窄板已备/垫层待做的区别。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          146
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C12",
+      "chapter": 147,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "灯一晃，坡口的灯就回一下。",
+      "quote": "老赵走在中段，每过一个橛子都扶一下绳。绳子绷得紧，他的手就松一分——这条路上每一段，都是有人在头里走过、试过、留下的。他不懂什么立路的规矩，可他懂这个。灯一晃，坡口的灯就回一下。一出一进，隔着一面坡对得上。",
+      "current_evidence": [
+        {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "quote": "老赵走在中段，每过一个橛子都扶一下绳。绳子绷得紧，他的手就松一分——这条路上每一段，都是有人在头里走过、试过、留下的。他不懂什么立路的规矩，可他懂这个。灯一晃，坡口的灯就回一下。一出一进，隔着一面坡对得上。",
+          "line": 13,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "相邻重复的灯号应答已合并一次，出/进交接含义还在；未据此裁定灯型和灯油。",
+      "suggestion": "保留一次信号应答与两头交接；灯源另见F03。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          147
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C13",
+      "chapter": 148,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "第三条规矩不用她立了，他自己答上了。",
+      "quote": "第三条先放一放。规矩之外，你先答我一句话。",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "第三条先放一放。规矩之外，你先答我一句话。",
+          "line": 65,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "还有第三条——我译出来的每一处拿不准的地方，我画圈。",
+          "line": 91,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "抄本先行，先问受潮，存疑画圈。",
+          "line": 104,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "原三条与另问征询权已明确分开，第三条画圈及末尾复述一致。编号关闭不替F05承诺背书。",
+      "suggestion": "保持三条编号；不要为关闭F05再删共同征询。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          148
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C14",
+      "chapter": 148,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "低头从怀里摸出那卷阿苗捎上来的账页",
+      "quote": "拿起手边摊着的那卷阿苗账页",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "拿起手边摊着的那卷阿苗账页",
+          "line": 73,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "把余下半卷也展开",
+          "line": 79,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "手边半摊→拿起→展开余下半卷的取放链可读，不再从怀里凭空重新取同卷。",
+      "suggestion": "保持同一账卷，勿添第二卷解释。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          148
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C15",
+      "chapter": 148,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "拄着夹板挪到棚外来",
+      "quote": "护着伤腿挪到棚外来",
+      "current_evidence": [
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "护着伤腿挪到棚外来",
+          "line": 5,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "她一手扶着缸沿慢慢站起来",
+          "line": 97,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "夹板不再充当拐杖，起身借已有水缸沿，没有新增器具。",
+      "suggestion": "保留伤腿承重限制；这不是解除伤势。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          148
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C16",
+      "chapter": 149,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "对账的灯点了三盏，一张是拓号纸，一张是领单抄件，一张空着——留给老赵的石板。",
+      "quote": "对账的灯点了三盏。桌面分出三处：",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "对账的灯点了三盏。桌面分出三处：",
+          "line": 3,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "灯数量与桌面三处各有主语，消除从灯突然数到一张纸的参照跳转。",
+      "suggestion": "保留分句；三盏来源不在本项关闭范围。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          149
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C17",
+      "chapter": 149,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "两张纸是同一天送的，同一批人抄的",
+      "quote": "不是同一批抄件，却都记着这段外段，得把各自的来源和所记时段一并留在这里",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "不是同一批抄件，却都记着这段外段，得把各自的来源和所记时段一并留在这里",
+          "line": 63,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "分别交代系统表已核出处、站账戊字一托送水班送达，不再造同日同批来源。",
+      "suggestion": "保持来源/记载时段分开，不凭空定抄写日期。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          149
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C18",
+      "chapter": 149,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "那页写着“亡”的系统表抄件摊在桌上，一夜没收。",
+      "quote": "系统表仍摊在左边，站账抄页仍在右边，笔录另叠在旁",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "系统表仍摊在左边，站账抄页仍在右边，笔录另叠在旁",
+          "line": 73,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "那页写着“亡”的系统表抄件摊在桌上，一夜没收。",
+          "line": 85,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "两份抄件持续留桌；折入袖袋的是祝衡另记单子，未再出现同纸收好又从未收。",
+      "suggestion": "保持压边而非扣收的动作。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          149
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C19",
+      "chapter": 149,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "守夜的老赵睡得晚。",
+      "quote": "核账后还没睡的老赵起身回铺位。",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "核账后还没睡的老赵起身回铺位。",
+          "line": 88,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "老赵不再被写为守夜岗位人员，仍是核账后未睡的新救伤员。",
+      "suggestion": "保留其压纸动作与照护需要。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          149
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C20",
+      "chapter": 150,
+      "severity": "中等",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "墙里三口人等着水，托板上还躺着一位没出来。",
+      "quote": "墙里三口人等着水，老陈就在这三口里，还躺着等下一载。",
+      "current_evidence": [
+        {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "墙里三口人等着水，老陈就在这三口里，还躺着等下一载。",
+          "line": 85,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "老陈明确包含在三人内，没有提前置于托板或加算第四人。",
+      "suggestion": "保持包含关系和下一载未出墙状态。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          150
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C21",
+      "chapter": 150,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "画完他把炭条搁下",
+      "quote": "戊字一把画框的炭条搁下",
+      "current_evidence": [
+        {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "戊字一把画框的炭条搁下",
+          "line": 49,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "松的钉脚压牢，纸仍留在原处，点齐了数。",
+          "line": 101,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "画框者明确回接戊字一；末尾核数、压牢和留板展示一致。",
+      "suggestion": "保持当夜留板与护线值守，不改成提前撤下材料。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          150
+        ],
+        "inherited_sha_unchanged_chapters": []
+      }
+    },
+    {
+      "id": "R005-B15-C22",
+      "chapter": 141,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "他写下的那页纸，从明天起，有地方去。",
+      "quote": "父亲正在写的那页证词，明天要由他带下坡，请墙内的人核认。",
+      "current_evidence": [
+        {
+          "chapter": 141,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+          "quote": "父亲正在写的那页证词，明天要由他带下坡，请墙内的人核认。",
+          "line": 92,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      ],
+      "reason": "章末物件与下一动作已明确，非林渡总账和父亲证词混指。",
+      "suggestion": "保留证词所属与核认对象。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [],
+        "inherited_sha_unchanged_chapters": [
+          141
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-S01",
+      "chapter": 142,
+      "severity": "轻微",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "桌上每个人都会写框，写框不用学。",
+      "quote": "她也在抄件相同的位置画了一个框",
+      "current_evidence": [
+        {
+          "chapter": 142,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+          "quote": "她也在抄件相同的位置画了一个框",
+          "line": 25,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "quote": "西墙那头有个居民摆摆手。",
+          "line": 41,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "她说完看了林渡一眼，把“缺口”两个字又咬了一遍。",
+          "line": 55,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "原命中的摆手释义与三层咬法翻译已经删除；现由手势、发音和后续接译/画圈条件承接。142等未改处以同SHA继承复核1，不宣称全书或所有旁白都已无AI腔。",
+      "suggestion": "本组已定位的翻译句无需再改；不为去旁白删掉弥娅参与权。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          147,
+          148
+        ],
+        "inherited_sha_unchanged_chapters": [
+          142
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-S02",
+      "chapter": 144,
+      "severity": "轻微",
+      "previous_status": "closed",
+      "status": "closed",
+      "original_quote": "描图的时候，祝衡把纸压得很平，炭条走得慢。",
+      "quote": "描到铸字，他把纸贴近了些，炭条走得慢。",
+      "current_evidence": [
+        {
+          "chapter": 144,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+          "quote": "描到铸字，他把纸贴近了些，炭条走得慢。",
+          "line": 59,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 144,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+          "quote": "描完他没动手碰那件铁",
+          "line": 61,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "她把尾巴描在纸边，跟阿苗账页上的写法一对——同一个尾巴。",
+          "line": 31,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "母模对话已并入首次描图，覆回后不再整段倒回；尾笔保留一次描对。144后一句等待尺寸注完略可压缩，但未再重复整套描图，不据此强开新问题。149三遍读号/找单/认主是不同分工，应保留。",
+      "suggestion": "保持描图→覆回与一次尾笔对照；不把三种核证分工当流水账删除。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          149
+        ],
+        "inherited_sha_unchanged_chapters": [
+          144
+        ]
+      }
+    },
+    {
+      "id": "R005-B15-N01",
+      "chapter": 149,
+      "severity": "中等",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "挂着的：一根无号錾的归属，一处没填的日子，一处洇了的字。",
+      "quote": "最后一处圈，画在签收上。",
+      "current_evidence": [
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "最后一处圈，画在签收上。",
+          "line": 37,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "挂着的：一根无号錾的归属，一处没填的日子，还有签收人的身份。洇开的字已经标改，原痕留着。",
+          "line": 55,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "此处存疑，此处存疑，此处存疑——三处，一个没抹。",
+          "line": 47,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "149总结恢复无号錾归属、未填日期、签收身份三项；已校改洇字另记原痕，不再偷换第三圈。150三处的接口可承接，无需新增第四疑项。",
+      "suggestion": "保持三圈与校改记录分开，不抹原痕。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          149,
+          150
+        ],
+        "inherited_sha_unchanged_chapters": []
+      },
+      "origin": "初审漏检的原稿遗留；published149仍匹配初审SHA，原稿已含签收圈及已校改洇字，编辑E149-05只改无号錾措辞，不把本问题归罪于安全编辑。"
+    },
+    {
+      "id": "R005-B15-N02",
+      "chapter": 147,
+      "severity": "轻微",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "这两笔半是当班三项水耗的合计，仍照账上的份额记，不另折成几罐；候汽耽搁多久记在行程上，不能从等了几息推算少了多少水。",
+      "quote": "在途饮用一笔，洒耗半笔，罐壁残留一笔。三项合记两笔半，候汽时长另记行程。",
+      "current_evidence": [
+        {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "quote": "在途饮用一笔，洒耗半笔，罐壁残留一笔。三项合记两笔半，候汽时长另记行程。",
+          "line": 59,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "两层对审校的换算辩护已压成一句，三扣类别、两笔半总额和候汽另记均保留，随后即接成人公共份收紧。",
+      "suggestion": "保持现句，无需补容积、净化或水量事实。",
+      "needs_author_decision": false,
+      "verification": {
+        "reread_chapters": [
+          147
+        ],
+        "inherited_sha_unchanged_chapters": []
+      },
+      "origin": "安全编辑E147-03的新增措辞；before/after已逐段核对。"
+    }
+  ],
+  "new_issues": [
+    {
+      "id": "R005-B15-LOG01",
+      "chapter": 148,
+      "severity": "轻微",
+      "status": "open",
+      "scope": "edit_log_only",
+      "path": "harness/maintenance/R005/edits.json",
+      "json_index_zero_based": 214,
+      "source_sha256": "3b6b0743c29212bcb3d18d4f4bfdbfb8b7ed2ca151b80324fa565c06042a984e",
+      "quote": "B15复核1 C04：认责涵盖预排与执行前，保留后文三口气原记账以承接150引用。",
+      "problem": "日志称保留三口气原记账“以承接150引用”；本轮全文读取150，未见该短句或三口气记账的引用。这条日志解释没有当前正文支持，不作为C04关闭依据。正文的预排认责已由146/148相邻原句支持。",
+      "suggestion": "仅将日志理由尾部改为“保留148自书原句，由相邻预排认责对话限定含义”，撤去未经文本支持的150引用说法；不改正文、不新增150台词。",
+      "needs_author_decision": false,
+      "blocks_manuscript_safe_repair_closure": false
+    }
+  ],
+  "new_manuscript_issues": [],
+  "issues": [
+    {
+      "id": "R005-B15-F01",
+      "chapter": 141,
+      "severity": "严重",
+      "status": "pending_author",
+      "scope": "manuscript",
+      "quote": "你说的号，是三十年前的事。",
+      "problem": "识人/从业三十年、十六岁亲见封门、墙龄及连续在岗史仍混用。46岁与16年前本地爆破不能推导所有封门发生在同一年；本轮无作者裁定。",
+      "suggestion": "分别裁定从业识人、外段初封、现墙封存、本地爆破四条年代。保留林岑本地爆破责任；未裁不全改十六年，也不私造另一场灾变。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "R005-B15-F02",
+      "chapter": 145,
+      "severity": "严重",
+      "status": "pending_author",
+      "scope": "manuscript",
+      "quote": "霉的那瓮，上层还清，撇出半瓮，底下带霉的沉渣不算数。",
+      "problem": "仍由清澈外观直接转入可纳用水；初审已核资源台账把这半瓮计为饮用水。表面清澈不足以在故事内建立可饮判据；不是加法错误。",
+      "suggestion": "作者确认霉究竟在封布/外壁还是水里；如为水污染，批准可饮量或有来源的处理过程及损耗。不得直接扣半瓮、添加煮沸/过滤/盐药/能源来关闭问题。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "R005-B15-F03",
+      "chapter": 141,
+      "severity": "中等",
+      "status": "pending_author",
+      "scope": "manuscript",
+      "quote": "灯花爆了一下，他伸手把灯芯捻小了些。",
+      "problem": "灯芯、燃烧和耗油仍在；没有新证据确认棚内灯、墙内灯与随队手摇冷凝灯分别是什么。不能把不同场地的灯一律认成同一盏，也不能凭空承认燃油库存。",
+      "suggestion": "按持有人和场地确认灯型、数量、来源、耗材；只对已确认同一手摇灯改动作。未确认的油灯和半盏油保留裁定，不用统删灯焰掩盖来源。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "R005-B15-F04",
+      "chapter": 145,
+      "severity": "严重",
+      "status": "pending_author",
+      "scope": "manuscript",
+      "quote": "明天凉时，他出这道缝。",
+      "problem": "相对日次链未改。初审已核台账D22过缝、D24掌灯公开；145收束参照、147至148是否隔日、149天快亮后的“明天”仍不能顺畅对齐。150章末明晚是谈纸，不能拿来替公开日解围。",
+      "suggestion": "先由作者确认事件日历，优先尊重已发生日次。若149说话已在D24天亮后，则公开称当晚而非明晚；此改动须在参照日获确认后实施。151仅保留初审边界风险，本轮未重新读或改151。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "R005-B15-F05",
+      "chapter": 148,
+      "severity": "严重",
+      "status": "pending_author",
+      "scope": "manuscript",
+      "quote": "你回了‘不让’，匣先走，人后挪。",
+      "problem": "三条编号整理不能关闭决策权问题。征询仍自动变成人命/档案次序否决权，与已安排老陈下一载和伤势紧迫性抵牾。",
+      "suggestion": "作者明确共同预排、现场急救优先与查档异议的边界；保留弥娅参与权及档案延误代价。不能删她的发言权假修，也不能私定匣先人后生效。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "R005-B15-F06",
+      "chapter": 144,
+      "severity": "中等",
+      "status": "pending_author",
+      "scope": "manuscript",
+      "quote": "压缝的留到最后，卸之前先把撑打好。",
+      "problem": "规则说先撑后卸，实际卸件仍未区分哪些压缝、撑何时到位。两根好料让墙仅证明资源调配，不证明施工已完成。",
+      "suggestion": "作者确认三项是否均非压缝件；若均非压缝，说明压缝件暂留；否则补已实际实施的撑就位及验缝承接。不得虚构支点、额外材料或施工完成。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "R005-B15-C06",
+      "chapter": 141,
+      "severity": "中等",
+      "status": "pending_author",
+      "scope": "manuscript",
+      "quote": "册页夹层里，那截裂尺露出一角，他按了按，没让它滑出来。",
+      "problem": "142仅删自辩，141册夹与142工具原位仍并存。编辑日志新增引文称第101—110章后人物台账已记“水票册（内夹裂尺作证物、签名的工时单、小半包盐药）”；本轮只核日志附引，未扩读该早期台账。初审直接移尺建议因此不再无条件安全。",
+      "suggestion": "先由主线程/作者核实较高优先级台账与物件规则，确定册夹是否合法及“工具原位”是否同处；未核前不要按初审把141裂尺擅移到工具袋。若确认册夹为已发生且可保留，再将142对应位置写实。",
+      "needs_author_decision": true
+    },
+    {
+      "id": "R005-B15-LOG01",
+      "chapter": 148,
+      "severity": "轻微",
+      "status": "open",
+      "scope": "edit_log_only",
+      "path": "harness/maintenance/R005/edits.json",
+      "json_index_zero_based": 214,
+      "source_sha256": "3b6b0743c29212bcb3d18d4f4bfdbfb8b7ed2ca151b80324fa565c06042a984e",
+      "quote": "B15复核1 C04：认责涵盖预排与执行前，保留后文三口气原记账以承接150引用。",
+      "problem": "日志称保留三口气原记账“以承接150引用”；本轮全文读取150，未见该短句或三口气记账的引用。这条日志解释没有当前正文支持，不作为C04关闭依据。正文的预排认责已由146/148相邻原句支持。",
+      "suggestion": "仅将日志理由尾部改为“保留148自书原句，由相邻预排认责对话限定含义”，撤去未经文本支持的150引用说法；不改正文、不新增150台词。",
+      "needs_author_decision": false,
+      "blocks_manuscript_safe_repair_closure": false
+    }
+  ],
+  "pending_author_ids": [
+    "R005-B15-F01",
+    "R005-B15-F02",
+    "R005-B15-F03",
+    "R005-B15-F04",
+    "R005-B15-F05",
+    "R005-B15-F06",
+    "R005-B15-C06"
+  ],
+  "newly_closed_ids": [
+    "R005-B15-C02",
+    "R005-B15-C04",
+    "R005-B15-C08",
+    "R005-B15-S01",
+    "R005-B15-N01",
+    "R005-B15-N02"
+  ],
+  "additional_edit_checks": [
+    {
+      "id": "B15-R2-147-IDENTITY-RETENTION",
+      "chapter": 147,
+      "status": "checked_local_text",
+      "evidence": [
+        {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88",
+          "quote": "姓名和来处都在，归队栏空了很多天了。",
+          "line": 53,
+          "read_basis": "current_full_reread"
+        },
+        {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88",
+          "quote": "老赵看着那两处空着的归队栏，看了很久，点头。",
+          "line": 55,
+          "read_basis": "current_full_reread"
+        }
+      ],
+      "reason": "现文明确保留身份，只空归队状态；与105/110修改日志所引改后口径一致，没有给失联者补姓名、结局或归队事实。",
+      "source_limit": "本轮仅后置读取edits.json中105/110相关条目附引；未读066/095/105/110正文，不能把“两案继承”的完整历史一致性签为本轮独立核实。"
+    }
+  ],
+  "safe_manuscript_language_errors_to_fix": [],
+  "safe_direct_corrections": [
+    {
+      "id": "R005-B15-LOG01",
+      "scope": "edit_log_only",
+      "suggestion": "仅将日志理由尾部改为“保留148自书原句，由相邻预排认责对话限定含义”，撤去未经文本支持的150引用说法；不改正文、不新增150台词。"
+    }
+  ],
+  "standards_comparison": {
+    "high_frequency": [
+      {
+        "category": "人物位置链",
+        "result": "C01/C03/C09已关闭",
+        "chapter": 143,
+        "quote": "林栖还留在墙外的垫毡边",
+        "action": "对号留原地、146阿苗内侧提示外侧实施、145扶行者明确；未虚构第二人过缝。",
+        "evidence": {
+          "chapter": 143,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+          "quote": "林栖还留在墙外的垫毡边",
+          "line": 45,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "数字闭环",
+        "result": "C02/N01关闭；C05/C20保持关闭",
+        "chapter": 143,
+        "quote": "五件家什看完，只拓出四个号。",
+        "action": "四号一光杆、149三圈及150三口含老陈均可核；147两笔半不改。",
+        "evidence": {
+          "chapter": 143,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+          "quote": "五件家什看完，只拓出四个号。",
+          "line": 45,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "信息释放顺序",
+        "result": "C04安全因果关闭；F05仍待裁",
+        "chapter": 148,
+        "quote": "不是让你把人堵在缝里等，是在准备的时候先问一句。",
+        "action": "预排与现场时限分开；不据此裁定无条件匣优先。",
+        "evidence": {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "不是让你把人堵在缝里等，是在准备的时候先问一句。",
+          "line": 29,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "知识来源",
+        "result": "C08关闭；早期身份史覆盖有限",
+        "chapter": 149,
+        "quote": "石板上的两个字写得很重。",
+        "action": "撤持续持用三十年推断，保留本人认主；147与105/110日志口径一致不等于重审066/095。",
+        "evidence": {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "石板上的两个字写得很重。",
+          "line": 19,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "物件物理",
+        "result": "C06新增转待裁；F06待裁；C14/C18/C21关闭",
+        "chapter": 142,
+        "quote": "裂尺仍搁在随身工具的原位。",
+        "action": "位置须对照已发生册夹附引；不可直接移尺。144撑卸工序须确认；卷纸、留桌和留板链已清。",
+        "evidence": {
+          "chapter": 142,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+          "quote": "裂尺仍搁在随身工具的原位。",
+          "line": 85,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      },
+      {
+        "category": "时间口径",
+        "result": "F01/F04待裁",
+        "chapter": 149,
+        "quote": "三遍过完，天快亮了。",
+        "action": "随后明天晚上与D24公开参照尚未对齐；从业/识人与封墙史也不可混用。150明晚谈纸是另一事。",
+        "evidence": {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "三遍过完，天快亮了。",
+          "line": 53,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "光影与能力边界",
+        "result": "F03待裁；C16关闭",
+        "chapter": 149,
+        "quote": "这一来一回，半盏灯油下去了。",
+        "action": "灯型、现场来源、耗油未确认，不能把所有灯都视为随队手摇灯或反之；灯与桌面三处参照已修。",
+        "evidence": {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "这一来一回，半盏灯油下去了。",
+          "line": 47,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "感官依据",
+        "result": "F02待裁；C07关闭",
+        "chapter": 145,
+        "quote": "一瓮封布潮透，掀开一股霉气",
+        "action": "霉气来自打开霉瓮，但不能只凭上层清认作可饮；142炭痕/炭灰已与工具对应。",
+        "evidence": {
+          "chapter": 145,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+          "quote": "一瓮封布潮透，掀开一股霉气",
+          "line": 47,
+          "read_basis": "inherited_review1_full_read_sha_unchanged"
+        }
+      },
+      {
+        "category": "人体常识",
+        "result": "C15/C19/C20关闭；F05仍联动急救",
+        "chapter": 148,
+        "quote": "她一手扶着缸沿慢慢站起来",
+        "action": "伤腿不再以夹板作拐杖；老赵不被安排守夜，老陈未提前上板；不追加医学设定。",
+        "evidence": {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "她一手扶着缸沿慢慢站起来",
+          "line": 97,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "篇幅口径",
+        "result": "当前十章剔标题纯汉字均>=2200",
+        "chapter": null,
+        "quote": "—",
+        "action": "实际字节重算，2218—2345；见manifest计数表。结构统计不代替阅读或事实放行。"
+      }
+    ],
+    "ai_patterns": [
+      {
+        "category": "叙述者翻译与辩护",
+        "result": "S01/N02关闭；未新增必须改项",
+        "chapter": 148,
+        "quote": "她说完看了林渡一眼，把“缺口”两个字又咬了一遍。",
+        "action": "三层咬法、摆手释义已删；147“三项合记两笔半，候汽时长另记行程。”保留必要规则。",
+        "evidence": {
+          "chapter": 148,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+          "quote": "她说完看了林渡一眼，把“缺口”两个字又咬了一遍。",
+          "line": 55,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "动作罗列流水账",
+        "result": "未确认须另开项；S02原重复已收束",
+        "chapter": 149,
+        "quote": "三遍各有各的用处",
+        "action": "读号/找单/认主各有不同证据结果，不一概合并。不能把安置、配水、照护也作为无意义列表删去。",
+        "evidence": {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "三遍各有各的用处",
+          "line": 15,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "动词悬空",
+        "result": "C21已关闭，未新增独立项",
+        "chapter": 150,
+        "quote": "戊字一把画框的炭条搁下",
+        "action": "明确动作主体，取放链已顺；无须为凑五类再造悬空动词。",
+        "evidence": {
+          "chapter": 150,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+          "quote": "戊字一把画框的炭条搁下",
+          "line": 49,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "验证动作重复",
+        "result": "S02已关闭",
+        "chapter": 149,
+        "quote": "她把尾巴描在纸边，跟阿苗账页上的写法一对——同一个尾巴。",
+        "action": "一次描尾笔一次对照；144母模谈话并入首次描图。随后尺寸句可更紧，但不等同又画一遍。",
+        "evidence": {
+          "chapter": 149,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+          "quote": "她把尾巴描在纸边，跟阿苗账页上的写法一对——同一个尾巴。",
+          "line": 31,
+          "read_basis": "current_full_reread"
+        }
+      },
+      {
+        "category": "“像是”堆叠",
+        "result": "本批未确认须另开项的密集堆叠",
+        "chapter": 147,
+        "quote": "他握笔的姿势很旧，像是很久没写过。",
+        "action": "该处是单一观察推测，不凭词频删除；不把必要的声音、灯光物性误判为AI词。",
+        "evidence": {
+          "chapter": 147,
+          "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+          "quote": "他握笔的姿势很旧，像是很久没写过。",
+          "line": 49,
+          "read_basis": "current_full_reread"
+        }
+      }
+    ]
+  },
+  "manuscript_edits_performed": false,
+  "other_paths_written": false,
+  "initial_evidence_modified": false,
+  "release_approved": false,
+  "checkpoint_recommended": true,
+  "frozen": true,
+  "frozen_statement": "复核2仅绑定本轮实际工作字节；之后任何正文变化须新轮实际阅读。保留初审、复核1与快照，不倒改旧结论。",
+  "session_retention": "同一独立审读会话保留后续复核，不归档、不另造reviewer。",
+  "artifacts": [
+    "harness/maintenance/R005/B15/recheck2.md",
+    "harness/maintenance/R005/B15/recheck2.json",
+    "harness/maintenance/R005/B15/reader-review2.json"
+  ],
+  "reader_review_summary": {
+    "path": "harness/maintenance/R005/B15/reader-review2.json",
+    "sha256": "6a87a6e12204a3eb9f4d5f166ee460fe54791bde84580640349789852b186063",
+    "checks": 52,
+    "counts": {
+      "pass": 48,
+      "needs_revision": 4
+    },
+    "source_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+    "verdict": "needs_revision"
+  },
+  "technical_validation": {
+    "manifest_rows": 10,
+    "manifest_paths_actual_work": true,
+    "three_manifests_equal": true,
+    "all_quotes_present": true,
+    "old_32_each_resolved": true,
+    "body_count_floor_2200": true,
+    "reader_validation": {
+      "errors": [],
+      "incomplete_checks": [],
+      "reader_review_passed": false,
+      "verdict": "needs_revision",
+      "chapters": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "includes_prologue": false,
+      "profile": "serial"
+    },
+    "require_pass_expected_errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "release_gate_run": false
+  }
+}

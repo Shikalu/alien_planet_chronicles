@@ -1,0 +1,682 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "id": "R003-B02-final-current",
+  "date": "2026-11-06",
+  "writer": "/root",
+  "reviewer": "/root/review_b04",
+  "independent": true,
+  "body_first": true,
+  "body_first_scope": "先完整读工作区11—20，后查初审18项、编辑/本轮改动与资料。未参与B02改写；此前已读31—40，不能冒称对全书毫无后文知识，未用31—40替本批补因果。10末和21首仅边界核。",
+  "manuscripts": [
+    {
+      "chapter": 11,
+      "path": "异星录/正文/第一卷_热海坠城/第011章_木梁下的陌生语.md",
+      "sha256": "abcb63dfb0e9afd974dd80a2a0a9dfa482ff2730ca02b4d55a375dadafad4958"
+    },
+    {
+      "chapter": 12,
+      "path": "异星录/正文/第一卷_热海坠城/第012章_测潮仪警报.md",
+      "sha256": "d2d76b036f6f6b5163742d27572d744f6e33e28554e93ac0bac8388d93cfc022"
+    },
+    {
+      "chapter": 13,
+      "path": "异星录/正文/第一卷_热海坠城/第013章_误会的刀.md",
+      "sha256": "0aaaab28066c61f3ca8b9aa7746713d87efa99bef0abcf80f2312f2a797594be"
+    },
+    {
+      "chapter": 14,
+      "path": "异星录/正文/第一卷_热海坠城/第014章_六小时.md",
+      "sha256": "700a91c09e6a416d78da8c95bc9e751b98ccf3477d291b38d8dcc816f83ddda2"
+    },
+    {
+      "chapter": 15,
+      "path": "异星录/正文/第一卷_热海坠城/第015章_伤员名单.md",
+      "sha256": "f73de81355d91ce482237c4501eb63450681eb91a351a92b603e69f2bf4ce58d"
+    },
+    {
+      "chapter": 16,
+      "path": "异星录/正文/第一卷_热海坠城/第016章_关闭升降机.md",
+      "sha256": "0b7656f3dffe98765c8615fd1668d6786c91238350599c89ee26d2c7d94e08b7"
+    },
+    {
+      "chapter": 17,
+      "path": "异星录/正文/第一卷_热海坠城/第017章_房车退回.md",
+      "sha256": "ec0d8d07c1cd032f2482e3081dfd8ee4c883a86024aae4ca7a4c1598a39a817d"
+    },
+    {
+      "chapter": 18,
+      "path": "异星录/正文/第一卷_热海坠城/第018章_三齿木尺.md",
+      "sha256": "44600a426697d7088c38dc259abd4f174385a240eae62207c0f3fb0952ad6706"
+    },
+    {
+      "chapter": 19,
+      "path": "异星录/正文/第一卷_热海坠城/第019章_海另一边.md",
+      "sha256": "94438ca90f935e4c769da1b0c8d1f8a0da66014f06346dbaafe410f73d26323b"
+    },
+    {
+      "chapter": 20,
+      "path": "异星录/正文/第一卷_热海坠城/第020章_祝衡的钥匙.md",
+      "sha256": "634404ae5bd77873cb4ac2f3840261ad7497102c0d1b4c121001fc589070b9f4"
+    }
+  ],
+  "source_digest": "d3e8b9501e7fb9670e9885bc65f406987f54ff6400a4c7b15f43fcdf7bfc0e1e",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 11,
+      "quote": "一环坠落后的木架还在往海里沉。",
+      "reason": "10坠城的后果接到梁下被困女孩，第一句就有不能停的时间压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 11,
+      "quote": "林渡把撬动的位置换到一截断木上，只留木尺量缝。",
+      "reason": "职业判断在误解后修正，不让父亲物件替代材料承重；主动留等她挪腿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 11,
+      "quote": "最薄的一环彻底裂开。",
+      "reason": "救出女孩但细链彻断、左臂再伤；失联男孩只捞回碗，未伪造生死答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 11,
+      "quote": "她直接把布按到他手臂上。",
+      "reason": "陌生人回手止血，不必会同一种话才能有有限互助；救援有关系回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 11,
+      "quote": "“林岑。”",
+      "reason": "女孩指出尺与残签相接并说主角父名，脚下黑汽继续逼迫追问与上行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 12,
+      "quote": "林渡的裸钩抵在弥娅肩前。",
+      "reason": "上章父名马上变成戒备询问，黑汽和窄缝沉落阻止长解释。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 12,
+      "quote": "先上她！",
+      "reason": "林渡接受她换桩判断先救她，又承担让她耗精读展示给队伍的责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 12,
+      "quote": "第二次精读结束，又一个光点熄灭，还剩四个。",
+      "reason": "两人回到二环、绳损近一臂、精读6→4；热流关注点转到城内。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 12,
+      "quote": "救命不是水票，不能一张抵一张。",
+      "reason": "林栖回应扯平说后检查哥哥布结、对弥娅降敌意，有限救命互信兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 12,
+      "quote": "离他们最近的三盏灯焰同时向内侧偏斜",
+      "reason": "仪器热流线有眼前灯与积灰征象，想看逃生目标怎样从海边转向内侧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 13,
+      "quote": "阿九已经蹲了下来。",
+      "reason": "仪器刚熄就引发占有与信任问题，开头短对白明确物权压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 13,
+      "quote": "他先一圈圈松开腕上的带子",
+      "reason": "林渡先解除自己造成的占有误解而非制服伤腿女孩，能停止战斗但不能立即得信任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 13,
+      "quote": "海的另一侧，还有一块更大的陆地",
+      "reason": "仪器裂损泄露地图、臂伤重开，双方暂止冲突而不交背，认识与关系均改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 13,
+      "quote": "林渡没有抬钩。",
+      "reason": "面对重新举刃先收武器缠伤，有限退让有实际代价，地图不抹去失联空名。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 13,
+      "quote": "四个名字后面仍是空白。",
+      "reason": "陆地投影带来海对面问题，名单空白保留失联悬念；下一章仍得解决逼近撤离。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 14,
+      "quote": "货板上的人没有立刻散开。",
+      "reason": "地图引发围观但货板仍在移重，带队者要让不信的人行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 14,
+      "quote": "再等一百下。",
+      "reason": "主角选择冒巡查逼近的风险等返回者，有上限也真正留下一人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 14,
+      "quote": "二十二格拨回二十一格",
+      "reason": "六人去五回，原在册22→21、失联4→5；抓捕正式到二环，队伍组织改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 14,
+      "quote": "名字不只在牌上。",
+      "reason": "葬礼牌不可取回，用捞来的缺耳碗回应留名需求；结尾仍不把失联抹成死。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 14,
+      "quote": "门板上那个没有手印的名字，被留在了二环外侧。",
+      "reason": "主角抬担架离开却有一人等不到，巡查逼近和失联后果带到伤棚核账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 15,
+      "quote": "二环内侧的互助会伤棚原本只能放十二个人。",
+      "reason": "空间拥挤、21应声5空格、额外本地三人和缺水并起，本章必须分配。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 15,
+      "quote": "从我这里。",
+      "reason": "林渡愿拿个人水补陌生伤者，但杜姨坚持公共/个人账分开，最终半壶有记录。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 15,
+      "quote": "登记灯没有转黄，却停止继续扣减出水量。",
+      "reason": "救护实耗六壶+半壶、半包药，死者当日转移触发扣水，手动拨回只暂止。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 15,
+      "quote": "林栖没有再藏手",
+      "reason": "弥娅递布、妹妹教别压指节，技术互信从共同处理疼痛而来，非凭身份保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 15,
+      "quote": "只写了两个字：待核。",
+      "reason": "不是替沈乌承认活或死，公开留矛盾且红灯仍在；要看官方如何处理这份账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 16,
+      "quote": "五层调度室的升降机灯一共有七盏",
+      "reason": "位置、下层灯熄闪请求把祝衡的封锁命令放在眼前，无跳视角歧义。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 16,
+      "quote": "先开三十息。",
+      "reason": "祝衡主动在命令前冒导轨错位风险留开门窗，再承担权限收回。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 16,
+      "quote": "只剩外勤抓捕和制式武器使用",
+      "reason": "三无权限人暂脱坠落区却被困3/4层间，祝衡不能再开门，转向水车取证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 16,
+      "quote": "系统允许他开枪，却不再允许他开门。",
+      "reason": "程序荒谬通过救援被截断呈现，有限能动而失败可理解。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 16,
+      "quote": "转身朝二环抓捕广播传来的方向走去。",
+      "reason": "见白章水车向上却还得执行抓捕，想看他拿着异常名单/钥匙面对伤棚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 17,
+      "quote": "阿九正松开最后一芯热能电池的卡扣。",
+      "reason": "接巡查脚步，车热胀滑坡、最后电池要退车且桥门不足宽，急迫目标清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 17,
+      "quote": "那车也不过。",
+      "reason": "阿九以通车换弥娅与主队一起过，林渡也要求同伴通行，修门谈判有关系选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 17,
+      "quote": "最后一芯热能电池烧毁了。",
+      "reason": "车退桥后只余人推，一次运一伤者仍伤掌/臂/膝并损最后芯，资源真变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 17,
+      "quote": "这一趟算运到了。",
+      "reason": "守桥木匠确认有限约定兑现，不用车主人承诺无限运输；疲惫笑话收住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 17,
+      "quote": "你最好当没看见。",
+      "reason": "底盘银黑片掉出发亮，主角辨其与父尺关联，阿九隐瞒和广播追查将迫使拼线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 18,
+      "quote": "三齿木尺开始发热。",
+      "reason": "掉片即尺热，损裂与旧物相接促成本章比对，而非先讲旧史。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 18,
+      "quote": "别先找我们想去的地方。",
+      "reason": "林渡以已知海岸折角核路线、发现自己因寻父差点错认，专业与弱点同在。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 18,
+      "quote": "经过这一遍比对，几个人至少排除了一个错误方向。",
+      "reason": "排掉把冷凝站画进海的错向、只拼半坐标三段与潮时，尺裂扩大禁止撬。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 18,
+      "quote": "不动不等于死。",
+      "reason": "阿九把车比作待救之物，反对拆车却后来帮扶门板，信任有小步变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 18,
+      "quote": "广播没有提三齿木尺，却准确说出了“三处凹口”的形状。",
+      "reason": "私人父线拼图被公共搜件指令压住，谁知道底盘形状、路线为何拆段可追。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 19,
+      "quote": "你从哪里来？",
+      "reason": "主角把问题写画在门板，抓捕广播仍在街外，身份说明服务眼前能否保护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 19,
+      "quote": "一起付代价。",
+      "reason": "林渡不承诺全知测准，却选择与她共担风险；她把仪器放中央交换任务信息。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 19,
+      "quote": "我，澜陆。",
+      "reason": "城/陆区别、海对面来处与本方无人记录错误得到局部答案，未揭删史主使。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 19,
+      "quote": "我不是异星。",
+      "reason": "弥娅当传单指控时放仪器摊掌不拔刃，主角答知道；克制回应而未消除杜姨疑虑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 19,
+      "quote": "至少得先让她和伤员活着离开",
+      "reason": "身份局部讲清但门外指控升级，行动目标从解释转到离棚，接20巡查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 20,
+      "quote": "又添了一串整齐的靴声。",
+      "reason": "传单堵门之上巡查到场，伤棚唯一明面出口受制，立刻要选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 20,
+      "quote": "东侧维护门。",
+      "reason": "祝衡调走同僚、以交囚动作暗交机械钥匙，实际选择活人并付一发子弹。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 20,
+      "quote": "钥匙转动时，门后传来水流声。",
+      "reason": "队伍脱棚到停用冷凝设施，钥匙归主角、祝衡留外，未解决无水与追捕。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 20,
+      "quote": "她在报时间。",
+      "reason": "曾播抓捕者按住同僚枪口承认测潮预警，随后枪击热管成掩护，有限信任落地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 20,
+      "quote": "黑布后面，有人从里面握住了门把。",
+      "reason": "独立于身份系统的门能开却对面有人，想看水源占领者怎样影响通路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 19,
+      "quote": "“我，澜陆。”",
+      "reason": "11遇见救人、12局部测潮实用、13地图漏出大陆，19终于兑现她从海对面来及她为何也认错栈城；父名/半路线得局部物证而不强解历史。16开井、17退车、20出伤棚的有限行动同时有断链/读数/芯/子弹代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 20,
+      "quote": "同行巡查员拔出短枪",
+      "reason": "危险由梁下物理救援变为语言误解与物权、返回者排序、水药分配、登记扣水和抓捕；最后以同一个官方执行者交钥匙改变关系，未重复十次同一修梁。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "fact_logic_verdict": "pass",
+  "attraction_verdict": "pass",
+  "issues": [
+    {
+      "id": "B02-N01",
+      "chapter": 17,
+      "severity": "中等",
+      "quote": "边缘的三处凹口正好与三齿木尺缺掉的齿形相接。",
+      "problem": "本批木尺仅第二齿裂，18更明确尺齿没有断；缺掉的齿形容易读成已有齿缺，提前了32碎齿损失。",
+      "action": "改成与木尺三齿形状/间距相应，不新增缺齿或恢复。",
+      "status": "closed",
+      "resolution": "实际短复读17/19全文及16末、18首末、20首：17为三齿形状相接，无缺齿；19只写门外伤布/空壶/传单和催交人的行为，无祭棚对照与群众内心。"
+    },
+    {
+      "id": "B02-N02",
+      "chapter": 19,
+      "severity": "中等",
+      "quote": "那些人和祭棚里的教团不同，没有黑布和骨杖，只有空水壶、烫伤和刚失去的房屋。",
+      "problem": "本章林渡限知；未到过8章祭棚也无弥娅转述。此句沿她的观察导入唯她知道的比较，紧接举壶人需要代罪脸又概括动机。",
+      "action": "只保留眼前的空壶、烫伤、传单与无黑布骨杖等可见行为，不加祭棚往事已交谈。",
+      "status": "closed",
+      "resolution": "实际短复读17/19全文及16末、18首末、20首：17为三齿形状相接，无缺齿；19只写门外伤布/空壶/传单和催交人的行为，无祭棚对照与群众内心。"
+    }
+  ],
+  "issue_closures": [
+    {
+      "id": "R003-B02-I01",
+      "chapter": 11,
+      "original_quote": "女孩摇头，把两根手指向下压，又指了指已经张开的梁缝。林渡重新看向梁端：刚才连着两次震动，缝都在变宽。她是在提醒已经发生的变化，不是能算出这根梁还会撑几下。",
+      "status": "closed",
+      "evidence": "林渡顺着她的手看向梁端",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I02",
+      "chapter": 11,
+      "original_quote": "他的父亲留了尺，不是留了根可以顶住整座城的铁杠。",
+      "status": "closed",
+      "evidence": "只留木尺量缝",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I03",
+      "chapter": 12,
+      "original_quote": "这个选择不能假装全由她自己作出。",
+      "status": "closed",
+      "evidence": "看完就走。别再叫她看一次。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I04",
+      "chapter": 13,
+      "original_quote": "林渡想起刚才那一下，弥娅的刀背同样是先撞向他的手腕，可两人都没给对方留下取回仪器的余地。",
+      "status": "closed",
+      "evidence": "刀背先撞向林渡手腕",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I05",
+      "chapter": 13,
+      "original_quote": "地图是地图，失联的人是失联的人。他不想让两件暂时没有证据的事，因为一道光碰巧叠在一起就变成答案。\n",
+      "status": "closed",
+      "evidence": "四个名字后面仍是空白。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I06",
+      "chapter": 14,
+      "original_quote": "“旧维修表也用小时。”林栖用炭笔在地上画出当前热时和下一个凉时的位置，“现在离下一个凉时还不到一整轮。六小时是维修表的估数，不是街头钟点；先按不到六小时记，不能当成哪里都能走。”\n\n弥娅听见“短”，立刻摇头。她重新画了六格，又把最后一格划掉一半。\n\n“不到六小时。”林栖改口，“她说不到。”",
+      "status": "closed",
+      "evidence": "弥娅看见她指着完整的六格，立刻摇头。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I07",
+      "chapter": 15,
+      "original_quote": "加上先前需要换药的四人，七枚伤牌很快挂满了墙钩。",
+      "status": "closed",
+      "evidence": "随队其余三名伤员还在等杜姨核名挂牌。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I08",
+      "chapter": 15,
+      "original_quote": "“先别动，问清怎么补。”\n\n杜姨看向登记灯。黄灯一明一暗，灯下的值守纸已经映出两道亮痕。伤棚里每个人都知道一壶水有多重，也知道一个名字从名单里消失以后有多轻。\n\n杜姨用炭笔划掉沈乌的名字。",
+      "status": "closed",
+      "evidence": "“先试这一格。空碗总不能算个人。”",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I09",
+      "chapter": 15,
+      "original_quote": "杜姨用炭笔划掉沈乌的名字。\n\n铜管广播立刻响了一声。\n\n伤棚门旁的登记灯由黄转红，机械声音重复道：",
+      "status": "closed",
+      "evidence": "伸手将登记灯上的人数拨低一格",
+      "resolution": "实读修后动作与结果成立；I09依已批准人工拨格输入，末尾拨回仅止后续扣水、红灯及既扣水保留。"
+    },
+    {
+      "id": "R003-B02-I10",
+      "chapter": 16,
+      "original_quote": "第二处通向二环。轿厢若此时上行，必须经过三层已经错位的导轨；热胀让那段导轨失去定位，继续上冲会带着井壁一起扭。祝衡把上行终点设在三层和四层之间。那里不高，却避开了会继续下坠的一环和二环，也是他能给出的唯一停靠位。控制台脚边的铜板随井绳轻震，他的指腹在确认键上停了半息。",
+      "status": "closed",
+      "evidence": "这个停靠位在错位段上方",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I11",
+      "chapter": 16,
+      "original_quote": "祝衡追出半步，又停在护卫横过来的枪带前。他若在此处动手，那份带着他签名的井道记录也会一起被收走。他记住了白章，转身去二环。\n\n祝衡站在坡道边，看着最后一辆白章水车转过上方门洞。湿轮印越过身份门，顺着通往上城区的旧水槽爬去；脚下货桥被轮压震得沉下一指。他把带签名的井道记录折进内袋，转身朝二环抓捕广播传来的方向走去。\n",
+      "status": "closed",
+      "evidence": "转身朝二环抓捕广播传来的方向走去。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I12",
+      "chapter": 17,
+      "original_quote": "把技术上能少冒的险说清，并不能消去巡查责任，却比替别人轻易答应“不出事”好一点。",
+      "status": "closed",
+      "evidence": "销子一动便喊。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I13",
+      "chapter": 18,
+      "original_quote": "木尺第二齿的裂纹却比货板争夺时更长，从齿根一路延伸到尺背。",
+      "status": "closed",
+      "evidence": "木尺第二齿的裂纹已经扩大",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I14",
+      "chapter": 18,
+      "original_quote": "剩下的空白仍是空白，不能靠把木尺再压紧一点，就多读出父亲没留下的那半组数字。",
+      "status": "closed",
+      "evidence": "几个人至少排除了一个错误方向",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I15",
+      "chapter": 19,
+      "original_quote": "杜姨则守着伤员名单，显然不愿听任何会让伤棚惹上更多麻烦的故事。",
+      "status": "closed",
+      "evidence": "杜姨则守着伤员名单，没有凑过来。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I16",
+      "chapter": 19,
+      "original_quote": "这不是承诺相信彼此，只是承认下一段路的风险已经连在一起。",
+      "status": "closed",
+      "evidence": "“我找人。你们活。”",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I17",
+      "chapter": 20,
+      "original_quote": "弥娅竖起三根手指。\n\n“三个时辰？”\n\n她摇头，指向自己的呼吸。\n\n“三百下？”林栖问。",
+      "status": "closed",
+      "evidence": "三后面还有两个零",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    },
+    {
+      "id": "R003-B02-I18",
+      "chapter": 20,
+      "original_quote": "谁给伤棚让过一步，谁会把纸带走，是两件不同的事，他暂时都没法替众人保证。",
+      "status": "closed",
+      "evidence": "只露出眼下要核的那一行。",
+      "resolution": "原重复、范围或承接问题由实际修后句解决；未把未写作者说明当正文。"
+    }
+  ],
+  "han_counts": {
+    "11": 2284,
+    "12": 2416,
+    "13": 2245,
+    "14": 2580,
+    "15": 2523,
+    "16": 2579,
+    "17": 2368,
+    "18": 2337,
+    "19": 2348,
+    "20": 2509
+  },
+  "revision_recheck": {
+    "reviewer": "/root/review_b04",
+    "body_reread": [
+      17,
+      19
+    ],
+    "boundary_reread": [
+      10,
+      16,
+      18,
+      20,
+      21
+    ],
+    "conclusion": "两处新增正文问题关闭，实际修后段不引入替代问题；本批相关拟回填和术语继承已核，事实/规范与吸引力均通过。",
+    "note": "最初正文读感产生于修正前；报告文件保存时协调者已在修，未独立封存最初问题版本，不伪造该阶段稿件摘要。现manuscripts/source_digest仅绑定此次实际终稿字节。"
+  },
+  "writeback_pending": [],
+  "writeback_scope": "仅核本批历史段与本次相应差异及附录；未审未来400章全文件，不把文件哈希解释为全文质量通过。两术语继承不变、未新增专名。",
+  "writeback_snapshot": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/人物状态台账.md",
+      "sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "scope": "第11—20章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/资源与时间台账.md",
+      "sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "scope": "第11—20章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/伏笔与悬念台账.md",
+      "sha256": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c",
+      "scope": "第11—20章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/事件与地点时间线.md",
+      "sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "scope": "第11—20章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/术语词典.md",
+      "sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+      "scope": "第11—20章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/术语与命名表.md",
+      "sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+      "scope": "第11—20章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/逐章卡.md",
+      "sha256": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0",
+      "scope": "第11—20章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/前10章场景拆解.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/前10章场景拆解.md",
+      "sha256": "891a58a737e4ce2e3e839f0fe9f6c337d86b8e704670b4263f89643acd0addea",
+      "scope": "仅记录本轮稳定文件指纹；前10章场景非本审读批次内容，不作质量签署"
+    }
+  ]
+}

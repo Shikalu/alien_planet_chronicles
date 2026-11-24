@@ -1,0 +1,431 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R009-B37",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B37-B38",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 361,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第361章_货场在断台另一边.md",
+      "sha256": "bed0b6e87c6305d505cdeffed1537ae2184ba5e7a2fc83380517f3d259aa5e6c"
+    },
+    {
+      "chapter": 362,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第362章_同一个戳下面.md",
+      "sha256": "9402bb7631c51992390a958e2ede7ee5c86234f68d1ad28f4886876b4edb18c8"
+    },
+    {
+      "chapter": 363,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第363章_托面先留下.md",
+      "sha256": "76f702146b79dd99c72c5a769be4ebd41667a7442ec2d7b6f8ace3613604fcc7"
+    },
+    {
+      "chapter": 364,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第364章_四包写在前面.md",
+      "sha256": "66e75f5e0b90f72866338ea78c19c4b55a71b8afeaf6c8a3f6650461e4cc3764"
+    },
+    {
+      "chapter": 365,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第365章_先试合再报价.md",
+      "sha256": "908f6ea7b4be4bb2ac915f9cab2e8abaed8c7fa4b490c55e45f69e3caa5b034a"
+    },
+    {
+      "chapter": 366,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第366章_契约只到这两包.md",
+      "sha256": "33bb942fcae2972650169508ec8e0efa3b9f54d6caba6cfff573f7d4e5f65e13"
+    },
+    {
+      "chapter": 367,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第367章_背过来的是三根枕木.md",
+      "sha256": "821e1ca4a51a90aa9ba7e19abcbfa898301bec7f1765c43803f1b23f3ae982b6"
+    },
+    {
+      "chapter": 368,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第368章_轨下面要有人看.md",
+      "sha256": "a03cdc4f3862ff532e24fdc80223d09e76f8edcd8df14f35fd4857c9241e21f6"
+    },
+    {
+      "chapter": 369,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第369章_电从这里进.md",
+      "sha256": "bb63cc826333d33ef4dab781241da46e983f9f1e1afde729d07414652ff8e01e"
+    },
+    {
+      "chapter": 370,
+      "path": "异星录/06_执行计划/工作区/R009-B37/第370章_热留在壳里.md",
+      "sha256": "b886cad385c2f6c567de2ffcbb48e03cc3a13935b1ae2f943132ca8b60580286"
+    }
+  ],
+  "source_digest": "ccff0ffea83ed5d02bc7f9c7de7ac3e1956cb0e284ad2b1410161bce31368012",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 361,
+      "quote": "靠海的旧平台只剩两截梁，中间垂着晒破的棚布。布下露出下层屋顶，昨夜的热雨还沿屋脊流，落进更低的排沟。收旧机者给的纸上有一道跨台的细线，眼前能过去的，却只有贴山绕行的石阶。",
+      "reason": "第一场就使纸上路线失效：货在断台另一边，不能把购货写成问价后自动送达。地形阻碍先于术语。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 361,
+      "quote": "他将看货的时段往前挪，宁可少在棚里问一轮价，也得留出这段等路的时间。",
+      "reason": "林渡选择减掉问价时间，为居民双向过路留余地；目标是找可执行的搬运路，不是挤走地方使用者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 361,
+      "quote": "林渡将“可走”旁添上“仅空盖已过”。",
+      "reason": "空盖试过换来有边界的路线知识，闻笛的地方经验具体起作用；实匣尚未验证，变化可见而不过量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 361,
+      "quote": "阿九看见低梁的位置，用手按住左膝，没再提赶一趟。",
+      "reason": "路线图使阿九接受不逞强的分工，伤势参与决定；读者得到团队照看人的微小回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 361,
+      "quote": "缺的尺寸今晚补齐。明天匣子开了，我们只有半个凉时。",
+      "reason": "半个凉时把明日开匣变成明确窗口，今晚补尺寸是人物行动，设备未知是世界问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 362,
+      "quote": "匣盖打开，最先露出的是一道旧漏痕。",
+      "reason": "读者等来的开匣先暴露旧损，买到能用的电池并非必然，立即兑现上一章的验货悬问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 362,
+      "quote": "林渡说先验能否装，之后才带回可谈的包数；原四包的物主尚未见过新约，不能隔一层山替他答应让路。",
+      "reason": "林渡不拿不属于自己的旧债顺序去交换电池，坚持先验配再谈价，选择有谈判成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 362,
+      "quote": "明早这个套必须归还。要不要再把整匣电池运来验配，得先让这半边悬空的外套稳稳落到座上。\n",
+      "reason": "借回外套后发现落座缺口，将同戳不等于同物主的货源辨认推进到安装约束；不是开匣就完成收购。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 362,
+      "quote": "“给他看够做什么。”闻笛说。",
+      "reason": "闻笛要求卖方说明小匣用途，替不熟货的人挡住含混展示；她提供判断，不保证商品万能。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 362,
+      "quote": "明早这个套必须归还。要不要再把整匣电池运来验配，得先让这半边悬空的外套稳稳落到座上。",
+      "reason": "临借期限与落座难题交织，下一步要补垫并决定是否运整匣，不靠抽象拟人卖关子。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 363,
+      "quote": "檐主把门前的干物箱向里推了半掌，箱底两根柜条发出干涩的摩擦声。他指给林渡看箱后的湿木槽：“放过冬存料的槽受了潮，得挪到檐下晾。放在这儿，落水就会溅到孩子的被褥上。”",
+      "reason": "续檐的空间压力落在檐主需要晾槽、孩子被褥不能受溅水的实物冲突上，不是突然凭恶意驱赶。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 363,
+      "quote": "两根柜条只托箱，不承檐，可以连箱向门另一侧挪；挪过后木槽平放，仍能留出门路。",
+      "reason": "结构判断用于动箱不动伤者，先辨柜条是否承檐再安排空间，能力有限而有效。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 363,
+      "quote": "檐主这才与槐七一同移动空箱，姨母和岑野各守托面一头，没有让孩子起身让路。箱内干物由物主先取出，木槽落地后，门扇仍能开到原来的止处，檐主从门里走出来试过，才说再借一旬，到了日子仍要重问。",
+      "reason": "续住有期限，箱和槽的调整换来孩子原托面留下，不是从此得到永久安置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 363,
+      "quote": "他不往纸上填病名，孩子也没有为了让哥哥去看电池便说自己不疼。",
+      "reason": "没有用假诊断或孩子强忍替工程腾路，照看人的情感代价与真实疼痛同时保留。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 363,
+      "quote": "明早见了原料主，得先把这张旧纸展开。",
+      "reason": "眼前安置暂缓后必须去履旧约；旧纸给明章谈判一个具体且不能跳过的开场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 364,
+      "quote": "林渡等在五层私棚口，旧四包纸拿在左手。今天是原来约好的重议日。棚内真正待核的货已经换了一堆，最初那四包仍没有一包上车，早先停候装的记号也没有擦掉。",
+      "reason": "旧四包尚未兑现，林渡带着旧债来谈新电池优先权；债主有理由追问前头究竟给谁，压力不是新增敌人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 364,
+      "quote": "“还没肯。不同意就没有这一笔。”",
+      "reason": "面对原料主不以假签换放行，将供货方是否同意设成交易真实前提。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 364,
+      "quote": "他们核到约好的边沿便停，拆料户在工栏划记实做，四包那栏仍写零。",
+      "reason": "当日劳动实销，但旧运货债不销；新旧计量分栏，读者能辨这次见面究竟改变了什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 364,
+      "quote": "四包老债怕人忘，倒比我这车还坐得稳。",
+      "reason": "阿九的黑色幽默承认债压，不用一句玩笑消债，沉重谈判中有人物声音。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 364,
+      "quote": "明天先看实物。套合了，再请他在这行之后报数。",
+      "reason": "先验实物再报新价，把债务次序转回设备是否可装；追读目标从纸面规则切到物理行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 365,
+      "quote": "匣底还没坐稳。靠海那只脚悬在碎石边，槐七将旁边不受力的松石移开，露出下面完整硬坪，货工才跟闻笛一起把匣平放。整个壳被防护罩包着，端子仍封，落地后也没有一盏车灯亮起来。",
+      "reason": "电池送来仍有落脚悬空和隔潮问题；一到场就呈现安装阻碍，没用点灯跳过风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 365,
+      "quote": "“用你带的。试完留哪也写上。”林渡说。",
+      "reason": "明确使用供货方带来的试验水并记去向，设备验证不能暗取孩子饮水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 365,
+      "quote": "新电池的价纸尚未打开，待修清单已经多了接环、两软套和隔潮垫。",
+      "reason": "验配把接口方向与实际缺件变成可追踪清单，得到了结果，却同时增添成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 365,
+      "quote": "扛到这里等，不算工，难道算歇？",
+      "reason": "闻笛为运料者争等待工，让协作劳动有人计价；读者的回报不是压低无名工人的成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 365,
+      "quote": "明早报出的价，得把这两截和那段掉皮的软套都算进去。",
+      "reason": "报价必须包含刚显露的缺件，明章谈判是本章检验的结果而非另起一摊。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 366,
+      "quote": "闻笛在其中一包后写了自己的名字，另一包归交货棚。林渡看着棚管把原匣号写完，才将五层留过的草稿展开，第一行仍是原拆料户的四包；六包加在同一页，前后没有换一张纸。",
+      "reason": "有限两包终于可落纸，但原四包先行，签约一开始就受旧约及总价上限约束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 366,
+      "quote": "新债在这后面。每班先扣急救药水、必要抢修和回程水，余下才装普通货。",
+      "reason": "林渡要求新债排后且先扣必要生存资源，主动约束自己未来的运载权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 366,
+      "quote": "三份同文纸分给山口、交货棚与料主，两种价中的整买与无限头班纸钉上“未成交”，不混进已签正文。",
+      "reason": "达成的是有限价合同，失败方案明示排除；签署、未签及消息副本的边界都变得可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 366,
+      "quote": "那人把手缩回去，低头将滤料包绳勒紧。他没有道喜，只说自己那包也怕湿，等不起的人并不全是能出电池的。",
+      "reason": "工程成功也让无债普通货主等待，读者不能仅庆祝主角成交；不被掌声盖掉的损失增添真实分量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 366,
+      "quote": "纸上新增的两包已经有了名字，车下的空座却仍空着。",
+      "reason": "签了不等于交到，下一章必须承担运轨料、换件和送匣的劳动，悬问紧贴当前空座。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 367,
+      "quote": "第一根枕木在低梁前停住了。",
+      "reason": "立即兑现搬运承诺并撞上361已交代的地形，不平移成轻松送货。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 367,
+      "quote": "“别往前送。”林渡在凹台内喊。",
+      "reason": "林渡及时停料，宁可让木料擦石也不让身体顶险；伤臂没有因关键时刻而失效。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 367,
+      "quote": "电池先记交到待初验，能否签完全收妥仍等装配与热试。",
+      "reason": "轨料与电池真的过断台了，但交到、初验、完全收妥分开，成果不是文字提前结清。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 367,
+      "quote": "姨母问是不是该替孩子收碗了，岑野在旁替他答，三根木头只能换一小段，碗仍在这里用。",
+      "reason": "孩子盼新车的情绪被认真接住又不许假希望代替安置，修路的有限成果有温度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 367,
+      "quote": "得先把旁边能接住它的地方找好。",
+      "reason": "旧枕露出软腐，接下来的难点是承接轨重，读者知道下一步必须解决哪一个危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 368,
+      "quote": "它仍搭在前后两处旧承托上，中间却悬着，轨底与泥之间露出半个巴掌的暗空。林渡站在车前粉线外的完整坪边，能看见这段不压着车轮；再往后两步，原车的轮、借挡和驻车绳各在旧位，没有谁准备用车身替他们压住轨。",
+      "reason": "新枕送到不等于可以抽旧，轨下悬空与旧承托把施工风险具体化，承接上一章而不另造危机。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 368,
+      "quote": "“放回。”林渡说。",
+      "reason": "发现垫下挤出浑水便退回重找承点，不以试过一次或主角直觉强行保证安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 368,
+      "quote": "卖出的料仍是三根，已安装一根。新接板两块已用，旧板原样存。",
+      "reason": "一根装上、两块板用掉，其余材料仍在，成果可数；没有把购得三根偷换为整段修完。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 368,
+      "quote": "“刚才没留够宽。我改。”",
+      "reason": "主角承认给当地人留路不够并实际改正，不靠叙述者解释他本意良好，信任由动作取得。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 368,
+      "quote": "装电我坐这头。闸那头，得有人肯坐很久。",
+      "reason": "安装之后的制约转为双端持续值守，材料难题升级为人员时间，下一章理由有新层级。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 369,
+      "quote": "檐主在纸上数到十，才将续借那一格画完。",
+      "reason": "续檐仍在计时，托面和门路仍须照顾；装电的期待没有抹掉其他人的生活期限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 369,
+      "quote": "林渡把准备去闸侧的那一行划掉，给槐七留在车外的岗写上实人。",
+      "reason": "拒绝同一班把停机者派往另一端，岗位真实有人比进度更重要，回应368的值守难题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 369,
+      "quote": "再按约重开，流速恢复，他们才记下同一档能重现的状态。",
+      "reason": "得到可重复的小泵循环，不只是偶然亮一下；驱动仍未开，阶段性进展有技术边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 369,
+      "quote": "林渡站在车侧，第一次听见持续的机件声从这辆车旁传出。",
+      "reason": "久经问路、谈价、轮肩后终于听到持续声音，感官回报扎实；仍不过粉线，不伪装发车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 369,
+      "quote": "热试时，谁也不去别处。停机的人要一直在这里。",
+      "reason": "下一班必须验证热而非仅有电，固定停机岗使下一步的风险和主动行动都明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 370,
+      "quote": "回管的温片先变了颜色。",
+      "reason": "温片有响应却外壁也升温、盘管效果不足，将读者的成功期待变成可观测的验证压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 370,
+      "quote": "外壁颜色抵到约好的线，林渡立即报停。",
+      "reason": "达到预定阈值便停，不为展示成果继续试，停令真正约束行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 370,
+      "quote": "此低档下，这套外接检修回路不能把外壁温片稳在警线以内。",
+      "reason": "护布改位复试后获得这套回路的限度，不武断推成所有低档无用，也不装作热路已修复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 370,
+      "quote": "“匣可以收。”阿九说，“行车不收。”",
+      "reason": "电池可收与行车不可收分开承认，前九章劳动没有归零，却不让局部成功掩盖人命风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 370,
+      "quote": "下一班先问谁留哪头。没人接，就不开。",
+      "reason": "未解热路与双端值守留给下组，下一步先找可接班的人；不是含糊的未来希望。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 370,
+      "quote": "“匣可以收。”阿九说，“行车不收。”",
+      "reason": "本篇兑现的是找到本地货源、有限签两包、运入三枕两板一匣、装一枕两板和获得小泵循环与热试限度。361未许诺本篇发车，370不冒充运载恢复；供能取得的实物回报足以支撑热路和值守难题续往下篇。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 370,
+      "quote": "让两个人坐下，就得给两处各留下水、退路和接班的人。",
+      "reason": "难度从断台找路、物主与旧债协调、带伤劳动及承轨施工，逐级升到持续供热与两端人员饮水。不只是反复借同一件工具：每次检查都改变材料、岗位或可用范围，最后留下可执行而更昂贵的条件。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "scope_note": "仅361—370修后工作稿；首读历史保留。非开篇专项，不签共享回填候选或邻章。"
+}

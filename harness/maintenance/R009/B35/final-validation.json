@@ -1,0 +1,76 @@
+{
+  "errors": [],
+  "incomplete_checks": [],
+  "reader_review_passed": true,
+  "verdict": "pass",
+  "chapters": [
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350
+  ],
+  "includes_prologue": false,
+  "profile": "serial",
+  "batch": "R009-B35",
+  "source_digest": "75df2a084286d8c1452f2f34a3f79c9d2187997fd8dbd0936b9023cb36ac2179",
+  "checks_count": 52,
+  "closed_issue_ids": [
+    "B35-01",
+    "B35-02",
+    "B35-03",
+    "B35-04",
+    "B35-05",
+    "B35-06"
+  ],
+  "all_closure_quotes_exact": true,
+  "all_final_hashes_match": true,
+  "pure_han_counts": [
+    {
+      "chapter": 341,
+      "pure_han": 2283
+    },
+    {
+      "chapter": 342,
+      "pure_han": 2259
+    },
+    {
+      "chapter": 343,
+      "pure_han": 2247
+    },
+    {
+      "chapter": 344,
+      "pure_han": 2284
+    },
+    {
+      "chapter": 345,
+      "pure_han": 2395
+    },
+    {
+      "chapter": 346,
+      "pure_han": 2629
+    },
+    {
+      "chapter": 347,
+      "pure_han": 2327
+    },
+    {
+      "chapter": 348,
+      "pure_han": 2379
+    },
+    {
+      "chapter": 349,
+      "pure_han": 2410
+    },
+    {
+      "chapter": 350,
+      "pure_han": 2538
+    }
+  ],
+  "validation_scope": "脚本仅核结构、逐字证据、覆盖与指纹；pass判断来自已完成的人工逐章阅读，不由脚本产生。"
+}

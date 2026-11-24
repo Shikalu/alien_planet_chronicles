@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B40",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B39-B40",
+  "independent": true,
+  "body_first": true,
+  "phase": "initial",
+  "input_digest": "07aebf1087481932cc34c14fe106f6ca6afbb95a3a3f211bd332139bcff096ce",
+  "source_digest": "07aebf1087481932cc34c14fe106f6ca6afbb95a3a3f211bd332139bcff096ce",
+  "verdict": "issues",
+  "issues": [
+    {
+      "id": "B40-01",
+      "chapter": 391,
+      "severity": "中等",
+      "quote": "工具借到D294",
+      "reader_problem": "391—400全部命中作者D编号；本组跨48日，多日章反复在当前、回顾与约期之间切换，读者没有D起算点，简单改第X日会继续失去参照。",
+      "suggestion": "逐段建立已写事件/旬头锚点，约期用距该次会面实际日数，回顾指明此前/那次；保留所有已发生日期及充能/履工间隔，不改作者台账D号。",
+      "status": "open",
+      "discovery": "author-marker-followup"
+    },
+    {
+      "id": "B40-02",
+      "chapter": 391,
+      "severity": "中等",
+      "quote": "他明日还要上五层",
+      "reader_problem": "此刻D273，明日是D274；本章D274、276均在山口，实际D277上四层中宿、D278五层，未写变更。",
+      "suggestion": "改为过几日还要上五层；不改D277—280的实际行程。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-03",
+      "chapter": 398,
+      "severity": "中等",
+      "quote": "她没有因此满意，抱着自己的原号瓶说她先看明天那四壶能不能真的到地方。",
+      "reader_problem": "这一场D317，明天只认班，四壶候选运送是D319；同章姨母已经明确后天。",
+      "suggestion": "明天改后天，与认班和运送两个日期分开。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-04",
+      "chapter": 397,
+      "severity": "中等",
+      "quote": "陆上静置换装只到他们从已验轨基、空车吃水与当次低档热况里取出的保守界限：净增一百八十斤，包含药、压载、托面、人和随带物，不含已计入固定项的阿九。",
+      "reader_problem": "396水段无人、缆牵且内机无热负荷；阿九固定操作重不是那次无人验证的既有重量，陆上低档热况也不能自动成为水上带载热况。后句已保留待验，故不是认定180或174事实错误，而是比较基线缺一层。",
+      "suggestion": "明确阿九重量只列在本轮固定项、无人记录不含他；180是待验净追加试限，本轮首趟还须同时验证新增操作重与水中低档推进热况；不补原厂参数/额外试验/体重数字。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-05",
+      "chapter": 399,
+      "severity": "中等",
+      "quote": "台岗核齐本班各前行人的返回名字，才持后灯合拢离弯。",
+      "reader_problem": "下一段林渡沿细路转岸；此前把各人都列作返回并合灯，易误读他先回山口又无灯独入。高优先时间线实为收闸后直接转岸。",
+      "suggestion": "收闸后先向台岗报林渡转岸，其余人返山口；台岗核齐两向去处再收后灯。沿既有干侧细路分出，不添陪同人/新灯/新班。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-06",
+      "chapter": 399,
+      "severity": "中等",
+      "quote": "姨母取过其中按原领料用途交给棚的壶，另将孩子自己的原号瓶放回托面边。",
+      "reader_problem": "四壶是岸棚自购代运物且已收讫，姨母又取其中一壶的动作没有领用依据，模糊棚药物与原号个人水的权属。",
+      "suggestion": "保留伤护者将四壶入棚干架；姨母只归置孩子自己的原号瓶，不新增一次取药分水。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-07",
+      "chapter": 400,
+      "severity": "中等",
+      "quote": "弥娅将监听口凑近一点",
+      "reader_problem": "390已经写监听口铆在盒侧，400把固定口当可拿起之物。",
+      "suggestion": "人物凑近盒侧监听口，零件不移动。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-08",
+      "chapter": 398,
+      "severity": "中等",
+      "quote": "正是D272已归棚的那片",
+      "reader_problem": "A29出口只D272闻笛经手送返；高优先A30时间线D273邵砺点收、D274回条实到。此处回顾把发返日写成已归棚日；391当前交回条在D274并无矛盾。",
+      "suggestion": "398改上次收听后送回棚的那片；391把前日带走、昨凉点收、今日回条写清。旧借期与D318重借、D320经手返棚待回条严格分开。",
+      "status": "open",
+      "discovery": "author-crosscheck"
+    },
+    {
+      "id": "B40-09",
+      "chapter": 396,
+      "severity": "中等",
+      "quote": "原货工连灯实送回棚，下一轮要等补能。",
+      "reader_problem": "句位在D310空车收退当日；397与A30已发生时间线均记D311送棚、D312留架、D313交回，实送回棚被提前一日。",
+      "suggestion": "D310改货工点收待次日送棚；397保留次日实际入棚和两日补能，不改高优先台账。",
+      "status": "open",
+      "discovery": "author-crosscheck"
+    },
+    {
+      "id": "B40-10",
+      "chapter": 395,
+      "severity": "轻微",
+      "quote": "弥娅走在他后面，给他的图袋留在干处，手里只带测温筒和描字纸。",
+      "reader_problem": "给他的图袋留在干处语法含混，先读成图袋被留在闸侧；后文棚门返途却由医者帮林渡提图袋，没有取回。",
+      "suggestion": "改弥娅提醒他把图袋收薄并避湿石，图袋随林渡移动；保留后文比担架转角，不编取回一趟。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-11",
+      "chapter": 393,
+      "severity": "轻微",
+      "quote": "她问坏枕可不可以写成还剩六根料",
+      "reader_problem": "刚展示退换两根，余四处腐枕要等后段才介绍，六这个总数抢在范围说明之前，孩子问坏料可复用的动机反被数字压住。",
+      "suggestion": "问刚退下的坏枕能否算余料即可；后段仍明确二已装、四待换，不改总六枕。",
+      "status": "open",
+      "discovery": "body-first"
+    },
+    {
+      "id": "B40-12",
+      "chapter": 396,
+      "severity": "轻微",
+      "quote": "她没有同时出现在闸侧。",
+      "reader_problem": "前文最后提及闻笛，代词需回读才知弥娅；旁白替人物否认瞬移，是防审计式辩护而不是可见动作。",
+      "suggestion": "直接写弥娅在原坪把回报码记到耗记旁，既保位置，也不添支路或新通信能力。",
+      "status": "open",
+      "discovery": "norm-crosscheck"
+    },
+    {
+      "id": "B40-13",
+      "chapter": 392,
+      "severity": "轻微",
+      "quote": "每日开班前当地成人只在已认侧道核记号",
+      "reader_problem": "前段几日灯芯已退、只有外口日光；每日一词易扩大成每天进暗处。实录是有灯才开有限暗班，停班封入口。",
+      "suggestion": "限定每个实际有灯的短班开始前才沿认定侧道核记，停班不入暗段，不增灯芯或免费夜班。",
+      "status": "open",
+      "discovery": "body-first"
+    }
+  ],
+  "digest_note": "initial-manifest仅有source_digest；按tools/novel_harness.py rows_digest同口径重算manuscripts，结果与该值一致，故input_digest亦绑定此实际封稿汇总值。未改清单。",
+  "reviewed_chapters": [
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400
+  ],
+  "not_final": true
+}

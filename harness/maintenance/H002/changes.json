@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "scope": "H002规则、审读机制、诊断与维护证据；不改正文和规划",
+  "changes": [
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "before_sha256": "89022324a332f2ff907c2b804e8f7d25ed7255a9f0806559149089862cddb972",
+      "after_sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb",
+      "action": "update"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "before_sha256": "653d783376fd38daee312ad495dcd9163e8204ccbca1dd67f7f81e84ad5153fd",
+      "after_sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05",
+      "action": "update"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/reader-review-format.md",
+      "before_sha256": null,
+      "after_sha256": "8e15775ff0bf9fa6d1f5fdfbf1b3f9644005e4a9fcd3c890a29ffb3cea5ed3b6",
+      "action": "create"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/source-notes.md",
+      "before_sha256": "40eb6311dd393cdcd5cd1ec811612d7aafb438961b51bec285c06f0ced5bbf41",
+      "after_sha256": "dc0e56f4da7d92959cce087fb992cf2666cb40da9cab97f79afa43b082e4fa9b",
+      "action": "update"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/workflow.md",
+      "before_sha256": "8cbe40107ef268a6657e0346fd96761e98086289fb3923c6f42993e1e4db4309",
+      "after_sha256": "5cb0739790cc7efe096b27467d7c5256a35668b9f14c7cfc35ca2069cc6a2bc6",
+      "action": "update"
+    },
+    {
+      "path": "AGENTS.md",
+      "before_sha256": "a2ec573949c29d9f014fb0d44ccfb2175242c140774c2535bf5769910a3c2d3c",
+      "after_sha256": "1559cd0b90183ef0d16be4cd54de3c44be30dc162c41a17be5f11807ddaf1db6",
+      "action": "update"
+    },
+    {
+      "path": "README.md",
+      "before_sha256": "a27b0e46233ffbd33c833126ec24481a956b5b730689ded7baa275fa9bb18c3e",
+      "after_sha256": "9249adb41c1b811cbf308962930cdf26f0255832a3274613895655528bf114e4",
+      "action": "update"
+    },
+    {
+      "path": "harness/README.md",
+      "before_sha256": "1fd2e16d8c9959de637bfd644920fe2787b3ae4e8e480d65ec873907afe44223",
+      "after_sha256": "67588422506624e46296804cd03cd8765408391b613d2d6db2d66bc100d57999",
+      "action": "update"
+    },
+    {
+      "path": "harness/maintenance/H002/preservation.json",
+      "before_sha256": null,
+      "after_sha256": "d0cdd0b147be8ffbfa84f3e123e007f52ad84dfb89b11a76bbf27d8d34737ecb",
+      "action": "create"
+    },
+    {
+      "path": "harness/maintenance/H002/verification.json",
+      "before_sha256": null,
+      "after_sha256": "6842833de22ba11d00f7e8aac4363f22a4b5d59348d3fcdd6e72830b5be4df63",
+      "action": "create"
+    },
+    {
+      "path": "harness/maintenance/H002/黄金开篇与追读机制报告.md",
+      "before_sha256": null,
+      "after_sha256": "d37bc044af8a14aec6d0cf99c981f5bf8e4e4a6e581281239280d520b1678539",
+      "action": "create"
+    },
+    {
+      "path": "harness/project.json",
+      "before_sha256": "f0bb7cd3192edb3727ad5e6a677dcbf247e363e7a7e35168cbf51b05cab88a72",
+      "after_sha256": "6add1526defcd52c662badba08d43595239e6a043709aa3e78430fffc86c5ae7",
+      "action": "update"
+    },
+    {
+      "path": "harness/reader-reviews/opening-baseline.json",
+      "before_sha256": null,
+      "after_sha256": "58ccc6cbcbed5ee050dbbd1e9df8a57b78b4f3e69076c54fad9d514d33c0c8eb",
+      "action": "create"
+    },
+    {
+      "path": "harness/reports/project-check.json",
+      "before_sha256": "616c71d5b35b3c7a942eb5d722026b9a6be26562e811d6e546bd89b3e145a3d2",
+      "after_sha256": "8cc788263fb627f1589d0f686d3e309074e7cc3ec455dcf3cc90d5bd72270390",
+      "action": "update"
+    },
+    {
+      "path": "tools/check_reader_pull.py",
+      "before_sha256": null,
+      "after_sha256": "2b938c6f78c892e711565b7a0a598fa96f9d563a4ee4523faa8fe050f0a5b719",
+      "action": "create"
+    },
+    {
+      "path": "tools/novel_harness.py",
+      "before_sha256": "c15aecee534127e39171d8b3f9f588dc0e7047bd280161653c8f2397ea828076",
+      "after_sha256": "9b78a3a0f51fe2b12c80c983b3f2db479fc3d23e3cc8a01f9d9cce269d434d67",
+      "action": "update"
+    },
+    {
+      "path": "tools/test_novel_harness.py",
+      "before_sha256": "a4220f3978304279c8f2e46c84d9633ef08173b6b2b2d3daa0e5b9bd71d7a8b7",
+      "after_sha256": "e615c5f0e7f22de224af4d9cb3c2f0951196b3fb14fddba309b8c880c7904e99",
+      "action": "update"
+    },
+    {
+      "path": "异星录/00_项目总览/资料索引与阅读地图.md",
+      "before_sha256": "88765fb3640d1b6f0b7832f9ee0c5bfcdccd60199bf66f97f3a2e09cfd07f413",
+      "after_sha256": "c132cf33e2b18161cac83b6b470bee5f0298aea6e17cd32d30c2e1f7194a5264",
+      "action": "update"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "before_sha256": null,
+      "after_sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814",
+      "action": "create"
+    }
+  ],
+  "excluded_self": "本清单自身不递归记录；落盘操作清单另含本文件指纹",
+  "deleted": []
+}

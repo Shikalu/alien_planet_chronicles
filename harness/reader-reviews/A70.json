@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex-A70",
+  "reviewer": "/root/a70_final、/root/a70_ending",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 791,
+      "path": "异星录/06_执行计划/工作区/A70/第791章_把门外那一夜写进去.md",
+      "sha256": "8865f242fcc9e54e931c4be1c66f78b43ed95909a217f002eec12b68b6266a5c"
+    },
+    {
+      "chapter": 792,
+      "path": "异星录/06_执行计划/工作区/A70/第792章_谁来守下一刻.md",
+      "sha256": "dc3947c229a32c829292874b9ef28885cb4ca5bf658c983638de6903f890691a"
+    },
+    {
+      "chapter": 793,
+      "path": "异星录/06_执行计划/工作区/A70/第793章_把脚从踏板上拿开.md",
+      "sha256": "1463c52f0d78241b4029f8f4ab3412a5fb4e4f78dd928cce822618f3fe8995d9"
+    },
+    {
+      "chapter": 794,
+      "path": "异星录/06_执行计划/工作区/A70/第794章_两份纸的背面.md",
+      "sha256": "648f3fc6077b3aee9a6a95af473d877f0380256162edee0961b6f23da49fb83b"
+    },
+    {
+      "chapter": 795,
+      "path": "异星录/06_执行计划/工作区/A70/第795章_留在窗外的船.md",
+      "sha256": "0645339631227b6b05471d99cbf563852ec690678544650d8fde5379578e64d1"
+    },
+    {
+      "chapter": 796,
+      "path": "异星录/06_执行计划/工作区/A70/第796章_第二只手在船上.md",
+      "sha256": "a1a306fd2b97424fe6c3bbbfc8dbf81709c177e5a15e3c93f783ab6059243cb6"
+    },
+    {
+      "chapter": 797,
+      "path": "异星录/06_执行计划/工作区/A70/第797章_总监的空抽屉.md",
+      "sha256": "d6e8d1e27b2b92ce89eaf10472d07635486b3a30640ba03a6d383a517490af92"
+    },
+    {
+      "chapter": 798,
+      "path": "异星录/06_执行计划/工作区/A70/第798章_没有划掉的名字.md",
+      "sha256": "c84a88a7e14d67be987abfe774c2bff94f76b3bcb2346ce6eac61638ec60d779"
+    },
+    {
+      "chapter": 799,
+      "path": "异星录/06_执行计划/工作区/A70/第799章_先把水车放过去.md",
+      "sha256": "9eee90d6cf904b86547119d762449e48d6edc3878e42ebd746eed093c72bbedc"
+    },
+    {
+      "chapter": 800,
+      "path": "异星录/06_执行计划/工作区/A70/第800章_邻船.md",
+      "sha256": "2eb0ac75aa769a055c1b209fb2bb13440ffd5414a456ce028e4efdc40e8509c9"
+    }
+  ],
+  "source_digest": "4822a00452bfbe19a894af426ea1541cb43dca68d5f9cf0af712545ec3685198",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 791,
+      "quote": "屋主没有去捡，问他那一夜睡过门外的人，究竟算在哪一张床上。",
+      "reason": "屋主抢笔后追问那夜的床，把「安置」落到可证伪的个人经历。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 791,
+      "quote": "把我原来写的也存着。三户到了高地是真的，我赶着写成三户住下也是。",
+      "reason": "主笔可以覆盖错稿，林渡却允许后来读者查到他的概括错在何处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 791,
+      "quote": "原写安置，按实改为撤出",
+      "reason": "新版由两个住户听验，撤险与已有卧铺分列；三户处置从总数变成不同住处及仍欠的物件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 791,
+      "quote": "替林渡让出另一角，问能不能把他先前画窄的窗留下。",
+      "reason": "先前没看见檐下住户的孩子发现自己也画错了，与林渡一起给更正和旧痕腾位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 791,
+      "quote": "却还没有写过一个将来能在他不在时把闸关下的人。",
+      "reason": "住户已能在他笔外说话，工程还欠同样能独立行动的人，林渡会下去见实际守班者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 792,
+      "quote": "上面那一个“守”字，写的是过期后谁还在这儿看原单元。",
+      "reason": "催启者伸手后被收回锁牌，过期原物只有看管人，先把谁可拒启放在谁想启动前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 792,
+      "quote": "经手另找本次公办观礼接待的备费，去掉往后的一轮接待加灯，账上才勉强够两格。",
+      "reason": "林渡按住挪校水的签，追问能否少买一格，最终让接待灯费承担保住应急储备的价钱。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 792,
+      "quote": "从当日至第九百六十日末凉的保管与限档运用",
+      "reason": "D820已到期的借件终于由实际经手续成限档；两格新料一用一备，尚须待正式窗。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 792,
+      "quote": "不用等更高的工长回来替他念。",
+      "reason": "原守锁人能在自己站的门边落停牌，守班第一次给了可当手使用的权力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 792,
+      "quote": "把本来给腿垫的木条提起一头，指着码头后面说这一次先把人怎么坐下来算清。",
+      "reason": "原核心留石地，另一船如何出陆挡还不知；阿九主动指岸台，并把重上船的任务先落在伤腿上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 793,
+      "quote": "你是等我拿这个踩，还是等它再断一次？",
+      "reason": "一块旧踏板同时带出阿九的永久腿伤和找便宜料的眼前压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 793,
+      "quote": "第二根停杆给另一个人，他得听得出那个人的声，还得在自己没听见时准对方先动。",
+      "reason": "阿九必须接受副手在本人失去回声时先停，技术变更使两人的权责真的不同。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 793,
+      "quote": "今日试过的是坐人在船、船上无货时的手柄和停杆",
+      "reason": "旧车封停，另一具船已无载实试两处停杆；有驾驶、无货且尚未下浅水，成果具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 793,
+      "quote": "阿九不喜欢这句摆在自己名字上方，停一下还是自己把它刻深些",
+      "reason": "最在意旧名的修车人回手加深限制，不让一次好看的签名压掉自己身体的事实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 793,
+      "quote": "上面没有副手签。",
+      "reason": "空检完成却无独立副手正式签，下一次能否真正带他下水取决于另一人在自己的位置能否按停。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 794,
+      "quote": "他指着纸说，后来既已证明海那边也是人，这两个字为何还给孩子写。",
+      "reason": "来查亲人的人动手刮课页，把保留谎言来源与让孩子误信之间的风险掷到弥娅面前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 794,
+      "quote": "弥娅同意留这条带范围的注，差人把旧说与后来能证的材料分别抄好。",
+      "reason": "弥娅接纳署到户而未署姓名的自证，留出另一家核去处的权利，也保住女儿按现况领水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 794,
+      "quote": "第八百九十一日，两种旧说在课上试读。",
+      "reason": "衡陆旧称和澜陆旧课第一次在这一堂课并排由孩子实际读到，来历和经手删字可回问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 794,
+      "quote": "有一句已记不准，自己先给纸面空下一行。",
+      "reason": "短短一处自留空白交回了成年人的规则，孩子也能承认故事只听到哪一段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 794,
+      "quote": "谁肯把第一次允许民船穿的那一道线也留给别人读。",
+      "reason": "从纸上海峡问到哪位实际经手可为航线落款，引出下一章眼前确实退回去的船。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 795,
+      "quote": "一条从东边来的小船举白布，在余热封线外回转。",
+      "reason": "能见到桨和船却仍不能接货，开头提出船究竟为什么在眼前也过不来。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 795,
+      "quote": "林渡请联委经手按本来那笔时条发工",
+      "reason": "有人未能来守回口，他支持当窗实停又照付已到的两人，拒绝让工人白受危险排班。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 795,
+      "quote": "船须在外浮标见引艇，沿刚在图上落定的内标转向交口。",
+      "reason": "章初东艇递件止于外浮标，章末另签两趟冷窗民船，须由外标引艇经内标转到交口才有人接，西岸近热冈脚依然不靠。实际工程联动与船票的权限分别交代。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 795,
+      "quote": "没等到的人可以回家，船自己会在合乎条件的时候来。",
+      "reason": "退回原墙影的帮手与等船住户都有权不白耗做饭的一个凉时；希望具体为有条件的两航。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 795,
+      "quote": "没在最后添上“必到”二字。",
+      "reason": "两次航次有了实允日，但有人、有冷窗和独立去处才会实到；下一章的近陆短驳正要先证明自己的停法。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 796,
+      "quote": "自己右腿的小托板向外滑了半指",
+      "reason": "手柄只动一寸就让右腿的支撑失效，且是副手先看见，读者马上知道阿九的旧本事和这次的危险之间差了什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 796,
+      "quote": "手摸到下一档的止位便停住，等副手把栏下水位报清。",
+      "reason": "阿九亲操手柄，明知能快一点仍等另一人的判断，曾习于用脚顶刹的老司机改变了自己掌握速度的方式。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 796,
+      "quote": "两格短驳电都用完，先停在同陆卸具位保管等次准，交运一趟才入实账。",
+      "reason": "两枚独立电格换来受限空试和一趟实货，现在有可接手的运输实例，也还有明确的复运供能成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 796,
+      "quote": "腿不算，半刻算，另一半你问他",
+      "reason": "阿九用一句带笑的话承认自己确实又操了车，也让副手拥有成事的一半，支持这份回报的是结尾仍需双人移座的身体限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 796,
+      "quote": "堆好的第一筐检修料外另有一份海上民船实到的到港副记",
+      "reason": "完成同陆短驳之后，那份独立到港副记还在往五层走，产生一个真正不同的追问：第一航给上头带来了谁、又该由谁接手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 797,
+      "quote": "说三班用的钥匙全放得下",
+      "reason": "一件看似便利的家具把三班钥匙可能集中到林渡手里这件事摆到桌上，与两户仍欠的屋料同框。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 797,
+      "quote": "把草约上的“统管”划去",
+      "reason": "看过卧托和水车怎样等现场回话，林渡签排程、调料和公开说明，明白地拒绝把工地现场的启停收进抽屉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 797,
+      "quote": "木工取下抽屉上的铁锁",
+      "reason": "抽屉由集中钥匙的器物变成公开值台能投意见的物件，岗位从掌权变成有实地可找、有任期可复查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 797,
+      "quote": "差一掌便滑进抽屉，忽然又被收回袖底",
+      "reason": "公开路径刚成立，即承认有人连一封信也得迟一步再交。林渡陪老人去有当值人的档案窗，保住了来访者自己说话的机会。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 797,
+      "quote": "明朝他要自己来说",
+      "reason": "公共职位的试题接到一件私密的旧事：老人要找谁，档案窗能否既实际收案也不先公开他的信。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 798,
+      "quote": "名字后面那个“亡”字，他认得，没替任何人这样写过",
+      "reason": "来访者看见有人替他把待寻者写成死者，缩回证词；书是否可靠成为当场会损失线索的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 798,
+      "quote": "她找一块干纸遮住草条，请老人先坐",
+      "reason": "弥娅先隔开误抄并恢复老人说话的空间，接着让家属确认何种范围能公开；查证得以继续，也付出重抄和延后印纸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 798,
+      "quote": "老人领走可以查问的公开索引号",
+      "reason": "开场夺去当事人声音的一个字，经过撤回、原档分案、家属授权，变成老人能继续追问的编号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 798,
+      "quote": "他原想给弟弟换一只新鞋底，年年出路前都还记得要留一点长",
+      "reason": "备了多年的鞋木把「待寻」留下的希望写成一个具体的习惯，老人没记住鞋样仍获允许只说到亲见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 798,
+      "quote": "船到哪刻，仍须有人从岸下亲自写回来",
+      "reason": "弥娅留了成书的最后一折，是否填、由谁填，取决于第二航有没有真正靠岸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 799,
+      "quote": "迎船牌横在桥口，牌脚正踩着一道轮迹",
+      "reason": "欢迎的牌子实实在在挡了住区的水，比等船的抽象争论更快让读者看见今天谁得先过。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 799,
+      "quote": "林渡和桥端值工把牌挪回高台干处",
+      "reason": "林渡让水车原岗走完流程，并把另可用的工放到欠屋料，他能协调接待的方向在既有分工里可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 799,
+      "quote": "给下一家仍留原位，等下一根真正交来再盖收讫",
+      "reason": "答谢架的一趟工换来实修一屋，另一户仍能找到自己的欠料条；工程职务的效用第一次落在旧债实付。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 799,
+      "quote": "一截画纸拂过木槛，露出桥的另一端多画了一把空凳",
+      "reason": "孩子从想看船来到了愿领人走过已经试过的一段路，画上新增的凳子把照护等位转成自己的欢迎。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 799,
+      "quote": "客人若真走到了，累了可以坐在这儿，把自己从哪条水上来的事再说一遍。",
+      "reason": "获准的时间窗仍不能补齐实到记录；留给来客的椅子与空页都等着某个能亲自作答的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 800,
+      "quote": "帮从他身旁过去的小孩稳了一下晃荡的桶沿",
+      "reason": "真到等船的日子，桥上的第一件事仍是稳住实水并退让，衔接上章先放水车的选择和开篇卖水人的动作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 800,
+      "quote": "请他们把亲自经见的起泊和由岸台过桥各记一句",
+      "reason": "来者成为见证者，林渡只给自己在桥口所见的那一行落名，从作者一人总写转为不同当事人的一句一句。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 800,
+      "quote": "馆里此后能借阅的便是一版有日期的书",
+      "reason": "两回不同来船经现场接交和校读汇入一册；桥、课堂、档案窗三处都有真实使用者，首版亦成为可加注的实物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 800,
+      "quote": "“邻船的人来啦。”",
+      "reason": "孩子等普通提水的人全走开才喊出这个称呼；连续来过的人、家里写桥的字、留下的空椅都已兑现，称呼由他喊才站得住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 800,
+      "quote": "失联待查的索引没有因成书少掉哪栏，住区等的另一根木也还有下一回核",
+      "reason": "终章交足两航与成书的承诺，未把主谜底拖向下一卷；查询、补料、当班都有实际的继续入口，读者可以想象邻船下一趟还能带回谁的近况。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 800,
+      "quote": "馆里此后能借阅的便是一版有日期的书",
+      "reason": "791住户能当场纠正已写的安置，794旧说与可核证据分开，798失联姓名仍留可查索引。792签限期与可拒启，795确证实际短窗并另发民航，796用尽两格送出第一次短驳检修料，797和800的两次实到终于把人送过桥。D947首版公开，把可接手工程、可核史料及两岸互访三个承诺汇到同一场，保留值班、欠料和归还的代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 797,
+      "quote": "谁得在当场拦人、收闸、停载，仍按各处本人守的岗。",
+      "reason": "由一间小屋能否算安置，扩大到租来的核心谁能拒开与另一具船谁能独立停车，随后让本城总监、两岸闸手、家属与跨海来客各自拥有能作证或叫停的岗位。空窗照付工、两处能源各有消耗，终章各人按规定过同一座桥，重复的制度动作承担了逐步扩大的后果。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

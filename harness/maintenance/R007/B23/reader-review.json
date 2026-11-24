@@ -1,0 +1,485 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "id": "R007-B23",
+  "profile": "serial",
+  "writer": "R007-main",
+  "reviewer": "/root/review_221_240",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 221,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第221章_哨音连成了串.md",
+      "sha256": "8ff87d1c285f2da535b9e3076c336b9daedf38502f409f3bc20e80dc47c3137f"
+    },
+    {
+      "chapter": 222,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第222章_落名.md",
+      "sha256": "8fc3269ddc33047058fa51314a86eb58312fff92d1777b04e6f7029909f3cd46"
+    },
+    {
+      "chapter": 223,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第223章_堤不等旬头.md",
+      "sha256": "c7fbc0673729619eb3a0939e17e728e10307839eb1ca0bcad729f4ec4bd0502a"
+    },
+    {
+      "chapter": 224,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第224章_全章办事.md",
+      "sha256": "881b18f2a5444539f193ff574edf6bf0dc18e85ee68a21ec8fee827e0897b5cc"
+    },
+    {
+      "chapter": 225,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第225章_水位多少.md",
+      "sha256": "eb3abd5c6c071888675c2b5e2a61da20998ebb1edb8c5187dc65b5d7c57b271a"
+    },
+    {
+      "chapter": 226,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第226章_跟数不谈心.md",
+      "sha256": "54a396d973705e9bbeb6868fe865788df06b4aee987669596edc83492897bae3"
+    },
+    {
+      "chapter": 227,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第227章_名不撤.md",
+      "sha256": "bd7335f6b9c588879c172a9041541de925ec0c1b0a588468c3a11d26a789eb9a"
+    },
+    {
+      "chapter": 228,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第228章_长梁上了堤.md",
+      "sha256": "2ebe90035ac1a3cd9ca3ed4c69266947a0f045dc4c25a35f43b08a560a1822e6"
+    },
+    {
+      "chapter": 229,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第229章_数是真的.md",
+      "sha256": "f15a223249e1af2a44ce8953036d42df894abfe451bfa1387f04151e241f2034"
+    },
+    {
+      "chapter": 230,
+      "path": "异星录/06_执行计划/工作区/R007-B23/第230章_算术没有立场.md",
+      "sha256": "8344dad47b9fdeb606e3b0808a0c20edc9d12c51c46eae5290ce63e4a6bc6875"
+    }
+  ],
+  "source_digest": "23d17f3cde0e94aa8535d97ba43eb1f5cf7b363b59e4596f82ffeb379f9805ff",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 221,
+      "quote": "潮头过后的第二天，棚里立起了一排凝水布。",
+      "reason": "入口定位五层棚与配水站告贴栏，本章处理争得外堤抢修资格，续棚里用水。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 221,
+      "quote": "头一个把真名签给工班簿的人，是我。",
+      "reason": "人物选择为：林渡、阿九、祝衡去抢修，棚内让转运班补岗。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 221,
+      "quote": "招工班外好手。三样：落名，担保，验手。",
+      "reason": "本章推进目标/资源/规则，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 221,
+      "quote": "上堤三人的家什口粮，棚里包。",
+      "reason": "回报来自林渡、阿九、祝衡去抢修，棚内让转运班补岗；代价是转运变慢、孩子等水，报名暴露名字。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 221,
+      "quote": "堤不等旬头了。",
+      "reason": "下一章具体追问：锣声催次日上堤，危险。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 222,
+      "quote": "天不亮，值桌前就站了人",
+      "reason": "入口定位配水站→坡腰凳→棚前值桌，本章处理完成落名与准备次日验手。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 222,
+      "quote": "你的工先抵完。",
+      "reason": "人物选择为：林渡坚持少年先抵工，不带上险堤。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 222,
+      "quote": "落下的名拢共十一个",
+      "reason": "本章推进目标/关系/规则，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 222,
+      "quote": "他一个字没说，腰弯得很实。",
+      "reason": "回报来自林渡坚持少年先抵工，不带上险堤；代价是个人姓名进入可追查工班册。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 222,
+      "quote": "报到过了时，席就得让给别人。",
+      "reason": "旧钥匙不当万能门禁，林渡要求天亮前点家什、过时让席，下一章验手有实际时限。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 223,
+      "quote": "验手在天亮，上堤在验手之后。",
+      "reason": "入口定位六层水库北肩外堤→五层棚→梁运管廊，本章处理过验手、暂压渗漏、筹箍梁。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 223,
+      "quote": "林渡没有当场应。",
+      "reason": "人物选择为：林渡不擅许公共长梁，回棚公议。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 223,
+      "quote": "首班，嵌缝七根，养浆一夜。",
+      "reason": "本章推进目标/资源/规则，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 223,
+      "quote": "水的事，孩子最没得等。梁给堤。",
+      "reason": "回报来自林渡不擅许公共长梁，回棚公议；代价是棚内支板/漏檐维修延后。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 223,
+      "quote": "梁走后的第一夜，棚顶的漏点又滴了两回。",
+      "reason": "下一章具体追问：梁给堤后棚里怎样熬漏，选择。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 224,
+      "quote": "旬头那天，站柜的封条起了。",
+      "reason": "入口定位五层配水站与棚，本章处理让账册经正式核对、等病幼水。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 224,
+      "quote": "站柜存一份，棚里存一份。",
+      "reason": "人物选择为：戊字一接受逐页对勘、棚里明暗两册分存。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 224,
+      "quote": "账册相符。",
+      "reason": "本章推进线索/资源/规则，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 224,
+      "quote": "病幼份恢复的头一勺，照旧先过孩子。",
+      "reason": "回报来自戊字一接受逐页对勘、棚里明暗两册分存；代价是查账者名册被看，北巷供水仍停。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 224,
+      "quote": "调度房的人来堤上看了两回，不看堤，看名册",
+      "reason": "下一章具体追问：核账认了、却借看人名，世界。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 225,
+      "quote": "堤上的事，坏在第四班。",
+      "reason": "入口定位六层外堤第四班，本章处理阻止填芯裂缝扩大。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 225,
+      "quote": "调度房的令是我签的。",
+      "reason": "人物选择为：赫连担签降水位并停外缘供给；林渡继续补缝。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 225,
+      "quote": "缝口的亮线细了",
+      "reason": "险情经既有进出闸降水位而缓，外缘断供是保主城的另一配给选择；读者同时看见赫连的能力和牺牲逻辑。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 225,
+      "quote": "孩子那一勺的账，在棚里的册上记了五十几行",
+      "reason": "回报来自赫连担签降水位并停外缘供给；林渡继续补缝；代价是病幼份随支路断，主队再见排除代价。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 225,
+      "quote": "明儿留席。有人找你。",
+      "reason": "下一章具体追问：议长问名、让明日留席，关系。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 226,
+      "quote": "明儿来的不是“有人”，是赫连自己。",
+      "reason": "入口定位六层外堤→五层棚，本章处理继续填芯、核赫连治理说法。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 226,
+      "quote": "两勺都是真的，就得两勺都算数。",
+      "reason": "人物选择为：林渡承认恢复与断供两道令都真，不以治水成绩抵责任。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 226,
+      "quote": "封料的里头，塞的是碎砖",
+      "reason": "本章推进线索/人物/规则，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 226,
+      "quote": "准，不等于善。",
+      "reason": "回报来自林渡承认恢复与断供两道令都真，不以治水成绩抵责任；代价是旧伤牵扯、假封新工、接受对手真账的难度。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 226,
+      "quote": "圈在你的名下",
+      "reason": "下一章具体追问：被议长看作值钱的人，身份。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 227,
+      "quote": "找林渡的，是堤上的工头。",
+      "reason": "入口定位管廊岔口→堤数纸桌→五层棚，本章处理回应撤回具名换水的价。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 227,
+      "quote": "活照干，名不撤",
+      "reason": "人物选择为：林渡拒代别人撤名，四份证人各自答不撤。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 227,
+      "quote": "不撤。上一回撤，是我怯了。这回不了。",
+      "reason": "本章推进关系/规则/资源，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 227,
+      "quote": "谢你把最难答的话，答得这么痛快。",
+      "reason": "回报来自林渡拒代别人撤名，四份证人各自答不撤；代价是外缘支路仍停、病幼份又悬。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 227,
+      "quote": "视总量另行核定",
+      "reason": "下一章具体追问：不撤名后水账如何承担，选择。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 228,
+      "quote": "长梁上堤，是填芯讫之后的头一件大事。",
+      "reason": "入口定位六层外堤北肩→五层棚，本章处理长梁入箍、查产发差。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 228,
+      "quote": "起吊的头三尺，我看着梁头",
+      "reason": "人物选择为：主队与工班把棚用梁投入公共水库。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 228,
+      "quote": "梁落了底。",
+      "reason": "本章推进目标/资源/线索，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 228,
+      "quote": "棚顶第三处漏点",
+      "reason": "回报来自主队与工班把棚用梁投入公共水库；代价是棚檐漏雨、支板与梯料继续候料。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 228,
+      "quote": "差额暂不结成金额，只把原数带回去核。",
+      "reason": "初见同旬入库和实发差异，明确起日待归齐，下一篇要追的是具体水账而非空泛神秘。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 229,
+      "quote": "哨音断根，是箍梁上墙后的次日早上。",
+      "reason": "入口定位六层外堤→五层棚公开账桌，本章处理核治水成果、给居民交底。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 229,
+      "quote": "咱们不认这个数，往后的话就没人听。",
+      "reason": "人物选择为：林渡认有据治理成绩，继续追排除账。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 229,
+      "quote": "数是实的，人没掺假。",
+      "reason": "年末总数/交接行互证，让林渡承认治理成果；未读的逐日页留空，给232真实停机账保留知识边界。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 229,
+      "quote": "作证的咱们，都是他账上没有的人。",
+      "reason": "回报来自林渡认有据治理成绩，继续追排除账；代价是放弃把对手全当骗子的简单说法。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 229,
+      "quote": "明儿堤上验收。",
+      "reason": "下一章具体追问：验收时如何还价，关系。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 230,
+      "quote": "堤上验收那天，赫连把话说全了。",
+      "reason": "入口定位六层外堤→五层棚，本章处理验收后争取查差数的权限。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 230,
+      "quote": "还价之前，先对一笔账。",
+      "reason": "人物选择为：林渡先对差数、若真不够自己带头减。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 230,
+      "quote": "旁听席，设。",
+      "reason": "本章推进目标/规则/关系，事实推进已按同一终稿中的口径与位置连续性核实。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 230,
+      "quote": "下一旬头，旁听的人是她",
+      "reason": "回报来自林渡先对差数、若真不够自己带头减；代价是只有一席旁听，无身份恢复和新水。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 230,
+      "quote": "把黑的那一截，看亮。",
+      "reason": "下一章具体追问：林栖下一旬头怎样查清缺口，世界。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 230,
+      "quote": "旁听席，设。",
+      "reason": "221寻抢修入口经实际救险、献梁、拒撤名到230兑现一席查账资格，所得不越成身份或新水。",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 228,
+      "quote": "这行字底下没有落日子。落不了。",
+      "reason": "代价从抢修工时升级为棚料不可返还、病幼断水，且对手治理成果真实，冲突不能靠全盘否认。",
+      "verdict": "pass",
+      "action": ""
+    }
+  ],
+  "verdict": "pass",
+  "fact_review": "harness/maintenance/R007/B23/final.json",
+  "review_process": "首轮只读正文后查资料，见body-first.md；主笔初修后独立逐章完整复读全部20章，形成recheck-edits；主笔应用后仅对变动段及上下文再次短核，保留初审原稿指纹不覆盖。",
+  "scope_note": "仅221—230逐章修后审读，不覆盖全书。"
+}

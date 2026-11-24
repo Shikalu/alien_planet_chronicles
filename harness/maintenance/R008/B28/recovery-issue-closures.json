@@ -1,0 +1,2557 @@
+{
+  "schema_version": 1,
+  "batch": "R008-B28",
+  "kind": "actual_final_edit_closures",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+  "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "manuscripts": [
+    {
+      "chapter": 271,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+    },
+    {
+      "chapter": 272,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+    },
+    {
+      "chapter": 273,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+    },
+    {
+      "chapter": 274,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+    },
+    {
+      "chapter": 275,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+    },
+    {
+      "chapter": 276,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+    },
+    {
+      "chapter": 277,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+    },
+    {
+      "chapter": 278,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+    },
+    {
+      "chapter": 279,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+    },
+    {
+      "chapter": 280,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+    }
+  ],
+  "stage": "actual_files_read_not_simulation",
+  "entries": [
+    {
+      "id": "RB28-001",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-021"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "沿用270已辨明木油及现有新旧两楔、短撑；补逐片承接，不添支撑料，不把不明亮线改成新水源，不让裸掌接热板。 依据270两楔位于撑头，恢复建议中的“撑脚”笔误已改为“撑头”；不得借换楔改变支撑位置。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他没把两片旧楔一齐抽走。新楔先抵住压扁的那片，旧楔退一点，新楔便跟进一点，另一片仍留在撑头下。撑头轻轻一抖，原先渗过木油的缝沿又泛起一线油光，他立刻停手，等撑头不再下沉才继续。头一片到位后，他再照着换第二片；敲到第三下，进去半寸，楔尾不再往外滑。他停了锤，没把手贴上受热的板面。",
+      "line": 21,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-002",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N01"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "与D135/D138两次耗楔、D145第三次占顶料闭合，消除一处/两处及剩余两副的口径混用。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“换就换。”阿九把锤子挂回腰上，“算上今天这副，不动棚顶的预留料，还能换到第二副。第三副就得动棚顶那两处的份。”",
+      "line": 27,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-003",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N01"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "配合上一条，保留候料四笔及两处棚顶未兑现，避免同义复述库存。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“今天这副先记下。”她说，“第三副要占棚顶的料，那两处不能当已经补好了。”",
+      "line": 31,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-004",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N02"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "守住保护承诺而不赋予林渡撤号否决权；沿用已有病份单，无新增身份权限。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“哪天那边要销号，你先来告诉我。”林渡说，“你母亲还在这儿，我得拿她的病份单去问，不能让柜上的一个销字把人盖过去。”",
+      "line": 45,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-005",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-019"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "工时能挪来擦身，不能变成布料；沿用A17核人半班并入照护，不另生布卷。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "白天又擦了一回身；丁字三把原先核人那半班挪来帮手，布卷仍按照护的用量记。",
+      "line": 49,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-006",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N03"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "站位改变会影响方位参照；沿用三夜三处，不凭空声称已校准同一灯点。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“站在哪儿也得记。”林渡说，“三处的记录不能直接叠。先比时辰和走向；认不准是不是同一点灯，就分开留着。”",
+      "line": 89,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-007",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N04"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "“一点一夜”此时第二夜尚未观察，不能预先说已经两点。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“今晚记第二点。”他说。\n\n“记完才有两点。”林渡说。",
+      "line": 95,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-008",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N03"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "仅丑末至寅初的所见不概括整夜，回填须同收窄，不增加守候时长。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "两点灯一近一远，近处那点在他守看的这段时辰里没挪，远处那点亮灭无常。",
+      "line": 117,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-009",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N03"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "“船”是探查栏名，非已证实实物；保留车灯/低灯分线。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "低处那两点灯不上坡，远近也和车灯不同，中间隔着一大截。他把低处灯点另记一行，没有认成船，也没有接到车道上。",
+      "line": 121,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-010",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N05"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "删除未经路线图建立的绝对东西与“倒”字参照，气味不再单独证明风向，沿用风和账页。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "柜房外的旧钟架底下挂着那只旧铃，风过时晃一晃，不响。林渡从檐下走过去，闻到湿木头的气味。风从靠海那一侧吹进檐下，他把账页压在身前，免得纸角掀起。",
+      "line": 11,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-011",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-009"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "分呈请/受理凭条/实质答复，明确物件交接；资源台账所说“到D144未到”只能指答复。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "呈请由丁字三带上坡。晌午后他回来，把受理回条交给林渡：呈请已受理，压在柜上，等仓单室那边回。受理的凭条半日便到了，仓单室的答复还没有。林渡没有多问，把回条夹进册子里。",
+      "line": 95,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-012",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-009"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "改成通报既有安排和权限边界，不再次发现已当面约好的阿九。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“阿九明日送料，只到门前。”林渡对丁字三说，“我已经嘱咐他只看、不动签。”\n\n“到收签口就停。”丁字三说，“送料的条不准他进账房。”",
+      "line": 99,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-013",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N06"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "拒签对象是扣份/重排，而非两项保护原则。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "谁要从病幼份里扣，或重排下迁者的顺序，这两种改法他都不签。",
+      "line": 103,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-014",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N02"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "实住与登记都真实，问题是销号/供水而非二择一；不恢复门禁或增水。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“那一天，我就拿原号和她现在的铺位去问。”林渡说，“人还在这儿，凭什么把她那份水销掉。”",
+      "line": 123,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-015",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-021"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "与270以及271建议统一木油状态，不将木油当作干掉的水。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "支住的那一块，新楔敲进去以后没有再动；缝沿的木油不再往外淌，只留一条浅痕。",
+      "line": 127,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-016",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N07"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "A18岗位硬事实为林渡白班看板、夜班守核证位。把半时辰看板明确限于白班，避免下段夜里旧栏连续观察与同时每半时辰回板边相冲突；不加巡板者或抽其他班。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "白班他仍按半个时辰看一回板；夜班照原先接下的安排守核证位，不往守夜和凝水那边抽人。",
+      "line": 127,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-017",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-010"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "夜已跨至D137，明日易误推到D138；只收紧时段，不改日次。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "天亮后，阿九就要上坡送料。先进那个收签口的，是他。",
+      "line": 143,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-018",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-021"
+      ],
+      "chapter": 271,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "270明写撑底垫石、撑头塞两楔；271开头同样写撑头。此处“短撑底下”是另一处空间笔误，与用户指出RB28-001同步修复。 同段回看“汽根发黄”一并明确为既有木油的黄亮，不让汽本身转黄；灰白仍指汽。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "短撑的撑头塞着两片木楔，靠里那一片已经压扁，边角起了毛，撑头往下一沉，压出一个浅窝。\n\n“得换。”老陈拄着杖站在沟边，看了一眼就说了这一句，“不换，撑头往下坐，那块板跟着走。”\n\n“坐下去怎么样。”\n\n“板跟着往外顶。”老陈用杖头在板边点了一下，“顶到湿板那一头，缝就开了口。开了口，汽就不是贴板走，是往上冒。”\n\n林渡没有再问。他先把看汽的页翻出来，昨天那两回都记在页边，字是他自己的，比弥娅的大。昨天后半夜那一回，黄亮的是缝沿的木油；今天天亮这一回，油光浅了些，旁边的汽仍是灰白。",
+      "line": 5,
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md"
+    },
+    {
+      "id": "RB28-019",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-026"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "六字并非五字；同时消除合上后立刻翻回的空动作。此条替代旧建议第10条，不叠加应用。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他翻回写着“六层仓单室”的那一页，看了一会儿。",
+      "line": 141,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md"
+    },
+    {
+      "id": "RB28-020",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N08"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "天刚亮出发、伤腿上坡两处停歇后，不再强钉寅尾；仅去未经校准的时刻，不增日次。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "时辰记的是当下这一刻",
+      "line": 37,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md"
+    },
+    {
+      "id": "RB28-021",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N09"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "灰分布不能证明库中储存、排除路尘，限定阿九所见。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "灰积在箱顶和合缝那一线，白漆露出的地方反倒不多；只看这层灰，认不出箱子先前存在哪里。",
+      "line": 49,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md"
+    },
+    {
+      "id": "RB28-022",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-011"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留已知钉牌、撬角、换空牌动作；“不解绳”限指捆箱绳。删掉闭孔退穿绳的矛盾机构，不新增挂件或特殊孔形。术语候选须同口径说明。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。",
+      "line": 53,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md"
+    },
+    {
+      "id": "RB28-023",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-031"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "既定交板、签收、销账间补卸载交接，使用现场护卫，不新增货量或一趟运输。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "阿九把绳头攥在手里，直起腰。“那我不上。”他说，“我就送到这儿。”\n\n护卫把验过的十八根旧板从车上卸下，收在口子这一边。阿九等车板空了，才把散开的绳头卷好，收起回料场销账的那半张条。",
+      "line": 91,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md"
+    },
+    {
+      "id": "RB28-024",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-020"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不在几十步外认小字和全车牌面；删“按原样挂回”与收走旧牌相冲突之说。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "走出几十步，他回头看了一眼：口子那辆两轮车已经上了坡，坡口那根杆旁有人低头记数。车上的牌面远了，看不清；他记得近前换回去的那一块是空白的，却不知道别的箱子是不是也都换过。",
+      "line": 95,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md"
+    },
+    {
+      "id": "RB28-025",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "缺的是圆印一角，非木牌自身；避免描样把两种缺角混成形状证据。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "先画木牌：一块方的，牌角留出压印的位置。",
+      "line": 115,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md"
+    },
+    {
+      "id": "RB28-026",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-015"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "给风险共担而非凭空免险；不赋予林渡挡审或入室权限。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“看你就会记住你。”林渡说，“这回没碰签、没进室，也不能算没事。下回还得先报送料的条；问到我让你看的这些，我来认。”",
+      "line": 149,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md"
+    },
+    {
+      "id": "RB28-027",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N06"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "明确拒绝扣病幼/重排顺序，不是拒签保护条件，与272同一歧义。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "谁要动这两样，他都不签。",
+      "line": 13,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-028",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N10"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "既有右手伤仍在；仅交代低负荷慢写、停歇，与“抄得慢”衔接，不新增治愈或左手熟练书写能力。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "她右手使不上力，掌子上的伤还没全好，只能把笔握松些；左手压着册页，右手每誊一行便停一停，慢慢誊成三份",
+      "line": 25,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-029",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-007"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "A17与B27第264/269章均为五个卧床，未有减员；保留一格损失、麦穗半格自让和两轮照护，不虚补全部水差。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "她把半格从自己的份里让出来，先补进照护用水；五个卧床的前半夜、后半夜各翻一回，不能因为凝水少了就少照应一轮。这半格仍是她自己的份，不是收回了那一格底水。",
+      "line": 37,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-030",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-007",
+        "B28-019"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "五人×两回=十回，三班不变。去“工时省出布/领布直接扣木料”虚假兑换；两卷实用保留，第三卷不虚造来源，洗晒不免费加水。A18三人/六回及资源表达需主笔同步核回填。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "杜姨下午把照护页报上来：卧床五个，夜里每人翻身两回，共十回；擦身的布卷用了两卷。丁字三从核人那半班挪来的只是人手，第三卷若要领，还得另记，不能拿省下的半班当成布。\n\n“布要接着用，棚顶那两处也还在候料。”戊字一说，“这两本欠账，哪一本都没消。”\n\n“先不另领。”林渡说，“用过的布照旧洗晒轮换，洗布的水也记在照护用量里，不把这两天算成白撑过去。”",
+      "line": 41,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-031",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-010"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "承接下午杜姨报页，不无标记退回晌午；不另造新时段/日次。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "照护页报完，林渡把那张废纸从灯座底下取出来，摊在值桌上。",
+      "line": 47,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-032",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N08"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不以未校准的半年收存区间排除去年冬月旧存根。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "匣子里是值桌攒下的收条存根",
+      "line": 55,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-033",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-026"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "去年冬月为四字，去无作用计字。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“去年冬月。”林渡又说了一遍。",
+      "line": 75,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-034",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-012",
+        "B28-002"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "既有旧纸仅证明当时格式/印类存在，不能证明同一物流线持续；与旧建议第3条修末尾推断配合。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“能说明去年冬月已有这种排法、这种印。”林渡说，“不能说明眼下这批箱子那时就在走，更不能把两段路接起来。这张纸先按它自己的日期留着。”",
+      "line": 83,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-035",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不同物件同类印不等于同一实印、同线；保留时间较早证据。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“旧纸上的印比眼下这块签早。”丁字三看着那一页说，“别处也有这一类印，先分开记，别当成同一枚章盖的。”",
+      "line": 91,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-036",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N11"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "林渡收存、丁字三离开；去相反持有指令。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“这一张先留在我这儿。”林渡说，“我拿它跟阿九画的那张对过就还你。”",
+      "line": 99,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-037",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-020"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "棚门不能无据看清坡腰小字；不改日次。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "林渡走到门口，朝坡上望了一眼。坡腰守数的人换了纸；页头写了什么，这个距离看不清。",
+      "line": 113,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-038",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N03"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "明示三夜记录不是三盏灯，更不是已经确认船；保留既定夜次。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "低处灯点的三夜记录，前天夜里记满了。",
+      "line": 117,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-039",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N03"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不同观察坐标不可直推路线或船数；保留三处观察事实，以参照系修复而非新增观察点。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "三夜换了站位，远近也不同。三份记录摆在一处，还认不准近处那点是不是同一盏，更算不出几条水路。\n\n“换三处站，就能看出三条船？”裴七拄着左腿在边上说，“别是把一盏认成了三盏。”\n\n“先留着站位。”林渡说，“下回比走向，得连站在哪里一起比，不能光拿箭头往一处凑。”",
+      "line": 117,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-040",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-020"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "去跨层听很轻木牌声的超距感官，以已收到的报告承接等待，不添线索。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "棚外的坡上有人推车经过。林渡抬头望向柜房那边，想起丁字三报的那块空牌：就挂在进出都要过的梁下。他站了一会儿，没有上坡；呈请的答复还没到，他手里也还只有这两张隔了月份的纸。",
+      "line": 137,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md"
+    },
+    {
+      "id": "RB28-041",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "范围值并非完整精确号；不得虚补字头/末位。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "框外的数，他只敢报到四百一十几，末位仍没认准。",
+      "line": 5,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-042",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-013"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "一车四箱不自动推广到每趟，特别不能套给北方三趟；保留唯一实见箱数。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "阿九在口子上数清的那一车码了一排箱子，共四只；别的车装几只，还没有逐车数。",
+      "line": 9,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-043",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "“查无此号”不能证明另一账/运输路线存在；支料磨角章与各处缺角是否同源未定（术语与命名表199）。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "站账查不到这个枪件号，却不能因此抹掉拓纸上的号。另有一本账，是他们还要查的事；那枚支料的磨角章也先单记，不拿来给箱签认来路。",
+      "line": 13,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-044",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "整体降低印—厂家—号段—整批—路线链的证据强度。保留同类印、数字范围相近与教团枪件既知事实；不补字头/年份/新批号。此授权收窄需要A18卡/台账同步，不是用旧卡反证整批成立。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“缺口都在这一角。”林栖拄着册子看，“至少是同一类印。”\n\n“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”\n\n他拿指尖点着两张纸上的数。\n\n“阿九报的这个数，四百一十几。”他说，“枪件拓号在四百开外。数字挨得近，可木牌的字头没认出，也没有能拿来相对的年份。”\n\n“挨着，也不能说一批？”\n\n“不能。”林渡说，“字头、年份都可能把数分开。只拿后头这几个数，连完整的号都没对上，更不能把它们排成一批。”\n\n林栖把两张纸并拢，又松开。\n\n“枪件是教团进来的。”她说，“眼前这些箱子只看见往收签口送。一个是旧拓号，一个是木牌描样，不能当它们已经走过同一段路。”\n\n“所以先分着摆。”林渡说，“缺的是字头和年份，不是再往四百后头猜一个数。等有能认全的号，再看两张纸能不能接。”\n\n他把第三张纸推过去，放在前两张旁边。",
+      "line": 17,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-045",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-003",
+        "B28-013"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "120仅保留带全部前提的算式，不认实际旬耗量；北头只报车次。封箱内容未知、运输非已证售卖。整段替代旧建议第2条，防重复重叠。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“箱数只能先算一个限着条件的数。”他说，“坡下一夜三趟；若每趟都像阿九数清的那一车，四只，一夜才是十二只。再假定十天都不变，才有一百二十只。这是往后推的数，不是已经数过一百二十只。”\n\n“北头也是三趟，箱数呢。”林栖问。\n\n“北头没报逐车箱数，不能照搬四只。”林渡说。\n\n“这些箱子，送到哪里去。”林栖问。\n\n“只看到上坡，最后送到哪里，这一张说不出。”林渡说，“箱子封着，我也看不见里头，连是不是拿去卖的都还不知道。”",
+      "line": 37,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-046",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N09"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "分开叫法来源和现场动作来源；撕纸与换钉牌不是一套机械操作，不赋予丁字三入库观察。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“挂上去的签。”丁字三说，“叫法是柜房门房那边用的；念一只、看一只，再换空牌，是阿九回来说的。”他顿了顿，“料场送料的条则是撕半张留半张。都留下凭据，但木牌和纸条不是同一件东西，不能混着算。”",
+      "line": 53,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-047",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "两处留空不是仅剩两项未知；避免修正前段后总结又回到整批已证。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“箱里是什么、谁签发，今天都不知道。”林渡说，“这两处先留空。完整的号和前后的路也缺着，不是填完两处，就能认定所有箱子都是一批。”",
+      "line": 87,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-048",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "消除三样钉住→全线成立的总结性越界；保留收签口至转运坡的直接观察和可行动查证范围。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“三样分开记。”他扳着手指头数，“第一样，印的缺角同类；第二样，几段残数都在四百上下，完整号未对；第三样，本地近几夜三趟，阿九数清的那车四箱。哪一样也不能替另一样作证。”\n\n“分开记，眼下能做什么。”\n\n“先沿阿九亲眼看见的这一小段查。”林渡说，“六层靠海侧，收签口验箱、换挂签，随后车上转运坡。只有这一段相接。枪件从前怎么进来、北边的车怎么走到这里，纸上都还没有。”",
+      "line": 79,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-049",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "画线不得暗中完成前文已撤回的同源物流链；保留既有画线动作。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "用炭笔在那张车次箱数的外圈添了一道细线，只把已经看见的坡下、坡口画出来，没往枪件拓号和北边那段数上接。",
+      "line": 89,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-050",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002",
+        "B28-026"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不让正式补条仍把相近数报成已证同段；已递呈请无法直接桌边补写，明确另交补条。计字错误同修。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。",
+      "line": 95,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-051",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-020"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留已有搬运报两车，不在柜房檐下远读坡口行数。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "那人走了。林渡站在檐下，朝转运坡那边望了一眼。刚才那个搬运报的是上午两车；再远处记数板上添了什么，从这里认不清。",
+      "line": 109,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-052",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "大纸未带上坡，不凭空带下；“钉好”统一既有米浆粘纸。撤回教团—七层两端已证，保留疑点和门外权限。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他跟丁字三下坡，回到账桌边。那张用米浆粘好的大纸还压在原处；带上去的是补条，不是它。纸的下头空着两块，谁问起，他就指一指。\n\n“这两块空着。”戊字一问，“你打算哪天填上。”\n\n“有能核的纸再填。”林渡说，“现在只知道阿九看见的车从收签口上转运坡，最后到哪里、之前从哪里来，都还缺着。”\n\n“连两头都没接上。”戊字一说，“枪件和箱签的印、数又偏偏相像，这才叫人放不下。”\n\n“所以不能拿料场的条替箱子答话。”林渡说，“我们送板和绳，只到收签口。箱子往上走的那一截，不是送料的人能跟进去的。”",
+      "line": 131,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-053",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-020",
+        "B28-023",
+        "B28-024"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "删超距读页/细车辙与重看摆齐式收尾；以现有送料—收条—销账链给下一步，不新增材料、权限、回信或已获线索。275实际等待回话保留。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "天黑前他去靠海侧看了一眼，仍停在旧栏这一截。坡上有车轮响，记数板上的字却不能从这里认清。靠海那一面的灯还没起，水面暗了下来；他等了一会儿，近处那一点灯才显出来，低低地挂着，不亮也不灭。\n\n他回到账桌，把那张粘好的纸从册子里抽出来。挂签的叫法、转运坡的位置、一车四只和两处各三趟，各有各的报话人，不能因为放在同一页就算接成了一路。箱里是什么、谁签发，两处仍空着。\n\n他把纸放回册子，向阿九说：“下回送料拿回的条，正反面都留好，照旧交料场销账，别当废纸丢了。我们上不了那道坡，先看从口子退回来的条。”\n\n坡上的箱子还在走。呈请没有答复，下一趟回条却总要经过他们的手。",
+      "line": 143,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md"
+    },
+    {
+      "id": "RB28-054",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N03"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "统一夜次/灯点/船只层级，不让273—275谨慎判断在此回退。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "低处灯点的三夜记录前几日记满了，三处站位也留在册里，摆在一处看，仍不能确认船和水路。",
+      "line": 11,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-055",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002",
+        "B28-020"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不创造照明或近身权限，明确夜间远看是残数范围，不升级为完整号码相符。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "她写，只辨到这一段数，字头没看清，末位也抄得不真切，四百一十几只是她敢报的范围；又写，她不敢凑近，只站在堆放点外两堵墙的影子里听车轮声。",
+      "line": 43,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-056",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-014"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "已过车次不可凭静止车重数。保留既有一夜三趟，不增观察夜次/车次/证人；删除错误的双重验证动作。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "她按经过的先后记下三趟，等车歇了，只回看记下的次序，没有拿停在那里的几辆车再算一遍车次。这一夜以外的，她没有往上推。",
+      "line": 45,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-057",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-011"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "呼应273“不解绳”只指捆箱绳，不重新引入闭孔穿绳机构。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "她写，起签的人先撬一角，再整块起下来；换的是牌，捆箱的绳没解。",
+      "line": 47,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-058",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-016",
+        "B28-023"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "吊臂不双手压两头；用有对象的阅读取代无结果反复看。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "林渡用左手压住纸的一边，右臂仍吊着；他先看那段残数，再往下对车次和换牌的记述。",
+      "line": 51,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-059",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N13"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "三类证据归类，不把车次压成一趟、换牌当数字。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“一段残数、那一夜三趟车，还有换牌的做法。”林栖说，“就这些。”",
+      "line": 57,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-060",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N17"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "原先只给林栖、戊字一看，补既在桌边人物获取所谈内容的动作；由林栖低声读给不识整段文字的阿九听，不赋予阿九识字能力，也不扩大到外头排队人。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "林渡把车次、换牌那一段转给桌边的阿九和祝衡看，林栖低声读了那几句，没有念给外头排队的人。阿九听到换牌，指着纸问了下去。",
+      "line": 61,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-061",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "本地亲见者是阿九；共同程序不证相同经手人或整批。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“两边都有换牌。”林渡说，“她在北边看，阿九在这头看。做法相像，不能当成同一个人在做，也不能就说是同一批箱子。”",
+      "line": 65,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-062",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "只认数字范围重叠，不认完整同号。 同段“钉好”统一275已写米浆粘纸，不暗添纸钉耗。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他把信放在那张粘好的大纸旁边。大纸左边的描样，框后头是四百一十几；信上的那一段数，也是四百一十几。两段数隔着两张纸并在一处，范围重了，缺着的字头和末位却仍旧缺着。",
+      "line": 67,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-063",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "和275一起保持比较而非同物流确认，保留两地独立车次证据。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“车次都是三趟，残数的范围也重了。”林渡说，“两边各自看到这些，值得接着查；可不是同一时刻盯着同一辆车数，不能说货已经从那头数到了这头。”",
+      "line": 71,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-064",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N13"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "隐匿公开来源不等于删除私存原证；保留原信和既有收信责任，不新造来源台账。为280整理护源留明确边界。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”",
+      "line": 91,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-065",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N17"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "迟信只能约束写信时状态，不能证明当前行踪安全；保护不追问的选择不变。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“不问。”林渡说，“问了，就是拿这一条线去换一句话。这封信只能告诉我她写下这些时还看见了车；纸走到我手里，她此刻在哪儿，谁也不能替她说。”",
+      "line": 99,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-066",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-010",
+        "B28-020"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "原文午后等夜灯、回桌又申时自相矛盾；在原午后行动内结束，不添新日次。去远读四行/辙深增长。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "午后，林渡去靠海侧转了一圈，仍站到旧栏这一截。坡上车声没停，记数板上的小字从这里看不清。他把信上的数在心里过了一遍，又把这头两日的数过了一遍：两边记到的车次一样，中间怎么走，信上一个字也没有。白日的水面晃着亮光，不是守灯的时候，他没有等下去，转身回了值桌。",
+      "line": 105,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-067",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "总结不得把类型混淆、同类印和数字相近升级为两端同线已证。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“本地和外头各记三样。”他跟戊字一说，“有残数，有车次，也有印和换牌的做法，不都是数。现在能并着比，不能把两头钉成一条线；箱里是什么、谁签发、路怎么接，都还不知道。”",
+      "line": 109,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-068",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N17"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "随搬运仍仅到门外，无通过换名义获得入室/上坡权限。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“我上不去。”林渡说，“只跟下一趟送料到收签口，看他们怎么记这十八根板；再往里，送料的名义也不管用。”",
+      "line": 113,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-069",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-023"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "去合上又翻动作，明确只观察、不翻底账的边界。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他翻到“近两日待办”那一页，添了一行：亲自跟一趟搬运到收签口，只对送料的账，不动里面的册子。",
+      "line": 115,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-070",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-020"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不从棚里远读小字；保持午后无新增具体时刻。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "添完，他抬头看了一眼坡上。坡腰守数的人正在换纸，页头的字从值桌这里看不清。",
+      "line": 117,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-071",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-015"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "替虚假混淆术为分担被记脸与盘问风险，无新增规避手段。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“两张脸，他可能都记住。”林渡说，“这一趟我去，问料账的话由我开口。不能次次只让你一个人挨他的问。”",
+      "line": 127,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-072",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-015"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "已呈请问过箱签，不能用没问伪造角色知识史；限制本次动作不代表安全豁免。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“呈请里已经问过箱和签，装没问过没有用。”林渡说，“这趟只对送料的账，不碰箱、不取签。要问我来做什么，我照这句话答。”",
+      "line": 131,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-073",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-016"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "与277既有阿九掌把、林渡左手扶车一致，不让伤臂独推重车或举板。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“我抬不动。”林渡说，“你掌把，我在旁边用左手扶车帮、点数。真要抬板，我这只胳膊不能顶上。”",
+      "line": 135,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md"
+    },
+    {
+      "id": "RB28-074",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-030"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "区分看见字形与认出字，不把一个姓算两个已认字；后文回答同步修。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他只来得及看见三行，其中两个字的笔画稍清，一个能认作姓，另一个仍认不出。",
+      "line": 21,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-075",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N10"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "前段主体林渡，切回收货人必须点名，避免林渡指挥柜上按印。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“按这儿。”收货的人说。",
+      "line": 23,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-076",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N15"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "此前只是林渡自主决定跟班，不凭此增料场授权；保持询問本次交货。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“我跟这一趟送料来对数。”林渡说，“两捆，十八根，销的是拆栏旧板那一笔。”",
+      "line": 39,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-077",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-030"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留有限见圈但不添看清页数，不将整本账去向一致写成已证。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "后面纸页翻得快，他只瞥见相似的圈，没有再认清整页。能记下栏位的仍只有这三页，不能说后头每页都一样。",
+      "line": 47,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-078",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-031"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "在看完原载板数以后、离开以前补卸载交接，不改数量、不新招人，不让销账物资原车拉回。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "两个护卫把已验过的十八根旧板从独轮车上卸下，收到口子这一边。阿九收起送料的回条，确认车板空了，才掉过头来；他在前头拉，林渡在侧面扶，两个人慢慢往回走。",
+      "line": 61,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-079",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-027",
+        "B28-030"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "消除“引来”不明工序、已认字计数错误，以按印前已见字作明确观察依据，不推同册来源。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“看见三行。”林渡说，“有一个姓认得出来，旁边那个字还没认清。”\n\n“那些字是原来就有的？”阿九问，“还是今天写上去的？”\n\n“原来就有。”林渡说，“他还没叫你按印，纸背上就有那些字了。这不是空条，是旧纸撕下的半张。正面办了今天送料的事，背面的名字却不是今天为这趟板写的。”",
+      "line": 69,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-080",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004",
+        "B28-027"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "明确底账和散页来自不同观察动作，去引纸术语与假页距。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他扶着车把站了一会儿，把看见的几样分开：底账有页头数、件数和去向栏，去向栏里见过缺角圈；收货人手里另有撕开的旧纸，背面留下名字。那半张纸从桌上拿起，不是他看见从厚册里撕下的。",
+      "line": 79,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-081",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-030",
+        "B28-002"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "同栏比较、三页限度、圈含义未知；尤其不能由同类印解码目的地。旧A18“末几页”须同步收窄。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“只看清三页的一部分。”林渡说，“前两页的页头数挨着，第三页去向栏里有个缺角圈。页头数和去向栏不是一栏，不能拿它们说前后记法变了。”\n\n“去向栏里有圈，能知道去哪儿？”\n\n“不知道。”林渡说，“那圈跟箱印像，也只认到这一类。谁定的记号、代表哪里，我都不懂。不能看见同样的缺角，就说找到了目的地。”",
+      "line": 83,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-082",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004",
+        "B28-024"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "替换整条同一厚册/页距/一人一物分册/双人翻页的无证推演。只安排既有料场送条对账时看回条背面，无新权限和额外纸件；保留行动目标并接278。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他把这张格子纸和大纸上的空处并排放。大纸右边写着“谁签发的”，下头他添了一行小字：收条背面有名，原来记在哪里未明。\n\n“这半张纸和那本厚册，挨得上吗。”戊字一问。\n\n“我没看见从册子里撕纸。”林渡说，“桌上拿起来的是散页，厚册是后来翻开的。两样隔着这两个动作，不能把它们画成前后两页。”\n\n他把格子纸往旁边挪了一点，没有往那行名字上连线。\n\n“那今天带回来的算什么。”阿九问。\n\n“你按印的回条还要交料场。”林渡说，“正面那十八根板对得上账，背面的字却得再看。先别给那几个名字安一个我们没见过的册子。”\n\n“回条还在人手里走。”戊字一说，“能再看的是这半张，不是你面前那个厚本子。”\n\n“等料场送条来对账，就请祝衡翻背面。”林渡说，“我在门口只认出一个姓，不能当作认出了人。若背面还留着能辨的字，先核那几个字。”\n\n“厚册呢。”阿九问。\n\n“送料的人动不了它。”林渡说，“几个人去也不能替代准许翻册的条。没看到的页，先空着。”",
+      "line": 105,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-083",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N09"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "空钉、空牌的用途无已知答复，不把象征解读当制度事实。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“还不知道。”丁字三说，“只添了钉，没挂东西，门房也没交代。别先拿它当成谁的位置。”",
+      "line": 135,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-084",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004",
+        "B28-023",
+        "B28-024"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "收尾改为现有回条查找/核认目标，不以散纸同册假推论钩住；不预先知撤离事实、不跳过料场交接。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "林渡把桌上的格子纸收进册子。今天在口子上认清的栏位留着，没认清的仍空着；收条背面那一个姓，他没有填进“谁签发的”下面。一个名字，既不能证明签发者，也不能证明人已经撤走。\n\n“料场的条送来，先把销旧板十八根那一张找出来。”他对祝衡说，“正面的料账照对，背面的字也请你认一认。人若能从那半张纸上对出一点，就从那一点问，别替整本册子说话。”",
+      "line": 137,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md"
+    },
+    {
+      "id": "RB28-085",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "深折痕不能证明装订来源，更不能确认收签口厚册。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "祝衡指头顺着折痕走了一遍：纸从前折起来收过，折痕倒是真的；至于夹在哪个本子里，还是单张压着，纸上没有留下能认的凭据。",
+      "line": 19,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-086",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004",
+        "B28-023"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "去长段纸用途翻译和同册来源保证，改以原纸两面实际比对、留存选择推进；保留已知收条来源而不销毁私下追溯。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "祝衡把条翻回正面，先对销旧板十八根那一笔，数没错；再翻过来，把两面的字分开看。今天的料账在正面，背面这几行却不是收货人刚写的，裁口还截着笔画。\n\n旧纸翻面作收条，他做账时常见。可这回背面留下的不是一笔废数：三行名字还跟着数，其中一行划过。若按平时的做法只对正面，把条捆回去，那几行名就会再随料账转走；若直接抄进站册，原来是做什么用的，又还不知道。\n\n他想起昨天林渡交代的：收条背面有名，原来记在哪里未明。林渡在口子上看见厚册，也看见另拿起来的散纸，却没看见撕册。两样不能替他接成一件。\n\n他把这张条单放着，正面朝上时，仍能找到十八根板那一笔；翻到背面，才看得见三行名。来处眼下只能追到这张料场送回的收条，再前面是什么，须空着。",
+      "line": 27,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-087",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "裁口可证裁纸，不能证由已见厚册裁出；三行不说只漏一行。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“是旧纸上留下的名。”祝衡说，“这张纸后来裁成了收条，裁口截掉了一部分，底下还留着几行。原来是哪一本册、还是散页，我认不出来。”",
+      "line": 49,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-088",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不得借“纸只说”语气再次确认来源与编号含义。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "纸上能确认的，只是这几个名后头原来写着数。",
+      "line": 55,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-089",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-030"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "三行/两名/两个半参照不稳；保留两行可辨、一行待认，不加减人数。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“两行能认，另一行还有字认不出。”祝衡说，“笔画留着，不等于我们已经认出半个人；那一行先照原样留着。”",
+      "line": 61,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-090",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N12"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "未有完整字头/编号体系，不能仅凭位数作排他结论；旧A18对应排除性表述须主笔核。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "名后头那个数有什么用还不清楚，不能凭两三位就认成门牌或名册号，也不能先排除。",
+      "line": 73,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-091",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-007",
+        "B28-022"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "五人既定事实恢复；“最坏五家”是预算，不能预扣实际尚未发生照护班。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“真要跑，再从白天能搭手的人里匀。”林渡说，“五个卧床的份不动，夜里三班和两回翻身也不能拿来换跑腿。”",
+      "line": 83,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-092",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-022"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "区分预算和实耗，后文实际只有两家到桌认名，并无五次外跑。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“先核眼前能对的。”林渡说，“真跑了几趟，就记几趟；五趟是最坏的算法，不能现在就当人已经走完了。”",
+      "line": 87,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-093",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-022"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "同一张两行抄纸供两家依次看，各遮另一行；烧在两家均看完之后，原条不烧。保留原有纸、灶、保密选择，不另造第二份副本。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "纸条上只露出各家要核的那一行，看完收回；这两行给对应的人家看完，就在这里扔进灶里烧掉，不留这张抄页。原收条要留下，两面都不能毁。",
+      "line": 89,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-094",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "向家属不把未知纸源说成六层某厚册已证；保留真实收条回传出处。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“记在这张旧纸上，后来翻面作了收条。”祝衡说，“收条是从六层收签口回来的，原来是不是册页、属于哪本册，我还不能告诉你。眼下只能认这半行名。”",
+      "line": 119,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-095",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-022"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "落实已记入A18的烧抄页动作并保护原件；第二家真实认名不降为仅问话；不虚增三趟、半天外跑实耗。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "第二个来问的站到桌边，祝衡遮住先前那一行，只让他看另一行。第二家也认出了自家的名，追问去处，得到的仍是同一句：名能认，人在哪里还不知道。\n\n两家都看完，祝衡收回抄纸，亲手放进灶里，看着那两行抄字卷黑、烧掉。他留下的是原收条，连同认不清的第三行一起收好。戊字一只记今天两家到桌核认；最坏五家五趟仍是预算，今天没有按五趟扣人手。",
+      "line": 131,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-096",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N14"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "匿名外包装不等于删去内部来源和两面原证，避免280整理继续摧毁溯源。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“包外不写名，不写数，不写来处。”他说，“原条两面都留着，正面是哪一笔料账也还对得上。问到外头，只说值桌收着一张漏字纸，核过两家，不报是谁家的名。”",
+      "line": 137,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-097",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N14"
+      ],
+      "chapter": 278,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "完整纸不自动等于信息准确/公开获准；保持私核先家属知，不新增审批机构或既获公开权限。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“名单若有一天能贴，我先认我核过的那部分。”他说，“可不能只因为凑成整张，就把人家的名挂出去。先把人和去处核明白，再问这些人家肯不肯；没有做到，纸再整也先收着。”",
+      "line": 149,
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md"
+    },
+    {
+      "id": "RB28-098",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-022"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "承接278原条留存，不把所有原条退回与抽屉存原件并记；不烧/遗失原证。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "其余料场收条退回去了，那张背面有名的原条仍包在抽屉里，值桌留了一份料账抄数",
+      "line": 3,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-099",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-018"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "在场阿九介绍姓即可，不以限知旁白抢先给出未作证经历。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "阿九报了他的姓，崔。那人四十来岁，做搬运，肩上有一道旧勒痕，右手虎口上贴着一块黑布；关于夜里抬箱的事，林渡还等着听他自己说。",
+      "line": 7,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-100",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-026"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "后文明确妹妹姓名两字，此处计的是名而非一个字。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“一个名。”老崔说，“就一个，是我妹妹的名。”",
+      "line": 31,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-101",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N12"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "位数不足排除编号体系；“没了”明确为失联而非死亡，不改妹妹十年前被称外挪事实。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“两位的数，先照你看清的记。”林渡说，“还没有别的字能对，不能先替它认作门牌或别的号。”\n\n“我也不知道那数管什么。”老崔说，“我妹妹十年前就没了消息。那时说是往外挪，挪到外头去了。挪到哪儿，没人告诉我。”",
+      "line": 43,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-102",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-015"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "去已知肯受理、只认数、必能安全回返的越权保证；保留去既有当班原工作证目标，实际受理仍在后文发生。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“我陪你去当班原工的柜上，请他照你亲眼看见的记，记完要一张条。”林渡说，“可有没有人追问、肯不肯给条，我现在不能替柜上答应。”\n\n“不给呢。”\n\n“不给，就把不给这件事也记回来。”林渡说，“你说的是看见名，不是已经找到了人。我跟你同去同回，不把你交在那里等一个没应下的说法。”",
+      "line": 57,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-103",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-004"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "目击掉纸不证现在仓单室持有；仍保留调查带来压力。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“他这一句话要是真的，也还不知道那张纸如今收在哪里；我们递上去，就是要人家核他看见的这一页。",
+      "line": 71,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-104",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-007",
+        "B28-008"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "给半天亏工明确持有人林渡，不新添照护者/无名替班；保留既有林渡护送、阿九顶搬运、半天照护成本。恢复五卧床和三夜班/两时段，不通过前移夜班制造白日可用时数。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "要过坡，得有人保。林渡没有让老崔一个人去。他把护送占的半天记在自己名下：这半天不能留在照护那边搭手，白日擦洗、照看的活便少一双手。五个卧床的夜里仍排三班，前半夜、后半夜各翻一回，不把其中一班撤去顶这一趟。搬运那头，他让阿九顶老崔原来那一班，老崔这一班算支路出，记在账上。\n\n“白天少的这半天帮手，是你。”杜姨看着林渡问。\n\n“是我。”林渡说，“这半天我陪他走，回来再接能做的活，不能当我没离开过。”\n\n“右手这样，照护搭不了多少，陪着又能干什么。”",
+      "line": 77,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-105",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-015"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不知跟车者目的/权限，不能保证无事；保持护送选择而非增安保能力。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“不知道。”林渡说，“别在坡上跟他对上。先到柜房，把看见的事说清；我在你后头。”",
+      "line": 99,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-106",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N10"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不会写不等于手无法按印；虎口伤未证需他人强持，保留本人确认作证。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "老崔不会写字，听完确认是自己说的，便自己蘸印泥按了印。",
+      "line": 119,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-107",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N12"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "无查验权限是未核，不是已查比对失败；不增加原工看账能力。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“现在核不了。”原工说，“我这张纸上，只有你报的。仓单室那一边的册子，我看不着，不能说已经对过、也不能替你说不相符。”",
+      "line": 127,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-108",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N12"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "情绪不将十年失联写成确死或绝无归来；同章已认是见名非见人。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“我这一趟，算是把话说出去了。”他说，“话说出去，也不知道我妹妹还能不能回来。”",
+      "line": 139,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-109",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-007",
+        "B28-008"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "十回分两时段；绝不提前集中完成取消后半夜护理。维持半天亏工、三夜班、既有半卷加耗，使用现场杜姨不新招护理员。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "照护少掉的半天没有凭空补回来，白日没做完的擦洗还压着。杜姨接着赶这部分活，夜里三班却仍照原排法轮下去：五个卧床的前半夜各翻一次，后半夜再各翻一次，十回分在原来的两个时段，不能连着做完就销掉后半夜。她没多话，只把布卷又多领了半卷，记在这一趟护送的照护亏项下面。",
+      "line": 145,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-110",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N12"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "数相同不能认出妹妹/去处；保留对家属知情承诺和来源保护，不许诺证据充分。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“有能核的，我先告诉你。”林渡说，“只对上一个数还不算找到人；名、原纸、见到的地方，都得分开问明白。你妹妹这一项，我不拿去给外头传。”",
+      "line": 151,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-111",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-018",
+        "B28-004"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "履行私核/告知承诺，去拒找动机和已知那本册子页的假定位；受理不升级证实。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "老崔报的那两个字，他在手头的纸上没有找到。不是不找，是不能把另一行相像的字硬认给老崔。那张箱底掉过的纸仍不在他们手里，原工给的条只记了证词；往后再有能核的字，要先拿来和这份证词对。",
+      "line": 161,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md"
+    },
+    {
+      "id": "RB28-112",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-015"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "原141中本项曾把观察意图收窄为未知，但未修阿九本人巡夜，与免夜事实冲突，旧pass已撤回。主笔另施N18整块替换后，现句明确“守岗的说”，保留意图未知且不恢复本人巡夜。按实际后继字句重新关闭，不要求被替换的旧new继续命中。",
+      "quote": "“没拦。”阿九说，“守岗的说，他们就在那儿看车，车走了才跟一段。是不是故意让人看见，我不知道。”",
+      "line": 17,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "historical_resolution": "阿九能报动作不能确认监视者意图；风险不消除。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "reopened_issue_id": "RB28-N18",
+      "historical_applied_quote": "“没拦。”阿九说，“是不是故意让我们看见，我不知道。可我们上去下来，他们都在那儿，车走了他们才跟一段。”",
+      "superseded_by": "RB28-N18-B001",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+      "historical_application_status": "applied_bytes_verified_unchanged",
+      "application_status": "applied_historically_then_superseded_by_actual_N18_successor"
+    },
+    {
+      "id": "RB28-113",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N11"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "出现伤证据物理风险须有最小保护动作，用既有桌册无新增干布耗料。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "绳上还带着潮气，底下一小会儿就聚起一滴水，滴在册角上，晕开一个圆点。林渡立刻把册子挪开，摊着湿角，不让后面的纸也沾上。",
+      "line": 25,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-114",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N16"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "老崔已知虎口伤、肩勒痕，无腿伤；改白班为证人保护而非新伤病。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“不排，是不让他夜里单独往那道口子走。”林渡说，“他报的那句话已经落了纸。条能收起来，作证的人却还要出去干活，不能只顾着把纸留住。”",
+      "line": 31,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-115",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N14"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "半页名与迟信来源受保护；此次内部整理不变成向值桌公众展示。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "午后，等来问的人散了，林渡才把灯座底下那一摞纸取出来，摊给桌边几个人看，没有往外摆。",
+      "line": 47,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-116",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-013"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "275修后已是单车实数，不在280摘要重新扩大为每趟四箱。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "坡下近几夜一夜三趟，阿九数清过一车四只；",
+      "line": 49,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-117",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N11"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "既有工序为米浆粘三纸，非钉纸；不引入新钉耗。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "他把那张用米浆粘好的大纸压在最上头。",
+      "line": 51,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-118",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002",
+        "B28-004",
+        "B28-005"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "收尾汇总不回退同实印/整批/全线、圈解目的地、散纸同册假推论。保留人物两栏工作选择，但不把该选择伪装为查获官方分册机制。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“左边也得分来处。”他说，“枪件是旧拓号，木牌是阿九在收签口描的，旧收条还有它自己的日子。缺角只够认同类，残数也没对全，不能把它们算作同一批。眼下接得上的，是阿九看见验箱换签后，车上了转运坡这一段。”\n\n“去向栏那个圈呢。”祝衡问。\n\n“在那一栏见过，不等于认出了目的地。”林渡说，“箱里是什么、谁签发，仍空着。后头没看清的页也不能补成一样。”\n\n“右边这一摞呢。”\n\n“是要核的人。”林渡说，“值桌的三栏是一摊；收条背面的三行名是一摊；老崔说在箱底纸上见过妹妹的名，又是一摊。纸不一样，谁亲眼见过什么，也得分开。”\n\n“两摞挨着摆，也还接不上。”丁字三说，“左边那些号怎么对应人，手里没有能连起来的纸。”\n\n“所以另列两栏，把下一步要核的分开。”林渡说，“不是替那本厚册补出我们没看见的两页。”",
+      "line": 59,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-119",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-005",
+        "B28-006"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "撤走栏保持空；两家认名真实保留但不证明迁移/乘车。留下栏为待核对象，妹妹十年失联不可作在场者，三待核不能免查。沿既有栏目与作证原条留证，不新设手续。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“先空着。”林渡说，“撤走的人坐什么走、什么时候走，我们手里没有能核的记录。清运车拉着箱子，不能因为有一张写着名的纸，就说那些人也坐这几辆车走了。”\n\n“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”\n\n“这两次认名照旧留着，不填到撤走栏里冒充去向。”林渡说，“也不能因为去向没查清，就把家属已经认出的名退回成没认过。”\n\n“那留下这一栏呢。”\n\n“先列我们现在能见到、接下来要逐户核的人。”林渡说，“值桌三栏、次批五户十一口、同址那两户，照原先的自报、见证、待核状态来，不一笔改成核清。老崔人在这里；他妹妹不在，只有他的证词，留在作证那一项，不写成留下的人。”",
+      "line": 77,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-120",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-006"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "让“写满”不等于已全部证实仍留本地。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“写满的是待核的事，不是核完的人。”林渡说，“眼前看见谁、谁还差旁证，都照原来那三栏留着。”",
+      "line": 93,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-121",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N02"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "登记地址与实际铺位双记不等于双人份/双重事实，回接272销号配给问题。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“号一天不销，就得对着原号和现在的铺位问，不能把一个人算成两个人。",
+      "line": 95,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-122",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-006"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "位置所见不替所有候核户断言，也不提前认定留置责任。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“是谁让他们留下，今天还不能写。”林渡说，“能先写眼前见到的人，再逐户核；谁没见到，就不能替他落这个结论。”",
+      "line": 97,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-123",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-005"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "明确两家核认属于源纸认名，避免读成两栏已核两家或确认撤离。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“半页名眼下核上的只有两家，不是撤走栏核了两家。”她说，“拿出去摆，人家会把认名听成认出去处，半页纸就又被当成了整本册子。”",
+      "line": 99,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-124",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-005"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "用户明示两栏暂不公开、受保护来历不因整理毁掉。只保留已存在原条/原信/册角认名/作证记录的区别，不新增来源名册或新权限；不公开不等于失去内部证据链。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”",
+      "line": 103,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-125",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-020"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "仍可看见大纸翻页，去未经视距支持的小字行数，不减改有现场记录的车次。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "坡口那根杆上的记数板翻着新页。页上有字，从他站的地方却不能逐行数清，不能据此补记四车。",
+      "line": 107,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-126",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "RB28-N03"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "修成近灯跨夜方向变化、远灯不稳，不能误述为两盏灯同时相反走向。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“三夜换三个地方，近处那点有时向南、有时向北，中间一夜没看见挪；远处那点亮灭又没准，跟车对不上。”",
+      "line": 115,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-127",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-024"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "三夜记录不是三灯；挂签走坡不是纸页往上走，明确行动对象、可见范围。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "眼下先沿收签口的回条核下去，箱子往上走，不等于我们就看得到跟着它的账。",
+      "line": 121,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-128",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002",
+        "B28-005"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "本地多来源不可合一；两路证据可比较但不暴露渠道、不销毁原信、不当运输路线。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“本地这些纸各有来处，不能先并成一道口子出的；她报的三样也单留。可以对数字范围和换牌做法，不能把递信的路画成运箱子的路，更不能裁掉原信只留下摘数。”",
+      "line": 127,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-129",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-002"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "旧“线”既像分隔又像连接；明确为既有纸上隔线，不生成运输链证据。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“只画一道隔线。”林渡说，“两边各写各的，原纸还分开放。隔开的是来源，不是画出一条已经证实的路。”",
+      "line": 131,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-130",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-005",
+        "B28-006"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留从留下栏第一个待核号开口；不再概括撤走已证或留下全部可点名。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“从留下这一栏。”林渡说，“先核眼前还找得到的人，谁差旁证，就从谁那一份问起。撤走那一栏没有能落定的去向，车还在往上走，也不能替那些名字作答。”",
+      "line": 137,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "RB28-131",
+      "origin": "recovery-suggested-edits.json",
+      "issue_ids": [
+        "B28-013"
+      ],
+      "chapter": 280,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留D144第五趟实录，限定当日可见记录，不和近几夜三趟或远处小字账行混成全天/夜间总量。 实际终稿逐章复读后确认保留此修正，无相邻新增矛盾。",
+      "quote": "“今天我们记到第五趟了。”戊字一在册角添了一行。",
+      "line": 143,
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md"
+    },
+    {
+      "id": "B28-OLD-01",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 1,
+      "issue_ids": [
+        "B28-001"
+      ],
+      "chapter": 276,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "依据D131离队、D134首信、D140第二信，纠正人在棚里及第一次外信的双重误述；未新增信件。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+      "line": 13,
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+    },
+    {
+      "id": "B28-OLD-03",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 3,
+      "issue_ids": [
+        "B28-012"
+      ],
+      "chapter": 274,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "把缺证当作查账目标，而非连续性的证明。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "“差的这一截没对上，还不能说这条线没断。”林渡说，“得找中间的账，看有没有第二张纸——不是这一张，也不是阿九画的那一张。”",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+      "line": 133,
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+    },
+    {
+      "id": "B28-OLD-04",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 4,
+      "issue_ids": [
+        "B28-016"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留吊臂限制，将计数写成视觉动作。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "护卫过来解捆、点数。林渡站在车边，左手扶着车把，目光沿板头那两道炭线数过去——十八根，一根不差。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+      "line": 13,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+    },
+    {
+      "id": "B28-OLD-05",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 5,
+      "issue_ids": [
+        "B28-017"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "移除无来源车帮，不新增交通工具。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "林渡慢慢往下走，老崔走在他前头半步。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+      "line": 135,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+    },
+    {
+      "id": "B28-OLD-06",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 6,
+      "issue_ids": [
+        "B28-018"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "不先知道老崔尚未讲出的经历；只部分修复018，后面的不去找仍待主笔改。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "“那张纸上写着什么。”林渡问。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+      "line": 25,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+    },
+    {
+      "id": "B28-OLD-07",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 7,
+      "issue_ids": [
+        "B28-023"
+      ],
+      "chapter": 275,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "删除叙述者替重复验证作保证；阿九此前实际数箱过程保留。 原辩护句实际删除；所引为保留的条件计数段。",
+      "quote": "“箱数只能先算一个限着条件的数。”他说，“坡下一夜三趟；若每趟都像阿九数清的那一车，四只，一夜才是十二只。再假定十天都不变，才有一百二十只。这是往后推的数，不是已经数过一百二十只。”",
+      "deleted_old": "林渡信这个数，不是信一遍数出来的，是信数的人记得他数过两遍。",
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+      "line": 37,
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+    },
+    {
+      "id": "B28-OLD-08",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 8,
+      "issue_ids": [
+        "B28-025"
+      ],
+      "chapter": 273,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留下段坡腰歇息，避免一路未停矛盾。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "他拉着车往坡下走。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+      "line": 97,
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+    },
+    {
+      "id": "B28-OLD-09",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 9,
+      "issue_ids": [
+        "B28-026"
+      ],
+      "chapter": 272,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "六字计数准确，明确抄写主体；不视为已关闭009的重复打听人选。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "林渡把“六层仓单室”这六个字抄进探查册，抄在“船”那一行的上头，跟“签一行数”并排放着。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+      "line": 97,
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+    },
+    {
+      "id": "B28-OLD-11",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 11,
+      "issue_ids": [
+        "B28-028"
+      ],
+      "chapter": 279,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "把悬停的动作主体改回手，不让算盘无端悬空。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "值桌边静了一下。戊字一的手停在算盘上方。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+      "line": 33,
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+    },
+    {
+      "id": "B28-OLD-12",
+      "origin": "suggested-edits.json",
+      "entry_1_based": 12,
+      "issue_ids": [
+        "B28-029"
+      ],
+      "chapter": 277,
+      "status": "closed",
+      "closure_scope": "actual_final_manuscript_only",
+      "resolution": "保留风的来源与触觉，不把盐味直接当空气气味。 实际终稿保留；问题的其余部分另见final.json逐项关闭。",
+      "quote": "拐进那条窄板道，风从海那一面进来，轻轻吹在脸上。",
+      "deleted_old": null,
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+      "line": 7,
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+    }
+  ],
+  "counts": {
+    "recovery": 131,
+    "original_applied": 10,
+    "total": 141,
+    "closed_in_manuscript": 141,
+    "partially_reopened": 0,
+    "retained_original_spans": 139,
+    "closed_via_actual_successor": 1,
+    "additional_night_body_edit": 1,
+    "total_actual_body_edit_applications_including_night_fix": 142,
+    "original_deletions_still_effective": 1,
+    "original_edits_still_effective_without_successor": 140
+  },
+  "superseded_not_applied": [
+    {
+      "original_entry": 2,
+      "replacement": "RB28-045"
+    },
+    {
+      "original_entry": 10,
+      "replacement": "RB28-019"
+    }
+  ],
+  "candidate_writeback_not_certified": false,
+  "current_review_notice": "141原修改全部逐项闭合：139处非空new原句仍在，B28-OLD-07纯删除仍有效，RB28-112由N18实际后继关闭；另1夜班修正单记。freeze4 A18原53及新增6候选问题已实际关闭，见独立候选范围报告。",
+  "entry_status_counts": {
+    "closed": 141
+  },
+  "extended_fact_issue_ledger": "harness/maintenance/R008/B28/recovery-night-duty-closure.json",
+  "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "independent": true,
+  "scope_chapters": [
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280
+  ],
+  "date": "2026-11-10",
+  "writeback_review": "harness/maintenance/R008/B28/writeback-freeze-review.json",
+  "candidate_certification_scope": "仅freeze4八候选的A18/271—280原始行及相关R008说明，不签他组全文。"
+}

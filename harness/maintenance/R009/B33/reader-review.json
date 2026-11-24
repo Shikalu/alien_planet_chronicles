@@ -1,0 +1,430 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B33-B34",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 321,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第321章_柜子拆开以后.md",
+      "sha256": "deb56e258d11fdbcc3802c9811ca9d0c774c6c8e28df2785b0d9cff477ef0fe2"
+    },
+    {
+      "chapter": 322,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第322章_水先从门前走.md",
+      "sha256": "3c744b8c4ea5fbb82fbf05ef378133cd9d8ae606841538ee3c6fea1c74f54e90"
+    },
+    {
+      "chapter": 323,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第323章_留在缝外的那个人.md",
+      "sha256": "925734c1ef8d5bc0f7e9b42ccb0c214ab31f59f82493db62b596ef20429294a4"
+    },
+    {
+      "chapter": 324,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第324章_先把梁的重量接过来.md",
+      "sha256": "e8acad6f044aa6a68d6c4363a1361c229d1372385bb5e2bdcf173b27bfbddff1"
+    },
+    {
+      "chapter": 325,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第325章_他的脚还留在里面.md",
+      "sha256": "079f02798000665cc9a26f673c48c95178613944c84fa67e70e1d90f68a8271c"
+    },
+    {
+      "chapter": 326,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第326章_床搬到车外.md",
+      "sha256": "a150694e3e4a27820459828e55740748e87c6286dccec4caf21d1c41f221bf5d"
+    },
+    {
+      "chapter": 327,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第327章_轨枕上的旧水线.md",
+      "sha256": "0e23afd3ec5d535114f95f7c65ea58d3355df2ed8674f460155cee42c2bb96d2"
+    },
+    {
+      "chapter": 328,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第328章_墙边有风的地方.md",
+      "sha256": "4e506816e9adbdaab1f144c410af34df5e369ef6e25e80fdfb14623d50806e10"
+    },
+    {
+      "chapter": 329,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第329章_先还这一段路.md",
+      "sha256": "8b431fd01120da6e6f486433bc7a1a6edd4eba554f591f23f113c98d7ed771b8"
+    },
+    {
+      "chapter": 330,
+      "path": "异星录/06_执行计划/工作区/R009-B33/第330章_山里还有一截轨.md",
+      "sha256": "8dfc4055ef048398b147609df2f947b50ae849f75f0f26931f0e0c660e6b29bf"
+    }
+  ],
+  "source_digest": "ed46ec048c3db6968d1cff0167fe89d127b75d93a65227e8f71ba1154e9e8983",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 321,
+      "quote": "“挡几片碎草顶行。接梁，不行。”",
+      "reason": "首块柜板一按就弯，开页即把已有牺牲与救援所需承重的差距呈现出来，不靠背景解释造险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 321,
+      "quote": "“我跟你回去。”林渡说。",
+      "reason": "林渡选择回车核实际厚板，不继续叠薄板赌承重；随后安排棚口留守与送板者，选择有岗位成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 321,
+      "quote": "柜子拆空，车里一下变宽。",
+      "reason": "空间变宽却失药碗隔格与整面木壁；底架和柜的连接差异由真实拆卸露出，资源、线索同时推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 321,
+      "quote": "她把剩下的空位留着，没有再说钉回去的话。",
+      "reason": "麦穗以摆不齐柜条承认不可原样复原，私人损失可见，阿九不只是无偿供料者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 321,
+      "quote": "他得先让这股水离开木托。",
+      "reason": "第二撑未到而水冲托脚，下一章先做排水的具体目标从本章失败自然生出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 322,
+      "quote": "沟里没有下雨的响声，水却比刚才高了。",
+      "reason": "无新雨而积水上涨，与昨日湿托直接相接，读者立即要找堵口与来水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 322,
+      "quote": "“放下。别保它。”林渡说。",
+      "reason": "导水薄板开裂时舍板保人，不为已损柜料逼成人踩软地；选择随即损掉整片板。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 322,
+      "quote": "水从上片滴到沟底，再经下片流走，两块各有砖托，不用悬着整片受水重。",
+      "reason": "失败后改成两短段才让水路运作，技术解法不增料也不把饱水木托变硬。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 322,
+      "quote": "“在这里。”他把声音压稳，“水板断了，人没进棚。”",
+      "reason": "岑野把弟弟最关心的人是否还在答清，救援风险中有可触及的亲情安定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 322,
+      "quote": "第二根撑还在上方，今晚必须有人守住缝口，也得有人能够睡下去。",
+      "reason": "排水仅保明晨条件，跨夜的留守与休息成新阻力，钩子从物理危险切到照护分工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 323,
+      "quote": "岑野说自己不用睡。",
+      "reason": "一句逞强紧接惊跳撞膝，夜守者不休息本身变成危险，不是救援章节空转。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 323,
+      "quote": "他把原本要说的“我听得见”咽回去，请姨母先指一个孩子熟悉、可以换她短歇的人。",
+      "reason": "林渡接受不能两地兼守的质问，用熟悉的成人实交陪伴而非许诺自己全能。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 323,
+      "quote": "“别拼到车上。拼一张能接人的面。”",
+      "reason": "拆床变成平托面，车不再自动拥有接人后的床位；又实际问到檐下、明早移盆。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 323,
+      "quote": "孩子过了一会儿又问，那阿九睡哪里。",
+      "reason": "受困孩子也问施救者失床后的去处，私人物件牺牲被人物看见，而不是作者赞美。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 323,
+      "quote": "等梁开始卸重，岑野得先把它收回来。",
+      "reason": "手指陪伴与次晨必须退手共用一个动作，明日既要撑梁也要兑现少年守位的选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 324,
+      "quote": "第二根短撑到山口时，林渡刚从棚外换下来。",
+      "reason": "等待的材料终于到，但换守疲劳未消；续借和回条立即给这次救援时限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 324,
+      "quote": "林渡把未见后端的那片留在原位，不让清过的轻料变成催人伸手的理由。",
+      "reason": "已经清出一层仍不赌未知后端，保留障碍而不拿可见进度给危险行动背书。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 324,
+      "quote": "新撑接住重量，通道却仍没有敞开，凳和衣料各卡在不同的地方。",
+      "reason": "本章确实托住梁并见整凳，却发现两个不同卡点；下一步不是重复加撑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 324,
+      "quote": "孩子说那件袖子上有补的圆，她将现在的袖口凑近缝边，让他摸到另一处旧补丁。",
+      "reason": "通过熟悉衣袖确认姨母，焦虑在能摸到的人上短暂缓解，工程节奏有真实停顿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 324,
+      "quote": "他先叫岑野别催弟弟出来，再请姨母告诉孩子，把衣角松开，让外面的人找到那枚钉。",
+      "reason": "钉、裤腿和脚痛的具体关联给下章可执行任务，尚未承诺一拉就出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 325,
+      "quote": "孩子看不见锯，听到来回摩擦便跟着缩了一下脚。裤腿在钉上收紧，缝里传来一声痛叫。",
+      "reason": "开头将凳腿操作与孩子不由自主缩脚相互牵连，压力不是新掉一块梁的重复招式。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 325,
+      "quote": "他问能不能连这块角一同拿出来，背撬具的成人将凳面外端稳住，槐七从裂边锯去一小片木。",
+      "reason": "放弃对腿用剪，改拆钉所在木角；选择同时考虑孩子动作失败和可见木裂，不靠忽然伸手成功。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 325,
+      "quote": "两只脚一同来到外面的亮处，姨母跟着走出棚门，忽然弯下腰，手撑着膝，没能立刻站直。",
+      "reason": "孩子完整出棚兑现救援，不把右脚还卡着时算已救；姨母疲劳和踝肿持续，成功有代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 325,
+      "quote": "到棚外，孩子仍攥着背撬具成人的衣袖。那人握稳托面近端，任他攥着；姨母走到身旁，将自己的袖口递近，孩子才慢慢松开原先那只袖子，改抓住她。",
+      "reason": "孩子已经脱险却仍不肯松袖，成人允许他抓着、姨母递袖让他换抓，惊惧有缓慢释放而非出口即痊愈。持端者不腾手，主语清楚，情绪不再被手位歧义打断。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 325,
+      "quote": "弟弟出来了，棚却不能再住，后天檐下的借期也会到。",
+      "reason": "救援成功没有结束生存压力，接下去是有限借檐、水与照护，而非强行再出一个敌人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 326,
+      "quote": "第二天，山口檐下先湿的是托面外角。",
+      "reason": "才接出的托面又遭凝露，压力来自安置条件而非推翻救出成果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 326,
+      "quote": "林渡等她走过，将那半掌还回去，和姨母商量只把铺布湿角卷到托面下，孩子身体留在干处。",
+      "reason": "没有为伤者把住户母亲的门封死，有限空间的取舍引出可实际使用的接滴方法。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 326,
+      "quote": "原住户许从原定的明日凉时再延两日，三日后凉时到限，届时当面重问。",
+      "reason": "找不到可平摆托面的替代处，重谈才得到有限延期；不是对方从此永久出让住房。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 326,
+      "quote": "弟弟看见，问要多久能走，哥哥把炭搁下，答等再看，今天先睡这里。",
+      "reason": "岑野不再给弟弟空许会走，画掉站人的小影后愿意承认不知道，有成长的小回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 326,
+      "quote": "明早要清的第一把泥，得离这条线远一点。泥下有没有能接车轮的轨基，他还没看见。",
+      "reason": "居民取水路先画定，再去查轨基；下一步既有世界事件的未知，也有主角须遵守的行动边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 327,
+      "quote": "泥从钢轨边剥下来，底下的木头也跟着掉了一块。",
+      "reason": "清泥直接暴露承托失效，读者不用先听说明就知车不能贸然向前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 327,
+      "quote": "林渡记下黑印，不拿它与轨枕的凹带硬并。",
+      "reason": "对住户亲历近雨与高处旧痕分记，放弃最快解释，保留需要调查的真实差异。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 327,
+      "quote": "岑野沿着空隙看了一会儿，将原来画的前移车位擦掉。",
+      "reason": "烂枕木和轨底空隙改变少年的下一步预期；坚固车底不能代替轨基的规则实落。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 327,
+      "quote": "住户蹲下来摸到木渣，回头朝自己的棚喊，让孩子来看，然后亲自把人领过空洞旁。",
+      "reason": "把抽象警线变成家长能解释给孩子的危险，调查成果当日就护住过路人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 327,
+      "quote": "下一轮只从墙外查来水，车仍留在硬坪。",
+      "reason": "旧高水痕不能被现低沟解释，查来水成为有边界的新任务，不靠神秘一词吊读者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 328,
+      "quote": "昨夜没有再来热雨。近处外沟仍在往下淌残水，水面比清沟时低，封墙这边却一直湿着。",
+      "reason": "外沟变低与墙湿持续的反差承接旧水线疑问，使本章查墙有现实必要。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 328,
+      "quote": "林渡在问料纸上划去原来宽写的“开洞”，改成“封口外清松料、留排水与退路”。",
+      "reason": "承认没挡水料与查深能力，主动缩小借料承诺；不把风缝偷换成通道。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 328,
+      "quote": "林渡在图上把干缝与湿孔各标一处，两处挨得近，今天还不能合成一个来水口。",
+      "reason": "本章新增两个可区分的观察对象，调查并非只重复昨日不知来水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 328,
+      "quote": "小石把图拿回去，原来顺手画的一小截虚线正穿过墙后。他用炭侧把它抹掉，墙外那一段重新描实，纸上仍留着浅灰印。",
+      "reason": "少年自己修正想象地图且不换纸遮错，信息责任给人一个小幅成长回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 328,
+      "quote": "明早借主就要问收撑，明日外檐也要重问。",
+      "reason": "旧救援资源和安置期限反过来制约清障，下一章还债优先有了明确时钟。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 329,
+      "quote": "“今天谁还什么？”阿九问。",
+      "reason": "开章先压下清障纸翻旧损，把宏大计划拽回必须偿付的具体旧账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 329,
+      "quote": "林渡把手收回：“那只能先帮你挂。杆仍欠。”",
+      "reason": "被原主指出用其自家钩赔其损后认账，不用替人干一小段活冒充债已结清。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 329,
+      "quote": "两名成人只各认明早半段凉时。",
+      "reason": "救援成人撤回原活，取水户另认有限新班；工程人手来自新商议而非从旧队自动续期。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 329,
+      "quote": "门里传出厚衣滴水的声响，老人终于能将饭凳放回原来的位置。",
+      "reason": "旧债仍欠但饭凳今天能用，生活尺度的实益既不虚无也不替少年洗掉责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 329,
+      "quote": "明早可动的人手有了，工具却只借最后一小段。",
+      "reason": "下一章最后半班必须选最小有用成果，工人和工具的不同期限形成实压。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 330,
+      "quote": "第一只空坛经过时，封口外还没人动撬棍。",
+      "reason": "开工先让取水人通过，以动作兑现昨天让路承诺，也立即限定短班可用时间。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 330,
+      "quote": "若必须牵动整架，这角今日就得留着；若只去掉外面独立脱开的边条，能缩回去的也只是很短一点。",
+      "reason": "旧灰落下后弃拆整角，只处理可独立薄条；成果小但不压过主架不可动的限度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 330,
+      "quote": "日光照到构件下方，泥去掉以后，林渡第一次看见两条钢轨在封墙底部同时露出。",
+      "reason": "双轨实见使调查承诺兑现，仍有枕木缺陷、墙内无轮缘空隙，不偷换成车路贯通。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 330,
+      "quote": "两条散木锯下，路只宽出一小截，已经够一只坛在转角时不再蹭到尖边。",
+      "reason": "有限工时最终换得居民背坛的具体改善，承担代价的人得到可感知回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 330,
+      "quote": "要借下一班，他得先把这里究竟能做多少，说给五层的人听。",
+      "reason": "工具离开、成人到限后，下一组转向实际求工求料；双轨不是凭空生成施工能力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 325,
+      "quote": "林渡拿着原号那张小纸，把“棚内”旁添了一道去往山口的线。",
+      "reason": "321柜板不能承梁、322改引水、323造托面和定过弯、324接梁拆障一路铺垫，325原弟平托救出兑现核心承诺；孩子换抓姨母的袖子完成余惊释放。后五章转照护、还债、有限外工作面，未吞掉私人柜床代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 330,
+      "quote": "今日只借成半段，下一班还得重新问；那两条轨不会替任何人守住取水的路。",
+      "reason": "从一个受困孩子扩大到受损户、借物人和取水人共享的通路，再到须上五层谈人水料。风险逐级增加的是组织和资源责任，不是连续加新落石；有限双轨成果没有让灾难凭空解除。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "note": "321—330第一封稿已完整实读；第二封稿按授权完整重读325并验证仅此一段变化、另九章逐文件未变。325情绪项和篇章兑现理由据实更新，其余逐字引文与判断复核仍适用；52项同摘要，不签回填。"
+}

@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "writer": "Codex /root",
+  "reviewer": "Codex /root/reader_50",
+  "independent": true,
+  "body_first": true,
+  "profile": "serial",
+  "manuscripts": [
+    {
+      "chapter": 591,
+      "path": "异星录/06_执行计划/工作区/A50/第591章_背风石.md",
+      "sha256": "48f00a777248e0272e1f0042beb6bdd1564adb5acb906e3a3a79293c20aa8df4"
+    },
+    {
+      "chapter": 592,
+      "path": "异星录/06_执行计划/工作区/A50/第592章_近岔.md",
+      "sha256": "8c62a5aeb68532a6d0bd59db214e062d30d8f83aeb1da1a9e29ecb0864346772"
+    },
+    {
+      "chapter": 593,
+      "path": "异星录/06_执行计划/工作区/A50/第593章_背水阶上.md",
+      "sha256": "1ec9e9b9728806f1f58ce067483d74d7c993539d4b85b0801df385db41caccab"
+    },
+    {
+      "chapter": 594,
+      "path": "异星录/06_执行计划/工作区/A50/第594章_高石上的水线.md",
+      "sha256": "6476571d84aa524bf83218cf0e4a09e3b919c78f96d90df9b59709fd5bee296d"
+    },
+    {
+      "chapter": 595,
+      "path": "异星录/06_执行计划/工作区/A50/第595章_台端长缆.md",
+      "sha256": "959c375b32ea9263550943db3bc2f9b97f5dc90fe2cd7c5f84c80f60a3f0bf6c"
+    },
+    {
+      "chapter": 596,
+      "path": "异星录/06_执行计划/工作区/A50/第596章_水过低道.md",
+      "sha256": "849398f5c7813f382d2f653429f2f9300cf2df29eb6f5fa9a889ef319514b3ed"
+    },
+    {
+      "chapter": 597,
+      "path": "异星录/06_执行计划/工作区/A50/第597章_两份话.md",
+      "sha256": "3a3d985cfe06ed97bc21b2f0f075134f62bc31b4e42275e2a0a9624a7bcf87a4"
+    },
+    {
+      "chapter": 598,
+      "path": "异星录/06_执行计划/工作区/A50/第598章_白壳上面.md",
+      "sha256": "fe94480ae8e8197969a404cc5d9a479e716000b0af5780e7811680786e301935"
+    },
+    {
+      "chapter": 599,
+      "path": "异星录/06_执行计划/工作区/A50/第599章_栏脚再往里.md",
+      "sha256": "58759e8c2e6367b9d64d84ab1232c29db96dbef5acfa2abd84b274413888579c"
+    },
+    {
+      "chapter": 600,
+      "path": "异星录/06_执行计划/工作区/A50/第600章_回来的不是船.md",
+      "sha256": "65642a7e9fcbec8ae6770dd43e2aa60c02929a832daa81c6f4483d9352b99eb5"
+    }
+  ],
+  "source_digest": "65e7ddb74cae1baea0661528e78e136afc6d637a0b388b7a7927ec9600d1948f",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 591,
+      "quote": "船首人往石背外瞥了一眼，说再晚半截砂，外沿那道回水就得等下一拨才能过。",
+      "reason": "磨绳和露线立即压成今日出发的时限，四人还未解缆便可能失去窗口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 591,
+      "quote": "林渡用左手在石名下面写了早潮，写深色的一股，写来向，再在末尾写等过一轮。",
+      "reason": "不再等海上能解释全程，用石名、来向与候水的决定留下可让岸岗回问的记录。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 591,
+      "quote": "赶上还在阴里的那一处，船便能照旧过去，剩的那一处得等下一回水。",
+      "reason": "暗涌已实际抬水绷缆，复拴让本来能过的两个口只剩一个。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 591,
+      "quote": "他擦了擦壶口，摇一摇，听见壶底还有水碰上来，便把这一轮最后一口给了刚换下桨的人。",
+      "reason": "林渡口渴和旧伤没有消失，仍把剩水让给摇桨的人，四人能相互顾到。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 591,
+      "quote": "林渡把石角补在纸边，又留了一行给后一道还能站人看水的石头。",
+      "reason": "已变的水迫使下一处现场再认，留白明确要追哪一脚的水与站位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 592,
+      "quote": "原船上掌舵的人看了一眼，叫船首留心稍后的回水。",
+      "reason": "窄岔只容短停，上一章已经花去一轮水，回水立即威胁两船能否挨上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 592,
+      "quote": "那就记到西行小艇转桨的时候。",
+      "reason": "林渡主动追问实见止点，令转递消息能用，又保住亲见与计划离开之间的空白。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 592,
+      "quote": "随后用手掌一捋，砂落进水里。窄岔处水变浅得快，方才再多挂一会儿，第二船就得把外侧的桨放下去借力。",
+      "reason": "近岔交纸换来实到证据，桨上的砂给短搭运作的危险落下实物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 592,
+      "quote": "西行小艇贴近时见三人还在岩边，有人在理挨着岩壁那段缆，另一个正把手往艇首伸，递下来的便是这一张纸。",
+      "reason": "读者终于能在特定时刻重新看见东船三人，递纸和理缆给有限的安慰。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 592,
+      "quote": "他这边要添上偏站水从石脚抬过来的一轮。",
+      "reason": "下一处已是栈城背水阶，读者想知道先到快艇与后来亲见能否在岸上互证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 593,
+      "quote": "外锚的引船朝他们举桨，示意先往锚地，阶脚的水已经贴近了那道旧痕。",
+      "reason": "换船前就能量出水在逼近旧位，动作任务和水势在同一眼里出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 593,
+      "quote": "林渡抬手，给他指了指方才还能看见旧痕整头的高脚，叫他等上面的人也认过再写。",
+      "reason": "交完纸后仍选定下一轮看水的站脚和见证人，为岸岗行动留下实际入口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 593,
+      "quote": "人手挪上来，少一趟过手。昨天把排上来的人点到了，货还候下一次有人走。",
+      "reason": "预警提前到的成效是实有人增班，其代价也清晰可数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 593,
+      "quote": "祝衡照着看了一眼，又拧开自带的壶，倒了半杯水递给他。",
+      "reason": "林渡刚经过缺水船程，祝衡先照看吊布和口渴，登岸的缓冲落到一口水上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 593,
+      "quote": "水又高了半指，挨近刚才那道旧湿痕的下端。",
+      "reason": "原站可看一线已快交给下一阵水，林渡必须带人认高脚并面对增班后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 594,
+      "quote": "方才看见的湿痕又往上吃了一点，邵砺等他认清位置，一起离开阶沿。",
+      "reason": "上一章实见的水继续走高，两人先离阶沿再按干路去问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 594,
+      "quote": "要到这个门口，靠手里那些时刻还推不出来。",
+      "reason": "林渡给姨母可用的见水先后，把真正要看棚边的责任留下，姨母随即把洗晾拆成一条。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 594,
+      "quote": "林渡把报告从袋子里取出来，交在他手里。",
+      "reason": "在西边和船上记录的原页现在实到高石正账，可以按水位、亲见和后来报告逐条接续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 594,
+      "quote": "她低头看看盆，说先洗一条，叫孩子这会儿别再动脚。",
+      "reason": "姨母自己决定怎样在雨水与照护之间留手，抽象预警落成一个家庭当下能做的安排。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 594,
+      "quote": "纸套上有高石交出和三层曲荻接收的地方，后一栏还空着。",
+      "reason": "完整原页已留在高石，第一次递送能否越过坡并由曲荻亲收构成具体欠账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 595,
+      "quote": "他见林渡朝下看，把脚趾缩了缩，问同陆岸台有没有东西比这个结实。",
+      "reason": "孩子脚仍在原托上，他把上一章少掉货的后果变成林渡出门马上必须回答的物件问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 595,
+      "quote": "若有能留在干处的备用绳和病人用的备用托面，看能否由物主另行同意，先放到棚边。",
+      "reason": "明确把仍护车的短挡和长缆留下，给岸棚走另一条经同意的备物路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 595,
+      "quote": "曲荻让姨母自己伸手够一遍，姨母把刚叠好的布递给孩子，空出手来，摸到了靠外那一头。",
+      "reason": "备用绳已经实到可取，备用托面也在另处试放，临急能动用的实物比章前多。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 595,
+      "quote": "林渡说只要替他们看住后柱那边别被门外的人撞到，他坐着就看得见。",
+      "reason": "受限于旧伤的孩子也能照看具体空间，他接着指出空盆，得到职责和回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 595,
+      "quote": "曲荻站在门外束紧衣襟，等林渡一起走上回三层的干路。",
+      "reason": "人和副本均已回到可以开口的路径，下一章要向因停机和失货受影响的人当面说清。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 596,
+      "quote": "草席压住的石面还有两枚鞋印，一大一小，水顺着印沿往低处淌。",
+      "reason": "三层人脚前的水接过外岸讯息，刚送来的副本得立刻有人在湿路变坏前处理。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 596,
+      "quote": "在西边应下的是我。",
+      "reason": "质问靠近个人身份时，林渡停下翻纸动作，亲口接住对方要问的责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 596,
+      "quote": "纸上的交接停在前一程。",
+      "reason": "预警从可走低道变成断在实际交接点，原班空格也失去可以直接替补的整程。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 596,
+      "quote": "到看不见的地方，那只手就放下来。",
+      "reason": "下檐住户手指记得见水路线，亲口追究林渡后又掌握了自己能够作证的边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 596,
+      "quote": "桌上还留着一份等四层回话的纸，两处要对的人都没到。",
+      "reason": "新纸套已待出，读者可以追问旧修台和再上一层各由谁接。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 597,
+      "quote": "第五百四十八日低道停走的消息刚在货场报完，散开的人里还有好些照早凉上来的走法往外拐。",
+      "reason": "水已压到货场，停走消息和人脚不同步，须马上从干墙改路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 597,
+      "quote": "林渡想起小屋后侧，门楣旁有一块带粗面的挡板。",
+      "reason": "看到湿筐盖一脚便翻，他用走过墙角的经验向原物主借出粗板，保住通断阶内口的一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 597,
+      "quote": "槐七从山口起步，走旧修台问五层。田禾由上弯往断阶内口，问在那边值脚的人。",
+      "reason": "传话行动已经分成两个在途去向，各有独立纸张、路径和交接人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 597,
+      "quote": "林渡叫他和大人留在那里，给搬筐的人腾出进出的脚地。",
+      "reason": "小石既不用跑湿路，又能和成人把仅有的四个坐位真正留给来人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 597,
+      "quote": "田禾还没从压墙后回来。",
+      "reason": "后半条弯路实际看不见，读者等断阶内口有没有接住，也等槐七在更高处的回话。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 598,
+      "quote": "林渡隔檐认出纸脚是昨凉送去断阶的，还不知那道破口是谁留下的。",
+      "reason": "打破一张应完整回来的纸让接件成疑，山口开头立刻追田禾亲见过谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 598,
+      "quote": "林渡请曲荻在纸上留住见到三个人的时次，又把只记了去向的那一句另移一行。",
+      "reason": "林渡亲手拆开到处流传的安全推断，避免有人因空白而去港边接人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 598,
+      "quote": "昨儿田禾的话送到了一个成人手里。今天早凉，回话才到三层。",
+      "reason": "一条路径取得带落款回记，其他方向的空白更明确，仍未恢复低道。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 598,
+      "quote": "刚问过要不要去接人的那人把褂子重新搭起来，蹲下去把筐沿带着的尖刺掰掉。",
+      "reason": "想去接人的冲动停进一个可见动作，读者感到东岸无消息的沉重，也知道避开了一次白走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 598,
+      "quote": "可背水阶的观测位已经从旧架换到高石，谁还认得旧湿线从哪里数？",
+      "reason": "现地新湿痕推动明天重新找站脚，岸上收过的消息还须实际复看。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 599,
+      "quote": "他请那人去问曲荻，下一拨送水的还在等窄道，自己只给四层带了两张纸。",
+      "reason": "山口上行开头便有人与水争一条道，先分做什么才能保证纸上去、人还能回来。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 599,
+      "quote": "林渡把两份回记给她，先请她确认五层接的是值桌，六层接的是原工班。",
+      "reason": "他把两份回信带回后要求按接收岗位登记，给下一轮划出可依靠的真正人手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 599,
+      "quote": "后边有两人亲手留下的记号。",
+      "reason": "槐七和祝衡给五层回记落手记，同行工班成人再带六层回件，两处从待问进到已实收。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 599,
+      "quote": "等我往下交话，还是等我来扶你？",
+      "reason": "林栖先看林渡的手脚再开口，见面的亲近与各自任务落同一问，旧伤也实际作用于过栏。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 599,
+      "quote": "他把木片收在自己掌下，托曲荻等明早让人给岸岗带个话，他要从高石看原来低脚的水线。",
+      "reason": "消息上去后，人物须回本岸用高石实证，下一章具体要看两条水线的先后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 600,
+      "quote": "这回石尖先没。",
+      "reason": "熟悉的内标先湿次序当场倒过来，靠岸者没有可沿用的旧时限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 600,
+      "quote": "先挂灰布，岸棚走干坡。",
+      "reason": "林渡用已证的来浪方向立即让人上坡，停低处捡绳和测水，优先保人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 600,
+      "quote": "近处木城最下头的支架从一个方向挨到水，端头一截沾湿，响声沿梁柱传上他们脚底。",
+      "reason": "遥远的白边成了触到城架的水，一串水标与声音将预警推成撤离现场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 600,
+      "quote": "帘后孩子的右脚仍在自己的托面上，抬这一具的两人已经各站到一头。",
+      "reason": "照护货损失之后，邻里准备和物主同意确实保住伤脚的抬法，行动终于着地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 600,
+      "quote": "孩子转身要往下跑。林渡用左臂拦住他，问那大人叫什么，最后一次应声是在哪道缝的哪一边。",
+      "reason": "最下头已经挨水，下一章要马上查出一个具体位置与尚未应声的成年人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 600,
+      "quote": "只有整整一线水越过了外岩折向近岸的口。",
+      "reason": "停供之后回水仍在。591暗涌实见、593快艇具名实到、596低道断、599两处实回，兑现的是600外浪明确向栈城、岸上当场撤人。东港实到与旧车运力仍靠下一批验证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 600,
+      "quote": "他托接话的人捎给曲荻一句，派人问岸台的阿九，先报能留人等候的干位。",
+      "reason": "从牺牲一轮航窗和照护货走到水压城架、干坡抢肩位，送警的目标变为谁有干位等待，确认运力和找没回的人将争同一时间。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

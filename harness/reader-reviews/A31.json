@@ -1,0 +1,430 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch_id": "A31",
+  "writer": "Codex联合作写（主笔 /root；分章 /root/a31_middle、/root/a31_end）",
+  "reviewer": "Codex独立读者 /root/serial_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 401,
+      "path": "异星录/06_执行计划/工作区/A31/第401章_把车从纸上划掉.md",
+      "sha256": "a94cb5ee9a74260e1ea11dd871834770c6ebec67f07f3b09d7579fa1ea15db88"
+    },
+    {
+      "chapter": 402,
+      "path": "异星录/06_执行计划/工作区/A31/第402章_谁把空罐摆在那里.md",
+      "sha256": "22da39a52e15ec204d473bbe8e2d14aa29030f4d304999b58f6432ca935fdc99"
+    },
+    {
+      "chapter": 403,
+      "path": "异星录/06_执行计划/工作区/A31/第403章_把白布收起来.md",
+      "sha256": "073638cd532f78cded48a11cbad3df9d1c9f6dae7e31ebae015bb9cb6c930db3"
+    },
+    {
+      "chapter": 404,
+      "path": "异星录/06_执行计划/工作区/A31/第404章_车底还扣着一根缆.md",
+      "sha256": "3ddb36a194b6249983ac3bfcd364915fee8123c6b94cc0195dea92d2af2e7295"
+    },
+    {
+      "chapter": 405,
+      "path": "异星录/06_执行计划/工作区/A31/第405章_先给船留一条退路.md",
+      "sha256": "e1af5d6881f78bac79608b5058b413c3fff08489dd94340f698c5361af621987"
+    },
+    {
+      "chapter": 406,
+      "path": "异星录/06_执行计划/工作区/A31/第406章_撤掉白布.md",
+      "sha256": "5897347b8cf4b6c146a90453d1a6c1446ccfae9c85596311d20c9ff5ba5da8c4"
+    },
+    {
+      "chapter": 407,
+      "path": "异星录/06_执行计划/工作区/A31/第407章_三个人的岸.md",
+      "sha256": "7e2fd26047c18ac83fa0e388d9d008417c5b5e6c3b6bd420d9333c80e1b53baf"
+    },
+    {
+      "chapter": 408,
+      "path": "异星录/06_执行计划/工作区/A31/第408章_一轮阴凉.md",
+      "sha256": "c6e592e0bf8b86a8b4838b35d4e6530eb1a7a9c82c35f795802f84ba230c2193"
+    },
+    {
+      "chapter": 409,
+      "path": "异星录/06_执行计划/工作区/A31/第409章_压在纸上的药.md",
+      "sha256": "3302a6807d541911cf33a181da02fb6c04af8c0095fe1219debee5caeca05ca0"
+    },
+    {
+      "chapter": 410,
+      "path": "异星录/06_执行计划/工作区/A31/第410章_同一条船上.md",
+      "sha256": "bea442945c5697bb0b957b93dc215dc08aa3275a239ee2915824b56f516de4a3"
+    }
+  ],
+  "source_digest": "91995b7bbdd7781b4064059bd79647296d1c56b34753d81c62efbadffe6ecca1",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 401,
+      "quote": "你别吹。我还指着它告诉我是哪儿吃了铁。",
+      "reason": "第一眼见到车底铁屑，阿九护住掉屑想找磨损源，读者马上知道这次不能把车当成随时可动的迎船器材。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 401,
+      "quote": "这车撤出会面。",
+      "reason": "林渡让伤着膝的修车人先验轮，自己划掉众人已经想用的车，甘愿承担另借窄路人手的损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 401,
+      "quote": "他们没说来几个。我们能排几个熟路的？",
+      "reason": "原先纸上的摆车方案变成人员紧缺的徒步方案。海上人数仍待实问，岸上的人和水已成具体约束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 401,
+      "quote": "一口能坐直的椅子",
+      "reason": "阿九拿椅子说伤腿和受损车厢给自己的不便，让坚持停运付出的日常代价落到一个人身上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 401,
+      "quote": "多出一个向海的名字，原来有人的地方就会空一个。",
+      "reason": "林渡带着铁屑图去找货场；下一章要回答谁挪岗、谁出水，空红罐又把水的来源接到具体当事人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 402,
+      "quote": "只放一个，是给你们看个样。真来人了，我还有。",
+      "reason": "把上章岸棚空罐还原成补壶摊主主动占的示范位，开篇就带出他愿献壶、希望别人出水的冲突。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 402,
+      "quote": "一个近山位给来人谈事，一个路口让出来",
+      "reason": "林渡放弃占用整棚，逐家认让位条件和搬货工，让卖货的人也能保留一轮之后的摊位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 402,
+      "quote": "今天借的是场地，照护水不从旁边过手。",
+      "reason": "读者看见借到了限定场地，水没有随着借场地一并划走。这个界线随后会在真船来时被重新测试。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 402,
+      "quote": "晚半个凉时，我那板布就少卖一轮。",
+      "reason": "布摊主当面算失去的卖货时段，护水得到一个具体盟友，却留下她自己承担的代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 402,
+      "quote": "到时候能不能拿一小瓶水当路钱",
+      "reason": "摊主找到礼水之外的请求渠道，林渡听完回身。下一章要看熟路人手紧缺时这一瓶能不能从照护位挪走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 403,
+      "quote": "红布条不见了，罐里多了一截洗干净的旧帘布。",
+      "reason": "空罐带回时已从占水位的器物变成带布来认岗的东西；接着摊主直说缺看路的人，承接上一章末的资格争执。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 403,
+      "quote": "他把纸往弥娅腕边递了一寸。",
+      "reason": "船方回读漏了全撤，林渡不以听到同意就放过，要弥娅追问撤退到哪里，留下406实际救险可回看的规则。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 403,
+      "quote": "一船四人。一个舵手，一个船工，两个随船谈事的，押货归其中一人。",
+      "reason": "D320未定的船员与带货权分布开始具体，接待可从猜测进入排岗。饮水自备、到岸实测和只转达的权限又避免过早兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 403,
+      "quote": "最后一回林渡在远处只看见空柱，收布的人也还站在背山一边",
+      "reason": "试挂白布产生具体成功，旧空罐的主人终于在不收费取水的情况下帮上一次忙，收布人也不必被拖向坡外。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 403,
+      "quote": "海那边想和他们对的是航路，还是页上什么别的东西？",
+      "reason": "新问答已经能安排一次会面，旧航页又把问题从有无联系推进到为什么肯带可对证的纸，林渡留字等下一次真询问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 404,
+      "quote": "拆架铺来收东西的人问，另一根长缆在哪里。",
+      "reason": "首句就要读者跟物主数绳，紧接着「还扣着车」说明归还一件工具可能让停驶车失去防滑保护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 404,
+      "quote": "靠船另找索。",
+      "reason": "林渡同意由物主检查并实续二十四日，主动拿掉最靠水的一根方便索，护住原车也承担再找借主的工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 404,
+      "quote": "绳子没移，原车连车轮都未转",
+      "reason": "兑现本章谈判的实物状态。冷后的宽盘管能归还，车保留原位置，余电与坏轮没有被收账动静重置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 404,
+      "quote": "我左边这条算抵账，往哪里抵随你。",
+      "reason": "阿九用坏膝反问牵车的人力从哪出，玩笑反衬他本人和车架都没有康复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 404,
+      "quote": "肯借绳还得有人肯担它断。",
+      "reason": "迎客方案上仍缺接驳绳，主角必须去货场找借主，借回来的强度和断后的损失都成为明日具体压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 405,
+      "quote": "真叫你拉断一根，我不许你拆货棚的索来接。",
+      "reason": "开头拿两卷绳便把风险落在货场剩余工具上，接406断缆前读者已知不能随手再找一根。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 405,
+      "quote": "迎水的桩如果进不得，船还能先退到岩外。这里水要是上来，能试。",
+      "reason": "林渡在低水时仍把背水位按条件保留下来，给一个可以退出的选择，取决于次班实测和船自己的吃水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 405,
+      "quote": "船已进入途中一处背风锚地等潮",
+      "reason": "推进到船已经离开港口、下一航段须自己测。本批前半用三天准备的变化被这一条消息坐实，次章立刻见船。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 405,
+      "quote": "孩子回哪片檐便实送到哪片檐，不另写一号。",
+      "reason": "老檐主实看受伤的孩子后续留原檐，已有水号随实际床位继续送，海上候联也无需家属交出退路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 405,
+      "quote": "海上那点白反复升落，比浪头高出一点",
+      "reason": "不知白点是不是船，岸上白布仍收着。弥娅要求明凉先量水，读者想看白点确证后何时能动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 406,
+      "quote": "白布挂起来以后，海上的那点白转出了岩背。下头确有一条船。",
+      "reason": "直接兑现405对白点的疑问，四人和箱子已在浪里，第一靠位能不能用马上变成现实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 406,
+      "quote": "林渡左手拿住，右臂压着吊带，退到凸出的一角干岩后头。",
+      "reason": "林渡听到割缆建议后亲自找避弹脚点，伤臂不承重，左手施力。撤旗和递尾均失败才走到毁掉旧缆的选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 406,
+      "quote": "绳从石棱另一侧断开，岸上那段抽过桩脚，敲掉干箱的一条薄边。",
+      "reason": "断后回弹击出可见损耗，船终于能退，第一靠位失去，剩下短索与第二位置继续受时间限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 406,
+      "quote": "岩脊遮住半条船之前，林渡又数了一回。",
+      "reason": "刚才险情后，重新数回四人让读者看到付出一根旧缆保住了谁，人物的慌和松都落在数人的动作上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 406,
+      "quote": "先叫他们看见你给的退路。看不见，今天就不让进。",
+      "reason": "温线只剩一小段；下一章读者会看船如何在背水位把首朝外，双方能不能在这一轮对上信号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 407,
+      "quote": "船头那面深旗放倒了。",
+      "reason": "险情之后只有一个船工在收断缆，回应暂时消失，逼读者确认对面是否还能按第二次尝试行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 407,
+      "quote": "船若进来，只能由船尾轻轻倒到石阶边，头从一开始就向外。",
+      "reason": "林渡用两片木皮先让弥娅看懂退路，再请船自行倒入，技术判断改变了人能否上岸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 407,
+      "quote": "一桶随上岸的三个人，另一桶仍拴回原位",
+      "reason": "接驳第一次成功，两岸能点数人、两箱和分开的水。船工有自己的水食，未借到岸上的照护水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 407,
+      "quote": "那笑里有刚离开水面时的哑音",
+      "reason": "舵手吃藻饼时的笑把一直吊着的情绪放下来。陌生人从名单和旗变成能呛到纤维、上岸会笑的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 407,
+      "quote": "压在它下面那个“待看封”几乎给油手抹没了",
+      "reason": "「带药」的字比限制条件醒目。林渡要当夜改消息、次凉接来客，读者知道误传很可能先到货场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 408,
+      "quote": "别往箱后头躲。那里是下去的路。",
+      "reason": "开场人物已经在湿窄缝，药箱和脚步的错误都可能坠下去。上章的护送承诺当场受考验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 408,
+      "quote": "让送瓶的先。你这一趟过完，这条路还得有人走。",
+      "reason": "林渡先给本地照护班过，海客的箱和桶分班搬，清楚体现保护原号也要让来客安全到达。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 408,
+      "quote": "药包的一角恰好压住签名的位置。",
+      "reason": "岸台只能看见箱封，到货场首次实际见到封包。交换压力从准许上岸变成谁敢签优先取水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 408,
+      "quote": "布摊主人给客人量了一段厚布，人却嫌站得晒",
+      "reason": "402答应让阴凉的损失变成眼前这一单。她仍给舵手腾过歇脚位，使代价有具体承担者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 408,
+      "quote": "但得先谈，谁能让他们在领水时排到前面。",
+      "reason": "要救治的人已看到一包药；下一章的冲突具体到先让的是谁的水、林渡能不能替那个人签。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 409,
+      "quote": "隔了一夜，那包药又摆回桌上。",
+      "reason": "直承一包药压纸，开篇林渡追问究竟排哪条队。药还在，昨天的冲突没因跳日被跳掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 409,
+      "quote": "领谁的水，叫那一份的人答。",
+      "reason": "林渡肯见货和带路，对他人水的承诺交回持份人，接受错过眼前一包药的结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 409,
+      "quote": "封药留在原箱里，今天也没报给谁来领。",
+      "reason": "优先水没签，药实收回。后续问价有路径，但六笔普通旧账不靠来药擦掉，几方真实处境同时改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 409,
+      "quote": "我小儿子破了口子，敷过的布昨天已经洗第三回了。",
+      "reason": "妇人的话让拒绝具有情绪成本。她提出拿厚布换小包并得到问价办法，读者能认出一种有限回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 409,
+      "quote": "他说，我们是同船的亲人，我该替他们去问那一壶。",
+      "reason": "闻汀把请求从分水人转到弥娅本人的盐湾身份；下一章要知道这词是否意味着亲属、同航照应或代签授权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 410,
+      "quote": "闻汀等在对面，先问那张纸可不可以贴到棚外",
+      "reason": "前章一句译话即将变成公开的人选凭证，弥娅要在船员到场前阻止它贴出去。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 410,
+      "quote": "昨天你说的时候，曲荻没在这儿。等她来，问一问她叫谁亲人。",
+      "reason": "弥娅选择让在场船员举实例，接着同译双方的权限，对旧广播的同乡词也不急着替任何一边盖章。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 410,
+      "quote": "他听了，把纸上原来画的一根通到所有瓶子的长线擦掉。",
+      "reason": "闻汀原以为所有水归一处，现场改掉这条线。下一凉回到按封、按价、按双方实物重新议货的有限安排。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 410,
+      "quote": "曲荻答应让她来听对封和试货的办法。",
+      "reason": "布摊母亲从少一轮买卖又无药可领，终于进到可询价的具体环节，仍能等照护者先判断药是否适用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 410,
+      "quote": "按栈城的规矩，交货时这一壶灌到哪里。",
+      "reason": "曲荻的壶颈、壶肚与本地壶不同，一句可能有两份量。林渡让弥娅把这问题置于下一次首行，读者有理由看实测。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 407,
+      "quote": "两个小箱在板架上放稳，水桶搁在三人手边",
+      "reason": "401从车上撤出会面、403确认四人自带水食、405获船出港；407人、货与自带水真正同处岸棚，首次有限会面兑现。408—410落实现实代价：少一轮阴凉、无优先水、药仍归原主。旧航页只随箱到岸，保留到后续互核。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 410,
+      "quote": "货棚能写明谁看过箱，林渡的名字签下去只能认他带过路、听过话，孩子那份不会为他的签字挪一个位置。",
+      "reason": "前五章从掉铁屑到不能借原车绳，406因横涌割掉一根，407留第四人在船上，408—409护路转护水且失去一包可见的药。410压力落在谁有资格替谁签，再进入两套壶的计量，选择越来越难而冲突来源发生改变。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

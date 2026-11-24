@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reviewer": "/root/review_241_250",
+  "writer": "R007-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 241,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第241章_签字后的第一班.md",
+      "sha256": "133eec49a13bc941f5be2016e3c6c953acf11f5bdb298038a59fefe1dd923deb"
+    },
+    {
+      "chapter": 242,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第242章_门牌底下的人.md",
+      "sha256": "3dcbffe5cbd3991d5fd3c82b1ba922c844e049b9cdad9fa72a0a998ef807ddd1"
+    },
+    {
+      "chapter": 243,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第243章_原工坐在旁边.md",
+      "sha256": "d09ebce2c73931c8e7b76f30def8b9d59083a5eb151b15015adf151daa41ce8d"
+    },
+    {
+      "chapter": 244,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第244章_楼上的接水盆.md",
+      "sha256": "d66042f797fed798fed38205d63a137e6fc938f6e1d8e29b00d2de1eac133721"
+    },
+    {
+      "chapter": 245,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第245章_手离开红线.md",
+      "sha256": "b07fdc0f384724c697deeb6b166a02ac9b77c5881afba84474e6c833e8764483"
+    },
+    {
+      "chapter": 246,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第246章_六桶水的分法.md",
+      "sha256": "4e45f02e07875c47cd2d54fec2b4fedb54463a0d0bac8c1e0f168d69458c99bb"
+    },
+    {
+      "chapter": 247,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第247章_放水的人先松手.md",
+      "sha256": "3e09339f8b03ed53d22c642cf2b684b71f1803a992734b0626fd9083328a1503"
+    },
+    {
+      "chapter": 248,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第248章_灯亮了水还没到.md",
+      "sha256": "546b15bc38309f618e814a468745cc66620049164439b99f2450e45441870a6e"
+    },
+    {
+      "chapter": 249,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第249章_灰白片不用换.md",
+      "sha256": "2ddd2c0960b57cac80a2a19d11a5babaa34dd058304f97fdc5a07b6aedd29677"
+    },
+    {
+      "chapter": 250,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第250章_门开以后.md",
+      "sha256": "42e252e67bdfb3041ec782f5d91279b528bbd623369f537accb5d79db020f859"
+    }
+  ],
+  "source_digest": "a7cd8aebc98583f600cf7d8b1e4494f710190301e1af738275662956cd71b764",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 241,
+      "quote": "赫连签字后的第一班水，仍没从五层分发口流下来。",
+      "reason": "纸已签而水未到，冲突立刻出现",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 241,
+      "quote": "“先给病的。”他把空瓢放回原处。",
+      "reason": "优先病幼、承认借水暂时性",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 241,
+      "quote": "六壶进了站里的量壶，逐壶入缸，谁让的、减在哪一班，都念了一遍。",
+      "reason": "当日六壶来历落到人且不伪装固定水源",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 241,
+      "quote": "“你吃。我去念回条。”",
+      "reason": "杜姨得到一顿坐下吃饭的空隙，照护关系有体温",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 241,
+      "quote": "两日后，要让纸上的名字走到出水嘴前，棚里还缺一双肯在柜后守满一班的手。",
+      "reason": "议席前缺守柜者，使下章有具体任务",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 242,
+      "quote": "五层靠山一侧的北巷，第五块门牌下的壶比人先到。",
+      "reason": "壶先到、人不敢露面，压力具体",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 242,
+      "quote": "“核水的时候不收屋。”林渡补了一句。",
+      "reason": "林渡不拿饮水核名趁机判住房",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 242,
+      "quote": "如今纸上有旧户号、现住者自报、亲见和待核四栏，再没有拿一扇门当一家人的整行。",
+      "reason": "核名从空户转为亲见四栏，方式改变",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 242,
+      "quote": "“那为什么不给？”",
+      "reason": "孩子的追问把制度伤害落到个人",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 242,
+      "quote": "柜子已经认出了一个孩子，究竟是哪一步，把这个孩子的水挡了回去。",
+      "reason": "可读旧号却不发水，后续要查哪一环具体",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 243,
+      "quote": "旬头开席，桌上先摆了一把断柄。",
+      "reason": "断柄暗示改手动并非只签字",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 243,
+      "quote": "“先准勘柜、试量。人不齐，不正式切。”",
+      "reason": "不齐人员便不正式切，承担组织难题",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 243,
+      "quote": "正式停用自动剔除的位置仍空着日期，要等试量、名单、交班齐备再填。",
+      "reason": "许可从原则进到局部勘验、仍需条件",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 243,
+      "quote": "“这东西补上也不敢让人拧。你想省新柄，我想省三个班。”",
+      "reason": "阿九以省三个班作玩笑，技术代价可感",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 243,
+      "quote": "得先站到那扇窗下面，让一直以为自己还有整份的人，把问题当面问出来。",
+      "reason": "上层住户将直接质疑减额，冲突对象变化",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 244,
+      "quote": "脚下的板向外倾了一点。",
+      "reason": "窄台向外倾使进入病人家本身有危险",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 244,
+      "quote": "“先隔住这一段。等工班带工具。”",
+      "reason": "停试保护管、承认当天少水",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 244,
+      "quote": "他问她是否愿意请两人进去，把柜前拟减额的事听完。",
+      "reason": "实际查明高处低压、提出低处代领",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 244,
+      "quote": "“孩子在这儿量过身高。”",
+      "reason": "枯树保留孩子身高刻痕，住户不是配额数字",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 244,
+      "quote": "下一班水无论在册上给谁，若仍送不到那条窄台，林渡就得把抬水的人一并带到门前，而不能只送去一张新单。",
+      "reason": "代领需要搬水人员，下一章不能只改表",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 245,
+      "quote": "柜里有两根相邻的拉杆，林栖的手停在中间。",
+      "reason": "两杆相邻、伤手停住，能力边界立刻可见",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 245,
+      "quote": "“手。不是柜卡。”",
+      "reason": "林栖承认手限而非强撑升级",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 245,
+      "quote": "“人的旧记录在。算水的时候跳过去。”",
+      "reason": "自动剔除保旧档却不计需求，制度机制揭开",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 245,
+      "quote": "“少了一行，也得看得见。”她说。",
+      "reason": "少一行也须看见，是孩子号仍在的实际回应",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 245,
+      "quote": "明日若把活人都算进去，柜上那格剩额足还留不留得住，林渡得当着楼上和棚里的两排人，亲手把水量给他们看。",
+      "reason": "完整实人册与剩额数将发生面对面冲突",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 246,
+      "quote": "六只标桶先摆到了棚前。",
+      "reason": "空桶先呈示有法无水，不假装供给增加",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 246,
+      "quote": "“你可以不接搬运班，水还是两勺。”",
+      "reason": "退班仍给水，林渡接受反对者合法存在",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 246,
+      "quote": "成人六十人，共分四十壶。每人两平勺，都是原来三勺中的两勺。",
+      "reason": "六十成人共四十壶可复算，减额真正落地",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 246,
+      "quote": "“搬把凳子。我没说用腿看账。”",
+      "reason": "看窗老人坐凳看账，以有限能力参与",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 246,
+      "quote": "水已经议出分法，下一班开柜时却少了两名抬桶者；",
+      "reason": "少两名搬运让公平分法付出组织代价",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 247,
+      "quote": "借桶还没送回柜房，前面的人便停住了。",
+      "reason": "送桶路被阀口威胁截断",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 247,
+      "quote": "“水册不划你。这里的事另记。”",
+      "reason": "责任另记而不拿水惩罚，原则经行动验证",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 247,
+      "quote": "原工沿原刻线核过，位置未变。水未被排走，检修廊得封一段，擦伤的漆口也要重查。",
+      "reason": "未放水仍封廊停试，危险后果有效",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 247,
+      "quote": "“那一回，我动了。死人没回来。”",
+      "reason": "林岑自认死人不回，没有救人洗白",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 247,
+      "quote": "夜班还空着，抬桶又少两人。",
+      "reason": "夜班与搬运双缺等待补救",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 248,
+      "quote": "六层柜上的到水灯亮了，五层的桶仍是空的。",
+      "reason": "灯已亮、桶仍空，异常清晰",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 248,
+      "quote": "“回话，没到。别补第二桶。”",
+      "reason": "不补第二桶，查证而不扩大损失",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 248,
+      "quote": "半壶留在检修损耗罐，九壶半到五层清洁量具，管路排尽，无另藏的一段留水。",
+      "reason": "十壶分饮水与检修损耗，实际变化可测",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 248,
+      "quote": "林渡划去他后半班的名字，改写待接。",
+      "reason": "信使只跑半班被尊重，组织规则也约束主角",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 248,
+      "quote": "过去那些旬，五层实到栏里的数，有多少是照灯填的，有多少是照量壶填的。",
+      "reason": "旧簿实到栏的疑问仍具体，但新班另从两头实量起记，不以核完史账阻塞当班切换",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 249,
+      "quote": "正式切换定在明日。",
+      "reason": "明日切换，今晚核人接班形成倒计时",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 249,
+      "quote": "“这份不动。”林渡说，“少的两桶写少。”",
+      "reason": "拒挪医疗水，承认两桶缺口",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 249,
+      "quote": "正式准许只及这条支路的发放判断，不及总库、门禁、追责档案，也不许动低水位保护。",
+      "reason": "正式授权限本支路，身份门禁仍存",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 249,
+      "quote": "“它灰着，也留着。”她说。",
+      "reason": "孩子保灰片缺口，不再为像上层人而磨片",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 249,
+      "quote": "明日水嘴一开，他得先把病幼的水亲手送出，再回头处理那些有了份额、依然走不到水边的人。",
+      "reason": "水到了也上不了楼，运输与照护尚欠",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 250,
+      "quote": "灰白身份片送进槽里，拒发的红灯照旧亮起。",
+      "reason": "红灯仍拒，读者立刻等人工是否真正有效",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 250,
+      "quote": "“按班续。少了照记，不再把你的名字划走。”",
+      "reason": "下一班少水仍记欠、绝不删名",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 250,
+      "quote": "二十壶病幼、四十壶成人，六十壶与上游本班送下的数对齐；满份申请八十，欠额二十，原拟回补的一桶没有留下。",
+      "reason": "原工实际转换并持钥匙上锁，林栖核读转换位置；六十壶正式到人、二十欠额公开，能力和权限边界均在",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 250,
+      "quote": "“病幼份今天照单到了。”林渡将空瓢还给他，“你的两勺也在你壶里。”",
+      "reason": "空瓢兑现，仍不给额外特权",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 250,
+      "quote": "林渡把量路用的短绳绕在右手，先往靠山的安置地走去；那根早已送上水库的长梁，棚里还欠着。",
+      "reason": "新申请与高处下迁把胜利变新责任",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 250,
+      "quote": "“病幼份今天照单到了。”林渡将空瓢还给他，“你的两勺也在你壶里。”",
+      "reason": "241签纸未进柜与空瓢未兑，250实际六桶到病幼和成人，兑现局部可问责发水，仍保欠额",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 250,
+      "quote": "林渡把量路用的短绳绕在右手，先往靠山的安置地走去；那根早已送上水库的长梁，棚里还欠着。",
+      "reason": "阻碍从发放资格升级为有份者无法下楼和安置缺料，制度胜利付出分配、人手、搬迁代价",
+      "verdict": "pass",
+      "action": ""
+    }
+  ],
+  "verdict": "pass",
+  "note": "逐章完整复读实际修后稿，52项追读证据与同一终稿字节绑定；不包含开篇专项，不把范围外章节签通过。"
+}

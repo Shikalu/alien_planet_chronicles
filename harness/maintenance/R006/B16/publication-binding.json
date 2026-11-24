@@ -1,0 +1,700 @@
+{
+  "schema_version": 1,
+  "kind": "publication_binding",
+  "batch": "R006-B16",
+  "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+  "writer": "R006-main",
+  "independent": true,
+  "body_first": true,
+  "body_first_note": "指原始独立先正文后资料流程；本次只作同字节发布路径绑定，不宣称重新完整审稿。",
+  "reviewer_identity": "独立Codex会话，非人类；未参与正文/候选编辑或发布。",
+  "verified_at": "2026-11-07T16:12:12.171319+08:00",
+  "verdict": "pass",
+  "scope": "151—160正式正文及B16已审WB相关段落；不签其他批内容，不推进连载状态。",
+  "source_digest": "0f37236ff6f5bd6283773d134ee5c430e0e57adc82b51850009280756b71ff08",
+  "manuscripts": [
+    {
+      "chapter": 151,
+      "path": "异星录/正文/第二卷_黑暗断阶/第151章_谁动过送水绳.md",
+      "sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11"
+    },
+    {
+      "chapter": 152,
+      "path": "异星录/正文/第二卷_黑暗断阶/第152章_摘过面以后.md",
+      "sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a"
+    },
+    {
+      "chapter": 153,
+      "path": "异星录/正文/第二卷_黑暗断阶/第153章_只表决这扇门.md",
+      "sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948"
+    },
+    {
+      "chapter": 154,
+      "path": "异星录/正文/第二卷_黑暗断阶/第154章_一班绳料.md",
+      "sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3"
+    },
+    {
+      "chapter": 155,
+      "path": "异星录/正文/第二卷_黑暗断阶/第155章_回程也占一班.md",
+      "sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7"
+    },
+    {
+      "chapter": 156,
+      "path": "异星录/正文/第二卷_黑暗断阶/第156章_撤走的向导.md",
+      "sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e"
+    },
+    {
+      "chapter": 157,
+      "path": "异星录/正文/第二卷_黑暗断阶/第157章_空托板转不过弯.md",
+      "sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7"
+    },
+    {
+      "chapter": 158,
+      "path": "异星录/正文/第二卷_黑暗断阶/第158章_两条没填的行.md",
+      "sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff"
+    },
+    {
+      "chapter": 159,
+      "path": "异星录/正文/第二卷_黑暗断阶/第159章_受保护的签名.md",
+      "sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b"
+    },
+    {
+      "chapter": 160,
+      "path": "异星录/正文/第二卷_黑暗断阶/第160章_门开多宽.md",
+      "sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689"
+    }
+  ],
+  "reviewed_work_source_digest": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+  "manifest_reference": {
+    "path": "harness/maintenance/R006/publication-manifest.json",
+    "sha256": "e8db0266149168d8f6d9e9f7d47c4b980916c7eabed7c8f9d69e937557b92468",
+    "B16_published_digest": "0f37236ff6f5bd6283773d134ee5c430e0e57adc82b51850009280756b71ff08",
+    "matches_actual_formal_rows_digest": true
+  },
+  "review_references": {
+    "fact": {
+      "path": "harness/maintenance/R006/B16/final-authorized.json",
+      "sha256": "5db067c6a0916a20649314853b6836b0f00f5513222b73de747540deb7d3c20e",
+      "manifest_sha256_matches": true,
+      "verdict": "pass",
+      "reviewed_work_source_digest": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080"
+    },
+    "reader": {
+      "path": "harness/maintenance/R006/B16/reader-authorized.json",
+      "sha256": "d12e21ccaffc0b098adb6bab771ec78d18ad45e5a90a799a9c2aba19d731cfcb",
+      "manifest_sha256_matches": true,
+      "verdict": "pass",
+      "reviewed_work_source_digest": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080"
+    }
+  },
+  "writeback_review_reference": {
+    "path": "harness/maintenance/R006/B16/writeback-authorized-review.json",
+    "sha256": "7ff554caae88f9c9f21f6631f1d986e38ac34da1680005e17418a44b2048aa4e",
+    "scope_ranges_field": "scope_ranges",
+    "issue_coverage_field": "issue_coverage"
+  },
+  "path_mappings": [
+    {
+      "chapter": 151,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第151章_谁动过送水绳.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第151章_谁动过送水绳.md"
+    },
+    {
+      "chapter": 152,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第152章_摘过面以后.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第152章_摘过面以后.md"
+    },
+    {
+      "chapter": 153,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第153章_只表决这扇门.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第153章_只表决这扇门.md"
+    },
+    {
+      "chapter": 154,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第154章_一班绳料.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第154章_一班绳料.md"
+    },
+    {
+      "chapter": 155,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第155章_回程也占一班.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第155章_回程也占一班.md"
+    },
+    {
+      "chapter": 156,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第156章_撤走的向导.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第156章_撤走的向导.md"
+    },
+    {
+      "chapter": 157,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第157章_空托板转不过弯.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第157章_空托板转不过弯.md"
+    },
+    {
+      "chapter": 158,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第158章_两条没填的行.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第158章_两条没填的行.md"
+    },
+    {
+      "chapter": 159,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第159章_受保护的签名.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第159章_受保护的签名.md"
+    },
+    {
+      "chapter": 160,
+      "reviewed_work_path": "异星录/06_执行计划/工作区/R006-B16/第160章_门开多宽.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第160章_门开多宽.md"
+    }
+  ],
+  "chapter_file_checks": [
+    {
+      "chapter": 151,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第151章_谁动过送水绳.md",
+      "published_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "reviewed_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "current_work_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "manifest_after_sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 152,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第152章_摘过面以后.md",
+      "published_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "reviewed_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "current_work_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "manifest_after_sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 153,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第153章_只表决这扇门.md",
+      "published_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "reviewed_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "current_work_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "manifest_after_sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 154,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第154章_一班绳料.md",
+      "published_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "reviewed_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "current_work_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "manifest_after_sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 155,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第155章_回程也占一班.md",
+      "published_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "reviewed_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "current_work_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "manifest_after_sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 156,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第156章_撤走的向导.md",
+      "published_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "reviewed_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "current_work_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "manifest_after_sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 157,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第157章_空托板转不过弯.md",
+      "published_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "reviewed_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "current_work_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "manifest_after_sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 158,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第158章_两条没填的行.md",
+      "published_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "reviewed_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "current_work_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "manifest_after_sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 159,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第159章_受保护的签名.md",
+      "published_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "reviewed_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "current_work_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "manifest_after_sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    },
+    {
+      "chapter": 160,
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第160章_门开多宽.md",
+      "published_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "reviewed_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "current_work_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "manifest_after_sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689",
+      "manifest_work_path_matches": true,
+      "published_bytes_equal_current_work": true,
+      "published_sha_matches_final_and_reader": true,
+      "published_sha_matches_manifest": true,
+      "verdict": "pass"
+    }
+  ],
+  "writeback_file_checks": [
+    {
+      "published_path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/人物状态台账.md",
+      "reviewed_snapshot_full_sha256": "6a6693e1dce2e6f32181a5afda265ad89f2be430f95f114fe73cf24ed1b2bea7",
+      "published_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "current_candidate_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "manifest_after_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": false,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 0,
+          "reviewed_line_start": 281,
+          "reviewed_line_end": 303,
+          "reviewed_range_sha256": "0333625a85a182fda56ff47c0bdbff48ffad41e3f3f4acd539ceb976cb3d3b3c",
+          "published_byte_offset": 57719,
+          "published_line_start": 281,
+          "byte_length": 3898,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [
+        "R006-B16-012",
+        "R006-B16-019",
+        "R006-B16-027",
+        "R006-B16-029",
+        "R006-B16-037"
+      ],
+      "reviewed_issue_evidence_count": 5,
+      "exact_issue_evidence_matches": 5,
+      "verdict": "pass"
+    },
+    {
+      "published_path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+      "reviewed_snapshot_full_sha256": "ebdc5ef5e317f4517ec47ffa3e8eb891b399e59d1e90f8ba661c7e38bdfa186e",
+      "published_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "current_candidate_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "manifest_after_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": false,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 1,
+          "reviewed_line_start": 301,
+          "reviewed_line_end": 317,
+          "reviewed_range_sha256": "6b7fd1204e68be29e2ebfdf80ac315870258c414f09e0e089dd6ceb2304244aa",
+          "published_byte_offset": 38878,
+          "published_line_start": 301,
+          "byte_length": 3915,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [
+        "R006-B16-001",
+        "R006-B16-009",
+        "R006-B16-010",
+        "R006-B16-020",
+        "R006-B16-025",
+        "R006-B16-030",
+        "R006-B16-032",
+        "R006-B16-033"
+      ],
+      "reviewed_issue_evidence_count": 8,
+      "exact_issue_evidence_matches": 8,
+      "verdict": "pass"
+    },
+    {
+      "published_path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/事件与地点时间线.md",
+      "reviewed_snapshot_full_sha256": "bae30213e4dfdb2bdf38fec453e5d8c82a6f4f7829e830cbd788029f45b8c9cf",
+      "published_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "current_candidate_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "manifest_after_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": false,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 2,
+          "reviewed_line_start": 158,
+          "reviewed_line_end": 173,
+          "reviewed_range_sha256": "825aa68b63453d635f9dfb6a3b5c404198867251ca726ebe9acd6abbadd9f6ec",
+          "published_byte_offset": 25645,
+          "published_line_start": 158,
+          "byte_length": 2844,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [
+        "R006-B16-015",
+        "R006-B16-016"
+      ],
+      "reviewed_issue_evidence_count": 2,
+      "exact_issue_evidence_matches": 2,
+      "verdict": "pass"
+    },
+    {
+      "published_path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/伏笔与悬念台账.md",
+      "reviewed_snapshot_full_sha256": "ba04814f851c39405371a7761a91930d072e23429f893e1ab04b656a9b71e967",
+      "published_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "current_candidate_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "manifest_after_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": false,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 3,
+          "reviewed_line_start": 450,
+          "reviewed_line_end": 460,
+          "reviewed_range_sha256": "8bde2213285a8f436feb7e0efbc67b91f506cbb833fb1aaf55bdea48d75e80ef",
+          "published_byte_offset": 63983,
+          "published_line_start": 450,
+          "byte_length": 1290,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [
+        "R006-B16-003"
+      ],
+      "reviewed_issue_evidence_count": 1,
+      "exact_issue_evidence_matches": 1,
+      "verdict": "pass"
+    },
+    {
+      "published_path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/术语与命名表.md",
+      "reviewed_snapshot_full_sha256": "fc5fe7777f18e7e4114f6fdd377651a83830ef7433c7667adc6328d96e5d2970",
+      "published_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "current_candidate_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "manifest_after_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": false,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 4,
+          "reviewed_line_start": 76,
+          "reviewed_line_end": 85,
+          "reviewed_range_sha256": "d18f652b095e3df77e317dadbe2401b4e0f27db6f9246784543be126e54c674a",
+          "published_byte_offset": 10075,
+          "published_line_start": 76,
+          "byte_length": 1426,
+          "exact_reviewed_bytes_present": true
+        },
+        {
+          "review_scope_range_index": 5,
+          "reviewed_line_start": 399,
+          "reviewed_line_end": 407,
+          "reviewed_range_sha256": "99606f7cd7e185e15483705bd4fd8500886b8c3177f95c691386792e8f5ac027",
+          "published_byte_offset": 55456,
+          "published_line_start": 399,
+          "byte_length": 429,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [
+        "R006-B16-012"
+      ],
+      "reviewed_issue_evidence_count": 1,
+      "exact_issue_evidence_matches": 1,
+      "verdict": "pass"
+    },
+    {
+      "published_path": "异星录/04_连续性管理/术语词典.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/术语词典.md",
+      "reviewed_snapshot_full_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "published_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "current_candidate_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "manifest_after_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": true,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 6,
+          "reviewed_line_start": 235,
+          "reviewed_line_end": 244,
+          "reviewed_range_sha256": "2b7e3d857eb7171753b727c1a630ea194155dda656c956012341bb94a398dc97",
+          "published_byte_offset": 33553,
+          "published_line_start": 235,
+          "byte_length": 797,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [
+        "R006-B16-010",
+        "R006-B16-012",
+        "R006-B16-025",
+        "R006-B16-032"
+      ],
+      "reviewed_issue_evidence_count": 4,
+      "exact_issue_evidence_matches": 4,
+      "verdict": "pass"
+    },
+    {
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/逐章卡.md",
+      "reviewed_snapshot_full_sha256": "6af0776baba22d32e378bc37ce2158debcf93b4c2631396f32f5b18e7e25bcbf",
+      "published_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "current_candidate_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "manifest_after_sha256": "f0a1db89ba44b3456c33fab0b2e466879750d584345ed8dc35aac9390ffab642",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": false,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 7,
+          "reviewed_line_start": 110,
+          "reviewed_line_end": 123,
+          "reviewed_range_sha256": "cf2a5f5cf169a610369c9a4d381e81da27da995052293c46377cf58434ea38a7",
+          "published_byte_offset": 24646,
+          "published_line_start": 110,
+          "byte_length": 3938,
+          "exact_reviewed_bytes_present": true
+        },
+        {
+          "review_scope_range_index": 8,
+          "reviewed_line_start": 546,
+          "reviewed_line_end": 612,
+          "reviewed_range_sha256": "c5a64689ce916a9ddd6246592b7a58049b90c4e26eab7897e38bdcc7f9f7321b",
+          "published_byte_offset": 78500,
+          "published_line_start": 546,
+          "byte_length": 5654,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [
+        "R006-B16-001",
+        "R006-B16-002",
+        "R006-B16-003",
+        "R006-B16-004",
+        "R006-B16-005",
+        "R006-B16-006",
+        "R006-B16-007",
+        "R006-B16-008",
+        "R006-B16-009",
+        "R006-B16-010",
+        "R006-B16-011",
+        "R006-B16-012",
+        "R006-B16-013",
+        "R006-B16-014",
+        "R006-B16-015",
+        "R006-B16-016",
+        "R006-B16-017",
+        "R006-B16-018",
+        "R006-B16-019",
+        "R006-B16-020",
+        "R006-B16-021",
+        "R006-B16-022",
+        "R006-B16-023",
+        "R006-B16-024",
+        "R006-B16-025",
+        "R006-B16-026",
+        "R006-B16-027",
+        "R006-B16-028",
+        "R006-B16-029",
+        "R006-B16-030",
+        "R006-B16-031",
+        "R006-B16-032",
+        "R006-B16-033",
+        "R006-B16-034",
+        "R006-B16-035",
+        "R006-B16-036",
+        "R006-B16-037",
+        "R006-B16-038"
+      ],
+      "reviewed_issue_evidence_count": 84,
+      "exact_issue_evidence_matches": 84,
+      "verdict": "pass"
+    },
+    {
+      "published_path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "candidate_path": "异星录/06_执行计划/工作区/R006-WB/十章篇章卡.md",
+      "reviewed_snapshot_full_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "published_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "current_candidate_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "manifest_after_sha256": "416bf76c3c15c64a925c5de6d398b741df0c7e20aae4b4a00e9af9b8d9a86754",
+      "published_bytes_equal_current_candidate": true,
+      "published_sha_matches_manifest": true,
+      "whole_file_unchanged_since_B16_review": true,
+      "reviewed_scope_ranges": [
+        {
+          "review_scope_range_index": 9,
+          "reviewed_line_start": 16,
+          "reviewed_line_end": 16,
+          "reviewed_range_sha256": "fe166cdb9734f82b400e4ceaefe6b9fd3c164b98f0eed6e8937093af127cb499",
+          "published_byte_offset": 3212,
+          "published_line_start": 16,
+          "byte_length": 469,
+          "exact_reviewed_bytes_present": true
+        }
+      ],
+      "original_issue_ids_checked": [],
+      "reviewed_issue_evidence_count": 0,
+      "exact_issue_evidence_matches": 0,
+      "verdict": "pass"
+    }
+  ],
+  "writeback_six_edit_checks": [
+    {
+      "writeback_issue_id": "R006-B16-WB-001",
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "issue_ids": [
+        "R006-B16-014"
+      ],
+      "before_count": 0,
+      "after_count": 1,
+      "verdict": "pass"
+    },
+    {
+      "writeback_issue_id": "R006-B16-WB-002",
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "issue_ids": [
+        "R006-B16-015",
+        "R006-B16-016"
+      ],
+      "before_count": 0,
+      "after_count": 1,
+      "verdict": "pass"
+    },
+    {
+      "writeback_issue_id": "R006-B16-WB-002",
+      "published_path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "issue_ids": [
+        "R006-B16-015",
+        "R006-B16-016"
+      ],
+      "before_count": 0,
+      "after_count": 1,
+      "verdict": "pass"
+    },
+    {
+      "writeback_issue_id": "R006-B16-WB-003",
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "issue_ids": [
+        "R006-B16-028"
+      ],
+      "before_count": 0,
+      "after_count": 1,
+      "verdict": "pass"
+    },
+    {
+      "writeback_issue_id": "R006-B16-WB-004",
+      "published_path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "issue_ids": [
+        "R006-B16-019"
+      ],
+      "before_count": 0,
+      "after_count": 1,
+      "verdict": "pass"
+    },
+    {
+      "writeback_issue_id": "R006-B16-WB-005",
+      "published_path": "异星录/04_连续性管理/人物状态台账.md",
+      "issue_ids": [
+        "R006-B16-029",
+        "R006-B16-037"
+      ],
+      "before_count": 0,
+      "after_count": 1,
+      "verdict": "pass"
+    }
+  ],
+  "coverage": {
+    "formal_chapters_verified": 10,
+    "original_issue_ids_covered": 38,
+    "original_issue_closure_evidence_count": 93,
+    "exact_closure_evidence_present_in_formal": 93,
+    "reader_checks": 52,
+    "exact_reader_quotes_present_in_formal": 52,
+    "writeback_files": 8,
+    "writeback_reviewed_ranges": 10,
+    "writeback_edit_operations": 6
+  },
+  "writeback_shared_file_note": "共享候选在B16审读后有其他段落修改；全文件旧SHA可能不同。本次同时验证当前候选与正式全字节相同，以及B16冻结报告的全部范围和问题引句原样存在；不借此认可其他批新增内容。",
+  "frozen_review_artifacts": [
+    {
+      "path": "harness/maintenance/R006/B16/final-authorized.json",
+      "sha256": "5db067c6a0916a20649314853b6836b0f00f5513222b73de747540deb7d3c20e",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R006/B16/final-authorized.md",
+      "sha256": "249d93cc8a95a3b313ae8bc3e23cb4412c754211258d91f2386f1f5e73e79b8d",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R006/B16/reader-authorized.json",
+      "sha256": "d12e21ccaffc0b098adb6bab771ec78d18ad45e5a90a799a9c2aba19d731cfcb",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R006/B16/writeback-authorized-review.json",
+      "sha256": "7ff554caae88f9c9f21f6631f1d986e38ac34da1680005e17418a44b2048aa4e",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R006/B16/writeback-authorized-review.md",
+      "sha256": "43a0200751f152d59d180f000151d8cce9a9e122536d9813bb531bdf11f431a0",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R006/B16/authorized-final-source-snapshot.json",
+      "sha256": "df6f2e2c1aefb980c340056a51bd403361448e91ce20d0e41b77b1b308b410bf",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R006/B16/final-authorized-validation.json",
+      "sha256": "8e3d85f34184cfff9b6b361beec226728ffda0dfbfdd66766c098d0ad56832ed",
+      "unchanged": true
+    }
+  ],
+  "errors": [],
+  "result_note": "仅补齐已通过审读的同字节路径绑定；旧final/reader内当时的pending publication状态保留为历史，不改冻结报告。"
+}

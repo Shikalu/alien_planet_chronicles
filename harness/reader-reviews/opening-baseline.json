@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "kind": "diagnostic",
+  "date": "2026-11-03",
+  "reviewer": "/root（本次维护者）",
+  "writer": "既有项目正文作者",
+  "independent": false,
+  "body_first": true,
+  "profile": "opening",
+  "manuscripts": [
+    {
+      "chapter": 0,
+      "path": "异星录/正文/第一卷_热海坠城/楔子_岚岬与栈城.md",
+      "sha256": "ebb4aa0c1e08dd3df0d4e8829e213e37434dcc43d86126e7188fecb03001448e"
+    },
+    {
+      "chapter": 1,
+      "path": "异星录/正文/第一卷_热海坠城/第001章_热海越线.md",
+      "sha256": "3d02928b0c86d7f743e5056d895ccade17a9a92efaa6931a378fc085743c2631"
+    },
+    {
+      "chapter": 2,
+      "path": "异星录/正文/第一卷_热海坠城/第002章_第一根断梁.md",
+      "sha256": "4b45a9fce55b48882ec85cffcded7ddff96db8278cf3ddebea0cceae63a68d60"
+    },
+    {
+      "chapter": 3,
+      "path": "异星录/正文/第一卷_热海坠城/第003章_冷凝站里的人.md",
+      "sha256": "f1d7f3dfda676ea81cfb3577103795419e11e716e095eafa7cd667cc314c4022"
+    }
+  ],
+  "source_digest": "3646906c5028b4d57b2759f38f25c6bef46f87515dc3ac9dce3bfb28893ed0d0",
+  "actual_entry": {
+    "path": "异星录/正文/第一卷_热海坠城/楔子_岚岬与栈城.md",
+    "first_100_han_window": "岚岬是一颗正在变热的星球。\n\n这里的人仍记得春夏秋冬，却不再按它们安排生活。热海让季节变得不可靠，居民真正依赖的是一天里的三个时段：热时、凉时和黑潮时。热时最热，蒸汽会从海面和管线里升起来；凉时很短，是取水、修梁和搬运伤员的时",
+    "first_five_sentences": "岚岬是一颗正在变热的星球。\n\n这里的人仍记得春夏秋冬，却不再按它们安排生活。热海让季节变得不可靠，居民真正依赖的是一天里的三个时段：热时、凉时和黑潮时。热时最热，蒸汽会从海面和管线里升起来；凉时很短，是取水、修梁和搬运伤员的时间；黑潮时海温会在短促的换流里反转，潮流变急，城里的灯会自动调低，所有人都要留在门闩和梁柱附近。\n\n海岸上的人把那片持续升温的海叫作热海。"
+  },
+  "checks": [
+    {
+      "criterion": "first_page_hook",
+      "chapter": 0,
+      "quote": "岚岬是一颗正在变热的星球。",
+      "reason": "真实入口先给世界定义；前100纯汉字仍在季节和时段说明，没有具体人物的当下目标或选择。异常概念存在，但情节抓手来得较晚。",
+      "verdict": "needs_revision",
+      "action": "优先将现有“两针越红线—学徒要报—抄表工只让记录”的人物冲突前移；地理和制度说明移到行动需要处，不新增事件、不提前解释抄表工动机。"
+    },
+    {
+      "criterion": "protagonist_stakes",
+      "chapter": 1,
+      "quote": "林渡只够抓住一个。",
+      "reason": "章内能确认林渡是送水工，救孩子与保住配给不能兼得，选择有可见损失；妹妹已在前段任务中出现，但个人急迫性到后段才充分落下。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "three_chapter_promise",
+      "chapter": 3,
+      "quote": "“先带这张单子去找互助会。”他说，“让播报里说没伤亡的人进来看看。”",
+      "reason": "前三章兑现“普通人在有限条件下救人且付代价”，并把维修单与否认伤亡的广播连成下一步查证。救出林栖和关阀是局部成果，不能误写成恢复供水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "exposition_cost",
+      "chapter": 1,
+      "quote": "栈城用“环”指沿山铺开的平台圈，用“层”指上下的垂直高度",
+      "reason": "楔子已解释环层、冷凝水和配给；第1章在热水漫脚后再次集中解释，后文又整段列城市各层。必要的可理解性说明占用了危险中的动作时间。",
+      "verdict": "needs_revision",
+      "action": "保留会改变选路和损失的规则；环层只在首次选路时简短落地，删除同章重复总览，与楔子重排联动核对，不按字数机械删减。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 1,
+      "quote": "林渡把水桶举过头顶时，脚下的一股热水漫过了他的脚背。",
+      "reason": "正文第1章本身立即给人、重物和热水威胁；但不能据此替实际前置楔子签通过。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 1,
+      "quote": "他松开撑杆，先抓住孩子。",
+      "reason": "人物主动把救人放在保住物资前，选择属于他的职责与性格。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 1,
+      "quote": "知道自己今天的工钱和下一户的配给一起没了。",
+      "reason": "资源和责任实质变化，随后承重危机升级并驱动去冷凝站。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 1,
+      "quote": "他把母子拖到内侧桩列",
+      "reason": "救人的局部成果和失水损失并置，读者先看见善意有效，再承担代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 1,
+      "quote": "站门离他不到两段斜桥，却隔着正在变形的承重线。",
+      "reason": "距离很近但通路正坏，妹妹能否被救成为具体下一章问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 2,
+      "quote": "斜桥原本有三段，第一段和第二段还挂在桩列上，第三段已经落进黑汽。",
+      "reason": "直接承接救妹路线，地形本身已成为阻碍。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 2,
+      "quote": "站门就在第二段桥尽头，男孩却在他伸手就能碰到的地方。",
+      "reason": "救近处男孩会延误去妹妹处，两种责任有真实冲突。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 2,
+      "quote": "林渡把男孩拖到桥上",
+      "reason": "救出男孩，母亲未能救出；后半收下异常硬屑并带搬运工通过，目标与知识均发生变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 2,
+      "quote": "“牌能开门，不能给桥加梁。”",
+      "reason": "有限专业判断约束通行牌权威，并以放下箱子和分配载荷落实，不是凭口号凭空获胜。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 2,
+      "quote": "“哥，别站在桥中间。第二根梁已经裂了。”",
+      "reason": "妹妹有回应带来短暂确认，继而桥梁断裂压住开门救人的期限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 3,
+      "quote": "第二段桥尽头，第二根横梁鼓起的瞬间，冷凝站门里的敲击停了。",
+      "reason": "直接承接上一章悬点，未用背景重启危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 3,
+      "quote": "“先让这站撑过下一次压力转移。”他说。",
+      "reason": "在追问维修单和先保命之间选择先稳站，符合能力和风险边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 3,
+      "quote": "阀柄终于转过半圈，喷出的黑水变成细流",
+      "reason": "关阀确有结果；主芯仍毁、三枚备用滤芯报废，成果没有抹去资源限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 3,
+      "quote": "林渡把那张被改过的维修单塞进衣襟，又取下她袖口尚干净的内层布，覆住掌心裂口",
+      "reason": "救出妹妹后的包扎使关系和伤势落到具体动作；官方否认与掌心流血形成不公感。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 3,
+      "quote": "“第一冷凝站，按调度令开门检查。”",
+      "reason": "查证决定刚落下，调度方已到门外，下一步选择有现实阻力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 3,
+      "quote": "门终于向里弹开。",
+      "reason": "第1章结尾去救妹妹的短程承诺在第3章兑现；水站全面恢复并未兑现，正文明确保留主芯和半箱水的困境。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 3,
+      "quote": "“栈城居民请注意。一环局部波动已经恢复稳定。经确认，本次事件没有人员伤亡。请各街区保持秩序，等待下一轮配给。”",
+      "reason": "压力从街头避险、断桥救人递进到站内资源失败及证据与官方叙事冲突。层级有变化，不是只连续更换破管名称。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "needs_revision",
+  "limitations": "本次维护者对楔子及第1—3章的完整阅读诊断；未调用独立审读者，不代表独立质量验收，更不代表400章追读审读。"
+}

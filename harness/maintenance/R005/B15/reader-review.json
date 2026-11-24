@@ -1,0 +1,639 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R005-B15",
+  "stage": "recheck_1_reader_pull",
+  "date": "2026-11-07",
+  "writer": "R005-main",
+  "reviewer": "01a1b3d1-8a65-75b2-8484-e2414b4db24b",
+  "reviewer_id_source": "主线程转交的本次 subagent roster／工具ID；与本会话 CODEX_THREAD_ID 相符。",
+  "body_first": true,
+  "independent": true,
+  "body_first_statement": "本轮先冻结并逐章完整阅读141—150当前工作稿，再核初审、编辑日志及报告规范。既有初审由同一独立审读者完成，不能声称复核时已遗忘旧问题。没有用编辑自评代替实际读稿。",
+  "manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "1efeb91d9db85973245cabcc2bd4a8781842039def88fcceaa1d117160aae4eb"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "ae0762c9a7b74c09fa90b4c924f08a09d52b7da5e296f313a02c046aebbb0d68"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "4c7b131f89e61c1e74b9e66fc874330a73ee8e3abb7d97bcbaa97cc4182fae92"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "ca7f3bb74e3c1caf090d971764b6be854511c90b71c85e5ad0bf66a551deab43"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0"
+    }
+  ],
+  "source_digest": "ca231a41e3134fceec0f8cb000d29912e23d2ec2b2593de17a4c17d30b4c75cc",
+  "input_digest": "ca231a41e3134fceec0f8cb000d29912e23d2ec2b2593de17a4c17d30b4c75cc",
+  "input_digest_note": "本文件manuscripts与recheck.json的manuscripts、work_manuscripts一致，均为本轮实际所读工作区路径及已冻结SHA；input_digest与source_digest均按该三字段列表计算，不代表正式发布稿审读。",
+  "verdict": "needs_revision",
+  "checks": [
+    {
+      "chapter": 141,
+      "criterion": "opening_pressure",
+      "quote": "他跟着换班的人走检修段下来，右肩吊着，下梯先下伤肩那侧，一步一顿，走了两个多时辰。",
+      "reason": "开头是较缓的到场段，但伤肩、耗时和护线查验限制人物；随后“里头四口，我认得”迅速转为父子排序冲突，并未停下来讲设定。",
+      "verdict": "pass",
+      "action": "可保留缓开场；不要为制造强钩子加事故或再伤肩。",
+      "related_issues": []
+    },
+    {
+      "chapter": 141,
+      "criterion": "protagonist_choice",
+      "quote": "先出谁，列条件，不列人。",
+      "reason": "林渡先出示病情而非服从父亲旧识，杜姨再把取舍写成条件；人物选择决定救人顺序，不是被动等门开。",
+      "verdict": "pass",
+      "action": "保留按现况/条件排序；年代争议F01另裁。",
+      "related_issues": [
+        "R005-B15-F01"
+      ]
+    },
+    {
+      "chapter": 141,
+      "criterion": "visible_change",
+      "quote": "工班多担一班送水，换主队腾出备接应的手。",
+      "reason": "抽象争论落为工班承担资源代价、主队腾手准备，接应条件和分工都有章前章后变化。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 141,
+      "criterion": "emotional_payoff",
+      "quote": "“纸呢。”他问。",
+      "reason": "父亲从坚持凭旧识排人转为主动索纸作证，短问句比旁白替他认错更有分量；并未抹去爆破责任。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 141,
+      "criterion": "next_question",
+      "quote": "父亲正在写的那页证词，明天要由他带下坡，请墙内的人核认。",
+      "reason": "证词是谁写、谁带、交给谁核认都明确；修后读者会想看父亲敢写什么、活人会否认可。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C22"
+      ]
+    },
+    {
+      "chapter": 142,
+      "criterion": "opening_pressure",
+      "quote": "林岑那页纸写到后半夜。",
+      "reason": "直接接上一章要纸的承诺；紧跟涂改、深炭痕，压力是如何把自己的责任写下，而非另开无关任务。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 142,
+      "criterion": "protagonist_choice",
+      "quote": "我记不得日子。记不得就是记不得，别替我填。",
+      "reason": "父亲选择暴露记忆边界，记录者不填空、林渡不强拆护线；冲突来自证据诚实与保护人，而非虚假的全知突破。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 142,
+      "criterion": "visible_change",
+      "quote": "三栏：本地旧爆破，后续封存，近期领料。",
+      "reason": "证词从一句我认得拆成可查的事件和权限层级，后续核工具有了依据；年史仍待裁，不把表格本身当正确年代证明。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-F01"
+      ]
+    },
+    {
+      "chapter": 142,
+      "criterion": "emotional_payoff",
+      "quote": "核账那天，你自己念，当着大家。",
+      "reason": "林渡不代父亲认账，父子关系推进有责任边界；可期待公开场合由本人承担，不是儿子替他洗白。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 142,
+      "criterion": "next_question",
+      "quote": "账上的号，得核到活人身上。",
+      "reason": "把下一步明确收束到工具烙号与本人核证，悬念具体；不会只留下“墙里很神秘”。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 143,
+      "criterion": "opening_pressure",
+      "quote": "今天要把剩下的号都拓出来。",
+      "reason": "出发交抄件和炭头即说明本章任务，后面的手伤、孔缝限制自然成为执行成本。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 143,
+      "criterion": "protagonist_choice",
+      "quote": "对不上的，别硬凑，画个三角，回来再说。",
+      "reason": "对不上便存疑、落屑便停凿，林栖没有为完成任务硬凑证据；结果有取舍。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 143,
+      "criterion": "visible_change",
+      "quote": "四根錾里拓了两根，一根带号，一根是回炉重打的光杆；余下两根没动。",
+      "reason": "四号一光杆的主体结果已修好，但开头仍声称两根錾都“拓了”，后文又无号可拓，第一次读到成果时要停下重算。",
+      "verdict": "needs_revision",
+      "action": "把开头改成查看两根、只拓带号那根；保留四张号纸和一张光杆记形，不能再加第五号。",
+      "related_issues": [
+        "R005-B15-C02"
+      ]
+    },
+    {
+      "chapter": 143,
+      "criterion": "emotional_payoff",
+      "quote": "外头那个小的，拓号的——手怎么样。",
+      "reason": "老工师看见林栖换手、关心伤口，墙内人从被核的号码成为会关心她的人；与工具认主主题相接。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 143,
+      "criterion": "next_question",
+      "quote": "今天不能再凿，撑要重打。",
+      "reason": "落屑迫使停工，下一章必须解决支撑而不是再拓一遍号；世界压力和人物行动都有落点。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 144,
+      "criterion": "opening_pressure",
+      "quote": "棚修顺延一班。",
+      "reason": "开头把两根好木先让墙的代价落在居民漏点和挪铺上，重打撑不是免费得到材料。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 144,
+      "criterion": "protagonist_choice",
+      "quote": "压缝的留到最后，卸之前先把撑打好。",
+      "reason": "人物说出了安全选择，但后续三类物件全卸、没有区分压缝件或交代撑就位，读者不能确认他们是否执行了自己的前提。",
+      "verdict": "needs_revision",
+      "action": "待作者确认哪些件压缝及已做工序，再补最短施工承接；不编新支点、材料和已完工事实。",
+      "related_issues": [
+        "R005-B15-F06"
+      ]
+    },
+    {
+      "chapter": 144,
+      "criterion": "visible_change",
+      "quote": "那这一件之外，也许还有同炉的号。",
+      "reason": "新门件把封墙与领料联系起来，同时修后把母模结论限制为继续查的方向；不是旧图重述。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C08"
+      ]
+    },
+    {
+      "chapter": 144,
+      "criterion": "emotional_payoff",
+      "quote": "西头漏点底下睡的两个居民连夜挪了铺位，垫高了一层干草",
+      "reason": "援救的代价落到具体住户和湿处，不靠“所有人心里明白”的总括；读者能感到工程决定有人承担。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 144,
+      "criterion": "next_question",
+      "quote": "领过的料究竟去了哪处，他还不能从眼前这件铁上看出来。",
+      "reason": "留下可查的领料去向，纸带走、原物保留使后续核证有方向，不用突然来敌人收尾。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 145,
+      "criterion": "opening_pressure",
+      "quote": "缝到一人宽，是第七天头上。",
+      "reason": "一人宽提供突破，又用汽歇和验墙限制机会；开头就知道要把开口变成救人通道。具体日次另待F04。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-F04"
+      ]
+    },
+    {
+      "chapter": 145,
+      "criterion": "protagonist_choice",
+      "quote": "人还没出来，先核的是身体。",
+      "reason": "选择身体检查而非凭名字抢先出墙，配合能走不稳、须人随和接手安排，救护资格有行动依据。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 145,
+      "criterion": "visible_change",
+      "quote": "数完记账：可纳入的，一瓮半。",
+      "reason": "开口和活人核验有真实进展，但霉瓮撇清直接变可用资源，给读者的“资源改善”回报缺可确认前提，容易在此退出信任。",
+      "verdict": "needs_revision",
+      "action": "作者先裁霉源/饮用量/处理事实；不要为修吸引力擅扣水或补净化步骤。",
+      "related_issues": [
+        "R005-B15-F02"
+      ]
+    },
+    {
+      "chapter": 145,
+      "criterion": "emotional_payoff",
+      "quote": "系统表那一栏一个“亡”字，当班簿这一列手印一个接一个。",
+      "reason": "相反记录并排，活人的劳动被看见，标题“名册和呼吸”获得可感知兑现；不只是新增术语。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 145,
+      "criterion": "next_question",
+      "quote": "明天凉时，他出这道缝。",
+      "reason": "已经把期待交给具体人和动作，想看老赵能否顺利出去；相对日期尚需修，但下一章要做什么不含糊。",
+      "verdict": "pass",
+      "action": "保留救人承诺；待F04统一参照时刻后再定明天/当日。",
+      "related_issues": [
+        "R005-B15-F04"
+      ]
+    },
+    {
+      "chapter": 146,
+      "criterion": "opening_pressure",
+      "quote": "过缝排在第二天凉时，汽退最长的那一段。",
+      "reason": "开篇即窗口与行动，紧跟手位和撤回条件；上章救人承诺没有被背景拖延。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-F04"
+      ]
+    },
+    {
+      "chapter": 146,
+      "criterion": "protagonist_choice",
+      "quote": "匣子、工具、别的东西，今天谁也不许提。",
+      "reason": "救人优先是在转运前明确选择，阿苗复掩匣子使档案延误成为代价。此章选择本身可读；148不能反写成才临场决定。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C04",
+        "R005-B15-F05"
+      ]
+    },
+    {
+      "chapter": 146,
+      "criterion": "visible_change",
+      "quote": "下一载，老陈。窄托板已经备着",
+      "reason": "老赵已转到外侧、救护者接住，任务进展到下一位老陈；末尾修成补垫层，不再重复锯窄托板。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C03",
+        "R005-B15-C11"
+      ]
+    },
+    {
+      "chapter": 146,
+      "criterion": "emotional_payoff",
+      "quote": "照护者蹲在老赵身边，托起他的手，照着这个数一下一下地拍。老赵的肩膀一点点松下来。",
+      "reason": "内侧阿苗传安抚数、外侧照护者接手，让老人脱险后的恐惧得到回应；修后不靠阿苗瞬移完成温情。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C03"
+      ]
+    },
+    {
+      "chapter": 146,
+      "criterion": "next_question",
+      "quote": "人是老陈。躺了三年，背上的疮等不得。",
+      "reason": "明确下一载是谁及为什么等不得，同时匣子仍未出；后续救人与查档的压力不是凭空造出的。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-F05"
+      ]
+    },
+    {
+      "chapter": 147,
+      "criterion": "opening_pressure",
+      "quote": "转运赶在凉时后半段走，为的是每一段坡都能踩着汽歇的空当。",
+      "reason": "救出并不等于安全到棚，开头把风险延伸为连续坡段交接，不重复上一章过缝而无新难度。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 147,
+      "criterion": "protagonist_choice",
+      "quote": "不动孩子，不动伤员，动成人。",
+      "reason": "腾铺决定明确谁承担成本；不给新人抹掉失联者位置，安置有伦理选择而非机械记账。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 147,
+      "criterion": "visible_change",
+      "quote": "从今儿起，你们几位在这本册子里单独一页，不跟任何人并。",
+      "reason": "老赵有自己的实名页、配水和照护位置，旧失联行未被抹掉；“空位”获得具体含义。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 147,
+      "criterion": "emotional_payoff",
+      "quote": "这两行是别人的。你这一行，是你自己的。账不挪，也不拿谁顶谁。",
+      "reason": "对着活人说明不以另一个失踪者换他的名字，加上留灯看嘴形，情绪来自待遇改变而不是旁白宣告感动。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 147,
+      "criterion": "next_question",
+      "quote": "他得把这两页先交清——病情交给杜姨排照护，实领交给账房对数，然后他才能跟着水下去。",
+      "reason": "追读理由是安置后的继续责任；结尾宁静但任务未清，避免再添袭击维持钩子。",
+      "verdict": "pass",
+      "action": "保留交账后继续送水的行动线；可精简N02而不删安置过程。",
+      "related_issues": [
+        "R005-B15-N02"
+      ]
+    },
+    {
+      "chapter": 148,
+      "criterion": "opening_pressure",
+      "quote": "祝衡的记录她是傍晚看过的：副档未出，匣位复掩。",
+      "reason": "伤腿让弥娅不能亲到现场，开头所见失败记录立刻给等人谈话以缘由；不是无端情绪争执。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 148,
+      "criterion": "protagonist_choice",
+      "quote": "你回了‘不让’，匣先走，人后挪。",
+      "reason": "共同参与的诉求有根，但回答变成无条件压后伤员，与146老陈紧迫、下一载已定冲突；会使读者把相互尊重误读成人命可否决。",
+      "verdict": "needs_revision",
+      "action": "作者先裁共同预排、紧急现场和查档异议的权利边界；保留弥娅的参与权，不用删台词或加新伤势硬圆。",
+      "related_issues": [
+        "R005-B15-F05"
+      ]
+    },
+    {
+      "chapter": 148,
+      "criterion": "visible_change",
+      "quote": "抄本先行，先问受潮，存疑画圈。",
+      "reason": "修后三条规则编号连贯，接译与公开标圈有可执行成果；本项只肯定三条成形，不替另列的否决承诺验收。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C13",
+        "R005-B15-F05"
+      ]
+    },
+    {
+      "chapter": 148,
+      "criterion": "emotional_payoff",
+      "quote": "三口气的次序未问，责任在渡。",
+      "reason": "认责折角本可兑现信任，但把已在头夜预排/出发前定下的选择写成临场三口气，读者会觉得争执靠改写上一章成立，削弱认错回报。",
+      "verdict": "needs_revision",
+      "action": "把未征询责任放回头夜预排至出发前；若留自书原句，说明其概括现场执行，不替代决定时间。删失真回忆，不抹救人与副档错失。",
+      "related_issues": [
+        "R005-B15-C04"
+      ]
+    },
+    {
+      "chapter": 148,
+      "criterion": "next_question",
+      "quote": "到时候，先问受潮，再谈匣子。",
+      "reason": "副页受潮风险和下一次取档步骤明确，继续接译使争执留下合作行动，而非只剩冷战。",
+      "verdict": "pass",
+      "action": "保留受潮与接译线；七天窗口的绝对日次随F04核定，别自行提前开门。",
+      "related_issues": [
+        "R005-B15-F04"
+      ]
+    },
+    {
+      "chapter": 149,
+      "criterion": "opening_pressure",
+      "quote": "对账的灯点了三盏。桌面分出三处：一处铺拓号纸，一处铺领单抄件，一处空着——留给老赵的石板。",
+      "reason": "开头把工具、纸、活人认领摆成同一场核验，修后灯与桌面参照清楚；人证加入带来新压力。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C16"
+      ]
+    },
+    {
+      "chapter": 149,
+      "criterion": "protagonist_choice",
+      "quote": "不许入公开账。",
+      "reason": "对光杆錾选择先挂疑而不拿来壮声势；证据边界是主动选择，随后公开不是不顾未知的冲动。",
+      "verdict": "pass",
+      "action": "保留不硬配物主和疑项分开；N01修清单后保持同一边界。",
+      "related_issues": [
+        "R005-B15-N01"
+      ]
+    },
+    {
+      "chapter": 149,
+      "criterion": "visible_change",
+      "quote": "挂着的：一根无号錾的归属，一处没填的日子，一处洇了的字。",
+      "reason": "核对确有成果，但第三圈从签收人身份换成已校改洇字，读者到总结时反而失去哪些仍未知的把握，影响150公开的可信回报。",
+      "verdict": "needs_revision",
+      "action": "恢复无号錾归属/未填日期/签收身份三项；另列洇字已标改且留原痕。三圈不新增也不消失。",
+      "related_issues": [
+        "R005-B15-N01"
+      ]
+    },
+    {
+      "chapter": 149,
+      "criterion": "emotional_payoff",
+      "quote": "工没停。账没停。停的是名字。",
+      "reason": "老赵自己写出两账矛盾，劳动和姓名剥离由当事人说出，前几章的工具号、手印与水线在这里收束。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 149,
+      "criterion": "next_question",
+      "quote": "拓号和描图的底，明早分两处放。",
+      "reason": "公开两页会招查账，分存证据让危险对应人物下一行动；想看公开及保护措施能否站住。",
+      "verdict": "pass",
+      "action": "保留公开/备份双线；明早、明天晚上须随F04校准，不影响该具体追问的存在。",
+      "related_issues": [
+        "R005-B15-F04"
+      ]
+    },
+    {
+      "chapter": 150,
+      "criterion": "opening_pressure",
+      "quote": "两张纸并排贴在木板上：左边是系统表外段那页，整栏一个“亡”字；右边是站账“外段养水支”的抄页，一格一格排到最近一旬。",
+      "reason": "立刻兑现上章公开，不拖入另一轮私下对账；全棚围圈使纸面的矛盾变成会被人质询的事件。时间参照另待裁。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-F04"
+      ]
+    },
+    {
+      "chapter": 150,
+      "criterion": "protagonist_choice",
+      "quote": "水线的事，不在这场话里。",
+      "reason": "面对封纸压力，林渡先保水线再谈纸，不是逞强全部放出；把生命保障与传播风险拆开处理。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": []
+    },
+    {
+      "chapter": 150,
+      "criterion": "visible_change",
+      "quote": "今夜起护线哨加一班，守的是坡口到账桌这一段。",
+      "reason": "私人核账变成公开展示及需保卫的公共证据，付出额外护哨；未撤板的修法维持了可见结果。",
+      "verdict": "pass",
+      "action": "保留本项有效动作与回报；不将本项通过当成整章事实验收。",
+      "related_issues": [
+        "R005-B15-C21"
+      ]
+    },
+    {
+      "chapter": 150,
+      "criterion": "emotional_payoff",
+      "quote": "这不叫对。这叫我那时候，只想到这一步。",
+      "reason": "林岑亲自承认局限，儿子不替他讲话；救活人的劳动得到见证，但隐瞒和爆破责任未被英雄化抵消。",
+      "verdict": "pass",
+      "action": "保留本人认责与拒绝洗白；年代F01未决不能由本项情绪通过覆盖。",
+      "related_issues": [
+        "R005-B15-F01"
+      ]
+    },
+    {
+      "chapter": 150,
+      "criterion": "next_question",
+      "quote": "纸的事，明晚两边坐下，一条一条过：哪张能出，哪张该封存，谁的名字要包起来，包到哪一步。",
+      "reason": "约的是公开之后的谈纸与护家属，不是又公开一次；世界事件与人物明晚谈判都有明确方向，愿继续读。",
+      "verdict": "pass",
+      "action": "保留送水照走/谈纸待议双钩，不把这个明晚与149约公开混成同一事件。",
+      "related_issues": [
+        "R005-B15-F04"
+      ]
+    },
+    {
+      "chapter": 150,
+      "criterion": "promise_payoff",
+      "quote": "账上这四个人，死了十年了。工没停过一天。水一直在出，料一直在领，账一直在平。抹人的人，把人的工留下了。",
+      "reason": "工具号→手印→活人→两账公开形成扎实局部兑现，老赵出墙和有名有份也已实现；但149三圈换项及148回述失真使证据/共同选择两条承诺尚不稳，不能给整篇放行。",
+      "verdict": "needs_revision",
+      "action": "保留救人、安置、公开三次兑现；先修N01与C04，F01/F02/F04/F05/F06/F03待裁，不靠新事故或提前揭谜补吸引力。",
+      "related_issues": [
+        "R005-B15-N01",
+        "R005-B15-C04",
+        "R005-B15-F05"
+      ]
+    },
+    {
+      "chapter": 150,
+      "criterion": "progressive_stakes",
+      "quote": "每一张出墙的纸都是一根线。线的另一头，拴着签收的人家，拴着站里的账房，拴着递单的人。",
+      "reason": "本篇压力从开口救人的工程/用水代价，升级为档案迟出和参与权，再到公开证据牵连家属；相似核账动作逐次承担不同责任，不是同场景换名称。",
+      "verdict": "pass",
+      "action": "保留逐级升级及面具者保护家属的可辩动机；先修既有冲突，不加第三方袭击拔高。",
+      "related_issues": []
+    }
+  ],
+  "check_counts": {
+    "pass": 45,
+    "needs_revision": 7
+  },
+  "fact_review_verdict": "issues",
+  "release_approved": false,
+  "coverage": {
+    "chapters": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "full_chapter_reads": 10,
+    "chapter_checks": 50,
+    "batch_checks": 2,
+    "opening_checks": "not_applicable：本轮不含真实第一页或1—3章",
+    "future_manuscripts_read": false
+  },
+  "reading_scope": [
+    "141—150当前工作稿10章逐章完整阅读；读前、读后、落盘前SHA一致；随后仅回看本批引文定位。",
+    "本轮后置对照initial.json旧30项及已核资料范围、initial.md身份行；first_read.json只校指纹未改。",
+    "编辑日志仅把141—150改稿实录、处置、封稿SHA和C06附引作为证据。首个混合工具输出夹带131—140条目并截断，未据此作B14复核；后续按B15筛取核对。",
+    "项目skill与editorial、黄金开篇与持续追读规范及tools/check_reader_pull.py的52项结构后置核对。AGENTS 8.1规则由本会话用户消息提供；初审已核的两份文风/正文规范和世界/角色/六台账相关范围沿用，不声称本轮又全文重读。",
+    "published149仅定点核N01三个原句及原稿SHA，不全文补读；证明N01为原稿遗留。C06早期台账只采用编辑日志附引，未扩查其全文。"
+  ],
+  "not_covered": [
+    "本轮未重读140/151；初审边界风险只继承，未扩读任何未来正文。",
+    "未重做全书固定设定、全部台账或B14审计；未做黄金第一页/前三章专项，本批profile=serial。",
+    "未改正文、章卡、台账、published、editor日志或harness状态；未运行gate/close/verify-repair，未发布或签验收通过。"
+  ],
+  "frozen": true
+}

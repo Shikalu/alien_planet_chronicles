@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "kind": "writeback-review-integrity-validation",
+  "batch": "R009-B35",
+  "checked_at": "2026-11-10T12:39:05.244419+08:00",
+  "review_record": "harness/maintenance/R009/B35/writeback-freeze-review.json",
+  "review_record_sha256": "c711ef384b7f1b9c72692a3679130587a78de82e595d63900cafab94ed26dbab",
+  "freeze_record_sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a",
+  "body_digest": "75df2a084286d8c1452f2f34a3f79c9d2187997fd8dbd0936b9023cb36ac2179",
+  "scope_chapters": [
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350
+  ],
+  "frozen_files_exact_copy": true,
+  "candidate_hashes_matched": 8,
+  "body_hashes_matched": 10,
+  "per_file_checks": 8,
+  "literal_evidence_checks_matched": 49,
+  "final_and_52_item_review_same_digest": true,
+  "result": "pass",
+  "limitations": "只校验文件、字段、指纹和逐字引文；不代替writeback-freeze-review.json中的真实读文判断，不认证范围外历史。"
+}

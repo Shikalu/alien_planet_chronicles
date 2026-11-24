@@ -1,0 +1,203 @@
+{
+  "batch": "A62",
+  "date": "2026-11-17",
+  "final_digest": "4d78ad31bb55f85240a26d272195a101aadf8c937412f7b8ba2398723e30138f",
+  "status_after_close": {
+    "schema_version": 1,
+    "last_published_chapter": 720,
+    "last_story_day": "D635",
+    "next_chapter": 721,
+    "next_batch": "A63",
+    "last_batch": "A62",
+    "provenance": "batch-gate",
+    "evidence": {
+      "异星录/06_执行计划/审读记录/第八卷/A62第二轮独立复核.md": "5fe8a2ce221df5d3cad2fd8b14a5e4112e7a7123f046489742c7625dc6e5fd97",
+      "异星录/06_执行计划/审读记录/第八卷/A62连续性报告.md": "61f9134e2338be0f4b353877a90851705027622b5bf5d0db03f0a26d9aec35db",
+      "harness/reader-reviews/A62.json": "9da61505ebb5c84b337dbb07df2318d632f4ff0992ae0799caaec64b2bae374e"
+    }
+  },
+  "protected_prior_prose_verified": 711,
+  "approved_writebacks": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "sha256": "d14a82cb0309ca91897097f87ceefbf95215c0d2c6d7a477783ada9255f012a4",
+      "status": "updated",
+      "note": "A62独立终审后逐章回填人物状态台账；原已发生事实、伤病、物权和未达消息保留"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "sha256": "0b422a6029b3661ae6f0a78501b23baf4cd0b16160e70240e964715f4cd8b526",
+      "status": "updated",
+      "note": "A62独立终审后逐章回填资源与时间台账；原已发生事实、伤病、物权和未达消息保留"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "sha256": "e6e5faadf9e48c8cb134566ac4e0dedb6b7e6c86923979e5fa163faeb5f06c7d",
+      "status": "updated",
+      "note": "A62独立终审后逐章回填伏笔与悬念台账；原已发生事实、伤病、物权和未达消息保留"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sha256": "87bef82142c54764afa209f3c34371a13bdeb8a6099cfbbb3ad78723c874a6a6",
+      "status": "updated",
+      "note": "A62独立终审后逐章回填事件与地点时间线；原已发生事实、伤病、物权和未达消息保留"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "sha256": "3caab35d62c4bcd4d9857fdcaa7c6f54f9f1de8c1b5ee50f74322d4b2fb77453",
+      "status": "updated",
+      "note": "A62独立终审后逐章回填术语与命名表；原已发生事实、伤病、物权和未达消息保留"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "sha256": "52c5a7e92d8517130d56b3748ff0db45261dd8fa11bb124ba46a418a4c2248bf",
+      "status": "updated",
+      "note": "A62独立终审后逐章回填术语词典；原已发生事实、伤病、物权和未达消息保留"
+    },
+    {
+      "path": "异星录/03_剧情架构/第八卷/逐章卡.md",
+      "sha256": "46cd624c28a9cfe4550ffff748d7b4c04fd5ba741b7ce4a254b3b29b181dd78d",
+      "status": "updated",
+      "note": "A62独立终审后逐章回填本批实际逐章卡；原已发生事实、伤病、物权和未达消息保留"
+    }
+  ],
+  "closed_issue_count": 16,
+  "reader_check_count": 52,
+  "independent_reviewer": "01a1e877-766b-7cf2-90b4-00066bc0eafd",
+  "nonblocking_observations": [
+    {
+      "id": "O01",
+      "chapter": 719,
+      "blocking": false,
+      "quote": "错误扩大的仍是父亲的责任，但若收窄之后便立刻请求别人觉得父亲好一些，就是拿问者的复核给家里换东西。",
+      "suggestion": "林渡限知内心能读通，但说明偏长；可止于父责收窄仍请念完三项，不要求新增争吵或免责。"
+    },
+    {
+      "id": "O02",
+      "chapter": 720,
+      "blocking": false,
+      "quote": "林渡没有当场替双陆指定，约下一次把实际可核的供路资料与有权答的人找来，再听他如何计价。",
+      "suggestion": "工程转篇有阶段切换感，现场知识桥已成立；下一篇宜真实去找资料和有权答者，不无限重复无权。本轮不要求提前揭闸控机制。"
+    }
+  ],
+  "post_publication_chapters": [
+    {
+      "chapter": 711,
+      "path": "异星录/06_执行计划/工作区/A62/第711章_不识字的人先说.md",
+      "sha256": "44f2349c0b360c1a13652110deb38aadaef214d7cd2c4a3dfaf73678cb6f5fe0",
+      "han": 2259,
+      "nonspace": 2531
+    },
+    {
+      "chapter": 712,
+      "path": "异星录/06_执行计划/工作区/A62/第712章_封包还在.md",
+      "sha256": "e2423dad88224f25c71a53a13520c5f22a7b8ab642c670bd9f266fbe1af63016",
+      "han": 2316,
+      "nonspace": 2572
+    },
+    {
+      "chapter": 713,
+      "path": "异星录/06_执行计划/工作区/A62/第713章_桌后的空位.md",
+      "sha256": "58557cdcfe95a0310caa407562eff4b235f50de15001a45639df8df446a94535",
+      "han": 2313,
+      "nonspace": 2566
+    },
+    {
+      "chapter": 714,
+      "path": "异星录/06_执行计划/工作区/A62/第714章_他长大以后.md",
+      "sha256": "31d3fcd32972109ac8f3c2c64af1a7cffd73f80d8d2656cccf4ab5590e1d50db",
+      "han": 2345,
+      "nonspace": 2624
+    },
+    {
+      "chapter": 715,
+      "path": "异星录/06_执行计划/工作区/A62/第715章_三张纸回到桌上.md",
+      "sha256": "f4bbed2914be4395f4886423c861446fb9749f052b6c30d77f5f7e4fea728e32",
+      "han": 2306,
+      "nonspace": 2534
+    },
+    {
+      "chapter": 716,
+      "path": "异星录/06_执行计划/工作区/A62/第716章_救过人也要答.md",
+      "sha256": "38aec24bb18b8722212d347b288408f28780691a34042953eadc0e9fcf1f37da",
+      "han": 2346,
+      "nonspace": 2587
+    },
+    {
+      "chapter": 717,
+      "path": "异星录/06_执行计划/工作区/A62/第717章_理由不能只念结尾.md",
+      "sha256": "b119d87acfb50462acff09c10134ba9fdbb1b43bd1832124c574689df6a5fb53",
+      "han": 2302,
+      "nonspace": 2531
+    },
+    {
+      "chapter": 718,
+      "path": "异星录/06_执行计划/工作区/A62/第718章_空班不能守门.md",
+      "sha256": "f91e40e5adf85e0392508449c7f14839d26b2eafc26577d6e6d61e5093fe4771",
+      "han": 2372,
+      "nonspace": 2602
+    },
+    {
+      "chapter": 719,
+      "path": "异星录/06_执行计划/工作区/A62/第719章_原来的错也留下.md",
+      "sha256": "3bbaee679b4bd3049823ad65276c6620c20dee9cd1bb732394b5a9190973308d",
+      "han": 2244,
+      "nonspace": 2475
+    },
+    {
+      "chapter": 720,
+      "path": "异星录/06_执行计划/工作区/A62/第720章_两壶水的条件.md",
+      "sha256": "ed9e5aa0a29277cdc13b8dbfab201cfb13e4bf6fd3175e5207224a2bec55141c",
+      "han": 2383,
+      "nonspace": 2633
+    }
+  ],
+  "verification_outputs": {
+    "gate_prepublication": {
+      "summary": {
+        "scope": "pre-publication",
+        "errors": [],
+        "warnings": []
+      },
+      "raw_output_sha256": "fa6ba91497ab86f705b488fecef25e61a4d77a424c76bc187f74ca996325d73b"
+    },
+    "close": {
+      "summary": {
+        "scope": "post-publication",
+        "errors": [],
+        "warnings": []
+      },
+      "raw_output_sha256": "77c0c58b7ae5a51ec50b7e97ccb97f3898d7e02130a9d9244ef146f427d5a08c"
+    },
+    "gate_postpublication": {
+      "summary": {
+        "scope": "post-publication",
+        "errors": [],
+        "warnings": []
+      },
+      "raw_output_sha256": "77c0c58b7ae5a51ec50b7e97ccb97f3898d7e02130a9d9244ef146f427d5a08c"
+    },
+    "project_check": {
+      "summary": {
+        "scope": "published-inventory-and-structure",
+        "errors": [],
+        "warnings": [],
+        "last_published_chapter": 720,
+        "total_han": 1699517
+      },
+      "raw_output_sha256": "ca2acd6de02509356d64d34703273f211bc5e39b0571929f1ff3222a18bcbb30"
+    },
+    "reader_coverage": {
+      "summary": {
+        "published": 720,
+        "passed_count": 720,
+        "unreviewed_or_not_passed_count": 0
+      },
+      "raw_output_sha256": "8471b0b86bbf52b3fcbc4377fb5150a12d41ee45281e30aa236fbdd11381b8c7"
+    }
+  },
+  "archive_manifest": {
+    "path": "异星录/06_执行计划/审读记录/第八卷/A62恢复材料/归档指纹.json",
+    "sha256": "f1719788969b1e4c957f540a83f69853c87bb36664a9d1f1bb64821bc0b381b7"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "date": "2026-11-07",
+  "status": "final_delta_independent_recheck_in_progress",
+  "production_modified": false,
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "final_integrity": {
+    "path": "harness/maintenance/R004/final-integrity-validation.json",
+    "sha256": "2a825612c5ee70ba1ce8df38edb53e2911c507f6ad4de1000b7f9919c8a514c9"
+  },
+  "patches": [
+    {
+      "path": "harness/maintenance/R004/final-prose-changes.json",
+      "sha256": "46bedc778aff072539f609064b3316c6dc7911b935c10493ecf8b70068a16dfe"
+    },
+    {
+      "path": "harness/maintenance/R004/final-writeback-changes.json",
+      "sha256": "0fadcc363cabf482f7c980f2758daa9226314f844e58da10b644328d42ea6977"
+    }
+  ],
+  "frozen_failed_reviews": [
+    {
+      "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+      "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542"
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-approved-v2.json",
+      "sha256": "486c70bcec9f0e5ef5703540534cf7587cdd66b368fd9d70517ec7985f0999de"
+    }
+  ],
+  "pending_reviews": {
+    "B10": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+    "writebacks": "01a1b38d-1b86-7c03-af8e-960353eaa510"
+  },
+  "unresolved_scope_dependency": "101—110约48人另审，不在本轮通过范围",
+  "release_eligible": false
+}

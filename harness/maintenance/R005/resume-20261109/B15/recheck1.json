@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "batch": "R005-resume-B15",
+  "stage": "recheck1",
+  "reviewer": "/root/review_241_250",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "1e05a551eca225c124144da7dd4adbcb259413d29f09ff759b9a49db59af5242"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "d175e1bcb3cdb9e1c7176aea71be635ec4bcbc06a1c9b5c444d1efa9ae4db00e"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "304a04b92aee76afa964b34446c5dc92f391814ed6ea844d918c707a8f66358e"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "b0c0bedab66201f323a0153064eea5e79d0dcb93fbe2e031cf31fc9828493741"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "b0132d55b258e5b98496a73becda8d7445c89a5782c5317983c2e8e7b9f30408"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "3f1de84629ffd6cfe9dc2c7908a429e8283e4215d8f423b764cfd2e0d803c3ce"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "04ce62d192f6e4b81ca6c44bb03d4f52a92ed6f732edf16c3c34c842323e2fb7"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "1f220f05c901149cf5dc003d0a6c88ace1d3a2d41d91a7948e1edaa56eb4955e"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "994e32a6ad1c7d87e5380a97612a4b4116f58f4a977bac04dbaf12172cdb4769"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "58018b2a6260b4059834d578af8da8c2259ebdd6a573107624888f1862ca3eb4"
+    }
+  ],
+  "source_digest": "74f4262f1fc9f01d4cc1927f0104d6383e21f94a0dff864b2659a8ac867bb669",
+  "full_read_range": [
+    141,
+    150
+  ],
+  "verdict": "issues",
+  "initial_issues": 35,
+  "initial_edits_applied": 101,
+  "root_supplement_review": "144两趟由六叔与原能负重居民抬/立撑；林渡持灯、阿九侧报位置、林岑空手。既有人手且两趟时间成本写出，修复原建议伤者承担主重的遗漏。",
+  "issues": [
+    {
+      "id": "R005-resume-B15-036",
+      "chapter": 148,
+      "quote": "今天人占了这个窗口，人我认。",
+      "severity": "moderate",
+      "category": "相对日期与样页时间",
+      "problem": "开头已落D23隔日夜，台词仍把D22救老赵说成今天今早；143/D19带回的样页到D23不是两天。",
+      "suggestion": "让148台词与146D22及当前D23夜一致。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "本轮实际终稿完整复读",
+        "AGENTS 5/8.1",
+        "初审修订后应无新冲突"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-037",
+      "chapter": 148,
+      "quote": "弥娅把余下半卷也展开，就着棚里的灯光铺在膝盖上。",
+      "severity": "moderate",
+      "category": "单灯交接残尾",
+      "problem": "手摇灯已从账桌移到棚外两人之间，后面仍借棚里灯光，暗增另一盏；147入棚也需让随队灯实际移入。",
+      "suggestion": "按现有同一灯照页，不添灯具。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "本轮实际终稿完整复读",
+        "AGENTS 5/8.1",
+        "初审修订后应无新冲突"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-038",
+      "chapter": 147,
+      "quote": "过了转角，最后一段是平的，走完就是五层坡口。",
+      "severity": "moderate",
+      "category": "休息次数闭环",
+      "problem": "改成风口与坡腰同一第二歇点后，实写只有两处休息，末账仍记三处。",
+      "suggestion": "既有五层坡口落第三次短歇，不加地点、人手或额外长停。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "本轮实际终稿完整复读",
+        "AGENTS 5/8.1",
+        "初审修订后应无新冲突"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-039",
+      "chapter": 150,
+      "quote": "谁也没要求他画，她自己画的。",
+      "severity": "minor",
+      "category": "代词残留",
+      "problem": "戊字一同一画框段前后已为她，中间仍要求他画。",
+      "suggestion": "残留男性指代改正，不全局换词。",
+      "status": "open",
+      "blocking": false,
+      "source_basis": [
+        "本轮实际终稿完整复读",
+        "AGENTS 5/8.1",
+        "初审修订后应无新冲突"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-040",
+      "chapter": 146,
+      "quote": "缝口这头的人撤到线内，撑木一根一根上。老工师在里头把口边的垫毡卷了，阿苗把借绳理顺，搭回橛子。汽过去了，再看那道缝，原先两根承重主撑都没有动，口边另塞了两片防回挤的薄撑。",
+      "severity": "moderate",
+      "category": "主撑薄撑承接",
+      "problem": "主体已明确原两根主撑不动，但紧前仍泛称撑木一根根上，易误成重新立主撑；应按实际两片薄撑及汽退后顺序写。",
+      "suggestion": "先避汽再接近安装薄片，主撑从未重装。",
+      "status": "open",
+      "blocking": true,
+      "source_basis": [
+        "本轮实际终稿完整复读",
+        "AGENTS 5/8.1",
+        "初审修订后应无新冲突"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-041",
+      "chapter": 149,
+      "quote": "所见签收按旧账的“旬”列到最近一笔",
+      "severity": "minor",
+      "category": "引号层级",
+      "problem": "整段已在人物双引号台词内，内层旬仍双引号。",
+      "suggestion": "内层改中文单引号，阅读边界清楚。",
+      "status": "open",
+      "blocking": false,
+      "source_basis": [
+        "本轮实际终稿完整复读",
+        "AGENTS 5/8.1",
+        "初审修订后应无新冲突"
+      ]
+    },
+    {
+      "id": "R005-resume-B15-042",
+      "chapter": 146,
+      "quote": "外头的阿九两臂一沉，把他的腋下兜住，",
+      "severity": "minor",
+      "category": "伤势用力反应",
+      "problem": "144已按伤膝不负主重修分工，146阿九托腋接重、半起护人仍无旧伤反应；可保原接应手位，只补受力限制，不换人或加人。",
+      "suggestion": "补伤膝下的受力动作，内侧老工师和外照护者仍分担原手位。",
+      "status": "open",
+      "blocking": false,
+      "source_basis": [
+        "本轮实际终稿完整复读",
+        "AGENTS 5/8.1",
+        "初审修订后应无新冲突"
+      ]
+    }
+  ],
+  "remarks": [
+    "148日期残留、灯光残尾与147三歇闭环是初审替换引出的接口/漏核，不能以已应用101处假定通过。",
+    "150性别代词是初审建议遗漏，实记补核；旧LOG01只审日志，不据它证明正文。",
+    "此为修后完整十章复读，未审范围外正文全文；8回填候选尚未签。"
+  ]
+}

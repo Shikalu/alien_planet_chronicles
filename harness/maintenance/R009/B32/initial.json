@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B32",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B31-B32",
+  "independent": true,
+  "body_first": true,
+  "phase": "initial",
+  "input_digest": "60e7ad60084fea6506451f8d931033befaf685cfe96d67f8d6bd9e9d6f74691b",
+  "source_digest": "60e7ad60084fea6506451f8d931033befaf685cfe96d67f8d6bd9e9d6f74691b",
+  "verdict": "issues",
+  "issues": [
+    {
+      "id": "B32-01",
+      "chapter": 313,
+      "severity": "moderate",
+      "quote": "“松手先退内侧，还是跟车走，你看着我说！”林渡喊。",
+      "reader_problem": "危险正在加速，问句却把安全退人和追随失控车并列成可选行动，还像要求先回答再退。314才明确“人退”，此处命令目标不清。",
+      "suggestion": "先给退内侧、别跟车的指令，再问脚下是否能退；不承诺少年一定能自行退回。",
+      "status": "open"
+    },
+    {
+      "id": "B32-02",
+      "chapter": 314,
+      "severity": "moderate",
+      "quote": "左脚踩在车尾窄台上，窄台下那块旧板被轮缘夹住，一有挪动便往轨外斜。",
+      "reader_problem": "314脚在车上窄台、板在台下；315又明确鞋踩翘板外端，316两脚从旧板移走。决定救援的承重接触点被换了，读者无法重建为什么人不能直接缩回车内。",
+      "suggestion": "统一为脚踩窄台旁翘起的旧板、板内端夹在轮缘与轨肩之间；315开头对应站位，不改夹板和借厚板救援机制。",
+      "status": "open"
+    },
+    {
+      "id": "B32-03",
+      "chapter": 316,
+      "severity": "major",
+      "quote": "岑野应了，左手扶在膝上，脸比她更低。他没有把自己被拉回来的经过重说一遍，只将小石带来的瓶递给她。",
+      "reader_problem": "上文岑野、小石仍在斜梁上方石凹，此处已近身说话递瓶，直到后文才由支棚人领下；人物到场顺序倒置。",
+      "suggestion": "将已有支棚人护送两少年到内石面的句子前移至“小石从后面叫她”之前，删后面的重复到场；不增自行越梁或新护送人。",
+      "status": "open"
+    },
+    {
+      "id": "B32-04",
+      "chapter": 316,
+      "severity": "minor",
+      "quote": "厚板发出一声轻响，声音来自它与石坎间一粒被碾碎的砂。",
+      "reader_problem": "限知视角正隔着救援现场指挥，能听到接触处轻响，不能精确辨出一粒砂被碾碎。叙述替不可见微观来源作了确证。",
+      "suggestion": "保留可听位置，不断言单粒砂的内部变化；不把轻响改成新险情。",
+      "status": "open"
+    },
+    {
+      "id": "B32-05",
+      "chapter": 319,
+      "severity": "major",
+      "quote": "阿九朝窗外报脚下没有松，搬运者应后绳仍在。",
+      "reader_problem": "阿九此前还在前窗边指顶位，入驾驶位负责制动写在导轮完成之后；顶车时却已经隔窗报踩住。左膝限制下不能省掉入车和扶送，控制车的人员也不能同时抬他。",
+      "suggestion": "先三挡、后绳限位；槐七和修轮住户在升顶前扶阿九侧坐入驾驶位，明确右脚踩定；原搬运者继续守绳。后段改为他从既有驾驶位阻止麦穗上车。",
+      "status": "open"
+    },
+    {
+      "id": "B32-06",
+      "chapter": 320,
+      "severity": "major",
+      "quote": "昨天带瓶下去的成人正在窄道口扶一根短撑，裤脚全是泥。他停好撑木才过来",
+      "reader_problem": "316仅带一撑去棚，320说明它在棚外稳松板，另一根仍在四层；开头同一撑却出现在山口窄道口、可随手停放，临时受力支撑像被拔来赴约。",
+      "suggestion": "开头只写送水成人扶道口石壁立稳再上前，删除持撑动作；棚外既有短撑不动。不得加第三根或把窄道口偷换成棚外。",
+      "status": "open"
+    },
+    {
+      "id": "B32-07",
+      "chapter": 320,
+      "severity": "minor",
+      "quote": "阿九早先送到短门的那片样很薄，不能单独顶梁。",
+      "reader_problem": "310实写阿九留短门核件、请槐七取样且槐七带回；此处将送样主体直接写为阿九，容易读成伤腿老人另跑过一趟。",
+      "suggestion": "明确槐七先前取回短门的柜板样；不把薄样与321另拆的第一块板当同一件。",
+      "status": "open"
+    }
+  ],
+  "manuscripts": [
+    {
+      "chapter": 311,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第311章_这次带下去的东西.md",
+      "sha256": "de68e0b8321e9c22cde30a868bb7198a90b1bcf7446bcbe8b90174b6308b6673"
+    },
+    {
+      "chapter": 312,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第312章_止挡留在空轨上.md",
+      "sha256": "6c1f0e2226165cd3b31584955e6bbf1a1f3afd9f396203c319abc4e71e1237e4"
+    },
+    {
+      "chapter": 313,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第313章_小石留在转角.md",
+      "sha256": "42b97d5137ed962dc2af9f682a6cad8520cc1ce9b706df930de0bd31c1c22bd5"
+    },
+    {
+      "chapter": 314,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第314章_后绳从柱上滑过去.md",
+      "sha256": "35ad53f96c5fdd6c4f9cc58d887f477fc5ed8b3c2754d6104ae918f88e176431"
+    },
+    {
+      "chapter": 315,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第315章_车架卡在石边.md",
+      "sha256": "ab770c608a0fd75839fcc6657d6286e4a5ffac627b2d822b65b16a710dbcafc2"
+    },
+    {
+      "chapter": 316,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第316章_先把手交出来.md",
+      "sha256": "c670b3393aec36eb875493ad000d4664e75056a2d4f38034ed53aa8dbd897a31"
+    },
+    {
+      "chapter": 317,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第317章_接头是谁拿的.md",
+      "sha256": "be930690d1646ec9b9855fc202f728672a1012a1f5ffa48e4a58d47085654fc7"
+    },
+    {
+      "chapter": 318,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第318章_回去要先拆哪一边.md",
+      "sha256": "7031661701d78ec7cbc9f27ee90788919cd60601563f29c51dea79f8ae69779e"
+    },
+    {
+      "chapter": 319,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第319章_这一趟不坐人.md",
+      "sha256": "fcb86d2a25aca02ec7b34911d22286044bbb2dae3f089ed0312e6c2f5b2e20e9"
+    },
+    {
+      "chapter": 320,
+      "path": "异星录/06_执行计划/工作区/R009-B32/第320章_山口先留一条退路.md",
+      "sha256": "eb9af061a9243c37e5996b2c021beef7320db4882cdb61e2c7e84ec8bf203c21"
+    }
+  ],
+  "digest_note": "initial-manifest没有单列input_digest；source_digest经manuscripts规范摘要核验，两字段均取该值。",
+  "body_first_record": "harness/maintenance/R009/B32/reader-first.md",
+  "review_scope": [
+    311,
+    320
+  ],
+  "neighbor_scope": {
+    "path": "异星录/06_执行计划/工作区/R009-B33/第321章_柜子拆开以后.md",
+    "sha256": "deb56e258d11fdbcc3802c9811ca9d0c774c6c8e28df2785b0d9cff477ef0fe2",
+    "scope": "为320→321接口完整读取321；不审签321质量、事实闭环或吸引力。"
+  },
+  "author_sources_read": "- 项目总纲、资料索引与阅读地图、分卷总纲、剧情架构README；第四卷卷纲含A21入口和实际出口；十章卡A21—A23及执行补充；逐章卡A21/A22写前与实录、A23入口（不是用旧规划覆盖已发生）。\n- 世界背景总览、世界规则与地理、社会生活与文化、势力与制度、栈城路线图；角色圣经、角色出场与语气卡、关系与成长线。\n- 术语词典：基础词与使用规则、A20—A23（95—136）、A30（207—217）、R008（266—275）。伏笔台账：A20—A23（532—593）、A30（686—699）、R008（743—751）。\n- 人物状态台账：A20—A23（687—772）、A30（881—897）、R008（939—945）。资源与时间：A20—A23（570—657）、A30（776—796）、R008（847—854）。事件时间线：A20—A23（378—449）、A30（556—572）、R008（608—619）。术语与命名表：A20—A23（222—276）、A30（368—382）。这些长台账未宣称逐行读完所有历史批次。\n- 设定揭示计划；正文与连载规范（含第九节全部20项）；文风与细节精修规范（重点第二、七节全部）；黄金开篇与持续追读规范全文。\n- 第三卷、第四卷收官状态快照；正式第300章全文只作接口核验。没有读取旧审读意见作为本轮判断，没有签300、321或400正文质量。\n",
+  "post_revision_review": "未执行；全部问题open，未签final或52项追读pass。",
+  "proposed_counts": [
+    {
+      "chapter": 311,
+      "before_han": 2432,
+      "proposed_after_han": 2432
+    },
+    {
+      "chapter": 312,
+      "before_han": 2319,
+      "proposed_after_han": 2319
+    },
+    {
+      "chapter": 313,
+      "before_han": 2296,
+      "proposed_after_han": 2297
+    },
+    {
+      "chapter": 314,
+      "before_han": 2295,
+      "proposed_after_han": 2304
+    },
+    {
+      "chapter": 315,
+      "before_han": 2230,
+      "proposed_after_han": 2244
+    },
+    {
+      "chapter": 316,
+      "before_han": 2253,
+      "proposed_after_han": 2243
+    },
+    {
+      "chapter": 317,
+      "before_han": 2302,
+      "proposed_after_han": 2302
+    },
+    {
+      "chapter": 318,
+      "before_han": 2228,
+      "proposed_after_han": 2228
+    },
+    {
+      "chapter": 319,
+      "before_han": 2321,
+      "proposed_after_han": 2373
+    },
+    {
+      "chapter": 320,
+      "before_han": 2324,
+      "proposed_after_han": 2324
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "completed_on": "2026-11-08",
+  "record": "harness/maintenance/R007/record.json",
+  "record_sha256": "3bf87b384413821ffd706e28dc93a30ec4d2d346e192bb2e0f361ee1d8207cce",
+  "chapters_checked": 50,
+  "chapters_changed": 46,
+  "writebacks": 8,
+  "protected_prose": 351,
+  "independent_reader_checks": 260,
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "workcopies_cleaned": 58,
+  "remaining_in_scope": [],
+  "out_of_scope_dependency": "第251章相对退班日期，详跨范围依赖.md",
+  "checks": {
+    "verify-repair.after-cleanup.json": {
+      "sha256": "603fc63d2b5edb81114e6f594f5d4c4414e609a115beb0e0b7e866d165307a03",
+      "errors": [],
+      "warnings": []
+    },
+    "project-check.after-cleanup.json": {
+      "sha256": "5653ffacf8108b9f860e42babcecba9e58f1a1ea23f9267b0989364b8871db9e",
+      "errors": [],
+      "warnings": []
+    },
+    "reader-validation.after-cleanup.json": {
+      "sha256": "3b833ffb846c8538e7470d5adae58a6912892ae333283e226a7c62cff0b26e09",
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

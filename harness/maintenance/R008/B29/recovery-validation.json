@@ -1,0 +1,174 @@
+{
+  "batch": "R008-B29",
+  "reviewer": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+  "writer": "R008-main",
+  "source_digest": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077",
+  "signed_chapters": [
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290
+  ],
+  "checks": {
+    "52_exact_quotes": true,
+    "unique_checks": 52,
+    "all_han_counts_2200_3200": true,
+    "first_read_and_final_manifest_match": true,
+    "applied_rows_verified": 14,
+    "closed_issue_ids": [
+      "R008-B29-I01",
+      "R008-B29-I02",
+      "R008-B29-I03",
+      "R008-B29-I04",
+      "R008-B29-I05",
+      "R008-B29-I06",
+      "R008-B29-I07",
+      "R008-B29-I08",
+      "R008-B29-I09",
+      "R008-B29-I10",
+      "R008-B29-I11"
+    ]
+  },
+  "counts": {
+    "281": 2303,
+    "282": 2337,
+    "283": 2345,
+    "284": 2395,
+    "285": 2562,
+    "286": 2278,
+    "287": 2298,
+    "288": 2265,
+    "289": 2258,
+    "290": 2344
+  },
+  "protected_input_hashes": {
+    "harness/maintenance/R008/B29/final-suggested-edits.json": "95f59f30efd13ba7529d6bf81688daec3a6148d13ca972b045354eb8fc2dd245",
+    "harness/maintenance/R008/B29/initial.md": "0f2bba6779164e20c1b2fe6b69bac14e23dc1e7b884d5ba42992a7f5a584aeeb",
+    "harness/maintenance/R008/B29/recovery-body-first.md": "579906b626e99e7909f6fb1ff6b1574c4b576bee852010ad5be1d95046598d92",
+    "harness/maintenance/R008/B29/initial-manifest.json": "b6587b4bc35351f53256699154159e0082c38fbf01b000c95bcbd8813e9ec7ff",
+    "harness/maintenance/R008/B29/backfill-suggestions.md": "0c6c99a41b3b6abc458f728e85e713648b53059e63ae1a78f26805d719c852cb",
+    "harness/maintenance/R008/B29/final-manifest.json": "2f01a1722a72018143936647be65ba80a6c9db9b2f3d1e40d0fed10f7a1051db",
+    "harness/maintenance/R008/B29/pre-recovery-final.json": "13b121593eaf9fa036f9bcdf70202337c03472b2d3888039ba6f4ec1847b0648",
+    "harness/maintenance/R008/B29/body-first.md": "f5a72ee761d71f9a2837a76072fd7c9ef4d59aa3bd4c3b07928a242998f1b3ae",
+    "harness/maintenance/R008/B29/final.md": "6e465476941abdc697e45b1339127f6ca3be86dd817b30c05ff638c9ff9e306f",
+    "harness/maintenance/R008/B29/suggested-edits.json": "7d8b5ebd484d763fbd26a7ceed18d331fb9a9d17147763164e32a95985022919",
+    "harness/maintenance/R008/B29/applied-edits.json": "9c38fb67b3ef646bd70933e3ee9c9f4a6b09992063adba3416ff3b3a463c12f8",
+    "harness/maintenance/R008/B29/pre-recovery-reader-review.json": "b9c8789f28122ae80bc209aa3b9a1b7db1954a96daa249c902a5f55cc4dd1b72",
+    "harness/maintenance/R008/B29/initial.json": "2847a073cad40ec48b4704066cd66845aba7442c2cbe23a56360ae6e60fee881",
+    "harness/maintenance/R008/B29/pre-recovery-final-manifest.json": "24883b191f2a91071b2910403f06be3c3af98d8183f114eba09c404caf67dbe9",
+    "harness/maintenance/R008/B29/pre-recovery-final.md": "6e465476941abdc697e45b1339127f6ca3be86dd817b30c05ff638c9ff9e306f",
+    "harness/maintenance/R008/B29/recovery-applied-edits.json": "95f59f30efd13ba7529d6bf81688daec3a6148d13ca972b045354eb8fc2dd245"
+  },
+  "candidate_input_hashes": {
+    "harness/maintenance/R008/writeback-candidates/人物状态台账.md": "f6f61ced218a4b3e71e6486d730b7e80011386f16e14c8e5a77970737b8d3281",
+    "harness/maintenance/R008/writeback-candidates/资源与时间台账.md": "4eb189048b3784c8dfb9a51b290a6a361d02c2aefd7e77481e99fc73b2581467",
+    "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md": "cd1925b1d776eda2040437fc8fa9b87e57129bcc8a02323fed3b99bb2941812c",
+    "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md": "25ef414deadc8c3efff648eb2f3c861e95501357ecdd437676f9d47ee3af2921",
+    "harness/maintenance/R008/writeback-candidates/术语与命名表.md": "00a763bd362f7712757f3f150a1bb3cc8ae744dae6c7572f5bf1481922487475",
+    "harness/maintenance/R008/writeback-candidates/术语词典.md": "70a83e1306706712edd9269847814521256150d82ffff78fe62c015e6f9d38c8",
+    "harness/maintenance/R008/writeback-candidates/逐章卡.md": "36d358f75537b773cfaf5308dabc12b70bb7559b31fc10304a34f5b0a6b2af37",
+    "harness/maintenance/R008/writeback-candidates/十章篇章卡.md": "4a213bdf6e7277e99dbd9d4f0ccd6f081b0b3419f04046c8808c2b7d7e83c7ab"
+  },
+  "suggestion_old_unique_matches": [
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_occurrences": 1
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_occurrences": 1
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_occurrences": 1
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_occurrences": 1
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "old_occurrences": 1
+    },
+    {
+      "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "old_occurrences": 1
+    }
+  ],
+  "boundary_reads": [
+    {
+      "chapter": 280,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+      "sha256": "1b7e8d6e751aa94a23047ed42c2228085d6406e71a8d22e0511280f153df6013",
+      "signed": false,
+      "note": "完整阅读仅作相邻接口；不加入终稿签署范围。"
+    },
+    {
+      "chapter": 291,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第291章_装车还要过一道秤.md",
+      "sha256": "32811247004d2f4b051eb54328648e3a9a7c934a5b0c1ef653ee10babcafbaeb",
+      "signed": false,
+      "note": "完整阅读仅作相邻接口；不加入终稿签署范围。"
+    }
+  ],
+  "not_changed_by_reviewer": [
+    "正文",
+    "八个回填候选",
+    "台账/章卡原件",
+    "initial/pre-recovery历史报告",
+    "final-manifest",
+    "harness/status及维护主记录"
+  ],
+  "pending": [
+    "主笔处理6条候选建议后复核候选字节；不影响本轮正文52项结论"
+  ],
+  "official_reader_validator": {
+    "command": "PYTHONDONTWRITEBYTECODE=1 python3 tools/check_reader_pull.py --record harness/maintenance/R008/B29/reader-review.json",
+    "exit_code": 0,
+    "result": {
+      "errors": [],
+      "incomplete_checks": [],
+      "reader_review_passed": true,
+      "verdict": "pass",
+      "chapters": [
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290
+      ],
+      "includes_prologue": false,
+      "profile": "serial"
+    },
+    "scope": "只读52项格式、覆盖、原句与绑定检查；不替代亲读，不是发布gate。"
+  },
+  "final_input_recheck": {
+    "checked_at": "2026-11-10T08:43:27.957524+08:00",
+    "protected_files_unchanged": 16,
+    "candidate_files_unchanged": 8,
+    "signed_manuscripts_unchanged": 10,
+    "unsigned_boundaries_unchanged": 2,
+    "reader_hash_link_matches": true,
+    "all_suggestion_old_strings_unique": true,
+    "status": "pass"
+  },
+  "report_hashes": {
+    "harness/maintenance/R008/B29/recovery-body-first.md": "579906b626e99e7909f6fb1ff6b1574c4b576bee852010ad5be1d95046598d92",
+    "harness/maintenance/R008/B29/final.json": "304a47edf1d83094a56a8086cba237d35fae2f8fd75dad26107638c619337bb7",
+    "harness/maintenance/R008/B29/reader-review.json": "31998148a52ee1259e294c643b3522b20df32d19f17b071254856ac5886150cb",
+    "harness/maintenance/R008/B29/recovery-final.md": "7a4bcf1848fa4240e2208d159c466ad660a1b221863120fc877637e2a40cdc48",
+    "harness/maintenance/R008/B29/recovery-writeback-suggestions.json": "64e875eb7a34dce2746fac8686875852922afb2887bf1770aaced93d96e49665",
+    "harness/maintenance/R008/B29/recovery-writeback-review.md": "cd5d78cd5f8c0bb87073866ceea365323d5a265fe166cd0c58e499c3083eddc3"
+  }
+}

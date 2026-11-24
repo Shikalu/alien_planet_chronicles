@@ -1,0 +1,762 @@
+{
+  "batch": "R008-B29",
+  "review_phase": "final",
+  "recovery": true,
+  "review_date": "2026-11-10",
+  "chapters": [
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290
+  ],
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+  "independent": true,
+  "body_first": true,
+  "input_digest": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077",
+  "source_digest": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077",
+  "source_manifest": "harness/maintenance/R008/B29/final-manifest.json",
+  "manuscripts": [
+    {
+      "chapter": 281,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第281章_班上还有他的名字.md",
+      "sha256": "42b31429a58232b1c0d9fbb629828bb9e9621e5d72b0b63ee4dc83692da4d4f9"
+    },
+    {
+      "chapter": 282,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第282章_做满这一旬.md",
+      "sha256": "67913f9b5c756482d5e5cdec005913a0a48654943bb99f35ade29c1d2b8df7a2"
+    },
+    {
+      "chapter": 283,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第283章_绳里面没有他们.md",
+      "sha256": "6f7bf1b5ac46f0380d92c6b4a3ab7b3998da36f5e8d1bd1408c06211931471b5"
+    },
+    {
+      "chapter": 284,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+      "sha256": "b0712b78e52374c0e58899532254e2280daa7615d4a3904e2de17abb327002a7"
+    },
+    {
+      "chapter": 285,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第285章_从靠山这一边下来.md",
+      "sha256": "a8014cc6d692ce35fe87042725639c335e435ef2e1cba0f3c7059374aa77230e"
+    },
+    {
+      "chapter": 286,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第286章_半勺写在谁的名下.md",
+      "sha256": "30d37dec04f9785fb215e89fa10a6389dc49682293777614af53b7afdc3bc112"
+    },
+    {
+      "chapter": 287,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第287章_先从沟里退出来.md",
+      "sha256": "28685d98fbe41f1d2ce0967399bc7ade82787377ef1ce6046f7acbfb72903b19"
+    },
+    {
+      "chapter": 288,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+      "sha256": "424bc46dae940929b66c7970986d83d7fee4e46e4be65dad706ad5da6aeccee0"
+    },
+    {
+      "chapter": 289,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第289章_下旬的车栏空着.md",
+      "sha256": "b76d1e788f2daf2cdcc7b7a917a848289c452a9f76b8db568d494c16491bedc4"
+    },
+    {
+      "chapter": 290,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+      "sha256": "8b5f4e13065cbe7bc5e58cae9a6a18021e4f951c15f892626682712d10194dac"
+    }
+  ],
+  "verdict": "pass",
+  "issues": [],
+  "closed_issues": [
+    {
+      "id": "R008-B29-I01",
+      "chapter": 281,
+      "severity": "中等",
+      "category": "空间参照／人物位置链",
+      "original_quote": "“那块板下头有人过。”阿九将新楔顶入撑头，“先保脚底。顶上的口子多摆一只接滴罐。”",
+      "status": "closed",
+      "final_quote": "“那块板上头有人走。”",
+      "additional_quotes": [],
+      "reason": "亲读板边封道、短撑、新楔与住户要求记延期，危险对象始终是板上行人；新句不再凭空增出下层通道。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I02",
+      "chapter": 283,
+      "severity": "中等",
+      "category": "物件持有／词义歧义",
+      "original_quote": "那人把绳结打紧，没收她的旧条。",
+      "status": "closed",
+      "final_quote": "那人把绳结打紧，没有收走她的旧条。",
+      "additional_quotes": [],
+      "reason": "钱婶仍握旧条，清退时据它领原工末班份、后又与钥匙同持；“没有收走”排除扣押含义，物件链不需补归还。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I03",
+      "chapter": 283,
+      "severity": "轻微",
+      "category": "数字闭环／指代",
+      "original_quote": "林渡读到那四个字，停在绳外。",
+      "status": "closed",
+      "final_quote": "林渡读到那行字，停在绳外。",
+      "additional_quotes": [],
+      "reason": "所指仍是五字“家属已发运”，用“那行字”承接不误数，也未改变只见旧联、次日再核的权限。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I04",
+      "chapter": 285,
+      "severity": "中等",
+      "category": "动作罗列／危险与行动时长／吸引力",
+      "original_quote": "他把工具布从褥子上解开，先取出小剪刀，把退工旧条放回钱婶衣襟，再抖掉塞在破口的木屑。硬物裹进褥子外袋，空布卷成宽带，让她握住；自己站在靠山侧一步一步后退，没拖她越过裂缝。钱婶的褥子由搬运者接走，她两手空下来，才扶得住柱。",
+      "status": "closed",
+      "final_quote": "陶继解下工具布，把小剪刀裹进褥子外袋，退工旧条塞回钱婶衣襟。搬运者接走褥子，他抖开布，卷成宽带让她握住，沿靠山侧的整板后退。钱婶腾出一只手扶柱，慢慢跟上，没有跨过裂缝。",
+      "additional_quotes": [],
+      "reason": "先让钱婶到稳柱，再移尖物及凭条、交褥子、握带退向整板；扶柱手与握带手可分，林渡只守退路，未发生伤臂强拉或清包裹暂停险情。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I05",
+      "chapter": 286,
+      "severity": "中等",
+      "category": "物件物理／计量指代",
+      "original_quote": "成人开份，林渡站在桶嘴旁，用左手扶壶。他的一勺半落得慢，戊字一先把整勺取到平口，再将半勺按标准刻线取足，壶里没有故意添回半口。",
+      "status": "closed",
+      "final_quote": "再将半勺按刚记的半勺线取足",
+      "additional_quotes": [
+        "陶继站在一旁看完，自己的两平勺也由戊字一逐勺取到平口。"
+      ],
+      "reason": "亲核整勺平口、半勺炭线、两次校成一勺的先后；林渡1.5与陶继2勺各按本份取，标准勺没有凭空新增刻痕。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I06",
+      "chapter": 286,
+      "severity": "中等",
+      "category": "时间口径／旧班认定",
+      "original_quote": "“我班还没做满。”",
+      "status": "closed",
+      "final_quote": "“我的末班还没认下来。”",
+      "additional_quotes": [],
+      "reason": "285追问末班认定、286待复核、287追认做满的一旬能连续解释；改的是认可状态，不是又欠一班或把D148旬头推迟。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I07",
+      "chapter": 289,
+      "severity": "中等",
+      "category": "人体常识／伤势与动作分工",
+      "original_quote": "林渡用左手压住纸，写得慢。右手挂久了发木，不能提笔把一页写满，他写下短句，让戊字一在旁辨字：",
+      "status": "closed",
+      "final_quote": "右手挂久了发木，仍得吊在胸前。林渡用左手按平纸，松手拿起炭笔，慢慢写下短句，让戊字一在旁辨字：",
+      "additional_quotes": [
+        "他用左手按平纸角，松开后继续写，字已经偏到边上。"
+      ],
+      "reason": "两处均为左手先按平再松手执笔，干木片由戊字一垫入；右臂仍吊着，没有同时压纸与写字或偷偷用伤手。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I08",
+      "chapter": 287,
+      "severity": "轻微",
+      "category": "叙述者翻译与辩护",
+      "original_quote": "这句话说出来，他自己停住了。林渡没有替他再解释，等着他的手从扳手上往回滑。",
+      "status": "closed",
+      "final_quote": "话说到这里，陶继停住了，手从扳手上慢慢往回滑。林渡仍站在沟口，给他留着退路。",
+      "additional_quotes": [
+        "报管流还在原来的拍子上。"
+      ],
+      "reason": "陶继被自己的话截住后自行回手，林渡的退路动作承接心理变化；原工查止动和盘底、阿九听管流是不同证据，不靠重复解释宣布悔悟。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I09",
+      "chapter": 287,
+      "severity": "轻微",
+      "category": "动作先后／时间口径",
+      "original_quote": "扳手留下，随手带来的布归他，登记纸一项项分清，旁边那个退班者也站着听完了。",
+      "status": "closed",
+      "final_quote": "扳手留在工具口，布归陶继带回。旁边那个退班者没有走，仍看着原工。",
+      "additional_quotes": [],
+      "reason": "先交代扳手留口、布归陶继和退班者在场，随后原工取工具页才登记；没有先办完又重办。相邻说话人另按I11显名核清。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I10",
+      "chapter": 284,
+      "severity": "轻微",
+      "category": "叙述者辩护／连续边界说明",
+      "original_quote": "烧的是本次临时比字条，不是送人者署名的核验抄页。后者连同原半页由祝衡包好，仍放原格，只供两家核问，不散出去。",
+      "status": "closed",
+      "final_quote": "他把用过的临时比字条交回祝衡。祝衡先将原半页与送人者署名的核验抄页包好，放回原格，叮嘱仍只供两家核问；那张比字条则交给戊字一送到旧灶。林渡跟着走去，等纸在灶火里卷黑，再回值桌。",
+      "additional_quotes": [],
+      "reason": "先点名临时比字条，再收好原半页与署名核验抄页，后把临时条送灶；三种纸去向明白且可追溯，公开只限无名结论。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/applied-edits.json"
+      ]
+    },
+    {
+      "id": "R008-B29-I11",
+      "chapter": 287,
+      "severity": "中等",
+      "category": "指代连续／工具责任归属",
+      "original_quote": "扳手留在工具口，布归陶继带回。旁边那个退班者没有走，仍看着原工。\n\n“工具给你。”他说。",
+      "status": "closed",
+      "final_quote": "“工具给你。”陶继说。",
+      "additional_quotes": [],
+      "reason": "当前稿明确“陶继说”，后续“由你带来／试图转柄／卸下”、陶继念名按印、原工暂收扳手均有同一主体。退班者只是旁观；水份另册，既不销责任也不因认印增减水。",
+      "verified_by": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "applied_records": [
+        "harness/maintenance/R008/B29/recovery-applied-edits.json"
+      ]
+    }
+  ],
+  "summary": {
+    "initial_issues": 10,
+    "previous_final_open_issues": 1,
+    "closed_initial_issues": 10,
+    "closed_previous_final_issues": 1,
+    "closed_total": 11,
+    "new_medium_or_severe_body_issues": 0,
+    "body_blockers": 0,
+    "applied_edit_rows_verified": 14,
+    "reader_checks_passed": 52,
+    "writeback_suggestions_pending": 6
+  },
+  "fact_logic_verdict": "pass",
+  "reader_pull_verdict": "pass",
+  "input_verification": {
+    "all_sha256_match": true,
+    "manifest_digest_matches_actual_rows": true,
+    "first_read_hashes_match": true,
+    "count": 10,
+    "method": "先亲读，再计算实际字节；14处applied old消失/new唯一存在，且复读上下文，不仅机械字符串比对"
+  },
+  "body_han_counts": {
+    "281": 2303,
+    "282": 2337,
+    "283": 2345,
+    "284": 2395,
+    "285": 2562,
+    "286": 2278,
+    "287": 2298,
+    "288": 2265,
+    "289": 2258,
+    "290": 2344
+  },
+  "count_method": "移除Markdown标题行，只统计U+3400—4DBF及U+4E00—9FFF；结构检查不代替吸引力判断。",
+  "reading_order_note": "本恢复读者逐章完整读281—290后先写recovery-body-first.md，再查项目规则/格式/三规范、世界角色、四台账及术语章卡和R008候选；最后读initial、pre-recovery-final与两份applied-edits并逐项复核。任务提示已提前透露I11与重点数值，不虚称完全盲读。之后按实稿核引文与指纹；未参与正文改写。",
+  "scope_note": "仅工作区R008-B29第281—290章；280、291全文只作相邻边界校验，不入签署manuscripts/checks。不签全书开篇、其他章、后续实际交货或整个R008发布。",
+  "body_first_report": "harness/maintenance/R008/B29/recovery-body-first.md",
+  "high_frequency_checks": [
+    {
+      "category": "人物位置链",
+      "chapter": 285,
+      "quote": "阿九带空的拉料木车先去六层检修棚外，林渡与两名搬运者随后随报准的清退班上坡。",
+      "result": "阿九守六层接护、两成人上七层、岑野半班；未把退班者重新列入当日搬运。正文位置清楚；候选283另有漏记返五层的非正文问题。"
+    },
+    {
+      "category": "数字闭环",
+      "chapter": 288,
+      "quote": "五户十一口仍是原来那十一口，九口已经核对、两口仍待核；陶家三口这次实到，另外八口还没有下迁，其中六口虽核上也还在原住区。",
+      "result": "11=9+2；3实到后余8=6核+2待；钱婶另列。与286水额闭环和290两板待装相容。"
+    },
+    {
+      "category": "信息释放顺序",
+      "chapter": 284,
+      "quote": "“后来登船了没有？”\n\n“我不跟船。联上没有的，你别让我认。”",
+      "result": "先看到两栏、问见证范围、回五层核亲属，未把送抵当登船或安全。"
+    },
+    {
+      "category": "知识来源",
+      "chapter": 282,
+      "quote": "林渡看得见图上几个较大的年记，小字只能听陶继念。",
+      "result": "大字目见、小字转述分开，不远距全读也不代证十年旧班。"
+    },
+    {
+      "category": "物件物理",
+      "chapter": 286,
+      "quote": "再将半勺按刚记的半勺线取足",
+      "result": "I05两处已关闭；半线是本班炭记，整勺仍平口，水收回未新耗。285布带和扶柱双手也可执行。"
+    },
+    {
+      "category": "时间口径",
+      "chapter": 286,
+      "quote": "“我的末班还没认下来。”",
+      "result": "I06已关闭；D148旬头后D150是认可未下不是未做满。原工末班水用尽后新班让水，不跨班重算。"
+    },
+    {
+      "category": "光影方向",
+      "chapter": 290,
+      "quote": "太阳移过低檐，墙上的运输通知露在亮处，次旬常班一栏仍空着。",
+      "result": "亮处随天光移到通知，读栏有光源；无逆向投影或黑暗远读。灯转浅控制窗口，不赋予预言能力。"
+    },
+    {
+      "category": "能力边界",
+      "chapter": 290,
+      "quote": "内里已经松空，支在棚下不能再承重。",
+      "result": "坏榫拒领、短板只能不承重补顶；无新电池/梁材/车辆恢复，也不借空车位产出材料。"
+    },
+    {
+      "category": "感官依据",
+      "chapter": 285,
+      "quote": "热海飞沫在柱面干结的白垢蹭下几粒，粘在她的掌心。",
+      "result": "白垢由飞沫干结而来，不写盐有腥味；287盘底锈粉来自柄擦口缘，290听数被泄压声遮挡，不补未知字。"
+    },
+    {
+      "category": "人体常识",
+      "chapter": 289,
+      "quote": "右手挂久了发木，仍得吊在胸前。林渡用左手按平纸，松手拿起炭笔，慢慢写下短句，让戊字一在旁辨字：",
+      "result": "I07两处连动核清。林渡不抢柄不扛重；阿九膝僵需歇、只限柄；祝衡腿伤坐守、照护三班不抽。"
+    },
+    {
+      "category": "指代与责任",
+      "chapter": 287,
+      "quote": "“工具给你。”陶继说。",
+      "result": "I11已关闭；登记主体与带柄/卸柄者一致，未将旁观退班者冒作交工具者。"
+    },
+    {
+      "category": "资源到账／承诺边界",
+      "chapter": 290,
+      "quote": "两块仍在料场，不盖五层的实收印。",
+      "result": "290实收0、安装0、余班未实用；第一漏棚保异议，四笔欠料未销；291仅核边界不提前填后续结果。"
+    },
+    {
+      "category": "通讯／信息权限",
+      "chapter": 289,
+      "quote": "戊字一只记捎出日期与谁接下一手，不抄正文到公开册，也不写收信人的落脚处。",
+      "result": "回捎无回执、未定位弥娅；原迟信、译页、家属原件分存，不用当前读者知识补角色。"
+    }
+  ],
+  "ai_style_checks": [
+    {
+      "category": "抽象情绪／全知动机",
+      "chapter": 285,
+      "quote": "“在这里。箱里是别家的东西。”",
+      "result": "用陶继误找纸与孟芸纠正表现失措，未替非视角人物下内心结论。"
+    },
+    {
+      "category": "连续纠偏句式／叙述者翻译",
+      "chapter": 289,
+      "quote": "一个是不能许到日子的纸，一个是下一旬暂不排的车；两样都不能让眼前的人喝到更多水。",
+      "result": "轻微可压缩的概括命中：前文已分放捎出行与常班通知，随后实际分水还会证明总额不变。不妨碍因果或追读，非中严问题。",
+      "optional_suggestion": "若后续授权精修，可在“分开放”动作处收句，由随后的60壶实发承担后果；本轮不改稿。"
+    },
+    {
+      "category": "比喻／像是堆叠",
+      "chapter": 283,
+      "quote": "他的右臂贴在胸前，坡口人的笔尖在吊臂处停了停，没有问姓名以外的事。",
+      "result": "以可见动作和材料状态传压，无需堆明喻；逐章已查“像是”，本十章无该字面串。词频仅辅助，不据零次代替审读。"
+    },
+    {
+      "category": "同构段落／人人同声",
+      "chapter": 287,
+      "quote": "“你往下压，我膝盖顶不了第二回。”他说，“先松手，别让我替你把阀扳开。”",
+      "result": "阿九按膝伤与工具说话，和林渡留退路、祝衡核责任、孟芸问桶在哪里各有关注点；危机里短对白打断长检查段，不是全员账房口吻。"
+    },
+    {
+      "category": "无功能停顿／点头",
+      "chapter": 286,
+      "quote": "钱婶在靠山侧抬起眼睛，嘴唇动了两下，没说出话。",
+      "result": "迟疑发生在别人让水而她尚未敢求份处，后接孟芸区分份页；不是无因沉默填空。"
+    },
+    {
+      "category": "叙述者辩护I08/I10",
+      "chapter": 284,
+      "quote": "祝衡先将原半页与送人者署名的核验抄页包好，放回原格，叮嘱仍只供两家核问；那张比字条则交给戊字一送到旧灶。",
+      "result": "I10事后“烧的是／不是”已改成当场保管和销毁分流；287停手也不再补“林渡没有替他解释”，I08已关闭。"
+    },
+    {
+      "category": "动作罗列流水账I04",
+      "chapter": 285,
+      "quote": "钱婶腾出一只手扶柱，慢慢跟上，没有跨过裂缝。",
+      "result": "移尖物、交褥子、布带、扶柱各为撤人服务；删掉无紧迫收益的木屑清理后，动作有连续结果，未卡住险情。"
+    },
+    {
+      "category": "动词悬空",
+      "chapter": 290,
+      "quote": "孔里有细屑，拨开后木纤维仍能被指尖压碎。",
+      "result": "拨开有对象，压碎有观察结果，足以导出拒领；各章感知对象可回指，无“看浑浊”等读不通搭配。"
+    },
+    {
+      "category": "验证动作重复I08",
+      "chapter": 287,
+      "quote": "阿九侧过头，耳朵对着墙内管段听了几息，报管流还在原来的拍子上。",
+      "result": "阿九听管流、原工看止动和盘底不同证据；286众人看量具是同意让份的公信成本，不等于两人重复同套无结果验证。"
+    },
+    {
+      "category": "突然／猛地与危险铺垫",
+      "chapter": 285,
+      "quote": "靠海的横板猛地低下去一截。",
+      "result": "此词有283裂板栏倾、284未更换与285清退通知/钉崩作前置，不是用“猛地”替代危险建立。"
+    },
+    {
+      "category": "先行词／中性称谓／用字",
+      "chapter": 288,
+      "quote": "那名退班搬运者站在桌子的另一头，手上旧裂口裹着布。",
+      "result": "先以岗位标识人，再写旧伤，不用伤残标签替身份；两名退出者与新四人口径可回查。全文沿简体与既有统一人名物名。"
+    }
+  ],
+  "setting_conflicts": [],
+  "author_decisions": "本批正文无须改变基本设定；回填候选建议由主笔处理，不反改正文。",
+  "boundary_reads": [
+    {
+      "chapter": 280,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+      "sha256": "1b7e8d6e751aa94a23047ed42c2228085d6406e71a8d22e0511280f153df6013",
+      "signed": false,
+      "note": "完整阅读仅作相邻接口；不加入终稿签署范围。"
+    },
+    {
+      "chapter": 291,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第291章_装车还要过一道秤.md",
+      "sha256": "32811247004d2f4b051eb54328648e3a9a7c934a5b0c1ef653ee10babcafbaeb",
+      "signed": false,
+      "note": "完整阅读仅作相邻接口；不加入终稿签署范围。"
+    }
+  ],
+  "reader_review": {
+    "path": "harness/maintenance/R008/B29/reader-review.json",
+    "verdict": "pass",
+    "checks": 52,
+    "passed": 52,
+    "needs_revision": 0,
+    "sha256": "31998148a52ee1259e294c643b3522b20df32d19f17b071254856ac5886150cb"
+  },
+  "recheck_status": "body_and_reader_pull_passed_on_current_manifest",
+  "shared_backfill_status": "needs_writer_action_then_candidate_recheck",
+  "writeback_review": {
+    "scope": "8文件A19旧实录/术语/索引与末尾R008对应说明；不签A20未来结果",
+    "suggestions": "harness/maintenance/R008/B29/recovery-writeback-suggestions.json",
+    "report": "harness/maintenance/R008/B29/recovery-writeback-review.md",
+    "count": 6,
+    "coverage": [
+      {
+        "path": "异星录/04_连续性管理/人物状态台账.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+        "sha256": "f6f61ced218a4b3e71e6486d730b7e80011386f16e14c8e5a77970737b8d3281",
+        "scope": "A19后人物状态整节（至A20前）＋末尾R008与A19有关条目",
+        "result": "suggestions",
+        "suggestion_numbers": [
+          3
+        ],
+        "note": "陶家9核2待／3实到、钱婶另计；两名退出者与两当日搬运者分开；孟芸确在290六人验料内，D154返五层不是旧行错误；伤势、工具收存与不扣水一致。仅祝衡销毁对象需精确命名。"
+      },
+      {
+        "path": "异星录/04_连续性管理/资源与时间台账.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+        "sha256": "4eb189048b3784c8dfb9a51b290a6a361d02c2aefd7e77481e99fc73b2581467",
+        "scope": "A19配水切换及人数、料、运输与设备整节＋末尾R008资源校准A19条目",
+        "result": "no_change_needed",
+        "suggestion_numbers": [],
+        "note": "逐班80→83.5／60／23.5、15×0.5勺、37.5+20+2+0.5=60、旧工末班2.5已用完、三自有罐、C2-B、四笔候料、D154验料未实收全对。孟芸D154实际扶板验料，另约下趟；无需把本次误改为仅承诺。未发现需改的A19旧行。"
+      },
+      {
+        "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+        "sha256": "cd1925b1d776eda2040437fc8fa9b87e57129bcc8a02323fed3b99bb2941812c",
+        "scope": "A19整节F04/F09/板险排水/让份/F02/F11/F14/冻结/常班及钩子序列＋末尾R008相关条目",
+        "result": "suggestions",
+        "suggestion_numbers": [
+          4
+        ],
+        "note": "板险283→285、排水口283/284及意图286→287兑现；两户送抵非离港、第三名及妹妹待核、289无送达回执均保留。需收窄F11旧行沿用的互证措辞，不让末尾补充与旧行形成两个知识强度。"
+      },
+      {
+        "path": "异星录/04_连续性管理/事件与地点时间线.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+        "sha256": "25ef414deadc8c3efff648eb2f3c861e95501357ecdd437676f9d47ee3af2921",
+        "scope": "A19 D145—D154十行及旬序说明＋R008相邻章接口A19相关行",
+        "result": "suggestions",
+        "suggestion_numbers": [
+          1
+        ],
+        "note": "D148旬头、D149移出、D150新班、D151阀未开、D153将撤非已撤、D154待装均一致；283位置链需补返五层。290→291仅边界核验，291以后不签事实。"
+      },
+      {
+        "path": "异星录/04_连续性管理/术语与命名表.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+        "sha256": "00a763bd362f7712757f3f150a1bb3cc8ae744dae6c7572f5bf1481922487475",
+        "scope": "A19新增用语九行及修后状态说明＋末尾R008用词边界",
+        "result": "suggestions",
+        "suggestion_numbers": [
+          5
+        ],
+        "note": "陶继/孟芸/陶小满/钱婶、候船边区、外堤口、长柄扳手、半标准勺均沿用，无新专名；转运存根的“只核”字段需与284实际可核主名和送抵记录对齐。"
+      },
+      {
+        "path": "异星录/04_连续性管理/术语词典.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+        "sha256": "70a83e1306706712edd9269847814521256150d82ffff78fe62c015e6f9d38c8",
+        "scope": "A19词条五行及人物说明＋R008语义校准中迟信、缺角印、两栏相关行",
+        "result": "no_change_needed",
+        "suggestion_numbers": [],
+        "note": "候核与船位、检修口非总阀、半勺旧勺炭线、当班可撤让份、常班与供水分开、两板未实收均正确；转运存根已有主名/日期及不证离港边界，与新稿相容。未发现需改的A19旧行。"
+      },
+      {
+        "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+        "sha256": "36d358f75537b773cfaf5308dabc12b70bb7559b31fc10304a34f5b0a6b2af37",
+        "scope": "A19写前卡作规划区分；A19十章实际回填、本批偏离、A20入口五条＋末尾R008第281—290十行",
+        "result": "suggestions",
+        "suggestion_numbers": [
+          2
+        ],
+        "note": "9/2、4=陶家3+钱婶、63成人含新3、陶继本人卸柄、286末班未认、两板待装及六人验料一致；唯一位置旧行283漏返五层。286两床板今晨搬下与正文吻合，不改成D149已搬完。"
+      },
+      {
+        "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+        "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+        "sha256": "4a213bdf6e7277e99dbd9d4f0ccd6f081b0b3419f04046c8808c2b7d7e83c7ab",
+        "scope": "文首规划标识、A19规划行、关键章节索引284项＋末尾R008 A19实录和规划/实录边界声明",
+        "result": "suggestions",
+        "suggestion_numbers": [
+          6
+        ],
+        "note": "末尾A19实录已准确写逐班让份、未遂外堤停岗、两板待装及常班将停；旧规划明确保留，不当实录改。关键索引284家属实运需改成仅送抵，以免脱离表头引用时提前回收。"
+      }
+    ],
+    "candidate_modified_by_reviewer": false
+  },
+  "historical_provenance": {
+    "previous_reviewer": "01a1c0c8-d087-7b43-8c17-7ad7951d4bf4",
+    "note": "仅用旧报告枚举问题，不冒用其身份或自动继承结论；旧final.md及全部pre-recovery备份保留。",
+    "backups": [
+      "harness/maintenance/R008/B29/pre-recovery-final.json",
+      "harness/maintenance/R008/B29/pre-recovery-reader-review.json",
+      "harness/maintenance/R008/B29/pre-recovery-final-manifest.json",
+      "harness/maintenance/R008/B29/pre-recovery-final.md"
+    ]
+  },
+  "context_sources": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "1559cd0b90183ef0d16be4cd54de3c44be30dc162c41a17be5f11807ddaf1db6",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/reader-review-format.md",
+      "sha256": "8e15775ff0bf9fa6d1f5fdfbf1b3f9644005e4a9fcd3c890a29ffb3cea5ed3b6",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "sha256": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "sha256": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/05_写作规范/设定揭示计划.md",
+      "sha256": "83dc70cbf65556a2a41092d22ade7b572b0de4a9906a25e887264568f2f1bd46",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/01_世界设定/世界背景总览.md",
+      "sha256": "1df9e0b3d61385590e326605e57eb89a429962ce42b39df41af6275aa8423fdb",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md",
+      "sha256": "fbe42034184b50f5215f720974e8d52b53d99b83c34158ca6922dbbb3011d12b",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/01_世界设定/社会生活与文化.md",
+      "sha256": "dba69ae4e635824d0b0c9d8ee3f43045200cec89db0909b85da08f26bcaac068",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/01_世界设定/势力与制度.md",
+      "sha256": "f5911b836816e697a627d07f3674322100057840692fc0572aba50839ee3ef13",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/01_世界设定/栈城路线图.md",
+      "sha256": "f464a1e0fc31d109226f96855921adbbc5b5503486e1174221bcf62ce76a6350",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/02_角色档案/角色圣经.md",
+      "sha256": "70b29d33318f143006b4c975e77609717423b4e6f8a26a6de15ea6d289551c4c",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/02_角色档案/角色出场与语气卡.md",
+      "sha256": "88c7d6090569765a2eb19b9f28ca8ada90be565d876f9cde5550fd309ca38cee",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/02_角色档案/关系与成长线.md",
+      "sha256": "cc4ce12244f2e8806b82b33f9879f4b661fd4e84f5f4327dd1755c1303b607e7",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "sha256": "22ac601b42e437179468939c2bf2202b25bb5fe431c356fb5e2ee58bc5272303",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "sha256": "59bd8fda7fc1b9b5eede9feafc2a37e83dcd726efb287ffab786eace6734b47b",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "sha256": "3e97075ed59c7b5fb0fc213ef813fcdf0a38fed49f9e63816ff50ecb3662e37b",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sha256": "dc621a02656b2dc25b5c9e00d15422974a6cf6e50529a7b1869fa640b03d9c7b",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "sha256": "0370b6dcb62ab573da5fba399b5653a69bc5cd8605e085ceb1056d8ecc8111f5",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "sha256": "812fb51b53412d84e97f4108673ab5820e4a0a5422615be6c34080552f416115",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "sha256": "e68d0811e7b555c42099a5444cf5c5a7e16b7cfab5c9db6c297cd6466681105a",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "sha256": "f6f61ced218a4b3e71e6486d730b7e80011386f16e14c8e5a77970737b8d3281",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "sha256": "4eb189048b3784c8dfb9a51b290a6a361d02c2aefd7e77481e99fc73b2581467",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "cd1925b1d776eda2040437fc8fa9b87e57129bcc8a02323fed3b99bb2941812c",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "sha256": "25ef414deadc8c3efff648eb2f3c861e95501357ecdd437676f9d47ee3af2921",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "00a763bd362f7712757f3f150a1bb3cc8ae744dae6c7572f5bf1481922487475",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "sha256": "70a83e1306706712edd9269847814521256150d82ffff78fe62c015e6f9d38c8",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "36d358f75537b773cfaf5308dabc12b70bb7559b31fc10304a34f5b0a6b2af37",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "sha256": "4a213bdf6e7277e99dbd9d4f0ccd6f081b0b3419f04046c8808c2b7d7e83c7ab",
+      "scope": "A19覆盖见候选专项记录，不签251—300全量"
+    },
+    {
+      "path": "异星录/00_项目总览/项目总纲.md",
+      "sha256": "4ab37a056a89048b2d3b0071d40673bdbf86383c5453fd310908340f9e7da57b",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/00_项目总览/资料索引与阅读地图.md",
+      "sha256": "c132cf33e2b18161cac83b6b470bee5f0298aea6e17cd32d30c2e1f7194a5264",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/03_剧情架构/分卷总纲.md",
+      "sha256": "0033c2ddfb4c1056f3c4fc6da73fe41569a12a8ece805f1a6b4eac0615ba03fd",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/03_剧情架构/README.md",
+      "sha256": "6012632eabb1b95b776259065701e2cc5946edba921616065a7c006e6a42e23f",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/卷纲.md",
+      "sha256": "5702412aa5c8b260cdae37d4c85ab393746537b07f5f75f462438f3c00e9a269",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-map.json",
+      "sha256": "04fc509867b79043a08a7372d1367c07c03645e79a13780d698b1a1ed060d133",
+      "scope": "当前卷与A18/A19接口相关部分；作者底稿不作本批角色已知"
+    }
+  ],
+  "not_publication_approval": true
+}

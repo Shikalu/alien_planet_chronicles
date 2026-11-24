@@ -1,0 +1,717 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "id": "R003-B03-current",
+  "date": "2026-11-06",
+  "timezone": "Asia/Shanghai",
+  "writer": "/root",
+  "reviewer": "/root/review_b03",
+  "independent": true,
+  "body_first": true,
+  "body_first_note": "独立于B03历次编辑；先完整逐章读当前工作稿并补读被工具截断的23章，然后查旧报告、作者资料和拟回填。继承父任务上下文中有批准口径标题，不冒称全书毫无预知；未以这些标题替正文补因果。",
+  "manuscripts": [
+    {
+      "chapter": 21,
+      "path": "异星录/正文/第一卷_热海坠城/第021章_被占的冷凝站.md",
+      "sha256": "1b1a75126e2e40090a5d1940bddab2eede370e4bdd03b7f3521c9de2d46ad11b"
+    },
+    {
+      "chapter": 22,
+      "path": "异星录/正文/第一卷_热海坠城/第022章_三条街的水票.md",
+      "sha256": "a5ffd89c790a353818225880192f17fd3f83d684dc9a312ff9dbc7324dee0111"
+    },
+    {
+      "chapter": 23,
+      "path": "异星录/正文/第一卷_热海坠城/第023章_测潮第一次救人.md",
+      "sha256": "d8846ca4484525b31dc90a6f0de493aaa64bbebe1506aeb3d53824d86fcc4fe4"
+    },
+    {
+      "chapter": 24,
+      "path": "异星录/正文/第一卷_热海坠城/第024章_神罚传单.md",
+      "sha256": "b06e18f1704f305ff3a5e8c886ba485ca46d5328115fa772a7fc651372c7400f"
+    },
+    {
+      "chapter": 25,
+      "path": "异星录/正文/第一卷_热海坠城/第025章_被改过的记录.md",
+      "sha256": "346a3b4e9a09fe45f219535bafc6257034d96f700a61674ac38550c63f0004fa"
+    },
+    {
+      "chapter": 26,
+      "path": "异星录/正文/第一卷_热海坠城/第026章_废弃货运坡道.md",
+      "sha256": "74666e85c76fc06e0e5dbbf2aba1ef919fc60347045d592b9002d960fe664e25"
+    },
+    {
+      "chapter": 27,
+      "path": "异星录/正文/第一卷_热海坠城/第027章_黑布标记.md",
+      "sha256": "7cdac521ad78a6377840ae845ad0b95d88a7730553a255bd38ea0077e16d4175"
+    },
+    {
+      "chapter": 28,
+      "path": "异星录/正文/第一卷_热海坠城/第028章_暂时放行.md",
+      "sha256": "627f5d2e542cc4fd0a69d13046317097b4f3e1f28e51d1b30d7c4b66ea6d58f6"
+    },
+    {
+      "chapter": 29,
+      "path": "异星录/正文/第一卷_热海坠城/第029章_第二道木闸.md",
+      "sha256": "aec05d55c18f40f1c8cbd8666ba1d7d39ecb20e463722971e871b10f6942bf4b"
+    },
+    {
+      "chapter": 30,
+      "path": "异星录/正文/第一卷_热海坠城/第030章_水票册.md",
+      "sha256": "75e6ae23042e7e417e739dca346e85558e58c4859cd7dce951766e5e1e88d74f"
+    }
+  ],
+  "source_digest": "b0cf390745e5b77ec46e50b7270d66a8998c88fc9dfb3fabc62cf8a0e2b20a4d",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 21,
+      "quote": "门后的人没有立刻开门。",
+      "reason": "门不开、水声无回汽，三句内立出进站取水的异常。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 21,
+      "quote": "“我信她指出危险的位置。”",
+      "reason": "林渡拒绝以教团立场决定是否信人，按可观察危险组织退让并与守站者协作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 21,
+      "quote": "回水支阀终于闭合，隔开了滤槽那头顶回来的热水。",
+      "reason": "来水、回水和仍泄压的细排管分开；暂保箱与板，但未恢复产水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 21,
+      "quote": "她不是同意了林渡分水，只是终于肯把门口空出来。",
+      "reason": "教团只因共同危险让半步，不因主角一句话彻底转向；有限合作有可见回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 21,
+      "quote": "箱角又渗下一滴清水。林渡伸手托住箱底，叫阿九先把它移离裂板；再等查清管子的去处，眼前这点水也保不住了。",
+      "reason": "具体追问水被送往哪里，同时必须先搬箱保饮水；不是单一神秘敲声。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 22,
+      "quote": "冷凝站只剩一箱能喝的水。",
+      "reason": "开场直接给分配不足，六份、每份六盏使压力可计算。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 22,
+      "quote": "“先按伤情，不按街。”他说。",
+      "reason": "林渡承担排序与得罪商贩的责任，杜姨记人、阿九量水，非只靠主角权威。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 22,
+      "quote": "居民首轮取走两份，鸦母留给教团伤员一份，箱内剩三份。",
+      "reason": "存量按已领/留用/箱内分栏；临时账和旧票未兑欠额保留，现实分水改变关系。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 22,
+      "quote": "“空的是来历，不是人。”杜姨让他坐到身旁，“你在这里，先记你在这里。”",
+      "reason": "身份暂不明者仍被记作在场，分水不是以票号抹人；具体安置动作承接主题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 22,
+      "quote": "林渡把临时账递给杜姨：“你带伤员走后门。”",
+      "reason": "巡查要求交账，下一步已分工撤伤员/留守箱；旧票水车号与蓝章仍有明确查问方向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 23,
+      "quote": "剩下的水箱却已经被两名护卫抬离门口半程。",
+      "reason": "封锁与抬走余水紧承上一章，必须救人还是保水立即成为问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 23,
+      "quote": "“先救人！”林渡喊。",
+      "reason": "主角主动舍箱救敌，肩伤和配给泼失是真代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 23,
+      "quote": "“原来四次，用掉这次，还剩三次精读。”林栖说。",
+      "reason": "设备余量4→3，半箱水仅损一次；人的载荷改变窗口，模型非全知。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 23,
+      "quote": "“现在是证词的水。”林渡回答。",
+      "reason": "获救者并未立刻入伙，只按有限亲见证词留印；半盏个人水付出带来微小可信交换。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 23,
+      "quote": "“不能回去。”她说。",
+      "reason": "货桥已断且平台提前滑移，必须携水与证据转旧坡道；白章用途与黑布人身份可追。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 24,
+      "quote": "有人说她救了人，有人说她故意让水箱翻倒。",
+      "reason": "开头把上一章救敌损水转化为社会代价，非另刷追兵。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 24,
+      "quote": "“因为我们选择先拉人。”",
+      "reason": "林渡公开承担救人的损水责任，不献人换水；弥娅自己说我不是水阀。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 24,
+      "quote": "“地图来自他们的仓库。”她说。",
+      "reason": "仓库编号和档案格线使传单来源可追查，尚不推出完整共同阴谋。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 24,
+      "quote": "少年将碗送到伤员手里，又回来捡起地上的传单。他没有当众撕掉，只把带红圈的一面折了进去。",
+      "reason": "从不碰量杯到折入红圈是有限态度变化，不强迫公开感谢，压迫中有温度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 24,
+      "quote": "里面的纸声停了一息，又响起来。",
+      "reason": "红圈所指电池仓已有应急灯和纸声，下一步核原记录明确；热水追路压力仍在。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 25,
+      "quote": "电池仓门没有把手。",
+      "reason": "仓门受改、接头只接触点、本机备用电源立出救人与取档障碍；现有热水随后逼到脚边。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 25,
+      "quote": "“先断回路，再拿记录。”他说。",
+      "reason": "林渡按人优先要求妹妹隔开热汽阀支路，不蛮拆线换证据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 25,
+      "quote": "“我拿到的只有这一页。”她说。",
+      "reason": "妹妹脱困且带出一页记录，签收姓名未全、粉末待检；失电封槽使证据胜利有限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 25,
+      "quote": "林渡没有硬夺，先托住那张纸，再让她一根手指一根手指放开。",
+      "reason": "紧攥纸角的身体反应与不硬夺的动作兑现兄妹温度，没有替她解说内心。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 25,
+      "quote": "林渡收好纸，招呼门外的人离开正在进水的走道。",
+      "reason": "结尾由封槽、只得一页和进水推出撤离，不用再多一声闷响拖尾。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 26,
+      "quote": "冷凝站的备用灯熄灭后，松脱来水管里的热水还在往低处淌，沿旧槽流向三层坡道的下口。",
+      "reason": "失灯与残热水直接逼出绕路，先下短坡再接上行段交代清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 26,
+      "quote": "“今天谁都不是原来的工。”",
+      "reason": "林渡承担推车，阿九给旧轨、林栖辨废片、弥娅看近处温差，解法依赖分工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 26,
+      "quote": "第二块储片也耗尽了，前灯全黑，车再也不能自行移动。",
+      "reason": "两废片只够两次短动，拆门/座椅补路留下车架与回头材料损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 26,
+      "quote": "“木楔可以再削，人不能再捡。”",
+      "reason": "木楔真被冲走，工匠被留下；职业判断和先保人有实物代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 26,
+      "quote": "人和车终于在同一个汇合点停下，却都失去了原本能用来回头的材料。",
+      "reason": "人车到汇合点而退材不再，下一步核黑布与螺栓路标具有行动必要性。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 27,
+      "quote": "旧螺栓上刻着一个小小的缺口。",
+      "reason": "缺口承上章路标，前数句同时给墙缝距离与陷阱疑问；涨水在后文重新压上，开场略静但未失目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 27,
+      "quote": "“车留下。”林渡说。",
+      "reason": "林渡先核接应再舍车让孩子伤员走，不把父亲记号当保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 27,
+      "quote": "二十四只合这两栏；阿九、弥娅这些未入册的同行者另列核对，不混进这个数。",
+      "reason": "账内子集、未入册同行、失联待找分开，放行与弃车不虚增入册事实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 27,
+      "quote": "阿九看了他很久，最后把房车钥匙拔下来，塞进自己的鞋帮。",
+      "reason": "惜车由钥匙动作和不保证能回来兑现，家产牺牲没有被笑话抹掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 27,
+      "quote": "林渡叫阿九先空手进转角看接应位置，听见他报横板能站，才托起第一副担架的尾杆。",
+      "reason": "身份与工位疑问保留，但下一步明确为送担架过缝，非只停在神秘信号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 28,
+      "quote": "维修缝只能容一个人侧身通过。",
+      "reason": "开场通道窄、房车卡、阿九返回车边，维持上章弃车后正在执行的紧迫处境。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 28,
+      "quote": "林渡把座椅板横推到灯前，板边擦过地面，带起一线灰。",
+      "reason": "林渡用已拆板挡摄录而非夺灯伤人，同时保护弥娅和借路者位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 28,
+      "quote": "“我会上传‘目标未确认’。”",
+      "reason": "祝衡承担违令拒交有效影像，主队通过，车顶下沉；制度追缝风险具体升级。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 28,
+      "quote": "阿九松开铁杆退入缝口，房车车顶立刻下沉，挡住半条轨道。",
+      "reason": "此前惜车决定变成真实损毁；祝衡留外拦同僚，主角不把他强拉成盟友。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 28,
+      "quote": "“给还没决定要不要开门的人。”",
+      "reason": "木楔交给谁与前方第二道闸形成明确路权追问，主队带伤员深入而祝衡留外。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 29,
+      "quote": "水沿木槽冲下来，带着热汽和黑色沉渣。最前面的伤员被水一推，担架差点翻倒。",
+      "reason": "先下再上、背后来水和闸后空井均落到可见危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 29,
+      "quote": "“开一掌宽。”他对灰手套说，“先让水走，不让人走。”",
+      "reason": "先泄压再探左沿、分段交杆，主角选择受控风险而非一把全开闸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 29,
+      "quote": "“它以后不能拿来接供电口了。”",
+      "reason": "接头铜壳留用而供电能力受损，木条折/三票固定钳丢失/退路塌均持续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 29,
+      "quote": "林栖想挪到最前面，右手却连攥住布带都做不到。林渡把她换到闸柱旁，让她只报松动的位置，不再承担抬杆。",
+      "reason": "伤势真的限制岗位，伙伴换岗仍能起作用，不靠伤员忽然完好。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 29,
+      "quote": "林渡帮杜姨收起临时账：“先到交换市，再找会首。”",
+      "reason": "会首去处待核，门后路线已由灰手套指出，下一步明确找人而非空泛敲声。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 30,
+      "quote": "第二道木闸后，旧货运坡道只剩半条。",
+      "reason": "残坡承重迫使伤员停走，先给脚下风险再引入寻找会首和公共册的目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 30,
+      "quote": "林渡抓住他的肩：“一起。”",
+      "reason": "拒只拿册逃走并组织拆摊板抬裴叔；失败后才排序先抬活人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 30,
+      "quote": "“会首死了。”她说。",
+      "reason": "救援失败并确认死亡，公共册转林渡、蓝布留册；人物责任从临时分水变为公共护账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 30,
+      "quote": "工匠问还抬不抬，他张了张嘴，终于说先抬活人。",
+      "reason": "死亡由胸伤与无脉无息持续确认，必须离开遗体的选择击中代价；无死亡笑话。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 30,
+      "quote": "“先交还路线，再决定谁能上行。”",
+      "reason": "公共册残图给路线与上行权具体问题，追兵逼着主角带活人与原册继续撤离。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 30,
+      "quote": "裴叔把水票册塞进林渡怀里。",
+      "reason": "本篇从取水/保名出发：21保箱、22临时分水、23救人损半箱、25得一页、28违令放行、30接公共册。承诺兑现为有限活人证据与责任交接，死亡和器材损失保留；制度全因、父亲本人及黑布身份继续欠问但不拖当前目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 28,
+      "quote": "影像一旦上传，会进上城区的比对册，追捕就不再只针对这条街；他们会按镜头位置追到这个缝口。",
+      "reason": "冲突由站口争水→救敌损水后的仇恨→取档受困→弃车借路→影像追缝→会首死后护公共册；每段改变责任/社会风险/资源，不是重复修管核账。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "fact_logic_verdict": "pass",
+  "attraction_verdict": "pass",
+  "maintenance_release": "independent_review_complete_pending_root_verify_repair",
+  "issues": [
+    {
+      "id": "B03-I01",
+      "chapter": 27,
+      "original_quote": "林渡请杜姨把临时账摊在轨旁。主队二十一人和另三名本地伤员，眼前合计二十四；五名失联者单列在另一边，家属补的是他们的名字，不是又来了五个人。杜姨用一条炭线隔开应答过的人和待找的人，房车另画空圈，不算人头。",
+      "reviewed_quote": "林渡请杜姨把临时账摊在轨旁。登记板在册的二十一人、另三名本地伤员占着两栏，二十四只合这两栏；阿九、弥娅这些未入册的同行者另列核对，不混进这个数。五名失联者单列在另一边，家属补的是他们的名字，不是又来了五个人。杜姨用一条炭线隔开应答过的人和待找的人，房车另画空圈，不算人头。",
+      "status": "closed",
+      "resolution": "作者2026-11-05已批准B04-C01。挤压危险按现场队伍描述，不把登记21+3当全部现场人数。；落实作者批准的登记核验子集；21+3保留，阿九/弥娅另列，失联5不计在场，不报新总数。；临时账内登记/另列/失联三种范围连续，未将临时核对写成正式入册。；商贩指账内子集而非现场总数；桶中半壶污染水与拒分不变。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I02",
+      "chapter": 21,
+      "original_quote": "林栖的手指一紧。这个名字她在黑纸边角见过，教团祭司，能让一条街的人为一句神罚排队。",
+      "reviewed_quote": "林栖的手指一紧，低声对林渡说：“我在黑纸边角见过她的名字。教团祭司，能让一条街的人为一句神罚排队。”",
+      "status": "closed",
+      "resolution": "已继承：将林栖已有记忆与身份判断落实为当场说给林渡的低声台词，未新增履历或扩大知识权限。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I03",
+      "chapter": 22,
+      "original_quote": "阿九把刻线铜杯塞到林渡手里：“要是他们问容量，就说一杯半。多一滴都算抢。”",
+      "reviewed_quote": "阿九把刻线铜杯塞到林渡手里：“要是他们问箱里还剩多少，就虚报一杯半。多一滴都算抢。”",
+      "status": "closed",
+      "resolution": "已继承：明确箱内余水为询问对象、一杯半是向扣水巡查故意虚报；既定三份库存、杯盏和分配不变。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I04",
+      "chapter": 24,
+      "original_quote": "林渡没有叫他谢谁，只让他把碗交给身后坐着的人。信任不是分水时能一并收回的东西；眼下能少一次推搡，就多一点水真正进到伤员嘴里。",
+      "reviewed_quote": "林渡没有叫他谢谁，只让他把碗交给身后坐着的人。",
+      "status": "closed",
+      "resolution": "已继承：删除连续信任译意与强迫表态辩护，保留送碗、折纸、不要求感谢和不公开指认的动作及居民态度。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I05",
+      "chapter": 24,
+      "original_quote": "收水壶里的余水继续下降。最后几盏水分完时，抱孩子的女人把空杯还给阿九，杯底多了一道用指甲刻出的短线。她说这是自己家今天的账，不能再让谁替她改。",
+      "reviewed_quote": "收水壶里的余水继续下降。分到最后几盏水时，抱孩子的女人借过炭笔，在杯底画下一道短线，再把空杯还给阿九。她说这是自己家今天的账，不能再让谁替她改。",
+      "status": "closed",
+      "resolution": "保留先前安全修订：沿用本章已用于抄名单的炭笔，在同一铜杯底画记号，去掉指甲刻铜面的无物性依据写法；不新增工具、附着层、杯子或水量。 本轮续修：继承炭笔画同一铜杯的安全改动；分到而非已分完，承接下文仍给下一位量水，不新增饮水。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I06",
+      "chapter": 24,
+      "original_quote": "林渡看向弥娅。弥娅没有看传单，只是望着电池仓门缝里微弱的热光。她把耳朵贴到门板上。",
+      "reviewed_quote": "林渡看向弥娅。弥娅没有看传单，只是望着电池仓门缝里漏出的应急灯光。她把耳朵贴到门板上。",
+      "status": "closed",
+      "resolution": "已继承：将漏光指向第25章已存在的仓内应急灯；不新增燃烧、供能或测潮能力。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I07",
+      "chapter": 25,
+      "original_quote": "门只开到半人宽，里面没有电池，只有一排被拆空的金属架。墙面贴着旧维修记录，最上面的日期是七年前，最下面一张却盖着今天的蓝章。",
+      "reviewed_quote": "门只开到半人宽，门缝正对着一排被拆空的金属架，那排架子上没有电池。墙面贴着旧维修记录，最上面的日期是七年前，最下面一张却盖着今天的蓝章。",
+      "status": "closed",
+      "resolution": "已继承：仅否定门缝正对的空架存量，不再断言整仓无电池；本机备用蓄电池供锁、小接头用途、废储片来源均未改。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I08",
+      "chapter": 25,
+      "original_quote": "林渡把两张纸叠在一起。蓝章边缘沾着细白粉末，颗粒和先前管槽边见过的析出物相近。他捏着纸角抬到灯下，白色颗粒没有被指腹碰掉，纸背却留下一道短短的湿痕。他把两张纸重新分开，在维修记录背面补了“粉末待检”，没有把沈乌的名字接到同一行。",
+      "reviewed_quote": "林渡把维修记录抬到灯下。蓝章边缘沾着细白粉末，颗粒和先前管槽边见过的析出物相近。白色颗粒没有被指腹碰掉，纸背却留下一道短短的湿痕。他在维修记录背面补了“粉末待检”。",
+      "status": "closed",
+      "resolution": "已继承：保留林栖核笔线、分纸与不归名决定，林渡只查粉末并记待检；删除再次叠纸分纸和重复结论，观察与未归责状态不变。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I09",
+      "chapter": 26,
+      "original_quote": "林渡把三条线路依次点给众人：“车走靠山铁轨，人走中间木槽；海侧水沟封住，不走人，也不停车。”",
+      "reviewed_quote": "林渡把三条线路依次点给众人：“车走靠山铁轨，人走中间木槽，只到前面并回铁轨的汇合点，不去闸后。房车别占住最窄的闸口；海侧水沟封住，不走人，也不停车。”",
+      "status": "closed",
+      "resolution": "已继承：前置后文已有汇合点与房车避开最窄闸口的分路理由，区分闸前人行段与闸后积水危险段；不新增道路或窗口。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I10",
+      "chapter": 26,
+      "original_quote": "阿九扶着肿起的膝盖蹲下，挪正那一角，重新拧紧固定的螺栓。林渡试过后才招手让伤员来。少走这一次空路能省几口喘息，真把担架送到半途，才发现承托不实，就得让躺着的人替他们承受这点省下来的力气。",
+      "reviewed_quote": "阿九扶着肿起的膝盖蹲下，挪正那一角，重新拧紧固定的螺栓。林渡试过后才招手让伤员来。",
+      "status": "closed",
+      "resolution": "已继承：保留空试发现悬角、调整再试、运人及膝伤；只删安全选择辩护和第二次横线非路距解释，保留首次比例提醒及描图新信息。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I11",
+      "chapter": 27,
+      "original_quote": "前面的人把绳头往回收，后面的人又往前挤了半步。陌生人在墙后，黑布遮住脸，冷水藏在脚下，他看着队伍，没有让开。",
+      "reviewed_quote": "前面的人把绳头往回收，后面的人又往前挤了半步。黑布仍遮着墙缝，林渡看不见里面的人，也不见有人让路。",
+      "status": "closed",
+      "resolution": "已继承：回到林渡可见的黑布墙缝与尚未让路；去掉无来源的墙后脸、脚下冷水和透墙姿态，不新增库存或仪器能力；原编辑保留的人数争议本轮由B03-I01按批准口径续修。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I12",
+      "chapter": 28,
+      "original_quote": "伤员先被送进去，房车卡在轨道旁，空门框和墙壁之间只剩两指宽。阿九两手扣着方向盘，指节抵在裂开的皮套上，肩膀随车身的小震一下下绷紧。",
+      "reviewed_quote": "伤员正被陆续送进去，房车卡在轨道旁，空门框和墙壁之间只剩两指宽。阿九从转角核完接应位置后返回车边，两手又扣着方向盘，指节抵在裂开的皮套上，肩膀随车身的小震一下下绷紧。",
+      "status": "closed",
+      "resolution": "已继承：补第27章核接应后的返回车边桥接，把车不能留改为惜车追问，承认既有弃车决定；开头陆续送入与I13同一交接链，钥匙鞋帮及最终顶塌不变。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I13",
+      "chapter": 28,
+      "original_quote": "光从缝口扫过时，里面先有人缩回了手。担架刚过一半，头端失去接应，抬杆的人差点把伤员磕在门边。林渡先叫他们停住，把人放稳，才看向那张命令纸。",
+      "reviewed_quote": "光从缝口扫过时，里面先有人缩回了手。最后一副担架刚过一半，头端失去接应，抬杆的人差点把伤员磕在门边。林渡先叫他们停住，把人放稳，才看向那张命令纸。",
+      "status": "closed",
+      "resolution": "已继承：始终指向同一最后担架：头端入缝、半过失接、头端转角、尾端仍由林渡守住，尾端过槛后林渡最后入缝；阿九松杆退入，保留祝衡阻追与遮板逐步合拢，不增伤员。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I14",
+      "chapter": 28,
+      "original_quote": "林渡没有开口。他把那只刚放下的手重新压回担架尾端。外面祝衡的脚印留在来水那侧，撕下的命令纸折进胸前，只剩一道白边露在制服外。年轻护卫又骂了一声，他没有回头。",
+      "reviewed_quote": "林渡没有开口。他把那只刚放下的手重新压回担架尾端。他想起遮板合拢前的那一眼：祝衡的脚印留在来水那侧，撕下的命令纸折进胸前，只剩一道白边露在制服外。年轻护卫又骂了一声，林渡没有回头。",
+      "status": "closed",
+      "resolution": "保留先前安全修订：将外面脚印与纸边明确为遮板合拢前所见的回忆，关板后仅听骂声；末句主语落实为林渡，不补视孔。 本轮续修：续修原I14：听到骂声不能证明遮板外两人精确站位；保留此前关板前回望安全修订。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I15",
+      "chapter": 28,
+      "original_quote": "林渡看向身后的伤员。维修缝已经被黑布遮板压缩到一条窄线，任何多一个人都会让担架卡住。祝衡若进来，年轻护卫也会跟进来，后面还可能有更多人。",
+      "reviewed_quote": "林渡看向身后的伤员。",
+      "status": "closed",
+      "resolution": "已继承：删关板后再次推演不带祝衡的辩护，保留灰手套问答及他选择留在外面的回答，不提前确认祝衡站队。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I16",
+      "chapter": 29,
+      "original_quote": "阿九拖着肿胀的膝盖去找木料。旧货槽两侧堆着拆船木，很多已经泡软。他挑出两根最直的，敲了敲：“一根撑闸，一根撑人。不能同时用。”",
+      "reviewed_quote": "阿九拖着肿胀的膝盖去找木料。旧货槽两侧堆着拆船木，很多已经泡软。他挑出两根最直的，敲了敲：“一根撑闸，一根撑人。每根只能顶一处。”",
+      "status": "closed",
+      "resolution": "已继承：将不能同时用限缩为单根不能兼顶两处；两根撑木先后部署、断木与伤员代价均保留，不补第三根。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I17",
+      "chapter": 29,
+      "original_quote": "“第一道呢？”\n\n“你们刚才经过的冷凝站。”",
+      "reviewed_quote": "灰手套的年轻人领他们往下走：“这段先下到排水槽，过第二道防线，再从左边爬回三层上行坡。”\n\n“第一道呢？”\n\n“你们刚才经过的冷凝站那一段。”他指向木槽中段的闸板，“防线数到这里是第二道，拦路的才是这扇木闸。”",
+      "status": "closed",
+      "resolution": "作者2026-11-05已批准防线范围。依批准口径先立路线防线编号，再指眼前实物木闸；未另造第一木闸，未合并阀、门、遮板。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I18",
+      "chapter": 30,
+      "original_quote": "册页在他怀里随步子发沉，蓝布线隔着衣料勒过肋骨。小门外的人声又一次压低，他抬脚向三层坡道上段走，手始终按着封面。",
+      "reviewed_quote": "册页在他怀里发出沉重的摩擦声，蓝布线隔着衣料勒过肋骨。他的手始终按着封面。夹在账页中的旧图滑出一角，露出断阶入口和一行被擦掉一半的字：",
+      "status": "closed",
+      "resolution": "已继承：将蓝布线触觉、护封动作并入第一次册页摩擦，删除第二次发沉与同向撤走；保留此前追兵逼近、裴叔死亡交册、上段撤离及断阶残句钩子。",
+      "evidence_present": true
+    },
+    {
+      "id": "B03-I19",
+      "chapter": 30,
+      "original_quote": "灰手套将小门撑住，只站在坡道这一边，不随他们进市场。林渡接过临时账，带队跨到交换市后方；若要回到坡道上段，还得从这处窄口退出。",
+      "reviewed_quote": "灰手套将小门撑住，只站在坡道这一边，不随他们进市场。林渡接过临时账，带队跨到交换市后方；若要回到坡道上段，还得从这处窄口退出。",
+      "status": "closed",
+      "resolution": "正文现有30章市场行动和全队撤出足以定位阿九/林栖；不补新移动。拟将二人截至30落点记为随队从交换市小门撤向三层坡道上段，无动力房车另记旧轨留置；未写权威台账，待独立复核后主线程集成。；2026-11-06独立短复核实际WB：阿九/林栖随队由交换市撤向三层上段，房车单列维修缝外旧轨顶塌；林渡列25收存同一页维修记录，林栖仅参与查读，不新增抄件。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L01",
+      "chapter": 21,
+      "original_quote": "“我的家乡。”弥娅说，随后补了一句，“也是童年名。”",
+      "reviewed_quote": "“我的家乡。”弥娅说，随后补了一句，“小时候，叫那里盐湾。”",
+      "status": "closed",
+      "resolution": "初审保留的童年名歧义：限定为家乡旧称，非弥娅乳名；维持短句和词汇能力，不解释跨海历史。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L02",
+      "chapter": 22,
+      "original_quote": "杜姨按旧账把这一箱折成六份基础配给，每份约六盏。",
+      "reviewed_quote": "按杜姨沿用的旧账口径，这一箱折成六份基础配给，每份约六盏。",
+      "status": "closed",
+      "resolution": "初审局部遗留：先说明既有换算口径，杜姨随后挤到前面才开始现场处理；不重复完成量水。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L03",
+      "chapter": 23,
+      "original_quote": "右边的人听见铃声，已经想往后退，却被同伴叫住；他们负责的是让箱上的封章完整到达，不是决定水该留在哪里。",
+      "reviewed_quote": "右边的人听见铃声，脚已往后挪，却被同伴叫住。那人仍攥着箱上的绳带，不肯松手。",
+      "status": "closed",
+      "resolution": "将未说出的护卫任务和意图收回可见脚步/握绳；救人、失水与后文护卫证言不变。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L04",
+      "chapter": 25,
+      "original_quote": "门外的人开始催。林渡让杜姨将担架退到转弯后，自己仍守在灯旁。他能给妹妹的不是多一点仓内的时间，只是不要让门外的慌乱逼她省掉下一步确认。",
+      "reviewed_quote": "门外的人开始催。林渡让杜姨将担架退到转弯后，自己仍守在灯旁。",
+      "status": "closed",
+      "resolution": "保留退担架/守灯动作与确认程序，压缩紧接动作的叙述者辩护。；合并相邻同一锁栓沉响；既有封槽和只得一页不变，以已出现的进水推动撤离，承接26，不新增声源/敌人。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L05",
+      "chapter": 27,
+      "original_quote": "墙后更深处的另一人立刻回应，节拍没有催促人的意思，只反复确认人数。\n\n“他们在数我们。”杜姨说。",
+      "reviewed_quote": "墙后更深处的另一人立刻回应，同样的节拍又敲了一遍。\n\n“他们在数我们？”杜姨侧耳听着。",
+      "status": "closed",
+      "resolution": "保留墙后不同人传敲的可听事实，将未解码的计人数意图留作杜姨疑问，不提前确认主动机制或计数协议。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L06",
+      "chapter": 28,
+      "original_quote": "林渡把自己的位置让给阿九，要他护住车顶，自己腾出手去取那块已经拆下的座椅板。",
+      "reviewed_quote": "林渡示意阿九继续护住车顶，自己腾出手去取那块已经拆下的座椅板。",
+      "status": "closed",
+      "resolution": "阿九一直持铁杆顶车，不凭空从林渡手上再次接同一工位。；同一座椅板取一次、横推举起一次，保留挡光、肩臂代价和最后同一担架头端转角，不再动作完成后重新取一块板。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L07",
+      "chapter": 28,
+      "original_quote": "水流已经冲过第一根轨枕，白汽里混着黑色沉渣。",
+      "reviewed_quote": "水流已经冲过第一根轨枕，黑色沉渣随水翻动，水面上腾着白汽。",
+      "status": "closed",
+      "resolution": "沉渣在液态水里，白汽在水面上；不把固体沉积物写进汽体，不变危险程度。",
+      "evidence_present": true
+    },
+    {
+      "id": "R003-B03-L08",
+      "chapter": 30,
+      "original_quote": "他把裴叔垂下的手放回担架边，转身去抬前端，工匠随即从他身侧挤向门口。",
+      "reviewed_quote": "他把裴叔垂下的手放回担架边，转身去接前面伤员的担架杆，工匠随即从他身侧挤向门口。",
+      "status": "closed",
+      "resolution": "先抬活人的动作落到前方伤员担架，不让前端误指裴叔遗体；死亡确认、遗体移干板与撤离顺序不变。",
+      "evidence_present": true
+    }
+  ],
+  "new_issues": [
+    {
+      "id": "B03-FINAL-I20",
+      "chapter": 22,
+      "severity": "轻微",
+      "quote": "水箱的第三条刻线很快降到一半。",
+      "problem": "刻线固定在箱壁，下降主语应是水面，当前物性主语错位。",
+      "action": "改为水面一层层降下去等不新增水量的表述。",
+      "status": "closed",
+      "maintenance_alias": "R003-B03-F01",
+      "reviewed_quote": "水面一层层降下去。",
+      "resolution": "重读22全章确认下降主语已改水面，六份/三份库存换算和巡查扣水顺序不变，未加用水事件。"
+    }
+  ],
+  "writeback_review": {
+    "status": "pass_for_related_historical_sections",
+    "scope": "R003-WB七文件中的21—30相关历史片段、原21—30快照与补全行；不覆盖51以后或全400章事实",
+    "fingerprints": {
+      "异星录/06_执行计划/工作区/R003-WB/事件与地点时间线.md": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "异星录/06_执行计划/工作区/R003-WB/人物状态台账.md": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "异星录/06_执行计划/工作区/R003-WB/伏笔与悬念台账.md": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c",
+      "异星录/06_执行计划/工作区/R003-WB/前10章场景拆解.md": "891a58a737e4ce2e3e839f0fe9f6c337d86b8e704670b4263f89643acd0addea",
+      "异星录/06_执行计划/工作区/R003-WB/术语与命名表.md": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+      "异星录/06_执行计划/工作区/R003-WB/术语词典.md": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+      "异星录/06_执行计划/工作区/R003-WB/资源与时间台账.md": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "异星录/06_执行计划/工作区/R003-WB/逐章卡.md": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0"
+    },
+    "note": "当前八份WB稳定后独立核本批相关片段：人物/车辆位置和同一页记录交接、21+3子集、29冷凝站段防线均明确；章卡28红章半边/保拍摄条款与油管支架带落回汽管已同步。术语两文件原样继承，不需要增名。只核21—30历史段和R003附录，不覆盖其他批次或51以后。"
+  },
+  "post_revision_review": {
+    "date": "2026-11-06",
+    "chapter22_re_read": "full",
+    "writeback_related_sections_reviewed": true,
+    "new_blockers": [],
+    "verdict": "pass"
+  }
+}

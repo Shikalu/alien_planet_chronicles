@@ -1,0 +1,85 @@
+{
+  "kind": "completed-authorized-repair-checkpoint",
+  "writer": "R008-main",
+  "stage": "complete",
+  "date": "2026-11-10",
+  "published": true,
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "groups": [
+    {
+      "group": "B26",
+      "body_verdict": "pass",
+      "actual_work_digest": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d",
+      "final_review_path": "harness/maintenance/R008/B26/final.json",
+      "final_review_sha256": "ab2f67c9b7f7f4eacb6f45d402f896ac6f968d7656d8dee2522d3a951412e5ad",
+      "writeback_review_path": "harness/maintenance/R008/B26/writeback-freeze-review.json",
+      "writeback_review_sha256": "fc248bd6213d134747cdbc1110d095db210a341ab65ab4f54cb41d7d6782fe02"
+    },
+    {
+      "group": "B27",
+      "body_verdict": "pass",
+      "actual_work_digest": "41f784dd3fdb25a49bb4d3a3b6f9623cf24f9a828ae1e1e7b62a7c40fa4d09fa",
+      "final_review_path": "harness/maintenance/R008/B27/final.json",
+      "final_review_sha256": "58bcbc0609c0e5be11991fcbab6c84c58865301023df7e9137d05f762ab625b7",
+      "writeback_review_path": "harness/maintenance/R008/B27/writeback-freeze-review.json",
+      "writeback_review_sha256": "4f99158ae41c87adaa439e16f3f30584a275a32379802526b5e1543f18da7499"
+    },
+    {
+      "group": "B28",
+      "body_verdict": "pass",
+      "actual_work_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+      "final_review_path": "harness/maintenance/R008/B28/final.json",
+      "final_review_sha256": "1500cc95772d4a2370c27010ee0a2360c58eacdc7a1d106519b10955bd190c73",
+      "writeback_review_path": "harness/maintenance/R008/B28/writeback-freeze-review.json",
+      "writeback_review_sha256": "cb5d5b597f22479f837ccbe2292f38ea1df11e89e383423a8c66a34360dfe917"
+    },
+    {
+      "group": "B29",
+      "body_verdict": "pass",
+      "actual_work_digest": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077",
+      "final_review_path": "harness/maintenance/R008/B29/final.json",
+      "final_review_sha256": "304a47edf1d83094a56a8086cba237d35fae2f8fd75dad26107638c619337bb7",
+      "writeback_review_path": "harness/maintenance/R008/B29/writeback-freeze-review.json",
+      "writeback_review_sha256": "d6c02ea0564cf1e24ff1126ad97d9ea1477023d42983c2edee325553fdfbac40"
+    },
+    {
+      "group": "B30",
+      "body_verdict": "pass",
+      "actual_work_digest": "b9a06128408faee466059748c3dddfc03b03ed87c66841330ea41789f90fb527",
+      "final_review_path": "harness/maintenance/R008/B30/final.json",
+      "final_review_sha256": "e6bf77861bf6f77815fa0e89e5fbd859e3b8f5a16b230ce5f1fe56be98dec24b",
+      "writeback_review_path": "harness/maintenance/R008/B30/writeback-freeze-review.json",
+      "writeback_review_sha256": "1e44adb04587fedd86a1fe5fa914e3377c6fd7b0d3b1977c825757d9fdcd5342"
+    }
+  ],
+  "remaining": [],
+  "formal_publication_done": true,
+  "freeze": "harness/maintenance/R008/writeback-freeze.json",
+  "current_body_digests": {
+    "B26": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d",
+    "B27": "41f784dd3fdb25a49bb4d3a3b6f9623cf24f9a828ae1e1e7b62a7c40fa4d09fa",
+    "B28": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+    "B29": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077",
+    "B30": "b9a06128408faee466059748c3dddfc03b03ed87c66841330ea41789f90fb527"
+  },
+  "pending": [],
+  "formal_baselines": "50章与8回填已发布为独立验收字节；351受保护正文未改；50完成工作副本已清理并复验；未运行续写close",
+  "freeze_revision": 4,
+  "completed_date": "2026-11-10",
+  "work_copy_cleanup": "harness/maintenance/R008/work-copy-cleanup.json",
+  "acceptance": {
+    "verify_repair": "harness/maintenance/R008/verify-repair.json",
+    "project_check": "harness/maintenance/R008/project-check.json",
+    "reader_validation": "harness/maintenance/R008/reader-validation.json"
+  },
+  "reader_coverage": {
+    "passed_chapters": "1—300",
+    "prologue_passed": true,
+    "not_reviewed_chapters": "301—400"
+  }
+}

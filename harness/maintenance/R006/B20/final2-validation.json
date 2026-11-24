@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B20",
+  "stage": "final2",
+  "created_at": "2026-11-07T14:40:21+08:00",
+  "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+  "source_digest": "fa35f09a378ed6db9691c48ab659b26705f6184554c98451ef2f417b724beeea",
+  "previous_source_digest": "8f99f2ceacf59aeeec7cb19e4444b9bdcc70104bd1adc74cb36062359cf33143",
+  "frozen_previous_artifacts": {
+    "initial-reader-notes.md": "12b250713f4a0957ce16fe7dc593f2360a761ccecc3df17164d65ebdfc9b4938",
+    "initial.json": "3aee8d33356eeb1512ee552fac9806367eda7f1dad88313738437c145b375c12",
+    "initial.md": "6f96cca0bea00952e80625cb5e34722305a985ec4bc5b23cb96ebf3d3819f221",
+    "initial-validation.json": "75d2b91010444d29d830c02546566c49c216b38d2feeaa0a659e8a9d9bc6afe8",
+    "suggested-edits.json": "c1747a92b16e438a795945086949c0e9b04cdbdabb6a0233ecfce4b7bb380a93",
+    "final.json": "40f7fb6a89c34e1c8c8653bef1ccab8e5b04fec9f8c5b3921d370f5698f54fa0",
+    "final.md": "d321c9922561ffb956fff20cfa5923a8f3eea20c18b30314c4a03b6ede5d2f09",
+    "reader-review.json": "d198d0a98b83d90b2105cb25084c2f433c2743dbcc42cf52f75970919c2942e5",
+    "suggested-edits-v2.json": "73cd35deb2dc9fb12d721ca49cac9b690702fdc07a462f8b1324541bd501836f",
+    "final-validation.json": "d38d13fb0c4961f8af5988ef90c0d251de01a3a1a189c194632d21ea8eb14efd"
+  },
+  "initial_and_v1_unchanged": true,
+  "actual_reread_chapters": [
+    191,
+    192,
+    193,
+    195,
+    196,
+    197,
+    200
+  ],
+  "unchanged_v1_chapters": [
+    194,
+    198,
+    199
+  ],
+  "manuscripts": [
+    {
+      "chapter": 191,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第191章_塔灯换回原色.md",
+      "sha256": "231c2e7456d457d933f516867fddbf348724b3a73542a7bd64f21d58dfb301a2"
+    },
+    {
+      "chapter": 192,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第192章_门后只剩这些回应.md",
+      "sha256": "7b4c9478edc0fdd8748431a52acfd29e49a376d6f024f005e357f1870b2fdecb"
+    },
+    {
+      "chapter": 193,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第193章_柜子留在原地.md",
+      "sha256": "69dd96889fed7c63b15e37636ab27aedc977585e01f7ad3d172cec26ecfa2033"
+    },
+    {
+      "chapter": 194,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第194章_再报一次自己.md",
+      "sha256": "ddcc013363877e913e825ce8326d89f86b5acc8b94ed87b752a923d5cfb58a3e"
+    },
+    {
+      "chapter": 195,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第195章_谁回去查那根线.md",
+      "sha256": "a7452cb814e9737b031658352e2a09f5b0f62618971c974cf9a8735e02168a00"
+    },
+    {
+      "chapter": 196,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第196章_只回答眼前这一端.md",
+      "sha256": "5a45ae270cdce75f61a51c3392f22033c6e51787040ff8b8c634e32d514b8904"
+    },
+    {
+      "chapter": 197,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第197章_把没听清的留空.md",
+      "sha256": "69bf937eb568347da0688afac9bd1149080c7bcd2bc73d5a16ff8d6df0ed811e"
+    },
+    {
+      "chapter": 198,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第198章_门和隧道不是一回事.md",
+      "sha256": "60f8ff8658beb909dca140e5ae449834b873ab51139fe56d71c492eabbddc662"
+    },
+    {
+      "chapter": 199,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第199章_走出去的人还要喝水.md",
+      "sha256": "de6bce551c52c2f742d725fca2c743dcb290583e2089cd7cbea8a3a522f5a165"
+    },
+    {
+      "chapter": 200,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第200章_只开这一段.md",
+      "sha256": "241d73b6c19f89d6cc2b3d5fa2eb58fca799bfc5ec891c163f88e2b4215a7734"
+    }
+  ],
+  "editor_log_count": 82,
+  "new_log_range": [
+    66,
+    82
+  ],
+  "log_reverse_proofs": [
+    {
+      "chapter": 191,
+      "entries": [
+        70
+      ],
+      "v1_sha256": "259d31056ae113d26681bd02b669d58d027d0ea47aabc0353b454887d16aad4a",
+      "current_sha256": "231c2e7456d457d933f516867fddbf348724b3a73542a7bd64f21d58dfb301a2",
+      "reverse_to_v1_exact": true,
+      "review_method": "本轮全文重读"
+    },
+    {
+      "chapter": 192,
+      "entries": [
+        74,
+        77
+      ],
+      "v1_sha256": "ad9fddbea8d35b2654366335841cf8effb6348da96ebfffe98e3944e91242396",
+      "current_sha256": "7b4c9478edc0fdd8748431a52acfd29e49a376d6f024f005e357f1870b2fdecb",
+      "reverse_to_v1_exact": true,
+      "review_method": "本轮全文重读"
+    },
+    {
+      "chapter": 193,
+      "entries": [
+        67,
+        75,
+        78,
+        80,
+        81,
+        82
+      ],
+      "v1_sha256": "3cda0f24adc03e64742db8c66d06e5506309f624730c86f52b1989b81dac5ec3",
+      "current_sha256": "69dd96889fed7c63b15e37636ab27aedc977585e01f7ad3d172cec26ecfa2033",
+      "reverse_to_v1_exact": true,
+      "review_method": "本轮全文重读"
+    },
+    {
+      "chapter": 194,
+      "entries": [],
+      "v1_sha256": "ddcc013363877e913e825ce8326d89f86b5acc8b94ed87b752a923d5cfb58a3e",
+      "current_sha256": "ddcc013363877e913e825ce8326d89f86b5acc8b94ed87b752a923d5cfb58a3e",
+      "reverse_to_v1_exact": true,
+      "review_method": "沿用v1实读，SHA完全未变"
+    },
+    {
+      "chapter": 195,
+      "entries": [
+        68
+      ],
+      "v1_sha256": "95cbf0ca12b96210ee0298f762cb1d7d1b4f1466b3b6a2d7ff3da5b95617cc3c",
+      "current_sha256": "a7452cb814e9737b031658352e2a09f5b0f62618971c974cf9a8735e02168a00",
+      "reverse_to_v1_exact": true,
+      "review_method": "本轮全文重读"
+    },
+    {
+      "chapter": 196,
+      "entries": [
+        72,
+        73
+      ],
+      "v1_sha256": "ace8758fde6a9eda0ebadedd7d96cd08161dd3a78476c1fcac9f670e3b90ef61",
+      "current_sha256": "5a45ae270cdce75f61a51c3392f22033c6e51787040ff8b8c634e32d514b8904",
+      "reverse_to_v1_exact": true,
+      "review_method": "本轮全文重读"
+    },
+    {
+      "chapter": 197,
+      "entries": [
+        66,
+        71
+      ],
+      "v1_sha256": "ac57661aa00a2ee05953aba2733e85b6e4991c94c0fd2dce14638744dd505208",
+      "current_sha256": "69bf937eb568347da0688afac9bd1149080c7bcd2bc73d5a16ff8d6df0ed811e",
+      "reverse_to_v1_exact": true,
+      "review_method": "本轮全文重读"
+    },
+    {
+      "chapter": 198,
+      "entries": [],
+      "v1_sha256": "60f8ff8658beb909dca140e5ae449834b873ab51139fe56d71c492eabbddc662",
+      "current_sha256": "60f8ff8658beb909dca140e5ae449834b873ab51139fe56d71c492eabbddc662",
+      "reverse_to_v1_exact": true,
+      "review_method": "沿用v1实读，SHA完全未变"
+    },
+    {
+      "chapter": 199,
+      "entries": [],
+      "v1_sha256": "de6bce551c52c2f742d725fca2c743dcb290583e2089cd7cbea8a3a522f5a165",
+      "current_sha256": "de6bce551c52c2f742d725fca2c743dcb290583e2089cd7cbea8a3a522f5a165",
+      "reverse_to_v1_exact": true,
+      "review_method": "沿用v1实读，SHA完全未变"
+    },
+    {
+      "chapter": 200,
+      "entries": [
+        69,
+        76,
+        79
+      ],
+      "v1_sha256": "df1ee7ea2389a4ca44df141645344221438e2b5889b6a8a0df18b30ac583bdbd",
+      "current_sha256": "241d73b6c19f89d6cc2b3d5fa2eb58fca799bfc5ec891c163f88e2b4215a7734",
+      "reverse_to_v1_exact": true,
+      "review_method": "本轮全文重读"
+    }
+  ],
+  "current_quotes_exact": true,
+  "same_bytes_final2_and_reader_review2": true,
+  "same_checks": true,
+  "original_issue_ids_preserved": true,
+  "issue_counts": {
+    "closed": 36,
+    "open": 0,
+    "pending_author": 10
+  },
+  "new_issues": 0,
+  "newly_closed": [
+    "R006-B20-003",
+    "R006-B20-005",
+    "R006-B20-008",
+    "R006-B20-018",
+    "R006-B20-022",
+    "R006-B20-035",
+    "R006-B20-039",
+    "R006-B20-040",
+    "R006-B20-043",
+    "R006-B20-046"
+  ],
+  "newly_pending_author": [
+    "R006-B20-001",
+    "R006-B20-017",
+    "R006-B20-034"
+  ],
+  "checks_total": 52,
+  "checks_by_verdict": {
+    "pass": 47,
+    "needs_revision": 5
+  },
+  "standards_total": 15,
+  "standards_groups": {
+    "high_frequency": 10,
+    "ai_prose": 5
+  },
+  "han_counts": {
+    "191": 2235,
+    "192": 2462,
+    "193": 2445,
+    "194": 2308,
+    "195": 2241,
+    "196": 2301,
+    "197": 2289,
+    "198": 2378,
+    "199": 2244,
+    "200": 2401
+  },
+  "v2_safe_edits_applied_and_rechecked": true,
+  "reader_structure_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "issues",
+    "chapters": [
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "reader_release_validation": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "issues",
+    "chapters": [
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "writer_files_modified_by_reviewer": false,
+  "artifact_sha256": {
+    "final2.json": "65412a28ec7bf458d38054f8db7b1f5f725d465e595e5151a75a77fd64558e90",
+    "final2.md": "9858d4ac932190ec8dcece32d9238dd460ba1d009d01075503ce325282b341eb",
+    "reader-review2.json": "fda4ba653e5b5cffa1cc1f65031915cd440a2bebb8ae0167b7efb2d82769468b"
+  },
+  "verdict": "issues",
+  "note": "结构、引文及字节验证不等于事实或追读通过。仍有10原ID需作者裁定及4跨批依赖；5项追读未通过。"
+}

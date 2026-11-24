@@ -1,0 +1,684 @@
+{
+  "schema_version": 1,
+  "batch": "R005-B14",
+  "review_round": 3,
+  "reviewer": "01a1b3d1-602d-7250-a7b5-639453b5a3f7",
+  "reviewer_id_source": "CODEX_THREAD_ID（本轮实际环境值）",
+  "writer": "R005-main",
+  "independent": true,
+  "body_first": true,
+  "disclosure": "复核3，不是新的盲首读。已知历史问题与用户指定改句；先完整实读133、138实际新稿，再查edits.json末两条。其余8章仅因SHA与复核2相同继承既有全文实读，不声称本轮重读十章。",
+  "manuscripts": [
+    {
+      "chapter": 131,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "sha256": "84d49efbbfe44e66e2cc58057df2624d40784377810d746efe5965295e9b5294"
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "sha256": "e51df388a3bd1bbf0ab5f0140188a0844fe78dbd246343479b8d2c583d9e856c"
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    }
+  ],
+  "input_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed",
+  "source_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed",
+  "digest_method": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode())；列表按131—140排序，每项仅chapter/path/sha256；默认JSON分隔符",
+  "baseline": {
+    "recheck_path": "harness/maintenance/R005/B14/review-v2/recheck2.json",
+    "recheck_sha256": "a0908ae1ef3deedc3a14b772b188f1baff48a028ca87c3e389320bfe29861a3a",
+    "reader_review_path": "harness/maintenance/R005/B14/review-v2/reader-review2.json",
+    "reader_review_sha256": "80869d5e48ecee7a3f3a44c38e9fad19e36ca21b17f9055ef99a42d01d90295b",
+    "input_digest": "b62cde367340589644ccb4b77f72a499a414e8f6e9dfbc59a4db3b4bb2b81840"
+  },
+  "read_scope": {
+    "full_reread_chapters": [
+      133,
+      138
+    ],
+    "inherited_chapters": [
+      131,
+      132,
+      134,
+      135,
+      136,
+      137,
+      139,
+      140
+    ],
+    "inherited_byte_equality": true,
+    "inheritance_chain": "132/134/135/137/140继承复核2全文实读；131/136/139沿复核2记录继承复核1全文实读。八章均与复核2逐章SHA相等。",
+    "body_finished_before_editor_log": true,
+    "history_usage": "历史/复核2十章仅作字节比对和两句替换回放，不计额外全文实读。",
+    "not_read": "未重读130/074边界、141以后正文、新版卷纲/章卡/世界角色设定/连续性台账/作者裁定；资料冲突按既有已核记录保留。"
+  },
+  "sha_check_before": {
+    "at": "2026-11-07T12:39:37.328983+08:00",
+    "input_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed"
+  },
+  "sha_check_after_body": {
+    "at": "2026-11-07T12:41:32.726092+08:00",
+    "input_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed"
+  },
+  "manuscripts_stable": true,
+  "author_decisions_received": [],
+  "phase": "post_edit_recheck_3",
+  "verdict": "issues",
+  "fact_logic_verdict": "issues",
+  "reader_pull_verdict": "needs_revision",
+  "checkpoint_required": true,
+  "issues": [
+    {
+      "id": "R005-B14-I01",
+      "chapter": 131,
+      "severity": "严重",
+      "quote": "它背后是四个人的三十年。",
+      "problem": "三十年墙龄、被封经历与工龄仍混用；C02本地爆破十六年未获关系裁定。",
+      "suggestion": "保留作者裁定；不能全改16、制造更早封存，亦不能因本轮未改数字当批准。",
+      "needs_author_decision": true,
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote_chapter": 131,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I02",
+      "chapter": 130,
+      "severity": "严重",
+      "quote": "他在缝外的街面上，把一枚蓝色的旧扣件放在了窗台底下——放得端正，谁路过都看得见。",
+      "problem": "跨组完整蓝扣复用冲突没有新裁定；130/074不在本轮实读范围，仅继承初审登记，不冒充当前稿核证。",
+      "suggestion": "由主线程跨R004及130登记后请作者裁定；不虚构取回、新扣或挪用他人整扣。",
+      "needs_author_decision": true,
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote_chapter": 130,
+      "quote_scope": "initial_historical_boundary_not_reread_in_round3",
+      "read_basis": "inherited_historical_issue_only"
+    },
+    {
+      "id": "R005-B14-I03",
+      "chapter": 133,
+      "severity": "中等",
+      "quote": "阿九把灯凑近孔口。灯光落在孔沿上，照不出这股气流的方向。",
+      "problem": "133/137火苗及由火苗验风的子项关闭；灯种、数量、持有和能源链仍未核定。134吹熄可能属于固定棚灯，不能一律判成手摇灯错误。",
+      "suggestion": "只据已核物件区分随队灯与固定设施；灯源未定继续留口，不补燃料、不凭删除火焰替完整灯链验收。",
+      "needs_author_decision": true,
+      "previous_status": "open",
+      "status": "open",
+      "quote_chapter": 133,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-I04",
+      "chapter": 131,
+      "severity": "中等",
+      "quote": "那面墙上的一句话跟着他回去了：这段里该有四个人。",
+      "problem": "131错冒号/断句、相邻立路和到达重复已消除，岑野名单不再截断弥娅交代；132接纸起步、135听磕重启也已合并。关闭的是所列机械重复，不是全批AI腔。",
+      "suggestion": "保留已修句间承接；其他主题复述分别见I13/I23。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 131,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I05",
+      "chapter": 131,
+      "severity": "中等",
+      "quote": "什么时候钉的，得找人问；光看这几颗钉，定不了日子。",
+      "problem": "钉龄半年和半鞋印证明多次探看两项越界断言均撤；观察与待核已分开。",
+      "suggestion": "保留新钉与足印作为待问线索，不补锈龄算法。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 131,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I06",
+      "chapter": 132,
+      "severity": "中等",
+      "quote": "墙外五个人分了工",
+      "problem": "实际名单五人及两名听守者已区分；六字暗语不再称三个字。此项与全棚四十八口是否成立无关，不能连带关闭人口问题。",
+      "suggestion": "维持外侧五人、内侧编制四人两个范围；全棚人口另待作者裁定。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 132,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I07",
+      "chapter": 132,
+      "severity": "中等",
+      "quote": "三声轻敲，声与声之间停了两次。",
+      "problem": "码式记录与三轻两停一致；槐七认码段已在林渡回敲之前；三遍规律声不再直接确诊机器。镜片独证人的另一路越界仍归I08。",
+      "suggestion": "保留回敲前获得知识的顺序，不把镜片变化或年代引语当此项获证。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 132,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I08",
+      "chapter": 132,
+      "severity": "中等",
+      "quote": "一面巴掌大的旧镜片，一根细绳——从封墙侧边一道指宽的石缝里，把镜片吊了下去，吊在墙与地面的夹角处。",
+      "problem": "132挪动独证人/读懂意图已撤，133相接为待核变化；巴掌镜经过指宽缝的姿态、落点哪侧、照明观察路径仍缺。",
+      "suggestion": "不得补假几何、放宽石缝或新增灯；有既有依据再写清路径，否则由主笔提出撤镜证方案。",
+      "needs_author_decision": true,
+      "previous_status": "open",
+      "status": "open",
+      "quote_chapter": 132,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I09",
+      "chapter": 133,
+      "severity": "中等",
+      "quote": "这一句，第二天隔孔问出去，得到的回答是一个字：“井。”",
+      "problem": "133第二天问井后仍安排明天扩孔，跨日返回点不明；131凉时与初审资料热时差异未获裁定。本轮不重读时间线，换句不关闭日次问题。",
+      "suggestion": "作者确认各场日次后再标叙述返回点；不擅增删一天，不将气流措辞修正算成日次关闭。",
+      "needs_author_decision": true,
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote_chapter": 133,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-I10",
+      "chapter": 133,
+      "severity": "中等",
+      "quote": "孔打通了，气的账还没算清。",
+      "problem": "出孔→入孔的无证反转、火苗测风与章末气路已成均撤；现在仅确认孔通、有气流，方向及量待核。关闭断言错误，不是验收换气工程。",
+      "suggestion": "保留通孔与方向/量未知的界线；日次仍归I09，灯源归I03。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 133,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-I11",
+      "chapter": 133,
+      "severity": "轻微",
+      "quote": "林渡闻到一股潮旧布似的气味，很淡，没法再分出别的来源。",
+      "problem": "133闻到的来源限知仍在；135缺席杜姨的假想记忆及紧接主题翻译已删，改接两罐水、牵绳和滤件需求。",
+      "suggestion": "保留现场所闻和行动，不把杜姨补到孔边；不等于全批旁白已无修辞问题。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 133,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-I12",
+      "chapter": 134,
+      "severity": "中等",
+      "quote": "跟在你后头系绳的那个，过一个刻点就系一段。",
+      "problem": "小绳用位置和动作识别林渡，不再把祝衡腿伤移到系绳人身上。",
+      "suggestion": "保留131既有分工，勿为旧比喻新增腿伤。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 134,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I13",
+      "chapter": 134,
+      "severity": "轻微",
+      "quote": "纸条留给林渡，名册仍由他自己带着；",
+      "problem": "第二次次日报话预演已压，明暗主题收束已删；现留纸条、私持名册、仅送一程与交接条件，功能可以区分。原指定机械重复关闭，不宣称全章不可再压。",
+      "suggestion": "保留小绳不留名和仅送一程，不把一次帮忙写成常驻人手。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 134,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I14",
+      "chapter": 135,
+      "severity": "中等",
+      "quote": "数记对了，拿料的时候还得照这份尺寸核，别让人把它抹成整的。",
+      "problem": "回念仅证明零头记对，不再冒认阿九独立测量；配料仍是下一步核验。",
+      "suggestion": "保留尺寸来源和核料任务。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 135,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I15",
+      "chapter": 135,
+      "severity": "中等",
+      "quote": "三样记号先写进外侧的册子，下一班得带到孔边，让里头逐个核认，不能只凭外头定了就照用。",
+      "problem": "棚内定号和双方理解分开，两份的外侧保存位置已明示。关闭当前场景的未经送达完成态，不代表本报告证明日后实际核认已发生。",
+      "suggestion": "保留待核认任务；后续交接仍须据真实场景，不能拿此关单当墙内已签收。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 135,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I16",
+      "chapter": 135,
+      "severity": "中等",
+      "quote": "这次接管后的交接，林渡先递话，没有马上递水；先前对上的敲声还不能告诉他，里头的人此刻接不接得住。",
+      "problem": "第一次限定为本次接管交接，不再把135当全篇首次发现活人；本章真正新增的是接水、咳嗽及滤件需求。",
+      "suggestion": "保留新的伤情/需求升级，不撤133口答。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 135,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I17",
+      "chapter": 140,
+      "severity": "中等",
+      "quote": "少睡一段，也不能把两边的班一起顶上。",
+      "problem": "135明确不以伤手少睡填送水班，并保留滤件趟缺人；140允许即时报疲劳、交清换岗。原两条强撑指令均关闭；容量、替班和真实班表并未获证。",
+      "suggestion": "保留缺额，不凭拒绝加岗就认定有人接班；实际内外班表继续I25，不虚构人手。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 135,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I18",
+      "chapter": 136,
+      "severity": "中等",
+      "quote": "坡道一天过热汽两班，能走的时间窗就那两段；送一趟水占一个班，送粮送料另算。",
+      "problem": "息级汽循环、每日通行窗口和人工班仍共用班，缺少有效映射；十二息修正不等于窗口制度修正。",
+      "suggestion": "待作者确认原有时段规则与数据来源，再区分来退歇、可走时段、人工班；裁定前不得发明一天两班的依据或折算常数。",
+      "needs_author_decision": true,
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote_chapter": 136,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I19",
+      "chapter": 136,
+      "severity": "中等",
+      "quote": "这回来汽十二息——比数纸上的八息长了。",
+      "problem": "136与复核2字节相同：十二息实测及不偷换退汽的正文修复仍成立；初审/复核1所记台账十息口径未核齐，本轮未读新台账。",
+      "suggestion": "主线程出示对应时点资料与原始依据再复核；若触动已发生事实须作者裁定，不因文字已修覆盖台账。",
+      "needs_author_decision": true,
+      "previous_status": "open",
+      "status": "open",
+      "quote_chapter": 136,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I20",
+      "chapter": 140,
+      "severity": "中等",
+      "quote": "前一班送下的那对滤件，尺寸照你报的数备的。",
+      "problem": "136那对已承接，旧四班到140五天、期间消耗与暗补两班仍无时点/单位闭环。不能把四班自然理解成四天。",
+      "suggestion": "作者确认班的用量单位和报数时点、是否含已送一对及待补两班；暂不能算清则只保留料撑不到开门的压力，不自行换算或加余料。",
+      "needs_author_decision": true,
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote_chapter": 137,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I21",
+      "chapter": 138,
+      "severity": "中等",
+      "quote": "平常一个多时辰的坡，走了近三个。",
+      "problem": "慢行扶绳及伤势代价存在，但三时辰下坡与返程如何容纳每日汽窗仍不明；与I18共用日次/窗口裁定，不能假称有新安全窗口。",
+      "suggestion": "沿既有歇脚位及守数安排先核可行时段、返程交接；未裁前不新造通道/人员、不让夹板腿恢复。",
+      "needs_author_decision": true,
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote_chapter": 138,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-I22",
+      "chapter": 138,
+      "severity": "中等",
+      "quote": "受过潮的图有没有黏住，封进去的纸边还受不受得住卷折，都不是隔着这一声回答便能看见的。",
+      "problem": "138本轮实读仍仅听报、未亲见未取；初审所记台账亲眼核两匣/湿布缓气与正文冲突未裁，本轮没有重读台账版本。",
+      "suggestion": "核原条目来源后请作者处理，不能倒补亲见或湿布动作迁就台账。",
+      "needs_author_decision": true,
+      "previous_status": "pending_author",
+      "status": "pending_author",
+      "quote_chapter": 138,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-I23",
+      "chapter": 138,
+      "severity": "轻微",
+      "quote": "今天不取。匣先在，账先记。",
+      "problem": "首次提前交代带话者未取的重复段已删，中段不填日期已撤；现在保留首核匣位、停问决定、结尾交纸纠偏，各有任务，原重复闭合问题可关。",
+      "suggestion": "保留受潮未知与带话澄清；N02已关闭句法问题，不再要求重修该句，也不删除信息来源边界。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 138,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-I24",
+      "chapter": 139,
+      "severity": "轻微",
+      "quote": "本人应的三人，其中老工师、阿苗口应，老赵敲应；代报的一人，是老陈，凭旧表；听不清的，无。",
+      "problem": "顶层三栏一致，口应和敲应为子类；伤情来源、旧表归还及未知第五人边界未丢。",
+      "suggestion": "保留此分类与来源，整棚人口另议。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 139,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I25",
+      "chapter": 140,
+      "severity": "中等",
+      "quote": "她按班表跟阿九留在墙外，接手向孔里递工具的活。",
+      "problem": "小石留外侧递具不退回旧位置错误；三人一班、两班一轮仍未拆墙内轮锤与墙外递具/记录，伤情和真实人手能否支撑未明。",
+      "suggestion": "凭既有人物与岗位核实际班表；不加工人，不让外侧人穿墙顶内侧班，未能落实就保留缺额。",
+      "needs_author_decision": true,
+      "previous_status": "open",
+      "status": "open",
+      "quote_chapter": 140,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I26",
+      "chapter": 140,
+      "severity": "中等",
+      "quote": "送水班仍按一日一趟排，跟凿墙错峰；照护和轮值不动。",
+      "problem": "不再把136已有频次包装成本章降频腾人的措施。该笔措辞错误关闭；人手缺额和三人班表仍在I17/I25，不因仍字而消失。",
+      "suggestion": "保留维持频次表述，另据真实交接排缺额。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 140,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I27",
+      "chapter": 140,
+      "severity": "中等",
+      "quote": "整匣图纸没能隔着孔递出来。",
+      "problem": "整匣未出与外侧阅图主语维持修复；旧投料口/新孔、裁卷、前一天递出和本日展开的路径日次接口仍未核明。",
+      "suggestion": "依据既有事件澄清具体哪个孔/哪天/谁接；日次未裁不补新搬运、不虚构看过整匣。",
+      "needs_author_decision": true,
+      "previous_status": "open",
+      "status": "open",
+      "quote_chapter": 140,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I28",
+      "chapter": 140,
+      "severity": "严重",
+      "quote": "老工师告知，外侧尚待验看。",
+      "problem": "绝对不塌保证已删，但139外侧尚待验缝、两样对不上不下锤与140已开凿之间，仍缺验缝结果、撑顶到位及里侧核线交接。列材/敲墙看图不是全部前置完成。",
+      "suggestion": "先核已有验缝、安装及核线事实；无证不能补一句已验稳、不能新造承重构件。删断言不等于工程验收，继续checkpoint。",
+      "needs_author_decision": true,
+      "previous_status": "open",
+      "status": "open",
+      "quote_chapter": 139,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I29",
+      "chapter": 140,
+      "severity": "严重",
+      "quote": "老工师、阿苗的口应和老赵的敲应仍算本人应，老陈那行仍是代报。",
+      "problem": "四行不再全当代报，开门不预支老陈恢复本人应；与139分类连续。",
+      "suggestion": "保留随人交接时逐个核问，勿拿获救替伤病恢复。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 140,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I30",
+      "chapter": 140,
+      "severity": "中等",
+      "quote": "他听到的咳嗽轻了些，至于里头的人是否好转，还得等下一班逐个问。",
+      "problem": "咳轻仅为所闻，不再证明供气充足/伤病解决。闭合的是因果确定性，非气路工程/滤件余量。",
+      "suggestion": "保留下一班核问，不将物资到位自动等同康复。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 140,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I31",
+      "chapter": 135,
+      "severity": "轻微",
+      "quote": "咳完，里头又传来一个含混的音，字咬不清。林渡没有替它猜出一句话",
+      "problem": "135听不清译成两套台词未恢复；字面“像是”仍1处。维持原语言子项关闭，不替其他旁白总验收。",
+      "suggestion": "保留不猜台词的反应；别以同义像字补回密集解释。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 135,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "inherited_v2_full_read_sha_equal"
+    },
+    {
+      "id": "R005-B14-I32",
+      "chapter": 133,
+      "severity": "轻微",
+      "quote": "松下来的砖仍要接住，不能往气道里掉。",
+      "problem": "无落点三项清单和过三遍已压，留下接砖保气道等实际约束；不据此确认140施工前置齐备。",
+      "suggestion": "保留有效约束，不恢复空泛验证次数。",
+      "needs_author_decision": false,
+      "previous_status": "closed",
+      "status": "closed",
+      "quote_chapter": 133,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread"
+    },
+    {
+      "id": "R005-B14-N01",
+      "chapter": 133,
+      "severity": "轻微",
+      "quote": "孔里轻轻回了两下。",
+      "problem": "“轻轻地”放在“两下”前，副词与数量短语搭配不顺。",
+      "suggestion": "保留当前修法，无需再改；只关闭本句语言问题，不连带关闭气流、日期或工程问题。",
+      "needs_author_decision": false,
+      "previous_status": "open",
+      "status": "closed",
+      "quote_chapter": 133,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread",
+      "original_quote": "孔里回了轻轻地两下。",
+      "resolution": "状语前置后顺畅；两下应答、交班约定未变。"
+    },
+    {
+      "id": "R005-B14-N02",
+      "chapter": 138,
+      "severity": "轻微",
+      "quote": "林渡点头，把“往后递档，让他写，别让他说”记进要带回棚里的话。",
+      "problem": "“将这句带回话里的次序”缺清楚的支配关系，读者要回读才能明白记录的是少说话、改书写的提醒。",
+      "suggestion": "保留当前修法；不将记录提醒当作实际送达、取档成功或日次/汽窗问题关闭。",
+      "needs_author_decision": false,
+      "previous_status": "open",
+      "status": "closed",
+      "quote_chapter": 138,
+      "quote_scope": "current_working_manuscript",
+      "read_basis": "round3_full_reread",
+      "original_quote": "林渡点头，将这句带回话里的次序写清。",
+      "resolution": "中文双引号内明确记录少说话、改书写的原有提醒；只是记入要带回的话，未新增已经送达或已完成递档的事实。"
+    }
+  ],
+  "issue_status_counts": {
+    "pending_author": 7,
+    "open": 6,
+    "closed": 21
+  },
+  "new_issues": [],
+  "editor_log_comparison": {
+    "path": "harness/maintenance/R005/edits.json",
+    "sha256": "ae3618539788b7e8144934771e1d8c7a2c5c5d1cfa09ea68e5d86e7d2727305f",
+    "read_entries_1_based": [
+      220,
+      221
+    ],
+    "changed_chapters": [
+      133,
+      138
+    ],
+    "exactly_two_logged_replacements": true,
+    "other_eight_same_as_v2": true,
+    "history_snapshot": "harness/maintenance/R005/B14/review-v2/snapshot.json"
+  },
+  "chapter_reading_evidence": [
+    {
+      "chapter": 133,
+      "quote": "孔里轻轻回了两下。",
+      "finding": "两下应答顺畅；孔通与气流方向/量未核分开，人手到顶及交班约定仍在。",
+      "continue_at": "字条末尾一行：送水的班排下去之前，别再加岗。",
+      "reader_hesitation": "第二天问井后又排明天扩孔，仍卡在I09日次；不另造新问题。"
+    },
+    {
+      "chapter": 138,
+      "quote": "林渡点头，把“往后递档，让他写，别让他说”记进要带回棚里的话。",
+      "finding": "记录对象清楚，只记提醒，未新增送达或递档结果；两匣仍未见、未取。",
+      "continue_at": "档的事，容我想想怎么递。它比水沉，比水脆。",
+      "reader_hesitation": "三时辰慢行和返程如何适配汽窗仍不明，保持I18/I21，不因病句消除而通过。"
+    }
+  ],
+  "norm_comparison": "十类高频与五类AI腔完整证据引用复核2报告；八章同字节继承，两章全文重读及精确两句差异确认原处置不变。N01为状语位置，N02为支配关系；现句均闭合，本轮未确认新增规范问题，不把双引号内必要复述机械判为AI腔。",
+  "pending_author_topics": [
+    "三十年墙龄/被封经历/工龄与C02十六年前本地爆破关系",
+    "完整蓝扣074入口留置与130/台账复用的跨组冲突",
+    "日次、汽窗/人工班、滤件余量与消耗",
+    "伤腿慢行及返程可行性",
+    "两匣亲见/听报及湿布动作的跨资料冲突",
+    "C01—10、全棚人口/失联归组、水与霉瓮可饮量：均无新裁定，不能由本轮关单带过"
+  ],
+  "safe_direct_fixes": {
+    "completed": [
+      "R005-B14-N01",
+      "R005-B14-N02"
+    ],
+    "newly_confirmed": [],
+    "note": "本轮实读没有确认新的可安全直改语病。原open不得靠补几何、人手、灯燃料、工程前置或日次“修顺”。"
+  },
+  "reader_review_path": "harness/maintenance/R005/B14/reader-review3.json",
+  "reader_review_counts": {
+    "pass": 46,
+    "needs_revision": 6
+  },
+  "reader_review_structural_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "next_step": "保留checkpoint；未决事实交作者/主线程核原依据，不发布、不跑gate/close、不改正文。",
+  "completed_at": "2026-11-07T12:45:59.558831+08:00",
+  "sha_check_after": {
+    "at": "2026-11-07T12:45:59.558831+08:00",
+    "input_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed",
+    "all_ten_equal_to_read_before": true
+  },
+  "prior_reports_and_history_unchanged": true,
+  "editor_log_unchanged": true,
+  "sha_check_after_reports": {
+    "at": "2026-11-07T12:45:59.561834+08:00",
+    "input_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed",
+    "all_ten_equal_to_read_before": true
+  }
+}

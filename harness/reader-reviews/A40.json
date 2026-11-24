@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root",
+  "reviewer": "/root/a40_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 491,
+      "path": "异星录/06_执行计划/工作区/A40/第491章_少站在一扇门里.md",
+      "sha256": "1fb07d711d2318e8394574b76b1b846d09fce51af65f7f537e4debbc50313b49"
+    },
+    {
+      "chapter": 492,
+      "path": "异星录/06_执行计划/工作区/A40/第492章_不拿人填那一栏.md",
+      "sha256": "7f53a5a758da83bb2ed5d23bf955347806966208637b43d9b4fbdd9f77dd146d"
+    },
+    {
+      "chapter": 493,
+      "path": "异星录/06_执行计划/工作区/A40/第493章_沿着背山那一面.md",
+      "sha256": "deccab89e0b346c1e92853a3749f5ccd3ff7f41ec00af765a06e96612a6ac1d9"
+    },
+    {
+      "chapter": 494,
+      "path": "异星录/06_执行计划/工作区/A40/第494章_把去处留空.md",
+      "sha256": "add0b749209bb0a1a4c6d8716208173aff261602c227d4a6d659a27523ee4e74"
+    },
+    {
+      "chapter": 495,
+      "path": "异星录/06_执行计划/工作区/A40/第495章_各留一个能问的人.md",
+      "sha256": "8a3bd419bfbfd4ea48383a9f8f8d09449a44788981e05ec7542b3666e483ee2f"
+    },
+    {
+      "chapter": 496,
+      "path": "异星录/06_执行计划/工作区/A40/第496章_先把路走完.md",
+      "sha256": "631d187dbb0fbd902109fc219588fb058098baebe0594286f0d350a9c4601c19"
+    },
+    {
+      "chapter": 497,
+      "path": "异星录/06_执行计划/工作区/A40/第497章_风把绳留给谁.md",
+      "sha256": "9e1fe603061f8dbefa6d296ed30903b6bbf3e9371921a19846e61d075d6b1daf"
+    },
+    {
+      "chapter": 498,
+      "path": "异星录/06_执行计划/工作区/A40/第498章_请你把话收回去.md",
+      "sha256": "5518a391dd8b33743544dd997b7fa6c14025c1b660f9a4ce14af4f2027060c9c"
+    },
+    {
+      "chapter": 499,
+      "path": "异星录/06_执行计划/工作区/A40/第499章_回到哪一根柱.md",
+      "sha256": "9521ba83040d9dcaed11f9a17dad995d8e6dbd303c98fbf47168b5136c225113"
+    },
+    {
+      "chapter": 500,
+      "path": "异星录/06_执行计划/工作区/A40/第500章_他们念出了她的名字.md",
+      "sha256": "9f0fad5405f316175cd2d63a896671ef59fabed31d792866debd14bbd9b824c6"
+    }
+  ],
+  "source_digest": "9d9bc7c04dd4e28bd170393415c2a0cdd20b3f6213a94179f167e719d180cd23",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 491,
+      "quote": "凡往里边走的包，都得先说船号。",
+      "reason": "守阶人把船务规则套在白礁随身铺卷上，开场让读者看见新岗接手后谁眼下过不去。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 491,
+      "quote": "林渡把摆在干格边的墨移到桌外，请那人先写明要查哪一艘船。",
+      "reason": "面对新岗要抄五个人的姓名，林渡以船的实际核查对象界定对方权限，护住仍在小站做工的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 491,
+      "quote": "守窗人便从下格将那份摹记亲手递回给他，写明退到林渡手中。",
+      "reason": "可转摹记由保管窗真实退回，林渡和白礁的两个去处从此可各自核查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 491,
+      "quote": "白礁将样夹收进衣里，在第二根柱前抬起头来，答站这里能听见，往外再一步水声就盖了过去。",
+      "reason": "白礁新落脚处有实际可听见来访的边界，读者和他一起确认终于有一处可以坐下、还能答话。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 491,
+      "quote": "来人将纸折上去一层，只请林渡明天和曲荻到仓外看。",
+      "reason": "新岗未能从护送联抄人，下一回将在第一船的仓口把旧账和能答话的人重新拴在一起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 492,
+      "quote": "她把定票回签举起来，问今日说的是退钱，还是要带走原来答话的人。",
+      "reason": "空凳被拖进栏内，原签已成退钱的条件，曲荻开口便把钱和人放到不同的问项。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 492,
+      "quote": "钱和货各找原来的手。人是自己来答一行，愿意走也自己走。",
+      "reason": "林渡拒绝替曲荻或证人作留人的承诺，愿承担退项仍冻结和航绳无法换新的代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 492,
+      "quote": "原退夹人把借过的长凳推回墙下，想了很久，才说愿带自己那张能复问的副纸过去，让原来同号的证词仍从这张抄里核。",
+      "reason": "人证在独立可问的前提下主动确定去向，小港方案由提议变成已有人愿动身。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 492,
+      "quote": "她在外夹摸到原船员留给她比股数的那截绳尾，先把绳尾取出来，再将回签夹回衣里。",
+      "reason": "曲荻用收回回签和留下绳尾让读者感到退票失败的实际损失，她保住了原签，下一程却得用旧绳。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 492,
+      "quote": "次日谁真能从门外送出去，要先走过背山那两处没有大件可停的平石。",
+      "reason": "下一步可当场验证谁能带证人到小港，背山路上的平石给这个承诺一个明确难点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 493,
+      "quote": "前面那一块石头旧时露出半掌长的边，今天砂土从上面散下来，遮住了原来的脚点。",
+      "reason": "立刻能知道三人遇到的是脚点可能失稳，绕陆路的代价到手可摸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 493,
+      "quote": "林渡说包由他自己拿，脚下出问题先护人退。",
+      "reason": "林渡没有把递证优先于证人的自主和安全，他重新布置借板、人和行李的位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 493,
+      "quote": "三个人中留一位在这里。林渡同小工就在外面留给走路人的壁檐下歇了一夜。",
+      "reason": "原退夹人已经实到并决定留下，送他的人只在外檐过夜，次凉回原港还板。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 493,
+      "quote": "林渡看见那人将自己的牌解下，挂到枕边一根伸出来的旧钉上。",
+      "reason": "老人把名字留在自己枕边，无须抵给别人便能睡下，也能在后续按本人意愿答话。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 493,
+      "quote": "明早该去看另一条路，那条路若真通，自己得想好谁来做活的经手。",
+      "reason": "陆路已接住证人，下一条回栈城的航路还要确认能否通、由谁接手物证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 494,
+      "quote": "里泊的短签本来只够递一盒饭，今日有人在下面多画一道线，问还能接一名从栈城来的见证人。",
+      "reason": "窄小的送食例外一上来便要扩大成登记见证人，风险压在仍被扣的第一船旁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 494,
+      "quote": "“哪一条准走，谁看水？”林渡说。",
+      "reason": "林渡要求对方明确实路与经手，拒拿栈城冷却材料换一张仍无人验水的纸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 494,
+      "quote": "两人今早先去了沿潮港另一家有水条的私仓，实付自己的票添一罐处理水，请岸上的收水人同去看起封记。",
+      "reason": "第二船取得独立补水，罐仍留岸守封，待现场验靠才抬，给小船可行但未兑现的回程条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 494,
+      "quote": "林渡听他把这话说完，没替他多留一个行位。",
+      "reason": "首船原舵手留下逐班照料船工，林渡接受他自己的责任取舍，避免把能走一趟当成所有人都该走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 494,
+      "quote": "后天外岩若见得清两块石，他再到这里来，今晚先得把她留下来要做的每一件听完。",
+      "reason": "两块岩能否同见决定窗口，今晚则先落定弥娅是否留港以及分别承担什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 495,
+      "quote": "弥娅把两只水壶分到桌子的两端，只留下一个地方压船上的四个名。",
+      "reason": "桌上两端与四个名字先摆出两个去处，几句之内读者便能点清船上只有谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 495,
+      "quote": "“你先过。”她对林渡说，“到岩上先去看人。站稳了再叫值守岗报话。”",
+      "reason": "弥娅留下应对撤证压力与守原声片，让林渡带着实证去接本地人线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 495,
+      "quote": "弥娅这边留下原声片、坏表、档片匣和钥匙，护送总联也还在她自己的干套里。",
+      "reason": "一旦船发，湾两边可独立查证的材料与看守者已实际分开，读者知道哪一件会留在她身上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 495,
+      "quote": "她落名时把纸顶出一道折，他没有把那道折压回去。",
+      "reason": "林渡接下她留在对岸的笔迹与空白日期，纸折替不知何时再见的两个人留下可见情绪。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 495,
+      "quote": "他没有先伸手合窗，还听得见她在廊下向下一班人问，谁能在他看不见的时候从这里把她接过去。",
+      "reason": "分开的实际后果从一趟候船延伸到他离开后谁还肯护弥娅走下几块板。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 496,
+      "quote": "要跨那一级，得从能看见窗台的人中间先让一个抱着伤腿的孩子过。",
+      "reason": "第二幅布未出，窄阶先出现需搬运的伤腿孩子，出港窗口的短和先护人同时可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 496,
+      "quote": "林渡眼看再等半阵，船后那块低石会被水遮上，仍请曲荻把贴水的一侧让干净。",
+      "reason": "他按涨水判断窗口损失，仍先清出孩子的路，主动承担这一班可能发不了船。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 496,
+      "quote": "两幅白布全撤，短绳脱回船头。",
+      "reason": "两名原船员、林渡和曲荻在实点名单与单次凭以后真正离开旧踏面。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 496,
+      "quote": "弥娅在较高一级伸手替他把落下一角的衣襟按回吊带，手到船沿以前就收开。",
+      "reason": "她仍能帮他护住伤臂衣襟，最后一手停在船沿外，上一章的分岸变为眼前不可拖延的告别。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 496,
+      "quote": "前头船员叫她看远岩的位置，这一班只认离港到这里，外海须等翌凉。",
+      "reason": "出港已成，旧线第二道窗口、余绳和夜里起风决定会不会滞在熟水锚地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 497,
+      "quote": "夜里锚绳磨得过响，林渡醒过来时，两名船员已经将各自的鞋搁到顺手的地方。",
+      "reason": "声音和船员随时起身的准备在见到外礁条件前提示风浪正升级。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 497,
+      "quote": "他把左脚从原位伸出来，抵住那只放自用水的罐，叫船员自己去够刀。",
+      "reason": "林渡根据左掌旧伤与眼前易倾的航水罐分配自己的力，让有手的人去释放会伤人的桨。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 497,
+      "quote": "板向外翻起半面，没跟着舷角压回去，随水滑到船后。",
+      "reason": "旧护板不可逆地失去，帆与桨得以解脱，但过浪、遮热和上岸都需要新的分工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 497,
+      "quote": "小时候从下面看，层层板子把光隔出一道道暗边。从海上看过去，少掉的一截更多。",
+      "reason": "三天旧线跋涉终于看见家乡的轮廓，熟悉视角一换，过去的坍塌也显出真实损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 497,
+      "quote": "他把旧夹托回自己胸前，只在当日那一栏写见城未靠，留一格给明日谁来岸上认。",
+      "reason": "已经看见城仍不能签收，读者要等岸台确认短靠和真正接人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 498,
+      "quote": "一张写好让弥娅撤回证词的纸摆在旧窗下，下面已经留了她的名。",
+      "reason": "预填名字把港内要求从暗示推向眼前的签字动作，立即建立她还愿不愿坚持亲证的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 498,
+      "quote": "“声片归我。”弥娅用指背抵住预先抄下的姓名，“已经许人复读的，各找本人。要我收回哪一句，请你在这里读。”",
+      "reason": "她要求当面读明被撤的一句，自护原声片并保留其他经手的复核权，明知失去许诺的续护便利也不签。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 498,
+      "quote": "驻台人将匣子锁入干柜，回到窗边报明日宣读。",
+      "reason": "潮庭公船到港交出原封来件，原本口头和条件式的施压旁出现一项能核时刻的官方程序，内容留待翌日。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 498,
+      "quote": "送纸人撕下自留的报送条，把写着实见本人、未交声片的那半张交给她。",
+      "reason": "预填姓名本可把她的沉默写成同意，她把公开拒交变成自己实持的一张回记。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 498,
+      "quote": "外台的干柜已锁上，驻台人亲收的那只匣要等明日才有人来读。",
+      "reason": "已有见证人与宣读时刻，想追问谁被点名和沿潮港次日哪处权利会改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 499,
+      "quote": "栈城的第一幅白布立起来时，林渡正替曲荻按住包角。",
+      "reason": "接上497见城未靠的等候，第一布已见，第二布与可以退脚的石阶尚未出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 499,
+      "quote": "他没急着转身去接曲荻，先到高一点的石让出中阶。",
+      "reason": "林渡按残舷与窄中阶分两次离舷，压住左掌麻后的本能回身，先给曲荻腾退路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 499,
+      "quote": "林渡从一端跨上栈城的干阶。",
+      "reason": "读者看到实际跨上栈城的那一步，之后曲荻到岸、两原船员回外锚、三层副件实接按顺序发生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 499,
+      "quote": "孩子小声笑了一下，姨母叫他别牵着脚，自己把另半段布压到托面边。",
+      "reason": "短靠的奔波回到岸棚照护，孩子先留意林渡的伤，林渡逗他笑，脚上的旧伤与姨母的日常依然有重量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 499,
+      "quote": "山口值守人收了要报已到的短联，今凉没有开外线，下一次实试才会拿给对岸。",
+      "reason": "已抵达的事必须等下一次实发，能追问分在两岸的两人哪天各自听到什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 500,
+      "quote": "开窗的人没有先叫弥娅。她站在沿潮港外侧值守台的帆下，听见管公文的驻台人念昨日实收的一只封匣。",
+      "reason": "迟来的点名和昨天亲收的封匣一起接住498未开封的期待，弥娅在人群里承受会被宣读的风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 500,
+      "quote": "声片在我手上。可复核的纸找每一位持的人，你现在可以记我没交。",
+      "reason": "她在判决后仍具体区分自持声片与他人材料，拒交在她眼前被正式记下，选择直接承担撤护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 500,
+      "quote": "她带着纸往那段本来走过的旧阶迈了一步，护岗把原先牵起短绳的手放了下去，挡到第一级。",
+      "reason": "同一个人拿着曾可过阶的纸当场被拦，候泊和货栏扣问申说也分别实际停办。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 500,
+      "quote": "脚可以落到石上，绳却没有放开。",
+      "reason": "水退了仍无法过阶，读者看见制度造成的阻隔，先前共同守板的妇人随即伸手带她走侧路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 500,
+      "quote": "下一次他们要问粮药从哪一段过去，也得先找到还肯答应接绳的人。",
+      "reason": "人已有短退路，六卷要在失去官方引护之后验证药粮能否借当面接绳过水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 500,
+      "quote": "桑佑照原字念，潮庭以擅传资源档案、背离保密责任定罪，正式宣布测潮员弥娅为叛徒。",
+      "reason": "493先兑现分散一名活证人，499把旧航路真正接到栈城，500公开核原件、宣读、撤护实拦，为保护会不会失效这一主承诺交付了现场结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 500,
+      "quote": "西台妇人正在另一道帘后，从平时提水去外廊的小路探出手，叫她将包收紧，那里过一个人还够。",
+      "reason": "从冻结货款、挪走证人和两人分岸，升级到一项已执行的正式处置。港人此刻只保得住一人穿过的短路，六卷粮药压力和外港逐处实收由此承接。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

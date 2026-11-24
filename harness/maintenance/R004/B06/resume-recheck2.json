@@ -1,0 +1,2042 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "id": "R004-B06",
+  "review_phase": "resume-recheck2",
+  "date": "2026-11-06",
+  "reader_policy_version": 1,
+  "writer": "/root",
+  "reviewer": "01a1b002-648c-7311-a0a2-647911278770",
+  "agent_id": "01a1b002-648c-7311-a0a2-647911278770",
+  "independent": true,
+  "body_first": true,
+  "body_first_note": "原独立读者接续修后短复核，未参与正文改写。初轮正文优先与后续真实阅读记录保留；本轮先完整重读054及053末/055开头，再核日志第56条。其余九章SHA与resume-recheck完全一致，继承其实际已读判断，不声称本轮重新盲读全十章。",
+  "manuscripts": [
+    {
+      "chapter": 51,
+      "path": "异星录/正文/第一卷_热海坠城/第051章_湿木桩.md",
+      "sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065"
+    },
+    {
+      "chapter": 52,
+      "path": "异星录/正文/第一卷_热海坠城/第052章_身后的平台.md",
+      "sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648"
+    },
+    {
+      "chapter": 53,
+      "path": "异星录/正文/第一卷_热海坠城/第053章_两条路线.md",
+      "sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8"
+    },
+    {
+      "chapter": 54,
+      "path": "异星录/正文/第一卷_热海坠城/第054章_上方截击.md",
+      "sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef"
+    },
+    {
+      "chapter": 55,
+      "path": "异星录/正文/第一卷_热海坠城/第055章_备用缆绳.md",
+      "sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a"
+    },
+    {
+      "chapter": 56,
+      "path": "异星录/正文/第一卷_热海坠城/第056章_黑暗缺口.md",
+      "sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2"
+    },
+    {
+      "chapter": 57,
+      "path": "异星录/正文/第一卷_热海坠城/第057章_封锁网.md",
+      "sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5"
+    },
+    {
+      "chapter": 58,
+      "path": "异星录/正文/第一卷_热海坠城/第058章_违令切网.md",
+      "sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6"
+    },
+    {
+      "chapter": 59,
+      "path": "异星录/正文/第一卷_热海坠城/第059章_黑潮遮城.md",
+      "sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9"
+    },
+    {
+      "chapter": 60,
+      "path": "异星录/正文/第一卷_热海坠城/第060章_断阶下缘.md",
+      "sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69"
+    }
+  ],
+  "source_path_mapping": [
+    {
+      "chapter": 51,
+      "path": "异星录/正文/第一卷_热海坠城/第051章_湿木桩.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+      "sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065"
+    },
+    {
+      "chapter": 52,
+      "path": "异星录/正文/第一卷_热海坠城/第052章_身后的平台.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+      "sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648"
+    },
+    {
+      "chapter": 53,
+      "path": "异星录/正文/第一卷_热海坠城/第053章_两条路线.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+      "sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8"
+    },
+    {
+      "chapter": 54,
+      "path": "异星录/正文/第一卷_热海坠城/第054章_上方截击.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+      "sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef"
+    },
+    {
+      "chapter": 55,
+      "path": "异星录/正文/第一卷_热海坠城/第055章_备用缆绳.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+      "sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a"
+    },
+    {
+      "chapter": 56,
+      "path": "异星录/正文/第一卷_热海坠城/第056章_黑暗缺口.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+      "sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2"
+    },
+    {
+      "chapter": 57,
+      "path": "异星录/正文/第一卷_热海坠城/第057章_封锁网.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+      "sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5"
+    },
+    {
+      "chapter": 58,
+      "path": "异星录/正文/第一卷_热海坠城/第058章_违令切网.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+      "sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6"
+    },
+    {
+      "chapter": 59,
+      "path": "异星录/正文/第一卷_热海坠城/第059章_黑潮遮城.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+      "sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9"
+    },
+    {
+      "chapter": 60,
+      "path": "异星录/正文/第一卷_热海坠城/第060章_断阶下缘.md",
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+      "sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69"
+    }
+  ],
+  "source_digest": "932d4ccba0c1790bf8fcdf36285dace20f19aa2091dcf5c5ed7aa7c5af840d09",
+  "input_digest": "932d4ccba0c1790bf8fcdf36285dace20f19aa2091dcf5c5ed7aa7c5af840d09",
+  "digest_algorithm": "sha256(json.dumps([{chapter,path,sha256},...], ensure_ascii=False, sort_keys=True).encode()); manuscripts.path为正式发布目标，sha256来自source_path_mapping对应工作稿；映射不进入三字段摘要。",
+  "publication_status": "not_published; manuscripts.path为正式发布目标，sha256来自source_path对应工作稿，不代表正式目标已被写入该版本",
+  "verdict": "pass",
+  "body_verdict": "pass",
+  "fact_logic_verdict": "pass",
+  "attraction_verdict": "pass",
+  "prose_verdict": "pass",
+  "verdict_note": "RR-N01已据实际场景重读关闭，正文、事实/逻辑、语言规范和吸引力分别通过。初审20项、首轮RF-N01—04及RR-N01合计25项均闭，本轮没有新问题。签字仅绑定当前十章工作稿字节；不代替WB独立审读、维护门禁或正式发布。",
+  "reader_one_sentence": "众人沿外壁把伤员送进断阶下缘，以重伤、工具失用和身份通缉换来局部救援成功，却因门内容量和断口被迫分隔；接下来要查证无面者所指位置并重新接人。",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 51,
+      "quote": "外壁第一根木桩湿得发亮。",
+      "reason": "第一句给出脚下材料异常，随后敲桩塌响与“不能挂人”把上章绕行承诺立刻变成承重压力，不先讲外壁沿革。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 51,
+      "quote": "林渡让抬担架的人先蹲下，把重量落回横撑，不要悬在绳上等。",
+      "reason": "他把拥堵改成落梁分批，拒绝让绳悬整队；这是结构判断和组织选择，不是任意搬运工只顾向前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 51,
+      "quote": "少了一个完整的搬运人，之后每副担架都得多换一次手。",
+      "reason": "裴七浅伤、盐药污染报损和额外换手把试通路线的成本留到后续；不是换一个地名重复攀行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 51,
+      "quote": "“我在后面看你的脚。前面有人接。”",
+      "reason": "孩子问会不会掉，林渡给可兑现的前后接应而非绝对保证。孩子试脚失败仍被等候，是灾难中可信的小回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 51,
+      "quote": "裴七还在旧板上扶尾，林渡转身去接他的手，脚底却先向海侧滑了半步。",
+      "reason": "末两段的桩群下沉与林渡接手失败并行：担架和裴七谁先救、怎样不连带坠落，形成世界危险与人物行动双层问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 52,
+      "quote": "裴七站在平台最外沿，双手扶着最后一副担架的尾杆。平台先从他的脚下掉下一角，随后整块向海侧翻去。",
+      "reason": "立即兑现051塌平台，不用回顾拖延；脚下翻板和夹腿把危险落实到具体人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 52,
+      "quote": "“杜姨，先退回内撑。岑野别拉，先抬头。”",
+      "reason": "林渡先处理挂住的担架，腾出救裴七的通道，再绳套提肩、扳手撬板；在两项救援互相妨碍时作排序。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 52,
+      "quote": "后方已没有回路。冷凝灯照出一块陡直截面，木板深处排列着整齐黑孔。",
+      "reason": "人救回但裴七重伤、尺裂加深、回路消失，断面给出待鉴别黑孔；救援同时改变资源与调查方向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 52,
+      "quote": "“少我一个，谁抬？”\n\n“换手。”",
+      "reason": "裴七担心成为负担，回答把代价分摊给队伍而不是抛下他；救回不是无伤复原，读者能获得实在的互助回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 52,
+      "quote": "林渡没有回身去追，只让小石把这一声和落粉的方向都记住。",
+      "reason": "结尾孔内刮擦、黑粉落下是具体异常；林渡仍选先搬伤员并留方向，下一步查哪个孔、如何兼顾救援都有对象。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 53,
+      "quote": "海侧一路旧绳桩较密，桩下却只剩容一只脚侧放的木沿；靠山一路有几段宽梁伸入石壁，梁与梁之间缺了铺板。",
+      "reason": "前几句把两路各自的不安全写成可比较空间，裴七重伤紧接其后；选路压力没有被路线名词遮住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 53,
+      "quote": "“海侧走能侧身的人，你带。”林渡说，“担架跟我在靠山一路走梁。到暗口先报位置，不进深处。”",
+      "reason": "林渡接受热流与承重不能由一人包办，分队但限定汇合和回报位置；关系通过共同风险而非口头和解推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 53,
+      "quote": "一根斜梁从岩角外的旧架上滑下，左端压住海侧绳架，右端卡在靠山梁头。",
+      "reason": "两条可分走的路被同一落梁重新耦合，第三支点和海侧限位因此成为双方合作的必要条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 53,
+      "quote": "“我守海侧端。你先送担架。”",
+      "reason": "弥娅主动承担滞留，林渡要求绳架动就退；读者看到争执转成互相有停止权的信任，不靠感情解说。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 53,
+      "quote": "林渡伏住担架。斜梁之上，有人把枪口伸出了栏杆。",
+      "reason": "担架尚未完全过梁时出现枪口，伏住的动作把下一章问题限定为枪下转运，非可随便更换的神秘敌人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 54,
+      "quote": "枪口从斜梁上方伸出，离伏着的林渡并不远。",
+      "reason": "首句接053枪口，随后三人高架封住缺口、担架不能掉头，压迫不被命令背景拖慢。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 54,
+      "quote": "林渡叫停了一瞬。他让前端偏向外侧一点，腾出腿边的空隙。",
+      "reason": "枪下仍为裴七被碰的腿叫停；林渡不拿追兵替粗暴转运开脱，祝衡则通过违令枪击为选择争时间。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 54,
+      "quote": "他的印记亮红，枪身重新传来锁紧的声响。",
+      "reason": "短暂准用结束、枪重锁，祝衡又添左腿伤并被认出；名单残页已交林渡，行动和证据成本都留下来。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 54,
+      "quote": "林渡听不清姓氏，只听见他问：“已撤离，为什么后面还写不得回收？”",
+      "reason": "祝衡家属的撤离承诺在纸上破裂，随后击纸、举制式牌报自己姓名而非向居民开枪，形成可读的站队回报。本轮删除湿布句的假想能力辩护后，孩子趁隙入暗口直接接祝衡公开位置，情绪由选择及伤手发抖传达，未削弱站队代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 54,
+      "quote": "现有主绳留在了断梁上；若要把后面的人送进更深的缺口，他们还得从追踪光底下取回下一条路。",
+      "reason": "世界压力是追踪灯逼近且支点绳不能全收，人物下一步是取维护架缆绳；结尾直接生成055任务。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 55,
+      "quote": "暗口前的维护架上，挂着一卷缆绳。",
+      "reason": "首句给目标，紧接压扣、蜂鸣和缺踏板说明够不着且会暴露，接住054新绳任务而非另起支线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 55,
+      "quote": "“卷别管，先解脚！”",
+      "reason": "林渡从收绳卷改抓麦穗保险，允许卷重落到独立落卷绳上；救人与抢资源冲突时选择人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 55,
+      "quote": "较完整的那段留作担架牵引，其余用于限制入口松动的构件，不承人体悬挂。",
+      "reason": "得到缆绳但不能整卷视为完好；少年暴露、麦穗伤踝转固定接绳，资源收益带限制。本轮解圈只发生一次，伤脚沿内杆慢放后由林渡接回，代价连续而不回退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 55,
+      "quote": "“人各挂一条保险。”林渡说，“绳卷另外放。拿不动就先回来。”",
+      "reason": "任务前允许空手返，险情中兑现救人优先，少年没有因能钻架就被当成消耗品；回报来自前后选择一致。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 55,
+      "quote": "林渡压低冷凝灯，让杜姨先把伤员挪进阴影，自己望向那道声音消失的方向。",
+      "reason": "搬箱脚步进深处与追踪光同在，人物先藏伤员而不盲追；想知道箱子为何向里、这条路被谁使用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 56,
+      "quote": "这里已是四层断阶下缘，却还只是维修层外侧的通道。",
+      "reason": "开头明确不是安全房间，接着热水、看不见拐弯和轨槽外滑，抵达地名并未解除救援压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 56,
+      "quote": "“分开走这一小段。”他说，“伤员和走不快的进来。你带少年团守外沿，看热风，也接后面的人。”",
+      "reason": "林渡主动限制分队范围和回报节点，腾入口给伤员而不让后队盲等；风转即收近，等待对象明确为下一转弯回报，没有杜撰时限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 56,
+      "quote": "黑水封住半条通道，长梁上只能逐副移送。",
+      "reason": "暗口不是终点；通道漫水迫使唯一长梁转作接送，外队被风催近，原分队策略随环境改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 56,
+      "quote": "骂声没消失，却有人主动去帮阿九扶梁尾，不再只是往前推。",
+      "reason": "林渡说明卡住哪副担架、差什么动作后，质疑者开始帮忙，不写全员瞬间理解；给组织成长一个小而可信的回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 56,
+      "quote": "林渡让后面的担架停在梁上，自己沿墙察看网框下沿，找绳能不能从内侧退开的地方。",
+      "reason": "报警和照出金属网只发生一次；林渡停担架、沿墙察看下沿及绳的退路，给出人物下一步。057木尺量出横杆容不下，继而找控制盒，是对这次观察的结果推进，不是重复报警或宣称绳已被夹。读者想知道怎样让担架过网。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 57,
+      "quote": "金属网嵌在旧轨两侧的竖槽里，把通道从墙到墙截断。",
+      "reason": "第一句把056障碍变成有边界的结构，随后交代割索反会封死，不以机关名词替代眼前问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 57,
+      "quote": "林渡没有因此取消编号。取消了，先漏掉的会是他们自己的伤员。",
+      "reason": "编号被追兵利用仍保留内部核验、改到网内低声答，林渡不拿抹去人名换暂时安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 57,
+      "quote": "所有人的身体都在内侧，外面还留着一截来不及收完的担架牵引绳。",
+      "reason": "完成过网但绳尾被夹，人员转移成功与担架受拖并存；权限撤销使下一章不能重复按键放行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 57,
+      "quote": "“他过了我才过。”",
+      "reason": "林渡不把按键的祝衡留作牺牲，也不许他拿伤臂顶网；通过梁和缆接替受力，兑现把违令者视为同伴。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 57,
+      "quote": "上方的声音仍叫他交回人员，网框下面的绳皮却正一丝丝拉开。林渡抓住担架杆，听见祝衡把腰边那支损坏短枪抽了出来。",
+      "reason": "命令和拉裂绳皮同时逼迫；林渡护担架、祝衡取失用枪，下一章追问如何停机解绳，双层钩子成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 58,
+      "quote": "被网框咬住的绳尾又短了一点，露出的纤维沾着网框锈水，湿软地贴在轨枕上。",
+      "reason": "第一句继续夹绳传力，担架挪动和裴七受拖立即跟上，不把057危险拖到通缉背景之后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 58,
+      "quote": "林渡抓住担架另一端，没有继续和牵引轮拔河。绳越紧，担架越容易转斜。",
+      "reason": "林渡停掉纯拉力对抗，转为落梁、退结、托网卸拨叉；不是用意志和伤手硬胜机器。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 58,
+      "quote": "枪身已歪，握柄裂开，既无法开火，也不能再拿来当可靠支撑。",
+      "reason": "解绳救出担架并切断封锁，但枪彻底失用、手伤加重、祝衡通缉；工具和身份均付出不可自动复原的成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 58,
+      "quote": "祝衡盯着册页上自己的名字，喉口动了一下，才说：“还活着。”",
+      "reason": "广播将他列为叛逃者，公共册仍保留他曾是巡查官及活着的事实；这是本篇最强的身份被接纳回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 58,
+      "quote": "“枪坏了。先带人离轨。”",
+      "reason": "网下金属臂仍动、来源不明，林渡阻止弯枪迎敌而先撤离旧轨；未知机械不抢走伤员撤离主线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 59,
+      "quote": "黑雾沿旧轨漫进来，先没过轨枕，再贴到人的膝下。",
+      "reason": "雾从轨枕升到膝下，灯罩结膜马上削弱视野；上一章离轨选择被新的呼吸压力逼着落实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 59,
+      "quote": "“风向由你报，梁能不能接由我报。用了这次读数也不是你一个人的错。”",
+      "reason": "林渡与弥娅明分测风和承重责任，决定耗掉末次读数救眼前人，不把选择失败全推给仪器使用者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 59,
+      "quote": "随后壳内轻响，屏幕的黑不再带休眠时的灰光，扬声孔也停了。",
+      "reason": "有限散热及接点修复只释放一次残线，读后耗尽；方向传递从仪器转给岑野手势，失去功能真正改变行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 59,
+      "quote": "弥娅立刻应了同样的手势。",
+      "reason": "056当场纠正过的报风手势在仪器黑屏后派上用场，少年学到的技能接住团队，读者得到可回看的铺垫兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 59,
+      "quote": "“里面先看承重。别因为有风，就都挤进去。”",
+      "reason": "黑潮遮城与维修层容量未知共同施压，林渡拦脚、岑野伏探；不是把有风误作安全出口，下一章要回答能进几人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 60,
+      "quote": "左侧缺口外是一道弯向山壁的平台，隔着塌楼梯，才是半毁的维修层。",
+      "reason": "首句将059见门进一步落实为隔塌梯的平台，前几句就探板纤维和轨边，容量问题没有被“抵达”掩盖。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 60,
+      "quote": "“伤员、孩子、喘不过气的人先。能走的留在外面接手。”",
+      "reason": "林渡按脆弱程度排序，又在门内满、外板滑时叫停收梁；被留外者质问使组织选择承担可见代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 60,
+      "quote": "那条勉强接人的窄面没有了。两丈宽的断口重新露出来，只剩墙根旧孔里的绳线还连着两边。",
+      "reason": "裴七等先入门内而队伍被迫分开，担架不再可过，抵达下缘兑现后产生真正的新障碍；人数仍是原册子集而非全场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 60,
+      "quote": "林渡站在门内，没有躲开那边的目光。",
+      "reason": "选择救伤员不等于全员满意，留门边接人、保留外册回应让排序失败可理解；回报是承担而非胜利宣言。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 60,
+      "quote": "他指出的是藏在梁里的危险，还是一条能把两组人重新接起来的路？林渡没有跨过去，先让林栖记住了刀尖的位置。",
+      "reason": "无面者刀尖与空响给具体待查点，外侧梁头又下沉；林渡先记录不盲从，把查证与重接两组人的行动绑在一起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 60,
+      "quote": "担架送到靠墙地梁上，他终于能平躺，嘴唇却仍发白。",
+      "reason": "本篇“外壁转运到断阶下缘”在门内安置伤员兑现，052救回裴七、058祝衡被公共册接纳是中途回报；换来重伤、药损、枪废、仪器耗尽和队伍分隔。未承诺本批已全员安全，重接留给下一篇。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 59,
+      "quote": "风的判断先经过几个孩子的手，再传到林渡；仪器没有在中间报数。",
+      "reason": "51—53由湿桩、塌板升级到两路互赖；54—58加入身份追踪与违令代价；59失去数字精读、60门内容量耗尽。本轮删掉局部重复动作后，每段仍改变选择条件，没有凭新名词重演同一工序，也未提前揭双陆机制。",
+      "verdict": "pass"
+    }
+  ],
+  "first_read": [
+    {
+      "chapter": 51,
+      "location_and_goal": "旧孔—横撑—湿桩外壁；分批送担架，不能把整队悬在桩和绳上。",
+      "reader_confirmed": "林渡判结构，弥娅看热流，阿九/少年团护绳；第四孔不可复用，盐药污染报损和裴七浅伤都可见。",
+      "first_stall": "没有阻碍理解的停顿；空绳、箱试、人体保险逐级合理，但工序段偏密。",
+      "anchor_quote": "箱子比人轻。",
+      "continue_or_exit": "继续：孩子获准自己试脚、林渡不空许安全；末桩下沉和裴七仍在尾杆使我想看救哪一端。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 52,
+      "location_and_goal": "塌平台海侧夹腿，靠山两根内梁；先落稳担架再救裴七。",
+      "reader_confirmed": "裴七由浅伤转左腿重伤不能搬；换伤员空位、药消耗、样粉留而不定炸药；祝衡绕内检修沿归队。",
+      "first_stall": "第一次需回看是林栖“说完”前无她发言；后半收样动作又重复一次。",
+      "anchor_quote": "林栖说完先看林渡的手",
+      "continue_or_exit": "继续：“少我一个，谁抬？”“换手。”使救回有重量；孔内刮擦落粉留下具体查证方向。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 53,
+      "location_and_goal": "海侧窄沿/靠山宽梁，岩角暗口汇合；热流与承重互相制约。",
+      "reader_confirmed": "分队有边界，斜梁同时卡两路，第三支点只托梁；铜片护毛刺、孩子不当配重。",
+      "first_stall": "“它与刚收起的工程铜牌不是一件东西”有作者纠偏感，但物件区分可理解，不据此判事实错误。",
+      "anchor_quote": "它与刚收起的工程铜牌不是一件东西",
+      "continue_or_exit": "继续：弥娅守海侧让担架先走，合作由行动兑现；枪口出现时担架尚在梁下。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 54,
+      "location_and_goal": "三巡查在上方检修架截击，队伍在斜梁下向暗口送人。",
+      "reader_confirmed": "祝衡获临时准用后违令，真身吸追踪，枪重锁，沿低台退入并左腿伤；名单残页归林渡。",
+      "first_stall": "叙述者解释“所谓引开”替已写出的举牌报姓名作辩护，枪下紧迫被停顿。",
+      "anchor_quote": "所谓引开，不是拿一个假影子换全队安全，是把自己真实的位置交出去。",
+      "continue_or_exit": "继续：家属“已撤离，不得回收”推动站队；末新缆在灯下，下一任务明确。未退出，但解释疲劳上升。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 55,
+      "location_and_goal": "暗口外维护架；岑野托卷、麦穗拆扣，抢回下一段转运绳。",
+      "reader_confirmed": "人各保险、卷另绳；救麦穗优先，伤踝不再跑动，损缆段退出人体受力，箱编号只作目击证据。",
+      "first_stall": "已经脱圈试脚，绳卷已落梁，后文又解圈摸伤，动作位置回退；“没回头骂灯”多余。",
+      "anchor_quote": "麦穗没有回头骂灯，先把脚从缆圈移开",
+      "continue_or_exit": "继续：救人选择兑现任务前承诺；搬箱脚步进暗处但先移伤员，追问对象清楚。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 56,
+      "location_and_goal": "四层维修层外侧暗通道，不是安全房间；先伤员、外队报风，长梁逐副越漫水。",
+      "reader_confirmed": "岑野报备换内接前杆后返回，杜姨跟进交点名给小石；34只说核验者，不当已进总人数。",
+      "first_stall": "分工可跟随；末报警写了两次，读起来像同一段收尾重开。首读未把“不等时限”定为硬冲突，资料/初审后才定位残留。",
+      "anchor_quote": "里面仍无回答，网边的识别片却先响了起来。",
+      "continue_or_exit": "继续：新手势现场教与改正有效；下一道网如何放担架是具体问题。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 57,
+      "location_and_goal": "网左右竖槽、右低左高；裴七平移走左高口，网内外主语明确。",
+      "reader_confirmed": "后队全过漫水才回收同长梁；担架整副内落、祝衡退键、林渡最后进；绳尾仍外夹轮。",
+      "first_stall": "传力说明密，需要慢读，但能跟到“余尾—连杆缝—拨叉倒转—担架受拖”，未误读成人还在外。",
+      "anchor_quote": "担架牵引绳的余尾被落框挤进牵引轮背后的连杆缝。",
+      "continue_or_exit": "继续：保编号不漏伤员、等祝衡进网有同伴回报；权限撤销和坏枪抽出逼下一步。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 58,
+      "location_and_goal": "封锁网内；砸盒后机械重量仍在，用梁托网、退拨叉解绳救担架。",
+      "reader_confirmed": "不是铜片承网或拆主轴；枪弯失用、手伤换工种，杜姨代记；金属臂来源未知。",
+      "first_stall": "“不会因为一枚钉拔掉就自己悬在半空”反事实说明又替读者答没问的问题。",
+      "anchor_quote": "不会因为一枚钉拔掉就自己悬在半空。",
+      "continue_or_exit": "继续：祝衡在公共册说“还活着”是批次强点；遇金属臂先离轨不拿坏枪迎敌。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 59,
+      "location_and_goal": "网后黑雾岔路；右暴露、直行风断续、左有持续微风，选左并核承重。",
+      "reader_confirmed": "接点处理和散热未补电，末次残线后黑屏；056手势现在传风，不能当梁安全保证。",
+      "first_stall": "没有新的阻碍理解点；能力边界解释略密，但仪器耗尽后真正换人判断使成本成立。",
+      "anchor_quote": "“有风，不是通行许可。”她说。",
+      "continue_or_exit": "继续：林渡与弥娅共同承担选路，孩子学到的手势接住判断；门内容几人待答。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    },
+    {
+      "chapter": 60,
+      "location_and_goal": "弯平台—沿前进方向约两丈塌梯—低半尺门槛—门内实地梁/浮板；按伤情送入。",
+      "reader_confirmed": "裴七入内靠墙杜姨照护；原册17+17、阿九外弥娅祝衡内另记；整梁垫轨接头、原断段只托外短高差。",
+      "first_stall": "位置链能跟随；林渡门内“拦住”外侧岑野有紧接“站稳”的口令，不硬判成隔口伸手瞬移。",
+      "anchor_quote": "林渡拦住想靠近的岑野：“站稳。看他要做什么。”",
+      "continue_or_exit": "继续：门内满和板滑后停送，外人质问迫他承担；面具刀尖/空响与外梁沉同时出现，先记录不盲从。未退出。",
+      "historical": true,
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "report_phase": "resume-final",
+      "note": "真实首读原样保留；其中未通过/卡顿原句属于首轮字节，不冒称仍是当前原句。本轮感受见reread。"
+    }
+  ],
+  "reread": [
+    {
+      "chapter": 54,
+      "scope": "本轮完整重读054；053末10行、055前23行作接口，未重新初审十章",
+      "location_and_goal": "斜梁下担架、上层检修架巡查枪口与岩角暗口；在灯光追踪下接伤员与孩子进阴影，再把祝衡从低台沿绳接回。",
+      "reader_confirmed": "湿外衣遮的是当下来光，巡查移灯查看，孩子利用这一瞬进入暗口；祝衡随后举牌报姓名使光转向其真实位置。没有新能力，没有全场隐身。",
+      "first_stall": "此前“不说湿布能骗过每一盏灯”的场外辩护已消失；本轮对应场景及接口未见新的卡顿、指代断裂或动作回退。",
+      "anchor_quote": "她趁这一瞬把孩子们向暗口送。",
+      "continue_or_exit": "继续。短暂遮光给孩子实际转移机会，随即把暴露代价交到祝衡身上；章末主绳留断梁迫使055取缆，下一步目标仍明确。"
+    }
+  ],
+  "read_process": {
+    "complete_reread_this_round": [
+      54
+    ],
+    "interface_reread": [
+      {
+        "chapters": [
+          53,
+          54
+        ],
+        "actual_scope": "053末10行＋054整章",
+        "evidence": [
+          {
+            "chapter": 53,
+            "source_path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+            "quote": "林渡伏住担架。斜梁之上，有人把枪口伸出了栏杆。"
+          },
+          {
+            "chapter": 54,
+            "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+            "quote": "枪口从斜梁上方伸出，离伏着的林渡并不远。"
+          }
+        ],
+        "reason": "枪口及担架尚在梁下的压力直接接续；删湿布后半句没有改变该场景入口和转运动机。",
+        "verdict": "pass"
+      },
+      {
+        "chapters": [
+          54,
+          55
+        ],
+        "actual_scope": "054整章＋055前23行",
+        "evidence": [
+          {
+            "chapter": 54,
+            "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+            "quote": "现有主绳留在了断梁上；若要把后面的人送进更深的缺口，他们还得从追踪光底下取回下一条路。"
+          },
+          {
+            "chapter": 55,
+            "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+            "quote": "阿九看了看留在断梁上的主绳，没有去解。"
+          },
+          {
+            "chapter": 55,
+            "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+            "quote": "他的左腿落地时受了伤，连站稳都得扶墙，不能再靠身份或身手替众人开路。"
+          }
+        ],
+        "reason": "支点绳不能收、新缆必须取、祝衡伤腿及身份失效均承接；短时遮光未被误当成追踪解除。",
+        "verdict": "pass"
+      }
+    ],
+    "changed_chapters": [
+      54
+    ],
+    "unchanged_chapters": [
+      51,
+      52,
+      53,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "inherits_actual_prior_reading_from": {
+      "path": "harness/maintenance/R004/B06/resume-recheck.json",
+      "sha256": "25979aa4e2f33b0863fa65dee1448c63459eeda2ec5ad5a0e0818db4f5b715ac",
+      "source_digest": "7ecd575f87e1ae6636adf92d2b0833f3060009a739369a1a920d0ef7425be921"
+    },
+    "patch_read_after_body": true,
+    "note": "只对本轮变动及接口重读；前轮五个变动章和057的重读不冒充本轮工作，也不重新生成初审。"
+  },
+  "historical_reviews": [
+    {
+      "phase": "resume-final",
+      "verdict": "revision_required",
+      "body_verdict": "revision_required",
+      "fact_logic_verdict": "revision_required",
+      "attraction_verdict": "pass",
+      "source_digest": "00014087316b58972d510d1fb96387e2b4f763f8fcfaf766508f2a79c7e7f1c1",
+      "unclosed_issue_ids": [
+        "R004-B06-I08",
+        "R004-B06-RF-N01",
+        "R004-B06-RF-N02",
+        "R004-B06-RF-N03",
+        "R004-B06-RF-N04"
+      ],
+      "reports": [
+        {
+          "path": "harness/maintenance/R004/B06/resume-final.md",
+          "sha256": "bb1c55faa55ed7f740217d38d62d5ea64cfd68cbd90edc3176558d60e5076fda"
+        },
+        {
+          "path": "harness/maintenance/R004/B06/resume-final.json",
+          "sha256": "5cf0bcb5ed085382ef4ed07af118687b5222dfb116bb01e3ab9241166ee9fb97"
+        }
+      ],
+      "preserved_original_bytes": true
+    },
+    {
+      "phase": "resume-recheck",
+      "verdict": "revision_required",
+      "body_verdict": "revision_required",
+      "fact_logic_verdict": "pass",
+      "attraction_verdict": "pass",
+      "source_digest": "7ecd575f87e1ae6636adf92d2b0833f3060009a739369a1a920d0ef7425be921",
+      "unclosed_issue_ids": [
+        "R004-B06-RR-N01"
+      ],
+      "reports": [
+        {
+          "path": "harness/maintenance/R004/B06/resume-recheck.md",
+          "sha256": "4e86907b0e6afbf71a235d2b6a991445ee55ed2a777a3ff3e14010d7452eb269"
+        },
+        {
+          "path": "harness/maintenance/R004/B06/resume-recheck.json",
+          "sha256": "25979aa4e2f33b0863fa65dee1448c63459eeda2ec5ad5a0e0818db4f5b715ac"
+        }
+      ],
+      "preserved_original_bytes": true
+    }
+  ],
+  "historical_first_read_note": "first_read原文是首轮历史记录，已带historical/source_digest标识；其中卡顿和未通过原句不冒充当前正文。后两轮失败证据在historical_reviews所列原文件中完整保留。",
+  "initial_issue_closures": [
+    {
+      "id": "R004-B06-I01",
+      "chapter": 51,
+      "status": "closed",
+      "original_quote": "少掉的药不会因为记了账就回来，杜姨仍让林渡把这一笔写下。",
+      "evidence": [
+        "杜姨把坏药包另收好，仍让林渡把这一笔写下。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 51,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+          "quote": "杜姨把坏药包另收好，仍让林渡把这一笔写下。"
+        }
+      ],
+      "reason": "反事实“记账也换不回药”已删；污染隔放、报损与册交回仍在，药损未被误算为治疗。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I02",
+      "chapter": 53,
+      "status": "closed",
+      "original_quote": "她没有为了争赢而开一次不能保证结果的精读。",
+      "evidence": [
+        "破裂屏面上的方向时有时无，她的手离开仪器，重新按住墙面。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 53,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+          "quote": "破裂屏面上的方向时有时无，她的手离开仪器，重新按住墙面。"
+        }
+      ],
+      "reason": "删去替弥娅断定争赢动机的句子；留下失准屏面及收手，可由读者判断她不强开精读。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I03",
+      "chapter": 54,
+      "status": "closed",
+      "original_quote": "枪口每偏一寸，祝衡的食指都从扳机护圈外抬开，始终没有让那只手替他扣下去。祝衡试拉了一下，没有把枪口转向担架。",
+      "evidence": [
+        "祝衡试拉枪机，食指始终留在扳机护圈外，枪口避着担架。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "祝衡试拉枪机，食指始终留在扳机护圈外，枪口避着担架。"
+        }
+      ],
+      "reason": "试拉对象落实枪机，食指状态统一；临时准用有巡查控制片和锁灯作来源。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I04",
+      "chapter": 54,
+      "status": "closed",
+      "original_quote": "不是装作没看见，好让这一趟快些结束；他让前端偏向外侧一点，腾出腿边的空隙。",
+      "evidence": [
+        "林渡叫停了一瞬。他让前端偏向外侧一点，腾出腿边的空隙。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "林渡叫停了一瞬。他让前端偏向外侧一点，腾出腿边的空隙。"
+        }
+      ],
+      "reason": "原“不是装作没看见”的动机辩护已删，叫停—转向—等杜姨回应保留。此前RF-N03指定两处已关闭，本轮RR-N01湿布辩护也已删除，不影响这个救援动作闭环。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I05",
+      "chapter": 54,
+      "status": "closed",
+      "original_quote": "枪声在石壁间撞回第二遍，一个居民先弯了膝，随即蹲下，把两手抱在头顶。枪声在山壁间撞回来，他以为头上的木头也要断，怎么催都不肯抬脚。",
+      "evidence": [
+        "枪声在石壁间撞回第二遍，一个居民弯膝蹲下，把两手抱在头顶，盯着上方木梁，怎么催都不肯抬脚。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "枪声在石壁间撞回第二遍，一个居民弯膝蹲下，把两手抱在头顶，盯着上方木梁，怎么催都不肯抬脚。"
+        }
+      ],
+      "reason": "只留一次声响描述，以盯梁、抱头和不抬脚外化恐惧，不代居民下全知判断。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I06",
+      "chapter": 55,
+      "status": "closed",
+      "original_quote": "不是谁年纪轻就该去冒险；他们能贴着窄架转身，而阿九的膝盖和林渡的肩都做不到。",
+      "evidence": [
+        "他们能贴着窄架转身，阿九的膝盖和林渡的肩却都做不到。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "他们能贴着窄架转身，阿九的膝盖和林渡的肩却都做不到。"
+        }
+      ],
+      "reason": "删去“不是谁年纪轻就该冒险”的预设辩护；角色身体限制、分工及各自保险足以交代派少年上架的原因。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I07",
+      "chapter": 56,
+      "status": "closed",
+      "original_quote": "凉暖两股气在门内顶着，灯焰一直偏向靠山。",
+      "evidence": [
+        "凉暖两股气在门内顶着，灯边垂着的湿布一直偏向靠山。",
+        "林栖将手摇冷凝灯挂在墙桩上，用左手转柄。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "凉暖两股气在门内顶着，灯边垂着的湿布一直偏向靠山。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "林栖将手摇冷凝灯挂在墙桩上，用左手转柄。"
+        }
+      ],
+      "reason": "风向改由已有湿布显示，灯靠手摇发光，无火源/灯焰追加；060同器具功能未变。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I08",
+      "chapter": 56,
+      "status": "closed",
+      "original_quote": "一刻的约定还没到，弥娅已经报风转向。",
+      "evidence": [
+        "弥娅看了看正在变暗的水汽，要求每到一个转弯都回报。外侧若起热风，她会立即催人。",
+        "还没等里面报到下一个转弯，弥娅已经报风转向。林渡立刻叫外队收近，不再等下一个转弯的回报。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "弥娅看了看正在变暗的水汽，要求每到一个转弯都回报。外侧若起热风，她会立即催人。"
+        },
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "还没等里面报到下一个转弯，弥娅已经报风转向。林渡立刻叫外队收近，不再等下一个转弯的回报。"
+        }
+      ],
+      "reason": "等待对象现在是前文已约定的下一转弯回报；风变可立即催人，林渡随即清入口收近。没有一刻、用满或未约定时限，也没有重置可行余量。首轮残留问题已关闭。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I09",
+      "chapter": 57,
+      "status": "closed",
+      "original_quote": "网升到能让人低头钻过的高度便停住。林渡把残片递给林栖，她比过担架厚度，又将尺交回，示意平着送仍差一点，必须侧斜着过。",
+      "evidence": [
+        "网框右边卡在竖槽里，左边已经抬高，只有靠左的一小段能让人低头钻过。",
+        "担架不能对着正中直送，得平着转向那一侧。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "网框右边卡在竖槽里，左边已经抬高，只有靠左的一小段能让人低头钻过。"
+        },
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "担架不能对着正中直送，得平着转向那一侧。"
+        }
+      ],
+      "reason": "右低左高建立缺口，平着转向左高口而非倾斜减薄；随后前后杆依次平移，物理理由闭合。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I10",
+      "chapter": 57,
+      "status": "closed",
+      "original_quote": "林渡与岑野一内一外，把担架朝左斜送。",
+      "evidence": [
+        "林渡守在网外扶住后杆，岑野在内侧接前杆，两人保持担架平稳，朝左侧高口斜着挪。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "林渡守在网外扶住后杆，岑野在内侧接前杆，两人保持担架平稳，朝左侧高口斜着挪。"
+        }
+      ],
+      "reason": "内外主语及担架前后杆各自对应；整副落地后杜姨跟进、祝衡先退键、林渡最后钻过，没有换位偷渡。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I11",
+      "chapter": 57,
+      "status": "closed",
+      "original_quote": "落框将绳尾咬住，轮子仍在转，缆绳绷紧，把裴七担架的一角向后拖了一点。",
+      "evidence": [
+        "担架牵引绳的余尾被落框挤进牵引轮背后的连杆缝。轮子倒转，拨叉带着那截绳尾继续向下走，绳子绷紧，把裴七担架的一角向后拖了一点。",
+        "即使没有电，网框下坠也会沿这处连接继续扯绳。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "担架牵引绳的余尾被落框挤进牵引轮背后的连杆缝。轮子倒转，拨叉带着那截绳尾继续向下走，绳子绷紧，把裴七担架的一角向后拖了一点。"
+        },
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "即使没有电，网框下坠也会沿这处连接继续扯绳。"
+        }
+      ],
+      "reason": "对象统一为担架牵引绳而非保护缆，落框夹入连杆缝—倒轮/拨叉带尾—担架受拖的传力链补齐；058断电后重量仍在，所以还须卸力退拨叉。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I12",
+      "chapter": 58,
+      "status": "closed",
+      "original_quote": "林渡靠墙写下：拒绝继续封锁，随队进入断阶下缘；手腕灼伤，左腿不能负重。",
+      "evidence": [
+        "林渡靠墙报出，杜姨代他写下：拒绝继续封锁，随队进入断阶下缘；手腕灼伤，左腿不能负重。",
+        "纸页受潮，炭痕边沿发散，林栖拿灯照着，确认名字仍能辨认。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "林渡靠墙报出，杜姨代他写下：拒绝继续封锁，随队进入断阶下缘；手腕灼伤，左腿不能负重。"
+        },
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "纸页受潮，炭痕边沿发散，林栖拿灯照着，确认名字仍能辨认。"
+        }
+      ],
+      "reason": "伤手林渡只口述，杜姨接册书写；介质统一为炭痕，不再伤手拿不住笔却立即执笔。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I13",
+      "chapter": 59,
+      "status": "closed",
+      "original_quote": "担架不能一直抬着，落下又会陷入更浓的雾，有秘密的路也得先放下担架；他们需要一处能平放伤员的地面。",
+      "evidence": [
+        "担架不能一直抬着，落下又会陷入更浓的雾；他们需要一处能平放伤员的地面。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 59,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+          "quote": "担架不能一直抬着，落下又会陷入更浓的雾；他们需要一处能平放伤员的地面。"
+        }
+      ],
+      "reason": "删除没有先行范围的“有秘密的路”，抬落两难直接导向找平地。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I14",
+      "chapter": 59,
+      "status": "closed",
+      "original_quote": "弥娅跟到后面，先不将脸凑近。她等过一次外侧气流回卷，发现缝里的来风仍没停，才让人靠近这边换气。\n\n弥娅等到袖口第三次被来风吹起，才说：“有风，不是通行许可。”",
+      "evidence": [
+        "她等过一次外侧气流回卷，发现缝里的来风仍没停，才让人靠近这边换气。",
+        "“有风，不是通行许可。”她说。\n\n“我去看脚下。”"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 59,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+          "quote": "她等过一次外侧气流回卷，发现缝里的来风仍没停，才让人靠近这边换气。"
+        },
+        {
+          "chapter": 59,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+          "quote": "“有风，不是通行许可。”她说。\n\n“我去看脚下。”"
+        }
+      ],
+      "reason": "只保留一次持续风核验，未再等第三次袖口；下一步换林渡查承重，分工有新增结果。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I15",
+      "chapter": 60,
+      "status": "closed",
+      "original_quote": "两丈来宽的楼梯已经断去大半，只剩靠墙一带铺板搭在旧轨上，连到比外壁低半尺的门槛。",
+      "evidence": [
+        "眼前楼梯沿前进方向断出约两丈的缺段，只剩靠墙一带铺板搭在旧轨上，连到比外壁低半尺的门槛。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "眼前楼梯沿前进方向断出约两丈的缺段，只剩靠墙一带铺板搭在旧轨上，连到比外壁低半尺的门槛。"
+        }
+      ],
+      "reason": "开头明确两丈是沿前进方向的缺段；靠墙铺板、旧轨和低半尺门槛同一参照，结尾“两丈宽”不再把楼梯横宽偷换跨距，061也承接同一入口。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I16",
+      "chapter": 60,
+      "status": "closed",
+      "original_quote": "林渡刚叫阿九收梁，靠墙铺板便翘起一角。两人各守一端，将先前垫接头的长梁顺轨抽回；另一根已经留在外侧。梁收走，松板失去压持，缓缓翻进黑口，歪斜的门槛也跟着向外倾了一点。",
+      "evidence": [
+        "“这边满了，不往里面压。”",
+        "靠墙铺板翘起一角，垫接头的长梁也跟着向断口滑。林渡叫停后面的人，先让阿九托住外端，自己在门内压稳绳，才将这根整梁顺轨抽回。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "“这边满了，不往里面压。”"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "靠墙铺板翘起一角，垫接头的长梁也跟着向断口滑。林渡叫停后面的人，先让阿九托住外端，自己在门内压稳绳，才将这根整梁顺轨抽回。"
+        }
+      ],
+      "reason": "先给门内承载耗尽、侧板下沉、整梁随板滑，再叫停、两端控梁回收；不是无故抽掉一条尚安全的通路。外侧质问仍保留其排序代价。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I17",
+      "chapter": 60,
+      "status": "closed",
+      "original_quote": "“内侧十七。”\n\n岑野隔着门槛应：“外侧十七。”",
+      "evidence": [
+        "杜姨在门边照册点名，叫到第三十四个，数的是这一队要核对的人，不是已经塞进通道的人。",
+        "林栖把两栏与另列的同行者隔开。阿九仍在外侧照梁，弥娅和祝衡在门内，各自落点另外标，不拿这两个十七充作两边的总人数。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "杜姨在门边照册点名，叫到第三十四个，数的是这一队要核对的人，不是已经塞进通道的人。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "林栖把两栏与另列的同行者隔开。阿九仍在外侧照梁，弥娅和祝衡在门内，各自落点另外标，不拿这两个十七充作两边的总人数。"
+        }
+      ],
+      "reason": "34/17+17明确是原护送册核验子集，阿九外、弥娅祝衡内另列；老人补姓落原格。061延续同口径并另记无面者，不把子集当全场，不反算新固定总人数。对应回填由WB独立读者专核，本报告不替其签字。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I18",
+      "chapter": 60,
+      "status": "closed",
+      "original_quote": "另一根留给阿九接担架，谁过来都不准两副并行。",
+      "evidence": [
+        "原折断梁中的一截短段留给阿九，垫在外侧接手处，只托住眼前这一小段高差。",
+        "外侧接手处的短段没有动。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "原折断梁中的一截短段留给阿九，垫在外侧接手处，只托住眼前这一小段高差。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "外侧接手处的短段没有动。"
+        }
+      ],
+      "reason": "单整梁沿旧轨垫接头，048原断段只托外侧短高差；整梁回收、短段留外，未恢复第二整梁。048已折梁；changes载明2026-11-06作者批准B07单整梁+原断段短撑，不再等待旧冲突清单裁定。旧表“两整梁至065”的纠偏交WB专核，不以未核回填推翻已批准方案。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I19",
+      "chapter": 60,
+      "status": "closed",
+      "original_quote": "担架送到靠墙地梁上，他终于能平躺，嘴唇却仍发白。",
+      "evidence": [
+        "门内有几段尚未脱榫的地梁，梁间的铺板却已浮起。",
+        "担架送到靠墙地梁上，他终于能平躺，嘴唇却仍发白。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "门内有几段尚未脱榫的地梁，梁间的铺板却已浮起。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "担架送到靠墙地梁上，他终于能平躺，嘴唇却仍发白。"
+        }
+      ],
+      "reason": "裴七由外侧阿九递入、门内林渡接，落在门内靠墙地梁，杜姨在内照护。另核B07/063“门内”、066“门内接应位”后翻出，均未让裴七凭空留外。B07十稿SHA与既有final一致；此处只作交叉核验，不代替B07终审。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    },
+    {
+      "id": "R004-B06-I20",
+      "chapter": 60,
+      "status": "closed",
+      "original_quote": "这一轮凉时结束前，两边得找到能重新汇合的办法，不能只等雾自己散。",
+      "evidence": [
+        "从外壁起步时留下的那点可行余地在这样消磨，海侧的水汽渐渐变暗。",
+        "“我估半个凉时的余地，不是新添半个凉时。已经用掉的不能重算。”",
+        "下一轮凉时到来前，两边得找到能重新汇合的办法，不能只等雾自己散。"
+      ],
+      "evidence_locations": [
+        {
+          "chapter": 51,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+          "quote": "从外壁起步时留下的那点可行余地在这样消磨，海侧的水汽渐渐变暗。"
+        },
+        {
+          "chapter": 53,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+          "quote": "“我估半个凉时的余地，不是新添半个凉时。已经用掉的不能重算。”"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "下一轮凉时到来前，两边得找到能重新汇合的办法，不能只等雾自己散。"
+        }
+      ],
+      "reason": "051不再把可行余量直接断言为当前凉时；053说明是原窗口余量，059黑潮遮城，060限在下一轮凉时前。原“这一轮凉时结束”冲突已删，与资源补全053—060条相合，无新增休息、整日或钟点。表头T4/T5是时段范围，不能拿它重开半凉时库存。",
+      "previous_status": "closed",
+      "review_basis": "继承resume-recheck已实际审读的关闭结论；本轮仅054指定半句删除，现存证据逐条核实，未变章节SHA一致。"
+    }
+  ],
+  "new_issue_closures": [
+    {
+      "id": "R004-B06-RF-N01",
+      "chapter": 52,
+      "chapters": [
+        52
+      ],
+      "severity": "minor",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "林栖说完先看林渡的手，见他仍按着伤布，才把目光移回担架：“他没有坠下去。”",
+      "historical_evidence_source": "harness/maintenance/R004/B06/resume-final.json",
+      "evidence": [
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "林栖先看林渡的手，见他仍按着伤布，才把目光移回担架：“他没有坠下去。”"
+        }
+      ],
+      "reason": "删掉无在先发言的“说完”，先看哥哥伤手、再看担架、再开口；没有补一段未发生对白，首读回看的卡顿消失。",
+      "review_basis": "本轮继承已关闭的真实读者判断；相关正文除054指定半句外完全不变，关闭证据仍存在。"
+    },
+    {
+      "id": "R004-B06-RF-N02",
+      "chapter": 55,
+      "chapters": [
+        55
+      ],
+      "severity": "medium",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "麦穗没有回头骂灯，先把脚从缆圈移开，又用指腹摸清绳伤，才向林渡点头。",
+      "historical_evidence_source": "harness/maintenance/R004/B06/resume-final.json",
+      "evidence": [
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "麦穗的鞋从缆圈里抽出来，脚踝留下一道红印。她没有立即再爬，先握着扶杆喘息。"
+        },
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "“架后有人！”上方喊。麦穗攥住内侧扶杆，将伤脚贴着斜撑慢慢放下。"
+        },
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "小石低声报出向内的扶杆。林渡接住麦穗的腰套，先让她坐上梁，再接岑野。"
+        },
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "麦穗仍在门外守绳，刚扭过的脚踝让她不能来回跑，便固定在较平的内沿。"
+        }
+      ],
+      "reason": "只解踝圈一次；首次试脚得出不能急转后，转内侧落脚，追光照来继续沿已定撤路慢放伤脚，再由林渡接回。绳卷已下落与人仍在架上不混淆，056固定守绳承接伤势，无第二次缠足或摸伤点头。",
+      "review_basis": "本轮继承已关闭的真实读者判断；相关正文除054指定半句外完全不变，关闭证据仍存在。"
+    },
+    {
+      "id": "R004-B06-RF-N03",
+      "chapter": 54,
+      "chapters": [
+        54,
+        55,
+        58
+      ],
+      "severity": "medium",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "所谓引开，不是拿一个假影子换全队安全，是把自己真实的位置交出去。",
+      "historical_evidence_source": "harness/maintenance/R004/B06/resume-final.json",
+      "evidence": [
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "祝衡的手腕垂了一点。林渡向上看，指了指担架下那根正在掉屑的梁。"
+        },
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "“祝衡在这里。名单也经过我手。”"
+        },
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "林渡看见他用伤手扶栏，指节一直发抖。"
+        },
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "两人都已被看见，接下来不能在同一处多停。"
+        },
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "牵引轮与主动连杆分离，空转一小段后停住。框架还压在长梁上。"
+        }
+      ],
+      "reason": "首轮指定的054“没替他补”“所谓引开”、055“算不算赢”、058“自己悬在半空”四处保持删除；指梁催动、举牌引灯、少年暴露催撤及梁承框未丢失。本轮另外完成RR-N01的湿布辩护删除，两项分开记录关闭，不篡改首轮问题范围。",
+      "review_basis": "本轮继承已关闭的真实读者判断；相关正文除054指定半句外完全不变，关闭证据仍存在。"
+    },
+    {
+      "id": "R004-B06-RF-N04",
+      "chapter": 52,
+      "chapters": [
+        52,
+        56
+      ],
+      "severity": "minor",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "林渡把布包塞回衣缝，叫众人离开断面，只记下样本所在的位置。",
+      "historical_evidence_source": "harness/maintenance/R004/B06/resume-final.json",
+      "evidence": [
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "林渡将样本包好，另塞进离水袋和药包较远的衣缝。"
+        },
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "他们没有在这里加热它，也没有再向深处刮。下方碎板还在脱落。林渡叫众人离开断面，只记下取样的位置。"
+        },
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "拐角前方的识别片先发出一声短响，暗红细光才沿墙亮起。"
+        },
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "林渡让后面的担架停在梁上，自己沿墙察看网框下沿，找绳能不能从内侧退开的地方。"
+        },
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "林渡伸木尺探过下沿，量到的空隙连担架横杆都容不下。"
+        }
+      ],
+      "reason": "052样本包好入衣缝后未再取出/再塞，碎板脱落直接迫撤，黑孔与粉末仍不直接定炸药。056报警—见网之后改成停担架和观察下沿、退绳路径；057量出尺寸、查控制盒给新结果，夹尾事故直到057结尾才发生。没有第二次“先响”、没有新设备或预知绳已被夹。",
+      "review_basis": "本轮继承已关闭的真实读者判断；相关正文除054指定半句外完全不变，关闭证据仍存在。"
+    },
+    {
+      "id": "R004-B06-RR-N01",
+      "chapter": 54,
+      "chapters": [
+        54
+      ],
+      "severity": "minor",
+      "category": "narrator_defence",
+      "previous_status": "open",
+      "status": "closed",
+      "original_quote": "她趁这一瞬把孩子们向暗口送，不说湿布能骗过每一盏灯。",
+      "historical_evidence_source": "harness/maintenance/R004/B06/resume-recheck.json",
+      "historical_manuscript_sha256": "8486901a8f2f35c6ff20e1ac28b7051807a47b71139dea1c260d522a08bd9aaf",
+      "current_manuscript_sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef",
+      "evidence": [
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "弥娅把披在肩上的湿外衣举到梁外，遮住红光的来向。水滴从衣摆落下，光斑随着布晃动。上方的人迟疑着挪灯，想看清布后是谁。她趁这一瞬把孩子们向暗口送。"
+        },
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "祝衡在检修架另一头举起制式牌，让追踪的人能清楚辨认。"
+        },
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "他没有拿走林渡的残页，只将原有命令纸塞进外套，沿内栏向右挪。灯光果然照向他那边，巡查员叫出了他的姓名，另一个人对着控制片报位置。"
+        }
+      ],
+      "reason": "已删“，不说湿布能骗过每一盏灯”，不再否认一段人物未说过的话。湿布改变这一处光斑、上方挪灯迟疑、孩子趁隙转入暗口构成可观察因果，下一段祝衡举牌公开身份引灯延续掩护；删句不制造万能遮光、不删人物行动，也不改变伤员、光源、残页或主绳的位置。重读不再在此退出场景，无替代性新卡顿。",
+      "fact_change_required": false,
+      "requires_author_decision": false,
+      "patch_log": {
+        "path": "harness/maintenance/R004/resume-changes.json",
+        "entry_1_based": 56
+      },
+      "review_basis": "先完整重读054和053末/055开头接口，再核本轮补丁与前轮未通过原句，不只判断旧词消失。"
+    }
+  ],
+  "new_issues": [],
+  "remaining_issue_ids": [],
+  "issue_closure_summary": {
+    "initial_closed": 20,
+    "initial_total": 20,
+    "subsequent_closed": 5,
+    "subsequent_total": 5,
+    "closed_this_round": [
+      "R004-B06-RR-N01"
+    ],
+    "inherited_closed": 24,
+    "new_this_round": 0,
+    "open": 0
+  },
+  "han_counts": {
+    "51": 2363,
+    "52": 2499,
+    "53": 2407,
+    "54": 2230,
+    "55": 2280,
+    "56": 2361,
+    "57": 2398,
+    "58": 2317,
+    "59": 2493,
+    "60": 2423
+  },
+  "han_count_method": "去Markdown标题，CJK扩展A U+3400—U+4DBF及基本区 U+4E00—U+9FFF；同tools/count_chapter_words.py，不计标点数字字母。",
+  "focus_checks": [
+    {
+      "item": "人员核验子集而非全场",
+      "verdict": "pass",
+      "evidence": [
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "阿九仍在外侧照梁，弥娅和祝衡在门内，各自落点另外标，不拿这两个十七充作两边的总人数。"
+        }
+      ],
+      "reason": "050原34核验者+另列人员经056、060延续；老人补姓不是新增。061继续另列无面者；不将17+17换算为全场恒定总数。"
+    },
+    {
+      "item": "单整梁与048原断段",
+      "verdict": "pass",
+      "evidence": [
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "后队还没到齐，阿九不敢抽走架在漫水段的那根长梁。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "原折断梁中的一截短段留给阿九，垫在外侧接手处，只托住眼前这一小段高差。"
+        }
+      ],
+      "reason": "048折梁、049整梁/原断段短坡回收为边界；056漫水—057等后队后取同梁撑网—058收回—060沿轨垫接头回收，断段从不冒充第二跨口整梁。作者2026-11-06已批B07同方案。"
+    },
+    {
+      "item": "无火手摇冷凝灯",
+      "verdict": "pass",
+      "evidence": [
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "灯边垂着的湿布一直偏向靠山。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "弥娅接过摇柄，她才腾手按住水票册，在入内的名字旁添短线；"
+        }
+      ],
+      "reason": "用湿布报风、用手摇柄供灯，删“灯焰”后没有新增火源；灯的照明和人的受伤手分工能衔接。"
+    },
+    {
+      "item": "网框高低口及担架平移",
+      "verdict": "pass",
+      "evidence": [
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "网框右边卡在竖槽里，左边已经抬高，只有靠左的一小段能让人低头钻过。"
+        },
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "他们先让前杆穿过左侧高口，再绕开卡住的右框，将后杆平移进来。"
+        }
+      ],
+      "reason": "开网后的缺口非等高；斜着挪是平面转向，不再以侧斜减厚。林渡外后杆、岑野内前杆，杜姨摘挂布后跟进。"
+    },
+    {
+      "item": "牵引绳夹轮传力及058释放",
+      "verdict": "pass",
+      "evidence": [
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "担架牵引绳的余尾被落框挤进牵引轮背后的连杆缝。"
+        },
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "牵引轮与主动连杆分离，空转一小段后停住。"
+        }
+      ],
+      "reason": "保护缆系网、担架牵引绳系伤员，二者分清；夹尾与拨叉驱动说明受拖来源。砸盒断电不消重量，梁承框、短刃靠铜片退拨叉固定钉后才解拖。"
+    },
+    {
+      "item": "裴七060门内与B07接口",
+      "verdict": "pass",
+      "evidence": [
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "担架送到靠墙地梁上，他终于能平躺，嘴唇却仍发白。"
+        }
+      ],
+      "reason": "门内地梁有先行定义，转运两端和杜姨照护相接。063留门内、066从内接应位翻出；不改为外侧原伤员、不补虚构返外。B07既审哈希一致。"
+    },
+    {
+      "item": "纯汉字2200下限",
+      "verdict": "pass",
+      "counts": {
+        "51": 2363,
+        "52": 2499,
+        "53": 2407,
+        "54": 2230,
+        "55": 2280,
+        "56": 2361,
+        "57": 2398,
+        "58": 2317,
+        "59": 2493,
+        "60": 2423
+      },
+      "reason": "当前十章均达2200纯汉字下限；054实际由2241降为2230，减11汉字，不是模拟数。只去掉一段旁白辩护，没有靠新增内容补字。字数通过不代替阅读结论。"
+    },
+    {
+      "item": "章末世界事件与人物行动双层钩子",
+      "verdict": "pass",
+      "reason": "十条next_question重新确认当前原句及世界压力/人物行动。056以停担架探退绳替代重复报警；坍塌救援、物证、枪下转运、抢缆、网与撤权、金属臂、容量、刀尖交替，非每章重复突然敌人。",
+      "evidence": [
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "林渡让后面的担架停在梁上，自己沿墙察看网框下沿，找绳能不能从内侧退开的地方。"
+        }
+      ]
+    }
+  ],
+  "standards_checks": [
+    {
+      "category": "人物位置链",
+      "result": "通过；RF-N02关闭",
+      "issue_ids": [
+        "R004-B06-RF-N02"
+      ],
+      "evidence": [
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "麦穗攥住内侧扶杆，将伤脚贴着斜撑慢慢放下。"
+        },
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "麦穗仍在门外守绳，刚扭过的脚踝让她不能来回跑，便固定在较平的内沿。"
+        }
+      ],
+      "note": "一次解圈后沿内侧撤回，再固定守绳，不回到缆圈；其余网内外及裴七门内位置未回归。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "数字闭环",
+      "result": "正文通过；WB另位独立读者专核",
+      "issue_ids": [
+        "R004-B06-I17"
+      ],
+      "evidence": [
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "不拿这两个十七充作两边的总人数。"
+        }
+      ],
+      "note": "34为原登记核验子集，另外同伴落点另标；不新增老人、不把全场定死。051报损与052治疗各一包分开，058不新开药。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "信息释放顺序",
+      "result": "通过",
+      "evidence": [
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "“先别定。旧管也会钻孔。”"
+        }
+      ],
+      "note": "052不凭黑孔/粉末定炸药，060图缺段不定责任；061才有孔距、烧蚀、封漆等互证。未提前揭双陆伪史/终局机制。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "知识来源",
+      "result": "通过",
+      "evidence": [
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "至于第二层完整装了什么，他没来得及看。"
+        }
+      ],
+      "note": "箱编号来自岑野托卷时的目击，连接扣只比外形；拆面罩/鞋印不足以认出无面者，058金属臂不定来源。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "物件物理",
+      "result": "重点已关闭",
+      "issue_ids": [
+        "R004-B06-I07",
+        "R004-B06-I09",
+        "R004-B06-I11",
+        "R004-B06-I18"
+      ],
+      "evidence": [
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "砸断的是控制和供电，网的重量还在。"
+        }
+      ],
+      "note": "冷凝灯无焰、铜片不承网，单整梁连续，低高口与夹尾传力详见重点核验；旧台账更正由WB专核，本报告不代签。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "时间口径",
+      "result": "I08及I20均关闭",
+      "issue_ids": [
+        "R004-B06-I08",
+        "R004-B06-I20"
+      ],
+      "evidence": [
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "林渡立刻叫外队收近，不再等下一个转弯的回报。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "下一轮凉时到来前，两边得找到能重新汇合的办法"
+        }
+      ],
+      "note": "等待对象与前文转弯回报一致，风变可提前催人；没有新增一刻/整日或重置半凉时。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "光影与能力边界",
+      "result": "通过",
+      "evidence": [
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "有人正照着下方辨人、核对名单，光本身并不能穿过木梁。"
+        },
+        {
+          "chapter": 59,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+          "quote": "散热和这点维修没有补进电"
+        }
+      ],
+      "note": "识别依靠人/控制片/喊号，不是照明全知；测潮仪经有限接点处理只放一次残线，黑屏不恢复，报风不代承重。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "感官依据",
+      "result": "通过",
+      "evidence": [
+        {
+          "chapter": 51,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+          "quote": "水在锈边积成一线，落进木纹时带出淡褐色木汁"
+        },
+        {
+          "chapter": 59,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+          "quote": "细小水滴和黑灰落在鼻端，呼吸带着涩意"
+        }
+      ],
+      "note": "水珠、木汁、锈水、黑灰及残渣有介质/来源；没有把气味当盐或将冷凝残液当饮水/洗伤水。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "人体与伤势",
+      "result": "通过；RF-N02动作修复",
+      "issue_ids": [
+        "R004-B06-RF-N02"
+      ],
+      "evidence": [
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "下一段由别人收绳，他报位置。"
+        },
+        {
+          "chapter": 60,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "quote": "弥娅接过摇柄，她才腾手按住水票册"
+        }
+      ],
+      "note": "麦穗脱圈后伤踝仍限制急转，沿内杆慢放后固定守绳；林渡伤手由别人收绳、杜姨代记，裴七不恢复搬运，祝衡腿伤和灼伤未被删改。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "篇幅口径",
+      "result": "10/10达到硬下限",
+      "counts": {
+        "51": 2363,
+        "52": 2499,
+        "53": 2407,
+        "54": 2230,
+        "55": 2280,
+        "56": 2361,
+        "57": 2398,
+        "58": 2317,
+        "59": 2493,
+        "60": 2423
+      },
+      "note": "去Markdown标题，只计纯汉字，不计标点数字拉丁；054实际2230，所有十章达标。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "AI腔：叙述者翻译与辩护/连续否定解释",
+      "result": "已列问题全部关闭；本轮无新增项",
+      "issue_ids": [
+        "R004-B06-RF-N03",
+        "R004-B06-RR-N01"
+      ],
+      "evidence": [
+        {
+          "chapter": 54,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "quote": "她趁这一瞬把孩子们向暗口送。"
+        },
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "框架还压在长梁上。"
+        }
+      ],
+      "note": "RR-N01所指假想万能遮光辩护已删除。留在场内的动作及可观察光斑足以说明局部效果；不靠计“不是”词频把必要的器物/能力边界一起删掉。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "AI腔：动作罗列流水账",
+      "result": "首轮命中处已修，未见新增同等级项",
+      "issue_ids": [
+        "R004-B06-RF-N02",
+        "R004-B06-RF-N04"
+      ],
+      "evidence": [
+        {
+          "chapter": 55,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "quote": "麦穗攥住内侧扶杆，将伤脚贴着斜撑慢慢放下。"
+        }
+      ],
+      "note": "慢放伤脚实际推进撤回，不再解圈/摸伤/点头重复首次试脚。其余结构测量与风向验证各给不同结果，不用词频消除必要操作。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "AI腔：动词悬空/指代先行",
+      "result": "RF-N01、RF-N02、I08关闭",
+      "issue_ids": [
+        "R004-B06-RF-N01",
+        "R004-B06-RF-N02",
+        "R004-B06-I08"
+      ],
+      "evidence": [
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "林栖先看林渡的手，见他仍按着伤布，才把目光移回担架：“他没有坠下去。”"
+        },
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "林渡立刻叫外队收近，不再等下一个转弯的回报。"
+        }
+      ],
+      "note": "观察对象、发话顺序和等待对象均有先行词；“绳伤”的不明对象随重复动作一并删去，枪机试拉宾语仍清楚。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "AI腔：验证与动作重复",
+      "result": "RF-N02、RF-N04关闭",
+      "issue_ids": [
+        "R004-B06-RF-N02",
+        "R004-B06-RF-N04"
+      ],
+      "evidence": [
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "林渡将样本包好，另塞进离水袋和药包较远的衣缝。"
+        },
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "林渡叫众人离开断面，只记下取样的位置。"
+        },
+        {
+          "chapter": 56,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "quote": "林渡让后面的担架停在梁上，自己沿墙察看网框下沿，找绳能不能从内侧退开的地方。"
+        },
+        {
+          "chapter": 57,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "quote": "林渡伸木尺探过下沿，量到的空隙连担架横杆都容不下。"
+        }
+      ],
+      "note": "收样一次；报警一次；056先察看、057量出不足并找控制盒，各有新结果。夹绳拖担架只在057末发生。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    },
+    {
+      "category": "AI腔：“像是”/比喻密度及同声对白",
+      "result": "未见独立阻塞项",
+      "evidence": [
+        {
+          "chapter": 52,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "quote": "“少我一个，谁抬？”"
+        },
+        {
+          "chapter": 59,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+          "quote": "“有风，不是通行许可。”她说。"
+        },
+        {
+          "chapter": 58,
+          "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "quote": "“还活着。”"
+        }
+      ],
+      "note": "继承前轮实际阅读判断，九章字节不变；本轮完整重读054未见新增明喻堆叠或同声对白。“像是”十章仍为0，仅作机械辅助；原054旁白辩护已在RR-N01单独关闭。",
+      "review_basis": "未变处继承前轮真实审读；054本轮完整重读，引用逐条核当前工作稿。"
+    }
+  ],
+  "patch_audit": {
+    "path": "harness/maintenance/R004/resume-changes.json",
+    "sha256": "26ee6773f5702227b2c2afba982c369bb8108ffaafb779fd04c9a44b03139a3e",
+    "entry_1_based": 56,
+    "entry": {
+      "path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+      "issue": "R004-B06-RR-N01",
+      "before_quote": "她趁这一瞬把孩子们向暗口送，不说湿布能骗过每一盏灯。",
+      "after_quote": "她趁这一瞬把孩子们向暗口送。",
+      "resolution": "删除未经人物提出的假想万能能力辩护，既有遮光/挪灯/转运因果不变",
+      "before_sha256": "8486901a8f2f35c6ff20e1ac28b7051807a47b71139dea1c260d522a08bd9aaf",
+      "after_sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef"
+    },
+    "result": "exact_single_patch_matches_current_bytes",
+    "method": "当前054字节中将唯一after_quote逆换为before_quote后，SHA等于resume-recheck的054；九章逐一核SHA不变。仅内存操作，不改正文。"
+  },
+  "manuscript_revalidation": [
+    {
+      "chapter": 51,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+      "previous_sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065",
+      "sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 52,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+      "previous_sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648",
+      "sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 53,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+      "previous_sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8",
+      "sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 54,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+      "previous_sha256": "8486901a8f2f35c6ff20e1ac28b7051807a47b71139dea1c260d522a08bd9aaf",
+      "sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef",
+      "changed": true,
+      "reading_basis": "本轮完整重读054，另读053章末和055开头接口"
+    },
+    {
+      "chapter": 55,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+      "previous_sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a",
+      "sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 56,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+      "previous_sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2",
+      "sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 57,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+      "previous_sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5",
+      "sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 58,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+      "previous_sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6",
+      "sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 59,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+      "previous_sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9",
+      "sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    },
+    {
+      "chapter": 60,
+      "source_path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+      "previous_sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69",
+      "sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69",
+      "changed": false,
+      "reading_basis": "前轮已实际阅读；本轮SHA不变，继承既有判断；53/55另重读接口"
+    }
+  ],
+  "writeback_status": "separate_independent_review_not_signed_here",
+  "writeback_verdict": "not_reviewed_this_round",
+  "writeback_note": "WB由另位独立读者专核；本轮不判其完成情况、不重读其回填、不以WB未获本agent签字影响正文结论。本报告通过不等于WB或整个维护发布流程通过。",
+  "writeback_handoff_reference": {
+    "path": "harness/maintenance/R004/B06/resume-recheck.json",
+    "sha256": "25979aa4e2f33b0863fa65dee1448c63459eeda2ec5ad5a0e0818db4f5b715ac",
+    "field": "writeback_todos",
+    "scope": "前轮交接关注点，仅供WB专核；不是本轮宣称仍未完成的待办清单"
+  },
+  "author_decision": {
+    "path": "harness/maintenance/R004/changes.json",
+    "issue": "R004-B07-I02",
+    "approved_date": "2026-11-06",
+    "quote": "执行2026-11-06作者批准的单整梁加原断段短撑方案。",
+    "status": "confirmed_after_body_first",
+    "requires_new_decision": false
+  },
+  "b07_boundary_check": {
+    "status": "inherited_from_previous_actual_boundary_check",
+    "report_path": "harness/maintenance/R004/B06/resume-recheck.json",
+    "report_sha256": "25979aa4e2f33b0863fa65dee1448c63459eeda2ec5ad5a0e0818db4f5b715ac",
+    "note": "前轮已确认B07十稿与其final一致及裴七门内/单整梁边界，本轮不再核签B07。唯一054半句删除不触及这些接口；WB另审。"
+  },
+  "reference_sources": [
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb",
+      "scope": "本轮加载项目Skill"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05",
+      "scope": "本轮加载修后短审流程"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/reader-review-format.md",
+      "sha256": "8e15775ff0bf9fa6d1f5fdfbf1b3f9644005e4a9fcd3c890a29ffb3cea5ed3b6",
+      "scope": "本轮加载52项和摘要格式"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "sha256": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f",
+      "scope": "此前已读第9节；本轮按既有规则核对应问题，不重做初审"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "sha256": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879",
+      "scope": "此前已读第2/7节，RR-N01按叙述者辩护条款复核"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814",
+      "scope": "此前已完整读；本轮继承未变判断并核54五项及本篇兑现"
+    },
+    {
+      "path": "harness/maintenance/R004/resume-changes.json",
+      "sha256": "26ee6773f5702227b2c2afba982c369bb8108ffaafb779fd04c9a44b03139a3e",
+      "scope": "本轮正文及接口读完后核第56条，逆向还原至前轮SHA；不审其他新增日志"
+    },
+    {
+      "path": "harness/maintenance/R004/B06/resume-final.md",
+      "sha256": "bb1c55faa55ed7f740217d38d62d5ea64cfd68cbd90edc3176558d60e5076fda",
+      "scope": "前轮真实失败报告，只读且保留，不改判历史"
+    },
+    {
+      "path": "harness/maintenance/R004/B06/resume-final.json",
+      "sha256": "5cf0bcb5ed085382ef4ed07af118687b5222dfb116bb01e3ab9241166ee9fb97",
+      "scope": "前轮真实失败报告，只读且保留，不改判历史"
+    },
+    {
+      "path": "harness/maintenance/R004/B06/resume-recheck.md",
+      "sha256": "4e86907b0e6afbf71a235d2b6a991445ee55ed2a777a3ff3e14010d7452eb269",
+      "scope": "前轮真实失败报告，只读且保留，不改判历史"
+    },
+    {
+      "path": "harness/maintenance/R004/B06/resume-recheck.json",
+      "sha256": "25979aa4e2f33b0863fa65dee1448c63459eeda2ec5ad5a0e0818db4f5b715ac",
+      "scope": "前轮真实失败报告，只读且保留，不改判历史"
+    }
+  ],
+  "reference_sources_digest": "fefe361a25500fb631603c074442c023ecb641aa56c0cbbb90f63cdd7429f03f",
+  "structural_validation": {
+    "checks_count": 52,
+    "chapter_checks": 50,
+    "arc_checks": 2,
+    "all_52_quotes_still_present": true,
+    "all_ten_han_counts_at_least_2200": true,
+    "chapter_54_han": 2230,
+    "only_chapter_54_changed": true,
+    "all_four_prior_report_hashes_unchanged": true,
+    "scope_note": "只证明字节、覆盖和格式；正文与吸引力通过来自前轮实际阅读加本轮场景/接口重读，非脚本自动评级。"
+  },
+  "coverage_note": "新增resume-recheck2.md/json且只写这两文件；未改工作稿、正式正文、初审/前轮失败报告或他人报告。继承已读证据但重新核全部52原句与10章封稿摘要；未运行会写其他文件的gate、verify-repair或check。"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "kind": "candidate-writeback-freeze",
+  "id": "R009",
+  "writer": "R009-main",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f"
+    }
+  ],
+  "body_digests": {
+    "B31": "eb444b6c35c394b4134830f6b493f6c61953f73fec55e11ae4287eca991043ad",
+    "B32": "bead7ff512677277b4de231b57d6f03fba7e9f079f872f800da9858efec9c42b",
+    "B33": "ed46ec048c3db6968d1cff0167fe89d127b75d93a65227e8f71ba1154e9e8983",
+    "B34": "498fbb294d3b5db1f9112d565e11c22ce95b8491aa3a8ae65cde59f1f1764304",
+    "B35": "75df2a084286d8c1452f2f34a3f79c9d2187997fd8dbd0936b9023cb36ac2179",
+    "B36": "23ee1ab734fa5b00fc87677f144d5190f55a083ff8919d87a64e36f46bd89b3b",
+    "B37": "ccff0ffea83ed5d02bc7f9c7de7ac3e1956cb0e284ad2b1410161bce31368012",
+    "B38": "d61d58944cc680cd6f929a77657be8ff323acf3dc048a6b6adea874199b8bee8",
+    "B39": "64bdf01b785eff76cb9ddcf0fd9f64e5c1b140294186d273a30e0bce17e29830",
+    "B40": "852e562fd5cab8cba354d191a32d376494e1e4678782975751e239d78dd8a5dd"
+  },
+  "note": "冻结候选供真实独立范围核读。尚未发布，也不是独立通过声明。"
+}

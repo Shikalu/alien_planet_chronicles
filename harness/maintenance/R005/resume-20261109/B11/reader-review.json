@@ -1,0 +1,483 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reviewer": "/root/review_201_220",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 101,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "sha256": "2ab421ab943669d3032cadb3e3b6992f4d04d83abd7c6a4f8e62972d7c3202cc"
+    },
+    {
+      "chapter": 102,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "sha256": "3497cff384a106da7e40c2f38fdc60a22f2349f933c7ef17ee4d54460039ef6b"
+    },
+    {
+      "chapter": 103,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "sha256": "c219b1ff1f003a25bf69d0a7997b8952f482f5261319e08a8cc6440a77c0370f"
+    },
+    {
+      "chapter": 104,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "sha256": "eb8db0aeafd4be073f58244885dbfd8b4e7ccfbc54d564d2bbaf351f995fd993"
+    },
+    {
+      "chapter": 105,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "sha256": "bdfd18e0b77db8f4e03ef5fe4adf2b34664f2c3cfb49b1fb9ba485fee006ff01"
+    },
+    {
+      "chapter": 106,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "sha256": "84dc51754ae578f103a3f8d86e7df5f9dc8f7f543ed92e38f86e3fd860f492ca"
+    },
+    {
+      "chapter": 107,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "sha256": "3719b20fc86522f406eee66cc20fe0db86168f4ac3e3fe76630e1798410f0671"
+    },
+    {
+      "chapter": 108,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "sha256": "38d5981e71fbf65346556a4543d1199baf8ab71f7a2eeca6650ee140885582af"
+    },
+    {
+      "chapter": 109,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "sha256": "8dd1d469f3d7f9877ec291cb0f42f3b93be203d5943fc0a882086c00e4bb321f"
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "sha256": "d4ff37d207a301fdf543b952fc8051131ccd468a36842d4a223312bd27d471cd"
+    }
+  ],
+  "source_digest": "ada42371d8867df096c1785629f02cc9518d7f6572d0376f355e2be0d8a50027",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 101,
+      "quote": "广播换了词。",
+      "reason": "逐号清场替代泛撤离，第一页给可感知升级。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 101,
+      "quote": "“拆了。”他说，“渗血的先上。”",
+      "reason": "主角用掉稀缺药而保伤员。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 101,
+      "quote": "它开始念编号。",
+      "reason": "广播同序把分组册变成需要追查的证据。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 101,
+      "quote": "“数是门上认的，格子留给你自己。想好了再来填。”",
+      "reason": "自填空格给予被编号孩子一次具体自主权。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 101,
+      "quote": "“灯在找我们站的地方。”他说，“下一根立柱，走背光那面。”",
+      "reason": "背光短移是世界风险指向下一行动。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 102,
+      "quote": "要抬的三副担架还留在木箱区。",
+      "reason": "三副架和四跨脆梁构成即刻难题。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 102,
+      "quote": "“绳不撤。”",
+      "reason": "保绳线是让后来人仍有参照的主动选择。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 102,
+      "quote": "布条底下渗出血来。",
+      "reason": "掌伤再开和固定线占用显出迁移成本。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 102,
+      "quote": "多数人顺着立柱滑坐下去",
+      "reason": "居民倒坐互相扶正是逃过喷流后的身体回报。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 102,
+      "quote": "“先找能开的口。”他说，“别撬。”",
+      "reason": "蓝壶柜把下一章理由聚在可开的检修口。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 103,
+      "quote": "柜体侧面那道检修盖板，阿九拆到第二枚螺栓就停了手。",
+      "reason": "拆板即遇内门识读，行动没有因找柜自动成功。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 103,
+      "quote": "“槽型不对。”",
+      "reason": "钥匙不合即收手，保物件不强开。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 103,
+      "quote": "矮门始终没开。",
+      "reason": "念册赢得交流，仍未拿到通行和水。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 103,
+      "quote": "“记这么细。”",
+      "reason": "替班承认册的细致，情绪回报由声音可见。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 103,
+      "quote": "“当班的在上头。”",
+      "reason": "请当班而非再刷片，下一步具体。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 104,
+      "quote": "槐七顺着柜顶的竖管上去，去了小半盏灯的工夫。",
+      "reason": "槐七短候请回当班，柜影里病幼还渴；等待并不自动打开库存，第一页压力可感。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 104,
+      "quote": "“你给我们续水，我们给你修。",
+      "reason": "提出维修交换而非无限索水。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 104,
+      "quote": "杜姨只接过小锡壶，没有碰待核的瓮。",
+      "reason": "破封瓮隔离并减少实际可分水，个人锡壶只救急；修后来源与成人让份代价同时显出。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 104,
+      "quote": "他想留着这一口在嘴里，多含一会儿。",
+      "reason": "含水不肯咽是缺水后极小且具体的情绪回报。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 104,
+      "quote": "“掂量多久？”",
+      "reason": "丙七迟疑使下一班能否续供成为具体问题。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 105,
+      "quote": "丙七上了检修平台，谈判没有断。",
+      "reason": "谈判由上廊继续，空间与风险承接。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 105,
+      "quote": "“整条线我修不了，也不应你。”",
+      "reason": "主角拒整线空头应承。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 105,
+      "quote": "留下半枚淡红的印。",
+      "reason": "真名血印是不可轻撤的可见新责任。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 105,
+      "quote": "“记我头上。”",
+      "reason": "阿九旧账与林渡认账以短对话落下温度。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 105,
+      "quote": "“下一次喷流之前，必须修好。”",
+      "reason": "两艘喷流使抢修必须立即组织。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 106,
+      "quote": "工班下来三个人，加丙七四个。",
+      "reason": "三工人加丙七四人到场与枚举对上，抢修有有限人力；主管先由绳料临撑。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 106,
+      "quote": "“班给你。”",
+      "reason": "把父亲纳入夜班，同时保留旧责。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 106,
+      "quote": "水流过的时候，整条线只轻轻抖了一下。",
+      "reason": "通水是技术目标的实际变化，非单靠宣告。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 106,
+      "quote": "“旁的照账走。”",
+      "reason": "父子只交班不赦免，压住温情成本。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 106,
+      "quote": "下一班水要照他们方才说定的领，料钱和守夜工时也得一笔一笔认。",
+      "reason": "通水不等饮水，下一班尚待核账兑现。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 107,
+      "quote": "先不碰水，把工班簿摊在小台上",
+      "reason": "先对账再碰水延续上一章未决。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 107,
+      "quote": "“我们排。”",
+      "reason": "主角承担续工组织，又在末分人找路。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 107,
+      "quote": "修支架换来的，是“连续领用”的资格",
+      "reason": "一次工时转为连续领班资格，仍受库存/清场制约。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 107,
+      "quote": "杜姨特意多倒了半口。",
+      "reason": "陶碗转向完整沿和半口水回报具体。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 107,
+      "quote": "“排完班的人，分一半跟我走——去找一条不靠登记的路。”",
+      "reason": "清场使修水不能替代寻出路，下一行动明确。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 108,
+      "quote": "排好的班还没转完第一轮，漏洞就露出来了。",
+      "reason": "当场喝的制度立刻暴露病幼排除。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 108,
+      "quote": "搭手算工时，工时换你们工班认这条送水的路",
+      "reason": "主角用卡箍辅助工谈外送路线。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 108,
+      "quote": "第一趟平安。",
+      "reason": "一趟成功具体兑现饮水服务。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 108,
+      "quote": "“人回去，比罐子回来要紧。”",
+      "reason": "裴七先看人回去，使病患不是被动道具。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 108,
+      "quote": "下一趟的路，得重新报给丙七。",
+      "reason": "第三趟可见投影改变下一趟路线需求。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 109,
+      "quote": "送水才改了线。",
+      "reason": "送水改线把新缝接进前章因果。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 109,
+      "quote": "“开。”林渡说。",
+      "reason": "主角决定开有限护板承担接头代价。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 109,
+      "quote": "那枚接头废了。",
+      "reason": "接头报废为新路付出工具成本。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 109,
+      "quote": "找到一条下去的路，和找到一条全队能走的路",
+      "reason": "找到路并不等全队可过，回报保留阻碍。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 109,
+      "quote": "不能等广播提醒才走",
+      "reason": "全段试载后立即备交班、看实际灯序征兆，未知期限没有被写成系统宽限；下一章为何转人明确。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 110,
+      "quote": "柜口要有人接水，廊口要有人接伤员。",
+      "reason": "接水与接伤员两头都要留人，立刻有组织压力。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 110,
+      "quote": "“我们不造假牌。”",
+      "reason": "拒造假工牌，准备核实际规则。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 110,
+      "quote": "天亮透之前，最后一批人进了廊。",
+      "reason": "天亮前迁入遮蔽廊；健康前后抬手用同一已试好架四趟平托，伤者不自行撑爬，转入落点的变化成立。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 110,
+      "quote": "“先别念。等我能站到门前自己念了，你们再念。”",
+      "reason": "男孩暂不公开名被尊重，接101空格的承诺。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 110,
+      "quote": "“回去睡。”他说，“明天的活，比这块牌子多。”",
+      "reason": "牌子新规则与下一次查路相连，末句可追读。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 110,
+      "quote": "写完他把笔还给林栖，又低声说：“先别念。等我能站到门前自己念了，你们再念。”",
+      "reason": "101空格在110由男孩自填且公开权受尊重；104救急锡壶与成人让份后，107核已处理来水兑现正式一班，物质/人物两线承诺有代价地回收。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 107,
+      "quote": "“清场轮到这里，我这个检修位也要撤。水线封存，账封箱。你们的班，就白排了。”",
+      "reason": "喷流保命→门不认→有限抢修换水→清场取消续班→检修廊工牌限制；每次阶段兑现仍留下更大具体阻碍，未提前解谜。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    }
+  ],
+  "scope_note": "101—110本次实际终稿独立吸引力审读；事实pass和追读pass分开，不由字数通过推导。",
+  "fact_review": "harness/maintenance/R005/resume-20261109/B11/final.json"
+}

@@ -1,0 +1,1629 @@
+{
+  "schema_version": 1,
+  "id": "R004-WB-BODY-HANDOFF-FINAL",
+  "kind": "external_body_acceptance_dependency_handoff",
+  "reviewed_at": "2026-11-07T10:15:17+08:00",
+  "timezone": "Asia/Shanghai",
+  "reviewer": {
+    "thread_id": "01a1b38d-1b86-7c03-af8e-960353eaa510",
+    "session_id": "01a1b38a-c83e-7372-95f1-36c86e256305",
+    "role": "独立WB核验者，仅对接三个外部验收依赖",
+    "identity_source": "本轮exec实际环境CODEX_THREAD_ID/CODEX_SESSION_ID",
+    "same_as_prior_WB_reviewer": true,
+    "external_reviewer_alias_from_user": "Boyle",
+    "external_reviewer_thread_id": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+    "distinct_from_body_reviewer": true,
+    "distinct_from_patch_writer": true
+  },
+  "verdict": "three_external_body_dependencies_closed",
+  "handoff_pass": true,
+  "pass_scope": "仅R004-WB-13/17/20在WB v3中留下的external_body_acceptance依赖，不是全文、整批或发布验收",
+  "R004_pass": false,
+  "ready_for_publish": false,
+  "release_allowed": false,
+  "publication_verdict": "not_signed_here",
+  "full_B10_review_by_this_reviewer": false,
+  "full_fifty_chapter_review": false,
+  "full_400_chapter_review": false,
+  "manuscript_acceptance": "external_Boyle_report_received_and_bound_only_not_self_signed",
+  "attraction_acceptance": "external_Boyle_pass_cited_only_not_self_signed",
+  "reading_order": [
+    "读取根AGENTS、skill/editorial和用户限定；本次是外部证据交接，不声称新一轮先正文全文盲读。",
+    "读取旧三项/原recheck/v3所留外部依赖，锁定具体要求；未重新审查其余19旧问题。",
+    "核用户指定Boyle终审真实SHA；读取身份、结论、阅读范围、35项状态索引及与三项直接有关的具体闭环/规范条目。",
+    "核B10 v2相关具体关闭条目和092同SHA全文继承来源；保留其当时整份needs_revision，不把它改写为历史整体pass。",
+    "读取manifest并核九WB完整字节SHA与本方v3一致；核原三项WB当前原句及7处直接接口行。",
+    "核Boyle十章工作稿SHA与报告及本方v3绑定一致；只核所引局部原句/行号，不全文重读。",
+    "封存前后检查所有本报告已读输入未变，仅新建两份handoff报告。"
+  ],
+  "manifest": {
+    "path": "异星录/06_执行计划/工作区/R004-WB/manifest.json",
+    "sha256": "c2ad803e8eb1a61c0099e3a6a0064529730930da50b0029979c9b165ed5dfeb6",
+    "count": 9,
+    "same_as_v3": true,
+    "pending_review_metadata_not_changed": true
+  },
+  "files": [
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+      "sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "bytes": 182303,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/0"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "bytes": 145589,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/1"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+      "sha256": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+      "bytes": 104858,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/2"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+      "sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "bytes": 118844,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/3"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语与命名表.md",
+      "sha256": "09cc4251e38b6b352a8d3fd28e9e75f6b0c3902b8d899f11c80d91905a686795",
+      "bytes": 54567,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/4"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语词典.md",
+      "sha256": "d1c00162f077b77bc0f4d62ee8e5b4ca1cc7e4f4d79e74cecbdd4b71a0693033",
+      "bytes": 33553,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/5"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "bytes": 70587,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/6"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+      "sha256": "abcc36de0a6a784753e9631342f526588fa5c467973f47eb56329a281fe54294",
+      "bytes": 6529,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/7"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/后七卷设定决策与执行约束.md",
+      "sha256": "fbdf6296ba79a44afab8f089ed96d4c49b4be474b40292a301fe3b412a323462",
+      "bytes": 11075,
+      "v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/files/8"
+      },
+      "same_bytes_as_v3": true,
+      "review_mode": "fingerprint_binding_and_three_dependency_evidence_only"
+    }
+  ],
+  "body_sha_bindings": [
+    {
+      "chapter": 91,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+      "sha256": "bac5d3c7e849fe0fa9665710ab8127aed1013154fdf1af4abdbc3c403cc1e679",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/0"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/0"
+      },
+      "external_review_mode": "Boyle_current_full_reread",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 92,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+      "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/1"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/1"
+      },
+      "external_review_mode": "same_sha_inherited_from_full_read_v2",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 93,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+      "sha256": "f46f4087286e66417566e662c1b0fd2700d796a0732fb6df4f785276b9d6f3ef",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/2"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/2"
+      },
+      "external_review_mode": "Boyle_current_full_reread",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 94,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+      "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/3"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/3"
+      },
+      "external_review_mode": "Boyle_current_full_reread",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 95,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+      "sha256": "a8abd33c94196304c1d51674221cdba9805e48197cb54077e68c1240ba5bae0b",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/4"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/4"
+      },
+      "external_review_mode": "Boyle_current_full_reread",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 96,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+      "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/5"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/5"
+      },
+      "external_review_mode": "same_sha_inherited_from_full_read_v2",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 97,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+      "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/6"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/6"
+      },
+      "external_review_mode": "same_sha_inherited_from_full_read_v2",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 98,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+      "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/7"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/7"
+      },
+      "external_review_mode": "same_sha_inherited_from_full_read_v2",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 99,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+      "sha256": "935dd042d289c5ad20cad1eaf713b170ec81e13db21e8cd56b09bca40bc776f6",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/8"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/8"
+      },
+      "external_review_mode": "Boyle_current_full_reread",
+      "this_reviewer_full_reread": false
+    },
+    {
+      "chapter": 100,
+      "work_path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+      "sha256": "32db9e0550214c18626f3c07320d6540fd83c23b7a0765be12b86431e9d70dca",
+      "external_source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/manuscript_sources/9"
+      },
+      "same_as_external_sealed_bytes": true,
+      "same_as_WB_v3_body_binding": true,
+      "WB_v3_source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/prose_fingerprints/9"
+      },
+      "external_review_mode": "Boyle_current_full_reread",
+      "this_reviewer_full_reread": false
+    }
+  ],
+  "source_inventory": [
+    {
+      "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+      "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+      "bytes": 491008,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "bytes": 192009,
+      "role": "external_terminal_review",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-review.json",
+      "sha256": "e768f8ec5bff8c6d8406d3c06ef7d43fda56516afc6c6a965e3f6983052832ae",
+      "bytes": 121737,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-recheck.json",
+      "sha256": "be20b0c67f6f6cc317674fa0f1b08d8b29a97cbc47d60e091eea42dfddcb27f5",
+      "bytes": 116894,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+      "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542",
+      "bytes": 212276,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-recovery2-final.json",
+      "sha256": "efb07e3274b7192acd471a841b261c7f2b1ebce86b8dd447e3c1592b391bdf08",
+      "bytes": 42378,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-approved-v3-recheck.md",
+      "sha256": "b6ca98c2423a055aeeb9d6d6eecd852515f6020de5ee291ae0324eae5821aa1b",
+      "bytes": 126134,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-approved-v2.json",
+      "sha256": "486c70bcec9f0e5ef5703540534cf7587cdd66b368fd9d70517ec7985f0999de",
+      "bytes": 472855,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-approved-v2.md",
+      "sha256": "07aea49af6124350f62c900fd258120b9d6db3bf8b08708a85202c6ce82f014d",
+      "bytes": 265306,
+      "role": "inherited_or_protected_evidence",
+      "modified": false
+    }
+  ],
+  "external_final_report": {
+    "source": {
+      "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "pointer": ""
+    },
+    "expected_user_sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+    "expected_sha_matches": true,
+    "reported_fields": {
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reviewer_role": "独立读者短复核；六章全文新核、四章同SHA继承",
+      "independent": true,
+      "body_first": true,
+      "fully_unprompted_blind": false,
+      "independence_note": "审读者曾提出AV2意见，本轮并非无先验盲读；未实施正文补丁。先重读六章实际新正文并保存笔记，再看12补丁和旧报告。不给未重读的四章冒记新读。",
+      "reading_order": [
+        "按skill流程先读091/093/094/095/099/100六章当前全文；工具截断部分已分段补齐，保存新MD中的正文先读记录。",
+        "正文先读之后才读final-prose-changes、v2结论/旧关闭来源和指定规范、C04/C05。",
+        "092/096/097/098仅核与v2相同SHA及引文存在，20项quote/reason/verdict原样继承；本轮未重读四章全文。",
+        "固定世界/角色设定、事实边界、正式101只核与v2相同SHA继承既有接口边界；未签101全文。",
+        "用v2审读会话保留的旧全文在内存顺序应用12补丁，逐中间SHA及最终六章实字节核对，未写稿、未调用发布或checker。"
+      ],
+      "chapters_full_reread_this_round": [
+        91,
+        93,
+        94,
+        95,
+        99,
+        100
+      ],
+      "chapters_inherited_same_sha": [
+        92,
+        96,
+        97,
+        98
+      ],
+      "source_digest": "0c8177fea94a79633e8528250be1d286d2210a23bb07ef7e2258f951d3f1ac1e",
+      "scope_note": "manuscripts.path为正式正文目标路径，sha256来自对应工作稿；未发布且不宣称正式旧稿字节相同。完整十章结论是六章新读＋四章同SHA历史全文结论的透明聚合。",
+      "fact_logic_verdict": "pass",
+      "attraction_verdict": "pass",
+      "verdict": "pass",
+      "manuscript_review_passed": true,
+      "release_allowed": false,
+      "release_allowed_note": "本轮正文独立审读通过，不是整批发布签署。WB木屑/白船同步由Turing另核，本报告不代签；发布/回填/门禁未执行，release_allowed:false不表示正文仍有未闭阻断。",
+      "summary": {
+        "reader_one_sentence": "他们跨过断阶却未获得上城承认，仍以有限器材接出被留下的人，并把姓名和证据留在可追问的册页里。",
+        "fact_logic": "AV2-N01及A01—A06在实际新稿闭合；095改为有条件尝试回撤，099小片角/主体与100一手压绳均可从正文直接确认。旧28项未重开，所核/继承范围未见新严重或中等问题。",
+        "attraction": "095选择与失败因果可理解后，留名的遗憾不再被必死工法疑问打断。六章30项和篇章两项新核均pass，四章20项同SHA原样继承pass；52项聚合通过。",
+        "severe_open": 0,
+        "medium_open": 0,
+        "av2_closed": 7,
+        "legacy_closed_preserved": 28,
+        "new_issues": 0,
+        "caveat": "通过不是语言完美保证，也不是101全文、WB同步或发布通过。"
+      },
+      "writeback_review": {
+        "status": "not_reviewed_this_round",
+        "assigned_reviewer": "Turing（用户指定）",
+        "scope": "WB木屑姓名载体与白船同步；本报告不读写WB新稿，不代签该部分关闭。"
+      },
+      "not_reviewed": [
+        "四个未改章节本轮全文重读（仅同SHA继承原全文结论）",
+        "正式101全文事实及吸引力",
+        "楔子/001—003开篇四项及其他范围外正文",
+        "WB新同步与发布回填质量",
+        "gate/check/verify-repair/发布验收"
+      ],
+      "report_complete": true
+    },
+    "status_index_only": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures"
+      },
+      "count": 35,
+      "closed": 35,
+      "reopened": 0,
+      "not_all_35_independently_reaudited_by_this_reviewer": true
+    },
+    "formal_target_path_warning": "Boyle manuscripts.path为正式目标路径，其SHA来自manuscript_sources.work_path；本轮核工作稿，不宣称正式稿已发布/同字节。"
+  },
+  "external_evidence_catalog": {
+    "R004-B10-AV2-N01": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/0"
+      },
+      "id": "R004-B10-AV2-N01",
+      "title": "095末人回撤风险口径已闭合",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "末人自行套好回送套绳，再松无人接替的来岸桩；桩翻时可能拉不住，既有绳仍准备送回。之后热汽、轨枕松动和桩/轨坠落实际打断救援，才失去通路。未新增保证必死的工程限制，也未倒用后果证明事前必死；保留失联而非确认死亡。原中等因果问题及095选择/情绪两项阻断均关闭。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/0/evidence/0"
+          },
+          "chapter": 95,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "a8abd33c94196304c1d51674221cdba9805e48197cb54077e68c1240ba5bae0b",
+          "line_start": 15,
+          "quote": "其他人过去时有他稳住来岸；等套绳最后送回，他得自己套好，再放开桩根沿残轨过去。桩若在这时翻倒，对岸未必来得及把他拉住。",
+          "quote_sha256": "3f09e6e2a3dcb8b38acafde2fd248faa1318cbdb861bfeb12dc22b1d8a7d1ca2",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/0/evidence/1"
+          },
+          "chapter": 95,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "a8abd33c94196304c1d51674221cdba9805e48197cb54077e68c1240ba5bae0b",
+          "line_start": 31,
+          "quote": "“最后没人替你压桩。”杜姨说。",
+          "quote_sha256": "124b485723c77168a68fb5f0188a35ee8e0c8ea27a3774ae769a0f1611e061e9",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/0/evidence/2"
+          },
+          "chapter": 95,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "a8abd33c94196304c1d51674221cdba9805e48197cb54077e68c1240ba5bae0b",
+          "line_start": 37,
+          "quote": "林渡当面说清，只要绳路还在，就把套绳送回接他；桩和残轨撑不到那时，便没有第二条路。",
+          "quote_sha256": "ee17726cf2223f72bcee925b4f65c0a71fc5f3b28260500ead010ac1a75d2ddf",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/0/evidence/3"
+          },
+          "chapter": 95,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "a8abd33c94196304c1d51674221cdba9805e48197cb54077e68c1240ba5bae0b",
+          "line_start": 77,
+          "quote": "槐七想把余绳送回去，阿九按住他，指向下方正在松开的轨枕。",
+          "quote_sha256": "94450f728f8c784e359433919c79308dcbdb95fc007cd6cee671b6740f220ab4",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/0/evidence/4"
+          },
+          "chapter": 95,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+          "sha256": "a8abd33c94196304c1d51674221cdba9805e48197cb54077e68c1240ba5bae0b",
+          "line_start": 81,
+          "quote": "他让册上添失联，不添死亡。",
+          "quote_sha256": "06c205912ee04efdfcf53536d150f430363affe0554cc379906a55f48947ba6a",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ]
+    },
+    "R004-B10-AV2-A02": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/2"
+      },
+      "id": "R004-B10-AV2-A02",
+      "title": "094短延迟明确为最后读数粗估",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "不到半时辰归属于弥娅依据最后回摆的估计；风向再变就催行，不等待喷发证实时辰。旧六小时核对周期和报废后不得继续读数仍区分，未添精确倒数。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/2/evidence/0"
+          },
+          "chapter": 94,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+          "line_start": 81,
+          "quote": "弥娅照最后一次回摆粗估，争来的延迟还不到半个时辰。风又开始向内吸，她催前面的人接着走，不能等下一次喷发替他们核准时辰。",
+          "quote_sha256": "d24c2183ee7c4109361730196dff8ff77a348e813eb77f4a9b75d050fdc9a93e",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/2/evidence/1"
+          },
+          "chapter": 94,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+          "line_start": 71,
+          "quote": "弹簧在壳里断开，指针斜落在裂盘上，再没有回去。",
+          "quote_sha256": "e4657a4f76216fe9270d720108b06f618dc9eff8367b3db5b7f91f5a49244dce",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ]
+    },
+    "R004-B10-AV2-A04": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/4"
+      },
+      "id": "R004-B10-AV2-A04",
+      "title": "100腾一手托臂，不撤掉原绳控制",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "旧绳先经固定铁耳，阿九保持牵制；槐七明确一手仍压绳，另一手仅托小臂帮林渡搭回，未写成两手离绳或把整人提起。其后仍弃绳弃扣，不取消受力代价。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/4/evidence/0"
+          },
+          "chapter": 100,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "32db9e0550214c18626f3c07320d6540fd83c23b7a0765be12b86431e9d70dca",
+          "line_start": 39,
+          "quote": "槐七把绳套绕过止动环，另一端先走箱座下的固定铁耳，才同阿九一起向侧后方拉。",
+          "quote_sha256": "c7f6dce4f5026f71bb689b3665aa5a0964432fbdf6cdd614281ad5747a693059",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/4/evidence/1"
+          },
+          "chapter": 100,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "32db9e0550214c18626f3c07320d6540fd83c23b7a0765be12b86431e9d70dca",
+          "line_start": 75,
+          "quote": "槐七一手仍压住绳，另一手伸来托住他的小臂，帮他搭回平台。",
+          "quote_sha256": "42c0a3bb9ed4cf26f95ec478f68f7fa67a80352e80fa768957d36b22905e0445",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/4/evidence/2"
+          },
+          "chapter": 100,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+          "sha256": "32db9e0550214c18626f3c07320d6540fd83c23b7a0765be12b86431e9d70dca",
+          "line_start": 77,
+          "quote": "绳不再回收，卡扣也留在门上。",
+          "quote_sha256": "d25d893e499324daa9792069bde9f0b7e95682a6a585c33dcf4c0bfe0992d05f",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ]
+    },
+    "R004-B10-I02": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/8"
+      },
+      "id": "R004-B10-I02",
+      "title": "唯一短梁、两边料与受力段分清",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "指定关闭证据在本轮工作稿仍成立；涉及六个改章的段落已随全文重核，另四章只按同SHA继承。12条补丁未改回该旧问题，故不重开。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/8/evidence/0"
+          },
+          "chapter": 92,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 9,
+          "quote": "能承重的旧梁料只剩这一根。",
+          "quote_sha256": "5ed935d86bec9326f0741d1eb2186952801023d2824beac421ea8f61256f35be",
+          "external_verification_mode": "same_sha_inherited_quote_match",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/8/evidence/1"
+          },
+          "chapter": 92,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 11,
+          "quote": "阿九拆开撤离箱，从框上取出两条还实的长边料，让它们并排向上行岸伸，尾端分别压上对岸梁头，另一端与短梁错搭。",
+          "quote_sha256": "7b37d0080800f81cf37b5e966c9f2f006116d2f687e2072ed5ed0ee3e19993b8",
+          "external_verification_mode": "same_sha_inherited_quote_match",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/8/evidence/2"
+          },
+          "chapter": 92,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 53,
+          "quote": "过桩后剩下的绳尾留给抬手牵引，与梁下受力段隔着锁结；松收绳尾，兜套仍收着接头。",
+          "quote_sha256": "1b69801a90f725d7d53df25e61a30daa25bc6c2ca04a0c53f1e8d72e669081fd",
+          "external_verification_mode": "same_sha_inherited_quote_match",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/8/evidence/3"
+          },
+          "chapter": 92,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 79,
+          "quote": "兜在桥下的绳段不能硬拽，卡死的扣也没去拿；阿九把能收的线盘好，分清短残段与还能继续使用的两卷余料。",
+          "quote_sha256": "6029d44a92b847db27614e0a98f4f024de79e0a372969e809cc181bf651e1422",
+          "external_verification_mode": "same_sha_inherited_quote_match",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ],
+      "inherited_prior_reason": "短梁加拆箱两边料错搭；两侧兜绳锁牢，牵引尾段与受力段隔离。闸断海外边料，山侧暂承，桥下绳扣弃失；小说因果可读，不作承载认证。",
+      "v2_item_source": {
+        "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+        "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542",
+        "pointer": "/issue_closures/1"
+      },
+      "v2_item_status": "closed",
+      "v2_report_whole_verdict": "needs_revision"
+    },
+    "R004-B10-I06": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/12"
+      },
+      "id": "R004-B10-I06",
+      "title": "094接口、针位、控杆与管压分工",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "指定关闭证据在本轮工作稿仍成立；涉及六个改章的段落已随全文重核，另四章只按同SHA继承。12条补丁未改回该旧问题，故不重开。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/12/evidence/0"
+          },
+          "chapter": 94,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+          "line_start": 41,
+          "quote": "半扣只接仪器底座与这处触点。",
+          "quote_sha256": "e83f1bac0b7d9826218aa0eb3e8e1e17e0f4dcc7da4ca949129e9e3d821d650c",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/12/evidence/1"
+          },
+          "chapter": 94,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+          "line_start": 29,
+          "quote": "“力从管内来，不是她的仪器推得动。”",
+          "quote_sha256": "77521b3b9d624407736b2ea9aeafd9e7347fc1f9a72b50421cfe5b910c6ea452",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/12/evidence/2"
+          },
+          "chapter": 94,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+          "line_start": 75,
+          "quote": "等前端站稳，槐七将检修杆压进原有止位槽才退手。",
+          "quote_sha256": "1d72942f05f653b3d43221c8fc1fe0988a6087ea6be52a8390fe8dce322f0d01",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ],
+      "inherited_prior_reason": "自然插入既有平口接回位触点；测针给位置，槐七控杆，管压做功，止位槽锁住才退。仪器不供阀动力。同字节实读复核。",
+      "v2_item_source": {
+        "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+        "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542",
+        "pointer": "/issue_closures/5"
+      },
+      "v2_item_status": "closed",
+      "v2_report_whole_verdict": "needs_revision"
+    },
+    "R004-B10-RF-N04": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/30"
+      },
+      "id": "R004-B10-RF-N04",
+      "title": "半扣/小框片跨章连续",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "指定关闭证据在本轮工作稿仍成立；涉及六个改章的段落已随全文重核，另四章只按同SHA继承。12条补丁未改回该旧问题，故不重开。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/30/evidence/0"
+          },
+          "chapter": 92,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 13,
+          "quote": "弥娅从拆下的零碎框料里留出一小片，在仪器侧边取下槐七先前试录音用的半枚蓝扣，把扣与松散旧接线一并夹在木片上，免得断口扎破包布。",
+          "quote_sha256": "ebb305a024a881aea3ce5dd87b2f14f466dc750588b90a550ec9cd83ce20120f",
+          "external_verification_mode": "same_sha_inherited_quote_match",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/30/evidence/1"
+          },
+          "chapter": 93,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+          "sha256": "f46f4087286e66417566e662c1b0fd2700d796a0732fb6df4f785276b9d6f3ef",
+          "line_start": 85,
+          "quote": "阿九仍压住它，让弥娅从侧面抽回木片和半扣，裹进原包布。",
+          "quote_sha256": "d84e365cf29ae70ca6c2efa8867446ee4e3ce33191c5fa7241497c090ef39480",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        },
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/30/evidence/2"
+          },
+          "chapter": 94,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+          "line_start": 75,
+          "quote": "弥娅撤下半扣和旧线，抽回晶片钥匙，将它们分开收妥，再合上仪器侧盖。",
+          "quote_sha256": "748a7e89e03672574ced13d24766534d5c4d70a6a008fb59a24cb86817f54ffa",
+          "external_verification_mode": "full_reread_current",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ],
+      "inherited_prior_reason": "092留非承重零碎小片夹半扣，093误触后隔离抽回，094复用收妥。不是桥框复活、第三完整蓝扣或随队新灯。",
+      "v2_item_source": {
+        "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+        "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542",
+        "pointer": "/issue_closures/23"
+      },
+      "v2_item_status": "closed",
+      "v2_report_whole_verdict": "needs_revision"
+    },
+    "R004-B10-RR-A01": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/32"
+      },
+      "id": "R004-B10-RR-A01",
+      "title": "098续摇供能补明",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "指定关闭证据在本轮工作稿仍成立；涉及六个改章的段落已随全文重核，另四章只按同SHA继承。12条补丁未改回该旧问题，故不重开。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/32/evidence/0"
+          },
+          "chapter": 98,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+          "sha256": "0d2012a2c86c87da8800bb501e316750aac9b6f3e3a7ab31935f333b328e55d4",
+          "line_start": 65,
+          "quote": "再缓缓转动灯柄。灯重新亮起，她才照向缝里。",
+          "quote_sha256": "f9400bf70f8aa7d958f5967abe98c0cc8a27f883d5d68e88c4ae17a054595b98",
+          "external_verification_mode": "same_sha_inherited_quote_match",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ],
+      "inherited_prior_reason": "撤铜片、复线、缓转手柄才亮，未靠余电自动恢复补解释。",
+      "v2_item_source": {
+        "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+        "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542",
+        "pointer": "/issue_closures/25"
+      },
+      "v2_item_status": "closed",
+      "v2_report_whole_verdict": "needs_revision"
+    },
+    "R004-B10-R2-A01": {
+      "source": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "pointer": "/issue_closures/34"
+      },
+      "id": "R004-B10-R2-A01",
+      "title": "第二根绳语序修复",
+      "status_in_external_report": "closed",
+      "reopened_in_external_report": false,
+      "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+      "reason": "指定关闭证据在本轮工作稿仍成立；涉及六个改章的段落已随全文重核，另四章只按同SHA继承。12条补丁未改回该旧问题，故不重开。",
+      "evidence": [
+        {
+          "source": {
+            "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+            "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+            "pointer": "/issue_closures/34/evidence/0"
+          },
+          "chapter": 92,
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "sha256": "486afd303d9e697fe371ed417cf500b0b9a107d42b6589b4df972b79647cde6c",
+          "line_start": 53,
+          "quote": "裴七把第二根绳带到对岸后，阿九将两根绳分置桥面两侧，各在短梁与箱框边料的搭接处绕出一只兜套。",
+          "quote_sha256": "2407f907ddcc6895a107ad6f9244a44956c5fb29585e4042e51c8a7108a4afc3",
+          "external_verification_mode": "same_sha_inherited_quote_match",
+          "this_round_verification": "exact_quote_line_and_current_file_sha_match_not_full_read"
+        }
+      ],
+      "inherited_prior_reason": "是裴七把绳带过岸，不是将裴七送到第二根绳；同带线过程一致。",
+      "v2_item_source": {
+        "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+        "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542",
+        "pointer": "/issue_closures/27"
+      },
+      "v2_item_status": "closed",
+      "v2_report_whole_verdict": "needs_revision"
+    }
+  },
+  "external_power_boundary": {
+    "source": {
+      "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+      "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+      "pointer": "/standards_recheck/6"
+    },
+    "entry": {
+      "rules": [
+        "正文9.8"
+      ],
+      "title": "供能与能力限制",
+      "verdict": "pass",
+      "reason": "94仪器给位置、管压/手动杆改阀，99仍墙内线路供能，手摇灯不推整墙；100仅牵偏机械臂，不变全能破解。",
+      "evidence": [
+        {
+          "chapter": 94,
+          "quote": "“力从管内来，不是她的仪器推得动。”",
+          "path": "异星录/正文/第一卷_热海坠城/第094章_六小时旧记.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+          "sha256": "f4b45e6d31f90719a8449ad7a933fbdcef84709bca4005fae403b1cf646bf384",
+          "line_start": 29,
+          "verification_mode": "full_reread_current"
+        },
+        {
+          "chapter": 99,
+          "quote": "铜片刚接稳，墙内原有的线路亮起，识读口上方投出一层断续的画面。",
+          "path": "异星录/正文/第一卷_热海坠城/第099章_全部撤离.md",
+          "work_path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+          "sha256": "935dd042d289c5ad20cad1eaf713b170ec81e13db21e8cd56b09bca40bc776f6",
+          "line_start": 39,
+          "verification_mode": "full_reread_current"
+        }
+      ],
+      "scope": "六章本轮实读；涉及四章边界时只继承v2同SHA结论"
+    },
+    "this_round_verification": "source_entry_and_evidence_current_sha_quote_match_only"
+  },
+  "dependency_closures": [
+    {
+      "id": "R004-WB-13",
+      "title": "089留置短撑与090回收旧短梁已分开；092几段来源仍待核",
+      "status": "closed_external_body_acceptance_dependency_only",
+      "previous_status_in_v3": "pending_external_body_acceptance_not_signed_here",
+      "historical_original_status": "open",
+      "historical_recheck_status": "pending",
+      "source_chain": [
+        {
+          "path": "harness/maintenance/R004/writeback-review.json",
+          "sha256": "e768f8ec5bff8c6d8406d3c06ef7d43fda56516afc6c6a965e3f6983052832ae",
+          "pointer": "/issues/12"
+        },
+        {
+          "path": "harness/maintenance/R004/writeback-recheck.json",
+          "sha256": "be20b0c67f6f6cc317674fa0f1b08d8b29a97cbc47d60e091eea42dfddcb27f5",
+          "pointer": "/prior_22_item_rechecks/12"
+        },
+        {
+          "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+          "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+          "pointer": "/historical_22_issue_index/12"
+        }
+      ],
+      "original_finding": "已重读主笔最新090：用原回收绳牵出门框唯一短梁、修端后交岑野，封板短撑仍留原处。因此“089门框梁如何接091”旧疑问已在新稿补足，不再列正文缺口。但091只见可带短梁，092起“几段短梁”的具体分段／其他来源仍未见；不能抽回089明确留置短撑或增造整梁。",
+      "recheck_pending_reason": "089短撑留置/090唯一旧短梁回收交岑野已分；092箱框搭接受力及撤退链明示待B10，不因WB记入即闭合。",
+      "v3_pending_reason": "WB对应段的限定闭环/兼容性可继承；原问题包含的092/094及B10正文工程或全文独立验收不在本报告签闭。旧pending不主观改closed；交Boyle当前字节报告/主线程汇编。",
+      "requirements": [
+        "089封板短撑不得抽回；090回收唯一旧梁到091的既有WB闭环保持。",
+        "092只有一根旧梁、拆箱两条长边料的来源；搭接受力、两绳兜套与锁结外牵引尾段必须可区分。",
+        "外側边料损毁后的山侧暂持、末人撤离与不可解绳扣弃失须有独立正文验收，而非凭WB补写通过。"
+      ],
+      "requirement_to_external_evidence": [
+        {
+          "requirement": "092材料来源与搭接/受力/弃失",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/8"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/8/evidence/0"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/8/evidence/1"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/8/evidence/2"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/8/evidence/3"
+            }
+          ]
+        },
+        {
+          "requirement": "第二根绳的带线与两岸连接，非人物位置误读",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/34/evidence/0"
+            }
+          ]
+        },
+        {
+          "requirement": "093/094携回只是非承重小片及半扣，不是桥框/新增整梁",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/30"
+            }
+          ]
+        },
+        {
+          "requirement": "相邻095新改没有恢复确定退路；仅绳路仍在时回送",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/0"
+            }
+          ]
+        }
+      ],
+      "external_closure_ids_used": [
+        "R004-B10-I02",
+        "R004-B10-R2-A01",
+        "R004-B10-RF-N04",
+        "R004-B10-AV2-N01"
+      ],
+      "conclusion": "092独立正文验收依赖已由Boyle /issue_closures/8、/34对接：092当前SHA与其v2全文审读一致，材料/受力/撤退为同字节具体闭环继承；其v3不是新读092。089—091既有WB语义及原段继承本方v3，不在本轮重审；095新改另有Boyle全文关闭且不恢复092弃失。仅关闭外部正文验收依赖，不作现实承载认证。",
+      "reopened_by_current_bytes": false,
+      "history_rewritten": false,
+      "this_reviewer_full_body_acceptance": false,
+      "current_wb_additional_line_refs": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_start": 817
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+          "line_start": 398
+        }
+      ]
+    },
+    {
+      "id": "R004-WB-17",
+      "title": "机械读档与供能范围过宽，不能凭回填恢复精读",
+      "status": "closed_external_body_acceptance_dependency_only",
+      "previous_status_in_v3": "pending_external_body_acceptance_not_signed_here",
+      "historical_original_status": "open",
+      "historical_recheck_status": "pending",
+      "source_chain": [
+        {
+          "path": "harness/maintenance/R004/writeback-review.json",
+          "sha256": "e768f8ec5bff8c6d8406d3c06ef7d43fda56516afc6c6a965e3f6983052832ae",
+          "pointer": "/issues/16"
+        },
+        {
+          "path": "harness/maintenance/R004/writeback-recheck.json",
+          "sha256": "be20b0c67f6f6cc317674fa0f1b08d8b29a97cbc47d60e091eea42dfddcb27f5",
+          "pointer": "/prior_22_item_rechecks/16"
+        },
+        {
+          "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+          "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+          "pointer": "/historical_22_issue_index/16"
+        }
+      ],
+      "original_finding": "084是目视薄片、人工日序转换，非机械针读档。073现稿明确录音耗电，不能写纯机械无电播放；059耗尽该类精读能力也不应由报告扩大为任何电路绝对零。088只借墙内既有供能作局部接口试合，未充电。094弹簧断，098手摇灯接线而非仪器电源。",
+      "recheck_pending_reason": "084手动读档、088接口不充电已修；094局部回位与永久死针仍待B10同字节复核。",
+      "v3_pending_reason": "WB对应段的限定闭环/兼容性可继承；原问题包含的092/094及B10正文工程或全文独立验收不在本报告签闭。旧pending不主观改closed；交Boyle当前字节报告/主线程汇编。",
+      "requirements": [
+        "059/073能力与用电、084人工目视档案、088墙内节点局部供能不充电的已核WB边界继承，不把未重读章倒签。",
+        "094局部接口、指针报位、人工控杆与管压做功须有同字节独立复核；仪器不供阀动力。",
+        "094弹簧断后永久失读，旧六小时参照/最后回摆粗估不能变成新精确读数；后续灯线/铜片供能不能恢复仪器。"
+      ],
+      "requirement_to_external_evidence": [
+        {
+          "requirement": "094接口/回位触点、管压与人工控杆/止位退出",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/12"
+            }
+          ]
+        },
+        {
+          "requirement": "永久死针与短延迟仅粗估",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/2/evidence/0"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/2/evidence/1"
+            }
+          ]
+        },
+        {
+          "requirement": "半扣与旧线撤回而非新增电源",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/30/evidence/2"
+            }
+          ]
+        },
+        {
+          "requirement": "098续摇恢复照明，099仍墙内供能，非仪器复活",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/32"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/standards_recheck/6"
+            }
+          ]
+        }
+      ],
+      "external_closure_ids_used": [
+        "R004-B10-I06",
+        "R004-B10-AV2-A02",
+        "R004-B10-RF-N04",
+        "R004-B10-RR-A01"
+      ],
+      "conclusion": "094已由Boyle本轮全文新核 /issue_closures/12、/2明确关闭，含触点/人工/管压分工和弹簧断永久失读；093/094半扣取回及098同SHA供能继承、099能力边界也有真实条目。当前WB永久无读数、接口无新增电池的原段未变。059/073/084/088与101既有边界只继承本方v3，不新签那些正文；该项所欠的B10同字节验收已满足。",
+      "reopened_by_current_bytes": false,
+      "history_rewritten": false,
+      "this_reviewer_full_body_acceptance": false,
+      "current_wb_additional_line_refs": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_start": 219
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_start": 818
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_start": 820
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+          "line_start": 399
+        }
+      ]
+    },
+    {
+      "id": "R004-WB-20",
+      "title": "100末物资留置不可回库，约量不是完整可用件",
+      "status": "closed_external_body_acceptance_dependency_only",
+      "previous_status_in_v3": "pending_external_body_acceptance_not_signed_here",
+      "historical_original_status": "open",
+      "historical_recheck_status": "pending",
+      "source_chain": [
+        {
+          "path": "harness/maintenance/R004/writeback-review.json",
+          "sha256": "e768f8ec5bff8c6d8406d3c06ef7d43fda56516afc6c6a965e3f6983052832ae",
+          "pointer": "/issues/19"
+        },
+        {
+          "path": "harness/maintenance/R004/writeback-recheck.json",
+          "sha256": "be20b0c67f6f6cc317674fa0f1b08d8b29a97cbc47d60e091eea42dfddcb27f5",
+          "pointer": "/prior_22_item_rechecks/19"
+        },
+        {
+          "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+          "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+          "pointer": "/historical_22_issue_index/19"
+        }
+      ],
+      "original_finding": "约1卷半、接头不足3件不能代替逐件留失记录，也不保证尚有完整卡扣。089—092材料来源另见WB-13。",
+      "recheck_pending_reason": "100最后完整普通卡扣/磨毛绳留置，铜片灯线回收与约量非完整件已写；092/094新增半扣/材料链不越过B10待审。",
+      "v3_pending_reason": "WB对应段的限定闭环/兼容性可继承；原问题包含的092/094及B10正文工程或全文独立验收不在本报告签闭。旧pending不主观改closed；交Boyle当前字节报告/主线程汇编。",
+      "requirements": [
+        "100最后完整普通卡扣与磨毛绳留置，不由约1卷半/不足3件余额倒推出完整载人绳或完整卡扣；铜片灯线与弃件分开。",
+        "092/093/094半扣及非承重小框片跨章材料链须由B10独立正文验收，不使桥料或完整蓝扣复活。",
+        "100新托臂动作必须仍控绳，末态弃绳弃扣不得被小改取消；092搭接链依赖不得绕过。"
+      ],
+      "requirement_to_external_evidence": [
+        {
+          "requirement": "半扣/非承重小片来源、093取回、094复用收妥",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/30"
+            }
+          ]
+        },
+        {
+          "requirement": "092桥料/绳扣弃失和094材料用途",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/8"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/12"
+            }
+          ]
+        },
+        {
+          "requirement": "100仍一手控绳、弃绳弃扣不回库",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/4/evidence/0"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/4/evidence/1"
+            },
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/4/evidence/2"
+            }
+          ]
+        },
+        {
+          "requirement": "098撤铜片复线续摇区别于已弃物",
+          "sources": [
+            {
+              "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+              "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+              "pointer": "/issue_closures/32"
+            }
+          ]
+        }
+      ],
+      "external_closure_ids_used": [
+        "R004-B10-RF-N04",
+        "R004-B10-I02",
+        "R004-B10-I06",
+        "R004-B10-AV2-A04",
+        "R004-B10-RR-A01"
+      ],
+      "conclusion": "Boyle /issue_closures/30由092同SHA继承＋093/094全文新核，明确小片非承重、半扣非第三完整扣；/4在100当前全文核一手压绳及绳扣仍留置，未取消受力代价。092/094正文依赖由/8、/12补足。WB资源221与收官快照44的约量/不回库存原句均与v3同段同SHA，故仅该外部验收依赖闭合，不重算库存或新签全部材料工程。",
+      "reopened_by_current_bytes": false,
+      "history_rewritten": false,
+      "this_reviewer_full_body_acceptance": false,
+      "current_wb_additional_line_refs": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_start": 221
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+          "line_start": 818
+        }
+      ]
+    }
+  ],
+  "current_wb_original_segment_bindings": [
+    {
+      "issue_id": "R004-WB-13",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/12/tracked_original_segments/0"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 221,
+      "quote": "| 绳索与接头 | 091坠落门板及挂住绳段不回收；092短梁搭既有箱框边料并损失留置；095回线断绝；098短铰链扭损卡门、099未回收；100最后完整卡扣留检修门，磨毛绳限制机械臂后再损留置 | 无完整退路线；余绳约1卷半、接头不足3件只是约量，不保证完整载人绳或完整卡扣；完整可用、磨毛非载人与已弃置分开，铜片/灯线已收回 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-13",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/12/tracked_original_segments/1"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "line_start": 380,
+      "quote": "| 089 | 短梁承力、尺定位；照伤肩限制多人救父；分步开缝救出孩子；呼吸确认短暂昏迷 | 新增墙后孩子单列，不填066失联；破墙露上行路 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-13",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/12/tracked_original_segments/2"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "line_start": 381,
+      "quote": "| 090 | 现成护板布带托肩；逐项记录签改孔位及点火；尺短暂校对后交林渡；证物分别包护 | 林岑存活且未获免责；原护送册、后会合者与封墙孩子分栏，不合并失联；远船启动、第一灯亮 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-17",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/16/tracked_original_segments/0"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 192,
+      "quote": "| 测潮仪 | 第73章被槐七夺走，075交换完成，076由弥娅收妥并固定侧盖；电子读数仍黑屏；076记“下方抽气、七息未复位”，077记约七息机械回弹 | 弥娅持有，只能用机械余量指针和风声判断；侧盖以旧铜线固定，精确潮汐读数不可用 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-17",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/16/tracked_original_segments/1"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 206,
+      "quote": "| 测潮仪与频率钥匙 | 测潮仪继续黑屏；084机械槽只稳住可见薄片，靠目视与人工日序转换比对；088只借墙内既有节点试合局部接口，未充电；旧维修室取出潮汐晶片钥匙，拆闸钥匙仍由槐七持有 | 弥娅持测潮仪；两把钥匙分别用于节点确认和旧锁，尚未形成完整开启条件 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-17",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/16/tracked_original_segments/2"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "line_start": 258,
+      "quote": "| 84 | 弥娅比对衡陆木牌与澜陆薄片，确认同一日期都存在非自然空白；祝衡沿旧配重井去找上传名单 | 机械槽只稳住可见薄片，人工换算日序比对，未恢复完整记录或精读；空白制造者和时间仍未知 | 两份记录的缺口和蓝色纤维相互对应，但不能据此确认双陆删史责任 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-17",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/16/tracked_original_segments/3"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "line_start": 262,
+      "quote": "| 88 | 弥娅确认蓝色图案是一处两端接口记号，本地锁位与她保存的旧档案图样能对上，但不能据此确认建造者、来源或更早历史；钥匙与测潮仪同时回应 | 只借墙内既有节点供能试合局部接口，机械针偏转而黑屏不复、未充电；维修室结构开始下沉 | 两组旧频率可接通局部旧路线，但确认者来源和完整网络仍未知 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-20",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/19/tracked_original_segments/0"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 221,
+      "quote": "| 绳索与接头 | 091坠落门板及挂住绳段不回收；092短梁搭既有箱框边料并损失留置；095回线断绝；098短铰链扭损卡门、099未回收；100最后完整卡扣留检修门，磨毛绳限制机械臂后再损留置 | 无完整退路线；余绳约1卷半、接头不足3件只是约量，不保证完整载人绳或完整卡扣；完整可用、磨毛非载人与已弃置分开，铜片/灯线已收回 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    },
+    {
+      "issue_id": "R004-WB-20",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/historical_22_issue_index/19/tracked_original_segments/1"
+      },
+      "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+      "sha256": "abcc36de0a6a784753e9631342f526588fa5c467973f47eb56329a281fe54294",
+      "line_start": 44,
+      "quote": "| 接头 | 剩余接头不足3件为约量，不保证完整件；最后完整卡扣留白船舱门，不回库存 |",
+      "same_segment_as_v3": true,
+      "review_mode": "v3_semantic_conclusion_inherited_current_quote_and_file_sha_rechecked"
+    }
+  ],
+  "current_wb_direct_interface_quotes": [
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 219,
+      "quote": "| 测潮仪 | 第94章为校准喷口连续使用机械指针，表盘和内部弹簧断裂 | 彻底失去读数功能；弥娅只能依靠风向、蒸汽凝结和旧档案判断 |",
+      "same_file_as_v3": true,
+      "review_mode": "targeted_external_dependency_receipt_not_new_full_file_review"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 221,
+      "quote": "| 绳索与接头 | 091坠落门板及挂住绳段不回收；092短梁搭既有箱框边料并损失留置；095回线断绝；098短铰链扭损卡门、099未回收；100最后完整卡扣留检修门，磨毛绳限制机械臂后再损留置 | 无完整退路线；余绳约1卷半、接头不足3件只是约量，不保证完整载人绳或完整卡扣；完整可用、磨毛非载人与已弃置分开，铜片/灯线已收回 |",
+      "same_file_as_v3": true,
+      "review_mode": "targeted_external_dependency_receipt_not_new_full_file_review"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 817,
+      "quote": "| 短梁089—092 | 089封板短撑留置；090门框清人后用原回收绳抽出唯一旧短梁，实段交岑野；091搭门板后仅余短梁；092拆箱取两条长边料与短梁搭接 | 箱横框分扣压；两根旧绳分处桥面两侧，由来岸桩经搭接处兜套升至上行岸桩并锁牢，承重段与锁结外牵引绳尾分开；避闸只放低绳尾，桥下绳段不动。外侧边料削断后，山侧边料、短梁与兜绳仅暂持最后撤手；过口只回收可解余料，木框、大半桥面、桥下不可解绳段及卡死扣留置。该092受力链的验收证据查R004独立审读与维护记录，本表不替代审读。 |",
+      "same_file_as_v3": true,
+      "review_mode": "targeted_external_dependency_receipt_not_new_full_file_review"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 818,
+      "quote": "| 蓝扣068—094 | 068两枚完整扣分给祝衡/弥娅；074祝衡明确其扣留入口不可取回。073另出现半枚断扣，槐七抵仪器侧槽试录音，075随仪器返回 | 092弥娅取侧边半扣夹非承重小框片并携行，093触灯座后隔离取回，094仍用同一半扣后收回；完整扣、半扣与普通卡扣不混计。 |",
+      "same_file_as_v3": true,
+      "review_mode": "targeted_external_dependency_receipt_not_new_full_file_review"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "line_start": 820,
+      "quote": "| 晶片钥匙/测潮仪094 | 钥匙试既有阀槽平口，半扣/旧线只接局部回位触点；弥娅读针给手势，槐七人工控杆，管内压力使连杆回位 | 杆落原止位槽后撤接口、收钥匙和半扣；仪器弹簧断裂，永久无读数。接口与止位动作的验收另查R004独立报告，未新增阀用电池。 |",
+      "same_file_as_v3": true,
+      "review_mode": "targeted_external_dependency_receipt_not_new_full_file_review"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "line_start": 398,
+      "quote": "| 091/092 | 担架抬头产生滑移勒带风险；救援者明确上行岸；单短梁与两条箱框长边料搭接；两根旧绳在两岸桩上锁定桥下兜套，锁结外余尾另作牵引；避闸只降余尾，外侧边料毁后由山侧搭接暂持末人，桥下不可解段留置 | 不恢复坠落门板或新生整梁；092搭接与撤退受力链待B10重审 |",
+      "same_file_as_v3": true,
+      "review_mode": "targeted_external_dependency_receipt_not_new_full_file_review"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "line_start": 399,
+      "quote": "| 093/094 | 保留原件者明确知情选择；未在场者由林渡承担毁卷责任并记明；半扣实际隔离回收；局部读数→手势→人工压杆→管内回位 | 不声称全体同意，不给仪器动力；旧六小时参照不变、永久失读仍发生；接口链验收证据见R004独立审读 |",
+      "same_file_as_v3": true,
+      "review_mode": "targeted_external_dependency_receipt_not_new_full_file_review"
+    }
+  ],
+  "inheritance_boundaries": {
+    "original_v3_verdict": "writeback_delta_pass_dependencies_pending",
+    "original_v3_pass": false,
+    "original_v3_file_remains_unchanged": true,
+    "WB_127_plus_7": "不重放或新审134项；九WB与v3逐字同SHA，限定继承v3的134补丁一致性、M01/M02和B09范围结论。只追加本报告三条外部依赖收件。",
+    "historical_22_index": "只对接13/17/20；不改旧open/pending，不把原失败报告历史改为通过，也不据此宣布22项/整批全部发布闭合。",
+    "recovery2_group_source": {
+      "path": "harness/maintenance/R004/writeback-recovery2-final.json",
+      "sha256": "efb07e3274b7192acd471a841b261c7f2b1ebce86b8dd447e3c1592b391bdf08",
+      "pointer": "/issue_group_closures/1"
+    },
+    "recovery2_group_original_status": "closed_in_current_stage_only",
+    "recovery2_group_boundary_preserved": "忠实回填，不代签正文工程可行性",
+    "B10_v2_whole_verdict_preserved": "needs_revision",
+    "B10_v2_092_specific_closed_not_whole_pass": true,
+    "metadata_note": "章卡398“092搭接与撤退受力链待B10重审”保留原执行记录；本附录作为其外部验收对接证据，不视为小说事实矛盾，不编辑标签。资源817/820“验收另查”由本附录精确指向真实报告。"
+  },
+  "unchanged_out_of_scope": [
+    {
+      "id": "R004-B09-RF-N04",
+      "status": "closed_for_writeback_scope_only",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/B09_closures/0"
+      },
+      "treatment": "仅保留v3的WB范围闭环；本轮不重审B09正文或扩大签收"
+    },
+    {
+      "id": "R004-B09-E01",
+      "status": "closed_for_writeback_scope_only",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/B09_closures/1"
+      },
+      "treatment": "仅保留v3的WB范围闭环；本轮不重审B09正文或扩大签收"
+    },
+    {
+      "id": "WBV2-X48",
+      "status": "handoff_not_closed",
+      "source": {
+        "path": "harness/maintenance/R004/writeback-approved-v3-recheck.json",
+        "sha256": "f0b588bc21520707a11251812e17e31faa16df81c324faae511c1a72d50e1d69",
+        "pointer": "/cross_scope_handoffs/0"
+      },
+      "treatment": "约48仍范围外未闭；不由此次三条依赖关闭消除，不签101—400。"
+    }
+  ],
+  "new_issues": [],
+  "remaining_requested_dependencies": [],
+  "not_reviewed": [
+    "本轮未重读任何章节全文；未代签Boyle事实/吸引力判断",
+    "原22项中除13/17/20以外的19项不重新裁定",
+    "WB全部历史条目/1—400全书事实不逐项重审",
+    "现实工程承载/电气安全认证",
+    "101全文与约48人跨范围依赖",
+    "正式发布、门禁与其他证据总汇"
+  ],
+  "integrity": {
+    "user_expected_Boyle_sha_matches": true,
+    "nine_WB_same_as_v3": true,
+    "ten_body_work_sha_match_external_and_WB_v3": true,
+    "external_evidence_quote_line_sha_all_match": true,
+    "only_three_dependencies_closed": true,
+    "old_reports_unmodified": true,
+    "inputs_unchanged_before_and_after_sealing": true,
+    "validation_method": "局部引文、JSON pointer、SHA与报告范围核对；脚本只校验字节和定位，不生成事实/文学验收结论"
+  },
+  "files_written": [
+    "harness/maintenance/R004/writeback-body-handoff-final.md",
+    "harness/maintenance/R004/writeback-body-handoff-final.json"
+  ],
+  "stage_modified": false,
+  "manuscripts_modified": false,
+  "old_reports_overwritten": false,
+  "navigation_modified": false,
+  "publication_or_check_commands_run": false
+}

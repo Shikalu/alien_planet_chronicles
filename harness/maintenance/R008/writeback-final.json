@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "kind": "transparent-compilation-of-independent-scoped-writeback-reviews",
+  "id": "R008",
+  "date": "2026-11-10",
+  "compiled_by": "R008-main",
+  "verdict": "pass",
+  "independent": true,
+  "compilation_note": "主笔仅汇编五位真实独立审者对八候选各自A16—A20原始行及R008对应范围说明的终轮结论；不将编译者当成独立审者，不声称八文件全部历史重新审读。",
+  "freeze": {
+    "path": "harness/maintenance/R008/writeback-freeze.json",
+    "sha256": "7218d02548bc68c227e5eec7440c5b78391bead3d09406a77608ee09896225f4"
+  },
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716"
+    }
+  ],
+  "components": [
+    {
+      "path": "harness/maintenance/R008/B26/writeback-freeze-review.json",
+      "sha256": "fc248bd6213d134747cdbc1110d095db210a341ab65ab4f54cb41d7d6782fe02",
+      "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+      "independent": true,
+      "scope_chapters": [
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260
+      ],
+      "body_digest": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d"
+    },
+    {
+      "path": "harness/maintenance/R008/B27/writeback-freeze-review.json",
+      "sha256": "4f99158ae41c87adaa439e16f3f30584a275a32379802526b5e1543f18da7499",
+      "reviewer": "01a1c2c7-005e-7a93-979a-f602b603f2a1",
+      "independent": true,
+      "scope_chapters": [
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270
+      ],
+      "body_digest": "41f784dd3fdb25a49bb4d3a3b6f9623cf24f9a828ae1e1e7b62a7c40fa4d09fa"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/writeback-freeze-review.json",
+      "sha256": "cb5d5b597f22479f837ccbe2292f38ea1df11e89e383423a8c66a34360dfe917",
+      "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+      "independent": true,
+      "scope_chapters": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280
+      ],
+      "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a"
+    },
+    {
+      "path": "harness/maintenance/R008/B29/writeback-freeze-review.json",
+      "sha256": "d6c02ea0564cf1e24ff1126ad97d9ea1477023d42983c2edee325553fdfbac40",
+      "reviewer": "01a1c2c7-8261-75a3-846e-00b4d7865175",
+      "independent": true,
+      "scope_chapters": [
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290
+      ],
+      "body_digest": "40cfee43d4caf93bb257f5de53fb6d72f9dd1af5360e0f5b2a8ff3e08d151077"
+    },
+    {
+      "path": "harness/maintenance/R008/B30/writeback-freeze-review.json",
+      "sha256": "1e44adb04587fedd86a1fe5fa914e3377c6fd7b0d3b1977c825757d9fdcd5342",
+      "reviewer": "Codex:01a1c2c3-3a1f-73a3-945b-a1be4852c3d1",
+      "independent": true,
+      "scope_chapters": [
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300
+      ],
+      "body_digest": "b9a06128408faee466059748c3dddfc03b03ed87c66841330ea41789f90fb527"
+    }
+  ],
+  "scope_chapters": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300
+  ],
+  "limitations": [
+    "八文件的指纹绑定完整字节；各独立阅读范围仅为报告列出的A16—A20及必要接口。",
+    "301—400未作本轮全文或吸引力审读；发布不推进400/D320、401/A31。"
+  ]
+}

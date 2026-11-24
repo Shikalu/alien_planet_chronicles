@@ -1,0 +1,87 @@
+{
+  "reviewer": "01a1c2c2-f33b-7b12-b92b-dcbd6d42b6bf",
+  "independent": true,
+  "batch": "R008-B26",
+  "manuscripts": [
+    {
+      "chapter": 251,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第251章_窄台只过一个人.md",
+      "sha256": "738b71554676fa5fdfd6ba6eb4487e012d3339c269a7d7844a8c66da23ea7996"
+    },
+    {
+      "chapter": 252,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第252章_先报的名单.md",
+      "sha256": "68cc62e5baf32278cbbdb9d3187abd7f4cf42845b59f69ecfe19bdaed114080f"
+    },
+    {
+      "chapter": 253,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第253章_棚区腾位.md",
+      "sha256": "02c88de48c88d3f6f4fc0b56ec23ee5d32599484743835d4eb4a7d1de600c1ef"
+    },
+    {
+      "chapter": 254,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第254章_拆栏旧板.md",
+      "sha256": "701e8fa4dff2c321fb4afe507df14ff09e800942dbade4369e8525bd8a176bc6"
+    },
+    {
+      "chapter": 255,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第255章_抬下去.md",
+      "sha256": "a5b4672b4fdb992cac82ec7f8362d61ac0eae6e5f4f7926a9a339a1d37ea8332"
+    },
+    {
+      "chapter": 256,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第256章_门牌还留着.md",
+      "sha256": "dd830cbc407efeec11dc4494d82a26fdf72e86e8d89e9f57c0d09f8905cfc62c"
+    },
+    {
+      "chapter": 257,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第257章_分人.md",
+      "sha256": "9030875e4ec16bfd370ce03f91b51d9cfa30632ccbb2796047971894bf11d95d"
+    },
+    {
+      "chapter": 258,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第258章_欠额不销.md",
+      "sha256": "c03b8d5121e7f7088a0fe0927ec4e0f95836c862aba8ef79ffcc883ffaa0b771"
+    },
+    {
+      "chapter": 259,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第259章_两日之内.md",
+      "sha256": "4fb0d2f4b72c3cfdfd0fc0a3c10b46a178eb1b49de821158e3be8544b8b189f3"
+    },
+    {
+      "chapter": 260,
+      "path": "异星录/06_执行计划/工作区/R008-B26/第260章_桌上的译页.md",
+      "sha256": "99b4a078ddb606bc9e0df1f29653e89913a7ddb21d8c566e831222bf9a6bf126"
+    }
+  ],
+  "source_digest": "6d32e4cf36b592ffc79350c6e45c4d34dc7f02fc7dcf5ffea4fec7421647751d",
+  "previous_digest": "b88d4852c157ce49b5c10b106ffb8532407f2b9b4825828b4350a38821540154",
+  "full_reread": [
+    256
+  ],
+  "unchanged_sha_chapters": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    257,
+    258,
+    259,
+    260
+  ],
+  "reader_checks": 52,
+  "method": "initial32＋recovery22＋R2三项＋R3一项，共58id逐项保留status/resolution/reason及实际终稿quote。此前亲读十章；本轮全文复读256，核其余九章与pre-round4的SHA相同，回逆唯一替换重建旧256 SHA；未用总pass批量关闭。",
+  "scope_chapters": [
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260
+  ]
+}

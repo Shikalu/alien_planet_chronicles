@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "id": "R004-B08",
+  "reviewer": "/root/r004_b08_reader",
+  "writer": "/root",
+  "independent": true,
+  "body_first": true,
+  "read_scope": "完整首读工作稿71—80，后对照作者资料；070、081发布稿只作边界核对，不计额外审读覆盖。",
+  "manuscripts": [
+    {
+      "chapter": 71,
+      "path": "异星录/正文/第一卷_热海坠城/第071章_试探攻击.md",
+      "sha256": "4e81c4137610f329a7f005667463718cf09039cc9b85fd859d982e0335659dd7"
+    },
+    {
+      "chapter": 72,
+      "path": "异星录/正文/第一卷_热海坠城/第072章_父亲的步法.md",
+      "sha256": "1e1a39499bf686ea26d2569be1498df0f6861b276c51ca83c8fb9fe51582effd"
+    },
+    {
+      "chapter": 73,
+      "path": "异星录/正文/第一卷_热海坠城/第073章_测潮仪被夺.md",
+      "sha256": "ae86d64236910b8130f13de0ecb68a16fe7d7b538de22e86d2d5eea3913fadcf"
+    },
+    {
+      "chapter": 74,
+      "path": "异星录/正文/第一卷_热海坠城/第074章_封锁命令.md",
+      "sha256": "0c856182956e21cd2d7fe483bf5f0426a29535c83e3a88e117d0756fa29f2852"
+    },
+    {
+      "chapter": 75,
+      "path": "异星录/正文/第一卷_热海坠城/第075章_槐七交换.md",
+      "sha256": "a0c9527bd2af582358f3a59c0b779fd2aa386c5d3d4594f62a56b06414c9961f"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/正文/第一卷_热海坠城/第076章_木尺换仪器.md",
+      "sha256": "2f25270957c1a2f1ffcdf9a8eae043f4cb6c742abd7c2817abd988d920db8d2b"
+    },
+    {
+      "chapter": 77,
+      "path": "异星录/正文/第一卷_热海坠城/第077章_地底敲击.md",
+      "sha256": "14f215804e7a7eb669ce60eb70f9519ce515d93ab49a0ae20071c71d7bd16ae6"
+    },
+    {
+      "chapter": 78,
+      "path": "异星录/正文/第一卷_热海坠城/第078章_人为炸毁.md",
+      "sha256": "e64f0edc1dbe7e2ab99885ef00c49bc8e9b8cfe3a64cbd11afd514a581669d2c"
+    },
+    {
+      "chapter": 79,
+      "path": "异星录/正文/第一卷_热海坠城/第079章_林岑现身.md",
+      "sha256": "8917f3288cd30fd91995a5619aa8f06ec7160e7b83e5b25d99e0d73ffd4e2605"
+    },
+    {
+      "chapter": 80,
+      "path": "异星录/正文/第一卷_热海坠城/第080章_百年信号灯.md",
+      "sha256": "b30fb44b2d12b7ffc3dc0d6d1ec74b0d113b0a4e42e47cefb0a85dfaf9724442"
+    }
+  ],
+  "input_digest": "47227f0b3ee4fa80dcede62fbb1c389bb261c636e7e91d876d77b84c04a9a4d2",
+  "verdict": "issues",
+  "fact_logic_verdict": "issues",
+  "attraction_verdict": "issues",
+  "issues": [
+    {
+      "id": "R004-B08-I01",
+      "chapter": 71,
+      "quote": "槐七蹲下，用刀背拨开最上层木屑，又退开半步避开面具，才说：“有人刚走过。”",
+      "severity": "minor",
+      "problem": "槐七自己戴着面具，避开谁的面具没有先行对象，也没有交代要躲的东西。",
+      "suggestion": "删去无对象的退避，保留木屑观察。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B08-I02",
+      "chapter": 71,
+      "quote": "靠外那名独脚穿鞋的居民忽然把手伸进衣襟，将自己的胶带攥了出来。",
+      "severity": "medium",
+      "problem": "边界70与本批76均是只剩一只鞋的居民，独脚会让首次读者误认断肢者，并以身体缺陷作为称谓。",
+      "suggestion": "只澄清一只鞋，不改变人物伤势或增加居民。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B08-I03",
+      "chapter": 72,
+      "quote": "声音隔着面具，又被墙反回来，低得发闷。林渡没有凭它确认是谁。",
+      "severity": "minor",
+      "problem": "紧接前一句声音隔着面具和墙缝变闷，两次解释同一声音结果；人物辨认悬念在重复说明里停顿。",
+      "suggestion": "合并声音传递与未辨认结果。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B08-I04",
+      "chapter": 73,
+      "quote": "弥娅瞥了一眼：“留在仪器上的那枚。你看，另一半还扣在侧槽里。”",
+      "severity": "medium",
+      "problem": "测潮仪直到下一段末才从槐七袖里转出，此时弥娅无从看见侧槽另一半；信息先于可见依据。",
+      "suggestion": "先仅凭熟悉的蓝扣认物，仪器拿出后再指出另一半。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B08-I05",
+      "chapter": 73,
+      "quote": "林渡伸手挡在铜管前，没有碰管壁：“别沿管子放。”",
+      "severity": "minor",
+      "problem": "上一段已写林渡伸手去挡、槐七收回半步，此处再起一次伸手动作，没有新的查验侧重。",
+      "suggestion": "保留一次挡管动作，并承接手仍未收回。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B08-I06",
+      "chapter": 74,
+      "quote": "纸夹在他腋下。",
+      "severity": "minor",
+      "problem": "独立短段被下一段原封不动复述；此处不是两个人分工检验，而是同一物件的重复登场。",
+      "suggestion": "去掉独立重复段，保留汗与木屑阻碍取纸。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B08-I07",
+      "chapter": 75,
+      "quote": "林渡把空下来的包尺布折在膝上，才说：“门开多大，等看到人能站哪儿再说。”",
+      "severity": "minor",
+      "problem": "前文包尺布已折回衣内，此处无取出又出现在膝上，形成小型物权/位置跳变。",
+      "suggestion": "后一句只保留说话动作，或沿衣内明确持有，不新增取出展开。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B08-I08",
+      "chapter": 75,
+      "quote": "她不是不想要，是怕他以后把这次交换算在她头上。",
+      "severity": "medium",
+      "problem": "林渡限知视角直接断言弥娅隐秘动机；邻句已用她主动说可以先不用仪器和后续我换不是你欠的表达关系，旁白再解释显得辩护。",
+      "suggestion": "明确这是林渡的担忧，保留其不将丢仪器归责她的主动选择。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B08-I09",
+      "chapter": 76,
+      "quote": "重新编号让他们又耽搁了一阵风。",
+      "severity": "minor",
+      "problem": "上段强调六个原临时号不能因换位置重编，却在总结时称重新编号，读者会疑心甲一至甲六是否改变。",
+      "suggestion": "改为核号，保持身份胶带耗用和时间代价。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B08-I10",
+      "chapter": 77,
+      "quote": "前一段指针七息没有复位，是一次检查；这里七息左右听到机械回弹，是另一件事，不能凑成一条能预报整层装置的规律。",
+      "severity": "medium",
+      "problem": "人物刚说这一次的间隔、数不会准，并已记约字，旁白再逐项替读者解析上章与本章差别。对照事实有价值，但整句像修订批注，压住了墙后敲击悬念。",
+      "suggestion": "用册页两行并记体现两次检查的区别，保留约字和不可预测的边界。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B08-I11",
+      "chapter": 78,
+      "quote": "她指的是几个人围着灯座站得太近，挡了下方的进风，不是仪器预言了危险。",
+      "severity": "minor",
+      "problem": "本场弥娅没持仪器读数，人物也没有误认预言，旁白凭空设假想误解再辩护，打断口供质问。",
+      "suggestion": "直接保留拥堵风口的可见缘由。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B08-I12",
+      "chapter": 79,
+      "quote": "会先看承重、会救眼前的人，和曾经为什么留下家人，是两件要分别回答的事。",
+      "severity": "minor",
+      "problem": "上句已写林渡没有把父亲确认担架当好父亲证明，下一句又替同一情绪结论做对称说明；重逢现场读者正在等父亲叫妹妹，旁白抢着评判。",
+      "suggestion": "保留林渡观察/拒绝据此释怀的一层，删第二次主题翻译。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B08-I13",
+      "chapter": 80,
+      "quote": "林渡只能记住这是父亲的说法。灯壳很旧，却不会把年份直接告诉他。重要的是眼前哪条线还在、哪一道风口会被压住，而不是它值得谁敬畏。",
+      "severity": "minor",
+      "problem": "百年是人物说法，正文无人在敬畏灯壳；连续三句替读者划证据界线并反驳不存在的情绪。维修压力被作者说明截住。",
+      "suggestion": "简短保留年份来源未独证，将注意力落回线和风口。",
+      "fact_change_required": false,
+      "kind": "language"
+    }
+  ]
+}

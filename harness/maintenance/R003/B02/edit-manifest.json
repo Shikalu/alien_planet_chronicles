@@ -1,0 +1,744 @@
+{
+  "schema_version": 1,
+  "repair_id": "R003",
+  "batch": "B02",
+  "date": "2026-11-04",
+  "editor_id": "01a1a6ee-a497-7e12-9710-d9df5d21bd54",
+  "lead_id": "01a1a6eb-7ede-7f40-8ccb-7d584fdc0a25",
+  "initial_reviewer_id": "01a1a6ee-01bc-71f0-9396-4d9024472d61",
+  "role": "repair_editor",
+  "independence_note": "编辑不是主笔/root或原B02独立初审读者；本线程B05审读与B02编辑不重叠，未编辑41—50。不得以编辑自检代独立终审。",
+  "baseline_path": "harness/maintenance/R003/baseline.json",
+  "baseline_sha256": "ceace890328bf7e46457684f72ea945c15a337d38fb2b5476fa79683536f1a8b",
+  "initial_report_path": "harness/maintenance/R003/B02/initial.md",
+  "initial_report_sha256": "5582412295a7c1215db912ab874b857eed32926470ceeb5af8a6d5f122cfd2e2",
+  "initial_issues_path": "harness/maintenance/R003/B02/initial-issues.json",
+  "initial_issues_sha256": "5e47b210645c82e020f1476a891c733504a42b38b2fc0c13ac06f7668b0982df",
+  "initial_input_digest": "d78e04bde459f631a9ee4479d5b5fa3a83f597a22b6096f6ae303d74ecbdd95e",
+  "chapters": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "working_manuscripts": [
+    {
+      "chapter": 11,
+      "published_path": "异星录/正文/第一卷_热海坠城/第011章_木梁下的陌生语.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第011章_木梁下的陌生语.md",
+      "before_sha256": "1b41ec5e23d8c4042d31fc436a71030cede3f2380fbbeb2b41ce083e8e63e5ca",
+      "after_sha256": "abcb63dfb0e9afd974dd80a2a0a9dfa482ff2730ca02b4d55a375dadafad4958",
+      "before_han": 2336,
+      "after_han": 2284
+    },
+    {
+      "chapter": 12,
+      "published_path": "异星录/正文/第一卷_热海坠城/第012章_测潮仪警报.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第012章_测潮仪警报.md",
+      "before_sha256": "41f53994d045237df993e8cf63cc9a6b86fdbb08549cd4a4c77ca848ece03814",
+      "after_sha256": "d2d76b036f6f6b5163742d27572d744f6e33e28554e93ac0bac8388d93cfc022",
+      "before_han": 2447,
+      "after_han": 2416
+    },
+    {
+      "chapter": 13,
+      "published_path": "异星录/正文/第一卷_热海坠城/第013章_误会的刀.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第013章_误会的刀.md",
+      "before_sha256": "9eff9360c829aff80df873850a78765207d8f4e3e5f8b1557702276006ecaf74",
+      "after_sha256": "0aaaab28066c61f3ca8b9aa7746713d87efa99bef0abcf80f2312f2a797594be",
+      "before_han": 2320,
+      "after_han": 2245
+    },
+    {
+      "chapter": 14,
+      "published_path": "异星录/正文/第一卷_热海坠城/第014章_六小时.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第014章_六小时.md",
+      "before_sha256": "a95d29be16a8625e4a68d7d3124133bda5679ba832fff0eeb9cf1d68f06d2f99",
+      "after_sha256": "700a91c09e6a416d78da8c95bc9e751b98ccf3477d291b38d8dcc816f83ddda2",
+      "before_han": 2560,
+      "after_han": 2580
+    },
+    {
+      "chapter": 15,
+      "published_path": "异星录/正文/第一卷_热海坠城/第015章_伤员名单.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第015章_伤员名单.md",
+      "before_sha256": "55b074b3f98abe6e4a647e20c601fc7ecb92a0b901cdcedbaf90a7cdce6657f6",
+      "after_sha256": "8ce5f27f3791534b40f01d829c846969a1addb2184dcd898a53031f21e42995f",
+      "before_han": 2488,
+      "after_han": 2499
+    },
+    {
+      "chapter": 16,
+      "published_path": "异星录/正文/第一卷_热海坠城/第016章_关闭升降机.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第016章_关闭升降机.md",
+      "before_sha256": "a4b2c8a6dfa80073a86837b7e4b6247bccb3ea04440e4ab7b9dab575c08cdc2d",
+      "after_sha256": "0b7656f3dffe98765c8615fd1668d6786c91238350599c89ee26d2c7d94e08b7",
+      "before_han": 2561,
+      "after_han": 2579
+    },
+    {
+      "chapter": 17,
+      "published_path": "异星录/正文/第一卷_热海坠城/第017章_房车退回.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第017章_房车退回.md",
+      "before_sha256": "c64a8989cec1e885e099b523f084ed09381d67f2e7b0a1ba618eeb6140275f77",
+      "after_sha256": "affd5d11831a587eb77690e819e2fa5bbd3cfbea4a3d793029a6e1e4511a87b2",
+      "before_han": 2405,
+      "after_han": 2370
+    },
+    {
+      "chapter": 18,
+      "published_path": "异星录/正文/第一卷_热海坠城/第018章_三齿木尺.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第018章_三齿木尺.md",
+      "before_sha256": "b4e4d6ccd73b65d5f7afb4357e16aa3fe861d9418c3bd39d7f8df129a8419ae7",
+      "after_sha256": "44600a426697d7088c38dc259abd4f174385a240eae62207c0f3fb0952ad6706",
+      "before_han": 2377,
+      "after_han": 2337
+    },
+    {
+      "chapter": 19,
+      "published_path": "异星录/正文/第一卷_热海坠城/第019章_海另一边.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第019章_海另一边.md",
+      "before_sha256": "d13359e9a08333472122988fd23f3f200f419df5c33ff189c0e16c76530b9669",
+      "after_sha256": "1cd67dbb9f1bf2b49396f89205428de7c5921fb9a3fe2e4611e85f6021e283fa",
+      "before_han": 2396,
+      "after_han": 2357
+    },
+    {
+      "chapter": 20,
+      "published_path": "异星录/正文/第一卷_热海坠城/第020章_祝衡的钥匙.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B02/第020章_祝衡的钥匙.md",
+      "before_sha256": "e405a602084d0fcfee4fe52c5f69a1003cebde3ed3bc7f25dac8a3b04c7f8ced",
+      "after_sha256": "e3ca7f7da5ed1245f2bfc4960052fb2e99e789f19820064dc5459f1e4a25e40a",
+      "before_han": 2492,
+      "after_han": 2495
+    }
+  ],
+  "working_input_digest": "ff90029789ce13d514d0e3713c2b983ccd165f8c6f554bfcccfc16bd439672da",
+  "working_digest_method": "SHA256(json.dumps([{chapter,path:working_path,sha256:after_sha256},...], ensure_ascii=False, sort_keys=True).encode(\"utf-8\"))",
+  "changed_chapters": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "issues": [
+    {
+      "id": "R003-B02-I01",
+      "chapter": 11,
+      "status": "edited_pending_independent_review",
+      "resolution": "合并两次看梁端，删首次无结果回看及预测能力的重复辩护；保留两次震动后梁缝变宽、误解被摇头纠正。",
+      "before_quote": "女孩摇头，把两根手指向下压，又指了指已经张开的梁缝。林渡重新看向梁端：刚才连着两次震动，缝都在变宽。她是在提醒已经发生的变化，不是能算出这根梁还会撑几下。",
+      "after_quote": "女孩摇头，把两根手指向下压，又指了指已经张开的梁缝。林渡顺着她的手看向梁端：刚才连着两次震动，缝都在变宽。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。",
+      "additional_before_quotes": [
+        "林渡重新看向梁端。"
+      ],
+      "additional_change": "删第一次无结果看梁端，保留第二次合并后的观察。"
+    },
+    {
+      "id": "R003-B02-I02",
+      "chapter": 11,
+      "status": "edited_pending_independent_review",
+      "resolution": "删父亲/铁杠的限制翻译，保留改用断木撬、木尺仅量缝的实际动作。",
+      "before_quote": "他的父亲留了尺，不是留了根可以顶住整座城的铁杠。",
+      "after_quote": "这回她点了头。林渡把撬动的位置换到一截断木上，只留木尺量缝。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I03",
+      "chapter": 12,
+      "status": "edited_pending_independent_review",
+      "resolution": "以林渡对不肯撤离的扶板人的短话承担催展示责任，删道德翻译；精读仍消耗2次、余4。",
+      "before_quote": "这个选择不能假装全由她自己作出。",
+      "after_quote": "弥娅抬起头，指了指将要熄灭的光点，又指了指他们。林渡点头，转向还不肯动的扶板人：“看完就走。别再叫她看一次。”",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I04",
+      "chapter": 13,
+      "status": "edited_pending_independent_review",
+      "resolution": "删紧接战斗的“想起”倒放；首次刀背击腕、裸钩挡刀、背带与站位承接保留。after_quote为保留的首次动作，非新增战斗。",
+      "before_quote": "林渡想起刚才那一下，弥娅的刀背同样是先撞向他的手腕，可两人都没给对方留下取回仪器的余地。",
+      "after_quote": "林渡侧腕避开，裸钩横着卡住刀柄。弥娅借力转身，膝盖顶向他腰侧。她左腿有伤，动作慢了半拍，林渡用肩膀挡住，把仪器背带绕到梁柱上。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I05",
+      "chapter": 13,
+      "status": "edited_pending_independent_review",
+      "resolution": "删地图/失联的叙述者归纳，以挪板及四个名字仍空白收束；未建立地图与失联的真实联系。",
+      "before_quote": "地图是地图，失联的人是失联的人。他不想让两件暂时没有证据的事，因为一道光碰巧叠在一起就变成答案。\n",
+      "after_quote": "林渡看见后，把门板往旁边挪了一寸。四个名字后面仍是空白。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I06",
+      "chapter": 14,
+      "status": "edited_pending_independent_review",
+      "resolution": "初译六小时后改为询问能否撑满六格，并以点刻痕给摇头来源；划半格才确认不到六小时。局部上限与外侧更短不变。",
+      "before_quote": "“旧维修表也用小时。”林栖用炭笔在地上画出当前热时和下一个凉时的位置，“现在离下一个凉时还不到一整轮。六小时是维修表的估数，不是街头钟点；先按不到六小时记，不能当成哪里都能走。”\n\n弥娅听见“短”，立刻摇头。她重新画了六格，又把最后一格划掉一半。\n\n“不到六小时。”林栖改口，“她说不到。”",
+      "after_quote": "“旧维修表也用小时。”林栖用炭笔在地上画出当前热时和下一个凉时的位置，“现在离下一个凉时还不到一整轮。六小时是维修表的估数，不是街头钟点。她说能撑满六格？”林栖又点了点弥娅画的刻痕。\n\n弥娅看见她指着完整的六格，立刻摇头。她重新画了六格，又把最后一格划掉一半。\n\n“不到六小时。”林栖改口，“先记这个上限，不能当成哪里都能走。”",
+      "requires_decision": false,
+      "severity": "中等",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I07",
+      "chapter": 15,
+      "status": "edited_pending_independent_review",
+      "resolution": "明确七枚伤牌是当下已挂范围（三名本地、四名随队），另三名随队伤员待核名挂牌；分水口径改为随队七名+本地三名，不新增伤员或伤势。",
+      "before_quote": "加上先前需要换药的四人，七枚伤牌很快挂满了墙钩。",
+      "after_quote": "加上随队进棚、先前需要换药的四人，七枚伤牌很快挂满了墙钩。随队其余三名伤员还在等杜姨核名挂牌。",
+      "requires_decision": false,
+      "severity": "中等",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。",
+      "additional_before_quotes": [
+        "按七名新伤员和三名旧伤员算，每人连一壶都分不到。"
+      ],
+      "additional_after_quotes": [
+        "按随队来的七名伤员和三名本地伤员算，每人连一壶都分不到。"
+      ]
+    },
+    {
+      "id": "R003-B02-I08",
+      "chapter": 15,
+      "status": "edited_pending_independent_review",
+      "resolution": "把“先别动”明确给林渡，杜姨以空碗无人认领表达试划本格的理由；不新增调度答复，不补系统输入操作。I09响应接口另行保留待裁定。",
+      "before_quote": "“先别动，问清怎么补。”\n\n杜姨看向登记灯。黄灯一明一暗，灯下的值守纸已经映出两道亮痕。伤棚里每个人都知道一壶水有多重，也知道一个名字从名单里消失以后有多轻。\n\n杜姨用炭笔划掉沈乌的名字。",
+      "after_quote": "“先别动，问清怎么补。”林渡按住底册。\n\n杜姨看向登记灯。黄灯一明一暗，灯下的值守纸已经映出两道亮痕。“先试这一格。空碗总不能算个人。”\n\n杜姨用炭笔划掉沈乌的名字。",
+      "requires_decision": false,
+      "severity": "中等",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I09",
+      "chapter": 15,
+      "status": "pending_author_decision",
+      "resolution": "无作者裁定，完全保留划名→广播/红灯/扣水及补写待核→止继续扣水的原事件与正文接口。不加扫描器、自动识纸或新待核拨位；本项不能关闭。",
+      "before_quote": "杜姨用炭笔划掉沈乌的名字。\n\n铜管广播立刻响了一声。\n\n伤棚门旁的登记灯由黄转红，机械声音重复道：",
+      "after_quote": "杜姨用炭笔划掉沈乌的名字。\n\n铜管广播立刻响了一声。\n\n伤棚门旁的登记灯由黄转红，机械声音重复道：",
+      "requires_decision": true,
+      "severity": "中等",
+      "closure_recommendation": "不得关闭；等待作者决定既有输入操作后再修第15章，并独立复核。",
+      "source_evidence": [
+        {
+          "chapter": 14,
+          "path": "异星录/正文/第一卷_热海坠城/第014章_六小时.md",
+          "sha256": "a95d29be16a8625e4a68d7d3124133bda5679ba832fff0eeb9cf1d68f06d2f99",
+          "quote": "她将登记灯从二十二格拨回二十一格，又在灯脚摆齐五枚黑木片。",
+          "supports": "已写手动拨格先例，不能据此默认第15章已经做过对应操作。"
+        },
+        {
+          "chapter": 15,
+          "path": "异星录/正文/第一卷_热海坠城/第015章_伤员名单.md",
+          "sha256": "55b074b3f98abe6e4a647e20c601fc7ecb92a0b901cdcedbaf90a7cdce6657f6",
+          "quote": "杜姨用炭笔划掉沈乌的名字。\n\n铜管广播立刻响了一声。\n\n伤棚门旁的登记灯由黄转红，机械声音重复道：",
+          "supports": "划名后立刻响应，但纸/灯/系统输入承接仍未写。"
+        },
+        {
+          "chapter": 15,
+          "path": "异星录/正文/第一卷_热海坠城/第015章_伤员名单.md",
+          "sha256": "55b074b3f98abe6e4a647e20c601fc7ecb92a0b901cdcedbaf90a7cdce6657f6",
+          "quote": "林渡把被划掉的沈乌重新写回名单边缘，没有写“活着”或“死亡”，只写了两个字：待核。",
+          "supports": "保留补写待核的已发生动作，不推定新增待核拨位。"
+        },
+        {
+          "chapter": 15,
+          "path": "异星录/正文/第一卷_热海坠城/第015章_伤员名单.md",
+          "sha256": "55b074b3f98abe6e4a647e20c601fc7ecb92a0b901cdcedbaf90a7cdce6657f6",
+          "quote": "登记灯没有转黄，却停止继续扣减出水量。",
+          "supports": "保留只止继续扣水、未恢复黄灯的原结果。"
+        },
+        {
+          "chapter": 20,
+          "path": "异星录/正文/第一卷_热海坠城/第020章_祝衡的钥匙.md",
+          "sha256": "e405a602084d0fcfee4fe52c5f69a1003cebde3ed3bc7f25dac8a3b04c7f8ced",
+          "quote": "名单最下方，沈乌的名字有一道划痕，旁边又补写了“待核”。登记灯因此变红，仍在重复“请补回一名居民”。",
+          "supports": "后章接口复现，不能在第15章静默换成新装置或新响应对象。"
+        },
+        {
+          "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+          "sha256": "eeff0e0f1394894275a0500b3a0a4a7b7b4b0b2be484447d32d7ad3eee5cb920",
+          "section": "第11—20章实际发生记录／第15章行",
+          "quote": "登记系统要求补回一名居民，延续名单造假线",
+          "supports": "实录确认结果，不确认纸张识别功能或具体输入操作。"
+        },
+        {
+          "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+          "sha256": "da660140b6cf8be4dda8385b82b5fd0fb67a5077e696d8f9560f189af2afe418",
+          "section": "第11—20章回填／第15章",
+          "quote": "新增伏笔：沈乌被系统标为今日转移；登记系统会通过扣减配给要求补回人数；“待核”可暂时阻止继续扣水。",
+          "supports": "扣水和待核暂缓为既定结果；接口选择尚未裁定。"
+        }
+      ],
+      "recommendation_not_adopted": {
+        "recommended_scheme": "请作者确认沿第14章既有手动拨格／核名操作补第15章输入承接。确认后只补与原名单调整对应的人工动作，维持原响应和待核止扣结果；不设扫描器，不新建待核拨位。",
+        "adopted": false,
+        "reason": "尚无作者裁定；本轮未把推荐方案写入正文。",
+        "affected_chapters": [
+          15,
+          20
+        ],
+        "scope_note": "第20章只作为接口复现证据；本轮该章仅修I17/I18，不修名单接口。"
+      }
+    },
+    {
+      "id": "R003-B02-I10",
+      "chapter": 16,
+      "status": "edited_pending_independent_review",
+      "resolution": "将三层错位导轨与其上三四层间既有可制动段的相对位置说清，明确途经坏段仍有带载牵扭风险，到停靠位制动不再冲五层。未移层、未加净空/降速档或完好通道；三人受困结果与撤权不变。",
+      "before_quote": "第二处通向二环。轿厢若此时上行，必须经过三层已经错位的导轨；热胀让那段导轨失去定位，继续上冲会带着井壁一起扭。祝衡把上行终点设在三层和四层之间。那里不高，却避开了会继续下坠的一环和二环，也是他能给出的唯一停靠位。控制台脚边的铜板随井绳轻震，他的指腹在确认键上停了半息。",
+      "after_quote": "第二处通向二环。轿厢若此时上行，必须经过三层已经错位的导轨；热胀让那段导轨失去定位，带载通过仍可能牵扭井壁。三层和四层之间的制动段对应的灯还亮着，祝衡把上行终点设在那里，到了就得停，不能再冲向五层。这个停靠位在错位段上方，能避开继续下坠的一环和二环，也是他能给出的唯一停靠位。控制台脚边的铜板随井绳轻震，他的指腹在确认键上停了半息。",
+      "requires_decision": false,
+      "severity": "中等",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I11",
+      "chapter": 16,
+      "status": "edited_pending_independent_review",
+      "resolution": "删第一段末已完成的“记住白章，转身去二环”，只保留最后一次观察、收记录和离开；白章、家属牌、湿轮印均保留。",
+      "before_quote": "祝衡追出半步，又停在护卫横过来的枪带前。他若在此处动手，那份带着他签名的井道记录也会一起被收走。他记住了白章，转身去二环。\n\n祝衡站在坡道边，看着最后一辆白章水车转过上方门洞。湿轮印越过身份门，顺着通往上城区的旧水槽爬去；脚下货桥被轮压震得沉下一指。他把带签名的井道记录折进内袋，转身朝二环抓捕广播传来的方向走去。\n",
+      "after_quote": "祝衡追出半步，又停在护卫横过来的枪带前。他若在此处动手，那份带着他签名的井道记录也会一起被收走。\n\n祝衡站在坡道边，看着最后一辆白章水车转过上方门洞。湿轮印越过身份门，顺着通往上城区的旧水槽爬去；脚下货桥被轮压震得沉下一指。他把带签名的井道记录折进内袋，转身朝二环抓捕广播传来的方向走去。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I12",
+      "chapter": 17,
+      "status": "edited_pending_independent_review",
+      "resolution": "删“好一点”的责任辩护；只顶一回、过门不调头、林栖看销、木匠仍握柄及最终让位均保留。",
+      "before_quote": "把技术上能少冒的险说清，并不能消去巡查责任，却比替别人轻易答应“不出事”好一点。",
+      "after_quote": "林渡没再拿空话担保。他叫阿九记住短销只顶回这一回，过门后车不能再调头压桥；又请林栖在门内看绞盘，销子一动便喊。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I13",
+      "chapter": 18,
+      "status": "edited_pending_independent_review",
+      "resolution": "去掉未呈现的“货板争夺时”比较基准，写第二齿当前裂纹已扩大；不补造第13章木尺参战或旧裂基准。",
+      "before_quote": "木尺第二齿的裂纹却比货板争夺时更长，从齿根一路延伸到尺背。",
+      "after_quote": "木尺第二齿的裂纹已经扩大，从齿根一路延伸到尺背。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I14",
+      "chapter": 18,
+      "status": "edited_pending_independent_review",
+      "resolution": "删空白仍空白的重复证据说明，保留排错方向、半组数字、三段路线与潮时。after_quote为删句后保留的排错结论。",
+      "before_quote": "剩下的空白仍是空白，不能靠把木尺再压紧一点，就多读出父亲没留下的那半组数字。",
+      "after_quote": "经过这一遍比对，几个人至少排除了一个错误方向。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I15",
+      "chapter": 19,
+      "status": "edited_pending_independent_review",
+      "resolution": "两处“显然”读心改为守名单不靠近及目光移回林栖的可见动作；杜姨未离场，疑虑未变为信任。",
+      "before_quote": "杜姨则守着伤员名单，显然不愿听任何会让伤棚惹上更多麻烦的故事。",
+      "after_quote": "杜姨则守着伤员名单，没有凑过来。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。",
+      "additional_before_quotes": [
+        "弥娅把眉间的细纹压住，抬头看棚顶滴水的雾帆，显然不明白为什么会有人这样想。"
+      ],
+      "additional_after_quotes": [
+        "弥娅把眉间的细纹压住，抬头看棚顶滴水的雾帆，又把目光移回林栖脸上。"
+      ]
+    },
+    {
+      "id": "R003-B02-I16",
+      "chapter": 19,
+      "status": "edited_pending_independent_review",
+      "resolution": "删风险共担的叙述者定义，保留“一起”的短话、仪器居中及门外不信；为删句后的连续对白明确说话人，未改对白内容。",
+      "before_quote": "这不是承诺相信彼此，只是承认下一段路的风险已经连在一起。",
+      "after_quote": "“我找人。你们活。”她停顿一下，重新组织句子，“一起。”\n\n“他们不知道。”弥娅说。\n\n“所以现在不能把门打开。”林渡说。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I17",
+      "chapter": 20,
+      "status": "edited_pending_independent_review",
+      "resolution": "沿第14章已有普通屏面计时数字和林栖认维修数字的语境，补屏角三后两个零的可见百位依据，再由呼吸手势和问答核单位；未加倒计时/预言功能或精读消耗，约300次更短局部窗口仍非足额保证。",
+      "before_quote": "弥娅竖起三根手指。\n\n“三个时辰？”\n\n她摇头，指向自己的呼吸。\n\n“三百下？”林栖问。",
+      "after_quote": "弥娅竖起三根手指。\n\n“三个时辰？”\n\n她摇头，指向自己的呼吸，又把屏角的数字转给林栖看。三后面还有两个零，林栖认得和旧维修表上相同的写法。\n\n“三百下？”林栖问。",
+      "requires_decision": false,
+      "severity": "中等",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    },
+    {
+      "id": "R003-B02-I18",
+      "chapter": 20,
+      "status": "edited_pending_independent_review",
+      "resolution": "删两件事不能保证的限知归纳，保留卷名单仅露一行、祝衡不拿纸及林渡戒备；一次掩护未改成全员信任。",
+      "before_quote": "谁给伤棚让过一步，谁会把纸带走，是两件不同的事，他暂时都没法替众人保证。",
+      "after_quote": "门口的巡查员将灯挪向低处，照出了床板下蜷着的一双脚。那人终于松开藏水的手，却仍不肯报名字。林渡把名单卷起一半，只露出眼下要核的那一行。",
+      "requires_decision": false,
+      "severity": "轻微",
+      "closure_recommendation": "编辑建议：由原B02独立读者读取同一工作稿字节，逐项确认后决定是否关闭；本记录不自签关闭。"
+    }
+  ],
+  "writeback_suggestions": [
+    {
+      "file": "异星录/04_连续性管理/人物状态台账.md",
+      "source_sha256": "62656e6973a63c6f643fc7675e86f680b124543966a6f642003e8182c0c18769",
+      "checked_chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "record_sections": [
+        "第11—20章后状态",
+        "2026-09-28篇幅补全回填：第001—030章"
+      ],
+      "unchanged_facts": [
+        "林渡臂伤、林栖掌伤、弥娅腿伤、阿九膝伤均延续，位置与持物不变。",
+        "精读余4、裸钩/裂尺、个人水1袋、机械钥匙交接均不变。",
+        "第19章才明确澜陆，第20章才首次不可回撤直接掩逃；未增加角色知识。"
+      ],
+      "fact_update_required": false,
+      "navigation_update": "无须更新当前状态；若终审后归档，可追加R003/B02工作稿指纹／审读证据导航，不把第15章接口标为已解决。",
+      "direct_write_performed": false,
+      "when_to_write": "仅由主线程在独立终审／必要作者裁定之后决定是否追加维护导航；本轮不改共享文件。"
+    },
+    {
+      "file": "异星录/04_连续性管理/资源与时间台账.md",
+      "source_sha256": "3bc8faffc7ce133aa803c9926b0a705745ee6bda1ba349a037ee7ab0bd674aef",
+      "checked_chapters": [
+        12,
+        14,
+        15,
+        16,
+        17,
+        20
+      ],
+      "record_sections": [
+        "第11—20章后资源与时间",
+        "2026-09-28篇幅补全回填：第001—030章"
+      ],
+      "unchanged_facts": [
+        "精读2次余4；六去五返，在册21另3本地伤员，累计失联5。",
+        "第15章十人救治：当下挂7牌只是挂牌范围，不改变救治人数；公共6壶+个人半壶，剩完整1袋。",
+        "盐药10.5包含受潮2包、直接可用8.5包；半包给林栖掌伤，不兑孩子水。",
+        "升降机三十息/3人/三四层间/风道；最后1芯报废，半盏水修绞盘；1发子弹；约300呼吸更短局部窗口。"
+      ],
+      "fact_update_required": false,
+      "navigation_update": "不改资源数值、时段和第400章导航；独审后可加七牌/十人解释位置（第15章开头与分水段），不得先登记I09输入方案。",
+      "direct_write_performed": false,
+      "when_to_write": "仅由主线程在独立终审／必要作者裁定之后决定是否追加维护导航；本轮不改共享文件。"
+    },
+    {
+      "file": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "source_sha256": "da660140b6cf8be4dda8385b82b5fd0fb67a5077e696d8f9560f189af2afe418",
+      "checked_chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "record_sections": [
+        "第11—20章回填",
+        "2026-09-28篇幅补全回填：第001—030章"
+      ],
+      "unchanged_facts": [
+        "林岑姓名、最高热流经过城内、残缺地图、五人失联、沈乌名单、半坐标、澜陆身份、机械钥匙的触碰／半揭节点不变。",
+        "沈乌待核暂缓而非核验通过；输入接口仍未决。",
+        "半坐标未补全、未自动开门，记录不确定造假责任。"
+      ],
+      "fact_update_required": false,
+      "navigation_update": "回收计划不需改；若后续决定追加R003语言修订导航，注明第15章I09待裁定，不将其记为新设定已发生。",
+      "direct_write_performed": false,
+      "when_to_write": "仅由主线程在独立终审／必要作者裁定之后决定是否追加维护导航；本轮不改共享文件。"
+    },
+    {
+      "file": "异星录/04_连续性管理/事件与地点时间线.md",
+      "source_sha256": "d6dff1ae602f4f9e0b768fe6f7e5d2a515bb31514edf4abf5bb031d5387f1b0a",
+      "checked_chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "record_sections": [
+        "第一卷时间线",
+        "第一卷空间硬约束",
+        "信息传递约束",
+        "2026-09-28篇幅补全时序说明"
+      ],
+      "unchanged_facts": [
+        "11—20仍为T1黑潮时末至下一热时前段，不新增精确钟点、不重排T序。",
+        "一环坠梁→二环货板→互助会伤棚→东侧维护门；祝衡仍在五层调度/货运坡道及二环外勤。",
+        "第16章途经三层错位段，在其上三四层间既有制动段停靠；不移动坏段或停靠层。",
+        "第19章明确澜陆；第20章水声黑布直接接第21章，未推进到后章已发生事件。"
+      ],
+      "fact_update_required": false,
+      "navigation_update": "无需改时间线锚点；独审后可加第16章相对位置澄清、第20章百位依据的维护导航，不新增通道或安全保证。",
+      "direct_write_performed": false,
+      "when_to_write": "仅由主线程在独立终审／必要作者裁定之后决定是否追加维护导航；本轮不改共享文件。"
+    },
+    {
+      "file": "异星录/04_连续性管理/术语词典.md",
+      "source_sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+      "checked_chapters": [
+        11,
+        12,
+        14,
+        15,
+        18,
+        19,
+        20
+      ],
+      "record_sections": [
+        "术语词典",
+        "测潮仪",
+        "水票",
+        "衡陆",
+        "澜陆"
+      ],
+      "unchanged_facts": [
+        "测潮仪为有限读热流设备，不是预言仪；普通屏面数字和旧维修计时记号第14章已有。",
+        "水票、个人夹与公共册不混用；第19章澜陆释名不前移。",
+        "无新增专有术语；I09不引入自动识纸／扫描器／待核拨位。"
+      ],
+      "fact_update_required": false,
+      "navigation_update": "不需新增词条或调整首释章；作者裁定I09后才核现有登记操作的解释范围，本轮不预填。",
+      "direct_write_performed": false,
+      "when_to_write": "仅由主线程在独立终审／必要作者裁定之后决定是否追加维护导航；本轮不改共享文件。"
+    },
+    {
+      "file": "异星录/04_连续性管理/术语与命名表.md",
+      "source_sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+      "checked_chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "record_sections": [
+        "术语与命名表",
+        "三齿木尺",
+        "测潮仪",
+        "个人水票夹"
+      ],
+      "unchanged_facts": [
+        "三齿木尺、测潮仪、衡陆、澜陆、沈乌、旧维修钥匙统一写法不变。",
+        "没有新增设备、组织、地点或专有命名。"
+      ],
+      "fact_update_required": false,
+      "navigation_update": "无需命名更新；仅有终审报告的维护导航需求时由主线程决定，不能提前登记新接口名称。",
+      "direct_write_performed": false,
+      "when_to_write": "仅由主线程在独立终审／必要作者裁定之后决定是否追加维护导航；本轮不改共享文件。"
+    },
+    {
+      "file": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "source_sha256": "eeff0e0f1394894275a0500b3a0a4a7b7b4b0b2be484447d32d7ad3eee5cb920",
+      "checked_chapters": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "record_sections": [
+        "第11—20章实际发生记录",
+        "2026-09-28篇幅补全回填：第001—030章"
+      ],
+      "unchanged_facts": [
+        "一环坠梁下脱困，细链永久断、臂伤加重；木碗仅物证，男孩未确认生死；说出林岑。",
+        "2次精读后余4，绳剪近一臂；最高热流经过城内，未揭成因。",
+        "仪器屏裂、臂再血；未说澜陆，投影不隔空加热；4名失联仍无答案。",
+        "6人取物5人返；在册21、失联5，阿九弥娅另列；不足6小时局部估数，外侧更短。",
+        "救治10人；6壶公共+个人少袋按半壶、剩完整1袋；半包盐药用于林栖掌伤；沈乌划去旁补待核，红灯未转黄但止继续扣水。I09输入接口仍待裁定。",
+        "二环上厢、途经三层错位段、三四层间停靠；三十息救入维修工和母子共3人，应急风道开；撤调度/升降机/名单权限，仍外勤抓捕。",
+        "最后1芯报废、房车零动力，人推运1重伤员；掌/臂/膝伤加重；半盏水用于绞盘，不补车体。",
+        "三段路线半组坐标与潮时、林岑物资标签；木尺第二齿裂扩只量不撬；粉末仍存维修单空白折角。",
+        "明确澜陆和无人海岸记录错误；不知道伪史责任，关系为有限合作。",
+        "机械旧钥匙交林渡、1发击热管，首次不可撤回公开掩逃；约300呼吸局部窗口；东维护门水声黑布承接021。"
+      ],
+      "fact_update_required": false,
+      "navigation_update": "核第11—20章实际发生记录（151—164行）及2026-09-28补全011—020行（305—314行）：事件与代价不改。终审后可另附R003/B02修辞/承接修订导航与新指纹；第15章I09未决，不写成接口已解决。",
+      "direct_write_performed": false,
+      "when_to_write": "仅由主线程在独立终审／必要作者裁定之后决定是否追加维护导航；本轮不改共享文件。",
+      "chapter_checks": [
+        {
+          "chapter": 11,
+          "record_section": "第11—20章实际发生记录／第11章行；2026-09-28篇幅补全／011行",
+          "unchanged_facts": "一环坠梁下脱困，细链永久断、臂伤加重；木碗仅物证，男孩未确认生死；说出林岑。"
+        },
+        {
+          "chapter": 12,
+          "record_section": "第11—20章实际发生记录／第12章行；2026-09-28篇幅补全／012行",
+          "unchanged_facts": "2次精读后余4，绳剪近一臂；最高热流经过城内，未揭成因。"
+        },
+        {
+          "chapter": 13,
+          "record_section": "第11—20章实际发生记录／第13章行；2026-09-28篇幅补全／013行",
+          "unchanged_facts": "仪器屏裂、臂再血；未说澜陆，投影不隔空加热；4名失联仍无答案。"
+        },
+        {
+          "chapter": 14,
+          "record_section": "第11—20章实际发生记录／第14章行；2026-09-28篇幅补全／014行",
+          "unchanged_facts": "6人取物5人返；在册21、失联5，阿九弥娅另列；不足6小时局部估数，外侧更短。"
+        },
+        {
+          "chapter": 15,
+          "record_section": "第11—20章实际发生记录／第15章行；2026-09-28篇幅补全／015行",
+          "unchanged_facts": "救治10人；6壶公共+个人少袋按半壶、剩完整1袋；半包盐药用于林栖掌伤；沈乌划去旁补待核，红灯未转黄但止继续扣水。I09输入接口仍待裁定。"
+        },
+        {
+          "chapter": 16,
+          "record_section": "第11—20章实际发生记录／第16章行；2026-09-28篇幅补全／016行",
+          "unchanged_facts": "二环上厢、途经三层错位段、三四层间停靠；三十息救入维修工和母子共3人，应急风道开；撤调度/升降机/名单权限，仍外勤抓捕。"
+        },
+        {
+          "chapter": 17,
+          "record_section": "第11—20章实际发生记录／第17章行；2026-09-28篇幅补全／017行",
+          "unchanged_facts": "最后1芯报废、房车零动力，人推运1重伤员；掌/臂/膝伤加重；半盏水用于绞盘，不补车体。"
+        },
+        {
+          "chapter": 18,
+          "record_section": "第11—20章实际发生记录／第18章行；2026-09-28篇幅补全／018行",
+          "unchanged_facts": "三段路线半组坐标与潮时、林岑物资标签；木尺第二齿裂扩只量不撬；粉末仍存维修单空白折角。"
+        },
+        {
+          "chapter": 19,
+          "record_section": "第11—20章实际发生记录／第19章行；2026-09-28篇幅补全／019行",
+          "unchanged_facts": "明确澜陆和无人海岸记录错误；不知道伪史责任，关系为有限合作。"
+        },
+        {
+          "chapter": 20,
+          "record_section": "第11—20章实际发生记录／第20章行；2026-09-28篇幅补全／020行",
+          "unchanged_facts": "机械旧钥匙交林渡、1发击热管，首次不可撤回公开掩逃；约300呼吸局部窗口；东维护门水声黑布承接021。"
+        }
+      ]
+    }
+  ],
+  "ready_for_independent_final_review_chapters": [
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "pending_author_decision_chapters": [
+    15
+  ],
+  "chapter_15_status": "working_draft_only_pending_I09_author_decision; I07/I08 edited but not independently accepted",
+  "status": "editing_handoff_complete_not_quality_approved",
+  "safe_issues_edited": 17,
+  "unresolved_issue_ids": [
+    "R003-B02-I09"
+  ],
+  "independent_quality_approval": false,
+  "reader_review_generated": false,
+  "published": false,
+  "shared_ledgers_modified": false,
+  "subsequent_task_started": false,
+  "next_action_owner": "主线程安排原B02读者独立复核；第15章先等作者裁定。",
+  "stop_after_handoff": true,
+  "han_count_method": "去除Markdown标题行后，统计[\\u4e00-\\u9fff]纯汉字；与baseline逐章口径和before_han一致。",
+  "editor_checks": {
+    "published_fingerprints_match_baseline": true,
+    "initial_digest_matches": true,
+    "working_chapter_count": 10,
+    "han_range_2200_3200": true,
+    "all_issue_after_quotes_present": true,
+    "I09_original_response_retained": true,
+    "scope": "编辑自检：逐项差异及受影响上下文／数字／边界核对，不是独立事实或吸引力通过。"
+  },
+  "reading_scope": {
+    "full_published_chapters": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "boundary_reads": [
+      {
+        "chapter": 10,
+        "scope": "结尾35行，仅查承接"
+      },
+      {
+        "chapter": 21,
+        "scope": "开头33行，仅查承接"
+      }
+    ],
+    "initial_report": "initial.md全文547行及initial-issues.json全部18项/逐章/篇章证据",
+    "context": "AGENTS顺序相关总纲/索引/第一卷卷纲与011—020章卡、世界/角色/六台账的对应早期规则及截至20历史实录；正文与连载规范全篇（重点第九节）、文风与细节精修规范全篇（重点第二七节）、黄金开篇与持续追读规范全篇。已在本线程前段完成；不声称010/021整章或全书复读。",
+    "historical_state_guard": "R003基线保存400章导航仅用于保护源字节，不将第400章人物/资源/知识状态倒灌11—20。",
+    "post_edit_scope": "落盘工作稿逐项差异与受影响段连续性自检；独立终审尚未安排。"
+  },
+  "initial_reviewer_identity": "Codex independent reader; thread=01a1a6ee-01bc-71f0-9396-4d9024472d61; session=01a1a6eb-7ede-7f40-8ccb-7d584fdc0a25"
+}

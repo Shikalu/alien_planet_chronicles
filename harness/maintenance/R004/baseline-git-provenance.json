@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "kind": "baseline-byte-recoverability",
+  "commit": "92ec7a3ea01f194e99879f781f62ab7daa280575",
+  "checked_files": 454,
+  "mismatches": [],
+  "note": "Only proves before bytes are recoverable from this exact Git commit; does not validate reviews or authorize changes."
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B35",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B35-B36",
+  "independent": true,
+  "body_first": true,
+  "phase": "initial",
+  "input_digest": "5cc15be039a56955a6b8659e623e006bef5c710baa301a155c433244ebb1ed9f",
+  "source_digest": "5cc15be039a56955a6b8659e623e006bef5c710baa301a155c433244ebb1ed9f",
+  "verdict": "issues",
+  "issues": [
+    {
+      "id": "B35-01",
+      "chapter": 341,
+      "severity": "轻微",
+      "quote": "他把给五层的留底翻过来，写去一句原拟的“下班接着清”，改为“下一班未借成”。",
+      "reader_problem": "“写去一句”不能准确表达删除旧计划；读者会把改写动作读断。",
+      "suggestion": "只修用字，不改下一班未借成的状态。",
+      "status": "open"
+    },
+    {
+      "id": "B35-02",
+      "chapter": 342,
+      "severity": "中等",
+      "quote": "吃的还是原先送下来的水，盖里吹出的气不能灌进坛里。",
+      "reader_problem": "住户问是否找水，答复却纠正把气灌坛这一无人提出的行为；又由饮水忽然转气体，旁白在替人物辩护而非回答发现了什么。",
+      "suggestion": "直接保留原号饮水，说明湿孔尚未查到可取饮水；不新增水质检验或确诊污染。",
+      "status": "open"
+    },
+    {
+      "id": "B35-03",
+      "chapter": 343,
+      "severity": "中等",
+      "quote": "林渡没有让他再试着想一个名字，叫他们收盖。",
+      "reader_problem": "下一段日光换向后还在看原盖、纠图，稍后才真正收盖。提前的收盖命令未执行也未撤回，使读者误以为图面已合上。",
+      "suggestion": "这一刻只终止猜名，保留扶盖和对图；实际收盖仍放原后文。",
+      "status": "open"
+    },
+    {
+      "id": "B35-04",
+      "chapter": 345,
+      "severity": "轻微",
+      "quote": "槐七说没有见可认到本人的签号，林渡便把这句话留在描图边。林渡将残缝画在新图上，旁注“此处无可认签号”。",
+      "reader_problem": "同一签号判断被连续记录两次，动作与结论重复，削弱接下来父亲责任夹的停顿。",
+      "suggestion": "合成一次描图注记，保留信息来源为槐七、父亲旧责任抄页不动。",
+      "status": "open"
+    },
+    {
+      "id": "B35-05",
+      "chapter": 346,
+      "severity": "中等",
+      "quote": "他的半段凉时还没用完，按原计划，本可把空车推过这截，再背一包湿木试载；如今一件货都没放，已经少了一只能滚的轮。",
+      "reader_problem": "废小车刚被发现，前文的现场目标只是分段认路到台，直到裂轮后才称湿木试载为原计划。读者无法回看角色何时提出这一步，失败代价像事后追加。",
+      "suggestion": "在验空架、移动前交代条件式试载预案：先空架短移，成立且余时足才议取外面原样包；不让湿木实际上轨，不增加本班行程。",
+      "status": "open"
+    },
+    {
+      "id": "B35-06",
+      "chapter": 349,
+      "severity": "轻微",
+      "quote": "林渡收好纸，去找槐七，次凉上返转为下行，仍须先在四层住一晚。",
+      "reader_problem": "人物已经在五层，“上返转为下行”容易被读成另一次途中改道，而不是结束上返后按约返三层。",
+      "suggestion": "以当前五层为参照，直接说明次凉下行和四层中宿；日次不变。",
+      "status": "open"
+    }
+  ],
+  "manuscripts": [
+    {
+      "chapter": 341,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第341章_肩膀要回原处.md",
+      "sha256": "9cb018df94d395392e7b2165d23466ed964bae1261a73f4d70bf8f0fbe50e11a"
+    },
+    {
+      "chapter": 342,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第342章_盖子不替墙承重.md",
+      "sha256": "7c8c34bab48ec784d0d9fb5e6022b78c848dc463e40a57ec3fb428bf19935ac4"
+    },
+    {
+      "chapter": 343,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第343章_图上多出一副托座.md",
+      "sha256": "680306907226d15be176b63a827401c1696f20f4203f7d6abfb021a80c88b2bd"
+    },
+    {
+      "chapter": 344,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第344章_借来的东西分别还.md",
+      "sha256": "a61f23db10b2ec7ac4be960e45709ff88e5b1dc49d503b62b067116991424ae7"
+    },
+    {
+      "chapter": 345,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第345章_第一个人只走到光里.md",
+      "sha256": "6d42b098788de9b34907feba41e4e886dd65d89bfd4c75d53a3f0ddcf1566608"
+    },
+    {
+      "chapter": 346,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第346章_轮子留在那道缝前.md",
+      "sha256": "8d527b3bc70c9a917f311c53f1e4d7da7ded7265b135e249b159d2efffbf2b06"
+    },
+    {
+      "chapter": 347,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第347章_水从闸的另一面来.md",
+      "sha256": "ead2acf9a8ee9c9621bbbec399a53ad15c09b9b427b27a41857566b72def3b55"
+    },
+    {
+      "chapter": 348,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第348章_先去改那张货单.md",
+      "sha256": "0248355f7b6f8d05f80eb78a871ca116b989c5fbd36549f48b7d4f55e2137c97"
+    },
+    {
+      "chapter": 349,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第349章_四包还没有上车.md",
+      "sha256": "265a0a56bbf755aae51f6c190f74e9d5e31502b4176c3b10d0acadf1a59e9cb5"
+    },
+    {
+      "chapter": 350,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第350章_路在水里接下去.md",
+      "sha256": "e52d6399477da4b8b3c614a8a548d145f496d0bb2526d3b0b604317b22876ade"
+    }
+  ],
+  "digest_note": "initial-manifest无独立input_digest字段。其source_digest经核正是manuscripts按ensure_ascii=False/sort_keys=True的SHA256；两字段均采用该既有清单摘要，不自造另一版本。",
+  "review_scope": "341—350全章；340→341与350→351仅接口；350不扩签301—350五十章。",
+  "reader_first": "harness/maintenance/R009/B35/reader-first.md",
+  "final_review_performed": false
+}

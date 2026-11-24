@@ -1,0 +1,373 @@
+{
+  "groups": [
+    {
+      "id": "B16",
+      "chapters": [
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "initial_digest": "ee726495900734c870168ba72829d04336285103641f822da48d62a4016471ca",
+      "initial": {
+        "path": "harness/maintenance/R006/B16/initial.json",
+        "sha256": "f3efd409316110f5c6a420b505483b8c277f5bd97c76ad5368d681493adde7d6",
+        "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "ee726495900734c870168ba72829d04336285103641f822da48d62a4016471ca",
+        "verdict": "issues"
+      },
+      "current_work_digest": "038f52b06035e00a2edf2f12463d8cf5d9aaf847c1798b3b95b78c13f5280ca7",
+      "final_is_current_byte_bound": true,
+      "final": {
+        "path": "harness/maintenance/R006/B16/final2.json",
+        "sha256": "00a1c40d9ee3ca7d2b87309679daba1298578f7c5331a19e5bd457a51c416cdf",
+        "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "038f52b06035e00a2edf2f12463d8cf5d9aaf847c1798b3b95b78c13f5280ca7",
+        "verdict": "issues"
+      },
+      "current_fact_verdict": "issues"
+    },
+    {
+      "id": "B17",
+      "chapters": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "initial_digest": "21715578dca10b2f6bf8c348d75e53c834e69f13160d6d26aed82b050e5a0611",
+      "initial": {
+        "path": "harness/maintenance/R006/B17/initial.json",
+        "sha256": "e841c82f9452129adbbfe701df6f059a95f10cfeff535c127c52eb2cab60adac",
+        "reviewer": "01a1b471-6c35-7321-ab02-bfb79da42b6a",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "21715578dca10b2f6bf8c348d75e53c834e69f13160d6d26aed82b050e5a0611",
+        "verdict": "issues"
+      },
+      "current_work_digest": "829f170fa2044c9bdb7a3049f6afb27a509de3c9be6720f69250861914d73c96",
+      "final_is_current_byte_bound": true,
+      "final": {
+        "path": "harness/maintenance/R006/B17/final3.json",
+        "sha256": "7c3402e7df57b6cf4f9abfa7c7fe911f17ca82d8e97d45da537ddb2e0ff7f4e2",
+        "reviewer": "01a1b471-6c35-7321-ab02-bfb79da42b6a",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "829f170fa2044c9bdb7a3049f6afb27a509de3c9be6720f69250861914d73c96",
+        "verdict": "issues"
+      },
+      "current_fact_verdict": "issues"
+    },
+    {
+      "id": "B18",
+      "chapters": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "initial_digest": "f34a80e0bdf3b83915ac6e6d66fc8e830546f7a980ba54db6bd92882fc9f5ff3",
+      "initial": {
+        "path": "harness/maintenance/R006/B18/initial.json",
+        "sha256": "a2d2efb10863c4d19428a2e85cd630a1e10b1412baa456c2f09f0f087c4a2852",
+        "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "f34a80e0bdf3b83915ac6e6d66fc8e830546f7a980ba54db6bd92882fc9f5ff3",
+        "verdict": "issues",
+        "artifact_reviewer": null,
+        "identity_provenance": {
+          "path": "harness/maintenance/R006/reviewer-identity-binding.json",
+          "sha256": "e56c5ca8f6c3d459e8cf0adba8434c5b3643def56d0370408750920f65b50fab",
+          "note": "历史null保留；由实际调用身份及审读者final2同线程确认补足包装，不补内容通过"
+        }
+      },
+      "current_work_digest": "d3b7a59136a615c32f9a8f1ad336bc6cd90f9c4241fe17cb7958fbc48c3ec706",
+      "final_is_current_byte_bound": true,
+      "final": {
+        "path": "harness/maintenance/R006/B18/final2.json",
+        "sha256": "a1bc9683534c28316ca7437de533828230a2811a7289a6a51b0b57556b64c83b",
+        "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "d3b7a59136a615c32f9a8f1ad336bc6cd90f9c4241fe17cb7958fbc48c3ec706",
+        "verdict": "issues"
+      },
+      "current_fact_verdict": "issues"
+    },
+    {
+      "id": "B19",
+      "chapters": [
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "initial_digest": "fbeffedaf3e3a85c7c128826022afefd89fdf4f366505d94575dc473f056deb4",
+      "initial": {
+        "path": "harness/maintenance/R006/B19/initial.json",
+        "sha256": "71e9a00221c7b34db034eb04377736eac836579c4918f2e4ebe8c0a173e0b570",
+        "reviewer": "01a1b471-b6e2-7e61-ac99-fecd1cc95c5a",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "fbeffedaf3e3a85c7c128826022afefd89fdf4f366505d94575dc473f056deb4",
+        "verdict": "issues"
+      },
+      "current_work_digest": "40ebb23a58254799a3ef26887bc65b486d6af470d8a0fbd4e59b53c40f2607eb",
+      "final_is_current_byte_bound": true,
+      "final": {
+        "path": "harness/maintenance/R006/B19/final2.json",
+        "sha256": "08486ed44bfe10ee4ae8c8b0c80bad8be5f1e84e108f451f8bae507c850851ec",
+        "reviewer": "01a1b471-b6e2-7e61-ac99-fecd1cc95c5a",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "40ebb23a58254799a3ef26887bc65b486d6af470d8a0fbd4e59b53c40f2607eb",
+        "verdict": "issues"
+      },
+      "current_fact_verdict": "issues"
+    },
+    {
+      "id": "B20",
+      "chapters": [
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "initial_digest": "487444c98c28d6e0d05840e487c05e2027a4cded91acf92c93d8c2f142f4ee11",
+      "initial": {
+        "path": "harness/maintenance/R006/B20/initial.json",
+        "sha256": "3aee8d33356eeb1512ee552fac9806367eda7f1dad88313738437c145b375c12",
+        "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "487444c98c28d6e0d05840e487c05e2027a4cded91acf92c93d8c2f142f4ee11",
+        "verdict": "issues"
+      },
+      "current_work_digest": "fa35f09a378ed6db9691c48ab659b26705f6184554c98451ef2f417b724beeea",
+      "final_is_current_byte_bound": true,
+      "final": {
+        "path": "harness/maintenance/R006/B20/final2.json",
+        "sha256": "65412a28ec7bf458d38054f8db7b1f5f725d465e595e5151a75a77fd64558e90",
+        "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "fa35f09a378ed6db9691c48ab659b26705f6184554c98451ef2f417b724beeea",
+        "verdict": "issues"
+      },
+      "current_fact_verdict": "issues"
+    }
+  ],
+  "reader_candidates": [
+    {
+      "group": "B16",
+      "path": "harness/maintenance/R006/B16/reader-review2.json",
+      "sha256": "7456ce55c87028945e0f34a7a2fb26e89d15e3fa74d81c393ba95945c98feec4",
+      "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+      "verdict": "needs_revision",
+      "source_digest": "038f52b06035e00a2edf2f12463d8cf5d9aaf847c1798b3b95b78c13f5280ca7",
+      "checks": 52,
+      "check_counts": {
+        "pass": 48,
+        "needs_revision": 4
+      },
+      "validation": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "needs_revision",
+        "chapters": [
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160
+        ],
+        "includes_prologue": false,
+        "profile": "serial"
+      },
+      "same_bytes_as_fact": true,
+      "not_release_approval": true
+    },
+    {
+      "group": "B17",
+      "path": "harness/maintenance/R006/B17/reader-review3.json",
+      "sha256": "8030729c950ebcbb9366b50b9fc8121194492a5b55ba1dc17b7bff13a26a001b",
+      "reviewer": "01a1b471-6c35-7321-ab02-bfb79da42b6a",
+      "verdict": "needs_revision",
+      "source_digest": "829f170fa2044c9bdb7a3049f6afb27a509de3c9be6720f69250861914d73c96",
+      "checks": 52,
+      "check_counts": {
+        "pass": 45,
+        "needs_revision": 7
+      },
+      "validation": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "needs_revision",
+        "chapters": [
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170
+        ],
+        "includes_prologue": false,
+        "profile": "serial"
+      },
+      "same_bytes_as_fact": true,
+      "not_release_approval": true
+    },
+    {
+      "group": "B18",
+      "path": "harness/maintenance/R006/B18/reader-review2.json",
+      "sha256": "9212f3358d6b6f1634c83dd9623c6caf74dc1970fab5ba95447ceb208cc050f4",
+      "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+      "verdict": "needs_revision",
+      "source_digest": "d3b7a59136a615c32f9a8f1ad336bc6cd90f9c4241fe17cb7958fbc48c3ec706",
+      "checks": 52,
+      "check_counts": {
+        "pass": 38,
+        "needs_revision": 14
+      },
+      "validation": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "needs_revision",
+        "chapters": [
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180
+        ],
+        "includes_prologue": false,
+        "profile": "serial"
+      },
+      "same_bytes_as_fact": true,
+      "not_release_approval": true
+    },
+    {
+      "group": "B19",
+      "path": "harness/maintenance/R006/B19/reader-review.v2.json",
+      "sha256": "4dd0047431fa6850fa78f9ec54c9b1a2d442cf78e9a23c90a1a06ff300631951",
+      "reviewer": "01a1b471-b6e2-7e61-ac99-fecd1cc95c5a",
+      "verdict": "needs_revision",
+      "source_digest": "40ebb23a58254799a3ef26887bc65b486d6af470d8a0fbd4e59b53c40f2607eb",
+      "checks": 52,
+      "check_counts": {
+        "pass": 40,
+        "needs_revision": 12
+      },
+      "validation": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "needs_revision",
+        "chapters": [
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ],
+        "includes_prologue": false,
+        "profile": "serial"
+      },
+      "same_bytes_as_fact": true,
+      "not_release_approval": true
+    },
+    {
+      "group": "B20",
+      "path": "harness/maintenance/R006/B20/reader-review2.json",
+      "sha256": "fda4ba653e5b5cffa1cc1f65031915cd440a2bebb8ae0167b7efb2d82769468b",
+      "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+      "verdict": "issues",
+      "source_digest": "fa35f09a378ed6db9691c48ab659b26705f6184554c98451ef2f417b724beeea",
+      "checks": 52,
+      "check_counts": {
+        "pass": 47,
+        "needs_revision": 5
+      },
+      "validation": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "issues",
+        "chapters": [
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200
+        ],
+        "includes_prologue": false,
+        "profile": "serial"
+      },
+      "same_bytes_as_fact": true,
+      "not_release_approval": true
+    }
+  ],
+  "note": "current-byte-bound不表示pass；工作路径摘要不冒作正式正文摘要。"
+}

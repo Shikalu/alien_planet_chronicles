@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-07",
+  "stage": "authorized_corrections_applied_waiting_independent_rechecks",
+  "author_pending": 0,
+  "authorization": "authorization-2026-11-07.json",
+  "edited_chapters": 50,
+  "groups": [
+    {
+      "group": "B16",
+      "operations": 93,
+      "latest_authorized_review": "awaiting_actual_review"
+    },
+    {
+      "group": "B17",
+      "operations": 115,
+      "latest_authorized_review": "issues"
+    },
+    {
+      "group": "B18",
+      "operations": 148,
+      "latest_authorized_review": "awaiting_actual_review"
+    },
+    {
+      "group": "B19",
+      "operations": 103,
+      "latest_authorized_review": "awaiting_actual_review"
+    },
+    {
+      "group": "B20",
+      "operations": 153,
+      "latest_authorized_review": "awaiting_actual_review"
+    }
+  ],
+  "writeback_operations": 258,
+  "han_range": [
+    2257,
+    2751
+  ],
+  "official_prose_unchanged": true,
+  "release_allowed": false,
+  "note": "待定事项已有授权。最终仍须实际修后事实/追读复核及发布后verify-repair；前轮checkpoint.json保留当时失败截点。"
+}

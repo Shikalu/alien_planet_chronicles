@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B16",
+  "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+  "verified_at": "2026-11-07T15:46:22.945863+08:00",
+  "source_digest": "d3b53945d8f9f1a673ebb53ac84c17b53b7832382ef6922568d32f33f3bbd080",
+  "manuscripts": [
+    {
+      "chapter": 151,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第151章_谁动过送水绳.md",
+      "sha256": "4b20b4760bdd009c7e6031835b61f1ca65ff47b2fa95afef1f973c2e98319c11"
+    },
+    {
+      "chapter": 152,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第152章_摘过面以后.md",
+      "sha256": "d3d9371cc1d98fc41250b6aeefeea7086096e2fdf197111c2c0055874ab8ec8a"
+    },
+    {
+      "chapter": 153,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第153章_只表决这扇门.md",
+      "sha256": "d8e10b50dcc47ba4e9818e30dd126b5f5d5284c64e71f033df6e3648ea0ff948"
+    },
+    {
+      "chapter": 154,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第154章_一班绳料.md",
+      "sha256": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3"
+    },
+    {
+      "chapter": 155,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第155章_回程也占一班.md",
+      "sha256": "72c14e603685f6ebcfd15e47c0e848f83f4ff73f66ddedb99bd3031e3f4ee9e7"
+    },
+    {
+      "chapter": 156,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第156章_撤走的向导.md",
+      "sha256": "39ef966e133dca9a21e58f5306b7870ffcc2f112440f8c765d364a5197d0e36e"
+    },
+    {
+      "chapter": 157,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第157章_空托板转不过弯.md",
+      "sha256": "c506c21b531693bc9c5d001bf79a0d41700d794a13068906ff65c28d7b458dd7"
+    },
+    {
+      "chapter": 158,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第158章_两条没填的行.md",
+      "sha256": "13e4aa5b5717e06365460f6cd090c268601a823d3b42518060f0f9b72083ecff"
+    },
+    {
+      "chapter": 159,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第159章_受保护的签名.md",
+      "sha256": "dc65d6a6d5d131238f1a4b6ff61e9aeb6e1dfa7d7c0dca60fe881ba67abe2e2b"
+    },
+    {
+      "chapter": 160,
+      "path": "异星录/06_执行计划/工作区/R006-B16/第160章_门开多宽.md",
+      "sha256": "cf82e5bd0e299c0c7b62bd007f18dcd77b507680f18604abd4cb85d1a6ac3689"
+    }
+  ],
+  "verdict": "pass",
+  "original_issue_ids_complete": true,
+  "original_issue_count": 38,
+  "all_issues_closed": true,
+  "pending_author_count": 0,
+  "current_evidence_verified": 261,
+  "reader_check_count": 52,
+  "reader_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "han_count_range": [
+    2274,
+    2551
+  ],
+  "historical_sha_preserved": 12,
+  "body_log_operations": 93,
+  "body_chain_matches": true,
+  "writeback_log_operations": 287,
+  "writeback_chain_matches": true,
+  "manifest_before_verified_count": 9,
+  "wb_semantic_file_count": 8,
+  "wb_six_edits_before_0_after_1": true,
+  "output_sha256": {
+    "harness/maintenance/R006/B16/final-authorized.json": "5db067c6a0916a20649314853b6836b0f00f5513222b73de747540deb7d3c20e",
+    "harness/maintenance/R006/B16/final-authorized.md": "249d93cc8a95a3b313ae8bc3e23cb4412c754211258d91f2386f1f5e73e79b8d",
+    "harness/maintenance/R006/B16/reader-authorized.json": "d12e21ccaffc0b098adb6bab771ec78d18ad45e5a90a799a9c2aba19d731cfcb",
+    "harness/maintenance/R006/B16/writeback-authorized-review.json": "7ff554caae88f9c9f21f6631f1d986e38ac34da1680005e17418a44b2048aa4e",
+    "harness/maintenance/R006/B16/writeback-authorized-review.md": "43a0200751f152d59d180f000151d8cce9a9e122536d9813bb531bdf11f431a0",
+    "harness/maintenance/R006/B16/authorized-final-source-snapshot.json": "df6f2e2c1aefb980c340056a51bd403361448e91ce20d0e41b77b1b308b410bf"
+  },
+  "publication_binding": "pending_actual_publication",
+  "note": "机械验证不代替逐章语义/追读判断；未执行发布。"
+}

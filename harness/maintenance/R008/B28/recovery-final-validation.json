@@ -1,0 +1,1752 @@
+{
+  "schema_version": 1,
+  "kind": "actual_post_N18_and_freeze4_review_validation",
+  "batch": "R008-B28",
+  "date": "2026-11-10",
+  "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+  "writer": "R008-main",
+  "independent": true,
+  "scope_chapters": [
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280
+  ],
+  "source_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "freeze_revision": 4,
+  "freeze_sha256": "7218d02548bc68c227e5eec7440c5b78391bead3d09406a77608ee09896225f4",
+  "actual_manuscripts_match_manifest": true,
+  "manuscripts": [
+    {
+      "chapter": 271,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+      "sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+    },
+    {
+      "chapter": 272,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+      "sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+    },
+    {
+      "chapter": 273,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+      "sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+    },
+    {
+      "chapter": 274,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+      "sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+    },
+    {
+      "chapter": 275,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+      "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+    },
+    {
+      "chapter": 276,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+      "sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+    },
+    {
+      "chapter": 277,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+      "sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+    },
+    {
+      "chapter": 278,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+      "sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+    },
+    {
+      "chapter": 279,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+      "sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+    },
+    {
+      "chapter": 280,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+      "sha256": "52fcf2373ebbbb6d69c71851cfca68844140e21106f08294aa1695c3f154b148"
+    }
+  ],
+  "changed_chapters_from_pre_night_fix": [
+    280
+  ],
+  "unchanged_chapters_from_pre_night_fix": [
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279
+  ],
+  "issue_id_coverage": {
+    "initial": 31,
+    "recovery": 18,
+    "total_unique": 49,
+    "all_expected_present": true
+  },
+  "body_issue_status_counts": {
+    "closed": 49
+  },
+  "full_scope_main_status_counts": {
+    "closed": 49
+  },
+  "previous39_partials_closed": 39,
+  "edit_closure_status_counts": {
+    "closed": 141
+  },
+  "original141": {
+    "original_edits": 10,
+    "recovery_edits": 131,
+    "retained_nonempty_original_new": 139,
+    "original_deletions_still_effective": 1,
+    "original_edits_still_effective_without_successor": 140,
+    "closed_via_N18_successor": 1,
+    "original12_new_presence": [
+      {
+        "original_entry": 1,
+        "chapter": 276,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 2,
+        "chapter": 275,
+        "new_present": false,
+        "actual_new_count": 0,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 3,
+        "chapter": 274,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 4,
+        "chapter": 277,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 5,
+        "chapter": 279,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 6,
+        "chapter": 279,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 7,
+        "chapter": 275,
+        "new_present": null,
+        "actual_new_count": null,
+        "kind": "pure_deletion",
+        "old_count": 0,
+        "deletion_verified": true
+      },
+      {
+        "original_entry": 8,
+        "chapter": 273,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 9,
+        "chapter": 272,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 10,
+        "chapter": 272,
+        "new_present": false,
+        "actual_new_count": 0,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 11,
+        "chapter": 279,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      },
+      {
+        "original_entry": 12,
+        "chapter": 277,
+        "new_present": true,
+        "actual_new_count": 1,
+        "kind": "replacement"
+      }
+    ],
+    "not_applied_due_to_overlap": [
+      {
+        "original_entry": 2,
+        "replacement": "RB28-045"
+      },
+      {
+        "original_entry": 10,
+        "replacement": "RB28-019"
+      }
+    ],
+    "recovery131_new_presence": [
+      {
+        "id": "RB28-001",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-002",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-003",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-004",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-005",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-006",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-007",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-008",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-009",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-010",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-011",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-012",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-013",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-014",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-015",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-016",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-017",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-018",
+        "chapter": 271,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-019",
+        "chapter": 272,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-020",
+        "chapter": 273,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-021",
+        "chapter": 273,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-022",
+        "chapter": 273,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-023",
+        "chapter": 273,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-024",
+        "chapter": 273,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-025",
+        "chapter": 273,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-026",
+        "chapter": 273,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-027",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-028",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-029",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-030",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-031",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-032",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-033",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-034",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-035",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-036",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-037",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-038",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-039",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-040",
+        "chapter": 274,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-041",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-042",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-043",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-044",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-045",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-046",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-047",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-048",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-049",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-050",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-051",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-052",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-053",
+        "chapter": 275,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-054",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-055",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-056",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-057",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-058",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-059",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-060",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-061",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-062",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-063",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-064",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-065",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-066",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-067",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-068",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-069",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-070",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-071",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-072",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-073",
+        "chapter": 276,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-074",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-075",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-076",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-077",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-078",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-079",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-080",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-081",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-082",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-083",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-084",
+        "chapter": 277,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-085",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-086",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-087",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-088",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-089",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-090",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-091",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-092",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-093",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-094",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-095",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-096",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-097",
+        "chapter": 278,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-098",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-099",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-100",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-101",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-102",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-103",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-104",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-105",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-106",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-107",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-108",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-109",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-110",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-111",
+        "chapter": 279,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-112",
+        "chapter": 280,
+        "actual_new_count": 0,
+        "closure": "closed_via_actual_N18_successor"
+      },
+      {
+        "id": "RB28-113",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-114",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-115",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-116",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-117",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-118",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-119",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-120",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-121",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-122",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-123",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-124",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-125",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-126",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-127",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-128",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-129",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-130",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      },
+      {
+        "id": "RB28-131",
+        "chapter": 280,
+        "actual_new_count": 1,
+        "closure": "retained_verbatim"
+      }
+    ]
+  },
+  "additional_night_edit": {
+    "id": "RB28-N18-B001",
+    "status": "closed",
+    "actual_new_count": 1,
+    "actual_old_count": 0
+  },
+  "total_actual_body_edit_applications": 142,
+  "reader_checks": 52,
+  "reader_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "body_han_counts_excluding_heading": {
+    "271": 2478,
+    "272": 2277,
+    "273": 2643,
+    "274": 2609,
+    "275": 2650,
+    "276": 2483,
+    "277": 2547,
+    "278": 2480,
+    "279": 2503,
+    "280": 2811
+  },
+  "actual_candidate_files_matched": 8,
+  "files": [
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "actual_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "expected_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "sha_match": true,
+      "v3_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "reverse_declared_edits_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": []
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "actual_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "expected_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "sha_match": true,
+      "v3_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "reverse_declared_edits_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": []
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "actual_sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+      "expected_sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+      "sha_match": true,
+      "v3_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "reverse_declared_edits_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": [
+        "RB28-W059"
+      ]
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "actual_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "expected_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "sha_match": true,
+      "v3_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "reverse_declared_edits_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": []
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "actual_sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+      "expected_sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+      "sha_match": true,
+      "v3_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "reverse_declared_edits_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": [
+        "RB28-W054",
+        "RB28-W058"
+      ]
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "actual_sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+      "expected_sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+      "sha_match": true,
+      "v3_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "reverse_declared_edits_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": [
+        "RB28-W057"
+      ]
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "actual_sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+      "expected_sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+      "sha_match": true,
+      "v3_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "reverse_declared_edits_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": [
+        "RB28-W055",
+        "RB28-W056",
+        "R008-B26-WB45",
+        "R008-B26-WB46",
+        "R008-B26-WB47",
+        "R008-B26-WB48"
+      ]
+    },
+    {
+      "path": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "actual_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "expected_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "sha_match": true,
+      "v3_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "reverse_declared_edits_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "restores_v3_exactly": true,
+      "reversed_edit_ids": []
+    }
+  ],
+  "A18_unchanged_outside_six": true,
+  "outside_scope_B26_note": "仅核四项声明窄diff并逆换恢复v3；不签A16正文或其他组全文。",
+  "original53_effective_candidate_application_checks": [
+    {
+      "id": "RB28-W001",
+      "effective_edit_id": "RB28-W001",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W002",
+      "effective_edit_id": "RB28-W002",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W003",
+      "effective_edit_id": "RB28-W003",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W004",
+      "effective_edit_id": "RB28-W004-R1",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W005",
+      "effective_edit_id": "RB28-W005",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W006",
+      "effective_edit_id": "RB28-W006",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W007",
+      "effective_edit_id": "RB28-W007",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W008",
+      "effective_edit_id": "RB28-W008",
+      "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W009",
+      "effective_edit_id": "RB28-W009",
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W010",
+      "effective_edit_id": "RB28-W010",
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W011",
+      "effective_edit_id": "RB28-W011",
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W012",
+      "effective_edit_id": "RB28-W012",
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W013",
+      "effective_edit_id": "RB28-W013",
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W014",
+      "effective_edit_id": "RB28-W014",
+      "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W015",
+      "effective_edit_id": "RB28-W015",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W016",
+      "effective_edit_id": "RB28-W016",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W017",
+      "effective_edit_id": "RB28-W017",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W018",
+      "effective_edit_id": "RB28-W018",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W019",
+      "effective_edit_id": "RB28-W019",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W020",
+      "effective_edit_id": "RB28-W020",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W021",
+      "effective_edit_id": "RB28-W021",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W022",
+      "effective_edit_id": "RB28-W022",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W023",
+      "effective_edit_id": "RB28-W023",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W024",
+      "effective_edit_id": "RB28-W024",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W025",
+      "effective_edit_id": "RB28-W025",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W026",
+      "effective_edit_id": "RB28-W026",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W027",
+      "effective_edit_id": "RB28-W027",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W028",
+      "effective_edit_id": "RB28-W028",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W029",
+      "effective_edit_id": "RB28-W029",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W030",
+      "effective_edit_id": "RB28-W030",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W031",
+      "effective_edit_id": "RB28-W031",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W032",
+      "effective_edit_id": "RB28-W032",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W033",
+      "effective_edit_id": "RB28-W033-R1",
+      "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W034",
+      "effective_edit_id": "RB28-W034-R1",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W035",
+      "effective_edit_id": "RB28-W035",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W036",
+      "effective_edit_id": "RB28-W036",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W037",
+      "effective_edit_id": "RB28-W037",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W038",
+      "effective_edit_id": "RB28-W038",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W039",
+      "effective_edit_id": "RB28-W039",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W040",
+      "effective_edit_id": "RB28-W040",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W041",
+      "effective_edit_id": "RB28-W041",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W042",
+      "effective_edit_id": "RB28-W042",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W043",
+      "effective_edit_id": "RB28-W043",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W044",
+      "effective_edit_id": "RB28-W044",
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W045",
+      "effective_edit_id": "RB28-W045",
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W046",
+      "effective_edit_id": "RB28-W046",
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W047",
+      "effective_edit_id": "RB28-W047",
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W048",
+      "effective_edit_id": "RB28-W048",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W049",
+      "effective_edit_id": "RB28-W049",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W050",
+      "effective_edit_id": "RB28-W050",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W051",
+      "effective_edit_id": "RB28-W051",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 1,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": true,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W052",
+      "effective_edit_id": "RB28-W052",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W053",
+      "effective_edit_id": "RB28-W053",
+      "path": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "old_count": 0,
+      "new_count": 1,
+      "old_retained_only_as_prefix_of_new": false,
+      "status": "closed"
+    }
+  ],
+  "stamp_clarification_delivery_revision": 2,
+  "six_candidate_issues_actual_closures": [
+    {
+      "id": "RB28-W054",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "line": 427,
+      "sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+      "quote": "“两栏不写来处”指两栏本身也暂不对外、栏上不抄能牵出人的来历；原信、原收条、核认与证词私存分源不毁。",
+      "old_count": 0,
+      "new_count": 1,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W055",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "line": 459,
+      "sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+      "quote": "| 277 | 送料只到仓单室门外收签口，不入室；右臂吊着，左手扶车目数；人的页与货物页不合成无缺链。 |",
+      "old_count": 0,
+      "new_count": 1,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W056",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "line": 462,
+      "sha256": "846c0f30f42bf52b2011d348f1f9000a3f6bf99adc817229595a4d7b7d7b15f5",
+      "quote": "| 280 | D144仅验旧楔留用，C2-B不变；两栏均暂不对外，栏上不抄敏感来历，原信、原收条、核认与证词私存分源不毁；下一步按原自报／见证／待核状态核留下者。 |",
+      "old_count": 0,
+      "new_count": 1,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W057",
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "line": 71,
+      "sha256": "9b89086d8969e607be2385e44a0a14d0f460676b3476a7d2f2d2a8a01c55f94d",
+      "quote": "缺角同在一角只证到同模、同类；此处“同模”指所见印样与缺角形制相同，不是已验明同一件实体模具，也不据此认定制印者或供货源；",
+      "old_count": 0,
+      "new_count": 1,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W058",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "line": 199,
+      "sha256": "efdb8e7ea6547242e3f50a6c456ccbd0e7d7c36e667aaeb8c8995b9495821213",
+      "quote": "各处只写到缺角落在同一角，能证到同模、同类；此处“同模”指所见印样与缺角形制相同，不是已验明同一件实体模具，也不据此认定制印者或供货源；",
+      "old_count": 0,
+      "new_count": 1,
+      "status": "closed"
+    },
+    {
+      "id": "RB28-W059",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "line": 749,
+      "sha256": "f0ee3d655b613d8b2158ce7478a75f11a862dfa97fff91143d98e2d982cad010",
+      "quote": "同类或同模印（此处同模仅指所见印样与缺角形制相同，缺角为模制而非磕损；不表示验明同一件实体模具、制印者或供货源）及数号排法提供运输核对方向",
+      "old_count": 0,
+      "new_count": 1,
+      "status": "closed"
+    }
+  ],
+  "new_candidate_issues_open": [],
+  "candidate_base_status_counts": {
+    "closed": 59
+  },
+  "freeze_closure_status_counts": {
+    "closed": 63
+  },
+  "current_evidence_validation_counts": {
+    "active_quote_records": 731
+  },
+  "input_fingerprints_matched": 16,
+  "structural_errors": [],
+  "body_verdict": "pass",
+  "writeback_verdict": "pass",
+  "approval": "pass",
+  "scope_note": "校验只证明当前字节、引用、覆盖和已记录闭环一致；实际阅读判断在final/reader/夜班及freeze4范围报告。正文271—280及八候选A18原始行/相关R008说明通过，不签他组全文、不代替发布门禁。",
+  "validation_method_correction": "首次汇总脚本把原建议第7项空new当作非空替换计数，触发计数断言；现按纯删除核old=0并引用B28-OLD-07保留的条件计数段。不是正文新增问题；计数措辞已改为139非空替换+1有效删除+1N18后继，141结案数不变。",
+  "historical_validation": "harness/maintenance/R008/B28/recovery-pre-freeze4-additional-records.json",
+  "historical_reports": "harness/maintenance/R008/B28/pre-freeze4/",
+  "shared_files_modified": [],
+  "operations_not_run": [
+    "gate",
+    "publish",
+    "close",
+    "verify-repair",
+    "schema_changes"
+  ],
+  "artifacts": [
+    {
+      "path": "harness/maintenance/R008/B28/final-manifest.json",
+      "sha256": "f15aa60ad14d8efdb1a986d8a4cb78ad354db6bb1481695efb455c111df91687"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/final.json",
+      "sha256": "1500cc95772d4a2370c27010ee0a2360c58eacdc7a1d106519b10955bd190c73"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/reader-review.json",
+      "sha256": "9d19bec08e9926f2f9b9a632036bbbdcb426baf3abd2eeb07e01d7e992c3fea0"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-final.md",
+      "sha256": "4928243aa7bd40c9889e78e23393027d22faae0dd14ba1ffa03142015f0e83f6"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-issue-closures.json",
+      "sha256": "7f0975d98b94a49a8e4488a691c9297f5af57d455f18e546e91c171e89f031a3"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-night-duty-closure.json",
+      "sha256": "648972b71a643ac00771799dfb7c3433363ffc27f075240e9b48600b74efc52d"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-writeback-issues.json",
+      "sha256": "fdc62b9a809409138cf0525ad7facfce532d133a0fa2ff4a6a2709b10fd70de4"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/writeback-freeze-review.json",
+      "sha256": "cb5d5b597f22479f837ccbe2292f38ea1df11e89e383423a8c66a34360dfe917"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-freeze4-scope-review.json",
+      "sha256": "fbca528aa6f12a42f40ba1672f0a1d68370d555beb03f525752c8a1efe971335"
+    },
+    {
+      "path": "harness/maintenance/R008/B28/recovery-stamp-term-priority-review.json",
+      "sha256": "235023afbc2e7691afd4656cafe55fdd8e8d34420b6c71e9e2ba269bc34c926e"
+    }
+  ]
+}

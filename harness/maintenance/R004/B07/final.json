@@ -1,0 +1,559 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "id": "R004-B07",
+  "date": "2026-11-06",
+  "writer": "/root",
+  "reviewer": "/root/r004_b08_reader",
+  "independent": true,
+  "body_first": true,
+  "read_scope": "完整先读61—70实际修后工作稿，再查初审17项/changes/设定台账；060工作稿完整核边界。曾阅读71—90，不声称未知后续披露；未参与本批初审或改写。",
+  "manuscripts": [
+    {
+      "chapter": 61,
+      "path": "异星录/正文/第一卷_热海坠城/第061章_炸药残痕.md",
+      "sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6"
+    },
+    {
+      "chapter": 62,
+      "path": "异星录/正文/第一卷_热海坠城/第062章_父亲的手.md",
+      "sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d"
+    },
+    {
+      "chapter": 63,
+      "path": "异星录/正文/第一卷_热海坠城/第063章_面具之后.md",
+      "sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf"
+    },
+    {
+      "chapter": 64,
+      "path": "异星录/正文/第一卷_热海坠城/第064章_仪器指向下方.md",
+      "sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc"
+    },
+    {
+      "chapter": 65,
+      "path": "异星录/正文/第一卷_热海坠城/第065章_临时跳台.md",
+      "sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca"
+    },
+    {
+      "chapter": 66,
+      "path": "异星录/正文/第一卷_热海坠城/第066章_第一次失败.md",
+      "sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb"
+    },
+    {
+      "chapter": 67,
+      "path": "异星录/正文/第一卷_热海坠城/第067章_改算风向.md",
+      "sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82"
+    },
+    {
+      "chapter": 68,
+      "path": "异星录/正文/第一卷_热海坠城/第068章_短暂联手.md",
+      "sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1"
+    },
+    {
+      "chapter": 69,
+      "path": "异星录/正文/第一卷_热海坠城/第069章_跳过断口.md",
+      "sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f"
+    },
+    {
+      "chapter": 70,
+      "path": "异星录/正文/第一卷_热海坠城/第070章_父亲口哨.md",
+      "sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26"
+    }
+  ],
+  "source_digest": "9ee64fdb866df7f30c8f0c3dc63a8f1118747856e0ac465a7f0ea5ae6dd7fd07",
+  "input_digest": "9ee64fdb866df7f30c8f0c3dc63a8f1118747856e0ac465a7f0ea5ae6dd7fd07",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 61,
+      "quote": "断阶下缘的两组人隔着塌楼梯，只能听见彼此咳嗽。",
+      "reason": "两组分隔、呼吸压力开场可感，检查孔并未替代接人目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 61,
+      "quote": "他先把自己的腰绳交给弥娅",
+      "reason": "放弃拓全木漆，先承担挂绳接孩子；能力有限而仍作选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 61,
+      "quote": "内十八，外十六。",
+      "reason": "同一登记子集一名孩子从外入内，不凭空增加总人头；一包盐药耗用明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 61,
+      "quote": "你说孔朝哪。我还能写。",
+      "reason": "林栖在伤手限制下继续有岗位，林渡让她记录而非替她完成。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 61,
+      "quote": "如今，又是谁打开过孔位指向的门？",
+      "reason": "孔底痕与后封木漆给出可查问题，接下一章门边证物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 62,
+      "quote": "木板门只能向里推开一道缝。",
+      "reason": "未知门后、外侧16人仍等，私人线索与救人压力共存。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 62,
+      "quote": "我不进去。只收门边的东西。",
+      "reason": "林渡明确克制追父冲动，维护门口通风和外侧接应。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 62,
+      "quote": "一枚从外门底被尺拨出，一枚自内门滚来。",
+      "reason": "手套/楔/维修片与第二螺母分开，关联增加但不虚认父亲在场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 62,
+      "quote": "我记得他替我刻过名字。不是这些字。",
+      "reason": "妹妹记忆有自己的边界，既盼父亲又不能假装辨认。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 62,
+      "quote": "黑暗里那一下碰撞不能替父亲开口。",
+      "reason": "门后是否有人与父亲责任待问，林渡行动转向外侧缺应声者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 63,
+      "quote": "外壁那根松缆先发出一声闷响",
+      "reason": "拖平台的松缆逼迫立刻维修；无面者行动有效但不免警戒。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 63,
+      "quote": "同一组怎么站，看梁；谁先走，看伤情。",
+      "reason": "林渡将槐七按重量转为伤情次序/结构站位双规则。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 63,
+      "quote": "我的名字。你架错了，喊名字也没用。",
+      "reason": "无面者从匿名指路人变有限合作的槐七，姓名不等同安全保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 63,
+      "quote": "你不能只在掉下去以后说我错了。",
+      "reason": "林渡要求专家在当下承担说明责任，关系有可见推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 63,
+      "quote": "那边也要过。哪一处先试？",
+      "reason": "深处第二段斜台也在脱孔，合流后仍无出路，接下一章查下方。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 64,
+      "quote": "黑屏里映不出一个数字。",
+      "reason": "精读不可恢复，开头便限制读数能力，查下方有现实成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 64,
+      "quote": "下方先不走。",
+      "reason": "林渡放弃看似捷径的井，保留照明与人手先合流。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 64,
+      "quote": "钥匙拔出，蓝线熄灭",
+      "reason": "设备响应钥匙不等于形成路；有限排错产生真实认知变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 64,
+      "quote": "所谓只去一个人，身后仍要有人握绳",
+      "reason": "主角意识到个人探路也会让整队付出岗位代价，不凭勇气覆盖条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 64,
+      "quote": "搭好第一段跳台？",
+      "reason": "外绳磨白芯给时间压力，下一步明确搭路接外侧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 65,
+      "quote": "仓库维修门铺下去，先响的是旧铰链。",
+      "reason": "材料失败立刻出现，铺面与承重区分由尝试产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 65,
+      "quote": "先送完最不能等的。每过一组，都停。",
+      "reason": "两次暂列承载不足时优先伤员，但不把次数当机械保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 65,
+      "quote": "第二格仍空着",
+      "reason": "首副担架实过、裂纹未合，第二次仍待结构复核，损料代价不消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 65,
+      "quote": "摸到的却只是贴在衣下的空瘪袋皮",
+      "reason": "救护欲望与无水形成具体无力感，转为托担架帮伤腿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 65,
+      "quote": "第三组的绳子已经绷住了。",
+      "reason": "刚喊停但外侧未回声，风柱变化使下一章失败因果可追。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 66,
+      "quote": "第三副担架已经压上了门板。",
+      "reason": "停令未送达与未卸重直接接上前章，非无征兆事故。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 66,
+      "quote": "先记下。不能写成救回了，也不能写成死了。",
+      "reason": "林渡停止无条件下探，公开保留失联与未来搜寻责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 66,
+      "quote": "断口下失联，无落水声。",
+      "reason": "救回裴七却另失一名伤员；失联不偷换确认死亡。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 66,
+      "quote": "你这里还在流血。",
+      "reason": "裴七要省药给坠落者，杜姨仍处理眼前伤而不说另一人用不上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 66,
+      "quote": "他们得先找出刚才哪里算错",
+      "reason": "失败留下具体复盘任务，回声只提供后续搜寻线索。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 67,
+      "quote": "手臂的包布先渗出一点红",
+      "reason": "复盘开始仍带伤，重算不能让上一章代价消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 67,
+      "quote": "还要写我没腾开后面的落点。停的喊声，也没等外侧答。",
+      "reason": "主动承担组织缺漏，不将失联只归风或少年。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 67,
+      "quote": "林栖确认回弹，岑野才放下灯。",
+      "reason": "新双确认在实际通过中兑现；之后节点短撑裂损与尺贯裂仍继续付代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 67,
+      "quote": "她才发现自己也能叫这边停住。",
+      "reason": "不肯信的居民有叫停权，信任由可参与程序产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 67,
+      "quote": "木尺已经不能替他量下一段梁",
+      "reason": "工具损失与蓝粉/设备颜色的未知关联形成具体新问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 68,
+      "quote": "能跨断口的长梁只剩一根。",
+      "reason": "材料不能复用出完整返程，开头标出未来行动限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 68,
+      "quote": "回去让他们看着我。",
+      "reason": "祝衡利用受限身份主动拖追兵，林渡留在专业可及的梁尾。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 68,
+      "quote": "该接进来的都有内侧接手者应答",
+      "reason": "外侧与内侧完成合流，再转梁架向深处，两个阶段未混为一过。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 68,
+      "quote": "熄了也不报死。",
+      "reason": "祝衡离开前保留应声格，杜姨拒凭灯色划人，具体承担等待代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 68,
+      "quote": "接绳的人是在帮忙，还是仅仅拿住了他们唯一的前路。",
+      "reason": "未知协助者接绳，下一章必须验固定而非凭善意放人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 69,
+      "quote": "传来一声金属扣合。",
+      "reason": "对岸未知手完成固定但不能保平台，动作结果逼进一步查验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 69,
+      "quote": "同一轮。",
+      "reason": "林渡弥娅最后同轮各系独立安全绳离开，有限合作与风险共担落地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 69,
+      "quote": "长梁先在身后断开",
+      "reason": "主队完成深处第二段过口，唯一整梁失去，备用缆绳无完整返路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 69,
+      "quote": "你过去，站到光里那个人身边，她能看见你。",
+      "reason": "以可见接应者和母亲视线安抚孩子；单灯照对岸后明确移送。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 69,
+      "quote": "祝衡没有回来。",
+      "reason": "当前已过者核实与另一名待归分行，身份白光不能认定死活。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 70,
+      "quote": "脚下的平台向深处倾",
+      "reason": "过断口并非安全落地，固定孔松脱立刻逼再次组织下撤。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 70,
+      "quote": "先带他们站稳。",
+      "reason": "父亲口哨仍诱人追，林渡以现场护送为先，并保留之后找路入口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 70,
+      "quote": "最后一副担架已放稳。",
+      "reason": "分段低一层转移完成，深维修梯与当前近处维修层区别清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 70,
+      "quote": "父亲的那只手套没有丢。",
+      "reason": "兄妹未否认找父需求，林渡用照脚孔实际动作兑现暂缓追人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 70,
+      "quote": "纸角仍露着通向黑暗的细线。",
+      "reason": "父亲路线与待归祝衡仍未消失，下一批深维修层会继续面对未知守门者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 69,
+      "quote": "他们踩上的仍是倾斜旧平台",
+      "reason": "本篇兑现外侧合流与第二段断口跳跃，付出一名失联伤员、唯一整梁、缆绳与伤势；找父期待以62手套和70口哨局部给出，不把身份关联当完整答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 67,
+      "quote": "还要写我没腾开后面的落点",
+      "reason": "查孔取证→有限合作→失败失联→组织双确认→祝衡留后→无返程过口→父亲诱引而护送优先，选择难度按人员、材料、组织责任升级，修梁每次的戏剧作用不同。",
+      "verdict": "pass"
+    }
+  ],
+  "issue_closure": [
+    {
+      "id": "R004-B07-I01",
+      "chapter": 61,
+      "status": "closed",
+      "quote": "阿九、弥娅与祝衡仍在原护送册的核验子集外另列",
+      "resolution": "17+17明确核验子集，不吞掉另列同行者。"
+    },
+    {
+      "id": "R004-B07-I02",
+      "chapter": 65,
+      "status": "closed",
+      "quote": "能跨缺口的只有一根完整长梁",
+      "resolution": "验065单整梁承重/旧断段节点短撑；067短撑进一步裂损退用；069唯一整梁断、携旧短撑实段到070。执行作者批准方案，没有添梁。"
+    },
+    {
+      "id": "R004-B07-I03",
+      "chapter": 66,
+      "status": "closed",
+      "quote": "伤腿却撞在内侧梁头，半边身子翻出断口",
+      "resolution": "060已入内→063/065门内接牵引绳→066救担架而翻出→救回内侧，保留另一伤员失联。"
+    },
+    {
+      "id": "R004-B07-I04",
+      "chapter": 66,
+      "status": "closed",
+      "quote": "杜姨也不敢用冷凝残液洗伤",
+      "resolution": "061既有干净布内面/盐药与066药包敷布处理；未引入清水或放开残液限制。"
+    },
+    {
+      "id": "R004-B07-I05",
+      "chapter": 69,
+      "status": "closed",
+      "quote": "先让对侧拉过去",
+      "resolution": "源侧灯照对岸接应者，林栖过前同一盏灯系回送绳，接应者摇亮照回，不多一盏。"
+    },
+    {
+      "id": "R004-B07-I06",
+      "chapter": 65,
+      "status": "closed",
+      "quote": "槐七带刀沿墙根旧孔移到外侧",
+      "resolution": "外侧压梁前到场明确，066阿九接稳梁尾后槐七返内，接后续验伤探绳。"
+    },
+    {
+      "id": "R004-B07-I07",
+      "chapter": 66,
+      "status": "closed",
+      "quote": "系在短杆上的布条先被掀离杆身",
+      "resolution": "布仍系杆，只布面掀开，无遗失后凭空恢复。"
+    },
+    {
+      "id": "R004-B07-I08",
+      "chapter": 63,
+      "status": "closed",
+      "quote": "梁头继续从孔里退出。林渡把册页",
+      "resolution": "主语落林渡，不在对岸提前放一组人。"
+    },
+    {
+      "id": "R004-B07-I09",
+      "chapter": 67,
+      "status": "closed",
+      "quote": "林渡收回手，叫阿九继续验梁。",
+      "resolution": "后一次擦编号已删，保留第一次辨编号与不确认本人施工的边界。"
+    },
+    {
+      "id": "R004-B07-I10",
+      "chapter": 63,
+      "status": "closed",
+      "quote": "将那点偏移压回去",
+      "resolution": "保留松绳改变受力与调站位结果，删方法论总结。"
+    },
+    {
+      "id": "R004-B07-I11",
+      "chapter": 64,
+      "status": "closed",
+      "quote": "又看了一眼仍在摆动的绳尾",
+      "resolution": "删抽象两个变化同原因的解释，留删连接线和风未停。"
+    },
+    {
+      "id": "R004-B07-I12",
+      "chapter": 65,
+      "status": "closed",
+      "quote": "最后一枚尺寸合用的接头",
+      "resolution": "保留尺寸/扣舌验证与有限件数，删并非凭空没了的辩护。"
+    },
+    {
+      "id": "R004-B07-I13",
+      "chapter": 66,
+      "status": "closed",
+      "quote": "杜姨望向断口下方，没有答。",
+      "resolution": "不用旁白翻译她摇头；生死留白由探绳与未定登记承担。"
+    },
+    {
+      "id": "R004-B07-I14",
+      "chapter": 68,
+      "status": "closed",
+      "quote": "杜姨把这句话记到当前路线旁",
+      "resolution": "用话与分列记录说明无法架返程，不重复定义所谓最后一次。"
+    },
+    {
+      "id": "R004-B07-I15",
+      "chapter": 62,
+      "status": "closed",
+      "quote": "弥娅望着那只手套",
+      "resolution": "不以手指压不存在的灯影，信息边界由对白承担。"
+    },
+    {
+      "id": "R004-B07-I16",
+      "chapter": 61,
+      "status": "closed",
+      "quote": "轻嗅一下，又看断面",
+      "resolution": "焦木/油胶气味有嗅闻动作，仅近似不冒充配方鉴定。"
+    },
+    {
+      "id": "R004-B07-I17",
+      "chapter": 62,
+      "status": "closed",
+      "quote": "没有将自己的手按进污痕",
+      "resolution": "删伤不能留名字的重复结论，保留比手却不认本人。"
+    }
+  ],
+  "new_issues": [],
+  "verdict": "pass",
+  "fact_logic_verdict": "pass",
+  "attraction_verdict": "pass",
+  "writeback_verification": "pending_freeze",
+  "scope_limit": "正文事实/逻辑与吸引力分开验收。动态台账/章卡尚待主笔冻结后另核，不以本正文报告替代WB。"
+}

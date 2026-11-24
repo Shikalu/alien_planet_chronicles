@@ -1,0 +1,81 @@
+{
+  "batch": "R009-B38",
+  "source_digest": "d61d58944cc680cd6f929a77657be8ff323acf3dc048a6b6adea874199b8bee8",
+  "actual_bytes_match": true,
+  "closed_issue_count": 10,
+  "applied_replacement_count": 11,
+  "closure_quotes_match": true,
+  "reader_check_count": 52,
+  "reader_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "counts": {
+    "371": {
+      "han": 2360,
+      "nonspace": 2653
+    },
+    "372": {
+      "han": 2244,
+      "nonspace": 2490
+    },
+    "373": {
+      "han": 2236,
+      "nonspace": 2504
+    },
+    "374": {
+      "han": 2453,
+      "nonspace": 2731
+    },
+    "375": {
+      "han": 2308,
+      "nonspace": 2580
+    },
+    "376": {
+      "han": 2270,
+      "nonspace": 2519
+    },
+    "377": {
+      "han": 2322,
+      "nonspace": 2569
+    },
+    "378": {
+      "han": 2438,
+      "nonspace": 2702
+    },
+    "379": {
+      "han": 2328,
+      "nonspace": 2589
+    },
+    "380": {
+      "han": 2304,
+      "nonspace": 2546
+    }
+  },
+  "note": "机器校验只核实际字节/引句/52覆盖及篇幅，不替代逐章阅读判断。",
+  "writeback_freeze_validation": {
+    "freeze_sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a",
+    "frozen_file_count": 8,
+    "frozen_files_match": true,
+    "report_files_match": true,
+    "scope_quotes_match": true,
+    "scope_only": true,
+    "verdict": "pass"
+  }
+}

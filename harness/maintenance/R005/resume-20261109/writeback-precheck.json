@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "kind": "independent-writeback-precheck",
+  "reviewer": "/root/review_241_250",
+  "writer": "R005-resume-main",
+  "verdict": "issues",
+  "mutable_candidates": true,
+  "full_independent_body_read_range": [
+    141,
+    150
+  ],
+  "other_scope": "101—140只核其他组已给初审/变更和必要对应段落；不签全文",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/人物状态台账.md",
+      "observed_sha256": "1540aeed0a1d2facbe48207a52cc2694b68d3f6a2c0b46937decdd2f92b42080",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/资源与时间台账.md",
+      "observed_sha256": "215e3446c5409a32e087100617e43a795682211e0bb492e70cb4533474e47e68",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/伏笔与悬念台账.md",
+      "observed_sha256": "010dbdf54bdb9d6b89bfe451f0a16097d9836b40454561067fb90e8a2e95d824",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/事件与地点时间线.md",
+      "observed_sha256": "a3f6f9f042dd5d992d01e596b79971694915cf269ecf4ea396c7091a0e2196ba",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/术语与命名表.md",
+      "observed_sha256": "fdb4bf0d55db1b0eebfdecf68f6d772d7c7db19044432be8e39666115cbe4201",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/术语词典.md",
+      "observed_sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/逐章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/逐章卡.md",
+      "observed_sha256": "abbd58988eee5914c618f9bfc9d228f3e7b155d6cfb3fb8de97b6f0d8097aee7",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    },
+    {
+      "path": "异星录/03_剧情架构/第二卷/十章篇章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R005-writebacks/十章篇章卡.md",
+      "observed_sha256": "88706ad11ebedf05ed596e0ce4c1d2a0a9a88cef6659020ae4f89bb6bc228455",
+      "conclusion": "needs_revision_or_pending_final_freeze"
+    }
+  ],
+  "issues": [
+    {
+      "id": "R005-resume-WB-001",
+      "severity": "severe",
+      "category": "跨组140—145日次",
+      "problem": "候选140仅D17而145从照线慢凿数第七日D21不合；追加又误摘要145D22开口。root已要求B14恢复D15开凿至D17末，需等实际B14终稿和全候选同步后复核。",
+      "source_basis": [
+        "候选事件140/145/追加段",
+        "B15终稿145第七天D21/146D22",
+        "root已确认接口修复口径"
+      ],
+      "status": "root_fix_in_progress",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-002",
+      "severity": "severe",
+      "category": "148旧摘要保留被正文撤回事实",
+      "problem": "章卡仍写档片洇角/三口气原记账/七天必出/绝对等回，时间线及人物态度也未按共同预排+急救例外更新。",
+      "source_basis": [
+        "B15终稿148/150",
+        "B15 final digest 76be474f..."
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-003",
+      "severity": "moderate",
+      "category": "工具核证范围与现场位置",
+      "problem": "章卡143仍坡腰对号、无号錾对不上及最早批，人物149仍最早批；与终稿墙外对号/无号不可配/旧写法不定年相反。",
+      "source_basis": [
+        "B15终稿143/149",
+        "旧C01/C02/C08已闭需保持"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-004",
+      "severity": "moderate",
+      "category": "144朽木断代残留",
+      "problem": "卡144仍已朽二十年，终稿明确摸朽桩不能定多久。还应记录伤者不负主重的真实分工。",
+      "source_basis": [
+        "B15终稿144及root-supplement"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-005",
+      "severity": "moderate",
+      "category": "当班簿近期页证明范围与交付时点",
+      "problem": "候选把多年旧簿分存当事实，但正文只是同一本簿前夹旧页；145交近期页、146人出缝、147入棚分开，不能写145老赵已出墙。",
+      "source_basis": [
+        "B15终稿145—147"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-006",
+      "severity": "moderate",
+      "category": "阿苗内侧提示被摘要写成外侧动作",
+      "problem": "卡146仍阿苗拍掌安老赵，违反今日只出一人与旧C03已闭分工。",
+      "source_basis": [
+        "B15终稿146",
+        "旧C03"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-007",
+      "severity": "moderate",
+      "category": "窄托板试重范围",
+      "problem": "人物/资源只写半罐沙试重会被恢复为已验人全载；终稿限定试平衡，老陈前须逐级试到要承分量。",
+      "source_basis": [
+        "B15终稿146"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-008",
+      "severity": "moderate",
+      "category": "147三歇及唯一灯实际通路",
+      "problem": "卡147仍把破口和坡腰写成两处，未记第三歇；人物仍携灯号约定，与分段手势/数纸和单灯实际使用不符。",
+      "source_basis": [
+        "B15终稿147"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-009",
+      "severity": "moderate",
+      "category": "149抄件、圈疑与分存计划",
+      "problem": "人物/时间线/资源仍称洇字已改，卡及时间线仍明晚公开；资源把三圈之一错列洇字而漏签收身份；分存意图不等于149已实际分存。",
+      "source_basis": [
+        "B15终稿149/150",
+        "151实际两处存/收条"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-010",
+      "severity": "moderate",
+      "category": "142养护领料未销",
+      "problem": "资源工时账称销三笔，正文查见新抄件但料钱照旧挂待销，并无本章销账。",
+      "source_basis": [
+        "B15终稿142"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-011",
+      "severity": "moderate",
+      "category": "师傅身份与主观辨识",
+      "problem": "人物/卡仍只“等他出来看手”，终稿已限定本人自述+旧疤/记忆当面对，不能据掐錾手认名。",
+      "source_basis": [
+        "B15终稿142/150",
+        "正式188身份核证"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-012",
+      "severity": "moderate",
+      "category": "他人知识/照护改善过证",
+      "problem": "人物台账把阿苗收到弥娅认可写成她已知，且老工师咳浅喘匀没有病情改善核验。",
+      "source_basis": [
+        "B15终稿143/145/146/148",
+        "138咳深带哨未有改善核证"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-013",
+      "severity": "severe",
+      "category": "交割水线误绑他人出墙前提",
+      "problem": "伏笔141—150段将老工师自定水线未交不走，扩成老陈/阿苗出墙共同前提；146已经下一载老陈。",
+      "source_basis": [
+        "B15终稿141/145/146"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-014",
+      "severity": "moderate",
+      "category": "B13旧卡未吸收已应用事实边界",
+      "problem": "122枕涨挤榫止漏、124脚程/续纸断言、128一年七次、130捂汽八息等与B13初审修订及当前对应工作正文冲突。这里只核相关段落，未全文审读121—130。",
+      "source_basis": [
+        "B13 initial/suggested-edits",
+        "当前122/124/128/130相关段落"
+      ],
+      "status": "open",
+      "blocking": true
+    },
+    {
+      "id": "R005-resume-WB-015",
+      "severity": "moderate",
+      "category": "旧屋当场五人与全网知情边界",
+      "problem": "资源列124知情五人却用未在场的戊字一替已到场六叔；不得把本章现场五人当整线知情者总数。",
+      "source_basis": [
+        "当前124丁三/六叔到旧屋的相关段落",
+        "128戊字一另有站账自述"
+      ],
+      "status": "open",
+      "blocking": true
+    }
+  ],
+  "suggested_edits_file": "harness/maintenance/R005/resume-20261109/writeback-suggestions-precheck.json",
+  "suggested_edits_count": 38,
+  "audit_compilation_advice": [
+    "五十章审计保人物/资源/伏笔三项，但拆“已核17儿童/48条登记/4需托/留守岗”；老赵新增49条不可作人口普查。",
+    "药需求、许诺、验工、实交各栏；碘盐封存未用、补盐不抵伤药；水隔离半瓮不回填补数；三扣按实耗分类。",
+    "F16只回收到系统亡籍仍用工；批单者、签收身份、无号錾及空日继续挂核；F17原件/副页样卷/近期个人页分物，阿苗知识不倒传。",
+    "五组十章报告分别绑定本组最终SHA/52checks；总汇不得将某组初审或作者提要当终审。B11/B12/B13/B14未见最终独立报告的部分继续待核。",
+    "140—145七日接口须实际B14终稿恢复D15开凿起点并统一8份候选；100→101与150→151只按已读依赖核，保护范围外正文。"
+  ],
+  "no_prose_or_ledger_edits": true
+}

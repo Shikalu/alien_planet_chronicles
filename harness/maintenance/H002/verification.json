@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "purpose": "H002维护验证；expected_exit_code=1的两项是如实阻断未通过，不是工具失败",
+  "all_expected": true,
+  "checks": [
+    {
+      "name": "tests",
+      "command": "python3 -B -m unittest discover -s tools -q",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "----------------------------------------------------------------------\nRan 37 tests in 0.800s\n\nOK\n"
+    },
+    {
+      "name": "project_check",
+      "command": "python3 -B tools/novel_harness.py check --json > harness/reports/project-check.json",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": ""
+    },
+    {
+      "name": "R001_repair",
+      "command": "python3 -B tools/novel_harness.py verify-repair --record harness/maintenance/R001/record.json",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{\n  \"scope\": \"existing-prose-repair\",\n  \"chapters\": 14,\n  \"protected\": 387,\n  \"errors\": [],\n  \"warnings\": [\n    \"历史记录未按H002开篇/追读标准审读，不计入吸引力通过覆盖\"\n  ]\n}\n"
+    },
+    {
+      "name": "preservation",
+      "command": "python3 -B tools/novel_harness.py verify-preservation",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{\n  \"scope\": \"harness-change-preservation-only\",\n  \"files\": 605,\n  \"errors\": [],\n  \"warnings\": []\n}\n"
+    },
+    {
+      "name": "opening_diagnostic",
+      "command": "python3 -B tools/check_reader_pull.py --record harness/reader-reviews/opening-baseline.json",
+      "expected_exit_code": 1,
+      "exit_code": 1,
+      "passed": true,
+      "output": "{\n  \"errors\": [],\n  \"incomplete_checks\": [],\n  \"reader_review_passed\": false,\n  \"verdict\": \"needs_revision\",\n  \"chapters\": [\n    1,\n    2,\n    3\n  ],\n  \"includes_prologue\": true,\n  \"profile\": \"opening\"\n}\n"
+    },
+    {
+      "name": "reader_coverage",
+      "command": "python3 -B tools/check_reader_pull.py --coverage --require-complete",
+      "expected_exit_code": 1,
+      "exit_code": 1,
+      "passed": true,
+      "output": "{\n  \"published\": 400,\n  \"reader_review_passed_chapters\": [],\n  \"passed_count\": 0,\n  \"unreviewed_or_not_passed_count\": 400,\n  \"passed_records\": [],\n  \"diagnostic_or_not_passed_records\": [\n    \"harness/reader-reviews/opening-baseline.json\"\n  ]\n}\n"
+    },
+    {
+      "name": "skill",
+      "command": "/opt/homebrew/opt/python@3.11/bin/python3.11 -B ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py skills/alien-serial-harness",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "Skill is valid!\n"
+    },
+    {
+      "name": "all_links",
+      "command": "python3 -B - <<'PY'\nfrom pathlib import Path\nimport sys\nsys.path.insert(0,'tools')\nimport novel_harness as h\nr=Path.cwd(); files=[p.relative_to(r).as_posix() for p in r.rglob('*.md')]\ne=h.markdown_links(r,files)\nprint({'markdown_files':len(files),'errors':e})\nraise SystemExit(bool(e))\nPY",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{'markdown_files': 593, 'errors': []}\n"
+    },
+    {
+      "name": "whitespace",
+      "command": "python3 -B - <<'PY'\nimport subprocess,json\nfrom pathlib import Path\nroot=Path.cwd(); original=Path('~/Workspace/alien_planet_chronicles'); before=json.loads(Path('../h002-before.json').read_text()); errors=[]; checked=0\nfor b in sorted(root.rglob('*')):\n if not b.is_file() or b.suffix not in ('.md','.py','.json','.yaml'):continue\n name=b.relative_to(root).as_posix();a=original/name\n if name in before and a.read_bytes()==b.read_bytes():continue\n checked+=1\n p=subprocess.run(['git','diff','--no-index','--check','--',str(a) if a.is_file() else '/dev/null',str(b)],capture_output=True,text=True)\n if p.returncode not in (0,1) or p.stdout or p.stderr:errors.append({'file':name,'code':p.returncode,'detail':p.stdout+p.stderr})\nprint({'files_checked':checked,'errors':errors,'note':'--no-index returns 1 for differing files; whitespace faults produce diagnostics'})\nraise SystemExit(bool(errors))\nPY",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{'files_checked': 20, 'errors': [], 'note': '--no-index returns 1 for differing files; whitespace faults produce diagnostics'}\n"
+    }
+  ],
+  "resolved_harness_execution_issues": [
+    {
+      "name": "Skill validator runtime",
+      "detail": "工作目录的默认Python缺PyYAML；改用已有且具备PyYAML的Python3.11复验通过，未安装依赖。",
+      "initial": {
+        "name": "skill",
+        "command": "python3 -B ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py skills/alien-serial-harness",
+        "expected_exit_code": 0,
+        "exit_code": 1,
+        "passed": false,
+        "output": "Traceback (most recent call last):\n  File \"~/.codex/skills/.system/skill-creator/scripts/quick_validate.py\", line 10, in <module>\n    import yaml\nModuleNotFoundError: No module named 'yaml'\n"
+      }
+    },
+    {
+      "name": "Whitespace checker invocation",
+      "detail": "修正基线相对路径；按git --no-index约定以诊断输出检查空白问题，差异退出码1本身不表示空白错误。"
+    }
+  ]
+}

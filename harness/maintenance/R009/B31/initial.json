@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B31",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B31-B32",
+  "independent": true,
+  "body_first": true,
+  "phase": "initial",
+  "input_digest": "9b621c842b282b74d73cc124b7d7f940cd5003796295542ec706d037194676c3",
+  "source_digest": "9b621c842b282b74d73cc124b7d7f940cd5003796295542ec706d037194676c3",
+  "verdict": "issues",
+  "issues": [
+    {
+      "id": "B31-01",
+      "chapter": 301,
+      "severity": "minor",
+      "quote": "亲属已经互认，接下来谈住处，仍得另问。",
+      "reader_problem": "乳名、针脚、杜姨让座已完成互认；随后的询问又充分展示寄住须本人同意。这句把人情再译成手续，打断相认的余韵。",
+      "suggestion": "删去本句，保留相认动作及姨母说明、孩子选择，不删原号和寄住边界。",
+      "status": "open",
+      "categories": [
+        "叙述者翻译与辩护",
+        "作者总结关系"
+      ]
+    },
+    {
+      "id": "B31-02",
+      "chapter": 303,
+      "severity": "moderate",
+      "quote": "老人补完鞋，把一只小木盒推给他们垫纸，随后又收回里面的针。",
+      "reader_problem": "前面老人已借盒盖垫图、按住豁口；此处又从头借一次木盒，且针未交出却写收回。读者需重建本来简单的递物顺序。",
+      "suggestion": "把第二次借物改为补鞋结束后的收针、让出盒盖；保留老人帮助与不占床的选择。",
+      "status": "open",
+      "categories": [
+        "物件物理",
+        "动作罗列与重复"
+      ]
+    },
+    {
+      "id": "B31-03",
+      "chapter": 304,
+      "severity": "moderate",
+      "quote": "没有扶着的人还能同时托那只盘，三人只得停在车内干处，把一件件东西换到安全的位置。",
+      "reader_problem": "“没有扶着的人”可被读成未被扶的人，也可读成无人扶着；真正困难是槐七无法同时托盘、接袋、扶阿九。受限的搬运者被句法藏掉了。",
+      "suggestion": "点明槐七的两手冲突，让他先让阿九坐稳、放盘放袋再扶起；不让林渡伤臂承担托盘。",
+      "status": "open",
+      "categories": [
+        "人物位置与动作链",
+        "指代落地",
+        "人体常识"
+      ]
+    },
+    {
+      "id": "B31-04",
+      "chapter": 306,
+      "severity": "minor",
+      "quote": "灯没有在亮起的那一刻成交。",
+      "reader_problem": "这盏罩灯后文明确只是借具，实际成交的是铜条所换的芯格、销和油。“灯成交”既替后续检验作解释，又短暂混淆所有权。",
+      "suggestion": "把交易未定落实到阿九尚未接下芯格；保留负载照明、接触可靠性和扣口适配这些不同测试，不机械删成未经验货就交换。",
+      "status": "open",
+      "categories": [
+        "叙述者翻译与辩护",
+        "物件归属"
+      ]
+    },
+    {
+      "id": "B31-05",
+      "chapter": 309,
+      "severity": "moderate",
+      "quote": "今日车里只留操作制动的阿九，柜边散件已捆住，不当载客。",
+      "reader_problem": "“散件已捆住”会覆盖读者对薄饰板的理解。308仅拿木片挡晃，309仍空响，314—315又滑入踏板下；不划清小件与饰板，像前章已固定、后章为失控临时松开。",
+      "suggestion": "只捆柜边小零件，薄饰板继续注明仅用木片挡住；保留306失压条、308挡板、309空响三处前置，不增一个失效机关，不免阿九317检查责任。",
+      "status": "open",
+      "categories": [
+        "物件物理",
+        "反转两处前置",
+        "309→314—317接口"
+      ]
+    }
+  ],
+  "manuscripts": [
+    {
+      "chapter": 301,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第301章_留下来的人先认路.md",
+      "sha256": "cd6d1f57202f3869a55fa84293d619235cf4158eac7af0e051c87d6a423e3280"
+    },
+    {
+      "chapter": 302,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第302章_一段走得回来的路.md",
+      "sha256": "66c61e8228f7ca61150e25d8e100fc213136b0cf930aaa9ab83617b3936a60b0"
+    },
+    {
+      "chapter": 303,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第303章_水随原来的名字走.md",
+      "sha256": "56083bfc318068c640faba3fdf8b42edee6acadac6a4d2eca6c2d87302a8f4a9"
+    },
+    {
+      "chapter": 304,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第304章_门还能认出他.md",
+      "sha256": "48d7882dec25313034c5f003cd27614f367e36e55472641468fa9604c3094bb7"
+    },
+    {
+      "chapter": 305,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第305章_踩下去还会滑.md",
+      "sha256": "d58570eabde953ee4366ca8e7acb241914aca1234564dc10d79247ea48323a22"
+    },
+    {
+      "chapter": 306,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第306章_换来的光.md",
+      "sha256": "5b7147afc96e476ff75830f04560bffb6bc225a29cf4e2d51f4cc8160d2874da"
+    },
+    {
+      "chapter": 307,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第307章_这回把去处说清.md",
+      "sha256": "f8ce3363a9a8a8abbec3aa4127c20afc28ee1e05ec29a8824bba93c2c6e313e9"
+    },
+    {
+      "chapter": 308,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第308章_松开的人也要会停.md",
+      "sha256": "fc303c32d67a8e00b8356960eacd4402455fb2147ea6703d8ab9cecc0c7fb193"
+    },
+    {
+      "chapter": 309,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第309章_车只挪了一段.md",
+      "sha256": "a9577a1de51c34475113deb7f3973376445a8ddbc4bc4592246c2b3e25c65def"
+    },
+    {
+      "chapter": 310,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第310章_从塌棚里递出的名字.md",
+      "sha256": "8e7261e56f27a1783306d3331b9b12ec6551463e085b0e478def0f81fe28f2f2"
+    }
+  ],
+  "digest_note": "initial-manifest.json没有单列input_digest；其source_digest等于manuscripts按novel_harness.rows_digest规范计算的摘要，两字段均绑定此值；未改manifest。",
+  "body_first_record": "harness/maintenance/R009/B31/reader-first.md",
+  "review_scope": [
+    301,
+    310
+  ],
+  "neighbor_scope": "正式300仅核300→301；309→314—317为本人B32跨组衔接；不扩签邻章。",
+  "post_revision_review": "未执行；建议未应用；不预签final或独立吸引力pass。",
+  "proposed_counts": [
+    {
+      "chapter": 301,
+      "before_han": 2273,
+      "proposed_after_han": 2257
+    },
+    {
+      "chapter": 302,
+      "before_han": 2369,
+      "proposed_after_han": 2369
+    },
+    {
+      "chapter": 303,
+      "before_han": 2483,
+      "proposed_after_han": 2486
+    },
+    {
+      "chapter": 304,
+      "before_han": 2459,
+      "proposed_after_han": 2460
+    },
+    {
+      "chapter": 305,
+      "before_han": 2330,
+      "proposed_after_han": 2330
+    },
+    {
+      "chapter": 306,
+      "before_han": 2265,
+      "proposed_after_han": 2262
+    },
+    {
+      "chapter": 307,
+      "before_han": 2261,
+      "proposed_after_han": 2261
+    },
+    {
+      "chapter": 308,
+      "before_han": 2309,
+      "proposed_after_han": 2309
+    },
+    {
+      "chapter": 309,
+      "before_han": 2257,
+      "proposed_after_han": 2276
+    },
+    {
+      "chapter": 310,
+      "before_han": 2298,
+      "proposed_after_han": 2298
+    }
+  ]
+}

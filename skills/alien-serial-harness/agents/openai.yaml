@@ -1,0 +1,4 @@
+interface:
+  display_name: "异星录长篇连载"
+  short_description: "依据既定八卷规划与最新事实，完成续写、独立审读、连续性回填和批次验收。"
+  default_prompt: "使用 $alien-serial-harness，从最新已发布事实接写当前批次，并完成独立审读与验证。"

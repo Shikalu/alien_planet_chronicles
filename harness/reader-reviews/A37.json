@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root",
+  "reviewer": "/root/a37_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 461,
+      "path": "异星录/06_执行计划/工作区/A37/第461章_墙后还有一扇窗.md",
+      "sha256": "e7d0a4befcfcd7bba1279bd08ecf011aac6ef0b0c944f20ba1092f2d940d7ba2"
+    },
+    {
+      "chapter": 462,
+      "path": "异星录/06_执行计划/工作区/A37/第462章_落名才能来问.md",
+      "sha256": "98f653124dc405bc7247aaf0dfd77640e8f531e23ffb88e615d0fb336101feee"
+    },
+    {
+      "chapter": 463,
+      "path": "异星录/06_执行计划/工作区/A37/第463章_给谁留一声.md",
+      "sha256": "c713107b6a382840c3ee98b21a952441292ae55a83f0330bdecad06b7ca40f5b"
+    },
+    {
+      "chapter": 464,
+      "path": "异星录/06_执行计划/工作区/A37/第464章_错过一阵风.md",
+      "sha256": "9981b74906b7b51008576515cd9800d59f65a5a7959dd641de099c0d96c01a1a"
+    },
+    {
+      "chapter": 465,
+      "path": "异星录/06_执行计划/工作区/A37/第465章_夹脚缺一角.md",
+      "sha256": "783d4053cac1fddc09fe9984d5ee46bcdbe580292c2d4633db719ea15104c499"
+    },
+    {
+      "chapter": 466,
+      "path": "异星录/06_执行计划/工作区/A37/第466章_先让废片断.md",
+      "sha256": "45c5a5d71a80f08736260211877c610a7b6bb2037e7f7132fa00b196641ac0e1"
+    },
+    {
+      "chapter": 467,
+      "path": "异星录/06_执行计划/工作区/A37/第467章_让它走到断处.md",
+      "sha256": "1e5d2d8b967d77548b6e4c184a5a28a19eba0e5b0651da8d841b521323cce15c"
+    },
+    {
+      "chapter": 468,
+      "path": "异星录/06_执行计划/工作区/A37/第468章_一个字的分量.md",
+      "sha256": "0065fd639da5a22693939843c5119ba758846378f374271546aecc0492b72253"
+    },
+    {
+      "chapter": 469,
+      "path": "异星录/06_执行计划/工作区/A37/第469章_三把手分开.md",
+      "sha256": "9c6c9d4bc20cfa6b27ef974347980a36fc05ba85211bcaa4dbfafded4cc3c915"
+    },
+    {
+      "chapter": 470,
+      "path": "异星录/06_执行计划/工作区/A37/第470章_留一格给没听见的.md",
+      "sha256": "776f4d8bc5edad2c3c8364d0fde6bc3295694253ea66ebae151537f4173090c5"
+    }
+  ],
+  "source_digest": "68a4fdeb28088c1f694b92971505900b6c93a2059b65e0f29772e98d744fa547",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 461,
+      "quote": "今天最末一段读声的工夫已经有人占了。",
+      "reason": "开门先撤候凳、报读位已满，找声音的人当场要作出下一步选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 461,
+      "quote": "他请管台人把方才拖凳的位置让出来，用门边一小截不用的绳在窗下拴出候客线。",
+      "reason": "林渡看出排队会阻回风，借改候位得到旁窗查号机会，也让先来的人完整用台。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 461,
+      "quote": "现置的一栏只剩一条斜线，另有小字指移转簿。",
+      "reason": "报送号找到实物去向的一截，旧架无件的问题变成找当次经手簿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 461,
+      "quote": "到重新收铺的日子，她至少还有一处能问。",
+      "reason": "给妇人留的电换回一笔可追查的名字，候核和领到铺的距离看得见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 461,
+      "quote": "倘若那一段真贴不上去，包里哪一处无论如何得留着。",
+      "reason": "尺上折角把查档接到旧器会不会折损的风险，想看弥娅如何保原件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 462,
+      "quote": "后半凉过去，这个号就不能再单独用来取纸。",
+      "reason": "读者到内帘前立即有到期压力，跟导师等明天与当班自己抄形成可见交换。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 462,
+      "quote": "我昨天抄过，有我自己的号。",
+      "reason": "弥娅坚持自己问，接受用自己的时间和身份承接后续核号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 462,
+      "quote": "弥娅将笔接过去，请后面候着的人看她的署名留在另一行。",
+      "reason": "旁证与本人署名成为在场者能复述的两个事实，不再由导师代领。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 462,
+      "quote": "那一行没把她归进自己的名下。",
+      "reason": "前面回忆她曾挂白礁名下，如今等到白礁自己写出两人分名的场面。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 462,
+      "quote": "明天再去，她要在另一扇门前把自己的名从头报一遍。",
+      "reason": "临阅到期，手里只剩找移转簿的线，次日能否以本名换来实际查找是具体行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 463,
+      "quote": "工案上只剩一只准用的电匣。",
+      "reason": "红布扎在接头间，唯一现成电档已成为妇人和查旧器者眼前的竞争。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 463,
+      "quote": "弥娅在妇人取出旧凭时将自己的包放回胸前，说她的还没核到是哪一只，让妇人先听。",
+      "reason": "物主让出现成机会，林渡转去修托架，二人承担等另一档的时间代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 463,
+      "quote": "这只匣只有一档能留下来，读头能不能吃，要另找相配的架。",
+      "reason": "搬架、补托盘和工房送匣开出一次未来机会，夹架还须查实，没凭空增加读额。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 463,
+      "quote": "她请守台人将原条上的号记进候核一列，原条仍由她带着，或许那一声能让守台的把她的那一笔找出来。",
+      "reason": "第二次读取得能问同缆人的音。旧占到期，妇人能以原条登记候核并亲自带着旧凭走下一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 463,
+      "quote": "船明日要是准走，她也得在上岸第一根缆松开以前回答船员。",
+      "reason": "电来得迟，同次读档和出港开始互斥，下一章等的是弥娅的选边。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 464,
+      "quote": "等他们赶到沿潮港的外栈道，第二岸船的帆已经摊在了舱边。",
+      "reason": "章首把前章的期限化为可见的帆和待测水线，不让候船决定延到闲谈后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 464,
+      "quote": "纸和她的旧器都跟着本人。",
+      "reason": "林渡承担错过风，和弥娅一起保住原件持有人在场的条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 464,
+      "quote": "它停在近处岩脊后头，船员将空出来的帆角压回船板。",
+      "reason": "船只退到近泊，原出港档不再是空泛警告，留下要续候棚且另等水况。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 464,
+      "quote": "海从这里出去，伸手摸不到栈城的任何一块板。",
+      "reason": "眼前可走的海路接到姨母孩子和岸车到期，距离是选择留下的实际难处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 464,
+      "quote": "出海的人知道错过的是哪一阵风，要再出去，得等船员下一次去看石肩下的水线。",
+      "reason": "读者要同时等下一轮实测和旧器能否读成，留岸代价在篇内没有被抹平。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 465,
+      "quote": "那根短舌会先挨上外壳，再拧半扣，里面的薄片就得往上顶。",
+      "reason": "最窄现成夹脚也会挤原件，首段能想象故障如何发生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 465,
+      "quote": "我在领用案上签过一栏，替队里收一捆空夹。原声件我没签出。",
+      "reason": "白礁把自己能担的字说到头，同时给弥娅留下可追个件的下一手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 465,
+      "quote": "缺口正好能让过旧壳的凸处。",
+      "reason": "找到可借的缺角夹架和装配条件；旧退读头仍留盘，物件变化具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 465,
+      "quote": "他请管台人另留一行旧件领用，自家那张再折回怀里。",
+      "reason": "白礁继续找失散者，也主动防止借档凭条给无关的人添身份压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 465,
+      "quote": "别把这一脚顶到原片上才问。",
+      "reason": "把追读目标收在废片试走与能否叫停，前段的机械风险有验证入口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 466,
+      "quote": "废片从一副夹架的两脚之间掉下去，碰到木盘，发出脆响。",
+      "reason": "废片开头就折，前章的悬疑先有一次负结果，旧片风险从想象落成实物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 466,
+      "quote": "她先写本人允拆存储段，下面再添一句表盘与弹簧另护，别接回测潮线。",
+      "reason": "弥娅明定授权，接受旧器拆分，见证人有明确可停的边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 466,
+      "quote": "他用手柄送片，电只供读头和写带。",
+      "reason": "加旁撑后标准片走成，已知试痕得纸和声两路输出，技术从图上进入可用条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 466,
+      "quote": "妇人将水布叠起来，问要是自己听出来的同白礁不同，能否当场把他叫住。",
+      "reason": "被照顾过的妇人获得和老师一样的纠正权，并先确认自己可以实际使用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 466,
+      "quote": "等读头过了第一道残痕，就没有一段多出来的纸等她再试一次。",
+      "reason": "临界位置和只余一读定出试读章的成败边界，想看何时有人出声喊停。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 467,
+      "quote": "弥娅拧下第一颗扣钉，听见测潮仪里面有一截弹簧弹在壳壁上。",
+      "reason": "开篇直接落在不可逆的拆件，先听旧伤，不再重复借台手续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 467,
+      "quote": "她说可以读。",
+      "reason": "看过纸带限量和白痕后仍准实读，林渡按约在片拱时报停，物主和见证人都实际履约。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 467,
+      "quote": "今日那道斜伤把头边刮出一道新口。",
+      "reason": "实读留下纸带和可闻残声，但再过会损原片；读头的磨口锁住代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 467,
+      "quote": "我写的是一声湾。",
+      "reason": "妇人的一句话给出三人共同校对的落点，长期悬着的旧器第一次实际吐出可记人声。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 467,
+      "quote": "她把自己那份夹在手心，叫三个人先各把听到哪里写完。",
+      "reason": "封存一回读、马上转三人分辨亲闻和预料，下一章能验谁听过头。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 468,
+      "quote": "白礁的纸比窗外妇人的多出一截，里头有两个他待会儿得自己说的字。",
+      "reason": "直接面对两个多出的字，让前章原声不足的冲突发生在人和证词之间。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 468,
+      "quote": "林渡请三人把各自的听记移到同一处案沿。",
+      "reason": "他使普通见证人的记录能够与导师并列查，外人可以指着白格发问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 468,
+      "quote": "白礁把方才遮住的两个字用笔圈住，圈外补上听后所想。",
+      "reason": "原样保留，又写清两个字来源，实得短证和未知，不消去分歧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 468,
+      "quote": "妇人将自己的短纸往窗边挪，说自己和白礁隔了两尺，当时没听出这几个字。",
+      "reason": "妇人用自己的在场位置和听记制止先抄老师的围观者，466答应的独立见证兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 468,
+      "quote": "白礁得找自己当年写过的收声条，才好问他们这回听见的是否同一轮。",
+      "reason": "没有第二次机器读可用，追查换到他当年的原记，怀疑是否同一轮。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 469,
+      "quote": "来收读头的人先问林渡，昨儿那张纸带能不能跟坏件一起归库。",
+      "reason": "起手就是会把证据与坏件一并收走的提议，原物实际有谁能拿的问题立即出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 469,
+      "quote": "问我本人。开时我得在。",
+      "reason": "弥娅选择担任每次启封当事人，林渡也接受原纸带只能回读台核。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 469,
+      "quote": "原纸带由守读台的人自己存，不按坏件收。",
+      "reason": "坏件、原声片与纸带三条路径落地，另有可校摹记能走向联络台。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 469,
+      "quote": "自己的名字可以在这里问，西台的铺位不必跟着抄。",
+      "reason": "妇人主动给听记授权又护住生活事务，公开见证没有吞掉她的候核。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 469,
+      "quote": "报旧签的人和问岸棚原号的人都在等，只能先让一个名字占住头一行。",
+      "reason": "短班需要排序，下一章等待林渡如何让公共证据和家事过同一个窄口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 470,
+      "quote": "他手里原有两岸六七个人的名字，报过一个，其余便接不上。",
+      "reason": "首段直接接前章两个问项抢一行，进场就须定第一站。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 470,
+      "quote": "先请三层交口接话。",
+      "reason": "林渡选择按旧经手路径，五层后置，白礁私事和车缆也都只留纸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 470,
+      "quote": "可以先收问项，等交口值岗实来再转",
+      "reason": "旧联系实通并有山口回读，三层转交和五层启封仍有各自待办。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 470,
+      "quote": "孩子原号瓶仍由姨母拿，照护岗昨日在棚里实交过。",
+      "reason": "错过返风的家事压力得到一句有限实报，读者确知一次照护仍在进行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 470,
+      "quote": "明天他想坐到桌对面，用这两个号叫管柜的人当面开一次旧夹。",
+      "reason": "白礁亲自带问项去席前，下一篇可追查哪份亲手旧记能打开，能接哪一方证词。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 467,
+      "quote": "弥娅等下一道波折出来，终于听见从台上的听口吐出一点断续的人声。",
+      "reason": "461的报送号开出移转线，464明付错过实测风的代价，467真实拆槽读出残声和纸带，468对齐两响与一待校音，470由山口复读确认实收问项。篇首许下的有声实证交到了读者手中，个件同号和两陆删史依然等原经手核实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 468,
+      "quote": "那人先探头去看白礁的，照那纸念了个起音。",
+      "reason": "先争有限电档、再错过离港水窗、接着承受原片挤折和读头磨损。拿到声后，听众真的差点把导师的推想当原声，妇人制止；后段变成证据可能误传和传不到的问题，受影响者与代价都扩大。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

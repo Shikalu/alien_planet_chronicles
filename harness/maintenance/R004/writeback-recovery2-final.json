@@ -1,0 +1,806 @@
+{
+  "schema_version": 1,
+  "kind": "targeted_staged_writeback_final_recheck",
+  "id": "R004",
+  "review_id": "R004-WB-recovery2-final",
+  "date": "2026-11-06",
+  "captured_at": "2026-11-06T23:16:57.261971+08:00",
+  "completed_at": "2026-11-06T23:24:37.962208+08:00",
+  "status": "pending_adjudication_unpublished",
+  "verdict": "五处定点回填闭环；不签整体通过",
+  "targeted_writeback_verdict": "closed_in_current_stage_only",
+  "ready_for_publish": false,
+  "R004_pass": false,
+  "published": false,
+  "full_fifty_chapter_review": false,
+  "full_B10_review": false,
+  "manuscript_acceptance": "not_issued",
+  "attraction_verdict": "not_issued",
+  "reviewer": {
+    "name": "Codex",
+    "thread_id": "01a1b159-38ff-7e30-a4e5-3489563941b7",
+    "session_id": "01a1b157-10bb-7b91-bafb-e4a08703bbec",
+    "identity_source": "current_runtime_environment",
+    "same_as_previous_reviewer": true,
+    "provided_previous_edit_suggestions": true,
+    "implemented_current_edits": false,
+    "independent_of_edit_implementation": true,
+    "blind_read": false,
+    "note": "同一复核者曾给上轮建议，未实施本轮修改；独立于修改实施者，不冒称全新盲读或先正文后资料。未读旧会话、未调用其他agent。",
+    "change_log_writer_label": "/root"
+  },
+  "reader_one_sentence": "B08限定补审已准确登记；092搭接、锁定承重段与牵引尾绳、末人撤离及残桥留置如实回填，不恢复已损材料，不据此批准工程或整体验收。",
+  "scope": {
+    "workspace": "~/Workspace/alien_planet_chronicles",
+    "current_log_count": 102,
+    "log_entries_read_this_round": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "entries_1_to_97": "明确继承上轮逐项阅读，非本轮重读102条",
+    "writeback_reading": {
+      "异星录/06_执行计划/工作区/R004-WB/逐章卡.md": [
+        [
+          263,
+          270
+        ],
+        [
+          393,
+          400
+        ],
+        [
+          408,
+          413
+        ]
+      ],
+      "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md": [
+        [
+          813,
+          821
+        ]
+      ]
+    },
+    "unchanged_six": "只复核SHA，内容结论明确继承，不冒称逐行新读",
+    "manuscript_reading": [
+      {
+        "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+        "sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6",
+        "ranges": [
+          [
+            1,
+            85
+          ]
+        ],
+        "purpose": "全章仅用于092桥绳/搭接/撤手/留失接口，非B10全稿/工程验收",
+        "unchanged_since_previous": true
+      }
+    ],
+    "b08_reading": "仅读补审报告结论/范围/指纹及相关说明，并核十章当前SHA；未新读B08正文",
+    "prior_report_reading": {
+      "md_lines": [
+        [
+          210,
+          263
+        ]
+      ],
+      "json_sections": [
+        "files",
+        "original_issue_rechecks",
+        "pending_dependencies",
+        "nonblocking_precision_notes",
+        "scope（字段目录）",
+        "initial_source_fingerprints",
+        "supplemental_initial_fingerprints"
+      ]
+    },
+    "b08_json_fields": [
+      "reviewer",
+      "writer",
+      "independent",
+      "verdict_scope",
+      "fact_logic_scope",
+      "attraction_scope",
+      "coverage",
+      "working_manuscripts",
+      "source_digest",
+      "working_source_digest",
+      "nonblocking_observations",
+      "writeback_followups",
+      "criteria_crosscheck",
+      "recheck_requirements"
+    ],
+    "validation_json_fields": [
+      "recorded_at",
+      "prose_replay",
+      "writeback_replay",
+      "review_evidence_scope"
+    ],
+    "policies_read": [
+      {
+        "path": "AGENTS.md",
+        "scope": "根规则，重点3、5、8.1、11—13",
+        "sha256": "1559cd0b90183ef0d16be4cd54de3c44be30dc162c41a17be5f11807ddaf1db6"
+      },
+      {
+        "path": "skills/alien-serial-harness/SKILL.md",
+        "scope": "全文",
+        "sha256": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb"
+      },
+      {
+        "path": "skills/alien-serial-harness/references/editorial.md",
+        "scope": "全文",
+        "sha256": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05"
+      },
+      {
+        "path": "异星录/05_写作规范/正文与连载规范.md",
+        "scope": "第九节",
+        "sha256": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f"
+      },
+      {
+        "path": "异星录/05_写作规范/文风与细节精修规范.md",
+        "scope": "第二、七、八节",
+        "sha256": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879"
+      },
+      {
+        "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+        "scope": "全文；不签吸引力",
+        "sha256": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814"
+      }
+    ],
+    "limitations": [
+      "非51—100全50章审读，非B10十章审读或吸引力验收",
+      "未重新读取/审计401份已发布正文和53来源；其余正文未改为用户说明",
+      "未重跑173/102全量重放，只核5项内存差分和前后SHA",
+      "未读旧会话、未调用其他agent或接管B10结论"
+    ]
+  },
+  "files": [
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+      "sha256": "26c80d78a12a32c7d8e3e223e379169694eb4b3a687473da07a55494d8745c0a",
+      "captured_sha256": "26c80d78a12a32c7d8e3e223e379169694eb4b3a687473da07a55494d8745c0a",
+      "previous_sha256": "26c80d78a12a32c7d8e3e223e379169694eb4b3a687473da07a55494d8745c0a",
+      "unchanged_since_previous": true,
+      "unchanged_during_review": true,
+      "content_review": "inherited_from_previous_no_new_line_reading",
+      "read_ranges": [],
+      "pending_review": true
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "sha256": "0b2580014dc4b06a7c6477948017fcc02bfea032fbd5f6e8f0edb27b8d884ad3",
+      "captured_sha256": "0b2580014dc4b06a7c6477948017fcc02bfea032fbd5f6e8f0edb27b8d884ad3",
+      "previous_sha256": "46c8f03580eac2326c4365b87165c6d5389152db3b013e8d548926bf216e6b80",
+      "unchanged_since_previous": false,
+      "unchanged_during_review": true,
+      "content_review": "five_delta_targets_reread_other_bytes_equal_previous",
+      "read_ranges": [
+        [
+          813,
+          821
+        ]
+      ],
+      "pending_review": true
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/伏笔与悬念台账.md",
+      "sha256": "d12ea1a80859927d45fe0a89c0c3f83e9c496cb31f9454a47338208a35c52670",
+      "captured_sha256": "d12ea1a80859927d45fe0a89c0c3f83e9c496cb31f9454a47338208a35c52670",
+      "previous_sha256": "d12ea1a80859927d45fe0a89c0c3f83e9c496cb31f9454a47338208a35c52670",
+      "unchanged_since_previous": true,
+      "unchanged_during_review": true,
+      "content_review": "inherited_from_previous_no_new_line_reading",
+      "read_ranges": [],
+      "pending_review": true
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+      "sha256": "a0a6e60197ce2d8c77a63c75bab75aaf82cbc73b2b4a67b9da5137f790a6a51f",
+      "captured_sha256": "a0a6e60197ce2d8c77a63c75bab75aaf82cbc73b2b4a67b9da5137f790a6a51f",
+      "previous_sha256": "a0a6e60197ce2d8c77a63c75bab75aaf82cbc73b2b4a67b9da5137f790a6a51f",
+      "unchanged_since_previous": true,
+      "unchanged_during_review": true,
+      "content_review": "inherited_from_previous_no_new_line_reading",
+      "read_ranges": [],
+      "pending_review": true
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语与命名表.md",
+      "sha256": "3736759f0e90b89c1f7efe25f3aea7e8409821ceeef5efd7f07c75d67eb29c0c",
+      "captured_sha256": "3736759f0e90b89c1f7efe25f3aea7e8409821ceeef5efd7f07c75d67eb29c0c",
+      "previous_sha256": "3736759f0e90b89c1f7efe25f3aea7e8409821ceeef5efd7f07c75d67eb29c0c",
+      "unchanged_since_previous": true,
+      "unchanged_during_review": true,
+      "content_review": "inherited_from_previous_no_new_line_reading",
+      "read_ranges": [],
+      "pending_review": true
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/术语词典.md",
+      "sha256": "4ae82b16692209aa989d108660d64eb5c562067060f73383745c000a384cec5a",
+      "captured_sha256": "4ae82b16692209aa989d108660d64eb5c562067060f73383745c000a384cec5a",
+      "previous_sha256": "4ae82b16692209aa989d108660d64eb5c562067060f73383745c000a384cec5a",
+      "unchanged_since_previous": true,
+      "unchanged_during_review": true,
+      "content_review": "inherited_from_previous_no_new_line_reading",
+      "read_ranges": [],
+      "pending_review": true
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5",
+      "captured_sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5",
+      "previous_sha256": "6f1fa03344bd7bdf506ea668840291f7253c85521743711255203cb890b50564",
+      "unchanged_since_previous": false,
+      "unchanged_during_review": true,
+      "content_review": "five_delta_targets_reread_other_bytes_equal_previous",
+      "read_ranges": [
+        [
+          263,
+          270
+        ],
+        [
+          393,
+          400
+        ],
+        [
+          408,
+          413
+        ]
+      ],
+      "pending_review": true
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/第一卷收官状态快照.md",
+      "sha256": "f4e67cc65fe04988af91c52f7e4541bfa3a99f60abef39041b9f9a4ea6d690df",
+      "captured_sha256": "f4e67cc65fe04988af91c52f7e4541bfa3a99f60abef39041b9f9a4ea6d690df",
+      "previous_sha256": "f4e67cc65fe04988af91c52f7e4541bfa3a99f60abef39041b9f9a4ea6d690df",
+      "unchanged_since_previous": true,
+      "unchanged_during_review": true,
+      "content_review": "inherited_from_previous_no_new_line_reading",
+      "read_ranges": [],
+      "pending_review": true
+    }
+  ],
+  "manifest": {
+    "path": "异星录/06_执行计划/工作区/R004-WB/manifest.json",
+    "sha256": "0dd4bbb9ffa9fb196b341dd10c517298f858ab5166cca3324a4515759f476104",
+    "all_eight_pending_review": true
+  },
+  "change_log": {
+    "path": "harness/maintenance/R004/writeback-changes.json",
+    "sha256": "4a905a75fcdca6d0ccfdda235fecee57807445dbe039a23ca25282702307df2a",
+    "patch_count": 102,
+    "last_five_exactly_match_previous_suggestions": true,
+    "last_five_entries": [
+      {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "issue": "WB-SYNC-02",
+        "before_quote": "B08原报告保留，新增两章补审未完成前不能沿旧SHA通过",
+        "after_quote": "B08原final保留历史结论；071/076已完成water-boundary-recheck限定补审，其余8章仅继承未改字节证据；以该补审新指纹为准，不扩为十章重新全文审读或R004通过",
+        "resolution": "依独立writeback-recovery2-recheck修暂存记录及审读状态；不改剧情、不裁定C04/C05，092工程结论仍由B10独立审读负责。",
+        "before_sha256": "6f1fa03344bd7bdf506ea668840291f7253c85521743711255203cb890b50564",
+        "after_sha256": "c2a08d118c482ba40872dbfc850f30845ddfaf7aef3ba721f3e8b143b8b05057"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "issue": "WB-SYNC-02",
+        "before_quote": "B08两处水边界新稿需补审",
+        "after_quote": "B08两处水边界新稿已由water-boundary-recheck限定补审；其余8章继承旧证据，WB与R004仍待闭环",
+        "resolution": "依独立writeback-recovery2-recheck修暂存记录及审读状态；不改剧情、不裁定C04/C05，092工程结论仍由B10独立审读负责。",
+        "before_sha256": "c2a08d118c482ba40872dbfc850f30845ddfaf7aef3ba721f3e8b143b8b05057",
+        "after_sha256": "9a0638b054db041efd3b1b1cf4252f11134abf89b91459411b46c500585a98f2"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "issue": "WB-R2-N01",
+        "before_quote": "消耗撤离箱木框、短梁和绳索；桥面只剩一根短梁",
+        "after_quote": "消耗撤离箱木框、短梁与绳索；外侧长边料被闸削断，山侧长边料仍夹于短梁与横框间、由锁在旧桩上的桥下兜绳暂托最后撤手；全员过口后木框、大半桥面及不能解取的桥下绳段留置，不登记可复用单梁桥",
+        "resolution": "依独立writeback-recovery2-recheck修暂存记录及审读状态；不改剧情、不裁定C04/C05，092工程结论仍由B10独立审读负责。",
+        "before_sha256": "9a0638b054db041efd3b1b1cf4252f11134abf89b91459411b46c500585a98f2",
+        "after_sha256": "a9a54159cb7be705d94d96771a7c423a2a92d9d3e8f644dc1630f60bed5a2d5a"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "issue": "WB-R2-N01",
+        "before_quote": "箱横框分扣压，两根旧绳兜约束；外侧边料闸削断，山侧余料暂持最后撤手；桥面及不能解取的撑绳留置。",
+        "after_quote": "箱横框分扣压；两根旧绳分处桥面两侧，由来岸桩经搭接处兜套升至上行岸桩并锁牢，承重段与锁结外牵引绳尾分开；避闸只放低绳尾，桥下绳段不动。外侧边料削断后，山侧边料、短梁与兜绳仅暂持最后撤手；过口只回收可解余料，木框、大半桥面、桥下不可解绳段及卡死扣留置。",
+        "resolution": "依独立writeback-recovery2-recheck修暂存记录及审读状态；不改剧情、不裁定C04/C05，092工程结论仍由B10独立审读负责。",
+        "before_sha256": "46c8f03580eac2326c4365b87165c6d5389152db3b013e8d548926bf216e6b80",
+        "after_sha256": "0b2580014dc4b06a7c6477948017fcc02bfea032fbd5f6e8f0edb27b8d884ad3"
+      },
+      {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "issue": "WB-R2-N01",
+        "before_quote": "单短梁加既有箱框搭接、两根原绳约束、外侧边料损毁",
+        "after_quote": "单短梁与两条箱框长边料搭接；两根旧绳在两岸桩上锁定桥下兜套，锁结外余尾另作牵引；避闸只降余尾，外侧边料毁后由山侧搭接暂持末人，桥下不可解段留置",
+        "resolution": "依独立writeback-recovery2-recheck修暂存记录及审读状态；不改剧情、不裁定C04/C05，092工程结论仍由B10独立审读负责。",
+        "before_sha256": "a9a54159cb7be705d94d96771a7c423a2a92d9d3e8f644dc1630f60bed5a2d5a",
+        "after_sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5"
+      }
+    ]
+  },
+  "delta_integrity": {
+    "method": "仅在内存逆退98—102，五处after均唯一命中并逐条校before/after_SHA；回退后两文件与上轮SHA一致。未写原文件，非全量重放。",
+    "entries": [
+      {
+        "index": 98,
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "6f1fa03344bd7bdf506ea668840291f7253c85521743711255203cb890b50564",
+        "after_sha256": "c2a08d118c482ba40872dbfc850f30845ddfaf7aef3ba721f3e8b143b8b05057",
+        "both_hashes_match": true,
+        "occurrences": 1
+      },
+      {
+        "index": 99,
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "c2a08d118c482ba40872dbfc850f30845ddfaf7aef3ba721f3e8b143b8b05057",
+        "after_sha256": "9a0638b054db041efd3b1b1cf4252f11134abf89b91459411b46c500585a98f2",
+        "both_hashes_match": true,
+        "occurrences": 1
+      },
+      {
+        "index": 100,
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "9a0638b054db041efd3b1b1cf4252f11134abf89b91459411b46c500585a98f2",
+        "after_sha256": "a9a54159cb7be705d94d96771a7c423a2a92d9d3e8f644dc1630f60bed5a2d5a",
+        "both_hashes_match": true,
+        "occurrences": 1
+      },
+      {
+        "index": 101,
+        "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "before_sha256": "46c8f03580eac2326c4365b87165c6d5389152db3b013e8d548926bf216e6b80",
+        "after_sha256": "0b2580014dc4b06a7c6477948017fcc02bfea032fbd5f6e8f0edb27b8d884ad3",
+        "both_hashes_match": true,
+        "occurrences": 1
+      },
+      {
+        "index": 102,
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "before_sha256": "a9a54159cb7be705d94d96771a7c423a2a92d9d3e8f644dc1630f60bed5a2d5a",
+        "after_sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5",
+        "both_hashes_match": true,
+        "occurrences": 1
+      }
+    ],
+    "outside_five_deltas_equal_previous": true
+  },
+  "summary_counts": {
+    "targeted_edits": 5,
+    "closed_edits": 5,
+    "open_edits": 0,
+    "closed_issue_groups": 2,
+    "new_content_issues_within_scope": 0,
+    "unchanged_inherited_files": 6
+  },
+  "targeted_rechecks": [
+    {
+      "id": "WB-RF-01",
+      "patch_index": 98,
+      "original_issue": "WB-SYNC-02",
+      "title": "B08限定补审主状态",
+      "status": "closed_in_current_stage_only",
+      "writeback_evidence": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "line": 396,
+        "quote": "| 071/076 | 器具残液不再润唇，改无水条件下避灰/换气照护 | 沿C03，不新增水；B08原final保留历史结论；071/076已完成water-boundary-recheck限定补审，其余8章仅继承未改字节证据；以该补审新指纹为准，不扩为十章重新全文审读或R004通过 |",
+        "source_sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5"
+      },
+      "prose_evidence": [],
+      "assessment": "071/076已完成限定补审、原final保留历史结论、其余8章仅继承未改字节、新补审指纹为准且不扩为十章全文或R004通过，均与water-boundary-recheck的范围和SHA对应。",
+      "new_issue": false,
+      "additional_edit_required": false
+    },
+    {
+      "id": "WB-RF-02",
+      "patch_index": 99,
+      "original_issue": "WB-SYNC-02",
+      "title": "B08篇章表状态",
+      "status": "closed_in_current_stage_only",
+      "writeback_evidence": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "line": 411,
+        "quote": "| 071—080 | 找回仪器、保存被抹去者的名字、追问父亲 | 071六人经本人/同行核号；075换回仪器；074副本与080林岑现身 | 残尺交出、原权限无效；点灯换气先于父子追责，父亲不抬配重 | 门后联络回应与父亲证词继续追；B08两处水边界新稿已由water-boundary-recheck限定补审；其余8章继承旧证据，WB与R004仍待闭环 |",
+        "source_sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5"
+      },
+      "prose_evidence": [],
+      "assessment": "“需补审”已改为限定补审完成，同时保留其余8章继承旧证据及WB/R004仍待闭环；与396一致，没有重签整批，也没有增加任何可饮水事实。“仍待闭环”指总体依赖，不是否认两章补审已完成。",
+      "new_issue": false,
+      "additional_edit_required": false
+    },
+    {
+      "id": "WB-RF-03",
+      "patch_index": 100,
+      "original_issue": "WB-R2-N01",
+      "title": "092实际前表残桥记录",
+      "status": "closed_in_current_stage_only",
+      "writeback_evidence": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "line": 267,
+        "quote": "| 92 | 无面者与难民按伤情共同架桥，一名旧维修者摘下面具并公开身份 | 消耗撤离箱木框、短梁与绳索；外侧长边料被闸削断，山侧长边料仍夹于短梁与横框间、由锁在旧桩上的桥下兜绳暂托最后撤手；全员过口后木框、大半桥面及不能解取的桥下绳段留置，不登记可复用单梁桥 | 广播念出摘面者姓名，清场系统开始锁定队伍 |",
+        "source_sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5"
+      },
+      "prose_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 77,
+          "quote": "一排木屑落下来，靠海外侧的箱框边料被闸面削断，桥面跟着往外歪。山侧那条还夹在短梁与横框之间，梁下兜绳绷直，碎板悬在绳上晃。最后的抬手已挪到搭接处，阿九叫他别站，沿山侧尚存的边料贴身爬。对岸的人伏低收绳，直到他抓住旧梁头，才将他拖离裂口。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 79,
+          "quote": "全员落地后，杜姨先点人，岑野才收回可解下的绳段。兜在桥下的绳段不能硬拽，卡死的扣也没去拿；阿九把能收的线盘好，分清短残段与还能继续使用的两卷余料。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 81,
+          "quote": "没有人在这一回少掉，木框和大半桥面却留在缺口。林渡看着身后的残梁，知道若前路再关，他们已没材料照样搭回去。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        }
+      ],
+      "assessment": "旧“桥面只剩一根短梁”已从实际前表去除；外侧长边料毁、山侧长边料夹于短梁/横框并由桥下兜绳暂托末人、全员过口后残桥与不可解绳留置，三个时点分清。不登记可复用单梁桥。",
+      "new_issue": false,
+      "additional_edit_required": false
+    },
+    {
+      "id": "WB-RF-04",
+      "patch_index": 102,
+      "original_issue": "WB-R2-N01",
+      "title": "092摘要的锁结与牵引绳尾",
+      "status": "closed_in_current_stage_only",
+      "writeback_evidence": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+        "line": 398,
+        "quote": "| 091/092 | 担架抬头产生滑移勒带风险；救援者明确上行岸；单短梁与两条箱框长边料搭接；两根旧绳在两岸桩上锁定桥下兜套，锁结外余尾另作牵引；避闸只降余尾，外侧边料毁后由山侧搭接暂持末人，桥下不可解段留置 | 不恢复坠落门板或新生整梁；092搭接与撤退受力链待B10重审 |",
+        "source_sha256": "e049d1ad8cd9851aff98b89ed98d5c89246d0a5176e60f64f5b8cda1b28be2c5"
+      },
+      "prose_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 11,
+          "quote": "两端残台各伸出一点旧梁头，真正要跨的距离比七尺稍短，那根短梁仍够不着对岸。阿九拆开撤离箱，从框上取出两条还实的长边料，让它们并排向上行岸伸，尾端分别压上对岸梁头，另一端与短梁错搭。箱子的横框压住搭接处，旧板只铺脚下，不当承重梁。盛物的箱子拆散后，只能把东西重新扎进旧布。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 27,
+          "quote": "岑野把短梁的来岸端压稳，再把两条箱框边料与它重叠的部分夹进横框下。阿九收紧旧卡扣，让扣压分落在两条边料上，不直咬薄木边。两条边料仍往下弯，林渡只许一次一个人，牵引绳也轮流用，不能每人分走一根。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 53,
+          "quote": "裴七送到第二根绳后，阿九将两根绳分置桥面两侧，各在短梁与箱框边料的搭接处绕出一只兜套。每根绳从来岸旧桩牵到兜套下，再升向上行岸的旧桩，在桩上收紧锁牢。过桩后剩下的绳尾留给抬手牵引，与梁下受力段隔着锁结；松收绳尾，兜套仍收着接头。桥面仍只够一个人。能独行的过去后贴山壁散开，不能停在绳桩周围围看。林栖每报一个落地号，就用灯照一次接缝，阿九按她说的下弯幅度调整压框的位置，没把数字当成桥会无限撑下去的保证。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 75,
+          "quote": "防卫闸从上方横移，沿缺口扫过。林渡将孩子按在自己与山壁之间，弥娅把仅余潮气的布搭在孩子头侧，挡住飞屑，不紧捂口鼻。槐七放低旧桩锁结外的牵引绳尾，使它伏到平台边，免得被闸面勾走；锁在桩上的桥下绳段没有动。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 77,
+          "quote": "一排木屑落下来，靠海外侧的箱框边料被闸面削断，桥面跟着往外歪。山侧那条还夹在短梁与横框之间，梁下兜绳绷直，碎板悬在绳上晃。最后的抬手已挪到搭接处，阿九叫他别站，沿山侧尚存的边料贴身爬。对岸的人伏低收绳，直到他抓住旧梁头，才将他拖离裂口。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 79,
+          "quote": "全员落地后，杜姨先点人，岑野才收回可解下的绳段。兜在桥下的绳段不能硬拽，卡死的扣也没去拿；阿九把能收的线盘好，分清短残段与还能继续使用的两卷余料。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        }
+      ],
+      "assessment": "单短梁与两条长边料搭接，兜套承重段由两岸桩锁定、锁结外余尾另作牵引，避闸仅降余尾；未把松收牵引写成放松承重兜套。保留不恢复门板/新生整梁及受力链待B10重审。",
+      "new_issue": false,
+      "additional_edit_required": false
+    },
+    {
+      "id": "WB-RF-05",
+      "patch_index": 101,
+      "original_issue": "WB-R2-N01",
+      "title": "资源092桥绳链与留失分账",
+      "status": "closed_in_current_stage_only",
+      "writeback_evidence": {
+        "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+        "line": 817,
+        "quote": "| 短梁089—092 | 089封板短撑留置；090门框清人后用原回收绳抽出唯一旧短梁，实段交岑野；091搭门板后仅余短梁；092拆箱取两条长边料与短梁搭接 | 箱横框分扣压；两根旧绳分处桥面两侧，由来岸桩经搭接处兜套升至上行岸桩并锁牢，承重段与锁结外牵引绳尾分开；避闸只放低绳尾，桥下绳段不动。外侧边料削断后，山侧边料、短梁与兜绳仅暂持最后撤手；过口只回收可解余料，木框、大半桥面、桥下不可解绳段及卡死扣留置。该092受力链待B10重审，不凭写入暂存即视为已验收。 |",
+        "source_sha256": "0b2580014dc4b06a7c6477948017fcc02bfea032fbd5f6e8f0edb27b8d884ad3"
+      },
+      "prose_evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 27,
+          "quote": "岑野把短梁的来岸端压稳，再把两条箱框边料与它重叠的部分夹进横框下。阿九收紧旧卡扣，让扣压分落在两条边料上，不直咬薄木边。两条边料仍往下弯，林渡只许一次一个人，牵引绳也轮流用，不能每人分走一根。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 53,
+          "quote": "裴七送到第二根绳后，阿九将两根绳分置桥面两侧，各在短梁与箱框边料的搭接处绕出一只兜套。每根绳从来岸旧桩牵到兜套下，再升向上行岸的旧桩，在桩上收紧锁牢。过桩后剩下的绳尾留给抬手牵引，与梁下受力段隔着锁结；松收绳尾，兜套仍收着接头。桥面仍只够一个人。能独行的过去后贴山壁散开，不能停在绳桩周围围看。林栖每报一个落地号，就用灯照一次接缝，阿九按她说的下弯幅度调整压框的位置，没把数字当成桥会无限撑下去的保证。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 75,
+          "quote": "防卫闸从上方横移，沿缺口扫过。林渡将孩子按在自己与山壁之间，弥娅把仅余潮气的布搭在孩子头侧，挡住飞屑，不紧捂口鼻。槐七放低旧桩锁结外的牵引绳尾，使它伏到平台边，免得被闸面勾走；锁在桩上的桥下绳段没有动。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 77,
+          "quote": "一排木屑落下来，靠海外侧的箱框边料被闸面削断，桥面跟着往外歪。山侧那条还夹在短梁与横框之间，梁下兜绳绷直，碎板悬在绳上晃。最后的抬手已挪到搭接处，阿九叫他别站，沿山侧尚存的边料贴身爬。对岸的人伏低收绳，直到他抓住旧梁头，才将他拖离裂口。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 79,
+          "quote": "全员落地后，杜姨先点人，岑野才收回可解下的绳段。兜在桥下的绳段不能硬拽，卡死的扣也没去拿；阿九把能收的线盘好，分清短残段与还能继续使用的两卷余料。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+          "line": 81,
+          "quote": "没有人在这一回少掉，木框和大半桥面却留在缺口。林渡看着身后的残梁，知道若前路再关，他们已没材料照样搭回去。",
+          "source_sha256": "bafaacef7f84fac9d0d5f279bfc27607e246b592b9af00683c69155c9a08e8e6"
+        }
+      ],
+      "assessment": "来岸桩→搭接处兜套→上行岸桩锁定；承重段与锁结外绳尾分工；避闸不动桥下段；山侧边料/短梁/兜绳仅暂持末人；只收可解余料，不可解绳、卡死扣、木框与大半桥面留置，均对应当前正文。邻接“091搭门板后仅余短梁”明确是092拆箱前时点，不是092末态残留。仍明示不凭暂存即验收。",
+      "new_issue": false,
+      "additional_edit_required": false
+    }
+  ],
+  "issue_group_closures": [
+    {
+      "id": "WB-SYNC-02",
+      "patches": [
+        98,
+        99
+      ],
+      "status": "closed_in_current_stage_only"
+    },
+    {
+      "id": "WB-R2-N01",
+      "patches": [
+        100,
+        101,
+        102
+      ],
+      "status": "closed_in_current_stage_only",
+      "boundary": "忠实回填，不代签正文工程可行性"
+    }
+  ],
+  "new_issues": [],
+  "new_issues_scope": "这5处及必要邻接未发现新增内容、物权、状态范围或留失矛盾，不扩为全稿无问题。",
+  "old_literal_scan": [
+    {
+      "literal": "B08原报告保留，新增两章补审未完成前不能沿旧SHA通过",
+      "matches_in_current_two_files": 0
+    },
+    {
+      "literal": "B08两处水边界新稿需补审",
+      "matches_in_current_two_files": 0
+    },
+    {
+      "literal": "消耗撤离箱木框、短梁和绳索；桥面只剩一根短梁",
+      "matches_in_current_two_files": 0
+    },
+    {
+      "literal": "箱横框分扣压，两根旧绳兜约束；外侧边料闸削断，山侧余料暂持最后撤手；桥面及不能解取的撑绳留置。",
+      "matches_in_current_two_files": 0
+    },
+    {
+      "literal": "单短梁加既有箱框搭接、两根原绳约束、外侧边料损毁",
+      "matches_in_current_two_files": 0
+    }
+  ],
+  "b08_source": {
+    "path": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+    "sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+    "verdict_scope": "仅071/076此次水边界补丁及两章完整新读的事实/五项吸引力；不是整批重新全文签验，更不是R004发布通过。",
+    "fully_read_by_source_reviewer": [
+      71,
+      76
+    ],
+    "inherited_by_source_reviewer": [
+      72,
+      73,
+      74,
+      75,
+      77,
+      78,
+      79,
+      80
+    ],
+    "current_working_manuscripts": [
+      {
+        "chapter": 71,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+        "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 72,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+        "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 73,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+        "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 74,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+        "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 75,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+        "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 76,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+        "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 77,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+        "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 78,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+        "sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 79,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+        "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+        "matches_current": true,
+        "body_reread_this_round": false
+      },
+      {
+        "chapter": 80,
+        "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+        "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294",
+        "matches_current": true,
+        "body_reread_this_round": false
+      }
+    ],
+    "source_digest": "6f54feb6c8aab789ffb9e7db5fbc140a91fac3ed6301a08ed1966dc7c3e6a114",
+    "working_source_digest": "a2e7403c0c1e029e419d987fec73b1d4e2fe27be6aee55de12079f8ab2ac0cdd",
+    "digest_note": "发布目标路径与工作路径口径不同；逐文件SHA全匹配，不因路径差异误判内容变化。",
+    "new_B08_acceptance_issued_here": false
+  },
+  "inherited_conclusions": {
+    "source": "harness/maintenance/R004/writeback-recovery2-recheck.json",
+    "sha256": "89f939e1cdad88f720265d04706690e5ffa28af6a4b56bd237f7d84b7d424165",
+    "original_six": [
+      {
+        "id": "WB-RR-01",
+        "title": "065安排上限不再写成两次安全保证",
+        "status": "closed_in_current_stage_only",
+        "mode": "inherited_not_new_whole_scope_review"
+      },
+      {
+        "id": "WB-RR-02",
+        "title": "074巡查所副本与议会原件分清",
+        "status": "closed_in_current_stage_only",
+        "mode": "inherited_not_new_whole_scope_review"
+      },
+      {
+        "id": "WB-RR-03",
+        "title": "080横移墙门、通井升降门及内外人员位置分开",
+        "status": "closed_in_current_stage_only",
+        "mode": "inherited_not_new_whole_scope_review"
+      },
+      {
+        "id": "WB-RR-04",
+        "title": "100冻结水表不再登记可饮余额",
+        "status": "closed_in_current_stage_only",
+        "mode": "inherited_not_new_whole_scope_review"
+      },
+      {
+        "id": "WB-RR-05",
+        "title": "100末公共册负责权与实物暂持人分清",
+        "status": "closed_in_current_stage_only",
+        "mode": "inherited_not_new_whole_scope_review"
+      },
+      {
+        "id": "WB-RR-06",
+        "title": "100未知徽记与文字直读站名分开",
+        "status": "closed_in_current_stage_only",
+        "mode": "inherited_not_new_whole_scope_review"
+      }
+    ],
+    "WB_SYNC_01": "继承仅来源说明已同步，C05授权仍未决",
+    "nonblocking_precision_notes": "上轮WB-R2-P01—P04继续作为非阻断精度/范围说明继承；098再摇柄等不属于这5处未完成，本轮未扩改或重审。"
+  },
+  "pending_dependencies": [
+    {
+      "id": "R004-C04",
+      "status": "awaiting_user_decision",
+      "approved": false,
+      "note": "049分尽与098—100既有饮用结果缺获批来源，100无可饮余额；不新增库存、不擅删结果、不裁定。"
+    },
+    {
+      "id": "R004-C05",
+      "status": "awaiting_user_decision",
+      "approved": false,
+      "note": "101的13＋4＝17旧实录与同期禁止精确化约束仍有授权冲突；查到来源不等于获批，不倒灌100或合成约48。"
+    },
+    {
+      "id": "R004-B10-independent-reader",
+      "status": "pending_separate_content_conclusion",
+      "approved": false,
+      "note": "正文事实/工程及吸引力由另位独立读者处理；本报告不签092工程或B10全稿通过。正文再变则重核相关回填和SHA。"
+    }
+  ],
+  "criteria_crosscheck": {
+    "state_and_scope": "B08新读2章/继承8章，未升级为整批或R004通过。",
+    "objects_physics_time": "承重段/牵引尾绳分工、毁损前后与撤后留失可回查原句；091仅余短梁为092拆箱前时点。",
+    "resource_and_information": "无新梁/绳/饮水/精确人数授权；C04及B10限制保留。",
+    "style_and_attraction": "仅核回填记录，不把说明表格作正文AI腔统计，不签全章语言/吸引力或50章全覆盖。"
+  },
+  "source_freshness": {
+    "previous_report": {
+      "md": "harness/maintenance/R004/writeback-recovery2-recheck.md",
+      "md_sha256": "c7de9ddfe039308b194ba8347d6352e4dc874c64114ef1a0ddaf2bb82a8bf1ff",
+      "json": "harness/maintenance/R004/writeback-recovery2-recheck.json",
+      "json_sha256": "89f939e1cdad88f720265d04706690e5ffa28af6a4b56bd237f7d84b7d424165",
+      "covered_log_count": 97,
+      "preserved": true,
+      "note": "旧结论代表当时字节，本报告另绑新SHA，不覆盖旧失败报告。"
+    },
+    "mechanical_validation": {
+      "path": "harness/maintenance/R004/recovery2-validation.json",
+      "sha256": "f63e107397ffdef8e3c52aec0e62fa60d7152afaaa2ce25628cf574127880a72",
+      "recorded_at": "2026-11-06T22:54:41.749547+08:00",
+      "prose_patch_count": 173,
+      "writeback_patch_count": 97,
+      "covers_current_102_full_replay": false,
+      "note": "仍为173正文/97回填历史机械证据；本轮5项SHA核对不冒充102全量验收。若整体使用，主线程另补当前记录。"
+    },
+    "body_observation": "092与上轮SHA一致、B08十章与限定补审一致；其余正文未改依用户说明，非本轮401/53保护审计。"
+  },
+  "next_actions": [
+    "这5处无需再修；两原问题仅暂存回填层关闭。",
+    "C04/C05待用户裁定及B10内容结论汇合前不发布。",
+    "整体机械验收若需102条覆盖，由主线程另补当前记录，不改旧失败报告。",
+    "正文/WB再次变化后，重绑SHA并复核受影响项。"
+  ],
+  "files_written": [
+    "harness/maintenance/R004/writeback-recovery2-final.md",
+    "harness/maintenance/R004/writeback-recovery2-final.json"
+  ],
+  "stage_modified": false,
+  "formal_manuscripts_or_ledgers_modified": false,
+  "old_reports_overwritten": false,
+  "gate_close_verify_repair_run": false,
+  "old_conversations_read": false,
+  "other_agents_called": false
+}

@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root 与 /root/a56",
+  "reviewer": "Codex /root/reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 651,
+      "path": "异星录/06_执行计划/工作区/A56/第651章_木头上没有姓.md",
+      "sha256": "d31cee2cd787e3cac3ec8429336df6ff84023c072601b3a0821114543d8c19d1"
+    },
+    {
+      "chapter": 652,
+      "path": "异星录/06_执行计划/工作区/A56/第652章_把手从闩上拿开.md",
+      "sha256": "2cdac835f0cc21fc1925098bdf9a175d80f65023652c6766aed5e7c5db27ca1c"
+    },
+    {
+      "chapter": 653,
+      "path": "异星录/06_执行计划/工作区/A56/第653章_屋檐下的旧号.md",
+      "sha256": "328857bfbfe512c9d600b5d0331964f7eab5719a6e185047517bf6b91819d4a8"
+    },
+    {
+      "chapter": 654,
+      "path": "异星录/06_执行计划/工作区/A56/第654章_门上有他的名字.md",
+      "sha256": "0e8d8a29021d4864d4262e7bf0a5889d120159be15218e375e860e9198b53291"
+    },
+    {
+      "chapter": 655,
+      "path": "异星录/06_执行计划/工作区/A56/第655章_收起来的那一担.md",
+      "sha256": "9d4d69f432d9e38cfdeadd7d4f516a01341c098270881dc87aaa52a156d187da"
+    },
+    {
+      "chapter": 656,
+      "path": "异星录/06_执行计划/工作区/A56/第656章_落在自己脚边.md",
+      "sha256": "517c1a099c5f04ea7f488661203e292163646a2c109205b8c6ae13550e451200"
+    },
+    {
+      "chapter": 657,
+      "path": "异星录/06_执行计划/工作区/A56/第657章_让木头先转身.md",
+      "sha256": "16f5b4fd50437c90a634e71d29103e5fc20f7e534f1f725895c06f39ec34ba43"
+    },
+    {
+      "chapter": 658,
+      "path": "异星录/06_执行计划/工作区/A56/第658章_两种落脚声.md",
+      "sha256": "d7353049bd86348056781ba8a0852b8b52b1a4edf77b1075dda12fd43a53009e"
+    },
+    {
+      "chapter": 659,
+      "path": "异星录/06_执行计划/工作区/A56/第659章_纸先留在衣里.md",
+      "sha256": "57bd0b8b9eb4efa921b2e7c09069bf2091ad471d4846c6450699182539fea7cd"
+    },
+    {
+      "chapter": 660,
+      "path": "异星录/06_执行计划/工作区/A56/第660章_少一双手就关门.md",
+      "sha256": "d4103b306409033ed6d00552a599e4096cf474ac9db400e388a4db78c2b30aca"
+    }
+  ],
+  "source_digest": "0d31270a5188482e9a6d72f32c68a2dba48f0b073b83aad9f469ceb7db6f1eef",
+  "checks": [
+    {
+      "chapter": 651,
+      "criterion": "opening_pressure",
+      "quote": "木头上没有姓",
+      "reason": "掰断的炭把旧伤和产权争执一起放在撤路门口，哥哥当场质问谁能来要梁。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 651,
+      "criterion": "protagonist_choice",
+      "quote": "林渡让哥哥先退到干墙边，叫守内转角的人留在原岗",
+      "reason": "他亲领有利害关系的见证人上高窗，保留撤路岗位，避免让住户凭传闻认料。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 651,
+      "criterion": "visible_change",
+      "quote": "旧图照用，其上的一线不能往这根木头上落锯",
+      "reason": "梁的另一端压实靠山门架，从图上可能拆的海侧材料变成实物暂缓。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 651,
+      "criterion": "emotional_payoff",
+      "quote": "笔画到了半墙，明明连得上，他也没再填这一截",
+      "reason": "兄长肯把对自己有利却未亲见的一截留白，敌对的两户因此有了可共看的图。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 651,
+      "criterion": "next_question",
+      "quote": "金属在另一面碰了两声，第二声短得多",
+      "reason": "门内仍有人，扣锁声变了且门框落屑，下一章要看弟弟能不能从靠山门出来。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 652,
+      "criterion": "opening_pressure",
+      "quote": "弟弟说锁舌总算退了，木闩还横在门背上",
+      "reason": "第一段把上一章响声的后果变成具体障碍，开窗路又受风和湿斜板阻拦。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 652,
+      "criterion": "protagonist_choice",
+      "quote": "回屋这句划掉。人出来了，这扇门就得封",
+      "reason": "林渡拒绝用回住许诺换人出门，随后用在屋内下凿的办法履行当面承诺。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 652,
+      "criterion": "visible_change",
+      "quote": "弟弟在那张上记自己没允拆共梁",
+      "reason": "人已跨槛，接到一人和准拆一梁各自留证，出门的真实也不抹去拒绝。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 652,
+      "criterion": "emotional_payoff",
+      "quote": "有一粒卡在甲边，哥哥弯腰替他挑开",
+      "reason": "刚才卡死在门内的同一类湿木屑此刻由兄长轻手挑去，兄弟实见团聚而铁盒仍留在屋里。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 652,
+      "criterion": "next_question",
+      "quote": "梁有两根。得先把住过里面的人算出来",
+      "reason": "槐七以自己守过的门补材料前路，两根梁能否取决于门里究竟保护过谁。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 653,
+      "criterion": "opening_pressure",
+      "quote": "第一道折角有人向上抬铺",
+      "reason": "槐七去找可拆的梁先在拥挤内阶让人，材料与撤离争道在到达前已有实感。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 653,
+      "criterion": "protagonist_choice",
+      "quote": "林渡让等在门边的工人拿着量料纸先上值台送实测，不把旧簿列作拆出物",
+      "reason": "从同一间屋取出的梁与簿在此分权处理，林渡不让运输清单默认占有名簿。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 653,
+      "criterion": "visible_change",
+      "quote": "这两根托的是自己的顶",
+      "reason": "与前章跨两户的梁不同，料可取，但代价已缩成明确要停用这间仍庇护人的屋。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 653,
+      "criterion": "emotional_payoff",
+      "quote": "那人走到她前头垂着两手，望了一眼门外再回来看她，才接过碗",
+      "reason": "暂住人得到一只从旧屋带出的碗，读者看见搬迁带走哪一点日常，也看见他仍担心外人的目光。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 653,
+      "criterion": "next_question",
+      "quote": "真名别拿他的官笔抄成第二遍",
+      "reason": "留下老记录与抵御再次索名发生冲突，下章要看祝衡先承诺怎样让人查。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 654,
+      "criterion": "opening_pressure",
+      "quote": "第五百八十八日，工班要在四层先卸旧屋的门板，好查门后有没有压住走料口的钉",
+      "reason": "工班已经要卸门，住户挡在门口先问将怎么记自己，时间压力落实在同一块门板。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 654,
+      "criterion": "protagonist_choice",
+      "quote": "号可以新取。实出这栏只认接住的人，实到让那头另记",
+      "reason": "祝衡选择让公开代号服务撤离事实，给身份证据保留同意和受托规则。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 654,
+      "criterion": "visible_change",
+      "quote": "头一个新号只填了出门",
+      "reason": "此前讨论变成可用的新记录，另一格仍空，哪次门口有谁亲见可以复查。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 654,
+      "criterion": "emotional_payoff",
+      "quote": "他从头听到尾，才按了见证记，随后仍把凳挪给等换软铺的人",
+      "reason": "一位反对拆屋的人有位子说完反对，也能主动给软铺腾凳，没有为了表态而失去互助。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 654,
+      "criterion": "next_question",
+      "quote": "好让他们亲眼走一次再定",
+      "reason": "封包尚未选定去路，连窄阶上轮给哪双肩都要现场见证，已露出的物理冲突很具体。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 655,
+      "criterion": "opening_pressure",
+      "quote": "近处石墩旁停着四层备用的空软铺",
+      "reason": "封包和一副备用铺挤在同一窄折，另有载伤者的铺在开头赶来，迫使两次转运择先后。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 655,
+      "criterion": "protagonist_choice",
+      "quote": "把封包抬回去",
+      "reason": "林渡先给载伤者的铺留整道石折，封包退回还要保管人和能辨封的成人同去。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 655,
+      "criterion": "visible_change",
+      "quote": "她认到纸只蹭过外层，确认见证成人没掉手",
+      "reason": "封包已有可核的外损，去程取消，回值台补底并写清折返，原件护持状态有了明确变动。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 655,
+      "criterion": "emotional_payoff",
+      "quote": "软铺贴着内手移下去，后肩刚转过，原来靠外悬着的旧布绳已经滑进脚印后面的水缝",
+      "reason": "让路不是手续优先，那个差点踩中的滑绳给延误的决定一项立刻可见的回报。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 655,
+      "criterion": "next_question",
+      "quote": "碰双榫，先拆顶",
+      "reason": "封包有了留处后要动屋架，读者能问两根主梁怎样落下而不把它们或操作人先毁掉。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 656,
+      "criterion": "opening_pressure",
+      "quote": "锯第一次咬住屋顶的木边，里头掉下来一根旧骨针",
+      "reason": "第一锯立即开始兑现拆屋，骨针提示这不是空木料场，而是刚清掉的住人处。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 656,
+      "criterion": "protagonist_choice",
+      "quote": "槐七没让一个人现在往转角抬",
+      "reason": "槐七宁可失去本段凉时的速度也不让人以尚未核过的高抬路线送全长承重木。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 656,
+      "criterion": "visible_change",
+      "quote": "三块木板同时报进去",
+      "reason": "旧屋卸顶后两根主梁与三块合用板有了实际归宿，第四块腐板只留残字，不冒记材料。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 656,
+      "criterion": "emotional_payoff",
+      "quote": "他没将门扇拖回自己脚边",
+      "reason": "槐七能够拆开过去守过的地方，却不能再带着那扇门去补回这份庇护，持续损失落在手边的旧物上。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 656,
+      "criterion": "next_question",
+      "quote": "那块起过锈的旧环恰好不在彼此的视线里",
+      "reason": "整梁转不过窄折，两个工位又隔墙，明知有人仍要查怎样接住叫停。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 657,
+      "criterion": "opening_pressure",
+      "quote": "另一头正盯着架上的梁点角，没见着这一下",
+      "reason": "手势在第一现场就失败，运梁难处发自位置而非临时加来的事故。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 657,
+      "criterion": "protagonist_choice",
+      "quote": "先让头进里侧凹处，留尾过墙，人退开再收绳",
+      "reason": "林渡保住搭梁长度，以实地墙凹改为平转；这比削去一角或加人硬抬更能体现结构判断。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 657,
+      "criterion": "visible_change",
+      "quote": "第二根沿着第一根印下的灰线进到近端石肩",
+      "reason": "第一根让岗、再用同法送第二根，材料全实到近岸；车首车尾仍用原岗。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 657,
+      "criterion": "emotional_payoff",
+      "quote": "年轻抬工回了一个平掌，嘴上再说一遍停",
+      "reason": "刚才想凭熟练直接上手的人，在看不清鞋底时反而肯把喊停说准，下一轮原工也复喊。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 657,
+      "criterion": "next_question",
+      "quote": "谁得拿灯从远边照，才有人知道木头与石头会在哪里碰紧",
+      "reason": "最后一盏灯要换位，目标由保住全长转向找到真正能受力的对岸支点。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 658,
+      "criterion": "opening_pressure",
+      "quote": "刚挨上旧衬木，梁头便压出一处湿窝，衬木外角低了半指",
+      "reason": "旧材料不能兑现保桥，梁刚动就有半指可见的失效，读者知道为何得换支点。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 658,
+      "criterion": "protagonist_choice",
+      "quote": "林渡没让人把绳扎到湿衬木附近",
+      "reason": "他选择重定位在能探查的靠岩铁眼和干岩，宁可耗掉原托架，也避开已经松动的支点。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 658,
+      "criterion": "visible_change",
+      "quote": "两袋相合抵得上这班一名工人",
+      "reason": "两梁两板通过实测只得一人档，另板已落在棚脚；软铺的资格仍要等另一种试验。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 658,
+      "criterion": "emotional_payoff",
+      "quote": "远端第一步踩石的声音沉，后脚离板那一下轻",
+      "reason": "空手试走的第一步真正落石，让细小的改造有了可听见的实际成功，仍保留下一人过桥的风险。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 658,
+      "criterion": "next_question",
+      "quote": "先问反对拆自己家梁的那张纸到新棚以后还有没有人接",
+      "reason": "已能走一人，兄长还要问过桥后异议能否保留，通行从技术变成一次能否接纳人的测验。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 659,
+      "criterion": "opening_pressure",
+      "quote": "对岸的人终于回掌",
+      "reason": "上一章停在近端的哥哥得到回应，读下去要看走桥的人是否把自己的异议也安全带过去。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 659,
+      "criterion": "protagonist_choice",
+      "quote": "林渡托住纸背，告诉他棚前要等接人，把未亲见的一格留白",
+      "reason": "四人已安全落在对岸，林渡仍不拿一次成功抵第二次交接，并保持担架停走。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 659,
+      "criterion": "visible_change",
+      "quote": "梁上第一拨能走的有四，远端桥岗亲见",
+      "reason": "试桥兑现到四名居民，身份和见证能逐人复查；此处只记远端脚落地。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 659,
+      "criterion": "emotional_payoff",
+      "quote": "妻子站在兄弟二人让出的地方举手，罗匠朝那只淡红袖套抬起头",
+      "reason": "罗匠放下代拐小木，仍能认出对面等他的袖套，冷的实验限载转成有人等他过桥。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 659,
+      "criterion": "next_question",
+      "quote": "问能否让他们接一个会扫沟的人过去",
+      "reason": "这四位还碰不到棚前接手，白泥和照不到的石缝引出明确新动作，近端未因求助贸然再放人。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 660,
+      "criterion": "opening_pressure",
+      "quote": "自四人过来便已合带，没有再放过住户",
+      "reason": "第一段用夜间留宿回件、近端一直合带和需重垫的坡脚接住上章卡点。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 660,
+      "criterion": "protagonist_choice",
+      "quote": "林渡请他把“人够不够”分开问",
+      "reason": "分桥、封件、三层接车各自实交；面对不齐的岗，林渡按停工权限列三处替手。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 660,
+      "criterion": "visible_change",
+      "quote": "棚的那一联照亲见写今天四人实到",
+      "reason": "过桥和实到终于合成可复核的两步记录，名下异议仍随本人，车首未承诺出发。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 660,
+      "criterion": "emotional_payoff",
+      "quote": "今天坐着，明天也先坐",
+      "reason": "先前不肯出屋的弟弟如今主动按住哥哥伸向旧窗和铁盒的念头，团聚没有立即补回家。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 660,
+      "criterion": "next_question",
+      "quote": "车场也须找那个能自己叫停的替手",
+      "reason": "技术通路成功后下一批的难题成为谁能接替人，三处都须有人能喊停，而不是只有排班纸。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 660,
+      "criterion": "promise_payoff",
+      "quote": "弟弟只从纸上读出“不同意卸梁”，把下端签过名的地方向掌里叠",
+      "reason": "652撤人免于被迫许拆，656槐七交出自守旧屋两梁三板，660四人实到并让异议原件随本人，兑现留不同意者的路；软铺与原簿仍待另路，留下代价。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 660,
+      "criterion": "progressive_stakes",
+      "quote": "墙下余水开始细细过沟，扫开后只见一线，近端带子还合着",
+      "reason": "把同一条撤路从拆谁的料升级到如何限一人、如何等棚实接，最后即使水路清也因双岗不能同在合门，引出三线替手。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

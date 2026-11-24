@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex-A68",
+  "reviewer": "/root/a68_final",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 771,
+      "path": "异星录/06_执行计划/工作区/A68/第771章_空手先过去.md",
+      "sha256": "ef17edc683915a2702d321dc87bca2a4f27aff96ebe8359e8b77129bc1afe3bf"
+    },
+    {
+      "chapter": 772,
+      "path": "异星录/06_执行计划/工作区/A68/第772章_同一盆水.md",
+      "sha256": "fae2e7dc14907264455e7ac89657b456ae01ef731f61431af2fbe779e0976bf9"
+    },
+    {
+      "chapter": 773,
+      "path": "异星录/06_执行计划/工作区/A68/第773章_谁来把锁打开.md",
+      "sha256": "76efe0aadccfd6c9f52ddc4b75ef0babf18809d880858e2cac01f48c98f5b387"
+    },
+    {
+      "chapter": 774,
+      "path": "异星录/06_执行计划/工作区/A68/第774章_水走哪一条.md",
+      "sha256": "a199b9b97a38559d8119adfd1c01da685f2ce0458178337092b8165ef7157525"
+    },
+    {
+      "chapter": 775,
+      "path": "异星录/06_执行计划/工作区/A68/第775章_多读的一格.md",
+      "sha256": "3c618a17d4cf6b2c265ce31fe887d20e37aceafeeab85d92e946fc3731464726"
+    },
+    {
+      "chapter": 776,
+      "path": "异星录/06_执行计划/工作区/A68/第776章_两边各有一把锁.md",
+      "sha256": "b1c7ba9e44295770b0a5ba9ce6a41077f3f3f7b2d6149044c1e225d86530570f"
+    },
+    {
+      "chapter": 777,
+      "path": "异星录/06_执行计划/工作区/A68/第777章_那块板还要睡人.md",
+      "sha256": "38addaed1413ca9154683bd98a85ae332a8197ce08c0d5e1e817a6b3594c17e5"
+    },
+    {
+      "chapter": 778,
+      "path": "异星录/06_执行计划/工作区/A68/第778章_铜管长了一截.md",
+      "sha256": "ce91da3623c551ef2f4fee739de19413a5a44325578ed2ca2587d81f3169e6e8"
+    },
+    {
+      "chapter": 779,
+      "path": "异星录/06_执行计划/工作区/A68/第779章_少留一张看台票.md",
+      "sha256": "197c531c6b519cdb41650e1498e3db44b325bc239a7c453ea8e784fcc27d0cd1"
+    },
+    {
+      "chapter": 780,
+      "path": "异星录/06_执行计划/工作区/A68/第780章_同时开闸的人.md",
+      "sha256": "538bca36140e02ab1e7eec7cb728cbcfe427cc2d66c655cceb425b8e14e69b0d"
+    }
+  ],
+  "source_digest": "f70727d4797d0222e03979f347abda2e7936713c3c2fa0dcc66e71db99af40ea",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 771,
+      "quote": "才发现干处只够一人站稳",
+      "reason": "两个空手的人已无法换位，抱筒的正式操作者会被卡在外头，第一段即画出可想见的退路险情。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 771,
+      "quote": "不把见过却摸不到的东西写在到料栏",
+      "reason": "林渡在失去旧托木后放弃危险打捞，另求能翻验的整木并承担延工，结构判断改变路线和工量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 771,
+      "quote": "他让许铎在候测图上补一个能临时停手的等位",
+      "reason": "护栏试成后，取水户、带孩子的人和测岗能在真实路线错开，验收从架稳推进到人退得出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 771,
+      "quote": "一位取水人弯腰等住后面一排",
+      "reason": "孩子的鞋跟把图上看似够宽的位置挤窄，等位照应的是读者已看见的普通人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 771,
+      "quote": "两个刻盘上的同一个字，到了水下未必是一个温度",
+      "reason": "安全地把仪器放进水里只解了第一个难题，下一章需要验新旧刻能否互认。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 772,
+      "quote": "刻线上已差了一格",
+      "reason": "在同盆读到不同数，尚未决定该挂哪根，马上危及新架将给出的热界证据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 772,
+      "quote": "在更暖处仍会多一格吗",
+      "reason": "弥娅要求再作暖盆和回凉验证，避免套用任意常数后把冷库的标线误当停线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 772,
+      "quote": "回去只给料棚带两盆比较和一轮闭位实测",
+      "reason": "校过的筒拿到一个闭位结果，同时风阻掉的复测真实留空，设备可用的范围和证据边界都有变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 772,
+      "quote": "那些照旧刻办过的事以后也说不清",
+      "reason": "冷库修工从维护原用习惯转为亲自保留旧记录，自己有机会向同班交待为何不能擦。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 772,
+      "quote": "咱们得先把冷却的水送回哪里",
+      "reason": "一组可信的岸上数据仍带不走机器废热，借件问题从借不借落到回水到底有无出路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 773,
+      "quote": "墙上那张借据的末日已经过去两个多月",
+      "reason": "核心就在眼前而旧许可已过期，如何取得真实新授权进入首段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 773,
+      "quote": "他今日能说到那里为止",
+      "reason": "林渡按亲见限定六层旧图，撤掉重件上楼设想并另查竖道，角色长处落在拉开图与可走路线的差。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 773,
+      "quote": "只许短平段试移与检修侧独立试验",
+      "reason": "阿九与迟棠的分签让封装件从到期扣留变成条件复借，开罩、动原车乃至正式运行仍无准。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 773,
+      "quote": "今天省不出来",
+      "reason": "迟棠撤下自己工班的一档，护送实走之后鞋被认回，读者看见让出平段究竟保住了谁的什么事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 773,
+      "quote": "哪一只关下来能让打水的人仍照常拿水",
+      "reason": "林渡提的检修路线可能撞上民水，下一章得去两端实辨，不能凭保管签推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 774,
+      "quote": "露出壶底盖着的一根细凿痕",
+      "reason": "刚见六层就以仍在使用的壶和误读管路对照，凿痕承诺找出为什么可能关错。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 774,
+      "quote": "本次任何形式的试验不接此线",
+      "reason": "林渡现场截掉图上净供误线，以实际取水户而非楼层图上的捷径规定能做的临时试验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 774,
+      "quote": "把仍闭的冷却单元缓慢移到靠山检修间",
+      "reason": "两路分验和安全平段给了实物新的所在地，仍封罩把本章兑现限定为可建试位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 774,
+      "quote": "两次的水不入净水井",
+      "reason": "签画的底线在第一次双向出水后有实证，药棚和各户得以照常提水，保水承诺出现可核的兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 774,
+      "quote": "哪一条只去吸废热，哪一条仍照原来的班给人",
+      "reason": "有人把通管读成即刻供凉水，下一步须分清带载能试出什么及居民还需等到何时。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 775,
+      "quote": "是否就仍在原来那条界里",
+      "reason": "两份读数一高一低，合并看似方便，却将谁来承受累热直接带进首段。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 775,
+      "quote": "也不能拿那点凉让东岸低石边的人等着热来",
+      "reason": "弥娅按各岸受水位置保留偏热独立记录，选择撤宽开而不拿西岸经验替另一岸答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 775,
+      "quote": "第一划之外先不能进",
+      "reason": "第二档由备选变为暂禁，有字竹筹只作练习，西岸还准备把限制装到柄上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 775,
+      "quote": "她想来问修的人明天到哪儿等工，没打算坠到沟里偷捞",
+      "reason": "等修鱼栏的人已有真金白做的绳工，她的关切被听成找正经工路，行动风险因此落到普通家庭。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 775,
+      "quote": "西院的人该凭什么先停",
+      "reason": "禁用第二档还不足以保护第一档，跨岸传令慢促成下一章现场停权难题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 776,
+      "quote": "另有一个人举着继续的牌，他会不会继续",
+      "reason": "接声丢失但眼前有人主张继续，干练直接检验谁能压过这块牌。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 776,
+      "quote": "问印若落下之后，东侧一名值班手发现本岸回水脚仍超线，他能做什么",
+      "reason": "弥娅把共同授权变成对当地值守者能力的当面提问，保住分岸否决和检修地本地退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 776,
+      "quote": "后三页留下每处现场原人的签口",
+      "reason": "单方旧方印退场，共同候窗成了必须保全本地签和各地自停的约束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 776,
+      "quote": "将手转向西岸自己的柄位",
+      "reason": "常送水的人能指出真该问的活人，假纸的恐惧经一次普通人能做的求证得到回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 776,
+      "quote": "回水走不到标过的盘，这一天就留给他们收线",
+      "reason": "第一候窗报名给出时间压力，能否接在独立回路上决定下一次是否要关着等。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 777,
+      "quote": "手压装置第二次抬起时，忽然轻了一点",
+      "reason": "回程手感变化而三层看不到上面接盘，是否收住受压系统在开头即成悬念。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 777,
+      "quote": "回水位申请的长板仍写缺",
+      "reason": "林渡听完本人明确拒绝后让缺额保留，试验不得把一个人的夜宿记成可支用材料。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 777,
+      "quote": "看得见最重的一次没有再弯",
+      "reason": "裂托问题由另外获准的板和碎楔解决，能力增长是满盘支得住，交换的是三户大件运次。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 777,
+      "quote": "在签处写下“夜里睡人”",
+      "reason": "上回被迫坐三夜的人当面限定借物，碎楔另记使他既能护床又能按意愿帮工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 777,
+      "quote": "暖起来的那一截还得另外看",
+      "reason": "水冷态来回与满盘承托刚通过，马上要面对带热后看不到的回段位移。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 778,
+      "quote": "墙上那道原本笔直的粉线歪出了一个尖角",
+      "reason": "吃载立刻有可见异常，盆底摩擦加强危险，迟棠当场决定撤。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 778,
+      "quote": "六层收水初稳，三层仍然有停项",
+      "reason": "林渡把两地证据分开，拒绝让热水到盘的成功抹掉近端危险或提前发联动告。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 778,
+      "quote": "移位留在曲接的新标记里",
+      "reason": "新支托允许曲接受热位移，复验保住低档，批准范围比首次带载有具体增长。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 778,
+      "quote": "第一天先看错了一眼是事实，后来收住台也是真的",
+      "reason": "青年留存自己误看的一眼仍可交岗，承认错误和信任恢复由人开口兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 778,
+      "quote": "拿到以后，谁舍得先关",
+      "reason": "珍贵候窗、真实工钱和只剩一格电使地方停权终于要从纸上变成一次疼痛的选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 779,
+      "quote": "许铎正一块块解下来",
+      "reason": "原来要看的第一候窗当场撤去，盼领牌者赶来的付出也一同出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 779,
+      "quote": "她把原本拨来看台的两人请来",
+      "reason": "弥娅拿明确的庆典工转护退，保住冗余退路，向迁居缺工另算明白。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 779,
+      "quote": "西院院板上挂的是东岸实收、本地实收、三层六层实收三张独立签",
+      "reason": "首窗因缺件守闭，次窗实到足件已能按各自条件候试，制度改变了可行动状态。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 779,
+      "quote": "等我收了，还得把收的时刻写给他们",
+      "reason": "看客可能白请假，老人谈的回应是把停时也写回去，这使没有庆典的付出获得人的承认。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 779,
+      "quote": "她便会请他把那两行继续留空",
+      "reason": "前日签齐给了动手资格，临场若读数不到她仍会留空，下一章必须兑现不补空格。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 780,
+      "quote": "木挡碰到第一划的止位，只传来一声短闷响",
+      "reason": "开章明确终于动了受限首档，读者跟弥娅脚下水尺走，不会被航线远景分散。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 780,
+      "quote": "她立刻朝柄位翻了停牌",
+      "reason": "弥娅舍掉一条好看的加读，原柄手确实凭回报和牌停，兑现主角与本地操作者可分权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 780,
+      "quote": "到西岸记下第二轮读数，这股回流和两个获准开位仍同时存在",
+      "reason": "东岸回件到后才拼出同窗真实重叠，首次运行从候议、各自局部试变为确证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 780,
+      "quote": "她想了一下，没有让人摘掉那块牌",
+      "reason": "门外庆祝与门内止牌和迁居回话并存，工的成功留给晚来搬箱的人真实位置和工具。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 780,
+      "quote": "又请人把回温未退的那几处，写到明日候运的纸顶上",
+      "reason": "余热和搬家挤到同一张次日工纸上，下一篇得为这群仍在原地的人验路、运物、续人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 780,
+      "quote": "这股回流和两个获准开位仍同时存在",
+      "reason": "771人从新处退、772温筒同盆确认、774独立去回线、778低档复验先兑现各分项；779首窗按截止失约，780第二窗三处实做、分地各停，直到D817由各原记录重合证成。未验证的宽开与后续供水保留到之后，不以成功之名画满。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 779,
+      "quote": "单岸第一档与本地核心的低档试限，就是为承受另一处不动而留",
+      "reason": "篇前试的是一个托筒人能否退出，随后变成两岸各自热界和跨层民水，床板、三户大件、首窗、迁居与庆典人力以及三格电依次付出；篇末谁能在另一处未知时叫停的规则在真实潮窗承受检验。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

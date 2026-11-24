@@ -1,0 +1,19 @@
+{
+  "scope": "pre-snapshot-binding-diagnostic",
+  "not_quality_verdict": true,
+  "report": "harness/maintenance/R005/B15/recheck.json",
+  "report_sha256": "de6373f9be7aeede4853f30c804a57a6188c58d926ad06830b49b27a1cb2aa16",
+  "observed_manifest_row": {
+    "chapter": 141,
+    "path": "异星录/正文/第二卷_黑暗断阶/第141章_先问活下来的人.md",
+    "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+  },
+  "actual_published_sha256": "6c576b4bc35d0f44b2a9ea12a9884c3215842c172b19fec9c149215bae71fb00",
+  "actual_work_row": {
+    "chapter": 141,
+    "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+    "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+  },
+  "error": "主manifest把正式正文路径与工作稿SHA混配，冻结脚本拒绝；已请求真实独立审读者纠正路径与digest，不由主笔替签。",
+  "manuscripts_changed_by_diagnostic": false
+}

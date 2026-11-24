@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B19",
+  "report_version": 2,
+  "source_digest": "40ebb23a58254799a3ef26887bc65b486d6af470d8a0fbd4e59b53c40f2607eb",
+  "summary": {
+    "total_issues": 46,
+    "closed": 35,
+    "pending_author": 11,
+    "open": 0,
+    "unresolved_blocking": 9,
+    "reader_checks": 52,
+    "reader_checks_pass": 40,
+    "reader_checks_needs_revision": 12,
+    "editor_log_entries": 65
+  },
+  "manuscripts": [
+    {
+      "chapter": 181,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第181章_只说亲眼见过的.md",
+      "sha256": "08c179fa5de840a6d29e90ae5fcb72c06edbd16eb8a4b41fb053afb724125cd6"
+    },
+    {
+      "chapter": 182,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md",
+      "sha256": "23c83fd3d89fb7460ce566edf581f79efd2f0db13fdc50503cb611fcfa917050"
+    },
+    {
+      "chapter": 183,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第183章_签过封锁的人.md",
+      "sha256": "ecfd7505b1d25e32d7245102a2dc9cf825639af57ce560f7b57ad67c2ebb2436"
+    },
+    {
+      "chapter": 184,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第184章_听完也不必原谅.md",
+      "sha256": "26dc1fbd86413a88fd1adca9e3cab1989013a0052665f53d67194db55166b999"
+    },
+    {
+      "chapter": 185,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第185章_哪一件先送走.md",
+      "sha256": "085b27e36ce4d02a4d49fb7fdece4eb27757baf10aa58f77470a32ecb6c1d3c9"
+    },
+    {
+      "chapter": 186,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第186章_缺口不补成一句话.md",
+      "sha256": "8c57ceed6cb917a4cae68c64747cd6d0f792d623b2a31f55c5632dc3addd1492"
+    },
+    {
+      "chapter": 187,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第187章_不是一只手点的火.md",
+      "sha256": "9635f0ef083dcd7ca1341690646f699ccf004b093f62daf8254e70994699dc87"
+    },
+    {
+      "chapter": 188,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第188章_谁签了哪一笔.md",
+      "sha256": "277a4c0d4789a48fadbb5ef7a63c3fff7f59c274f721dd5fe918fedfeac2fd81"
+    },
+    {
+      "chapter": 189,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第189章_被划掉的不是一户.md",
+      "sha256": "b06a72adbb8878c75922b37d3ceff08df3e489f96fa5bdf2e25944c7eb4439bd"
+    },
+    {
+      "chapter": 190,
+      "path": "异星录/06_执行计划/工作区/R006-B19/第190章_留下名字的人.md",
+      "sha256": "5ad26c312de62255f5147cebf04ab2c465c05781bc519799ebddd994f40258ed"
+    }
+  ],
+  "report_sha256": {
+    "final2.json": "08486ed44bfe10ee4ae8c8b0c80bad8be5f1e84e108f451f8bae507c850851ec",
+    "final2.md": "1fc730d50a23381a01c3388c03fd42fe01dd6b2613f4d3ab63f9809a1c64ed0d",
+    "reader-review.v2.json": "4dd0047431fa6850fa78f9ec54c9b1a2d442cf78e9a23c90a1a06ff300631951"
+  },
+  "history_preserved": {
+    "final.json": "dba6472a824a925f543659e3de782427719d092546eba19ff858b873b324602d",
+    "final.md": "2aa099aec198093da898caf52b09978ccf6170d4b33e9314d4e2a59109566fe0",
+    "reader-review.json": "daae6037fd2fda3246a84b12e230cb1b03fa5b40cf0b9d1d704ddc50d2ebe8f7",
+    "final-validation.json": "dd0d11d1b061f5c2ba012b190f578008b63cad3e05b056b4d0ca6778620140a7"
+  },
+  "mechanical_format_coverage_quotes": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "require_pass_result": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "classification_only": true,
+  "checks_unchanged": true,
+  "ordinary_open": [],
+  "pending_author": [
+    "R006-B19-002",
+    "R006-B19-008",
+    "R006-B19-012",
+    "R006-B19-021",
+    "R006-B19-022",
+    "R006-B19-026",
+    "R006-B19-029",
+    "R006-B19-033",
+    "R006-B19-034",
+    "R006-B19-035",
+    "R006-B19-037"
+  ],
+  "issue037": {
+    "status": "pending_author",
+    "needs_author_decision": true,
+    "language_status": "closed",
+    "resource_source_status": "pending_author",
+    "quote": "差的那一勺，是给井房那只灰鸟留的——照护组的孩子舀的"
+  },
+  "note": "正文、初审、原final均未修改；仅追加v2报告。事实issues，追读needs_revision。"
+}

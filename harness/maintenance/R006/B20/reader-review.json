@@ -1,0 +1,456 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R006-B20",
+  "stage": "post_revision_with_latest_two_edit_short_recheck",
+  "created_at": "2026-11-07T14:25:45+08:00",
+  "writer": "R006-main",
+  "reviewer": "01a1b471-da2f-7fc3-a3d8-2e15d3a16abc",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 191,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第191章_塔灯换回原色.md",
+      "sha256": "259d31056ae113d26681bd02b669d58d027d0ea47aabc0353b454887d16aad4a"
+    },
+    {
+      "chapter": 192,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第192章_门后只剩这些回应.md",
+      "sha256": "ad9fddbea8d35b2654366335841cf8effb6348da96ebfffe98e3944e91242396"
+    },
+    {
+      "chapter": 193,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第193章_柜子留在原地.md",
+      "sha256": "3cda0f24adc03e64742db8c66d06e5506309f624730c86f52b1989b81dac5ec3"
+    },
+    {
+      "chapter": 194,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第194章_再报一次自己.md",
+      "sha256": "ddcc013363877e913e825ce8326d89f86b5acc8b94ed87b752a923d5cfb58a3e"
+    },
+    {
+      "chapter": 195,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第195章_谁回去查那根线.md",
+      "sha256": "95cbf0ca12b96210ee0298f762cb1d7d1b4f1466b3b6a2d7ff3da5b95617cc3c"
+    },
+    {
+      "chapter": 196,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第196章_只回答眼前这一端.md",
+      "sha256": "ace8758fde6a9eda0ebadedd7d96cd08161dd3a78476c1fcac9f670e3b90ef61"
+    },
+    {
+      "chapter": 197,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第197章_把没听清的留空.md",
+      "sha256": "ac57661aa00a2ee05953aba2733e85b6e4991c94c0fd2dce14638744dd505208"
+    },
+    {
+      "chapter": 198,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第198章_门和隧道不是一回事.md",
+      "sha256": "60f8ff8658beb909dca140e5ae449834b873ab51139fe56d71c492eabbddc662"
+    },
+    {
+      "chapter": 199,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第199章_走出去的人还要喝水.md",
+      "sha256": "de6bce551c52c2f742d725fca2c743dcb290583e2089cd7cbea8a3a522f5a165"
+    },
+    {
+      "chapter": 200,
+      "path": "异星录/06_执行计划/工作区/R006-B20/第200章_只开这一段.md",
+      "sha256": "df1ee7ea2389a4ca44df141645344221438e2b5889b6a8a0df18b30ac583bdbd"
+    }
+  ],
+  "source_digest": "8f99f2ceacf59aeeec7cb19e4444b9bdcc70104bd1adc74cb36062359cf33143",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 191,
+      "quote": "泵大修的日子，是约上写好的那一天。",
+      "reason": "约定到期即交塔，后续缺水压力有现实期限；不是空泛报日。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 191,
+      "quote": "闸坏了，先渴的是坡腰凳以下。塔是塔，账是账，路修了大家走。",
+      "reason": "面对破闸报复，仍选择保共用供水，不以敌我抹掉近处代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 191,
+      "quote": "主队那一栏，林渡自己裁下来",
+      "reason": "共管权实际退出，双签栏入匣；纸上保留不等于还占操作权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 191,
+      "quote": "“注要不要擦？”",
+      "reason": "学徒询问眉注、庚二让留下，劳动影响在具体手册中延续，告别有可见回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 191,
+      "quote": "一样一样，都得赶在断供日之前，走到该去的地方。",
+      "reason": "失去塔权限后的转人/转水有具体目标与时限，接核人不是凭空换场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 192,
+      "quote": "居住段的最后核人，从东头第一间开始。",
+      "reason": "最后核人与可达门号给出当日任务，外门撑出险把整理变成限时作业。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 192,
+      "quote": "“这墙不动。”",
+      "reason": "不为了补齐未知而破坏管线；保留未明是行动中的克制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 192,
+      "quote": "可达十二间，九空有主，三间无痕；隔断后头，未明。",
+      "reason": "核了哪些、得到怎样的分组仍受九空/三无痕/锁户及九短/十二短冲突牵制，读者难稳定复述核人结果。",
+      "verdict": "needs_revision",
+      "action": "裁清应答/照管痕/锁闭状态的集合并补位置链；不要为整齐凑人数。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 192,
+      "quote": "屋子替你们看着。哪天有人回来，进门就能住。",
+      "reason": "守空屋人的等待通过可住状态和一句话兑现；不必替未知住户确认生死。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 192,
+      "quote": "明天还有两遍——晌午翻册，傍黑对声。",
+      "reason": "次日交接与验撑再叩都有可追行动；三遍跨几日属事实待裁，不虚称没有钩子。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 193,
+      "quote": "取档只能插在趟与趟的空当里。",
+      "reason": "取证与转人争同一人手和窗口，读者知道不能无限取档。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 193,
+      "quote": "跟已核的链对得上的先走",
+      "reason": "有限匣与脆纸迫使挑页留柜，选择有不能带走更多证据的代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 193,
+      "quote": "匣装满，弥娅用左手在匣皮上写了号",
+      "reason": "有一匣取出和门线新证，但隔层弥娅与匣、图何时接触没承接，多人限员进退也断，实际取得链条仍卡顿。",
+      "verdict": "needs_revision",
+      "action": "补现有人和物的交接位置，不凭空让伤员出入；保留一匣/三柜/短门事实。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 193,
+      "quote": "我们带走的只有挑出的这些页，剩下的还在柜里。",
+      "reason": "不再用柜被清只剩木头抹掉损失，有限取证的成果更可信。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 193,
+      "quote": "柜后的线往哪里去，下一次得拿着这页位置记录回来核。",
+      "reason": "原多年不查预告已去，线走向与带记录回查形成事件+人物下一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 194,
+      "quote": "最后一批出段，是在最后一遍交接念完之后。",
+      "reason": "旧维修者终于要离台，最后一遍知识交接与转运绑在一起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 194,
+      "quote": "让我自己挪。这三步，是我自己的。",
+      "reason": "让当事人自主移动、自选号，不把救援写成主角替别人决定身份。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 194,
+      "quote": "五十二口落棚，一个“在”字不少；老陈那一格空着，候他自己走上来。",
+      "reason": "本段到达/在途分开，有位置变化；此项只判局部结果表达，不认证48原基数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 194,
+      "quote": "哪天你想填了，笔在你手里。",
+      "reason": "系统死亡与本人重新答在、保留命名权构成实质情绪回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 194,
+      "quote": "空格留着。他说过，笔在手里，日子长。",
+      "reason": "人物会否取回名字与老陈待回共同留下温和追读问题；不强制每章突敌。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 195,
+      "quote": "人是齐了，事没齐。柜后那扇门、那两股去了向的线",
+      "reason": "安置后未查门线接上，电只够一回的限制把新任务压实；局部病句另修，不否认任务成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 195,
+      "quote": "查线能留在门外做，电用尽了，也不用摸黑从没走过的地方退出来。",
+      "reason": "两个方案都有价值，查线因现有返回风险较低而胜；不再给另一方案虚设无价值。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 195,
+      "quote": "回四层一行七人。",
+      "reason": "议事成为明确出发与登记电源；谁双扶板仍需事实补清，不用新增人员去凑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 195,
+      "quote": "两组频率该怎么核，听到的生字该怎么分辨，你们谁能替我？",
+      "reason": "弥娅以不可代的辨频辨音任务争取同行，并受托板/不入门限制，不是无伤赴险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 195,
+      "quote": "今天这一枚格，得让它听得见我。",
+      "reason": "说给机器听的主动行为将下一章问题具体化：是否收到回应、只一次电能带回什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 196,
+      "quote": "水袋暖了手，她才开始接线。",
+      "reason": "手伤与凉气直接决定能否操作唯一电源，压力体现在动作条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 196,
+      "quote": "够不着的先放下，够得着的，是“这里”。",
+      "reason": "不越海端权限，把能力集中眼前线路；后面坚持不猜密音。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 196,
+      "quote": "起于问话末音，止于底噪复匀。",
+      "reason": "回应和留痕确实取得，但47息记录终点与前文回码端点冲突，核心可复测成果暂不能稳定交接。",
+      "verdict": "needs_revision",
+      "action": "先裁/修47息起止与整场计时，保回码和密音两轮分记，不加电或再通信。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 196,
+      "quote": "站里有没有人，我听不出来；现在回答我们的，只有机器的旧码。",
+      "reason": "没问到人话仍得到本端机器回应，有限胜利可信；伤与耗电没有消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 196,
+      "quote": "哪天有了别处的对样，点点自己会开口。",
+      "reason": "不清密音需要将来对样，下一章先交原记核口径，有双层行动理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 197,
+      "quote": "今夜这一页纸要是丢了、洇了、抄错了",
+      "reason": "把通信成果变成证据的可靠性风险，不是重新开机器循环一遍。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 197,
+      "quote": "“我想了。”他说，“我不说。”",
+      "reason": "林渡有解释冲动却选择不替弥娅编字，关系原则靠具体抑制落实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 197,
+      "quote": "两个人各用各的笔，在圈的边上落了名。",
+      "reason": "画圈制从对话到共同签名，关系行为规则实际增加。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 197,
+      "quote": "给弥娅姑娘。她耳朵里的东西，值这半勺。",
+      "reason": "居民在缺水中赠实际半勺，有限通信并非无人回应，温度有资源代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 197,
+      "quote": "往后再核这条线，先对原记；谁另有新证据，回来时也得摆给对方看。",
+      "reason": "下一步查线受双方互核约束，去掉作者卷次总结后仍有可执行承诺。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 198,
+      "quote": "转运的趟子排在了后半天，坡上的汽歇窗留给进段的人。",
+      "reason": "验门占用真实调度窗口，工具、六人和三步检查迅速进入行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 198,
+      "quote": "框和铰位吃不住，就到这里；撑得稳，才进两个人。",
+      "reason": "能否进入由既有构件状态限制，主角不把好天当安全保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 198,
+      "quote": "先开三指验气，再撑到容人通过；两人查至近二十步，退时画十一止步线；门复留一指，贴砖听到远响未明。",
+      "reason": "开度、同次进退、止步线与复原状态完整，是可复述的局部开门成果；不等同主隧道通车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 198,
+      "quote": "今天验过到尽头，不等于往后谁都能再走。",
+      "reason": "探到尽头却把权限收回十一线，克制与未来人员安全形成不同于战利品的回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 198,
+      "quote": "你们听见的，我没贴砖，不能替你们定是什么。",
+      "reason": "未知远响由真正听到者报告；是什么仍留着，读者能追而不被假全知提前解答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 199,
+      "quote": "缓冲的水一天一勺一勺地薄。",
+      "reason": "上游停供与缓冲日分别解释后，薄份和增耗把照护压力带回主线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 199,
+      "quote": "路没通，水不能私给。",
+      "reason": "匀成人保两头孩子的后续选择有代价，但前面为何拒绝已到分口的人未明，可能先制造困境再宣布救助。",
+      "verdict": "needs_revision",
+      "action": "先裁分配权/并册规则与居民自份调剂的边界，不追加硬拒救规则。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 199,
+      "quote": "联络组的人手定了：槐七、六叔，加塔上借来的学徒",
+      "reason": "三名正式留守者在199落定，与198随行学员分开；邻棚十一户进待通而非直接变成棚内总口数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 199,
+      "quote": "勒成人的，保两头的小的。",
+      "reason": "救助扩大不是无代价施舍，现有成人巡夜体力要承担，选择能落到人身上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 199,
+      "quote": "等着回五层去核的欠账。",
+      "reason": "返回五层并册、兑现匀份是明确下一步，水账成为新的行动压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 200,
+      "quote": "离开四层、回五层公布之前，短门还得验收。",
+      "reason": "去掉“这一卷最后正事”，开头直接给出验收/转账/晚间公布任务。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 200,
+      "quote": "“查。”林渡说，“从明天起。真实居民，一笔一笔找；那笔水，一节一节追。人找齐了，水的账才算真平。”",
+      "reason": "没有借收官宣告结束，主角承接找人与追水；D67耽搁由201已明示，不在此重复猜补。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 200,
+      "quote": "站账只到段，段以下，黑着。",
+      "reason": "新抄页只能推进到账面七号仍发水，后文却认定终端安心喝水，调查成果被叙述提前夸大。",
+      "verdict": "needs_revision",
+      "action": "保账面异常与追支路任务；终端身份/罪责按待裁证据界线处理，折月分母另核。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 200,
+      "quote": "吊伤缓了些，旧伤却仍牵着，动作只做到半途",
+      "reason": "林岑在具名与公布中仍受旧伤限制；已救答在、失联不销提供有限收官，不以治愈抹责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 200,
+      "quote": "这本账，明天起，归他念。",
+      "reason": "空户七号、水的支路与真实居民提供具体调查方向，人物接责；即使有过早结论需修，钩子不属空神秘。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 200,
+      "quote": "救出来的，账上有名；没到的，账上留着位置。",
+      "reason": "本篇确兑现取档/六一出段/通信/开短门，但人口基数、取档位置链与通信时数使“交割清楚”的完整兑现仍欠证。",
+      "verdict": "needs_revision",
+      "action": "先闭合本批普通位置/记录问题并保留人口等待裁；不靠增加新救援事件制造大圆满。",
+      "scope": [
+        191,
+        200
+      ]
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 199,
+      "quote": "成人份已经薄了，再勒，夜里巡坡的腿就要软",
+      "reason": "由交塔失权→唯一电源选择→受助群体扩大，资源与责任都逐级增加；不是十次重复开门验账。",
+      "verdict": "pass",
+      "scope": [
+        191,
+        200
+      ]
+    }
+  ],
+  "verdict": "issues",
+  "source_review": "harness/maintenance/R006/B20/final.json",
+  "read_process": "最后195/198两项实际修改后，重新完整读195与198并核其相邻上下文；另八章哈希未变，因此不重做无变化的整轮。",
+  "coverage_limits": [
+    "只签191—200本轮指定字节的审读；1—190未重新逐章全文审计。",
+    "201的37→24件、D67整理/D68查水依据用户已核接口说明，不冒充本人全文审过201；这两处不报断日/水量缺口。",
+    "201以后性别、叙述者与剧情不在本批，未建议越界修。",
+    "人口、电池上游、历史年龄/身份与水量分母保留待裁，未造新人数/新热源/新行程来凑平。",
+    "真实第一页/第1—3章不属本批；52项仅十章持续追读，不倒签全书吸引力。",
+    "纯汉字合规不等于事实或追读通过。"
+  ]
+}

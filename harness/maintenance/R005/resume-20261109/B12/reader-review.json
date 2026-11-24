@@ -1,0 +1,483 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reviewer": "/root/review_201_220",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 111,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第111章_不走来时的路.md",
+      "sha256": "f006f8c81e34bf68382aca2405a3163666c7e921da4865c40425883ad2581282"
+    },
+    {
+      "chapter": 112,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第112章_梯上没有担架宽.md",
+      "sha256": "b114fc11bce56a6f22bc64c8926a7184801a495ee0730841bddf8640fc2c6edc"
+    },
+    {
+      "chapter": 113,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第113章_死人按不亮的灯.md",
+      "sha256": "d698f7e7c505adc72c65c4f516f9dea59f82d19e05cbd744fbeb5aa26ace6ab2"
+    },
+    {
+      "chapter": 114,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第114章_把拒绝带回来.md",
+      "sha256": "dfc6887b2b7e10b68a74682cd811428de349886f4f3ff862ac04c976ecd6e9fb"
+    },
+    {
+      "chapter": 115,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第115章_空担架先下.md",
+      "sha256": "99b5c85ca6d2c15f0f4680a437d7a75a439595b2c4297ee25c129e8a5e0b1e43"
+    },
+    {
+      "chapter": 116,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第116章_只换裂开的那块.md",
+      "sha256": "543f6b2030feab803418c740b4fabe806d7f140406c9612039a0b5a78f3d7167"
+    },
+    {
+      "chapter": 117,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第117章_谁留在最后一班.md",
+      "sha256": "c7bf21f4d6447d547522783b42d49e7504abdf4729073e56ec505d225b60d8d6"
+    },
+    {
+      "chapter": 118,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第118章_先接水还是先接人.md",
+      "sha256": "7518a6077da6ebedc94185b96bc3f55f42944ce9a29d33119f9b80b743bc52e0"
+    },
+    {
+      "chapter": 119,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第119章_盐湾不是口令.md",
+      "sha256": "d6e4287bcd7eb6dd52888d7767a4760fdb054cb9e9846a6112abac9f7356b76f"
+    },
+    {
+      "chapter": 120,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第120章_下一处水从哪里来.md",
+      "sha256": "09bfcec4a103b25a6c97cf750e09a50a3a11cbc6e7156f0eefdb85b081f2dc97"
+    }
+  ],
+  "source_digest": "48226d065c1a599193cfe0ff19ef3974cc7c06332cb2f60c945105d960947598",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 111,
+      "quote": "廊里的睡轮换到第二班，林渡就醒了。",
+      "reason": "值守也不能睡，七层压力持续。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 111,
+      "quote": "“走检修段。货井留给货。”",
+      "reason": "主角舍快路、选可核分段路线。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 111,
+      "quote": "中段第三块板吃重发闷，得换。",
+      "reason": "闷板与最短灯隙把下路变成可操作难题。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 111,
+      "quote": "“路划在册子上，”他说，“别划在地上。”",
+      "reason": "槐七抹地面线、留册上路是有用的人格动作。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 111,
+      "quote": "“三十息，取最短”",
+      "reason": "三十息给下一章量宽/搬运的紧迫问题。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 112,
+      "quote": "挪人之前，先量梯。",
+      "reason": "量梯而非直接挪人，马上遇净宽。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 112,
+      "quote": "“孩子的垫子不动。托板从工班借。”",
+      "reason": "保睡板改借工班板，主角承担借债而不让孩子承担。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 112,
+      "quote": "四块板在梯口排开",
+      "reason": "四板一毡经真实往返送到，逐人量身可全身实托、留病者原垫后先试板；借物增加真实赔债。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 112,
+      "quote": "“拆一块，我们也能睡。挤一挤，暖和。”",
+      "reason": "孩子愿意让板、主角保住它，回报具体。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 112,
+      "quote": "先空板三趟",
+      "reason": "空板三趟只查卡碰，下一步还要称真实需托者和配重，不能直接上人；115兑现试验承诺。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 113,
+      "quote": "祝衡出门前，先在廊口把两只手重新缠了一遍布。",
+      "reason": "布条伤手让侦门的每个动作有成本。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 113,
+      "quote": "他没有走官署那条捷径。",
+      "reason": "只放一人的门前转身，选择明确。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 113,
+      "quote": "本人试门两次，无灯、无语音；",
+      "reason": "无灯记录与腕损/死亡登记分记，产生可查信息。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 113,
+      "quote": "从前这段躲巡查的路，他走的是另一头。",
+      "reason": "前巡查成躲灯者的身份落差有情绪重量。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 113,
+      "quote": "窗里看见联杆，老式工具口还在。",
+      "reason": "祝衡带回联杆位置与未验限制，下一章由懂行者有限查门，未知仍具体可追。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 114,
+      "quote": "祝衡的纸摊在梯口的箱顶上",
+      "reason": "带回的纸被逐项核，不是当秘密百科。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 114,
+      "quote": "不进常规路线；是否还在，走前重查。",
+      "reason": "出口仅应急且走前重查，限定承诺。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 114,
+      "quote": "护盖已动、铅印已碎。",
+      "reason": "铅印破碎是查门付出的可见政治成本。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 114,
+      "quote": "纸进了册，祝衡这一趟才算走完。",
+      "reason": "祝衡纸成为公共册证据，回报他的留队。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 114,
+      "quote": "“名册上有我的班，没有我的名。",
+      "reason": "替班有班无名的疑问让名册威胁落在具体人。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 115,
+      "quote": "三趟空托板走稳，试重开始。",
+      "reason": "从三趟空板转实际配重，需借同一秤、付借损并占用人手；开局承接明确。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 115,
+      "quote": "“换板。这一段不过人了，修好了再说。”",
+      "reason": "裂声后主动封路，付出失去凉窗而非硬冲。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 115,
+      "quote": "“咔。”",
+      "reason": "裂板与断股是真变化，伤者没有去试命。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 115,
+      "quote": "那孩子听完，郑重其事地朝沙罐点了下头",
+      "reason": "孩子向沙罐点头，动作小但回报真。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 115,
+      "quote": "“先修板，”他说，“再谈过人。",
+      "reason": "换板材料与所剩时间同时压向下一章。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 116,
+      "quote": "隔棚在井道往里第三个拐角",
+      "reason": "找料必须走窄台而非素材凭空出现。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 116,
+      "quote": "“那根是承重梁。”",
+      "reason": "拒承重梁、只拆隔板，物理代价具体。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 116,
+      "quote": "换板一段，余料一块，隔棚减遮蔽一处。",
+      "reason": "修1留1且失遮蔽是资源闭环。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 116,
+      "quote": "“一截也不行。”",
+      "reason": "一句不能拆承重梁让群体规矩不靠战斗成立。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 116,
+      "quote": "把蓝点细支的位置报给他，先核接口归谁管",
+      "reason": "四板逐板同载全线复试、换板与借还结清后，蓝点管把下一目标指向六层接口当班者。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 117,
+      "quote": "复试过后，岑野先带接手的健康居民到六层落点",
+      "reason": "复试耗尽凉窗，重测夜轮再接首8孩与两需托；新落点扩大睡位也摊薄人手。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 117,
+      "quote": "“那就两本交班。”",
+      "reason": "主角接受两账与杜姨守岗，但保半夜换班。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 117,
+      "quote": "成人饮水减额，先保孩子和发热的。",
+      "reason": "让份逐个问本人，三人为见证而非代所有人减水；两地水账与短缺同时成立。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 117,
+      "quote": "梯口的岗给我。我认人的眼睛比你毒",
+      "reason": "杜姨认人守梯的岗位选择有温度。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 117,
+      "quote": "明天一早，我去跟看表的人谈。",
+      "reason": "次晨找看表人谈孩子行，下一行动明确。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 118,
+      "quote": "六层配水点的门，是林渡敲开的。",
+      "reason": "门开即谈有见证的水，短承接。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 118,
+      "quote": "“接人的手不动。",
+      "reason": "接人岗位不抽，水接力另排，组织成长具体。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 118,
+      "quote": "接满两只桶，丁字三却把龙头拧上了。",
+      "reason": "两桶兑现后新维修条件出现，保持阶段回报。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 118,
+      "quote": "“这边少了半口！”",
+      "reason": "裴七不能扛桶但能发现少半口，保其能动性。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 118,
+      "quote": "弯头一处，浸油待卸。",
+      "reason": "浸油一夜与末批明晨并行，下一章有人与水压力。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 119,
+      "quote": "档片被她从怀里掏出三次，又放回去三次。",
+      "reason": "开篇那天下午显出回118同日午后，档片三取三放都被伤腿/传纸/孩子哭声打断，当前优先级有身体成本。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 119,
+      "quote": "她把话咽了回去。",
+      "reason": "拒由乡音认族属，具体停住一句话。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 119,
+      "quote": "第三回，整只手放了上来",
+      "reason": "孩子自愿递手，人与关系改变可感知。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 119,
+      "quote": "“是我外婆的。”",
+      "reason": "外婆规矩只背书自家经验，情感有边界。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 119,
+      "quote": "明晨我先看他们攥着什么。",
+      "reason": "抱壶孩子睡稳兑现沟通回报；末接明晨新来者照护，杜姨承诺先看而不预画同样壶，具体接120攥袖的选择。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 120,
+      "quote": "末批是晌午前续下来的。",
+      "reason": "末批到来兑现先保接手的承诺。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 120,
+      "quote": "“轮值得先跟五层谈拢了再排。”",
+      "reason": "主角先谈范围人数水额再排轮值，保代价。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 120,
+      "quote": "合成四十八条阶段登记，不是眼前全队的总人口。",
+      "reason": "末批D4抵达且林栖最后下行交账；48只合相同范围阶段条目，三留守仍单列，不升全队总人口。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 120,
+      "quote": "孩子肯跟她走了，她才低头核下一行。",
+      "reason": "杜姨等孩子自己递手，回收119交班。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 120,
+      "quote": "下一处水在五层，路在纸上画着，账在册子里立着，都等天亮。",
+      "reason": "五层谈水把长期工程带入下一十章。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 120,
+      "quote": "末批是晌午前续下来的。",
+      "reason": "舍快货井→借板→真称配重发现裂板→换板逐板复试→D4末批落地，慢路承诺付出耗材/时间后兑现；119交班方法在120由杜姨先看攥袖再等回应回收。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 120,
+      "quote": "长活就得有长活的说法——谁做、做多少、歇不歇，都得白纸黑字。",
+      "reason": "路线安全上升为两地照护与连续饮水，再到长期轮值；主角不再以长工担保互信，而先谈范围、休息和停工水断条件，升级与组织成长一致。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    }
+  ],
+  "scope_note": "111—120实际终稿独立吸引力判断，与同字节事实审读分开。每章5项+本篇2项，篇项各引用整数120的真实原句。",
+  "fact_review": "harness/maintenance/R005/resume-20261109/B12/final.json"
+}

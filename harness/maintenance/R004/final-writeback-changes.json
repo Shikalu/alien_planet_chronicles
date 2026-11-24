@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "writer": "01a1b38a-c83e-7372-95f1-36c86e256305",
+  "date": "2026-11-07",
+  "source_reviews": [
+    {
+      "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+      "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542"
+    },
+    {
+      "path": "harness/maintenance/R004/writeback-approved-v2.json",
+      "sha256": "486c70bcec9f0e5ef5703540534cf7587cdd66b368fd9d70517ec7985f0999de"
+    }
+  ],
+  "changes": [
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "before_quote": "无面者开始出现公开姓名的先例；具体姓名仅保留在水票册和槐七手中",
+      "after_quote": "无面者开始出现公开姓名的先例；095留桩者姓名已抄入水票册，槐七曾持的记名木屑被热风卷走；留桩者仍记失联",
+      "before_sha256": "4a3232e0c299bf7827cd2279526d4540c244875aa58133d619992153222a79a8",
+      "after_sha256": "8d055c9c0abf105e3e7ea740754dfc42fe80694768f9624041c74cd1fccd8767",
+      "resolution": "按095木屑实际留失修正批末库存，姓名记录仍在，不改变失联身份。",
+      "issue_id": "WBV2-M01"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/事件与地点时间线.md",
+      "before_quote": "白色船形设备驶向上城区中心，长屋传来孩子哭声",
+      "after_quote": "白色船形设备停在平台上、船尾灯逐格亮起，长屋传来孩子哭声",
+      "before_sha256": "5babb7e0b68b9fe8d8c3d3ec94a782f8fa2abc8c766c6a493f4d691df113e0d3",
+      "after_sha256": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+      "resolution": "097设备仍停在平台，不把100才发生的航行与未知去向倒填。",
+      "issue_id": "WBV2-M02"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "before_quote": "白船即将驶向上城区中心，更多船灯亮起",
+      "after_quote": "白船正在准备离开，确切离开时间未知",
+      "before_sha256": "212bfa9069883b88ba331100c0545469a50d4c6cacdcdcb7bad96e3a0a9f9ea6",
+      "after_sha256": "cd49a5bff84fd1e0e02b69c79a684fb93bfa5349b6bf3c90f495bbf5dbd01440",
+      "resolution": "099只能判断准备离开，目的地100才见；不提前更多船灯。",
+      "issue_id": "WBV2-M02"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/人物状态台账.md",
+      "before_quote": "工作稿对应状态（待R004整体验收）",
+      "after_quote": "对应历史状态（验收证据见R004维护记录）",
+      "before_sha256": "8104de85f5802d63f4473865a890ec40ffce9c55da9657c139e930a4bee797fb",
+      "after_sha256": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+      "resolution": "发布状态元数据指向真实维护记录，不提前签通过。",
+      "issue_id": "R004-WB-publication-metadata"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/资源与时间台账.md",
+      "before_quote": "R004补充持物与留失表（工作稿回填暂存，待整体验收）",
+      "after_quote": "R004补充持物与留失表（旧章维护；验收证据见R004维护记录）",
+      "before_sha256": "8d055c9c0abf105e3e7ea740754dfc42fe80694768f9624041c74cd1fccd8767",
+      "after_sha256": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+      "resolution": "取消会过期的暂存导航，不改变物资数值。",
+      "issue_id": "R004-WB-publication-metadata"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "before_quote": "旧六小时参照不变、永久失读仍发生；接口链待复核",
+      "after_quote": "旧六小时参照不变、永久失读仍发生；接口链验收证据见R004独立审读",
+      "before_sha256": "cd49a5bff84fd1e0e02b69c79a684fb93bfa5349b6bf3c90f495bbf5dbd01440",
+      "after_sha256": "7ab65890c3988017187634796eec80df84d06ac321bbc2bc2eb370cce5e6b8d5",
+      "resolution": "仅替换093/094行的当前进度元数据，不篡改旧失败记录。",
+      "issue_id": "R004-WB-publication-metadata"
+    },
+    {
+      "path": "异星录/06_执行计划/工作区/R004-WB/逐章卡.md",
+      "before_quote": "| 95 | 主队完成最后断口跳跃，一名旧维修者留下固定绳桩 | 旧维修者被热汽吞没，回程断口彻底扩大 | 上城区街灯全部亮起，队伍进入外缘 |",
+      "after_quote": "| 95 | 主队完成最后断口跳跃；旧维修者知晓末人无人替压桩的回撤风险后留守，约定绳路尚在便回送套绳 | 旧维修者被热汽吞没，回程断口彻底扩大；姓名已抄入册，木屑被风卷走，仍记失联不记死亡 | 上城区街灯全部亮起，队伍进入外缘 |",
+      "before_sha256": "7ab65890c3988017187634796eec80df84d06ac321bbc2bc2eb370cce5e6b8d5",
+      "after_sha256": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+      "resolution": "回填095实际风险说明与木屑留失，保持既有跳跃/热汽/断口扩大/失联结果。",
+      "issue_id": "R004-B10-AV2-N01"
+    }
+  ]
+}

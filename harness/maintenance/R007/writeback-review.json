@@ -1,0 +1,382 @@
+{
+  "schema_version": 1,
+  "kind": "writeback-review",
+  "id": "R007-WB",
+  "writer": "R007-main",
+  "reviewer": "/root/review_241_250",
+  "independent": true,
+  "body_first": true,
+  "verdict": "needs_revision",
+  "reviewed_candidate_status": "frozen-for-independent-review",
+  "reviewed_change_count": 94,
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/人物状态台账.md",
+      "before_sha256": "c7438140bf2dee4bc2e9eefeca331373d604164adef33e1c4001fa6a6af70759",
+      "reviewed_sha256": "a78fa2f126d2a206aa120309bb5dc4078fd0d112e1a96827f5f77458acb43691",
+      "verdict": "needs_revision",
+      "issues": [
+        "R007-WB-002"
+      ],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/资源与时间台账.md",
+      "before_sha256": "0f2aa192f791d3a2bad2b8f35f5be91abb1670c7965e66c8f7dac743030e6b5c",
+      "reviewed_sha256": "707af985ee033841df2a7c554e682e2ac94ae309607576861716ca989ab527df",
+      "verdict": "needs_revision",
+      "issues": [
+        "R007-WB-001",
+        "R007-WB-012"
+      ],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/伏笔与悬念台账.md",
+      "before_sha256": "dd0ec0959c3c7afad1961323e72520f1f6ed220414589614a53f5e91a8fe004b",
+      "reviewed_sha256": "1de719470783d4c3cb195f9332d15d539f3d5e5bb753b4f4944bb11aef485cd9",
+      "verdict": "needs_revision",
+      "issues": [
+        "R007-WB-003",
+        "R007-WB-009"
+      ],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/事件与地点时间线.md",
+      "before_sha256": "b0d05d6de58fd643a73e7785e5a983e5b254a728243f7cb300d0d7024266fe2b",
+      "reviewed_sha256": "55d88bcb50079f3568a0051039624d71921f1dcd6a607043ca5fd75e6cb8c3f1",
+      "verdict": "needs_revision",
+      "issues": [
+        "R007-WB-004",
+        "R007-WB-005",
+        "R007-WB-010"
+      ],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/术语与命名表.md",
+      "before_sha256": "34dcb14e131ea77886ca74fbf13f3340f9b5fb52b2749b83eab018f016e19376",
+      "reviewed_sha256": "e645b3f55b4d7142efe1f155e867134637d5500b96903493e9bd613497f6c44d",
+      "verdict": "needs_revision",
+      "issues": [
+        "R007-WB-008"
+      ],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/术语词典.md",
+      "before_sha256": "06efcb1c33f3f27c24f80fde501b108f9eb43149e97b1f415f98ebb3d3463913",
+      "reviewed_sha256": "38984e6b3b8fefa650c97a5b370b40f0cc519df165dc23f25c1d13df43685f94",
+      "verdict": "pass",
+      "issues": [],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/逐章卡.md",
+      "before_sha256": "d46db390071fbdcc308656fd3b80c1cc137fb2a337f60ba101d93f5b7dd4b193",
+      "reviewed_sha256": "fb0062529f3556462e6c5cfe9ca991843c9ffa25ef7910de98f6aa04afedca66",
+      "verdict": "needs_revision",
+      "issues": [
+        "R007-WB-006",
+        "R007-WB-007",
+        "R007-WB-011"
+      ],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/十章篇章卡.md",
+      "before_sha256": "3811a81504c90f466b24269855995aad11633646a89a45e4f57615f4c01632c0",
+      "reviewed_sha256": "e68d0811e7b555c42099a5444cf5c5a7e16b7cfab5c9db6c297cd6466681105a",
+      "verdict": "pass",
+      "issues": [],
+      "scope": "完整读取本轮diff、R007追加段及201—250相关历史行；未全文审计整份跨400章台账"
+    }
+  ],
+  "issues": [
+    {
+      "id": "R007-WB-001",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/资源与时间台账.md",
+      "quote": "医疗专线存水见底后靠赠水",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "A12医疗状态误把匿名赠水接成医疗专线来源；219明确留样且不倒回医疗罐。",
+      "source_basis": "219修后正文：棚里已没水可等，仍决定开勺；留样另存，不倒回医疗罐",
+      "status": "open",
+      "suggestion": "医疗罐余量已尽；匿名赠水另记临时饮用，不回补医疗罐"
+    },
+    {
+      "id": "R007-WB-002",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/人物状态台账.md",
+      "quote": "快錾、变径短节（已带走）",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "A12只看痕迹，不能将工具和带走动作登记成实见；222自认不得倒灌217历史截点。",
+      "source_basis": "217修后原句：两道勒痕一宽一窄，配的应是变径短节……实物没留下，得等接的人认；222稍后少年自认另列",
+      "status": "open",
+      "suggestion": "依錾痕推用快錾；宽窄勒痕提示可能配变径短节，未留实物、待本人认"
+    },
+    {
+      "id": "R007-WB-003",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/伏笔与悬念台账.md",
+      "quote": "变径短节为市面上早绝的旧配件，来路不明；划痕描图挂账候认",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "同一推测在伏笔表仍无保留语，应承接217未留物的有限判断。",
+      "source_basis": "217修后正文与B22修后复核：不新增短节实物，只据箍痕推可能",
+      "status": "open",
+      "suggestion": "宽窄勒痕提示可能用过变径短节，槐七认该类件市面已绝；未留实物、来路待本人认；划痕描图挂账候认"
+    },
+    {
+      "id": "R007-WB-004",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/事件与地点时间线.md",
+      "quote": "L3：旧目比同年实产高是真的",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "232未读旧目，不能提前登记237才归同年确认的旧目—实产关系；这是适配时广替造成的新知识提前。",
+      "source_basis": "232修后停机簿场景；234旁听才问旧目，237并表同年度三数",
+      "status": "open",
+      "suggestion": "L3：低产日数增加，年总靠续用维持"
+    },
+    {
+      "id": "R007-WB-005",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/事件与地点时间线.md",
+      "quote": "北巷赠封蜡五件（磕两下+摊掌指痕）",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "时间线219事件名仍认定北巷所赠，虽后文来源待核，表头应与正文及其他候选匿名实收口径一致。",
+      "source_basis": "219修后正文：北巷可能学法，也可能别的领水人见过；不能凭花式认到某一家",
+      "status": "open",
+      "suggestion": "棚口匿名封蜡五件（疑与北巷递话有关；磕两下+摊掌指痕）"
+    },
+    {
+      "id": "R007-WB-006",
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/逐章卡.md",
+      "quote": "237大节点：差数三头并排",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "正文已分两笔差数与三类原因，节点摘要仍三头差数容易恢复原先180三分错义。",
+      "source_basis": "237修后正文：三个数归齐同年度，要分两笔差来看；原因三类不硬凑180",
+      "status": "open",
+      "suggestion": "237大节点：两笔差数分列，贼／亏／挂三类问题并排"
+    },
+    {
+      "id": "R007-WB-007",
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/逐章卡.md",
+      "quote": "产实发去向另核",
+      "severity": "minor",
+      "blocking": true,
+      "problem": "遗漏“实产到”而成为“产实发”，应恢复清楚的两账名称。",
+      "source_basis": "237修后正文及术语词典R007旧目／实产／实发定义",
+      "status": "open",
+      "suggestion": "实产到实发的去向另核"
+    },
+    {
+      "id": "R007-WB-008",
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/术语与命名表.md",
+      "quote": "产实发去向另核",
+      "severity": "minor",
+      "blocking": true,
+      "problem": "遗漏“实产到”而成为“产实发”，应恢复清楚的两账名称。",
+      "source_basis": "237修后正文及术语词典R007旧目／实产／实发定义",
+      "status": "open",
+      "suggestion": "实产到实发的去向另核"
+    },
+    {
+      "id": "R007-WB-009",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/伏笔与悬念台账.md",
+      "quote": "实产比册上该有人口总份少一截",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "237只核旧目折年与实产，未重新普查全体实人，旧摘要把旧目需求升级为真实人口总需求。",
+      "source_basis": "另一独立221—240读者指出；本审读者对照237修后正文：新泵滤芯没有，不可预支修复产量；不独立签201—240全文",
+      "status": "open",
+      "suggestion": "现设备未换、实产未增前，不能按旧目许足份"
+    },
+    {
+      "id": "R007-WB-010",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/事件与地点时间线.md",
+      "quote": "实产比册上该有人口总份少一截",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "237只核旧目折年与实产，未重新普查全体实人，旧摘要把旧目需求升级为真实人口总需求。",
+      "source_basis": "另一独立221—240读者指出；本审读者对照237修后正文：新泵滤芯没有，不可预支修复产量；不独立签201—240全文",
+      "status": "open",
+      "suggestion": "现设备未换、实产未增前，不能按旧目许足份"
+    },
+    {
+      "id": "R007-WB-011",
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/逐章卡.md",
+      "quote": "实产比册上该有人口总份少一截",
+      "severity": "moderate",
+      "blocking": true,
+      "problem": "237只核旧目折年与实产，未重新普查全体实人，旧摘要把旧目需求升级为真实人口总需求。",
+      "source_basis": "另一独立221—240读者指出；本审读者对照237修后正文：新泵滤芯没有，不可预支修复产量；不独立签201—240全文",
+      "status": "open",
+      "suggestion": "现设备未换、实产未增前，不能按旧目许足份"
+    },
+    {
+      "id": "R007-WB-012",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "work_path": "异星录/06_执行计划/工作区/R007-writebacks/资源与时间台账.md",
+      "quote": "受护册暂计53份（非全队总人口）+北巷来领七户23口",
+      "severity": "minor",
+      "blocking": false,
+      "problem": "同一行用加号把不同登记范围并列，虽已声明非总人口，改分记可避免诱导相加，与R007追加段一致。",
+      "source_basis": "200已发布正文与候选R007追加：53登记份、七户23口、17孩分记，不相加推出总人口",
+      "status": "open",
+      "suggestion": "受护册暂计53份（非全队总人口），与北巷来领七户23口分记"
+    }
+  ],
+  "focus_checks": [
+    {
+      "id": "population_53",
+      "verdict": "pass_with_minor_wording",
+      "evidence": "200/D66的53是受护登记份，201不当全队实核人口；七户23口与17孩分记，不作新人口总计"
+    },
+    {
+      "id": "annual_water",
+      "verdict": "needs_revision",
+      "evidence": "同完整年度1200实产、1380旧目折年、差180不改；180/1200=15%只指旧目比实产高，不是产水下降率；实产—实发另核存量检修去向。剩尾巴由WB006—011关闭后才能签"
+    },
+    {
+      "id": "branch_water",
+      "verdict": "pass",
+      "evidence": "246/250申请80壶，病幼20＋成人60=80；实供60，病幼20＋成人40=60，60成人×2标准勺÷3=40；欠20；停回补的一桶在6桶内，安全水位不动"
+    },
+    {
+      "id": "medical",
+      "verdict": "needs_revision",
+      "evidence": "200→201两勺备用袋存未耗，212掌伤医疗一盏保留；219匿名水不入医疗罐；248半壶检修不混饮、249医疗不挪成人；资源A12“靠赠水”仍待澄清"
+    },
+    {
+      "id": "calendar",
+      "verdict": "pass",
+      "evidence": "旬头D68/78/88/98/108，10日制与约9日大潮分开；D83余2件只估2日，距D88五日缺3日；236D99收布到D101三日期格无新收，不作三整日潮头"
+    },
+    {
+      "id": "boundary_200_201",
+      "verdict": "pass",
+      "evidence": "200实际D66说次日查水；201已有D67分装/班表耽搁桥，D68实查不改；第二卷逐章卡末也明确这一路径"
+    },
+    {
+      "id": "boundary_250_251",
+      "verdict": "pass_with_out_of_scope_dependency",
+      "evidence": "250末量靠山安置地/短绳/候料与251首空托板试路承接；欠20无补期、低处能领但高处不能到维持。251称前天退班与247D110到251D114不合，只登记范围外，不改251"
+    }
+  ],
+  "chapter_reading_scope": {
+    "full_body_chapters": [
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250
+    ],
+    "boundary_full_chapters": [
+      200,
+      251
+    ],
+    "other_chapters": "读取各组独立初审/改动/短复核及正文重点摘段201/217/218/219/220/221/222/225/228/229/236/237/240；不标201—240全文亲读"
+  },
+  "ten_chapter_reports": [
+    {
+      "group": "B21/A11",
+      "chapters": "201—210",
+      "days": "D68—D76",
+      "report_advice": "报告断供/追空户的实物证据链，24→16封蜡件、守棚增岗、转运减班、七牌3净2死2缺；53登记份非人口，真枪件不保证真号；事实审读证据引用B21独立报告，不由本回填复核者冒签全文"
+    },
+    {
+      "group": "B22/A12",
+      "chapters": "211—220",
+      "days": "D77—D83",
+      "report_advice": "报告见证抄原册、同址老新双额度、柜上夜数；15→0后匿名五件暂续至余2件，不够撑到旬头；高水头/别泵、送者水源、本票年份保持待核；原笔比同手不识签者"
+    },
+    {
+      "group": "B23/A13",
+      "chapters": "221—230",
+      "days": "D84—D94",
+      "report_advice": "报告凝水只实收且站上处理验记、工班落名/验认、225进出闸卸压与断外缘的分配选择分开；真漏西假封东、9楔留一成、长梁入堤/棚修候料；年度背景不减本旬实发，三头互证限年总/交接行"
+    },
+    {
+      "group": "B24/A14",
+      "chapters": "231—240",
+      "days": "D95—D105",
+      "report_advice": "报告十册停机簿、旧目19年、归日归年后两账/三类；完整年1200/1380/180保留，不能断真实人口总额或预支修复；三行签/病幼不减为原则，柜尚未执行；空瓢承诺待250"
+    },
+    {
+      "group": "B25/A15",
+      "chapters": "241—250",
+      "days": "D106—D113",
+      "report_advice": "报告临借六壶限当班、原工转柄持钥/林栖核数、阀未开但封廊与肩/膝/退班者轻伤留代价；两次坏灯同轮、10=9.5＋0.5；正式6桶80/60/20、空瓢归还与下迁，不申报全城已改"
+    }
+  ],
+  "fifty_chapter_audit_advice": [
+    {
+      "topic": "人物",
+      "advice": "按五段历史截点审，不把D320倒灌：林渡左肩持续且247加重、林岑右肩限抬/222拆带非康复、林栖右掌限重左书、阿九左膝与夜班两格、弥娅腿沉手僵咳；少年私接者与小石分开，替岗不等于多出人；无本轮新增主要死亡/复活。53登记份不作人口总量"
+    },
+    {
+      "topic": "资源",
+      "advice": "分清封蜡件数、壶勺、年度石及每班量；逐日耗用表不完整不得宣称46日全部供需结平。已发生临时让份与凝水处理只解释来处不新增量。药/医疗/饮水/检修四类不混，工具/钥匙/标桶借期分持可查。梁已入堤、棚三笔候料、欠20与回补零不可冲销"
+    },
+    {
+      "topic": "伏笔",
+      "advice": "F04从空号/七牌到同址双额度/实人回册限域阶段兑现，未解全城住处及终端；F11形制/号段不合只推进，不断真钢号或另账已获；F10递话不是身份口令；F14两失联行不销。旧簿照灯填、压力来源、匿名水源、票年份/签者继续待核。250中点有218/237两处回看前置；不揭L4+与潮汐武器用途"
+    }
+  ],
+  "source_records": [
+    "harness/maintenance/R007/B21/initial.json",
+    "harness/maintenance/R007/B21/final.json",
+    "harness/maintenance/R007/B21/recheck-edits.json",
+    "harness/maintenance/R007/B21/editor-supplement.json",
+    "harness/maintenance/R007/B22/initial.json",
+    "harness/maintenance/R007/B22/final.json",
+    "harness/maintenance/R007/B22/recheck-edits.json",
+    "harness/maintenance/R007/B22/editor-supplement.json",
+    "harness/maintenance/R007/B23/initial.json",
+    "harness/maintenance/R007/B23/final.json",
+    "harness/maintenance/R007/B23/recheck-edits.json",
+    "harness/maintenance/R007/B23/editor-supplement.json",
+    "harness/maintenance/R007/B24/initial.json",
+    "harness/maintenance/R007/B24/final.json",
+    "harness/maintenance/R007/B24/recheck-edits.json",
+    "harness/maintenance/R007/B24/editor-supplement.json",
+    "harness/maintenance/R007/B25/initial.json",
+    "harness/maintenance/R007/B25/final.json",
+    "harness/maintenance/R007/B25/editor-supplement.json"
+  ],
+  "out_of_scope": [
+    {
+      "chapter": 251,
+      "quote": "你们棚里那两个，前天退了搬运班。",
+      "finding": "247D110→251D114，前天口径不合",
+      "status": "registered_not_modified"
+    }
+  ],
+  "claim_limit": "这是一轮8份回填/边界独立复核，不等于本审读者全文审过201—250；范围外251仅核接口，不签其全文质量；当前候选尚须按精确建议改后再短核字节。"
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B40",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B39-B40",
+  "independent": true,
+  "body_first": true,
+  "phase": "final",
+  "round": "r1",
+  "input_digest": "852e562fd5cab8cba354d191a32d376494e1e4678782975751e239d78dd8a5dd",
+  "source_digest": "852e562fd5cab8cba354d191a32d376494e1e4678782975751e239d78dd8a5dd",
+  "verdict": "issues",
+  "closures": [
+    {
+      "id": "B40-01",
+      "chapter": 391,
+      "status": "closed",
+      "resolution": "全组作者D码已换成事件、旬头及相隔实日；391/392/394/396/397/398/400多日参照已逐段核。初审D码问题已闭，但395的跨日动作新残留另开B40-F01，不以本项关闭掩盖。",
+      "quote": "他过几日还要上五层"
+    },
+    {
+      "id": "B40-02",
+      "chapter": 391,
+      "status": "closed",
+      "resolution": "过几日上五层不再把273之后的明日误指278；实际277上四、278五、279四、280三不变。",
+      "quote": "他过几日还要上五层"
+    },
+    {
+      "id": "B40-03",
+      "chapter": 398,
+      "status": "closed",
+      "resolution": "317商议、318认班、319候选运送；后天与实际候选日期一致。",
+      "quote": "她先看后天那四壶能不能真的到地方"
+    },
+    {
+      "id": "B40-04",
+      "chapter": 397,
+      "status": "closed",
+      "resolution": "无人记录不含阿九；本轮固定操作重、陆上低档热况与水上待验净追加分列，180不当原厂或已验定额。",
+      "quote": "前一次水段没有人在车里，阿九这份重量只列在本轮固定项中，不能说已经随无人空车验过。"
+    },
+    {
+      "id": "B40-05",
+      "chapter": 399,
+      "status": "closed",
+      "resolution": "收闸后先报转岸再分路，台岗核两向，不先把林渡算作回山口。",
+      "quote": "林渡先向台岗报明转岸，沿已验干侧细路分出，其余前行人返山口。"
+    },
+    {
+      "id": "B40-06",
+      "chapter": 399,
+      "status": "closed",
+      "resolution": "药水实收进岸棚干架，姨母仅照管原号瓶，不另领棚药壶。",
+      "quote": "姨母只将孩子自己的原号瓶放回托面边，棚里的药水另归原领料项。"
+    },
+    {
+      "id": "B40-07",
+      "chapter": 400,
+      "status": "closed",
+      "resolution": "人凑近铆定监听口，零件没有被拿动。",
+      "quote": "弥娅凑近盒侧的监听口"
+    },
+    {
+      "id": "B40-08",
+      "chapter": 398,
+      "status": "closed",
+      "resolution": "391前日272带走、昨凉273点收、274条到；398回顾送回后重借，不把272送返当收讫；320仍待条。",
+      "quote": "正是上次收听后送回棚的那片"
+    },
+    {
+      "id": "B40-09",
+      "chapter": 396,
+      "status": "closed",
+      "resolution": "310点收待311送棚，312留架313返；不把经手写成当天已归棚。",
+      "quote": "原货工连灯点收，待次日送棚，下一轮要等补能。"
+    },
+    {
+      "id": "B40-10",
+      "chapter": 395,
+      "status": "closed",
+      "resolution": "图袋随林渡收薄避湿石，后段医者欲帮提不再缺取回动作。",
+      "quote": "提醒他把图袋收薄、避开脚边湿石"
+    },
+    {
+      "id": "B40-11",
+      "chapter": 393,
+      "status": "closed",
+      "resolution": "只问刚退坏枕能否算余料，不提前报后段才说明的总六根。",
+      "quote": "她问刚退下的坏枕可不可以记作余料"
+    },
+    {
+      "id": "B40-12",
+      "chapter": 396,
+      "status": "closed",
+      "resolution": "直接交代弥娅原坪記停位，取消作者式否认瞬移。",
+      "quote": "弥娅仍在原坪，将停位回报记在耗记旁。"
+    },
+    {
+      "id": "B40-13",
+      "chapter": 392,
+      "status": "closed",
+      "resolution": "有灯的实开短班才入认定侧道，停班封入口，不扩成每日免费暗班。",
+      "quote": "每个实际有灯的短班开始前"
+    }
+  ],
+  "issues": [
+    {
+      "id": "B40-F01",
+      "chapter": 395,
+      "related_chapters": [
+        396
+      ],
+      "severity": "中等",
+      "category": "time-reference",
+      "status": "open",
+      "quote": "等他们退回山口，小匣已用完这两次短班，原货工把它连灯带回棚补能。",
+      "reader_problem": "395末仍承接D301当班却写带回棚补能；396 D306四日前送回棚是D302，与冻结资源D302—304补能不一致，混写当班收退与次日送棚。",
+      "evidence": [
+        {
+          "chapter": 396,
+          "quote": "两作业灯与小匣四日前送回棚，留架补能两日，前日检后送回，今次为首短班。",
+          "reason": "真闸两端测温301后五日为306，四日前=302，前日=304。"
+        },
+        {
+          "path": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+          "quote": "D300/301→D302—304补能→D306/310",
+          "reason": "冻结A30已发生索引保留302—304补能；不以正文自然参照反改D号。"
+        }
+      ],
+      "suggestion": "仅改395当班点收、待次日送棚；不改396、D索引或收官快照。"
+    }
+  ],
+  "reviewed_chapters": [
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400
+  ],
+  "read_scope": "r1封稿十章已在前段逐章全文重读；本文件恢复落盘保存当时失败结论，不是对r2的签字。",
+  "source_scope": [
+    "初审后已加载AGENTS资料与三份规范，见initial.md",
+    "第四卷收官快照全项；A29/A30及R009相关说明已读部分，八文件回填另审"
+  ],
+  "evidence_preservation": {
+    "manifest": "harness/maintenance/R009/B40/reviewed-manifest-r1-main-preserved.json",
+    "r1_full_read_preceded_r2": true,
+    "byte_validation": "按changes-r2唯一替换逆还原395仅用于核证旧字节，十章SHA及汇总均与r1保留清单一致；不将逆还原当新增阅读"
+  },
+  "release_allowed": false
+}

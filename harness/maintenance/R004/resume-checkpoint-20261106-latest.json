@@ -1,0 +1,681 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "date": "2026-11-06",
+  "scope": [
+    51,
+    100
+  ],
+  "mode": "authorized_old_chapter_repair_not_continuation",
+  "status": "awaiting_author_decision_and_remaining_review_closure",
+  "supersedes_navigation_only": [
+    "harness/maintenance/R004/resume-checkpoint.json"
+  ],
+  "historical_evidence_preserved": true,
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "validation": {
+    "path": "harness/maintenance/R004/resume-validation.json",
+    "sha256": "e322d70c2a6627e243b768c003f05cbcf9cc4b2d11e39da6b70160bc582edbdf",
+    "scope": "draft mechanical replay/length and protection only; not independent literary acceptance",
+    "result": "pass"
+  },
+  "prose_patches": {
+    "journals": [
+      "changes.json",
+      "resume-changes.json"
+    ],
+    "patch_count": 167,
+    "changed_chapters": 49,
+    "errors": []
+  },
+  "working_chapters": [
+    {
+      "chapter": 51,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+      "han": 2363,
+      "nonspace": 2679,
+      "sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065"
+    },
+    {
+      "chapter": 52,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+      "han": 2499,
+      "nonspace": 2834,
+      "sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648"
+    },
+    {
+      "chapter": 53,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+      "han": 2407,
+      "nonspace": 2729,
+      "sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8"
+    },
+    {
+      "chapter": 54,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+      "han": 2230,
+      "nonspace": 2531,
+      "sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef"
+    },
+    {
+      "chapter": 55,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+      "han": 2280,
+      "nonspace": 2573,
+      "sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a"
+    },
+    {
+      "chapter": 56,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+      "han": 2361,
+      "nonspace": 2661,
+      "sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2"
+    },
+    {
+      "chapter": 57,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+      "han": 2398,
+      "nonspace": 2707,
+      "sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5"
+    },
+    {
+      "chapter": 58,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+      "han": 2317,
+      "nonspace": 2630,
+      "sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6"
+    },
+    {
+      "chapter": 59,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+      "han": 2493,
+      "nonspace": 2806,
+      "sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9"
+    },
+    {
+      "chapter": 60,
+      "path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+      "han": 2423,
+      "nonspace": 2739,
+      "sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69"
+    },
+    {
+      "chapter": 61,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第061章_炸药残痕.md",
+      "han": 2400,
+      "nonspace": 2718,
+      "sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6"
+    },
+    {
+      "chapter": 62,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第062章_父亲的手.md",
+      "han": 2287,
+      "nonspace": 2629,
+      "sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d"
+    },
+    {
+      "chapter": 63,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第063章_面具之后.md",
+      "han": 2314,
+      "nonspace": 2663,
+      "sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf"
+    },
+    {
+      "chapter": 64,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第064章_仪器指向下方.md",
+      "han": 2280,
+      "nonspace": 2607,
+      "sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc"
+    },
+    {
+      "chapter": 65,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+      "han": 2411,
+      "nonspace": 2733,
+      "sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca"
+    },
+    {
+      "chapter": 66,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第066章_第一次失败.md",
+      "han": 2378,
+      "nonspace": 2692,
+      "sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb"
+    },
+    {
+      "chapter": 67,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第067章_改算风向.md",
+      "han": 2330,
+      "nonspace": 2629,
+      "sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82"
+    },
+    {
+      "chapter": 68,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第068章_短暂联手.md",
+      "han": 2312,
+      "nonspace": 2629,
+      "sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1"
+    },
+    {
+      "chapter": 69,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第069章_跳过断口.md",
+      "han": 2433,
+      "nonspace": 2743,
+      "sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f"
+    },
+    {
+      "chapter": 70,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第070章_父亲口哨.md",
+      "han": 2306,
+      "nonspace": 2598,
+      "sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26"
+    },
+    {
+      "chapter": 71,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+      "han": 2295,
+      "nonspace": 2610,
+      "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893"
+    },
+    {
+      "chapter": 72,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+      "han": 2238,
+      "nonspace": 2559,
+      "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02"
+    },
+    {
+      "chapter": 73,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+      "han": 2264,
+      "nonspace": 2616,
+      "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e"
+    },
+    {
+      "chapter": 74,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+      "han": 2323,
+      "nonspace": 2671,
+      "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e"
+    },
+    {
+      "chapter": 75,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+      "han": 2280,
+      "nonspace": 2601,
+      "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70"
+    },
+    {
+      "chapter": 76,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+      "han": 2394,
+      "nonspace": 2685,
+      "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60"
+    },
+    {
+      "chapter": 77,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+      "han": 2237,
+      "nonspace": 2540,
+      "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d"
+    },
+    {
+      "chapter": 78,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+      "han": 2306,
+      "nonspace": 2616,
+      "sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa"
+    },
+    {
+      "chapter": 79,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+      "han": 2242,
+      "nonspace": 2573,
+      "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364"
+    },
+    {
+      "chapter": 80,
+      "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+      "han": 2316,
+      "nonspace": 2607,
+      "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+    },
+    {
+      "chapter": 81,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+      "han": 2412,
+      "nonspace": 2758,
+      "sha256": "0bdec2f836f3713bfc0787bff758a72d6ef2eec3532802954085bb5601c5aa32"
+    },
+    {
+      "chapter": 82,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+      "han": 2395,
+      "nonspace": 2767,
+      "sha256": "2d017ef2ad6a12db0046548a74deee22ff1e05547418f661a5552bf1029294f3"
+    },
+    {
+      "chapter": 83,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+      "han": 2329,
+      "nonspace": 2698,
+      "sha256": "a5717395c5e7d8db6b52f540a8c7650fc18f12582ec884d2e771cae1fadcdb0d"
+    },
+    {
+      "chapter": 84,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+      "han": 2470,
+      "nonspace": 2796,
+      "sha256": "220de51362768cc6eca6487009ef5bb5dfcad1b2d3daa0b8c10add69f2c7057e"
+    },
+    {
+      "chapter": 85,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+      "han": 2351,
+      "nonspace": 2669,
+      "sha256": "7dc590a379333ebc33ceaaeb26814d52229cffc540cab3e639aff7a519fe3a4c"
+    },
+    {
+      "chapter": 86,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+      "han": 2316,
+      "nonspace": 2642,
+      "sha256": "1b541e80dab85b0f35797bb8c4b43aefa7dfa9e29be19973f64242af287b31d6"
+    },
+    {
+      "chapter": 87,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+      "han": 2412,
+      "nonspace": 2704,
+      "sha256": "a48fe68908cc346c297ccda5fd5ecb354019bc1d966a0fb75b053bea9b1cd3cb"
+    },
+    {
+      "chapter": 88,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+      "han": 2413,
+      "nonspace": 2719,
+      "sha256": "89ed4fd1ed9f4625f124a56a7e0a5f50ed96eb92f6f40b40e75a5a9e3936e0c3"
+    },
+    {
+      "chapter": 89,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+      "han": 2457,
+      "nonspace": 2769,
+      "sha256": "3e4490fe72cade574482c7c99bc7391e19ddeb3a12999e31fee347f651339946"
+    },
+    {
+      "chapter": 90,
+      "path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+      "han": 2549,
+      "nonspace": 2896,
+      "sha256": "c3d4517448b566e0df449a537457f91603238e27dd88c529f8d6860518327f60"
+    },
+    {
+      "chapter": 91,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第091章_二次坍塌.md",
+      "han": 2321,
+      "nonspace": 2623,
+      "sha256": "510ab8f7305a51d4653eadfd9d2826e9b010bace635cde0c88e05b3d6cf05b42"
+    },
+    {
+      "chapter": 92,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第092章_共同架桥.md",
+      "han": 2563,
+      "nonspace": 2877,
+      "sha256": "05e0235875740ba2c6dd8c729c4133a544e50ae412fed0edd0e9afe114c64025"
+    },
+    {
+      "chapter": 93,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第093章_烧毁名单.md",
+      "han": 2440,
+      "nonspace": 2770,
+      "sha256": "a8140ac54ce0e148412ec7512cd6fc58a8b350a933b021513584b1a78cb95afa"
+    },
+    {
+      "chapter": 94,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第094章_六小时旧记.md",
+      "han": 2467,
+      "nonspace": 2764,
+      "sha256": "e2f1fa7ce050b52f976c5b63e6b89867a2c608944f701b60c15b8298522f61e3"
+    },
+    {
+      "chapter": 95,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第095章_最后跳跃.md",
+      "han": 2343,
+      "nonspace": 2650,
+      "sha256": "849efa4d1c520f81e6a5246e5c3c37996d07f2273a37672c45d48bbb2b67fa06"
+    },
+    {
+      "chapter": 96,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第096章_上城区外缘.md",
+      "han": 2366,
+      "nonspace": 2661,
+      "sha256": "fbea581ff571ab1d02348e0a3bcb81aca7b50cef9b4fde9f4b19b95e21e7d6b0"
+    },
+    {
+      "chapter": 97,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第097章_无人街道.md",
+      "han": 2260,
+      "nonspace": 2566,
+      "sha256": "7b6fcdcda14b8fc01005f40f51d4d0e74ea398795930bea0424f7e9d3e62c1fd"
+    },
+    {
+      "chapter": 98,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第098章_没有门的建筑.md",
+      "han": 2343,
+      "nonspace": 2660,
+      "sha256": "44eab5f870a03ed90c95586662f9e479ad11ca5e4941143a5e73245ca619532c"
+    },
+    {
+      "chapter": 99,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第099章_全部撤离.md",
+      "han": 2242,
+      "nonspace": 2520,
+      "sha256": "7bc2884bf348b79a552350b5843f96f9dd24d917c7b743944ce7f26fc046b058"
+    },
+    {
+      "chapter": 100,
+      "path": "异星录/06_执行计划/工作区/R004-B10/第100章_秘密撤离船.md",
+      "han": 2515,
+      "nonspace": 2808,
+      "sha256": "6a021cca521ab9ddebca8e819089d8ea2c654551d09e8bad3959bd30b3ad3b00"
+    }
+  ],
+  "batches": [
+    {
+      "id": "B06",
+      "start": 51,
+      "end": 60,
+      "status": "body_review_pass_writeback_pending",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B06",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B06/resume-recheck2.json",
+        "sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+        "reviewer": "01a1b002-648c-7311-a0a2-647911278770",
+        "verdict": "pass",
+        "body_verdict": "pass",
+        "fact_logic_verdict": "pass",
+        "attraction_verdict": "pass",
+        "prose_verdict": "pass",
+        "source_digest_matches_record_rows": true,
+        "work_sha_mismatches": [],
+        "quote_mismatches": [],
+        "check_count": 52,
+        "coverage_note": "新增resume-recheck2.md/json且只写这两文件；未改工作稿、正式正文、初审/前轮失败报告或他人报告。继承已读证据但重新核全部52原句与10章封稿摘要；未运行会写其他文件的gate、verify-repair或check。"
+      },
+      "published": false
+    },
+    {
+      "id": "B07",
+      "start": 61,
+      "end": 70,
+      "status": "body_review_pass_writeback_pending",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B07",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B07/final.json",
+        "sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+        "reviewer": "/root/r004_b08_reader",
+        "verdict": "pass",
+        "fact_logic_verdict": "pass",
+        "attraction_verdict": "pass",
+        "source_digest_matches_record_rows": true,
+        "work_sha_mismatches": [],
+        "quote_mismatches": [],
+        "check_count": 52,
+        "coverage_note": "正文事实/逻辑与吸引力分开验收。动态台账/章卡尚待主笔冻结后另核，不以本正文报告替代WB。"
+      },
+      "published": false
+    },
+    {
+      "id": "B08",
+      "start": 71,
+      "end": 80,
+      "status": "two_chapter_recheck_pass_eight_inherited_writeback_pending",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B08",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+        "sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+        "reviewer": "01a1b005-2b8a-7563-a88c-e562ee45301e",
+        "verdict": "pass",
+        "fact_logic_verdict": "pass",
+        "attraction_verdict": "pass",
+        "source_digest_matches_record_rows": true,
+        "work_sha_mismatches": [],
+        "quote_mismatches": [],
+        "check_count": 52,
+        "coverage_note": {
+          "fully_read_current_chapters": [
+            71,
+            76
+          ],
+          "inherited_unchanged_chapters": [
+            72,
+            73,
+            74,
+            75,
+            77,
+            78,
+            79,
+            80
+          ],
+          "full_ten_chapter_reread": false,
+          "new_five_checks_count": 10,
+          "inherited_five_checks_count": 40,
+          "inherited_batch_checks_count": 2,
+          "batch_checks_newly_reassessed": false,
+          "context": [
+            {
+              "chapter": 70,
+              "path": "异星录/06_执行计划/工作区/R004-B07/第070章_父亲口哨.md",
+              "sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26",
+              "read_ranges": [
+                [
+                  66,
+                  99
+                ]
+              ],
+              "depth": "boundary_excerpt_not_full_read"
+            },
+            {
+              "chapter": 72,
+              "path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+              "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02",
+              "read_ranges": [
+                [
+                  1,
+                  39
+                ]
+              ],
+              "depth": "boundary_excerpt_not_full_read"
+            },
+            {
+              "chapter": 75,
+              "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+              "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70",
+              "read_ranges": [
+                [
+                  92,
+                  125
+                ]
+              ],
+              "depth": "boundary_excerpt_not_full_read"
+            },
+            {
+              "chapter": 77,
+              "path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+              "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d",
+              "read_ranges": [
+                [
+                  1,
+                  39
+                ]
+              ],
+              "depth": "boundary_excerpt_not_full_read"
+            },
+            {
+              "chapter": 79,
+              "path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+              "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364",
+              "read_ranges": [
+                [
+                  51,
+                  51
+                ]
+              ],
+              "depth": "boundary_excerpt_not_full_read"
+            },
+            {
+              "chapter": 49,
+              "path": "异星录/正文/第一卷_热海坠城/第049章_封锁入口.md",
+              "sha256": "06b806749c8939f24c5f9117d52eea294a3418e7c2d5e36c03e5d0020f95c3c0",
+              "read_ranges": [
+                [
+                  97,
+                  109
+                ]
+              ],
+              "additional_reading": "正文水/残液/容器/药关键词命中上下文；非全文重审",
+              "depth": "authority_water_boundary_excerpt"
+            },
+            {
+              "path": "异星录/04_连续性管理/资源与时间台账.md",
+              "sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+              "read_ranges": [
+                [
+                  185,
+                  198
+                ],
+                [
+                  145,
+                  145
+                ],
+                [
+                  149,
+                  149
+                ]
+              ],
+              "depth": "71—80整节及首卷水相关行；非全台账重审"
+            },
+            {
+              "path": "harness/maintenance/R004/事实冲突与处理边界.md",
+              "sha256": "282aee5d2ec3ea13f927e2176830faf83c00a6d70ef1be803ecfe50fc9cdd488",
+              "read_ranges": [
+                [
+                  17,
+                  43
+                ]
+              ],
+              "depth": "C03已执行说明与C04待裁定范围；不另行批准候选"
+            }
+          ],
+          "policies_read": [
+            "AGENTS.md",
+            "skills/alien-serial-harness/SKILL.md",
+            "skills/alien-serial-harness/references/editorial.md",
+            "skills/alien-serial-harness/references/workflow.md",
+            "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+            "异星录/05_写作规范/正文与连载规范.md",
+            "异星录/05_写作规范/文风与细节精修规范.md"
+          ],
+          "status_navigation_only": "harness/status.json保持400/D320、401/A31；未推进"
+        }
+      },
+      "published": false
+    },
+    {
+      "id": "B09",
+      "start": 81,
+      "end": 90,
+      "status": "body_review_pass_writeback_pending",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B09",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B09/resume-recheck2.json",
+        "sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+        "reviewer": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+        "verdict": "pass",
+        "fact_logic_verdict": "pass",
+        "attraction_verdict": "pass",
+        "source_digest_matches_record_rows": true,
+        "work_sha_mismatches": [],
+        "quote_mismatches": [],
+        "check_count": 52,
+        "coverage_note": null
+      },
+      "published": false
+    },
+    {
+      "id": "B10",
+      "start": 91,
+      "end": 100,
+      "status": "author_decision_C04_and_review_closure_pending",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B10",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B10/resume-recheck.json",
+        "sha256": "ca0fc7e92e5bafb046dd8ced7ec1619943afe42f0dc35a21d5a66238a6b1317d",
+        "reviewer": "01a1b000-92a3-7db0-bbe5-26f61162b8d8",
+        "verdict": "needs_revision",
+        "fact_logic_verdict": "needs_revision",
+        "attraction_verdict": "needs_revision",
+        "source_digest_matches_record_rows": true,
+        "work_sha_mismatches": [],
+        "quote_mismatches": [],
+        "check_count": 52,
+        "coverage_note": null
+      },
+      "published": false
+    }
+  ],
+  "writebacks": {
+    "status": "staged_independent_recheck_received_issues_pending",
+    "file_count": 8,
+    "patch_count": 81,
+    "latest_report": {
+      "path": "harness/maintenance/R004/writeback-recheck.json",
+      "sha256": "be20b0c67f6f6cc317674fa0f1b08d8b29a97cbc47d60e091eea42dfddcb27f5",
+      "verdict": "pending"
+    }
+  },
+  "progress_summary": "harness/maintenance/R004/续修进度与未决项.md",
+  "review_evidence_diagnostic": "harness/maintenance/R004/review-evidence-consistency.json",
+  "C05_provenance_report": {
+    "path": "harness/maintenance/R004/C05-provenance-check.json",
+    "sha256": "b7cce9b2acaa8e5100fa9ebfc738e9796759e8fa524e8d4af9f36ae9bafc0f80"
+  },
+  "author_decisions": [
+    {
+      "id": "C04",
+      "status": "unresolved_not_applied",
+      "question": "是否同意098长屋孩子交出少量已处理饮水，099—100分饮耗尽，101仍缺水？",
+      "evidence": "harness/maintenance/R004/事实冲突与处理边界.md"
+    },
+    {
+      "id": "C05",
+      "status": "historical_source_found_authorization_conflict_unresolved",
+      "evidence": "harness/maintenance/R004/事实冲突与处理边界.md"
+    }
+  ],
+  "remaining": [
+    "C04作者裁定及对应正文/WB修订后独立复核",
+    "未通过的正文/回填复核项关闭",
+    "五个十章连续性汇总、后五十章及卷末接口审计绑定终稿",
+    "终稿reader_review与修订record整理，verify-repair，验收后唯一版本发布清理；不执行续写close"
+  ],
+  "release_eligible": false,
+  "gate_run": false,
+  "verify_repair_run": false,
+  "close_run": false,
+  "official_changes": {
+    "manuscripts": {
+      "count": 401,
+      "changed": []
+    },
+    "sources": {
+      "count": 53,
+      "changed": []
+    }
+  }
+}

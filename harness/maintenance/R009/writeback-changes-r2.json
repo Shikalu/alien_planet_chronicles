@@ -1,0 +1,26 @@
+{
+  "kind": "main-reviewed-targeted-writeback-correction",
+  "writer": "R009-main",
+  "independent_acceptance": false,
+  "source_review": {
+    "path": "harness/maintenance/R009/B40/writeback-freeze-review.json",
+    "sha256": "4d24c0d6a38a35701b9d662ed9b329cd00e28f29847079a7bee5c5316f5d9dbb"
+  },
+  "replacements": [
+    {
+      "id": "B40-WB01-E1",
+      "issue_id": "B40-WB01",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "chapter": 394,
+      "old": "D292大匣出棚、293/294充、295回",
+      "new": "D292大匣出坪送棚、293/294充、295回",
+      "reason": "D292从原车坪卸出送棚，不是从棚出发；同一批资源/章卡原行与正文都写去棚补能。属于冻结原行内部方向冲突，不修改正文迎合一字笔误，不反改D索引或D320快照。"
+    }
+  ],
+  "before_archive": {
+    "path": "harness/maintenance/R009/writeback-history/r2/事件与地点时间线.md",
+    "sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44"
+  },
+  "after_sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23",
+  "decision": "已发生资源行、实录章卡与394正文同证D292去棚；仅修时间线误写方向，不改日次、出归事实或D320快照，等待独立r3。"
+}

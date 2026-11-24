@@ -1,0 +1,484 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R005-resume-B15",
+  "reviewer": "/root/review_241_250",
+  "writer": "R005-resume-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "1e05a551eca225c124144da7dd4adbcb259413d29f09ff759b9a49db59af5242"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "d175e1bcb3cdb9e1c7176aea71be635ec4bcbc06a1c9b5c444d1efa9ae4db00e"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "304a04b92aee76afa964b34446c5dc92f391814ed6ea844d918c707a8f66358e"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "cc2293f0085eb9385a2cacec68f2ba8c9e6de10d23180563a25d99be07f30c25"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "b0132d55b258e5b98496a73becda8d7445c89a5782c5317983c2e8e7b9f30408"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "5c5da8287acf89e90556ed2f2cefabdfafe3a94556f59e69ba889cf581fb0797"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "19fbf6dafce1b2c983c26dd5e92907049fda705ce56b785d1340e02e263e7c55"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "571d2651514b1834dcde248dfefa923c2fa4f3137f3a2ba729f2a59afd247651"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "a82e10f6ccdce3cdf84de22adb7185c3464597c804d8d458c9712d443ce6377e"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "1882e4d9c339c9a7e166d06664d83247497ace76201aa49450f51d34cbbf1c37"
+    }
+  ],
+  "source_digest": "76be474fc8b78e6069fe4016d9bb28fdf07b9bb131d923e5cff013c9d5200573",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 141,
+      "quote": "里头四口，我认得。",
+      "reason": "父亲以熟人工号要求改排序，旧情与病情冲突即现。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 141,
+      "quote": "条件列完，往里递，让里头的人自己认领。",
+      "reason": "条件交内侧认领，主人公有主动排序。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 141,
+      "quote": "工班多担一班送水，换主队腾出备接应的手。",
+      "reason": "一班交换腾接应手，组织目标与资源同时变化。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 141,
+      "quote": "纸呢。",
+      "reason": "父亲开口要纸而非继续争号，反应有克制。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 141,
+      "quote": "父亲正在写的那页证词，明天要由他带下坡，请墙内的人核认。",
+      "reason": "核认父亲证词把下一章必做动作落地。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 142,
+      "quote": "林岑那页纸写到后半夜。",
+      "reason": "夜写证词持续承接父子未结责任。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 142,
+      "quote": "来源一栏，自述人拒填，事由：护线。",
+      "reason": "拒填来源被录而未强逼，公开与护线边界有选择。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 142,
+      "quote": "浆泥两笔。",
+      "reason": "养护新料把旧封门变为仍运行制度线。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 142,
+      "quote": "自述人自认隐瞒十年",
+      "reason": "自认隐瞒不靠叙述洗白，父子代价有效。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 142,
+      "quote": "上油，是里头的人要的，还是外头有人要它封着？",
+      "reason": "养护料用途是具体可核方向。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 143,
+      "quote": "今天要把剩下的号都拓出来。",
+      "reason": "任务一开始报清工具核号，读者知道为何下坡。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 143,
+      "quote": "同号还不能说明谁亲自领、谁亲自换过件",
+      "reason": "主动划掉亲手领料防越证，是学徒真正判断。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 143,
+      "quote": "五件家什看完，只拓出四个号。",
+      "reason": "5件4号1无号有可感知的线索变化。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 143,
+      "quote": "外头那个小的，拓号的——手怎么样。",
+      "reason": "内侧旧工师关心掌伤，以照护形成回报。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 143,
+      "quote": "今天收班。明天的事，明天看撑。",
+      "reason": "撑问题接下章修理，钩子有行动。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 144,
+      "quote": "撑要重打，墙要先卸重。",
+      "reason": "结构险情与物资挪用同时压迫。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 144,
+      "quote": "两根好撑木由六叔和同行居民逐根立到墙肩下",
+      "reason": "材料挪用的代价后实际支撑落位，验裂线再卸，口头选择已执行；伤者不负主重。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 144,
+      "quote": "铸字露全了：段门二字，后头跟着一个编号。",
+      "reason": "实物门号给出新线索，保具体位置。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 144,
+      "quote": "你的记性用在‘当年有过什么’上，是凭据。",
+      "reason": "父亲接受现场复核，关系变化有言行。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 144,
+      "quote": "批的人是谁，单子没写全。",
+      "reason": "批名缺失能指向后续核账，不凭空加敌。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 145,
+      "quote": "缝到一人宽，是第七天头上。",
+      "reason": "口开只完成入口，接人及安全水仍未解决。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 145,
+      "quote": "这页先证明近几旬，往年的页还留在里头",
+      "reason": "个人页随人但证明范围不超页，身份选择与证据责任并在。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 145,
+      "quote": "一人宽的口，黑黢黢的，比看着的深。",
+      "reason": "通道变化明确，承接三天凿墙。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 145,
+      "quote": "他把那页纸塞进怀里，贴着胸口按了按。",
+      "reason": "护住自己页的动作给身份被看见的回报。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 145,
+      "quote": "下一凉时第一个接他",
+      "reason": "今日歇窗耗于退砖/验人，交代夜间恶化监护，下一最早凉时接人既急迫又有风险边界。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 146,
+      "quote": "过缝排在第二天凉时，汽退最长的那一段。",
+      "reason": "凉时单人窄缝明确窗口压力。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 146,
+      "quote": "匣子、工具、别的东西，今天谁也不许提。",
+      "reason": "先人后匣主动承担资料损失。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 146,
+      "quote": "他的头先出来，然后是肩，然后整个人坐在了垫毡上",
+      "reason": "真正一人出墙，十章救人承诺首次兑现。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 146,
+      "quote": "匣子在我手里跑不了。疮在他背上。",
+      "reason": "阿苗让老陈先出，人物温度来自放弃自身资料。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 146,
+      "quote": "接他前还得把窄板逐级试到要承的分量",
+      "reason": "下一载老陈有明确人选、背疮代价与验板前提，读者知道下一行动及未解困难。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 147,
+      "quote": "赶的是同日凉时的后半段",
+      "reason": "明确接146同一趟、过点手势和三处歇点；短暂凉风也在剩余数里，无无代价安全。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 147,
+      "quote": "这两行是别人的。你这一行，是你自己的。账不挪，也不拿谁顶谁。",
+      "reason": "保失联空行又给新人独立行，是公共规则选择。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 147,
+      "quote": "账上第一行，从此是他自己手写的那三个字。",
+      "reason": "新组首行有本人签名，变化可见。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 147,
+      "quote": "他自己走过去，坐下去，用手掌把铺位压了压",
+      "reason": "自己压铺位与向让位者点头，回报充分。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 147,
+      "quote": "第二天的送水班天不亮就要下坡。",
+      "reason": "继续送水同时收紧份额，下一天义务明确。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 148,
+      "quote": "副档未出，匣位复掩。",
+      "reason": "副档缺口与伤腿使资料方无法现场参与，冲突具体。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 148,
+      "quote": "排手位前就问",
+      "reason": "共同决定由事前预案/护纸风险交换来实施，急救例外与变更公开另记，两个人都有实在选择。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 148,
+      "quote": "预排未问，临场未说明变更，责任在渡。",
+      "reason": "认责落到准备和未告变更，弥娅当面核预排二字并继续接译，关系变化有实际文本。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 148,
+      "quote": "我接着译。",
+      "reason": "她保留火气仍接译，关系回报成立。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 148,
+      "quote": "七天后先验撑，看数再定开不开",
+      "reason": "预排检查保留迟延成本，水班先问匣边返潮，问题有具体追问方向而非天气保证。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 149,
+      "quote": "光不够时便停笔，等林渡摇亮了再念",
+      "reason": "同一灯需维护、伤手需接笔、抄字仍待底核，通宵成本可感知。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 149,
+      "quote": "这一个，先挂着。",
+      "reason": "无号不入公开账，选择符合证据权限。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 149,
+      "quote": "工没停。账没停。停的是名字。",
+      "reason": "活工与亡籍并置，制度矛盾清楚。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 149,
+      "quote": "你只管看，念出来，我来写。",
+      "reason": "手伤有人接笔，配合比解释更有温度。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 149,
+      "quote": "贴出去，上头要是来人查账呢。",
+      "reason": "公开招查账，具体风险与分存应对均有。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 150,
+      "quote": "欠了几晚的账，今晚一起算。",
+      "reason": "公开被排险转运拖延，开场清点所欠有压力。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 150,
+      "quote": "送水班，一日一趟，照走。",
+      "reason": "不许争纸切断送水，主动划边界且承担守哨代价。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 150,
+      "quote": "纸的事，明晚两边坐下，一条一条过",
+      "reason": "议纸从禁令转成可谈清单，冲突推动而非收束。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 150,
+      "quote": "他是两页纸中间活着的那个见证。",
+      "reason": "伤员本人在场验证亡籍，兑现身份主题。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 150,
+      "quote": "批单子的那个名字不在纸上，不在账上，不在今晚任何一个开口的人嘴里。",
+      "reason": "批单空框与明晚议纸双线都可追。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 146,
+      "quote": "他的头先出来，然后是肩，然后整个人坐在了垫毡上",
+      "reason": "141排序接人的承诺在146实救、147独立入账、150活人对表连续兑现；支撑、污染损耗和共同急救规则都补足，兑现没有抹代价。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 150,
+      "quote": "每一张出墙的纸都是一根线。",
+      "reason": "从排先后、腾手、结构险、伤员转运与份额紧缩，升级到资料风险/公开账/线上家属暴露；升级有前置两处料线，不靠突然敌人覆盖旧后果。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    }
+  ],
+  "body_first_record": "harness/maintenance/R005/resume-20261109/B15/body-first.md",
+  "coverage_note": "141—150完整首读与修后十章复读；13短修及两处承接再读。范围外未冒签全文。"
+}

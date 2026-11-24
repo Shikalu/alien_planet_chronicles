@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "kind": "independent-frozen-writeback-residual-suggestions",
+  "batch": "R008-B28",
+  "date": "2026-11-10",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+  "independent": true,
+  "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "freeze_path": "harness/maintenance/R008/writeback-freeze.json",
+  "freeze_revision": 2,
+  "freeze_sha256": "1bb8fef9622d3276775a9266d73ddd0533bd4f7de73ffd37cb39db48d60dad73",
+  "scope_chapters": [
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280
+  ],
+  "verdict": "needs_revision",
+  "edits": [
+    {
+      "id": "RB28-W054",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "line": 427,
+      "old": "“两栏不写来处”仅指拟示人版本省去敏感来源，不等于销毁私存出处。",
+      "new": "“两栏不写来处”指两栏本身也暂不对外、栏上不抄能牵出人的来历；原信、原收条、核认与证词私存分源不毁。",
+      "related_issue_ids": [
+        "RB28-N14"
+      ],
+      "reason": "“仅指拟示人版本”把限制缩成一个拟公开版本的脱敏规则；280实际决定是两栏暂不对外且栏上不抄敏感来历，私存原件与来源另留。原始A18行及术语词典已修，摘要仍须同口径，不能据拟字新增版本或授权。",
+      "applied": false
+    },
+    {
+      "id": "RB28-W055",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+      "line": 459,
+      "old": "| 277 | 送料入库只看准许范围；右臂吊着，左手扶车目数；人的页与货物页不合成无缺链。 |",
+      "new": "| 277 | 送料只到仓单室门外收签口，不入室；右臂吊着，左手扶车目数；人的页与货物页不合成无缺链。 |",
+      "related_issue_ids": [
+        "RB28-N15",
+        "RB28-N17"
+      ],
+      "reason": "R008实际校准仍用“送料入库”，会把货送到口子简写成人物获准入室；277实际到口子为止，人物台账和该章原始实录也已限于门外。按已有权限补清地点，不改装卸事实或另加许可。",
+      "applied": false
+    },
+    {
+      "id": "RB28-W056",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+      "line": 462,
+      "old": "| 280 | D144仅验旧楔留用，C2-B不变；两栏对外省敏感来源，私存出处不断；下一步核留下者。 |",
+      "new": "| 280 | D144仅验旧楔留用，C2-B不变；两栏均暂不对外，栏上不抄敏感来历，原信、原收条、核认与证词私存分源不毁；下一步按原自报／见证／待核状态核留下者。 |",
+      "related_issue_ids": [
+        "RB28-N14"
+      ],
+      "reason": "实录摘要“对外省敏感来源”没有保留两栏尚不公开的前提，容易被下次加载当成已经可对外展示；原始280实录已准确，本项只让R008摘要与实际决定一致。留原待核状态以免“核留下者”简化成全部已核。",
+      "applied": false
+    }
+  ],
+  "body_edits": [],
+  "note": "原53项的50+3-R1均已在revision2候选实际命中；本三项为另外发现的R008摘要残留，未代主笔应用。正文夜班冲突已解；最终正文与52checks独立记录，不将候选残留算成新正文矛盾。"
+}

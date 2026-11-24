@@ -1,0 +1,80 @@
+{
+  "note": "独立复核2真实所读字节原样留存；原报告仍绑定原路径和当时SHA，不改历史结论。",
+  "source_digest": "b62cde367340589644ccb4b77f72a499a414e8f6e9dfbc59a4db3b4bb2b81840",
+  "manuscripts": [
+    {
+      "chapter": 131,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第131章_向下的一段新路.md",
+      "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2"
+    },
+    {
+      "chapter": 132,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第132章_谁在里头换班.md",
+      "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818"
+    },
+    {
+      "chapter": 133,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第133章_孔里先过空气.md",
+      "sha256": "a6580b52ee7163585a9d10db2b26b847593bd0312ab3fdbccfa6a496e3de3035"
+    },
+    {
+      "chapter": 134,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第134章_面具后面的名字.md",
+      "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e"
+    },
+    {
+      "chapter": 135,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第135章_先听见咳嗽.md",
+      "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015"
+    },
+    {
+      "chapter": 136,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第136章_送水的人要喝水.md",
+      "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb"
+    },
+    {
+      "chapter": 137,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第137章_看见一只手.md",
+      "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e"
+    },
+    {
+      "chapter": 138,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第138章_两只匣子.md",
+      "sha256": "32295a3af13b7460647f81f70715fa030decc68231b8d5e27de8b5ee3aa5734e"
+    },
+    {
+      "chapter": 139,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第139章_让他们自己报.md",
+      "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67"
+    },
+    {
+      "chapter": 140,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B14/历史/复核2/第140章_门还没有开.md",
+      "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158"
+    }
+  ],
+  "reports": [
+    {
+      "path": "harness/maintenance/R005/B14/review-v2/recheck2.md",
+      "sha256": "0afa8f87d1ae6d21b4e6bcb024a884758a6fd5d7d11f3b17c8c566d7f8719e42"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/review-v2/recheck2.json",
+      "sha256": "a0908ae1ef3deedc3a14b772b188f1baff48a028ca87c3e389320bfe29861a3a"
+    },
+    {
+      "path": "harness/maintenance/R005/B14/review-v2/reader-review2.json",
+      "sha256": "80869d5e48ecee7a3f3a44c38e9fad19e36ca21b17f9055ef99a42d01d90295b"
+    }
+  ]
+}

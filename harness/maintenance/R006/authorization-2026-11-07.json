@@ -1,0 +1,601 @@
+{
+  "id": "R006",
+  "date": "2026-11-07",
+  "author_message": "待定问题按照你的建议修改",
+  "scope": "151—200章58项pending_author及其跨章依赖；采用各项推荐的最小纠错方案，不授权新增史实填平未知数量；不修改R005工作稿或推进连载日次。",
+  "before_checkpoint": {
+    "scope": "R006-workspace-checkpoint-not-release",
+    "edited_chapters": 50,
+    "edit_operations": 336,
+    "han_range": [
+      2202,
+      2462
+    ],
+    "issue_counts": {
+      "pending_author": 58,
+      "closed": 161
+    },
+    "current_fact_review_groups": 5,
+    "current_reader_review_groups": 5,
+    "reader_checks": 260,
+    "official_prose_unchanged": true,
+    "story_unchanged": true,
+    "release_allowed": false
+  },
+  "latest_reviews_before": {
+    "B16": {
+      "fact": "harness/maintenance/R006/B16/final2.json",
+      "reader": "harness/maintenance/R006/B16/reader-review2.json"
+    },
+    "B17": {
+      "fact": "harness/maintenance/R006/B17/final3.json",
+      "reader": "harness/maintenance/R006/B17/reader-review3.json"
+    },
+    "B18": {
+      "fact": "harness/maintenance/R006/B18/final2.json",
+      "reader": "harness/maintenance/R006/B18/reader-review2.json"
+    },
+    "B19": {
+      "fact": "harness/maintenance/R006/B19/final2.json",
+      "reader": "harness/maintenance/R006/B19/reader-review.v2.json"
+    },
+    "B20": {
+      "fact": "harness/maintenance/R006/B20/final2.json",
+      "reader": "harness/maintenance/R006/B20/reader-review2.json"
+    }
+  },
+  "files_before": {
+    "harness/maintenance/R006/B19/editor-log.json": "b9a819d41c4d65844a43162c96b3e6b12c65e966738aa369f534ff34635aadec",
+    "harness/maintenance/R006/B17/editor-log.json": "5db33d343220249af53580dd31c8eeedcd9e16b0b7c1dff7bee21dbfd001271f",
+    "harness/maintenance/R006/B16/editor-log.json": "93efadf957523a105f18bd44cb9ba97d38eb8535836e45ce97f8bb3f9d08a581",
+    "harness/maintenance/R006/B20/editor-log.json": "4458d9c6514269dc13cddbd149f55f89b57ee2ca6afd184451bc0f8737854031",
+    "harness/maintenance/R006/B18/editor-log.json": "f73eae6a139a468837449708934b9a02ce16703c7dd173cb6b7c7c90e55f3357",
+    "harness/maintenance/R006/B19/final-validation.json": "dd0d11d1b061f5c2ba012b190f578008b63cad3e05b056b4d0ca6778620140a7",
+    "harness/maintenance/R006/B19/final2-validation.json": "ebb5e7b43972fb200ec0788152ac9a55607b3fd1aebfac4c0190418888565957",
+    "harness/maintenance/R006/B19/final2.json": "08486ed44bfe10ee4ae8c8b0c80bad8be5f1e84e108f451f8bae507c850851ec",
+    "harness/maintenance/R006/B19/final.json": "dba6472a824a925f543659e3de782427719d092546eba19ff858b873b324602d",
+    "harness/maintenance/R006/B17/final-suggested-edits.json": "8a60715c12ba6cd84955bd1642b7927a8a28b036507c0206238576ef3221f539",
+    "harness/maintenance/R006/B17/final2-suggested-edits.json": "52683b21038ca4b3291fc2e25aa91d3d975eb0a5f6fc4e6fad02d4b1db7bbce5",
+    "harness/maintenance/R006/B17/final-read-manifest.json": "3c2486c52c383769ff7237b773f2171e63d38f19f5d5337ecd9680ee1af443e2",
+    "harness/maintenance/R006/B17/final-validation.json": "bb17d49cdeaddf60ace9d33c0a64d0543c24702453a0b940d5a580f3fd031f16",
+    "harness/maintenance/R006/B17/final2-read-manifest.json": "0aaaaf7bb425a45599cea5f049032290d5ddc0264c1861bc00640b89b3b5f3c9",
+    "harness/maintenance/R006/B17/final3.json": "7c3402e7df57b6cf4f9abfa7c7fe911f17ca82d8e97d45da537ddb2e0ff7f4e2",
+    "harness/maintenance/R006/B17/final2-validation.json": "1cec4542c63989ce234274b86e161682cfa42c0e9a82f5d9225c1283f1b889d4",
+    "harness/maintenance/R006/B17/final3-read-manifest.json": "472ce308118ccc0c527f7baa5d2e26cbc0c8ce52f172896abd5aafc619c84f7e",
+    "harness/maintenance/R006/B17/final2.json": "a9c7f09740ca6d529531ae0ad68e901541f2128d345624074a1079f98924b8c7",
+    "harness/maintenance/R006/B17/final.json": "e8aa437f0948211ab3fc5634b058731b833524678996797b5249096f6f322919",
+    "harness/maintenance/R006/B17/final3-validation.json": "c220a420aff3a3136bb05f2ee47eb3880cf9081276558a295cf279c5f41147fe",
+    "harness/maintenance/R006/B16/final-validation.json": "42a0919073ead9dbb1ecb6a85a9934d9096a40fdb4542b7ca6237faecd2c15ef",
+    "harness/maintenance/R006/B16/final2-validation.json": "98397ff68bb0a652cf50342147a2ad5ca942526d8dc4cc9ff6d2a2c08b23f518",
+    "harness/maintenance/R006/B16/final2.json": "00a1c40d9ee3ca7d2b87309679daba1298578f7c5331a19e5bd457a51c416cdf",
+    "harness/maintenance/R006/B16/final.json": "4a76c9d9d90bfb8663d7f65eae43177487c97c784b9fc650ac320ad14706cdf3",
+    "harness/maintenance/R006/B20/final-validation.json": "d38d13fb0c4961f8af5988ef90c0d251de01a3a1a189c194632d21ea8eb14efd",
+    "harness/maintenance/R006/B20/final2-validation.json": "e1cd0f43081b3d29ce7bc46e91b5ea2c5609372e75a041b79a6da130b91d608b",
+    "harness/maintenance/R006/B20/final2.json": "65412a28ec7bf458d38054f8db7b1f5f725d465e595e5151a75a77fd64558e90",
+    "harness/maintenance/R006/B20/final.json": "40f7fb6a89c34e1c8c8653bef1ccab8e5b04fec9f8c5b3921d370f5698f54fa0",
+    "harness/maintenance/R006/B18/final2-reading-manifest.json": "72b0c4658f677a906826f0e7d516ace18c9bdd15e1c43ab02c7ac6ef68306108",
+    "harness/maintenance/R006/B18/final-suggested-edits.json": "8926c8ca02a8c7e4b3670e19313e9fbdda452e0666f761f4933a36c78c9ef46e",
+    "harness/maintenance/R006/B18/final-validation.json": "317472495d3c91697714b86eeeab2a8f3f07205fe822b88e0506a686d0ee4759",
+    "harness/maintenance/R006/B18/final2-validation.json": "b9286c509e914252ce62ffea079e9ca2df7ce42da3df5e6284abfd981560bac5",
+    "harness/maintenance/R006/B18/final-reading-manifest.json": "9cf558131934d2c071000b2134f08f2ad88b5fbb1c78307e3309af404225a8ec",
+    "harness/maintenance/R006/B18/final2.json": "a1bc9683534c28316ca7437de533828230a2811a7289a6a51b0b57556b64c83b",
+    "harness/maintenance/R006/B18/final.json": "cb27678064fecfec735f4e3252a52fa4e7bc7cd227618adf4c64ebfbfe154935",
+    "harness/maintenance/R006/B19/reader-review.v2.json": "4dd0047431fa6850fa78f9ec54c9b1a2d442cf78e9a23c90a1a06ff300631951",
+    "harness/maintenance/R006/B19/reader-review.json": "daae6037fd2fda3246a84b12e230cb1b03fa5b40cf0b9d1d704ddc50d2ebe8f7",
+    "harness/maintenance/R006/B17/reader-review3.json": "8030729c950ebcbb9366b50b9fc8121194492a5b55ba1dc17b7bff13a26a001b",
+    "harness/maintenance/R006/B17/reader-review2.json": "b7171894c6008bf4ea25fa312d34c638f182a4831750b37310395edbc3102fbc",
+    "harness/maintenance/R006/B17/reader-review.json": "22f6ee025dbcc785f5888d1802b273078d438b78be92c341d7647c86459be5c0",
+    "harness/maintenance/R006/B16/reader-review2.json": "7456ce55c87028945e0f34a7a2fb26e89d15e3fa74d81c393ba95945c98feec4",
+    "harness/maintenance/R006/B16/reader-review.json": "c3073dccce9c7885e91762c0481347739821af1d9a6e4d1779fed2e1e0441702",
+    "harness/maintenance/R006/B20/reader-review2.json": "fda4ba653e5b5cffa1cc1f65031915cd440a2bebb8ae0167b7efb2d82769468b",
+    "harness/maintenance/R006/B20/reader-review.json": "d198d0a98b83d90b2105cb25084c2f433c2743dbcc42cf52f75970919c2942e5",
+    "harness/maintenance/R006/B18/reader-review2.json": "9212f3358d6b6f1634c83dd9623c6caf74dc1970fab5ba95447ceb208cc050f4",
+    "harness/maintenance/R006/B18/reader-review.json": "4683b9006be5b6635e6406987846a710c69b7b9809489835a9f88394f7e98a5b",
+    "harness/maintenance/R006/issue-index.json": "7c6761cdf6e3c514ba2158e96ce69e51b1c17ebfbd87fc76035cb99db6987786",
+    "异星录/正文/第二卷_黑暗断阶/第151章_谁动过送水绳.md": "c83852370fe4126d620b0ece3ffad4526b744bfe92af8b29bce8dcff9cdcd403",
+    "异星录/06_执行计划/工作区/R006-B16/第151章_谁动过送水绳.md": "ae9c54b9106312b2b1a71e13e03d4301a50ec89a9e9fa5a0a2351e168bb67e36",
+    "异星录/正文/第二卷_黑暗断阶/第152章_摘过面以后.md": "4dd61b6ce10459bd84e4f91b9d716b7af73e489408400424f815f1a072d49461",
+    "异星录/06_执行计划/工作区/R006-B16/第152章_摘过面以后.md": "f8f4d2e274abe570a8e01ba7704f6b3cb389012f70cb17192719eff6ee4863e9",
+    "异星录/正文/第二卷_黑暗断阶/第153章_只表决这扇门.md": "1c38df4e4d43999f65963deffee9b3e3147e570e6b8eff0f01147322c1f26713",
+    "异星录/06_执行计划/工作区/R006-B16/第153章_只表决这扇门.md": "7123d91b28b77fdce327dfa3e89496825f156a61bf2c7c08b6583b72451884d1",
+    "异星录/正文/第二卷_黑暗断阶/第154章_一班绳料.md": "5270e0d38d31a039b19e6c2f3cdca5ddcf66665043ec6898289ac996fe97c298",
+    "异星录/06_执行计划/工作区/R006-B16/第154章_一班绳料.md": "a4d58b010aa0f9575cfe45a098b1b553a9a6eecaa399c7da216ff9e95a7e50e3",
+    "异星录/正文/第二卷_黑暗断阶/第155章_回程也占一班.md": "11c122c3e4a73ce2586c00129933f3ea4f2cd4ef9a5977a263b00bef32e1b460",
+    "异星录/06_执行计划/工作区/R006-B16/第155章_回程也占一班.md": "6a6a210a2f037b2d1da1807fb608a43514ec68b23b840356ea9c8add6e1a1e81",
+    "异星录/正文/第二卷_黑暗断阶/第156章_撤走的向导.md": "f89cc4e11f441cba4f9b4cea5ca12803855ce6ee509a53e80018774d3ed4b5f4",
+    "异星录/06_执行计划/工作区/R006-B16/第156章_撤走的向导.md": "7f53c2598f84bf91043b1386a6d700b1ca2be37a7a286d2d91d5c908a805a25a",
+    "异星录/正文/第二卷_黑暗断阶/第157章_空托板转不过弯.md": "d0bb3118c6d2d3a003b6ee4a5c7fbb2cea3308e0a60d9e4280b2fdc174ee30ac",
+    "异星录/06_执行计划/工作区/R006-B16/第157章_空托板转不过弯.md": "bd4fcd7975e870464e4650017f3b99f4014ef88ab5b375a4f85b8d4a70760ede",
+    "异星录/正文/第二卷_黑暗断阶/第158章_两条没填的行.md": "47213ab86cafc8c78d1cc236739699d714b5f1ffb1a0cce3326fb0d0e7c04009",
+    "异星录/06_执行计划/工作区/R006-B16/第158章_两条没填的行.md": "a8d7c13494676035ea92bb0803c451136661b21cdc676e7162bf1b86edcd7d00",
+    "异星录/正文/第二卷_黑暗断阶/第159章_受保护的签名.md": "03e83d28f0fd14432d88f7fefe11ce496ccc578791348f4634d7e9d6a1375598",
+    "异星录/06_执行计划/工作区/R006-B16/第159章_受保护的签名.md": "142005509cbd5f9a45b5aea298ca72b40ed8f367df94ae8e0b826806f75f0b99",
+    "异星录/正文/第二卷_黑暗断阶/第160章_门开多宽.md": "93ecdd740cc12cf5016b6c8f8c686063fead40d97a384c6fd7b7505169578613",
+    "异星录/06_执行计划/工作区/R006-B16/第160章_门开多宽.md": "1823cdbd77f0904dad2071041a96bfe650766575acc7ab8c06becc55fbd45286",
+    "异星录/正文/第二卷_黑暗断阶/第161章_从四层抬头看塔.md": "11fe9d249f440656b93327c507785123c73bcb6852e4c51be2ea8d3a4cee6333",
+    "异星录/06_执行计划/工作区/R006-B17/第161章_从四层抬头看塔.md": "eeb9d6fdc1f1119d66d9b68769318e3defb6daf70599c2c41a4512d794cae9d7",
+    "异星录/正文/第二卷_黑暗断阶/第162章_上去的人少一半.md": "110fe9a75a2dcdbc518d2fd304524e9fca0052f651bd99243c2d85bfc6f8affb",
+    "异星录/06_执行计划/工作区/R006-B17/第162章_上去的人少一半.md": "ccb892c3fef9a4ce0f275014f13902c5caf8a9ea5659a4171bc20c2cf4da22b4",
+    "异星录/正文/第二卷_黑暗断阶/第163章_借表不借答案.md": "8239aa672dd80893c6b1a4a9ad7404f1c972f6c1f0fb43dfdba8d451d0715b08",
+    "异星录/06_执行计划/工作区/R006-B17/第163章_借表不借答案.md": "06d4200d32f0dbc7b34bb8e1194b42f8912e1bcb2a2bca03651bb0f31cedaeff",
+    "异星录/正文/第二卷_黑暗断阶/第164章_先让泵停稳.md": "2512f76b078361b71370636519f59ac0e28bdb69303fc3d18c2730a3ef360611",
+    "异星录/06_执行计划/工作区/R006-B17/第164章_先让泵停稳.md": "08501138d3d226e03a9b5c777668eabe21e10ae3b0137734bf8ce67f488da13c",
+    "异星录/正文/第二卷_黑暗断阶/第165章_声音经过两根管.md": "dcda7aabc61e7f99560993d1d410cf51c74dbab6591f435a1ade84c7e3a8ad2e",
+    "异星录/06_执行计划/工作区/R006-B17/第165章_声音经过两根管.md": "b57ae61ebeb32499f61ac27ab9b5f712a19891dc70aa3bc9c0e7f05468440fa0",
+    "异星录/正文/第二卷_黑暗断阶/第166章_敲击者.md": "40dfda13cbcf493ddbc7c8210c56f862da2d531b11db4bbc762ec576330258e1",
+    "异星录/06_执行计划/工作区/R006-B17/第166章_敲击者.md": "a0d735c7220e5c2907cb2b4d1eebdeb8a6d47955300e0ef33a591a3e3cd7773c",
+    "异星录/正文/第二卷_黑暗断阶/第167章_他们还在下面.md": "ff98612a5d3d636530ab7a322a067d6dd59ff421dd51058a2f48bf1b435bed97",
+    "异星录/06_执行计划/工作区/R006-B17/第167章_他们还在下面.md": "e1bc19adeaca5e1a40517a33ab817929ba9e3d4682203d3bc82e58d55edec66d",
+    "异星录/正文/第二卷_黑暗断阶/第168章_轮值表贴在哪里.md": "287d6875cdcfe71c6f307e370966491e39e936846abf41f6b3bc86efb7958fd8",
+    "异星录/06_执行计划/工作区/R006-B17/第168章_轮值表贴在哪里.md": "dddcfa028365054f9c7456e27a776074b6373096f949f311980602646a481fc9",
+    "异星录/正文/第二卷_黑暗断阶/第169章_谁先喝这一班.md": "967e10ad3f860ad516e69b6f63d6910e3ec4ad84f8d5d4d0b4465ddb1b7e6742",
+    "异星录/06_执行计划/工作区/R006-B17/第169章_谁先喝这一班.md": "af3259acd8dbfb2cb40148b306d73157091c0eb159e628e5ddccafce4f8fd7ad",
+    "异星录/正文/第二卷_黑暗断阶/第170章_塔没有换主人.md": "101673e052cd98e12268b66c2a8cc0920776efb26dc6dc37c16722fe8b9d929d",
+    "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md": "2e1d070ef424c5c2de5d3cf8b6cd0d78821c4b7e2fd8a7da5b5cde21a7ea4f39",
+    "异星录/正文/第二卷_黑暗断阶/第171章_有人摸到总阀.md": "da5b7f695bc5ea33ea1b9b0e9503a9c7da10267e055c4dcc830b2ac44d8f35c5",
+    "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md": "4414acadbb520b537f07fa7754caba0d955d2bb3e6e44116019634eb6496dfc0",
+    "异星录/正文/第二卷_黑暗断阶/第172章_流不到议政厅的那一管.md": "ed66e6446498fb2ddd53a7f28a38ec375be0a08c8d89e8514adb0ad58910dfd0",
+    "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md": "fa050e6da8048dcda71f790cfe9668e70b69d912428cd3dfa53059728ea53aeb",
+    "异星录/正文/第二卷_黑暗断阶/第173章_复仇名单上有孩子.md": "fb31d2e02830692896ea1d71a4db26a7c07a2221f36d69f349f6cbb6033a61c7",
+    "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md": "d6fea4341551efb6fe4e2eb3449392e0055759c069170cca1358e0bbf47da84e",
+    "异星录/正文/第二卷_黑暗断阶/第174章_父亲要的那一道门.md": "ff7b7089c80151fe0389dbbd996a5dc8b19606fd9abab781c834f8086914c36c",
+    "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md": "421f80ba157a2b49fc31b5d352604a93eac3ed8edb02ca851ed7098652128017",
+    "异星录/正文/第二卷_黑暗断阶/第175章_把队列摆在图旁.md": "732fabe8e88ea22c802e18e257a3cbfd702e2eeafba8b4903ec815edf09ccda6",
+    "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md": "26ab32c9daa7cd988578fd1a2565874916e49a00890237a59a20d556db038cb6",
+    "异星录/正文/第二卷_黑暗断阶/第176章_不再替你解释.md": "4beb1ec373301bd496435ed4eaeab3f1a81e94b7265b9f7a6250b4f7a6598185",
+    "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md": "5153f0948bf1f06b7d50b65421a823243befc3db90d359924e52a206eeaf7746",
+    "异星录/正文/第二卷_黑暗断阶/第177章_离开的那一班人.md": "b3d1b1c0998f6732e8d72d2a4a5b21d8add74a1d47c9178cbec560081647916f",
+    "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md": "910e5f1ff364d80d393c12d177d6f6b50a9a3f4c6e6adecc7794b526586cfeec",
+    "异星录/正文/第二卷_黑暗断阶/第178章_这一趟不装匣子.md": "098aeedd1a3c8e58eab052b093a18229c9853d67bcf65abdf5db856ae0e0ae5b",
+    "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md": "320e80857ffd2884cc113c97b990da54ecaf5c02a2fd0b41f0dbedb59f0959b4",
+    "异星录/正文/第二卷_黑暗断阶/第179章_对不上的是哪一笔.md": "1ad4e4710b1d9eb6f37f3395b4cbd4fb422bfc27c48eb3587f143f63d58bf1a3",
+    "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md": "28a3ab8b1fe2f492b968ce32ea000a104ac2bb446076041bfba9ba72ce62d2de",
+    "异星录/正文/第二卷_黑暗断阶/第180章_谁能带走一份.md": "78dfecb7417d3319902a64e6ca9fa342e1b0750e0c5adbd7f3dfd7147cab8b9b",
+    "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md": "4a77c791c6d24c4f3e2742f637183e9bd6403eeaad7ba975143ae31924a9e7fb",
+    "异星录/正文/第二卷_黑暗断阶/第181章_只说亲眼见过的.md": "84bb7feae94425a050d203272cf2a1893061d8019d5469bcd532620a340679ea",
+    "异星录/06_执行计划/工作区/R006-B19/第181章_只说亲眼见过的.md": "08c179fa5de840a6d29e90ae5fcb72c06edbd16eb8a4b41fb053afb724125cd6",
+    "异星录/正文/第二卷_黑暗断阶/第182章_抄错的一行.md": "618000a539925130afe9f5498e2d79c3d41ef7c042accad5ec32f79ddf5a499d",
+    "异星录/06_执行计划/工作区/R006-B19/第182章_抄错的一行.md": "23c83fd3d89fb7460ce566edf581f79efd2f0db13fdc50503cb611fcfa917050",
+    "异星录/正文/第二卷_黑暗断阶/第183章_签过封锁的人.md": "9de3c74b41e4eccf27c4abe6393a74d3a743988c0a355a3b438f175f12af2ea4",
+    "异星录/06_执行计划/工作区/R006-B19/第183章_签过封锁的人.md": "ecfd7505b1d25e32d7245102a2dc9cf825639af57ce560f7b57ad67c2ebb2436",
+    "异星录/正文/第二卷_黑暗断阶/第184章_听完也不必原谅.md": "3b8a98a01e18b0d51c5294d1cc77613e02abab3ad380d5ccf010d574230e9e5b",
+    "异星录/06_执行计划/工作区/R006-B19/第184章_听完也不必原谅.md": "26dc1fbd86413a88fd1adca9e3cab1989013a0052665f53d67194db55166b999",
+    "异星录/正文/第二卷_黑暗断阶/第185章_哪一件先送走.md": "9bfbf158289520abd7734ee29c738dd6f6e2d3e0d259a23ebef0036e69fb5e99",
+    "异星录/06_执行计划/工作区/R006-B19/第185章_哪一件先送走.md": "085b27e36ce4d02a4d49fb7fdece4eb27757baf10aa58f77470a32ecb6c1d3c9",
+    "异星录/正文/第二卷_黑暗断阶/第186章_缺口不补成一句话.md": "8b689a503b335e04ec96c8721195ab7104d1659f6bc0950e06a618706050546d",
+    "异星录/06_执行计划/工作区/R006-B19/第186章_缺口不补成一句话.md": "8c57ceed6cb917a4cae68c64747cd6d0f792d623b2a31f55c5632dc3addd1492",
+    "异星录/正文/第二卷_黑暗断阶/第187章_不是一只手点的火.md": "2311fc3264d56f0da03b0862f7682f885cb64f370b55ba695ca20a40e944c231",
+    "异星录/06_执行计划/工作区/R006-B19/第187章_不是一只手点的火.md": "9635f0ef083dcd7ca1341690646f699ccf004b093f62daf8254e70994699dc87",
+    "异星录/正文/第二卷_黑暗断阶/第188章_谁签了哪一笔.md": "4cf5949f185c12ecda8afb5a4234fe9ae4bb18d98c6878466cdfa1618f87483c",
+    "异星录/06_执行计划/工作区/R006-B19/第188章_谁签了哪一笔.md": "277a4c0d4789a48fadbb5ef7a63c3fff7f59c274f721dd5fe918fedfeac2fd81",
+    "异星录/正文/第二卷_黑暗断阶/第189章_被划掉的不是一户.md": "3dd8ebf24a7a310387cca0716f764e065155c7005ed1f09e3b89c076c399ba91",
+    "异星录/06_执行计划/工作区/R006-B19/第189章_被划掉的不是一户.md": "b06a72adbb8878c75922b37d3ceff08df3e489f96fa5bdf2e25944c7eb4439bd",
+    "异星录/正文/第二卷_黑暗断阶/第190章_留下名字的人.md": "5667cf54d608a82d3182daba1a09eefb47c34bb338ffae5081646f13a7bc1887",
+    "异星录/06_执行计划/工作区/R006-B19/第190章_留下名字的人.md": "5ad26c312de62255f5147cebf04ab2c465c05781bc519799ebddd994f40258ed",
+    "异星录/正文/第二卷_黑暗断阶/第191章_塔灯换回原色.md": "788333b45d5ffc71b182120fc894ba867d9db68f8df9ff57cc4cf9f6d3cabf2a",
+    "异星录/06_执行计划/工作区/R006-B20/第191章_塔灯换回原色.md": "231c2e7456d457d933f516867fddbf348724b3a73542a7bd64f21d58dfb301a2",
+    "异星录/正文/第二卷_黑暗断阶/第192章_门后只剩这些回应.md": "c6bc0294866b68c276d3f47c7140c0f23a142aeb51ecf7c0603e493571680108",
+    "异星录/06_执行计划/工作区/R006-B20/第192章_门后只剩这些回应.md": "7b4c9478edc0fdd8748431a52acfd29e49a376d6f024f005e357f1870b2fdecb",
+    "异星录/正文/第二卷_黑暗断阶/第193章_柜子留在原地.md": "3f67c4fbd3dc597af60bed1849f4898dda924f0476ed54649b872c38094f2050",
+    "异星录/06_执行计划/工作区/R006-B20/第193章_柜子留在原地.md": "69dd96889fed7c63b15e37636ab27aedc977585e01f7ad3d172cec26ecfa2033",
+    "异星录/正文/第二卷_黑暗断阶/第194章_再报一次自己.md": "ad8c7fdb66565bca1c131d89b83ca4f2c0a014e9e9db8bbeaa2ac4e8ffec4bab",
+    "异星录/06_执行计划/工作区/R006-B20/第194章_再报一次自己.md": "ddcc013363877e913e825ce8326d89f86b5acc8b94ed87b752a923d5cfb58a3e",
+    "异星录/正文/第二卷_黑暗断阶/第195章_谁回去查那根线.md": "8eebfe68c34221617a6d6372f222d222bcf9a87f3484713c4c24864405bd17f2",
+    "异星录/06_执行计划/工作区/R006-B20/第195章_谁回去查那根线.md": "a7452cb814e9737b031658352e2a09f5b0f62618971c974cf9a8735e02168a00",
+    "异星录/正文/第二卷_黑暗断阶/第196章_只回答眼前这一端.md": "7c3436f1bf26fee8092086a99f92a06ba6849730543330748b750a1e23148d20",
+    "异星录/06_执行计划/工作区/R006-B20/第196章_只回答眼前这一端.md": "5a45ae270cdce75f61a51c3392f22033c6e51787040ff8b8c634e32d514b8904",
+    "异星录/正文/第二卷_黑暗断阶/第197章_把没听清的留空.md": "bf3d08866bec773c44eaf59f5b1e9e1dfb5b663501f8704f5f8f806965304615",
+    "异星录/06_执行计划/工作区/R006-B20/第197章_把没听清的留空.md": "69bf937eb568347da0688afac9bd1149080c7bcd2bc73d5a16ff8d6df0ed811e",
+    "异星录/正文/第二卷_黑暗断阶/第198章_门和隧道不是一回事.md": "8f9087c5b881dfee0b207ef3a0f9ed0540902e94a7c87c5e9be332231991109d",
+    "异星录/06_执行计划/工作区/R006-B20/第198章_门和隧道不是一回事.md": "60f8ff8658beb909dca140e5ae449834b873ab51139fe56d71c492eabbddc662",
+    "异星录/正文/第二卷_黑暗断阶/第199章_走出去的人还要喝水.md": "d0afe2fc8b9bf2a8733df095d5f40530ffa34ba18bf6fc8c51b33327d399495d",
+    "异星录/06_执行计划/工作区/R006-B20/第199章_走出去的人还要喝水.md": "de6bce551c52c2f742d725fca2c743dcb290583e2089cd7cbea8a3a522f5a165",
+    "异星录/正文/第二卷_黑暗断阶/第200章_只开这一段.md": "553460fdafb783a0a4c9703a2b9a8d282be9adb391a7104f2842e3a9cb5931a2",
+    "异星录/06_执行计划/工作区/R006-B20/第200章_只开这一段.md": "241d73b6c19f89d6cc2b3d5fa2eb58fca799bfc5ec891c163f88e2b4215a7734",
+    "AGENTS.md": "1559cd0b90183ef0d16be4cd54de3c44be30dc162c41a17be5f11807ddaf1db6",
+    "skills/alien-serial-harness/SKILL.md": "761bd322737158e57113a834ffddb825abcda1a065583677c70933bf21c3dfeb",
+    "skills/alien-serial-harness/agents/openai.yaml": "cb4331d19bedcc7bdeaca02b2488a8242d144ab10f7d70b53fa0f4a1830884ea",
+    "skills/alien-serial-harness/references/editorial.md": "3e283e61fed471f8782c08facc7fac9804a9ce4faca494c17bb9ae21979bdd05",
+    "skills/alien-serial-harness/references/reader-review-format.md": "8e15775ff0bf9fa6d1f5fdfbf1b3f9644005e4a9fcd3c890a29ffb3cea5ed3b6",
+    "skills/alien-serial-harness/references/source-notes.md": "dc0e56f4da7d92959cce087fb992cf2666cb40da9cab97f79afa43b082e4fa9b",
+    "skills/alien-serial-harness/references/workflow.md": "5cb0739790cc7efe096b27467d7c5256a35668b9f14c7cfc35ca2069cc6a2bc6",
+    "harness/status.json": "f1206d1181449f2b03c410cfed5a9d0af84557c7db1cd702cbc57a63cc0cb9d3",
+    "harness/project.json": "a3be6bf45d6d2bd2d43496add711ef1c8bbc9c95313de673ea661294639f382f",
+    "harness/layout.json": "b91f24c2248bd0c19f5d4ea0afc17ece996a086cd2935bcebdf33d97a849630f",
+    "异星录/00_项目总览/后七卷设定决策与执行约束.md": "fbdf6296ba79a44afab8f089ed96d4c49b4be474b40292a301fe3b412a323462",
+    "异星录/00_项目总览/资料索引与阅读地图.md": "c132cf33e2b18161cac83b6b470bee5f0298aea6e17cd32d30c2e1f7194a5264",
+    "异星录/00_项目总览/项目总纲.md": "4ab37a056a89048b2d3b0071d40673bdbf86383c5453fd310908340f9e7da57b",
+    "异星录/01_世界设定/世界背景总览.md": "1df9e0b3d61385590e326605e57eb89a429962ce42b39df41af6275aa8423fdb",
+    "异星录/01_世界设定/世界规则与地理.md": "fbe42034184b50f5215f720974e8d52b53d99b83c34158ca6922dbbb3011d12b",
+    "异星录/01_世界设定/势力与制度.md": "f5911b836816e697a627d07f3674322100057840692fc0572aba50839ee3ef13",
+    "异星录/01_世界设定/栈城路线图.md": "f464a1e0fc31d109226f96855921adbbc5b5503486e1174221bcf62ce76a6350",
+    "异星录/01_世界设定/社会生活与文化.md": "dba69ae4e635824d0b0c9d8ee3f43045200cec89db0909b85da08f26bcaac068",
+    "异星录/02_角色档案/关系与成长线.md": "cc4ce12244f2e8806b82b33f9879f4b661fd4e84f5f4327dd1755c1303b607e7",
+    "异星录/02_角色档案/角色出场与语气卡.md": "88c7d6090569765a2eb19b9f28ca8ada90be565d876f9cde5550fd309ca38cee",
+    "异星录/02_角色档案/角色圣经.md": "70b29d33318f143006b4c975e77609717423b4e6f8a26a6de15ea6d289551c4c",
+    "异星录/03_剧情架构/README.md": "6012632eabb1b95b776259065701e2cc5946edba921616065a7c006e6a42e23f",
+    "异星录/03_剧情架构/分卷总纲.md": "0033c2ddfb4c1056f3c4fc6da73fe41569a12a8ece805f1a6b4eac0615ba03fd",
+    "异星录/03_剧情架构/第一卷/前10章场景拆解.md": "891a58a737e4ce2e3e839f0fe9f6c337d86b8e704670b4263f89643acd0addea",
+    "异星录/03_剧情架构/第一卷/逐章卡.md": "14ff61a5feddeffee994daffc3534bd7650ba931e16509804e238fa818e0fd59",
+    "异星录/03_剧情架构/第七卷/十章篇章卡.md": "f0116d0b64caeb2ceaa73e5bbe9cb5ef97c79a2dc4f864e09f918deeb92f4fa4",
+    "异星录/03_剧情架构/第七卷/卷纲.md": "b7a19f9a0f7cded7feb58c9bd21bacd2401b45a5a4e23332f3dfeea262ffdf7d",
+    "异星录/03_剧情架构/第三卷/十章篇章卡.md": "3811a81504c90f466b24269855995aad11633646a89a45e4f57615f4c01632c0",
+    "异星录/03_剧情架构/第三卷/卷纲.md": "5702412aa5c8b260cdae37d4c85ab393746537b07f5f75f462438f3c00e9a269",
+    "异星录/03_剧情架构/第三卷/逐章卡.md": "d46db390071fbdcc308656fd3b80c1cc137fb2a337f60ba101d93f5b7dd4b193",
+    "异星录/03_剧情架构/第二卷/十章篇章卡.md": "5a9f22e501d52ca780a12ef66afa07ab5741befeb38d4cefc059a63ab17cfea8",
+    "异星录/03_剧情架构/第二卷/卷纲.md": "e2b3de6d0b636662de612ee3baf4103adc439e4f33d5a0591515ed2d8e82d364",
+    "异星录/03_剧情架构/第二卷/逐章卡.md": "e3dcb40c5080a7e3eae96dc1915c1d6cd8e6b0b074b3f9edc0d7d849ba4819b8",
+    "异星录/03_剧情架构/第五卷/十章篇章卡.md": "a6663b2228a0410f3180aa46902829296b826d087e7cde2747fe0ab730036ead",
+    "异星录/03_剧情架构/第五卷/卷纲.md": "51a4bdbe62cf06a3e58240e5f3a2152853c839966f4bdf21790054a3b40da086",
+    "异星录/03_剧情架构/第八卷/十章篇章卡.md": "9f5a73a1b5e33fbc0c26801ff620cc416e3d20762b480480b120f90f2acc77f1",
+    "异星录/03_剧情架构/第八卷/卷纲.md": "e35b5530464cd75562d0c6f74c22bc537e602961ff6c1a30fd8f5354dcacf526",
+    "异星录/03_剧情架构/第六卷/十章篇章卡.md": "94d7252ecce4e722e93870af2f0f171257d5e729acb857fac02be3ef41115d03",
+    "异星录/03_剧情架构/第六卷/卷纲.md": "425ef34de4d5e2a35ee2b3a3ed50505ae4a139101d3ecad97eb6d2a37317082f",
+    "异星录/03_剧情架构/第四卷/十章篇章卡.md": "8dd5e24ab2e02765243ba51941d2fc163e6a81e45684bd8bcbe9af646531d68c",
+    "异星录/03_剧情架构/第四卷/卷纲.md": "ac67880aa15754bc7ff58c91dc561ef171ce8a01417524fb0e1ecff13d537ee6",
+    "异星录/03_剧情架构/第四卷/逐章卡.md": "37467b48d9e29e0a9a3266916f4e2303c9fb1dce7bf4ac777c374fe116b4c639",
+    "异星录/04_连续性管理/事件与地点时间线.md": "b0ab624736073e8f416c8a9335a243354f5efecfab598089982552b6cc0a6f13",
+    "异星录/04_连续性管理/人物状态台账.md": "9936b39b0e3bf3aa1b105ac5123f25794899cc8966ab869a15e613de715bc6c0",
+    "异星录/04_连续性管理/伏笔与悬念台账.md": "4e57a8d2ed89ae15227967a05b21820b5eda065ac8f1bf33977dbca00d035be0",
+    "异星录/04_连续性管理/术语与命名表.md": "09cc4251e38b6b352a8d3fd28e9e75f6b0c3902b8d899f11c80d91905a686795",
+    "异星录/04_连续性管理/术语词典.md": "d1c00162f077b77bc0f4d62ee8e5b4ca1cc7e4f4d79e74cecbdd4b71a0693033",
+    "异星录/04_连续性管理/第一卷收官状态快照.md": "abcc36de0a6a784753e9631342f526588fa5c467973f47eb56329a281fe54294",
+    "异星录/04_连续性管理/第三卷收官状态快照.md": "8f5fe99dc68dc201145205a8f5f01c63b37d6d16e3a0c8dc7e0000994e61435a",
+    "异星录/04_连续性管理/第四卷收官状态快照.md": "1f06af7ed7b552b41b71a4d9182a693cca3fd33b5bf4522970ab8d0f96d384ef",
+    "异星录/04_连续性管理/资源与时间台账.md": "f2f847459c6cbce1314aff9dae9838f1df645728152b64652db4967d02351612",
+    "异星录/05_写作规范/文风与细节精修规范.md": "b3e0eddc061defd8da5b2bcacfe210d4b5fce350cbd2c07d9c9d9d0df2512879",
+    "异星录/05_写作规范/正文与连载规范.md": "603f8d81d28f8a068edf8f26284f6447b474e21aaf9f6f5f66f93abf031e730f",
+    "异星录/05_写作规范/设定揭示计划.md": "83dc70cbf65556a2a41092d22ade7b572b0de4a9906a25e887264568f2f1bd46",
+    "异星录/05_写作规范/黄金开篇与持续追读规范.md": "ae686c0f64ab8e24c6638f7262a6444598731cda23e55fc5229983f6fbd8a814"
+  },
+  "authorized_issues": [
+    {
+      "id": "R006-B16-001",
+      "chapter": 151,
+      "recommendation": "把首日成效移至已有日末合账或改为待记项；先裁定半罐装载量与净到量的关系，再写必要的既有计量过程。不得新造漏水/私分，也不得删除台账已记两成。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-003",
+      "chapter": 152,
+      "recommendation": "请裁定户主名仅作索引还是代签；明示实际见证者不被户主替换，保留保护原则，不临时创设户籍法。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-005",
+      "chapter": 153,
+      "recommendation": "用现有委托名录统一个人票或组票，反对票也同口径记；说明岔题是警告还是失权。不要从49口推算选民或新增票数。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-009",
+      "chapter": 155,
+      "recommendation": "请确认所指的既有药料与登记来源；只补药料领取/消耗的必要承接，不由审读者开配方，不靠普通盐的新用途解决。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-010",
+      "chapter": 155,
+      "recommendation": "保留实际分摊和画押；先裁定责任单是费用承担还是事故过错认定，把先前轻卡报告列入核查，不以“躲慢”替代维修责任。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-012",
+      "chapter": 156,
+      "recommendation": "主笔先裁定禁区/已验路符号是否区分及三布位置。推荐保留既定波浪未知、三横已验，不用三横表示禁区；但红布三横已在人物台账，需获批准并由主笔同步回填，审读者不改规则。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-019",
+      "chapter": 160,
+      "recommendation": "先裁定门—封墙口—侧廊弯的串联或旁路关系，并在157至160衔接试验/交割未就绪导致的延期。保留老陈未出墙与先交水线的事实；不擅添新旁路、替代门或已通过重验。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-025",
+      "chapter": 158,
+      "recommendation": "主笔确认照护可支配份与总耗归属，补扣项，不改变已递半罐事实；不得由审读者改成杜姨个人份或新增备用水。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-027",
+      "chapter": 159,
+      "recommendation": "先区分证词公开册、对应索引与实际领料账。若只是合法交叉索引，写明其用途；不能以入证词册替代配给授权。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-030",
+      "chapter": 160,
+      "recommendation": "请确定是铰接开启还是卸扇支撑，并写出既有人手与撑具交接的先后。不能同时保留全退销和该轴承重；不发明第三轴、吊具或新支点。160仅2202汉字，优先用必要受力交接替换象征总结，勿净删下线。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B16-033",
+      "chapter": 160,
+      "recommendation": "按001同一计量口径核本日水量与递物流程，明确原有两趟半罐和门内分配容器的关系；药、滤件、毡与水分项，不新增水。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-013",
+      "chapter": 163,
+      "recommendation": "推荐保留两处断口相似，改为待核是否同一路批示；两张笔迹留证，不指认同人。需作者确认既有实录中的同手仅为人物猜测。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-016",
+      "chapter": 164,
+      "recommendation": "需作者在既有装置中明确热来自何处、芯格供哪一环节、为何加流会升温；若无既定热源，提交设定裁定及影响164/168条，不能擅增电泵或用虚构摩擦热圆场。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-024",
+      "chapter": 166,
+      "recommendation": "须裁定：A仅近日经已开通道收到留底，改“这些年一直”；B历史上只代存无身份中转件，需已有中转证据；C两老工其实知道对方存活则改已发生口径，影响更大。推荐先核A有无前文实录，不替阿苗编隐瞒动机。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-029",
+      "chapter": 167,
+      "recommendation": "裁定暂停的是试验新增分流还是生活份；推荐仅暂停造成短水的新增分流/操作，恢复原支路后再验，保留既有生活供水。未经裁定不替主队承诺全员断水。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-032",
+      "chapter": 168,
+      "recommendation": "裁定同规格格的容量单位、满/七成分母、五日具体日期和耗用总表。推荐依据已有实耗保留末余两成，纠正日耗或注明独立试验耗用，但只有原记录能支持时才补；禁止凭空发明额外0.25格消耗。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-033",
+      "chapter": 168,
+      "recommendation": "保留中性“值守房的灯”，不自行改为电灯或油灯；由作者确认灯具与照护电源的既有器材来源、范围，未裁前不以类比说明已闭合。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-038",
+      "chapter": 169,
+      "recommendation": "固定53分地点核，49不得再次包含老陈/维修台工。裁定额外4位是否继续沿已有墙内/照护位水份、是否从49六成转给照护位，或六四比例应另有口径。推荐先核A06原供水延续，不能扩大一罐半总量或暗改六四。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B17-042",
+      "chapter": 170,
+      "recommendation": "需裁定“上头”指权力还是管线受水者。推荐让庚二用既有进出水账指出关塔闸先伤哪些下游支路；若确有可反制上游水路，须作者提供既定图证，不能临添返流管。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-002",
+      "chapter": 171,
+      "recommendation": "先列既有阀件与每次前后开度。若本阀曾再收一格，须有既定操作依据；若非本阀，需裁正文及A08复位实录。不得把流量线数换算成阀位格数。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-004",
+      "chapter": 171,
+      "recommendation": "核既有阀座锁点及操作步骤，再说明锁连哪两处；没有现成结构依据不添锁孔、止动器。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-006",
+      "chapter": 172,
+      "recommendation": "据现有水线图/实际可见管路分清阀后旁支与塔腰主干；井内未见的只能待核。不可新添止回阀、开盖或透视。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-008",
+      "chapter": 172,
+      "recommendation": "裁定空的是哪班及何时发现，交代六叔在阀间/走线的先后接班。守住171/172同为D41，不擅顺排两天或添替班者。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-012",
+      "chapter": 173,
+      "recommendation": "按既定份额账裁定重排是何用途、是否再次领取；未有依据不补代领/下一班/额外救济份。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-014",
+      "chapter": 174,
+      "recommendation": "分别列墙龄、养水工龄、原封、爆破、续封及递单，不把所有三十年替成十六年，也不新造另一场封锁。保留林岑知而不问/执行责任。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-017",
+      "chapter": 176,
+      "recommendation": "按每盏既有灯列能源、主人与账项，再改对应动作；保留两天红线及181D48复核实录，未裁前不新增油料或混合灯。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-019",
+      "chapter": 176,
+      "recommendation": "原图计划孔位、门件描图实见、本人陈述三栏分开。前两处有据相符照写，第三处只有口供则列现场待核；需要尺度依据须作者提供既有材料，不移圈补精度。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-020",
+      "chapter": 179,
+      "recommendation": "查登记环节与来源链，未经独立证实只称同源相合；化冻冲突留待质，二次封墙降为待查假说，不用季节常识或换一支笔代替独立证据。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-021",
+      "chapter": 177,
+      "recommendation": "用现有人班表逐项列全线、当次抬组、接手点和退出六人；阿九只扶板。三人来自哪一既有组须裁，不新添居民。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-022",
+      "chapter": 178,
+      "recommendation": "先列D41—47的计划/实发/回叙时段，保留已记停运半日与夜宿；不删事实凑时长。另按039裁D47与D49首批出发接口。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-024",
+      "chapter": 178,
+      "recommendation": "分开出墙和上五层两段，按既有落点补等待与照护交接；作者选实际位置，不自动补回墙/到棚或新人。明确远端场景及返回林渡的消息来源。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-025",
+      "chapter": 178,
+      "recommendation": "裁留上一级还是退到坡腰凳，统一命令与夜宿；若后退必须核既有可走段和到位交接，不添新桥新板。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-026",
+      "chapter": 178,
+      "recommendation": "保留本趟救人及不可逆纸损；期限若仅老工师估计须说清，不当物性保证。改取档期限需核后续依赖获裁，不补干燥装置。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-034",
+      "chapter": 180,
+      "recommendation": "分别盘公开册、受保护对应页两份、孩子睡区图、证物位置索引。裁“不出棚”是禁外送还是迁走站柜份，未裁不删双存；人号/匣号分命名范围，不虚增第38受护者。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-035",
+      "chapter": 180,
+      "recommendation": "请作者核定站柜两张的具体类别及单张身份，再对应标余下四张入棚青石；不移动已定物件、不因批语恰为两张就默认全入站。清单外今日页/残角原单按当前待核状态保留，不编造持有人或交接。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-037",
+      "chapter": 180,
+      "recommendation": "限定话头是旧交接线索，裁预告继手与见证授权的既有做法。不补密码系统、暗匣、隐形副本或把孩子坐标交给全员。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B18-039",
+      "chapter": 180,
+      "recommendation": "优先保护D47已记出发；若将182出发段限定为同次出发前回叙，须由作者区分D48后校对场景与实际当时匣内材料。若改180为筹划/装载未发以保182D49首发，须显式获准调整已记D47出发及相关卡/账。两案都不是可直接替换；不添回程、第二匣或新一批。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-002",
+      "chapter": 181,
+      "recommendation": "若已有重点铺位规程，点明半趟范围；否则不杜撰减巡人数，保留合灯与两趟速度差，不宣称减成一趟半。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-008",
+      "chapter": 182,
+      "recommendation": "主笔核180—182最终版本：这是首批出发前的回叙，还是已走首批后的补送？不得无交代添一次回程或第二只匣。明确时序后再拟替换。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-012",
+      "chapter": 183,
+      "recommendation": "主笔从既有来源补送达路径或明确转述待核；确认附页是否独立，再统一两页正文与附页的收执口径。本审不编造传信者。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-021",
+      "chapter": 185,
+      "recommendation": "推荐主笔据185净变动把A09当前状态改为三处，并保留迁出迁入历史；若四处指累计启用地点，必须明确历史累计≠现存。属于台账裁定，本审不改台账、不新增藏点。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-022",
+      "chapter": 186,
+      "recommendation": "先确认档片显示方式及可感知删痕、所核空白的范围。保留“两头同天空白不能推出共同删史”，新增年数/天数/通信来源待主笔裁定，不为其补造设备。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-026",
+      "chapter": 187,
+      "recommendation": "列出30年墙龄、16年前本地爆破、后续续封/递料各自证据与亲见范围；不把所有“封墙那天”统改为16年前，也不凭C02发明第二次封墙日期。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-029",
+      "chapter": 188,
+      "recommendation": "作者裁定：若保留棚前，必须说明与睡区门路隔离的可行安排及为何不能在塔下；若搬听证，需联动已发生地点条目。不能只换一处地名就关闭。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-033",
+      "chapter": 189,
+      "recommendation": "正文最小修为前日限流导致未装满，今日才彻底断；主笔另核D56—D57和天亮前/辰时的记录范围，不把一天硬塞两次天亮。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-034",
+      "chapter": 189,
+      "recommendation": "方案A保留分口明账供水，承认承担抗令/连坐风险（推荐，符合184压力）；方案B已有明确豁免条款才可不破令。不得凭空增约书优先效力。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-035",
+      "chapter": 189,
+      "recommendation": "主笔用已有库存与班表明确两个账户，并至少给一个已核剩余班次/截止锚点；若基础量未核，写条件期限而非假装精确倒排三个日期。本审不拟新数。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B19-037",
+      "chapter": 189,
+      "recommendation": "让老住户承认少水、接过当前明账份；鸟的一勺若保留，作者按已有分配规程处理，勿擅改为不存在的灰水或新增水源。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-001",
+      "chapter": 191,
+      "recommendation": "请作者依据既有班表/已发生抵工记录裁定半工归属；若无权威证据，保持待裁。不得凭审读建议增加班次、劳动或结算事实。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-004",
+      "chapter": 192,
+      "recommendation": "保留原待裁两方案，主笔先统一声音应答与照管痕迹的不同集合；不直接把十二改九。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-006",
+      "chapter": 192,
+      "recommendation": "仍待作者核定这根旧撑何时安放；无依据不加历史事件。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-014",
+      "chapter": 194,
+      "recommendation": "沿既有逐章日次核三遍的实际跨度；待裁不能擅改D66，更不把201已桥接的D67算新缺口。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-017",
+      "chapter": 195,
+      "recommendation": "作者须据既定同行名单/值岗事实与已有热源规则裁定；没有依据就保留未决，不新增第八人、不临时造柴火/热水来源，也不把医疗水账当能源账。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-020",
+      "chapter": 196,
+      "recommendation": "整场准备/开机时段由主笔据日次裁清；47息应回到既存回码端点，不能吞入随后密音两轮。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-024",
+      "chapter": 197,
+      "recommendation": "列现有每张纸的原/抄层级、持有人、交接时点后再改称谓；不得添第三份同等全本。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-032",
+      "chapter": 199,
+      "recommendation": "保原讨论待裁；不能临时添合法拒救制度或新豁免规则。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-034",
+      "chapter": 200,
+      "recommendation": "作者先核既有测量对象和确实观察到的结果；无权威依据就保留未决。不能为凑平改出新长度、可通行深度、探路经历或把麻线伸入等同气路已通。",
+      "status": "authorized_for_revision_not_yet_verified"
+    },
+    {
+      "id": "R006-B20-037",
+      "chapter": 200,
+      "recommendation": "终端推断与折月口径分别待裁；保七号/等值既存记录，不猜容量、住户或罪责。",
+      "status": "authorized_for_revision_not_yet_verified"
+    }
+  ]
+}

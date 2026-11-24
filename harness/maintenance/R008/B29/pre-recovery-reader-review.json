@@ -1,0 +1,442 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "batch": "R008-B29",
+  "profile": "serial",
+  "writer": "R008-main",
+  "reviewer": "01a1c0c8-d087-7b43-8c17-7ad7951d4bf4",
+  "independent": true,
+  "body_first": true,
+  "source_digest": "c3b4a80e90f414d9648e290284a1d4ee12469b47940b5c0a1b89ad450b17f445",
+  "input_digest": "c3b4a80e90f414d9648e290284a1d4ee12469b47940b5c0a1b89ad450b17f445",
+  "source_manifest": "harness/maintenance/R008/B29/final-manifest.json",
+  "manuscripts": [
+    {
+      "chapter": 281,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第281章_班上还有他的名字.md",
+      "sha256": "42b31429a58232b1c0d9fbb629828bb9e9621e5d72b0b63ee4dc83692da4d4f9"
+    },
+    {
+      "chapter": 282,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第282章_做满这一旬.md",
+      "sha256": "67913f9b5c756482d5e5cdec005913a0a48654943bb99f35ade29c1d2b8df7a2"
+    },
+    {
+      "chapter": 283,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第283章_绳里面没有他们.md",
+      "sha256": "6f7bf1b5ac46f0380d92c6b4a3ab7b3998da36f5e8d1bd1408c06211931471b5"
+    },
+    {
+      "chapter": 284,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第284章_先发运的是家属.md",
+      "sha256": "b0712b78e52374c0e58899532254e2280daa7615d4a3904e2de17abb327002a7"
+    },
+    {
+      "chapter": 285,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第285章_从靠山这一边下来.md",
+      "sha256": "a8014cc6d692ce35fe87042725639c335e435ef2e1cba0f3c7059374aa77230e"
+    },
+    {
+      "chapter": 286,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第286章_半勺写在谁的名下.md",
+      "sha256": "30d37dec04f9785fb215e89fa10a6389dc49682293777614af53b7afdc3bc112"
+    },
+    {
+      "chapter": 287,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第287章_先从沟里退出来.md",
+      "sha256": "50c89f9474c35e28b9bb03fdb531bb2c2a66efb1f81bf3a45f8a8751f585cf91"
+    },
+    {
+      "chapter": 288,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第288章_水份不问支持过谁.md",
+      "sha256": "424bc46dae940929b66c7970986d83d7fee4e46e4be65dad706ad5da6aeccee0"
+    },
+    {
+      "chapter": 289,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第289章_下旬的车栏空着.md",
+      "sha256": "b76d1e788f2daf2cdcc7b7a917a848289c452a9f76b8db568d494c16491bedc4"
+    },
+    {
+      "chapter": 290,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+      "sha256": "8b5f4e13065cbe7bc5e58cae9a6a18021e4f951c15f892626682712d10194dac"
+    }
+  ],
+  "verdict": "needs_revision",
+  "checks": [
+    {
+      "chapter": 281,
+      "criterion": "opening_pressure",
+      "quote": "待核页的第一行，今天来了人。",
+      "reason": "首句把抽象待核格变成来求证的活人；随后旧册“已撤”与妻子所报“班上”抵触，我立即想知道谁记错了，而不是先等背景介绍。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 281,
+      "criterion": "protagonist_choice",
+      "quote": "“我来核你人还在。不核你支持谁。开泵得有人，分出来的水也得给活人。”",
+      "reason": "林渡不以反对议长换取救助，又不凭同情直接改册。他选择上门和找独立班证，显出组织者对证据与人的双重责任。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 281,
+      "criterion": "visible_change",
+      "quote": "人见到了，班上旁证明日核，撤离安排未见凭据。",
+      "reason": "待核对象从纸面失踪者变成亲见的在岗工人，同时“安排就是撤离”显出无书面凭据；这不是核完一切的假进展，空格仍在。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 281,
+      "criterion": "emotional_payoff",
+      "quote": "“新水没批。下迁也没全批。今天答到这儿。”",
+      "reason": "没有用许船位讨人物欢心。陶继说出母亲因修泵得活的经历后仍获平等核人，林渡坦白救助边界，给我的回报是可信的接触，而非廉价说服。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 281,
+      "criterion": "next_question",
+      "quote": "林渡把明天要问的两件写开：先核班上的人，再去问，留守者的家属究竟等在哪里。",
+      "reason": "在岗证词与家属安置形成两条具体问题；运箱已排下一趟、活人还无船位的对照使次日核验有紧迫性。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 282,
+      "criterion": "opening_pressure",
+      "quote": "陶继接班的那个人，先让林渡退到检修棚的黄线外。",
+      "reason": "第一场行动直接接上核班承诺；热管、废水沟和黄线限制站位，核事实也必须服从现场危险，没有开头重讲旧账。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 282,
+      "criterion": "protagonist_choice",
+      "quote": "“只证你见的这几班。”",
+      "reason": "林渡主动缩窄旁证范围，不索取整个工班历史的背书；后面又保存修泵实绩，避免以政治结论替代调查，选择有辨识度。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 282,
+      "criterion": "visible_change",
+      "quote": "从八口到九口，次批五户十一口还差两口。",
+      "reason": "人物核实从8变9是可见兑现，紧接着保留两口待核与搬迁未批；读者得到真实推进，也能辨认它还不能解决什么。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 282,
+      "criterion": "emotional_payoff",
+      "quote": "“留好，别烧。”林渡说，“谁修过，谁停过，都要有纸。今天核不完这张。”",
+      "reason": "旧泵图允许陶继的感恩成立。林渡没有抹去治理成果，我更能接受陶继后续的失望与愤怒，而非把他当待教育的愚人。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 282,
+      "criterion": "next_question",
+      "quote": "旬头只剩两日。林渡把下一凉时的上坡刻在岗位页上，将原定给拉料的那一格划掉，写了“候船边区”。",
+      "reason": "边区准入已获、时间仅两日，下一章能实际去看，而非再问能否申请；代价是眼前漏棚的拉料班再被挤掉。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 283,
+      "criterion": "opening_pressure",
+      "quote": "上坡之前，陶继先把工具送到六层外堤。",
+      "reason": "开头不是强爆点，但送工具、试轴不转和随班上坡迅速给出当前目标及准入限制；排水口的具体操作也为后面风险留下可回看线索。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 283,
+      "criterion": "protagonist_choice",
+      "quote": "他把陶小满叫回母亲身边，让出弯口。",
+      "reason": "林渡先辨退路再带人行动，进入候棚后仍选靠山柱、记裂板，而不拿核验身份冲绳口；救人的结构判断持续约束他的调查。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 283,
+      "criterion": "visible_change",
+      "quote": "“那是你们核在岗。这边核留守家属，核后等安排。过那道绳，要实发的船位。”",
+      "reason": "“已核”不再是模糊通行证：在岗、家属候核、实发船位被场上那道绳分开。读者和陶继同时看清等候无法自动兑换登船。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 283,
+      "criterion": "emotional_payoff",
+      "quote": "“那你先别交钥匙。”",
+      "reason": "钱婶已失原屋却仍信修泵恩情，这句只替年轻一家保留退路；它比旁白总结受骗更有温度，也把她自己的困境具体化。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 283,
+      "criterion": "next_question",
+      "quote": "明天旬头，陶继还要拿着没有船位的纸上坡。他们得在同一天核清，那道绳先放过去的家属究竟是谁。",
+      "reason": "“家属已发运”的空车与绳外等候冲突，问题明确落到谁先通过、去哪里核，不是泛指上层神秘；半页两行提供下一步行动入口。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 284,
+      "criterion": "opening_pressure",
+      "quote": "旬头的六只标桶到齐，旧欠没有到。",
+      "reason": "换旬不等于欠额消失，首句保留缺水压力；接下来林渡只能查两行运送记录，新旬的期待马上遇到资源与证据边界。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 284,
+      "criterion": "protagonist_choice",
+      "quote": "“给所有来问这件的人看。原名只给那两家。”",
+      "reason": "他选择公开可核结论而保护原名，并将亲属认名、工人见送分开；这让追责与当事人风险形成可见取舍。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 284,
+      "criterion": "visible_change",
+      "quote": "已核两户优先家属，在留守复核前送抵七层登船口；普通留守与退工者仍在候船边区，无实发船位。",
+      "reason": "上一章的旧联得到两户、先后日期、送达口的局部证实；海上去向仍空，不靠突然拿到全册完成过量揭示。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 284,
+      "criterion": "emotional_payoff",
+      "quote": "“这句话别只压在你们抽屉里。”",
+      "reason": "孟芸要的是被承认并公开的不平等，而非索取私下捷径；她从报丈夫名字的人转成要求发声的人，这种变化支撑后续主动合作。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 284,
+      "criterion": "next_question",
+      "quote": "下一班谁去送这张结论、怎样把等船的人接到仍然缺水的五层，他得先与当值的人排清楚。",
+      "reason": "真相核实迫使组织行动，问题转为如何接人与由谁承担缺水，不继续只查另一本册；陶继的一晚留棚使行动不能久等。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 285,
+      "criterion": "opening_pressure",
+      "quote": "候船边区要退棚的消息，比不带名字的抄页先下来。",
+      "reason": "公开结论尚未送达，危险已迫使撤人；凉时前清退让时间变窄，首段就把调查线推入救人现场。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 285,
+      "criterion": "protagonist_choice",
+      "quote": "“箱留着。”林渡说，“先接人。”",
+      "reason": "他在裂板处拒绝继续取物，把陶继改派去接钱婶、自己守入口分流；右臂不能用，能力体现为选择与组织而非徒手救所有人。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 285,
+      "criterion": "visible_change",
+      "quote": "林渡叫另一名搬运者留在门边数自己这次接的四个人：陶家三口，钱婶一人。",
+      "reason": "四人实际退离危险并经六层落到五层借铺，不是多了一个准入批条。后文限定钱婶另列、两板只借今晚，救人成果与安置未成清楚分开。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 285,
+      "criterion": "emotional_payoff",
+      "quote": "钱婶腾出一只手扶柱，慢慢跟上，没有跨过裂缝。",
+      "reason": "修后动作压缩而仍能看见身体怎样通过：一手握宽带、一手扶柱，陶继亲自接她。救人成为可感的局部成功，没有整理包裹把险情拖松。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 285,
+      "criterion": "next_question",
+      "quote": "明天他们喝的两壶半，要从哪些人手里让出来，必须在开桶以前问清。",
+      "reason": "安全落地直接制造下一班饮水缺口；不是等待泛泛的新危机，而是要让原来就缺水的人作决定，我想看林渡能否真正办到。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 286,
+      "criterion": "opening_pressure",
+      "quote": "第七只桶没有来。",
+      "reason": "首句兑现上一章的资源约束，四人的旧份空罐紧跟其后；救下来不自动多水，分配压力不靠长段说明才出现。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 286,
+      "criterion": "protagonist_choice",
+      "quote": "“半标准勺。这班我领一勺半。”",
+      "reason": "林渡先付自身份额、随后限定每班重问，不用权力平摊也不替所有人许永久让水；选择真正改变分配程序和他的损失。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 286,
+      "criterion": "visible_change",
+      "quote": "第十五行写满，戊字一停笔。十五名旧成人各半标准勺，七勺半正好两壶半。",
+      "reason": "前章无来源的四人下一班得到可核的实发来源；校量、当人签认和病幼先出使结果不是一句众人慷慨，旧欠仍留着。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 286,
+      "criterion": "emotional_payoff",
+      "quote": "“我让了地。水我不让。”\n\n“你的两勺照旧。”林渡说。",
+      "reason": "提供床位的人有权拒绝进一步牺牲，且不被惩罚；这让让份者的选择更可信，接纳不是全员忽然高尚。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 286,
+      "criterion": "next_question",
+      "quote": "十五行让份只够今天这一班。林渡收起标准勺之前，又看了眼陶继床脚：旧布留在那里，长柄扳手已经被他抱进怀里。",
+      "reason": "当天分水已兑现，却没治好陶继的愤怒；早先展示过排水口和两人试排规则，抱走扳手成为具体威胁，并非章末凭空出现敌人。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 287,
+      "criterion": "opening_pressure",
+      "quote": "孟芸到值桌时，陶继已经带扳手上坡了。",
+      "reason": "首句立刻执行前章威胁，林渡接着报原工、安排留守再赴现场；不用重讲分水争论拖延危机。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 287,
+      "criterion": "protagonist_choice",
+      "quote": "林渡没有越过两人去抢柄，先挡住沟外板道来往的人，叫经过的检修者在靠山落点停住。",
+      "reason": "林渡以受伤身体能做的方式控制退路和旁人，而把止动、卡柄留给原工与阿九；他让陶继自己卸柄，使责任不被主角包办。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 287,
+      "criterion": "visible_change",
+      "quote": "扳手留在工具口，布归陶继带回。旁边那个退班者没有走，仍看着原工。\n\n“工具给你。”他说。",
+      "reason": "阀未开、工具暂收和外堤停岗的结果本来明确，但这里最近的男性主语变成退班者，紧随的“他说”使交工具及原工“由你带来”像在指另一人，直到“陶继念了自己的名字”才纠正。卸柄高潮后的责任落点出现一次不必要回读。",
+      "verdict": "needs_revision",
+      "action": "仅将本章唯一““工具给你。”他说。”改为““工具给你。”陶继说。”，保持工具归属、未遂责任和停岗范围不变；换稿后绑定新指纹复核此项。"
+    },
+    {
+      "chapter": 287,
+      "criterion": "emotional_payoff",
+      "quote": "“把你那两勺倒掉，也不会长回一环。”陶继说。",
+      "reason": "陶继自己说出报复无法修复失去的东西，并开始松手；受助不等于被说服的复杂感受在行动中转向，保留他犯错的责任而非洗白。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 287,
+      "criterion": "next_question",
+      "quote": "“摆。”林渡说，“也摆你们今天想放水的这笔。明天同一张桌，谁都不替谁藏。”",
+      "reason": "险情解除后不是归功主角，而是把优先家属与己方未遂都带到公议；我想看公平底线遇上己方愤怒能否守住，下一步和代价均具体。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 288,
+      "criterion": "opening_pressure",
+      "quote": "戊字一将三张纸压在桌面：不带原名的两户转运结论、昨日外堤检修抄页、今日的让份页。",
+      "reason": "开场迅速聚齐对立者和三件需要同桌处理的事实：特权、己方责任、今天的水。现场人物座位与照护留守先写清，公议不悬空。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 288,
+      "criterion": "protagonist_choice",
+      "quote": "“领。你不肯让份，也领。哪天轮到我们说一句话就扣他的水，这张桌还得再拆一次。”",
+      "reason": "林渡拒绝把政治立场和合作意愿换成领水资格；他知道这样会失去劳力仍坚持，选择改变关系而不只发表主题。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 288,
+      "criterion": "visible_change",
+      "quote": "两人先前退的是搬运，这次把其余可接的合作也一并划掉；人仍住在棚区，没有说要转去别处。",
+      "reason": "公议没有团结所有人，失去的是两人的回话、核证等合作而非两个人口或水份；随后的岗位重排使关系变化成为真正成本。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 288,
+      "criterion": "emotional_payoff",
+      "quote": "“我今天才来问，是晚了。”他说，“你拿这句记也行。别拿我女儿的半壶替我认。”",
+      "reason": "陶继承认自己过去没问，却不以女儿的水作悔过抵押；钱婶代看一趟、孟芸试送一次形成有限信任，回报不是强行大和解。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 288,
+      "criterion": "next_question",
+      "quote": "明天要核官方搬运是否还排下旬。若那一页也空着，他们不能再拿今天这张公议桌当作运输的出路。",
+      "reason": "退出合作留下运力缺口，所以查官方班表是当前选择的后果；钩子转至下一旬实际运输，比继续争谁对谁错有新的难度。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 289,
+      "criterion": "opening_pressure",
+      "quote": "孟芸把第一张回话送到六层检修棚，没有跨进柜房内廊。",
+      "reason": "前章她提出的一趟回话立即执行，短条问的就是下旬常班；开场以有边界的新主动者推进未决问题，安静但不空转。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 289,
+      "criterion": "protagonist_choice",
+      "quote": "林渡把申请放在四笔候料之后，要求明天先到料场验，再报装车。今天没有料入账，不能拿一趟空名额补棚顶。",
+      "reason": "他不把可申一班写成物资到账，并把四笔欠料都保留；同时信件不能耽误申请，组织决策不以等远方答复逃避眼前缺口。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 289,
+      "criterion": "visible_change",
+      "quote": "纸面有完整的抄录行，上方是运输工班的核送戳，下方写本旬末撤去山脊常班，下一旬常班暂不排。",
+      "reason": "公议末的担忧变成明确收班通知，普通运输与留班供水分开，余一次还须验料；外部条件收紧而非凭空全面断水。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 289,
+      "criterion": "emotional_payoff",
+      "quote": "“只写收到上一张。”",
+      "reason": "他不知弥娅落脚处，不能命令回来或保证纸能到；只确认收到，克制的回捎给分离关系一次有限回应，不借感情线泄露家属信息。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 289,
+      "criterion": "next_question",
+      "quote": "明天先验最后一趟能带回什么，再把运不来的那几笔留给公议桌看。",
+      "reason": "问题从有没有车变为有限班次能拿到何种真实木料；四项欠料无法全清，下一章必须做取舍，而不是再收一张笼统通知。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 290,
+      "criterion": "opening_pressure",
+      "quote": "棚顶的两户先到了值桌。",
+      "reason": "前章余班一出，两户带罐、带候料页抢先到场；短撑仍在、四笔未销，开头马上让有限材料的竞争有具体人和物。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 290,
+      "criterion": "protagonist_choice",
+      "quote": "“去看漏口。两处都看。”",
+      "reason": "在拒收坏长材之后，林渡又亲看两处漏水，不用平均分或口头和解处置两块短板；选择先补浸湿孩子铺盖处，同时保留另一户异议。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 290,
+      "criterion": "visible_change",
+      "quote": "两块旧顶板待核装，拟先补第二处；第一处仍候料。",
+      "reason": "验料筛到两块非承重板、明确只能补一处，长材与软板被剔除；变化是可执行的候装方案，不把调查、车次和永久安置混成已完成。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 290,
+      "criterion": "emotional_payoff",
+      "quote": "“我家那笔别又写成办完。”\n\n“还留着。今天也没有板到。”林渡说。",
+      "reason": "落选住户没有被写成通情达理的合唱。他可以坚持自己的损失并留下异议，读者得到的是有限公平，而非廉价地皆大欢喜。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 290,
+      "criterion": "next_question",
+      "quote": "明天他先去核车实际装过的货。那张图上早已有站名，如今要问的，是谁能带着家属从栈城走到它后面。",
+      "reason": "站名不是新揭秘；当前余班将停、旧路未通，把下一问限定为实装记录如何接上送人存根。延迟实际交货仍需后续兑现，但本章已给验料与取舍，不是空欠。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 288,
+      "criterion": "promise_payoff",
+      "quote": "公议页有了三段完整记录，岗位页却少了两个人可以答应的名字。",
+      "reason": "281要查陶继在不在，282核到人；283看见先发运旧联，284只证两户送抵；285救下四人，286让份实际发出，287止住放水，288将双方责任公开。本组让“救人是否要先认错”落成分水与公议选择，并承担两人退出的代价。船位、后续实装、顶板交货及山腹替代路明确未兑，290仅向下一篇提出行动要求，不在此签后文。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 290,
+      "criterion": "progressive_stakes",
+      "quote": "旬末收班的日子近了，山腹旧路没有人重新走通，房车还留在四层旧轨旁。",
+      "reason": "本组压力由281挪顶料保脚板，升级为285救四人占搬运、286缺水让份、287阻止自身同伴损害支路、288失合作，最后到289—290常班退出与材料不足。受影响对象、可用人手和运输条件逐级改变，核账没有重复同一个戏剧功能；旧路与房车也没有无成本恢复。",
+      "verdict": "pass"
+    }
+  ],
+  "scope_note": "仅281—290：逐章五项50条及篇章两项，共52条；未审280/291、全书真实第一页与前三章，不签范围外。",
+  "reading_method": "首轮完整正文先读，body-first.md已先于资料审读落盘；本次完整重读实际修后十章后才看final-manifest和applied-edits。继承首轮已注入AGENTS的如实披露，不伪称本次对剧情毫无记忆。未以扫描/词频或字数替代审读。",
+  "summary": {
+    "pass": 51,
+    "needs_revision": 1,
+    "related_issue": "R008-B29-I11",
+    "conclusion": "整体承诺兑现与升级成立；287责任收束处一处说话人指代须消歧，不签本轮追读验收通过。"
+  },
+  "not_publication_approval": true
+}

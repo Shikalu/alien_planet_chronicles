@@ -1,0 +1,405 @@
+{
+  "schema_version": 1,
+  "kind": "independent-scoped-writeback-r3-review",
+  "reviewer": "R009-writeback-r3-B31-B32",
+  "writer": "R009-main",
+  "independent": true,
+  "review_date": "2026-11-10",
+  "batch": "R009-B31",
+  "scope_chapters": [
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310
+  ],
+  "body_digest": "eb444b6c35c394b4134830f6b493f6c61953f73fec55e11ae4287eca991043ad",
+  "body_manifest": "harness/maintenance/R009/B31/final-manifest.json",
+  "body_manifest_sha256": "9b74497f71780d4ffe670cde38ec842635e06d219dc807efc16e5c2662493e12",
+  "body_manuscripts": [
+    {
+      "chapter": 301,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第301章_留下来的人先认路.md",
+      "sha256": "b43d668af78600f7d484b1f1ca330dbf59274d5e3373a2a0c04f2d8984bc1ea7"
+    },
+    {
+      "chapter": 302,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第302章_一段走得回来的路.md",
+      "sha256": "66c61e8228f7ca61150e25d8e100fc213136b0cf930aaa9ab83617b3936a60b0"
+    },
+    {
+      "chapter": 303,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第303章_水随原来的名字走.md",
+      "sha256": "791cf5d95eb65f803256fefb962dced4741c59a06e9726b2180806f61523e1eb"
+    },
+    {
+      "chapter": 304,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第304章_门还能认出他.md",
+      "sha256": "4204d30bf48eb255e7c414156e13b8a5750381507b85ab22ecbba320ebc2ddb1"
+    },
+    {
+      "chapter": 305,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第305章_踩下去还会滑.md",
+      "sha256": "d58570eabde953ee4366ca8e7acb241914aca1234564dc10d79247ea48323a22"
+    },
+    {
+      "chapter": 306,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第306章_换来的光.md",
+      "sha256": "74f769823968b8f5e55d8352afa8108c2e50446e895bcec2a16af57610586ab4"
+    },
+    {
+      "chapter": 307,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第307章_这回把去处说清.md",
+      "sha256": "f8ce3363a9a8a8abbec3aa4127c20afc28ee1e05ec29a8824bba93c2c6e313e9"
+    },
+    {
+      "chapter": 308,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第308章_松开的人也要会停.md",
+      "sha256": "fc303c32d67a8e00b8356960eacd4402455fb2147ea6703d8ab9cecc0c7fb193"
+    },
+    {
+      "chapter": 309,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第309章_车只挪了一段.md",
+      "sha256": "2a6bea81f20be5d2446b2d61a75b643501b52342ee24b5663f3929aecd96091e"
+    },
+    {
+      "chapter": 310,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第310章_从塌棚里递出的名字.md",
+      "sha256": "8e7261e56f27a1783306d3331b9b12ec6551463e085b0e478def0f81fe28f2f2"
+    }
+  ],
+  "body_review_sources": [
+    {
+      "path": "harness/maintenance/R009/B31/final.json",
+      "sha256": "58124441b7e29bb7b3cca528a2897185d2c5661d30867d38de3c2e0cd70ce86d",
+      "use": "已实际读取的原终审资料；非本轮重造正文首读或吸引力结论。"
+    },
+    {
+      "path": "harness/maintenance/R009/B31/final.md",
+      "sha256": "4c138020ec402f3ef5aadeedb0681d8356584a1f1e07dfd11aca1ae726ca844c",
+      "use": "已实际读取的原终审资料；非本轮重造正文首读或吸引力结论。"
+    }
+  ],
+  "freeze_path": "harness/maintenance/R009/writeback-freeze-r3.json",
+  "freeze_sha256": "21bdfb84f6c02fc78b636384dfe2dac0b53889bd128669964221407963eb90bf",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f"
+    }
+  ],
+  "verdict": "pass",
+  "issues": [],
+  "blockers": [],
+  "checks": [
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "scope": "主核A21人物段711—730行；A20的D164留守出口和A22的交班、追车入口仅作接口；R009947—953行只取旧伤、原号、物权、信息限制，不签323及后续事实。",
+      "quote": "陶继完成有限看板交班后才出发；D173只认平轨人工试移一车身。D174接亲见求援，筹下一完整凉时徒步接应，未承诺载车下坡。",
+      "reason": "300末热时看板尚缺人，301并未直接离岗：陶继先学观察、撤退与叫人，302原工在邻段可响应才形成有限替班。此后林渡从五层勘返、再落四层，310仍在短门筹救，与台账位置相合。307岑野交出旧半班后才护送原弟弟，309到达回条不保证310新事故后的安全；姨母、孩子和两类送话人没有被合并或增开人口。阿九左膝、林渡吊臂及北部无回执边界保留。",
+      "scope_quote": "所有原伤势、物权、原号与信息限制继续保留。",
+      "body_chapters": [
+        301,
+        302,
+        303,
+        307,
+        309,
+        310
+      ],
+      "quote_lines": [
+        717,
+        717
+      ],
+      "scope_quote_lines": [
+        953,
+        953
+      ],
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "scope": "主核A21资源599—616行；A20第四卷入口595—598行、A22借绳/挡/饰板承接617—636行仅作接口；R009856—864行只核306—309旧物链、原配水与D锚点。",
+      "quote": "阿九私人非承重柜铜压条换2销、少量修车油、1枚部分余能小芯格；铜条已交",
+      "reason": "304取出的诊疗托盘及原两螺钉没有拿去抵销钉，306仍托人送五层、307才收到杜姨回话；交易耗掉的是私人铜压条。308两销装入、有限芯格耗尽、借灯与锉归还，不能记成新购整灯或车辆电源。305三挡借来只留二挡，309仅手移一车身并在新位续借固定。303封瓶转移本人实发份，不增当地水额；旧欠与逐班让份口径未被检修收益冲销。",
+      "scope_quote": "306拆铜条、308木片挡晃、309只捆小零件，柜饰板仍可空响，314卡脚槽、315清除。借灯与所换芯格不是同一物权。",
+      "body_chapters": [
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309
+      ],
+      "quote_lines": [
+        608,
+        608
+      ],
+      "scope_quote_lines": [
+        860,
+        860
+      ],
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "scope": "主核A21伏笔548—562行；A22的方口、救弟与饰板因果563—578行作跨组接口；R009753—757行仅核本组前置与后置揭示边界，不签后篇回收。",
+      "quote": "相同形状不等于同一机构／万能通用；五层留守接头没被带走，不用109报废件。少年尚未取接口或松刹，责任不能先赦。",
+      "reason": "305维修示范、307看本地小车后询问、308只许辨件、310目光落在救援成人工具上，逐步建立“知道怎样松驻车”而非得到操作授权；310终点没有发生312的整车擅拖。另按306拆压条、308木片仅挡晃、309小件已捆但板仍响，回看314受阻、315查清的原因成立，未把“捆小件”误回填成固定饰板。三层新热雨塌棚与旧到达证明并存，底架用途仍不能从外形推出。",
+      "scope_quote": "柜饰板前置链已在原A22行补齐，314事故与315查明分开。",
+      "body_chapters": [
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "quote_lines": [
+        554,
+        554
+      ],
+      "scope_quote_lines": [
+        757,
+        757
+      ],
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "scope": "主核A21时间线396—413行；A20的D164出口与A22的311入口只核时序接口；R009621—628行仅核D锚点总则。394/563行只做版本差异边界验证。",
+      "quote": "板棚旁另一住户自三层上来，证昨日热雨后夜塌棚；姨母在外、孩子窄缝递两结布带／回应。",
+      "reason": "308随成人下三层、309收到的是昨日到达条，随后热时黄泥雨引出夜间新塌，310另一亲见者上来求援；回条和事故的消息不能倒置。301—310沿D165—D174，304旬头D168，310等待的完整凉时尚未用掉；311跨入下一凉时才接人筹具。303留宿回条有次日时限，304实际领走和回信分开；D164运输核验许可没有延长为车路权限。r3唯一394方向词在本组时间段外，本组所有行与存档逐字节相同。",
+      "scope_quote": "R009只修旧章表述与交接顺序，A21—A30全部D锚点保持原值。",
+      "body_chapters": [
+        301,
+        303,
+        304,
+        308,
+        309,
+        310
+      ],
+      "quote_lines": [
+        409,
+        409
+      ],
+      "scope_quote_lines": [
+        623,
+        623
+      ],
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "scope": "主核A21命名236—250行；A20螺顶来源、A22岗位和板材251—263行作禁混接口；R009429—431行只核本组通用称呼、无新增专名及314/315饰板用词。",
+      "quote": "四种人物各有作用，不混名；送空坛成人308陪送309回条，310求援者是另一位板棚旁住户。临时帮工不自动成配给新人。",
+      "reason": "短门换手人接条、修轮住户供借具、送空坛成人陪送并回报到达、求援住户报告新事故，四个来源与正文动作分别对应。新两名救援成人是310另问的帮手，不替换原试车绳手。小芯格只用于借罩灯，维修方口也不改叫发动钥匙；本地小螺顶不冒领六层旧工具。散饰板与A22另借的厚板分列，因此本组拆铜失固定不会生成可支梁材料或永久借物。",
+      "scope_quote": "无新正式专名、机构、能力或计量制度。",
+      "body_chapters": [
+        302,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "quote_lines": [
+        242,
+        242
+      ],
+      "scope_quote_lines": [
+        431,
+        431
+      ],
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "scope": "主核A21词义108—118行；A20词义95—107行及A22人路/车路119—127行只作语义接口；R009277—279行只核术语、揭秘与作者D索引边界。",
+      "quote": "305驻车杆外侧的人工维修口；307先见本地小车的同类构造再问房车，308阿九限定只辨件",
+      "reason": "词条给出了方口所在部件及知识来路，和岑野逐次见物、询问、被限制权限的正文相符；会转方口不代表能在下坡停车。小芯格的“一点检修电力”对应306取得、308耗尽，而非由三凹口片补能。两结布与到达条只认具体时点和实际传递者：309到达、310再次受困不是相互否定，更不是第一卷救援未成。词典没有替角色补北部消息、双陆历史或车辆核心知识。",
+      "scope_quote": "正文作者D编号改为相对日与旬头，作者台账D索引不变；",
+      "body_chapters": [
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "quote_lines": [
+        113,
+        113
+      ],
+      "scope_quote_lines": [
+        279,
+        279
+      ],
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "scope": "主核A21写前核对/章卡46—75行与实录76—100行；A22写前26—45行及实录101—120行只比入口和饰板接口；R009300—307行只签301—310行与共同边界。",
+      "quote": "310末仍在四层筹备，完整凉时尚未到，救援成人按约认班尚未出发。311不能从全员已在三层或车已拖走的状态开头。",
+      "reason": "逐章实录不是把拟题照抄成事实：309规划“停回”已在执行收窄中明确改为移离腐木、停定新位，吻合实际手移与止挡安排。303借地及留宿约定、304分开放取件与扶阿九、306失去饰板固定件、308放弃试拖等实际限制都保留下来。310只取样、核求援和认救援班，311实际仍需借撑、接交班少年后再追车；R009本组行没有把后篇拖车或救出当成当前兑现。",
+      "scope_quote": "本表为旧章修订后的篇内承诺与行动接口说明，不能把后篇结果提前送给前篇人物。",
+      "body_chapters": [
+        303,
+        304,
+        306,
+        308,
+        309,
+        310
+      ],
+      "quote_lines": [
+        97,
+        97
+      ],
+      "scope_quote_lines": [
+        302,
+        302
+      ],
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "scope": "主核卷入口1—7行、A21原11行、A21裁定29—31行及R00955—61行中的本组行；A22原12行、关键节点23—27行仅核篇际边界，不审后篇整体兑现。",
+      "quote": "阿九留下诊疗配件给棚区，先修刹车再谈动力",
+      "reason": "本篇实际完成的是取回诊疗托件并送五层、用私铜换有限检修物、恢复机械制动后在平轨移一车身；“回到弃车处”没有被夸大为恢复动力或修通山口。相应代价不只等待，还包括私铜失去、芯格耗去、柜板只挡晃及借工磨损。主表与R009承诺行均把新求援留给下一篇，先送达原弟弟、再遇新塌棚的顺序与301/307/309/310相符。这里仅核篇卡事实承接，不重签52项追读。",
+      "scope_quote": "本段不宣告未来救援已完成。",
+      "body_chapters": [
+        301,
+        304,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "quote_lines": [
+        11,
+        11
+      ],
+      "scope_quote_lines": [
+        31,
+        31
+      ],
+      "verdict": "pass"
+    }
+  ],
+  "review_method": "本轮以R009-writeback-r3-B31-B32独立接任，仅执行八候选的B31/B32回填r3复核。先读交接、AGENTS及alien-serial-harness Skill，随后按301—320顺序实际通读final-manifest所列已通过终稿，再读两组final.json/md；之后逐文件阅读候选A21/A22原段、R009相关说明与必要前后接口。对输出截断的候选段落补读，不把SHA匹配当文本阅读。旧writeback-freeze-review.json在本轮主体阅读之后完整读作历史问题定位参考，不复制其checks、reviewer或关闭结论。另实读300末段、321仅用于出入口核对；按存档与r1/r2/r3逐字节/指纹核验版本。八项reason系本轮据实际正文和当前候选重新形成；未重做52项追读、未重造正文首读。",
+  "review_identity_note": "用户交接说明原Rawls恢复因Azure资源错误未产生r3结论；本报告不冒用R009-reader-B31-B32或Rawls，不继承一个不存在的原读者r3签字。",
+  "prior_review": {
+    "path": "harness/maintenance/R009/B31/writeback-freeze-review.json",
+    "sha256": "2f52186a417e4561741fe7ffc55b9484be9f092bbc663a5b49d78604078da921",
+    "reviewer": "R009-reader-B31-B32",
+    "use": "仅历史参考。原文件绑定旧冻结；本报告不把其pass、关闭状态或原首读/追读身份移签到r3。"
+  },
+  "boundary_evidence": [
+    {
+      "chapter": 300,
+      "path": "异星录/正文/第三卷_上城区无门/第300章_站名以外.md",
+      "read_lines": [
+        40,
+        109
+      ],
+      "quote": "老陈只签已经应下的凉时看板。热时空岗还在，林渡将明日出发前先完成交班写到自己名下；没有接班人，他便不能走。",
+      "purpose": "只查D164→D165留守、供水、路线与信息接口，不签300全章。",
+      "sha256": "e5fb99cc59d85f5cb0e39f926a42abf77ee8a0169c0f0392aef91fc63ee3327d"
+    }
+  ],
+  "cross_group_interface": "本轮实际通读301—320；本报告仅签301—310所属回填。310→311和306—309→314/315/317只说明接口相容，对方章段的正式范围结论在另一组新报告。",
+  "version_verification": {
+    "all_eight_candidate_sha256_match_r3": true,
+    "r1_freeze": {
+      "path": "harness/maintenance/R009/writeback-freeze.json",
+      "sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a"
+    },
+    "r2_freeze": {
+      "path": "harness/maintenance/R009/writeback-freeze-r2.json",
+      "sha256": "10e292e51889a19883988f1b2906a8adeb3835104e7997ecf1b6025024cf24f3"
+    },
+    "timeline_archive": {
+      "path": "harness/maintenance/R009/writeback-history/r2/事件与地点时间线.md",
+      "sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44"
+    },
+    "timeline_candidate": {
+      "path": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23"
+    },
+    "single_difference": {
+      "chapter": 394,
+      "candidate_line": 563,
+      "old": "D292大匣出棚、293/294充、295回",
+      "new": "D292大匣出坪送棚、293/294充、295回",
+      "old_phrase_occurrences_in_archive": 1,
+      "archive_after_one_replacement_equals_entire_current_bytes": true
+    },
+    "other_seven_unchanged_from_r1_r2": [
+      "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "harness/maintenance/R009/writeback-candidates/十章篇章卡.md"
+    ],
+    "body_files_match_final_manifest": true,
+    "body_digest_recomputed": true,
+    "body_digest_algorithm": "sha256(json.dumps(actual [{chapter,path,sha256}], ensure_ascii=False, sort_keys=True).encode(\"utf-8\"))，沿manifest顺序。",
+    "body_digest_matches_final_report_and_r1_r2_r3": true,
+    "all_quote_and_scope_quote_substrings_verified": true,
+    "files_copied_exactly_from_r3": true,
+    "b40_limit": "只证明394方向词是全时间线存档的唯一字节替换；未读391—400正文、未判断B40-WB01关闭、未替B40签字。全文件SHA用于绑定版本，不代表签八文件全部历史。"
+  },
+  "scope_limits": [
+    "pass仅针对本报告scope_chapters对应的八份候选范围，不是八文件全历史审读通过，也不是R009全100章通过。",
+    "A20/A23及其他组说明只供必要接口和后置边界；不由读取上下文推出相邻整章/整批合格。",
+    "候选内“已发生／审读发布通过”等标签是既有批次历史语境，不表示R009工作终稿或候选已发布。",
+    "本轮未重做52项追读，不替代原正文final与吸引力报告；规范仅用于回填的范围、因果、物权、时间及信息检查。",
+    "只新增所属B目录的writeback-r3-review.json/md；不改正文、旧报告、候选、冻结、发布状态，不运行gate/close或修改阈值。"
+  ],
+  "conclusion": "八项当前范围核对均通过，未发现本范围新增issues或blockers。394变更在签字范围之外且未改本组原行/已核接口；不对B40问题关闭作结论。"
+}

@@ -1,0 +1,431 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reviewer": "/root/review_201_220",
+  "writer": "R007-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 201,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第201章_勺底见了天.md",
+      "sha256": "3925d16760f8f794bc9b72b36e3733ed4e5d059d7353effe65e337faf5ab2bea"
+    },
+    {
+      "chapter": 202,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第202章_领水不领符.md",
+      "sha256": "83f60f8a9c291dc3f07567dd9f982545c7ac67342ed4ddc5f9bb33af8fd03648"
+    },
+    {
+      "chapter": 203,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第203章_水不换人.md",
+      "sha256": "7ad8de0bd4dc2b3b8988a02b8c0f67fa3d4590a1c4c83ec5cd4010332cade12b"
+    },
+    {
+      "chapter": 204,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第204章_车打后墙进来.md",
+      "sha256": "d7555cb701254b8bf4a1e49897cbaa5a399137fda7b563660323f9941b7c6732"
+    },
+    {
+      "chapter": 205,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第205章_报废的桶会走路.md",
+      "sha256": "0942dcbf339a3c5c22b479d3d49692b43786b37b40300f57077dde9d53d52c74"
+    },
+    {
+      "chapter": 206,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第206章_枪件上的新号.md",
+      "sha256": "770f83b470020a27fd3aa16c50d1ddf9ca747860fa2a606e318c029894ee14cb"
+    },
+    {
+      "chapter": 207,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第207章_查无此号.md",
+      "sha256": "2352e0d0ec57a7327294d39a0e4dd140b795dd3c9f7632f3370b75f0a4769f58"
+    },
+    {
+      "chapter": 208,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第208章_牌净得不像空户.md",
+      "sha256": "a0d8e919c9bf78902811b86b6056113bde0acef4ab4f3d4991a8ff7d78d8bd75"
+    },
+    {
+      "chapter": 209,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第209章_水先别断.md",
+      "sha256": "35952b5223a73d93aa5893ef2ce919efabcec0a0ee7e1f6a8cada1404bb1ffa7"
+    },
+    {
+      "chapter": 210,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第210章_空街有人扫.md",
+      "sha256": "8b5c24b3bba478a3329a108a0ace24529334cf4c2056cf8a647a75513f2b8128"
+    }
+  ],
+  "source_digest": "cdd5e6459b6b4c17b88f68da5695ba12e3d3e8580a6eff970fd9139f61ec1d6a",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 201,
+      "quote": "断供日赶在旬头上。",
+      "reason": "续公共生存份并查空户水进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 201,
+      "quote": "守棚班加成双岗",
+      "reason": "增守棚双岗、减转运，分头跟水与账；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 201,
+      "quote": "勺底朝天。",
+      "reason": "资源/线索有实物/行动/资源变化，承接200撤回暖手：两勺只核封签存；不烤笔。符牌/两户未发生先不写，断供只半日。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 201,
+      "quote": "“记人。”杜姨说，“不记符。”",
+      "reason": "成人停份、24件只续有限班让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 201,
+      "quote": "一头跟巷子，一头跟账。",
+      "reason": "仅见背筐往北巷，未证进施水棚，仍有下一步调查/交班/救济要做，发现钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 202,
+      "quote": "断供这天午后，在与岑野议定分头查之前",
+      "reason": "拒绝交弥娅并弄明施水来路进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 202,
+      "quote": "人不出。",
+      "reason": "当街拒绝以人换整段水；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 202,
+      "quote": "交出那个女人，施水棚包这一段的份",
+      "reason": "关系/规则有实物/行动/资源变化，明确D68午后回叙，并删尚未离队两户；支架仍断供前一夜、期限下个旬头。水清不代安全、动作承载掌棚压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 202,
+      "quote": "人不上秤。",
+      "reason": "施水者树敌、守棚工时扩大让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 202,
+      "quote": "是怕我们查得太快。",
+      "reason": "垫桶石/木不能确认水源与安全，仍有下一步调查/交班/救济要做，选择钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 203,
+      "quote": "那页纸在值桌上过了一夜",
+      "reason": "接纳信徒、回绝交人勒索进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 203,
+      "quote": "留着，记上日子。",
+      "reason": "不排斥挂符者，留符记日、不记匿名人；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 203,
+      "quote": "册上添了七户，二十三口。",
+      "reason": "关系/资源有实物/行动/资源变化，相处时长改这些日子，木色只判新近；压纸石头不再逐物造手续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 203,
+      "quote": "娃盯着那只摊平的手心看了片刻",
+      "reason": "新来23口，守棚挤占转运让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 203,
+      "quote": "连桶带车，一样一样数清楚。",
+      "reason": "来信匿名，只能核其车时线索，仍有下一步调查/交班/救济要做，关系钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 204,
+      "quote": "旬头后第三日，天没亮透",
+      "reason": "看站桶与运水路径进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 204,
+      "quote": "林渡没去。",
+      "reason": "林渡因脸熟留棚，三人分处观察取落物；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 204,
+      "quote": "铁件滚落篦子缝口",
+      "reason": "线索/资源有实物/行动/资源变化，地皮旧记不排新管；六一只证旧坡高差。铁件与布角同次拾得，有明确手法；日耗未重启，声记另栏，去叙述者辩护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 204,
+      "quote": "小石的手这会儿才抖起来",
+      "reason": "观察位暴露、阿九膝肿让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 204,
+      "quote": "桶问站上，铁件问匠人。",
+      "reason": "仅见一车四桶一包；铁件用途/布号未核，仍有下一步调查/交班/救济要做，危险钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 205,
+      "quote": "看车这夜，小石把白天的事又述了一遍。",
+      "reason": "把观察桶与报损账对起进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 205,
+      "quote": "空户旬份应急改道",
+      "reason": "戊字一递改道与验真两稿，铁件先独立核；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 205,
+      "quote": "回炉的账上，没有这批桶",
+      "reason": "线索/规则有实物/行动/资源变化，补述D71夜，戊字一D72上午核桶/两稿，下午核铁件；合作时长为这些日子，不跨夜再说次日。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 205,
+      "quote": "销了的号，不等于没了的桶。",
+      "reason": "封蜡20件、查问暴露让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 205,
+      "quote": "下午该问铁件了。",
+      "reason": "销号与活桶可对，报损到便门经手尚空，仍有下一步调查/交班/救济要做，时间钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 206,
+      "quote": "铁件在油纸里躺了一夜",
+      "reason": "验铁件与支料号进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 206,
+      "quote": "只写这个字。多一个字都是猜。",
+      "reason": "比残枪/拓号/比凭单，库名只写一个字；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 206,
+      "quote": "这个流水，排到四百开外。",
+      "reason": "线索/规则有实物/行动/资源变化，D72午后验件，戊字一后续再来；真件不等真号，伪号与另账并留。圈页/林渡/叙述也同步有限结论，知识最先归戊字一。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 206,
+      "quote": "他父亲沈乌的名，当年就是让一支笔从册上勾掉的。",
+      "reason": "证据不能还原、封蜡19件让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 206,
+      "quote": "回条要是说号是真的——",
+      "reason": "真实枪件不等于真号码，不能排除伪号，仍有下一步调查/交班/救济要做，身份钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 207,
+      "quote": "回条来得比谁都快。",
+      "reason": "处理拒改道/查无号与教团停水进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 207,
+      "quote": "明线递稿，暗线捎信。",
+      "reason": "保护戊字一，明稿暗信分走；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 207,
+      "quote": "查无此号。",
+      "reason": "规则/资源有实物/行动/资源变化，林渡祝衡带抄回棚交代空间；半日回条不升级笔迹认人，保护站吏仍有实际理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 207,
+      "quote": "原件归站柜的防潮格",
+      "reason": "守棚3岗、转运再减、站吏暴露让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 207,
+      "quote": "牌在墙上钉着，钉子做不得假。",
+      "reason": "半日回复证明稿被读，不证明认字或地下账，仍有下一步调查/交班/救济要做，世界钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 208,
+      "quote": "看牌的路，赶在汽前头走了。",
+      "reason": "判空户住址是否仍有人过手进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 208,
+      "quote": "活人两个字，进推断栏。",
+      "reason": "亲见与活人推断分栏，准备匿名递话；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 208,
+      "quote": "三净，两死，两缺。",
+      "reason": "线索/世界规则有实物/行动/资源变化，第六牌补第三净牌，七处枚举3净2死2缺；D74本旬第7日，候汽分段等暮，年期改近期。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 208,
+      "quote": "他们在省着喝。",
+      "reason": "等待耗凉时、两缺牌未核让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 208,
+      "quote": "递到第五块牌底下。",
+      "reason": "门痕可推有人维护，不能确认实名与水量，仍有下一步调查/交班/救济要做，发现钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 209,
+      "quote": "对账的夜，账桌挪到了棚前空地。",
+      "reason": "选择拦水或找人进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 209,
+      "quote": "我主张第三条。",
+      "reason": "表决先不断渠、先寻实名；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 209,
+      "quote": "第三条过半",
+      "reason": "关系/资源有实物/行动/资源变化，受护册登记不作53人；林岑吊伤缓但布带/旧伤仍在；六一仅背书旧坡。号真与回条认字的复述漏网已改，关系约定才立不久。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 209,
+      "quote": "重议的时候",
+      "reason": "缺水再省，弃权者有怨让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 209,
+      "quote": "你们查牌，查到头了么？",
+      "reason": "渠与巷中人关联未全核，不能先断水，仍有下一步调查/交班/救济要做，关系钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 210,
+      "quote": "看窗的老人不给名字，先给话。",
+      "reason": "递信给不敢露名者进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 210,
+      "quote": "塞进牌背的挂钉缝里",
+      "reason": "不闯屋不掀缸，只留纸条与手势；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 210,
+      "quote": "票是旧的。戳是新的。",
+      "reason": "线索/关系有实物/行动/资源变化，空街探查后明确退回北巷第五牌，滩语练习只这些日子；不把老人40年居住等于全部住户潜居同年。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 210,
+      "quote": "可渠那头，有人应了一声。",
+      "reason": "潮头封山、封蜡16件让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 210,
+      "quote": "下一段，从这张票走",
+      "reason": "票新戳能核本旬，不给实名/历史全案，仍有下一步调查/交班/救济要做，身份钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 210,
+      "quote": "票是旧的。戳是新的。",
+      "reason": "空户追水从观察额度兑现为对应票根，实名仍未冒领，拒交人/不断渠的选择获得可信联络。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 209,
+      "quote": "水先别断。",
+      "reason": "自身断供与不能断潜居者命水相抵，资源损失与关系承诺升级。",
+      "verdict": "pass"
+    }
+  ],
+  "scope_note": "只签201—210本组实际终稿；未以本报告签1—3或221以后。",
+  "fact_review": "harness/maintenance/R007/B21/final.json"
+}

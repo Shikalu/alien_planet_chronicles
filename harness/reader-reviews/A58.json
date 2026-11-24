@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root/a58 与 /root/fix58",
+  "reviewer": "Codex /root/verify58",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 671,
+      "path": "异星录/06_执行计划/工作区/A58/第671章_车下那条白线.md",
+      "sha256": "59127d521e4b364a1b187b9e87cd5a95ac96541e401daf0fd1f2b32863a8c2ad"
+    },
+    {
+      "chapter": 672,
+      "path": "异星录/06_执行计划/工作区/A58/第672章_把鞋递进去.md",
+      "sha256": "6c507fd971bea2c8e236267c3987b32dce0869a2169e30a9d97e4400045cda41"
+    },
+    {
+      "chapter": 673,
+      "path": "异星录/06_执行计划/工作区/A58/第673章_两截接货板.md",
+      "sha256": "7d728314ad11b5ef0e6a20485cc221d09fbb8b1e51e26c629b13098647db258d"
+    },
+    {
+      "chapter": 674,
+      "path": "异星录/06_执行计划/工作区/A58/第674章_留半截绳在外面.md",
+      "sha256": "7386695ca91dfe373e11e3bca3e80fc80d8be29a92e117887ff170afe17f44f9"
+    },
+    {
+      "chapter": 675,
+      "path": "异星录/06_执行计划/工作区/A58/第675章_踩空的右脚.md",
+      "sha256": "1e992758717d3cd40ca0fcff1fcd9f372bb7503e9d3bce71aa41bcb27a2f594d"
+    },
+    {
+      "chapter": 676,
+      "path": "异星录/06_执行计划/工作区/A58/第676章_空出来的司机席.md",
+      "sha256": "8a6b404991487894fad3077481fc0598bebabb9d20c878f3b6b7e7305c6ba235"
+    },
+    {
+      "chapter": 677,
+      "path": "异星录/06_执行计划/工作区/A58/第677章_迟棠写不走.md",
+      "sha256": "c32b320650f1c8b77e8b734bc80f17e52e2fc01400874258a7509e366ad60f5b"
+    },
+    {
+      "chapter": 678,
+      "path": "异星录/06_执行计划/工作区/A58/第678章_往山挪半个车位.md",
+      "sha256": "bae007b5b7f5d12c00b9dfb1be8d5fe29a4ac47c882ba75f16aa04e52a1b2ae0"
+    },
+    {
+      "chapter": 679,
+      "path": "异星录/06_执行计划/工作区/A58/第679章_回来时还得能停.md",
+      "sha256": "fba10c640372559b74e8fe17ed2eeeb433bfb274157ea727e653c83defcc3a98"
+    },
+    {
+      "chapter": 680,
+      "path": "异星录/06_执行计划/工作区/A58/第680章_过桥以前先少带一件.md",
+      "sha256": "fe2880323e9d9dd432d36972a187099c779af8ad9716e5ed7ec98b31bbc6bc98"
+    }
+  ],
+  "source_digest": "df6686a193b22b2ff49dd618d66aefebe1ab8fc92a8045d9eb56efb8ce0696e1",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 671,
+      "quote": "停讯从车尾到了石肩，林渡刚把再出车的木牌扣住，第二声便从车皮下面响起来。",
+      "reason": "第二声接住上章的滑移，把压力留在仍载两托的停车现场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 671,
+      "quote": "林渡叫人绕到山侧，找车身中段偏前的旧货门。",
+      "reason": "林渡把救援从正在滑移的尾门移到山侧干石，并按第一副托的位置定路线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 671,
+      "quote": "先空车。底下这点要留着看。",
+      "reason": "车内两人从待运改为待卸，车下卡点保留原状，推车提议被否决。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 671,
+      "quote": "我认你的脚步，你上前些。",
+      "reason": "伤者暂时看不见家人，用可认的脚步把对车下异响的恐惧转换成人能彼此找到的安慰。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 671,
+      "quote": "真要挪这辆车，得先把它哪里在磨弄清楚。",
+      "reason": "歪门外已经找到了干脚，但铁件仍在受力，读者要等卸托与第二处卡点的答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 672,
+      "quote": "车槛离石肩半尺，车外贴山的石脚还要再下一掌，板横着搭会滑进凹缝。",
+      "reason": "开场即给山侧替代路径的新障碍，找到门和找到受力位置是两件事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 672,
+      "quote": "林渡把贴山的接货板先作为脚下分重的垫板",
+      "reason": "让外抬工有稳定落脚，两尺空隙保持人接，避免用未支稳的板去跨门承托。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 672,
+      "quote": "照护工从空位绕出来，过门前把两副托的空扣分别报了一遍",
+      "reason": "两托均退到石肩，留车照护工最后清车，使原来的车厢危局真正结束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 672,
+      "quote": "伤者让他把鞋绑在托上，留给他到棚里再穿。",
+      "reason": "让受伤年轻人继续决定自己的鞋去哪里，也给家人的陪伴一个能跟着担架走的东西。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 672,
+      "quote": "车身哪怕抬一寸，也得先弄清坑的外壁会不会借着力往山里滑。",
+      "reason": "两托安全之后，新问题变成车该由哪处石脚承力，以及何处仍有人能安全撤退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 673,
+      "quote": "木板本身仍斜在枕木外端，端头已离立脚。",
+      "reason": "清晨仍在恶化的板脚继续限制岸台，不能借一夜休停让场地复原。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 673,
+      "quote": "断成两截。长板口以后要换地。",
+      "reason": "林渡选择牺牲上章救人用过的长板，把悬车的负担移到已查过的干石面。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 673,
+      "quote": "车身在新垫上不再偏，枕木端的白茬仍旧露着",
+      "reason": "车身暂稳而枕木未回位，读者区分分担车重和故障解除。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 673,
+      "quote": "他出窄缝时用两根手指把钉尖拢住，免得扎破借来的夹袄。",
+      "reason": "物主只取回两枚钉并细心护住借来的衣物，拆板的个人代价有具体落点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 673,
+      "quote": "一块带耳旧件被车裙逼得贴进轨旁坑壁。",
+      "reason": "轮边以外还有一处机械卡压，低潮作业时间也不足，下一凉得先判能否靠近。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 674,
+      "quote": "车皮真往坑边歪，先撞上横撑，石肩上的人就得往外退。",
+      "reason": "横撑的半指余量及退路在放人前明确，做检修已有新的停线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 674,
+      "quote": "抬工把折页上预定的车体横抬那行划去。",
+      "reason": "依据阿九给出的铁耳反弹方向收掉横抬方案，转为限范围的浅阶目检。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 674,
+      "quote": "原定今日替旧货台写回的那组值工留石转，先守两副卸下的伤托。",
+      "reason": "检修从无明确延时变成伤员、地面班和传话工分占人手，责权有可见变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 674,
+      "quote": "上面未报清之前，谁要说只是给钩送个垫头，也由他拦下来。",
+      "reason": "被喊回的年轻人实际取得拦人权，等待车的人也有了不冒险能执行的动作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 674,
+      "quote": "阿九抬头问岸台还有几个人守绳。",
+      "reason": "热汽临近刻线，工具已伸到险区，读者追问退路能否在岸台再动前维持。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 675,
+      "quote": "岸台下面一阵密响。",
+      "reason": "前章热汽与已移枕木在开场兑现成第二次受力变化，留给坑中人脱身的时间缩短。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 675,
+      "quote": "林渡用左手把人拦在石肋后",
+      "reason": "林渡先阻止第二个人误入弹动方向，以侧钩、石槽与短垫替代从铁角上抓提。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 675,
+      "quote": "压在铁下的右靴终于能整段移出处置角的位置",
+      "reason": "短垫接力托死铁角后，阿九整段右腿得以随长担抬出，主动救援产生实效。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 675,
+      "quote": "阿九在干石上眼神定住片刻，还是沿着海侧的车门望，嗓子里说了一个「留」。",
+      "reason": "伤得只能说一字的旧司机仍惦记守位，迟棠隔头端回答，把换手的关系推进一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 675,
+      "quote": "问的是里棚锁着的那一只",
+      "reason": "急救从坑口转到可支水的医棚，读者等待受伤后果和当下能用的处理水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 676,
+      "quote": "医手叫略往外一寸，长担尾就不会碰翻拴在柱下的两只药瓯。",
+      "reason": "从伤情转入狭小救护场所，放担位置和药材都成眼前压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 676,
+      "quote": "他不让林渡用吊带的右手端，也不要他伸迟麻的左掌去扶会受压的腿。",
+      "reason": "医手把林渡改派到担头观察呼吸，救护岗位按真实伤情拆开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 676,
+      "quote": "成人将支一壶和本棚三壶余一笔一笔写明",
+      "reason": "突发医水实耗后还有余量可复查，病幼饮水未被挪用，耗用变化明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 676,
+      "quote": "关节有一块碎骨脱离，留下的承面已残",
+      "reason": "关节损失有可见依据，读者理解旧司机离岗的实质代价，又仍可盼今后恢复到什么程度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 676,
+      "quote": "给迟棠填自己真正愿意开车的条件。",
+      "reason": "阿九让接岗者立自己的条件，接下来要看迟棠敢不敢为条件承担压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 677,
+      "quote": "林渡带了一张净纸到伤棚，正撞见卸货的男人举着装车岗的旧牌问谁接刹杆。",
+      "reason": "条件还未写却有人已经上门催答，换手选择在开场立刻落地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 677,
+      "quote": "在这儿写不走。",
+      "reason": "迟棠在能被两家找来问的位置拒发，让旧司机的情面不能替代验轨和验刹。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 677,
+      "quote": "迟棠把写有自己名字的新接岗纸压在装车旧牌下头",
+      "reason": "装车岗得到能找到具体负责人的停令，阿九原司机签则仍在伤棚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 677,
+      "quote": "今班原字是谁写的，就由谁在石肩回答来船的亲属。",
+      "reason": "迟棠亲自对等候者说明决定，接班的回报从形式改为责任真的交给新人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 677,
+      "quote": "万一海这会儿直接上到轨面，哪一副托能走石桥。",
+      "reason": "停牌留下伤员仍在岸台的代价，读者想知道改出来的上车位置和线路是否赶得上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 678,
+      "quote": "先前划作装车口的半步已经缩了两次。",
+      "reason": "旧位置的缩窄还在持续，撤出的枕木和消掉的落脚面让改岸口成为眼前任务。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 678,
+      "quote": "迟棠在头端令里写只在新抬线下滚到可停处",
+      "reason": "接岗者把修复后的第一段位移限定为本地可停位置，主动保留短挡与独立约束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 678,
+      "quote": "新的限位托在原可修孔上复紧",
+      "reason": "坏件已退用，新件和完好孔解决限位损伤，车身可移到山侧新位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 678,
+      "quote": "要绕去这边来问位，习惯海侧一路的人得多走两转石肩，他们夜里可以认得灯后的退门。",
+      "reason": "林渡让原海侧引路灯照到新石坎，旧口失去后的不便和新路的安全都落实在候车人身上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 678,
+      "quote": "试车若压不到该停那一点，临时开出来的新位置还只是第二个废掉的口。",
+      "reason": "修出装车门只解决登车，下一章需要交付停验和回程可停。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 679,
+      "quote": "若有人只喊「走」，车头听见下个石头也在说话",
+      "reason": "头、尾和石口的误听风险开篇清楚，手势能否返回变成空车第一考。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 679,
+      "quote": "迟棠看不到最后一岗的掌，停车。",
+      "reason": "迟棠执行自己写过的停令，现有人手补扣且实回掌后才恢复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 679,
+      "quote": "在两个空车停点各记一遍。",
+      "reason": "空载去向与返回方向各得到可复核的现场验停，结论限于此段试验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 679,
+      "quote": "这边能停。回来位也要能停。",
+      "reason": "新司机不因去向一次做成便放松标准，读者得到换手后判断持续有效的回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 679,
+      "quote": "别在失去一个停点以后把人从门槛上试出去。",
+      "reason": "空车已验，人托如何通过新窄口、原载限是否够，是末凉有载试验的具体问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 680,
+      "quote": "石肩原路上还有人拿着一根想一同带走的咬木，怕卸下那头缺垫，迟棠不准临时添料。",
+      "reason": "加件诱惑在置托出发时出现，回报前先守住唯一有据的重量上限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 680,
+      "quote": "等石口原应的第二只手回来才过。",
+      "reason": "有载时仍坚持迟棠在空试阶段执行过的缺掌即停，等待成本真正落到这一趟。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 680,
+      "quote": "两副托都放到了有顶干卸点，随护也实下车",
+      "reason": "两托一随护的运输结果实证到站，此前留住的车头、门槛与石口条件都发挥作用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 680,
+      "quote": "家人没有让他碰绑结，只问此处的声音是不是以前过盐包的旧木槽。",
+      "reason": "鞋带保留让读者认得同一对家人，真实接到后又保留伤者自己提问和判断新地方的能力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 680,
+      "quote": "这一次能留下的脚到底应该放在哪里。",
+      "reason": "实见桥工已说明双袋压限提前，下一步要找到能看准刻线的守桥者并决定人和物的先后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 680,
+      "quote": "两副托都放到了有顶干卸点，随护也实下车",
+      "reason": "672把两托撤至石肩，677写出新司机负责的停令，679实做空载双向停验，680把同两托与一随护送抵；卸后住处和是否空返仍待远端再签。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 680,
+      "quote": "原定把两袋料一起压足一整个短段的试验没做完。",
+      "reason": "车尾移位先威胁两托，修车又损一整板、废一处限位并使阿九离岗；抢到一趟短运后，危险转到最后一段承桥的载时与双端可见条件，证件也要另设接护。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

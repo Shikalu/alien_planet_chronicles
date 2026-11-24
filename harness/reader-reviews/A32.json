@@ -1,0 +1,430 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch_id": "A32",
+  "writer": "Codex联合作写（主笔 /root；分章 /root/a31_middle、/root/a31_end）",
+  "reviewer": "Codex独立读者 /root/serial_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 411,
+      "path": "异星录/06_执行计划/工作区/A32/第411章_第三勺之后.md",
+      "sha256": "e2eeb7fac9977f88e3c2fd3007b5d954d9f4aeaf2934b6d04c7141c771175b11"
+    },
+    {
+      "chapter": 412,
+      "path": "异星录/06_执行计划/工作区/A32/第412章_过了谁的凉时.md",
+      "sha256": "e86d108a852ec83e3d19a4c2438c53eab4aedff0616837f9d7eae8562abbc6b4"
+    },
+    {
+      "chapter": 413,
+      "path": "异星录/06_执行计划/工作区/A32/第413章_最后一行要念出来.md",
+      "sha256": "3c61383edfbffdd9834f03651cf3f9317dc96e9ee33ab1ab52057e04fa4b3ef6"
+    },
+    {
+      "chapter": 414,
+      "path": "异星录/06_执行计划/工作区/A32/第414章_找个能认药的人.md",
+      "sha256": "ee4683ffaba457a576355527d0bf3d2a7340e25bb9986c0317c336246bc67fbb"
+    },
+    {
+      "chapter": 415,
+      "path": "异星录/06_执行计划/工作区/A32/第415章_一样的纸包.md",
+      "sha256": "c71a4080ecafbb811eefa6ecd47a7123586fe0903851811b132b63147254f325"
+    },
+    {
+      "chapter": 416,
+      "path": "异星录/06_执行计划/工作区/A32/第416章_先问出工的人.md",
+      "sha256": "4556a78f6157e2344d199ed01964087b28ee3bb1aa3d29247328d697891daf3d"
+    },
+    {
+      "chapter": 417,
+      "path": "异星录/06_执行计划/工作区/A32/第417章_槽里少一线.md",
+      "sha256": "f1bd0014ef05546827c7cf30359ff6594472ba069fdd84e196bb0f85628b4eb4"
+    },
+    {
+      "chapter": 418,
+      "path": "异星录/06_执行计划/工作区/A32/第418章_一包有去处的药.md",
+      "sha256": "ebec2403c2ee6eba104a328f1e2f391a1554f41bd1a70bfda91d9f79b2b6967e"
+    },
+    {
+      "chapter": 419,
+      "path": "异星录/06_执行计划/工作区/A32/第419章_桌外的人.md",
+      "sha256": "8019a463241d03f90a911c7714c5633ec7f2f73733876a84aff7ace7eadd3592"
+    },
+    {
+      "chapter": 420,
+      "path": "异星录/06_执行计划/工作区/A32/第420章_浮标该在谁那边.md",
+      "sha256": "110e40627ad99380e9422daece5b63f89f4e7680f4b2ee986984f5079999f007"
+    }
+  ],
+  "source_digest": "869e913f0c223223c9a73b98161cfc1b214a03e3457f78cb3d9284b01c0f3bad",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 411,
+      "quote": "一只壶里有多少水，货场有三个人各指了一处满位。",
+      "reason": "第410章关于灌到哪儿的疑问马上变成壶嘴、验线、旧黑印三个具体位置，读者知道同一个价可能给出不同份量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 411,
+      "quote": "拿谁的水，先叫他来认。今天只记这两只壶的量。",
+      "reason": "林渡实际问出份内试水，发现三、四勺不能用一个词包过，选择保留两份测值而不预支本城的水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 411,
+      "quote": "湿痕差不多齐平",
+      "reason": "同一只勺量出第三勺和第四勺的不同水面，黑印可实见；新浅点让用同一只外壶接本地三勺成为可能。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 411,
+      "quote": "少进去的那一口水，回家还得找人接手。",
+      "reason": "布摊主人从希望尽快定价改成想把家里的壶拿来量，剂量差落实到真实家庭用水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 411,
+      "quote": "你说这会儿？我听着还不到。",
+      "reason": "弥娅发现换了量具还没有换清时点，林渡抬头找值岗人，下一章要看为何等同一个凉时却等不到同一时刻。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 412,
+      "quote": "原约来开台的工却正收拾东西准备走了。",
+      "reason": "上一章等查封的人还留在台上，开台人要走，报时误差开场就伤到一份具体工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 412,
+      "quote": "让他在带来的短纸上写是等过未做。",
+      "reason": "林渡接受当班没能做成，也认可人实际等过的代价，不将两边时间的误会由开台工白赔。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 412,
+      "quote": "那就写小棚到这张台。海上的时点另记。",
+      "reason": "要见面的人从小棚按可见黄布到干台，海上潮相另记；误收货信号也逼双方把一处标记限到这回。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 412,
+      "quote": "哪家报的时辰，叫哪家来替我压晾架。",
+      "reason": "等工不是空泛耽搁，湿裤和包窄锯说明他马上还有晾架要保，读者能理解他不再等。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 412,
+      "quote": "明凉试货，下班照旧。",
+      "reason": "仍不明白续的是工时还是取水条件，林渡让弥娅在次凉开台前译完整句，读者有明确问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 413,
+      "quote": "他递来新纸，叫她从第三行开始念。",
+      "reason": "上回只译一半的续用条件仍折在旧页，第一段立刻逼弥娅决定自己能否照做。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 413,
+      "quote": "上次那句，我只译了一半。",
+      "reason": "弥娅亲口认自己的上一场译漏，并当面补出对本方不利的长期优先，给要受影响的人听。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 413,
+      "quote": "只约此批验货，领水不随之续用",
+      "reason": "闻汀在场划掉续位，曲荻保有货的答允权。一句模糊条款变成明确只约本批的承诺。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 413,
+      "quote": "把门边立着的那块干木顺手收进内墙",
+      "reason": "闻汀收掉弥娅在来客小棚的坐位，把失去私议资格变成一个有空间变化的后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 413,
+      "quote": "纸上还有个空没填，曲荻那包药究竟该给谁看。",
+      "reason": "权利问题已解决，货的用途和内封仍没认。曲荻取一小包，弥娅跟路去验件台。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 414,
+      "quote": "拿这个就能插到头里去？",
+      "reason": "人群看见药包就担心照护水重排，前章已划条款却不能自动解决队列信任，问题开场可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 414,
+      "quote": "板上的瓶照号接。",
+      "reason": "林渡把私壶能自行处分和分水板原号接走说清楚，随后将验件桌与水嘴错开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 414,
+      "quote": "要是能修我们自己的东西，她愿意拿这一包谈工。",
+      "reason": "曲荻从水价争执提出把药换桶架修理，手头有限的自用水和公共照护水都不必先拿出去。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 414,
+      "quote": "她没有把水和药写成一笔。",
+      "reason": "布摊主人收回自家短壶仍留下看验，读者看到护住份额并不等于让求药的人离场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 414,
+      "quote": "你亲手开。开到哪儿能认清，哪儿就停。",
+      "reason": "查看外套时谁碰封被当面说定，下章才有机会看内层是能识别的药还是另一种货。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 415,
+      "quote": "我看看纸。你看封。",
+      "reason": "外套一开先掉出说明，读者马上能分出验者与持货人的动作，悬念是两种封装实际说明什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 415,
+      "quote": "处理件由自己收好，以后遇到真会接的人再议。",
+      "reason": "曲荻见识别风险后主动撤出大单和相似处理包，以少一项可换的货承受失去预期水量的代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 415,
+      "quote": "这包写明给件用。",
+      "reason": "看起来相近的第二纸包被辨清，第一包才有资格继续按验过封药谈工，设备包退出价格。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 415,
+      "quote": "说自己刚才只认得一圈纸，没认出字。",
+      "reason": "孩子的误认给读者看到现实后果，曲荻肯为低栏外的人转正字号，公开对封有用在一处具体误会。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 415,
+      "quote": "看完再定能不能修。现在谁都别去找一只满桶来试。",
+      "reason": "旧托已拿来且槽边有刺，下一场必须先找木匠和空载看件，药能否真走取决于工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 416,
+      "quote": "问林渡第二个半凉时从谁那里出。",
+      "reason": "修药价所需的人时开场就有主人：工匠先答应给另户门下垫木，并不是临时召来的空岗。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 416,
+      "quote": "林渡请他先去说自己原约，再来谈后半凉。",
+      "reason": "林渡先让原等件人开口，工匠自认两个可给的半凉，公用料与场地另问各自经手人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 416,
+      "quote": "两回都做成，你给药。试不过，你把旧箍和底托都拿回去",
+      "reason": "口头可修变成双方具名的条件，失败时药与旧件归谁、用过的料谁认都已可验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 416,
+      "quote": "屋里小孩脚伸下去得先碰到地。",
+      "reason": "门垫的用途解释木匠为何必须先兑现旧约，让另一户的脚也成为这次交易真实代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 416,
+      "quote": "这得换根底托。谁去告诉出板的人，他那一块就剩边条了？",
+      "reason": "槽里的裂线真正张开，许说修一修变成消耗整料的决定。下一章要看谁认损失、是否还能保住药。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 417,
+      "quote": "画在这边，锯从哪边下？",
+      "reason": "料主压住板尾，旧钉眼是否还能用直接关系借板是否会损失，前章的报价约束来到锯口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 417,
+      "quote": "你按下去当然进。明天你拿开手呢？",
+      "reason": "木匠拒绝舵手凭手压住铁箍作通过，指出真正使用时无法靠这只手，按可独立承载的条件加工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 417,
+      "quote": "第一段工做成了，药先照旧留在你那里。",
+      "reason": "一块板已消耗，新托能合空桶，松箍仍未验，第一段做成和整单完成成为两个可见状态。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 417,
+      "quote": "这一下在我船上挨半天，回港得拿什么堵？",
+      "reason": "曲荻不为赶交易吞下擦桶风险。修掉硬棱后真能合空桶，她作为押货和用桶的人对本次验收有决定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 417,
+      "quote": "先修那道缝，合上再压；若再跳开，立刻停。",
+      "reason": "两袋干砂未到、旧箍仍会弹，读者知道下一章用什么判输赢，并会不会一包药仍留在原处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 418,
+      "quote": "还没压上重物，左半道旧箍就滑了。",
+      "reason": "前章写的干压尚未开始，旧箍已经过线，验收是这一凉新风险，药还不能发。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 418,
+      "quote": "是这一半箍没扣牢。先别试重的。",
+      "reason": "林渡用可见的底托位置区分出故障来源，先停试；由工匠修箍、押货人按两段实做决定交药。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 418,
+      "quote": "三联各记空桶两侧外挂干砂十二斤，在干台验过。",
+      "reason": "先验台上实载并退砂，才进入分联交药，只有干台十二斤的实绩可写，船上实装另核。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 418,
+      "quote": "再没人把文书伸过来压住它。",
+      "reason": "曲荻撤手放药，不再是A31压在许可文件上的药。行动经过两段出工后第一次交到可带走的人手里。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 418,
+      "quote": "哪一次量水会有人愿意在纸上留下自己的名字。",
+      "reason": "小单交接尚待岸棚回条，曲荻主动问下一次换水。读者想知道有人肯实付多少和谁愿具名。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 419,
+      "quote": "小棚门只开了半边。",
+      "reason": "失去小棚席位不再只是413一句警告。开章有一扇挡住弥娅的门和正在商量的紧水，承接上章换水悬念。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 419,
+      "quote": "谁出门，就在这儿给他译。",
+      "reason": "弥娅接受不参加内议，自己定公开同译的位置，既继续让来客能谈货，也守住原载体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 419,
+      "quote": "先看封和价，两边都能留纸。",
+      "reason": "第398章只是一张逐批提议，本章实见一只带封罐，三勺可问价但还没开封交付。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 419,
+      "quote": "到时你还在外头译吧？",
+      "reason": "曲荻主动把交货联带来再读，肯把弥娅当共同见证，回报了弥娅守公开翻译的选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 419,
+      "quote": "得先挑一处两头都认得的石头。",
+      "reason": "舵手有从船看岸的布图，栈城另有由岸看海的方位。接着就能看首次相对是否给下一艘船一条路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 420,
+      "quote": "里面露出岸棚经手人写的收字。",
+      "reason": "回条实际从原路带回，418搁空的实收先有可见结果。紧接着下一批来货受窄缝限制，需要找靠岸路线。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 420,
+      "quote": "今日没有多验出一处能装货的台。",
+      "reason": "林渡肯认已经实见的岩点和已履行的一包药，却在浮标身份不明时拒签准运，承担第二条货路延后。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 420,
+      "quote": "两个圈之间空出了一整粗格",
+      "reason": "从共认两个岩点到浮标不能对上，图的实证发生了变化，不能直接用旧页带下一条船。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 420,
+      "quote": "一包，内封完整，存医疗用物处，待当班医者看。",
+      "reason": "读者等过两种壶、验封、两段工和细路转运，终于看到药真的进入医疗物件处，仍保经手与使用权限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 420,
+      "quote": "再到水边，你先告诉我站在哪块石头上望。",
+      "reason": "舵手愿用自己站过的视点换林渡的视点，双方到海边复测已成可执行下一步，浮标错位原因仍可追问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 420,
+      "quote": "把“已在台交”下面空着的格补上岸棚实收。",
+      "reason": "410约比壶查封，411同勺见三和四的差量，412—413校时并撤去续位，414—418改成两段已验修理换一包，420实际回条兑现第一次小单。没有将失去的工时、料和私人试水写成免费，也不把盐药实收当施用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 420,
+      "quote": "图上的浮标连两个人说的是不是同一只也没问清。",
+      "reason": "三勺四勺先影响水价，时点差占去开台工半段，续位危及后续整班和弥娅的内部席，静载失败可让已耗的一块板换不到药。最后受影响的不只一包货，是下一艘船能否退走。按小单亲眼核对的做法把不同图的标点暂时分开，下一篇靠实测兑现。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

@@ -1,0 +1,3003 @@
+[
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "次批三口待核上桌（老夫妻一户；一门牌挂两个号、其中一口常年不在、旬份照发、册上无销字）",
+    "new": "次批三格待核上桌（自报十一口、八口对上；余三格未核，其中两格牵涉同一门牌挂两个号、报称一口常年不在、旬份照发、册上无销字；不据报称定亲属关系）",
+    "reason": "262实际为三格待核，非已核老夫妻一户；依AGENTS§5数量、信息权限及正文§9数字闭环，不增加家庭组成，仍11口8核3待。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 0,
+    "before_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "after_sha256": "7fa5839d871d685be11cd4188ba41aa3d1c4e182f0fc37e7d949618108c4a65a",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "弥娅不押匣子（匣子裹旧布压铺盖下）、带画具上坡",
+    "new": "弥娅不押匣子（匣子裹旧布压铺盖下）、独自带画具上坡，借丁字三名下补送抄页的登记；核页条未发，只到门外",
+    "reason": "263首段已明写独自、借送页登记和条未发；区分262同行、263独行及264领条，关闭位置链与准入时间口径差异。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 1,
+    "before_sha256": "7fa5839d871d685be11cd4188ba41aa3d1c4e182f0fc37e7d949618108c4a65a",
+    "after_sha256": "4aa7b6e1b7c1c70fbd939b5643b98e7ff4818fc5a5d628155848205083c2e720",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "两个结一旧一新＝两次开两次系（旧结解过又系回、解了系回不添结；新结是后接的一段新绳）",
+    "new": "两个结一旧一新只证绳的新旧；“两次开两次系”来自门房口述（旧绳解开又系回不添结，接新绳才多一结，单凭结数数不出开门次数）",
+    "reason": "263实际“单凭这两个结，还数不出门开过几次”；按正文§9知识来源区分可见绳结与口供，不能由结数倒推出次数。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 2,
+    "before_sha256": "4aa7b6e1b7c1c70fbd939b5643b98e7ff4818fc5a5d628155848205083c2e720",
+    "after_sha256": "8647657d7f56cebdf858c147436596980092a6a9501aa1b0c0c7f9a402edfc37",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "丁字三让她按指印，明日只进一人、他名下那趟撤掉 | 当日上坡名额用掉仍不改口",
+    "new": "丁字三让她按指印，明日领条后撤去其名下借用的补送抄页登记；条的起用时辰待条面，实际264领条、265入库；林渡因缺班留下看汽 | 当日借送页登记只看门、未耗核页准入名额",
+    "reason": "263末段把领条、起用、撤借用登记和林渡留岗分开；不写成明日即入库、正式名额已用或林渡全程不得陪同。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 3,
+    "before_sha256": "8647657d7f56cebdf858c147436596980092a6a9501aa1b0c0c7f9a402edfc37",
+    "after_sha256": "616735c8abd649fd53b3cb3ab6acd1e6f649db4e74ff66bb7dc260b3e59f169c",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "次批两口调序、添“同址两户，先落人，后并号”",
+    "new": "待访门牌按能否见到本人调序，添“同址两户，先落人，后并号”（仅待核栏旧报法，先记露面者，三格未转已核）",
+    "reason": "264实际“不能凭这一行把三格改成已核”；旧报法不是新的户内关系裁定，也没有8核3待变9核2待。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 4,
+    "before_sha256": "616735c8abd649fd53b3cb3ab6acd1e6f649db4e74ff66bb7dc260b3e59f169c",
+    "after_sha256": "a8a8e6d0558cee752bcc7749adb83e8a69ac727c5544cfe78e7ea78d62e5f57a",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "译页“写完押”；外库两排架",
+    "new": "译页“写完押”，当值明确仅准本次只看不落笔，出门再核原三样；外库两排架",
+    "reason": "265实际“这一趟准你看，不许落笔”；补入063已成立的本次例外，不改条面规定、不创全局免押。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 5,
+    "before_sha256": "a8a8e6d0558cee752bcc7749adb83e8a69ac727c5544cfe78e7ea78d62e5f57a",
+    "after_sha256": "09c0cead68d0530ca9ae6b02c46f9aac6148291c10bf1be04cc17f29a7759796",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "黑板结盐霜；底册（十九年前誊正、未再动）与今版（去年换皮）",
+    "new": "黑板上结灰白粉末、未判为盐；陪同称底册十九年前誊正后未再动、今版去年换皮",
+    "reason": "265灰白粉末未验盐；“誊完没再动”是陪同口述，不能升格为排除后续删页的全知事实。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 6,
+    "before_sha256": "09c0cead68d0530ca9ae6b02c46f9aac6148291c10bf1be04cc17f29a7759796",
+    "after_sha256": "efe8a017f30c3e6dc48703bcc7d16b275f4c3263b14903c09276ff19af26b14e",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "同一门牌底册连缺两页（断口齐、一刀、无毛边、边沿发亮，字接续无跳字）",
+    "new": "同一门牌底册连缺两页（断口齐、无毛边、边沿发亮；仅凭缺口前后留下的字找不回所缺内容）",
+    "reason": "265实际“缺去的两页写过什么，光凭留下的字已经找不回来”；删除终稿已无的“字接续无跳字”，不假定内容连续或同一删改手。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 7,
+    "before_sha256": "efe8a017f30c3e6dc48703bcc7d16b275f4c3263b14903c09276ff19af26b14e",
+    "after_sha256": "587117e8979bbcfbfc967e3e9b16ad6a689c13e91990800f2021857338cb128f",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "页码底册125起、今版127起；陪同只说",
+    "new": "两册该门牌条目各自起页为底册125、今版127，起页差不抵算缺两页与补两页，所缺与补录内容尚未对上；陪同只说",
+    "reason": "265起页、缺页、补录三项分记；正文§9数字闭环禁止把125／127当删补数的推导。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 8,
+    "before_sha256": "587117e8979bbcfbfc967e3e9b16ad6a689c13e91990800f2021857338cb128f",
+    "after_sha256": "5ec7b2b8e810d2f6818464ae07ebcc906a99d07da2233f7d8fc5d6bd2656cc17",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "空手出库；退库单新增栏头“随身件”，空栏按印",
+    "new": "未取库册或抄本出库，原带笔、两张空白译页、旧布全带回；退库单新增栏头“随身件”，双方先明确“未带”仅指库册与抄本、复核三样原物后在空栏按印",
+    "reason": "265实际退库先核自有三样，未带限库册抄本；空栏印不是一切未带物的证明，不抹去私物与新增回执。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 9,
+    "before_sha256": "5ec7b2b8e810d2f6818464ae07ebcc906a99d07da2233f7d8fc5d6bd2656cc17",
+    "after_sha256": "d8759ec5f4d06efe13d202d8950a2705fa345ee2bad417f0c972c5c8ad04e6d0",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "林渡把廊口纸边断口与这里并看、中间画一道短横、不连成句 | 未抄未押、空手出库（随身件三样一样没少）",
+    "new": "林渡把廊口纸边与册页断口分行记录，未定同源；问明日是否发条，弥娅转述陪同“不抄，明天就不发”的回话 | 未抄未押，原三样全带回且多退库单",
+    "reason": "265终稿末段改为两条记不同的行及次日发条问答；原“短横”不再是该章实际动作，空手不能按字面冒充无私物。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 10,
+    "before_sha256": "d8759ec5f4d06efe13d202d8950a2705fa345ee2bad417f0c972c5c8ad04e6d0",
+    "after_sha256": "12f5fcded5cd6d8aa1952b4fd5e1da29e988861fc5635a2e3d456a9ff07871a6",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "次批五户十一口（8对／3待核）与刚落的半户同址两户全停；门牌挂两号那家的媳妇来问哪天能下来",
+    "new": "次批自报五户十一口仍8核／3待，对旧册的名单及人号对应核验全停；待核栏“同址两户”为旧报称，未新增半户或已核家庭；报单挂两个号那处来问名单的女人问哪天能下来",
+    "reason": "266实际只有报单来问者，不定媳妇身份；冻结是旧册核验停止，不是新户已落定。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 11,
+    "before_sha256": "12f5fcded5cd6d8aa1952b4fd5e1da29e988861fc5635a2e3d456a9ff07871a6",
+    "after_sha256": "4bfb3a39f569952fc76ee306ea027d619c5be059d5b761dfa937b2d1c4bf8082",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "弥娅整天少言，把退库单回执折成小方压圈页下",
+    "new": "弥娅晌午少言，把退库单回执折成小方压圈页下，天擦黑再抽出放在林渡手边留存",
+    "reason": "266先压圈页确实仍发生，不能删除该动作；必须补同章后续移交，才与268不再取单、269林渡取单闭合。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 12,
+    "before_sha256": "4bfb3a39f569952fc76ee306ea027d619c5be059d5b761dfa937b2d1c4bf8082",
+    "after_sha256": "5c3147b36c4d6694e7845f1ba257fc4aa7a3de64092ca341ea55a65c1539cf7f",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "入夜私下问清她空袋进出、退库单按印、页码记死“125对127”",
+    "new": "入夜前私下问清未带库册或抄本，原笔、两张空白译页、擦手布仍在，只多退库单；同门牌起页125／127分记，缺与补各两页、内容未对上",
+    "reason": "266实际问的是有没有带库册抄本，不是空袋；页码证据不自动解释缺补内容。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 13,
+    "before_sha256": "5c3147b36c4d6694e7845f1ba257fc4aa7a3de64092ca341ea55a65c1539cf7f",
+    "after_sha256": "7ff59b98066b75c05dfc9cac5fda7a593b7eeb74b30500ce32d67546fdfbf5bc",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "| 267 | 圈是我的 | D131晨／5层账桌 |",
+    "new": "| 267 | 圈是我的 | D131日间至夜岗／5层账桌 |",
+    "reason": "267本章含后半晌量板、天黑前认岗；夜间离开在268，不把整章事件压成清晨。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 14,
+    "before_sha256": "7ff59b98066b75c05dfc9cac5fda7a593b7eeb74b30500ce32d67546fdfbf5bc",
+    "after_sha256": "3ae77cf7bd9d4ecbdf1beae810620e3bafc117c888336b2110844c140fc52748",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "柜上八字回话“条停不发，等押件到”抄上墙；弥娅当众清点",
+    "new": "柜上八字回话“条停不发，等押件到”抄上墙；旧条的一人陪同已被昨日两人新规替代；弥娅当众清点",
+    "reason": "267实际明确旧一人条已改两人，避免候选仍把压在下方的旧条当现行人数。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 15,
+    "before_sha256": "3ae77cf7bd9d4ecbdf1beae810620e3bafc117c888336b2110844c140fc52748",
+    "after_sha256": "9b5f637c8aca62f1dafd90b18649ee010941f4a0fe6bd9a706ede4ba336c7387",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "老陈报一块板中分、板背渗水汽、“势头不对、撑不过两天”",
+    "new": "老陈后半晌从靠海侧量板回来报同块两道贯穿旧裂、中间已分开，板背潮湿蒙水光，“势头不对、撑不过两天”",
+    "reason": "267实际量完板回来才报数；旧裂不退回浅裂，板背水光与缝口蒸汽不能混成板背渗汽。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 16,
+    "before_sha256": "9b5f637c8aca62f1dafd90b18649ee010941f4a0fe6bd9a706ede4ba336c7387",
+    "after_sha256": "c334838f4a2b28fd45d9007eac23836f3faccd623ebcc9418c6a228121c664de",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "退库单搁纸旁露一角；趁坡腰守数交班",
+    "new": "夜写页叠在白天库内观察页上，两张同压石子下；退库单留林渡那头，她未再取；趁坡腰守数交班",
+    "reason": "268实际两张译页留桌，退库单承266交林渡留存；删除已不存在的退库单纸旁露角。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 17,
+    "before_sha256": "c334838f4a2b28fd45d9007eac23836f3faccd623ebcc9418c6a228121c664de",
+    "after_sha256": "44bb4bda515110d0915015ff0d3b2b697db09029e0ebdcfb8a966beb47eed02e",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "她侧身抬闩、竖匣送过，布袋布角被门轴刮住一小块",
+    "new": "门外横闩两端搁木托，她抬一端脱托、把闩斜放墙边；先递空袋，再将旧布裹匣的窄边送过，刮住的是包匣旧布；跨入后间后匣再归袋",
+    "reason": "268实际外闩可达、空袋先过、包布挂轴、入后间归袋；对应正文§9物件物理与位置链，不让匣同时在袋内外，也不写横闩无落点。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 18,
+    "before_sha256": "44bb4bda515110d0915015ff0d3b2b697db09029e0ebdcfb8a966beb47eed02e",
+    "after_sha256": "b1d2f4509b989a621ba49ea79b8a75bcde66fc32ed606fa7ce13f5798e27d664",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "林渡读石子下三行＋两句，退库单在旁；他当众声明不推责：保栏自添“保人自认，头一行未果”",
+    "new": "林渡读石子下两张译页，从自己留着的旧账页旁取退库单；他当众核清D129保已履行且未续签，D132另页自记“保人自认，头一行未果”，仅记今日人未归和这头未交代，不倒改旧保、不认未知夜事",
+    "reason": "269实际物件持有人与保期都写明；不以“自认”将已完成的D129核页改失保，也不追溯担保弥娅未知夜间行为。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 19,
+    "before_sha256": "b1d2f4509b989a621ba49ea79b8a75bcde66fc32ed606fa7ce13f5798e27d664",
+    "after_sha256": "295b200e2e37bddc3c532680756cae25c324085bbb2e5faf104869cbd5da5202",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "钉住本地四样（正门没开——门房“人未从正门出”“绳还是那两个结、一个也没多、封记没动”；湿板脚印一进无出；活木头山根那头印子对得上、墙那头挪半指；北墙小门底下新鲜蹭痕）",
+    "new": "分记本地三项（门房口述正门没开、封记未动；亲见活木头山根端压老印、墙端新印错半指；亲见湿板一串北向脚印，步态仅与她相近）；林渡未进缝，转角挡住小门，未见小门蹭痕，也未证没有返程",
+    "reason": "269终稿限制林渡亲见到缝口；268读者所见小门不能越过视角给林渡，单串脚印也不等于一进无出。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 20,
+    "before_sha256": "295b200e2e37bddc3c532680756cae25c324085bbb2e5faf104869cbd5da5202",
+    "after_sha256": "9c917a979e50ffaf04d9ceeae7ca3863456923c02c8ac611cf54843c776b340a",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "今日只拉一趟料、待核两户未动、核人半班并入照护",
+    "new": "今日只拉一趟料、待核栏两处报称所涉核验未动（仍11口8核3待，不定亲属组成）、核人半班并入照护",
+    "reason": "269“待核两户”不应覆盖262已限定的三口待核身份；保留待核事项停滞，不据称谓增改核定人头。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 21,
+    "before_sha256": "9c917a979e50ffaf04d9ceeae7ca3863456923c02c8ac611cf54843c776b340a",
+    "after_sha256": "7c8c2c79732152bfafbe8aa60c2e19dd26ae34875833e42b960234fdc5fc6c7c",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "老陈教判断（汽白转黄＝板缝出油、出油就得支、黄要灯下才看得出）；四样抄进探查册、压灯座下",
+    "new": "老陈教判断（灯照缝沿是否渗出亮油，干草点验是否沾油，不伸手探热缝，不用白汽变色认木油；出油就先支）；三项口供与亲见分记进探查册、压灯座下",
+    "reason": "269实际查木油对象是缝沿而非蒸汽颜色；并将末尾四样同步为三项，避免改了枚举却保留错误总数。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 22,
+    "before_sha256": "7c8c2c79732152bfafbe8aa60c2e19dd26ae34875833e42b960234fdc5fc6c7c",
+    "after_sha256": "c5d33fc9e69bcd6763702081fd9a6fb33e03fcbd3f254d25a1fbf8a626a032a5",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "大热后半夜到；灯照汽根泛黄、缝沿亮线（木油）、干草点验发涩；天亮换板",
+    "new": "大热在D133天亮前的后半夜到；灯照缝沿黄亮痕，干草点验草尖沾黄亮油；先拦人并用料箱中回收的不顶梁实心旧栏柱、垫石、两楔支危险裂板，借来顶棚梁的另一根撑仍留梁下；天亮换板",
+    "reason": "270实际查油并立即先支；短撑来自254已收料箱的非承梁栏柱，不新增器材，不把借撑视作回箱。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 23,
+    "before_sha256": "c5d33fc9e69bcd6763702081fd9a6fb33e03fcbd3f254d25a1fbf8a626a032a5",
+    "after_sha256": "72a2db88bd85eab2704bee67da56f01efe71c50f3ba9e4de0cbc268f895a9303",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "第二块用短撑＋垫石＋两片木楔支住；撬棍滑出、板头碎木刮伤阿九小臂出血",
+    "new": "第一块换好后，将同一短撑及原垫石、两楔移支第二块；抽第一块时肩顶触旧伤、撬棍滑出，碎木刮伤阿九小臂；林渡退半步支稳撬棍，改左手压棍尾，阿九绷绳配合",
+    "reason": "270实际夜间支第一块、日间换后移支第二块；同一套材料不倍增，肩伤后的下一动作改左手而不是再肩顶。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 24,
+    "before_sha256": "72a2db88bd85eab2704bee67da56f01efe71c50f3ba9e4de0cbc268f895a9303",
+    "after_sha256": "818e1b43357ac92027308e8c7aa08ba38c37515640a3c68ddac1aea4fa400be4",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "靠海侧凝水布收不上、少一格底（记公开册）；林渡右手抬不过肩",
+    "new": "靠海侧一块凝水布停收，戊字一合各处日实收仍总少一格底，挪班与停布分记原因、不重复算同一实收差（记公开册）；林渡右手抬不过肩",
+    "reason": "270实际034修法已合各处实收，仍总缺一格底；候选不能把停布另添成新一格，也不引入待核新量。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 25,
+    "before_sha256": "818e1b43357ac92027308e8c7aa08ba38c37515640a3c68ddac1aea4fa400be4",
+    "after_sha256": "5412f080e626ba818d149662abd78f9db2e683ddcd236bab14b8aff32c86d642",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "待核两户未动、老夫妻儿媳来问",
+    "new": "待核栏两处报称所涉核验未动、仍11口8核3待；北头那处先前来问名单的女人再问，不定老夫妻或儿媳关系",
+    "reason": "270实际只称来问名单的女人；依262核验边界保留未核身份，不新定义家庭组成。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 26,
+    "before_sha256": "5412f080e626ba818d149662abd78f9db2e683ddcd236bab14b8aff32c86d642",
+    "after_sha256": "a482ddb067a524d21bbd51799a2da0a8794b4001825f844d5bdd5552ffdd928c",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "D134午后迟信到（北头挑柴女人捎、走两夜、经三道手：北头检修棚→拣料→搬运→坡下；挑柴进棚没人问纸）",
+    "new": "D134午后迟信到（北头挑柴女人捎；信走两夜，第一夜过三道手、第二夜到坡下，全程经手未核全；转递方向北头检修棚→拣料→搬运→坡下；挑柴进棚没人问纸；杜姨从自己当班未喝份分半平勺给她）",
+    "reason": "270迟信两夜是信的行程，三道手仅第一夜；062半平勺有杜姨自有份来源，不新增公共出水。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 27,
+    "before_sha256": "a482ddb067a524d21bbd51799a2da0a8794b4001825f844d5bdd5552ffdd928c",
+    "after_sha256": "92357ea2c7e121f8a2ea3da229b9887aee8c21842d56ebc355603ac8dedbf27e",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "与弥娅译页并折压进贴身布袋",
+    "new": "与弥娅留下的两张译页并折压进贴身布袋（三张纸，不含退库单）",
+    "reason": "270实际“三张”是两张译页加迟信；灯下另是辰时收条及条件单抄样，不把退库单混进怀袋三纸或认作辰时收条。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 28,
+    "before_sha256": "92357ea2c7e121f8a2ea3da229b9887aee8c21842d56ebc355603ac8dedbf27e",
+    "after_sha256": "4485bc729ed2bbd335c0e463eae31cdd09e3ce58dd03a5c3a99d122e2ea24f7e",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "探查册另起行头一字“船”、三个点",
+    "new": "探查册另起行头一字“船”，只点D134首夜一点，旁留两夜空位，待第三夜齐后再对",
+    "reason": "270当前仅首夜观测，计划三夜不能登记为三夜完成。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 29,
+    "before_sha256": "4485bc729ed2bbd335c0e463eae31cdd09e3ce58dd03a5c3a99d122e2ea24f7e",
+    "after_sha256": "aa2bc4f31b2ff471efbe94e257d713a0e788c52a2b668b96855d6b5c1e16c5f3",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "新增“迟信／船行三点”",
+    "new": "新增“迟信／船灯首夜一点、余两夜待观”",
+    "reason": "同步270实录伏笔栏，避免正文记录一点而标签仍暗示三点已齐。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 30,
+    "before_sha256": "aa2bc4f31b2ff471efbe94e257d713a0e788c52a2b668b96855d6b5c1e16c5f3",
+    "after_sha256": "87c52dd6168c93fb8658d08163773d707c32c205afc77a9da9013cd0975838f3",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "档案线：号同页异现场坐实——底册（十九年前誊正、未再动）",
+    "new": "档案线：号同页异现场确认仅为起页位置差、缺页与补录差异——底册（陪同称十九年前誊正后未再动，未据此排除后续删页）",
+    "reason": "265限制口述与可见事实；批末摘要同样不能把陪同人的话作为底册未被动过的全知结论。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 31,
+    "before_sha256": "87c52dd6168c93fb8658d08163773d707c32c205afc77a9da9013cd0975838f3",
+    "after_sha256": "75d2ce431803963b8714aa3acf57298f127d973cc86497fc81d9c0452f1fc15d",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "页码底册125起、今版127起。核页条件三次收紧",
+    "new": "同门牌条目各自起页底册125、今版127，不能抵算缺补数量或判定内容相同；D129当值仅准本次只看不落笔、出门核原三样，未形成永久免押。核页条件三次收紧",
+    "reason": "265的起页与缺补分列、本次准看例外须进入A17批末状态；旧规定并未因此全局失效。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 32,
+    "before_sha256": "75d2ce431803963b8714aa3acf57298f127d973cc86497fc81d9c0452f1fc15d",
+    "after_sha256": "5f0197248b9637df70b28aec0c9dc9f67685f260dc80a33bd1d02266528f682d",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "弥娅D129空手进、空手出（退库单“随身件”栏空栏按印；未抄库内旧册、未押随身件；个人观察记在自带纸上，随身件三样一样没少）",
+    "new": "弥娅D129带自有笔、两张空白译页、旧布入库，本次只看未抄未押；出库先核原三样、明确“未带”仅指库册及抄本，再按退库单空栏印，原物全带回且多回执；观察凭记忆带回，D131才在自有纸上写下",
+    "reason": "265→267实际写纸时间与退库核对范围闭环；不是空手、不是库内已写个人观察纸，也不让空印证明全部物件。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 33,
+    "before_sha256": "5f0197248b9637df70b28aec0c9dc9f67685f260dc80a33bd1d02266528f682d",
+    "after_sha256": "d220c2d3ef38e56cc480883d6a94f82b277516b9c719f120eb72b2afa29fada8",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "D131夜携匣自外库北墙单扇小门（比正门矮一头、窄两头，无绳无封）出，沿山根板道往北；走前留译页压石子下（只写缝、活木头、车辙与“圈我带走了”“保页上别替我认我没做过的事”），未写路线与时辰。档片匣、圈页、空白译页随人",
+    "new": "D131夜携匣经外库北墙单扇小门（比正门矮一头也窄，无绳无封）入后间，再由后间北头另一道门出、沿山根板道往北；走前将门外三行及“圈我带走了”“保页上别替我认我没做过的事”叠在白天库内观察页上，两张同压石子下，未留路线与时辰。档片匣、圈页随人；两张原空白译页已分别写完留桌，退库单留林渡",
+    "reason": "268小门是进后间，另一道门才出；两张原空白页已在267／268用完留桌，不能仍列为离队随身空白页或漏掉第一张观察纸。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 34,
+    "before_sha256": "d220c2d3ef38e56cc480883d6a94f82b277516b9c719f120eb72b2afa29fada8",
+    "after_sha256": "0f8b84fc17b9051e81211fe6c1e774733d6b0c0e156a68abb6e250f18cbffc9d",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "靠海侧凝水布收不上、每天少一格底水（记公开册）",
+    "new": "靠海侧一块凝水布停收；270合各处日实收仍总少一格底，挪班与停布分记原因、不重复加算，以后每日按实收核（记公开册）",
+    "reason": "270实际034闭环是已合核且总缺一格底，不能因批末摘要省略而另增停布损失。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 35,
+    "before_sha256": "0f8b84fc17b9051e81211fe6c1e774733d6b0c0e156a68abb6e250f18cbffc9d",
+    "after_sha256": "721f750275b1c828ade98bc86ee3e5ff48b49fbafa26b30099c5273bd1e50c5b",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "林渡当众认下失信（保栏添“保人自认，头一行未果”）、宣布这一头不催涉档事；本地三项记录（含门房口述，未尽核实）钉住（正门没开、活木头墙那头印挪半指、湿板脚印一进无出、北墙小门新鲜蹭痕）；迟信到（走两夜、经三道手，无路线无落脚，末句“有事捎这一条线”）",
+    "new": "林渡当众核清D129旧保已履行且未续签，D132另页自记“保人自认，头一行未果”，只记人未归与这头未交代，不认未知夜事、不倒改旧保；宣布这一头不催涉档事；本地三项分记（门房口述正门没开；亲见活木头墙端新印错半指；亲见湿板一串北向脚印，仅步态相近，返程未证；未进缝、未见拐角后小门）；迟信到（信走两夜，仅第一夜过三道手，全程经手未核清，无路线无落脚，末句“有事捎这一条线”）",
+    "reason": "269／270对应正文§9保期、视角和信息来源；修原“本地三项”却列四项的内部矛盾，并删除一进无出、小门亲见和整程三道手。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 36,
+    "before_sha256": "721f750275b1c828ade98bc86ee3e5ff48b49fbafa26b30099c5273bd1e50c5b",
+    "after_sha256": "8a0648d0599395d192cf3620234e2cd1ee781ac0289474210a31abb63cb6a9ec",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "次批五户十一口（8对／3待核）与同址两户的并号全停",
+    "new": "次批自报五户十一口仍8核／3待，涉及旧册的人号核验及并号停下；“同址两户”仅待核旧报法，不作亲属或户内组成裁定",
+    "reason": "A17批末人头仍11／8／3，核验冻结不生成已核两户或新的半户。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 37,
+    "before_sha256": "8a0648d0599395d192cf3620234e2cd1ee781ac0289474210a31abb63cb6a9ec",
+    "after_sha256": "6d3cab23542f1ffc1fd60a2dd1b91d0cba1f59908126464e5b8b05694a30dd92",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "旧册分“底册”（十九年前誊正、未再改）与在用的今版；两册页码差异即A16“号同页异”",
+    "new": "旧册分“底册”与在用的今版；陪同称底册十九年前誊正后未再动，口述不排除后来删页；两册同一门牌条目起页不同即“号同页异”，不抵算缺补数量",
+    "reason": "此段标题已注明正文核对后保留，故按265终稿修原场景说明；不让旧作者设想覆盖实际权限。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 38,
+    "before_sha256": "6d3cab23542f1ffc1fd60a2dd1b91d0cba1f59908126464e5b8b05694a30dd92",
+    "after_sha256": "e8de29189d5a8f66b0ecc15173effa2c55567b369af49393df616a8dda02ea73",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "抽页与补页是两回手续，都可追到“进过内廊的手”，但正文不写签发人",
+    "new": "抽页与补录是两项可见差异，是否对应同一内容、是否出于同手及其与内廊的关系均未核，正文不写签发人",
+    "reason": "265终稿明确内容尚未对上；未建立“都可追到进过内廊的手”的证据，不能把设想当已核事实。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 39,
+    "before_sha256": "e8de29189d5a8f66b0ecc15173effa2c55567b369af49393df616a8dda02ea73",
+    "after_sha256": "9eb0579182f51a8d4be9851a995b159cd6fb6dd2d22c1e80a9b45e871c496a61",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "D130、D131两次收紧分别落在“陪同加一人”和“抄本不出库、押件才准再抄”",
+    "new": "D129仅当值准本次只看不抄；D130收紧为陪同由一增二、抄本不出库及非押不抄定死、本支路涉档冻结；D131再定不押件不发条、不准入外库",
+    "reason": "266／267时间线中D130已有非押不抄与冻结，D131新增的是不发条不准入；不将两个时点的规则移位。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 40,
+    "before_sha256": "9eb0579182f51a8d4be9851a995b159cd6fb6dd2d22c1e80a9b45e871c496a61",
+    "after_sha256": "95e21c524bdc1e255f187fb578472c9b480ae9ecbc1a892665481dc83bbc59c7",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "库有正门（门绳在西侧墙钉、两次开两次系）与一道北墙单扇小门（比正门矮一头也窄、无绳无封）",
+    "new": "已见正门（门绳在西侧墙钉，“两次开两次系”据口述）、北墙单扇小门（比正门矮一头也窄、无绳无封，入后间）及后间北头另一道出门",
+    "reason": "268实际有进入后间与另门出去两个动作；“正门与小门”不能被读成全库只两道门，次数也不能由结数推定。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 41,
+    "before_sha256": "95e21c524bdc1e255f187fb578472c9b480ae9ecbc1a892665481dc83bbc59c7",
+    "after_sha256": "9c2eab630d7c7809fd29d39015e130830ee551aa385ec1a6ce7c896a4d9b23c2",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "旧册分“底册”（十九年前誊正、未再动）与在用的今版。",
+    "new": "旧册分“底册”与在用的今版；十九年前誊正后未再动仅据陪同人口述。",
+    "reason": "265陪同的年代说法不升格全知事实；同步A17写后场景补充原行。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 42,
+    "before_sha256": "9c2eab630d7c7809fd29d39015e130830ee551aa385ec1a6ce7c896a4d9b23c2",
+    "after_sha256": "b685e6d4dc603b5daa93be37a3808609192a448a1c0b83e15c3ab65cc6102a71",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "弥娅离队：D131后半夜自外库北墙小门往北",
+    "new": "弥娅离队：D131后半夜经外库北墙小门进入后间，再从后间北头另一道门出去往北",
+    "reason": "268实际先入后间、再另门出；不可让读者把小门误作直接北出的同一道门。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 43,
+    "before_sha256": "b685e6d4dc603b5daa93be37a3808609192a448a1c0b83e15c3ab65cc6102a71",
+    "after_sha256": "512317ff18f25f683a7cbff3df8cff499b567bc26fffb42e6756ea910e0522d4",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "| 265 | 自有空白纸记观察、受限库册不抄出；断口和页差不足定删改者，白色残留不凭雨认盐。 |",
+    "new": "| 265 | 本次当值准只看不落笔，原笔纸布未押且全带回；观察凭记忆回棚、267才写自有纸，库册及抄本未带出；断口和起页差不足定删改者，灰白残留未判盐。 |",
+    "reason": "R008末尾校准也要依265本次例外与267实际落笔，不能用尾注再写成265库内记录观察。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 44,
+    "before_sha256": "512317ff18f25f683a7cbff3df8cff499b567bc26fffb42e6756ea910e0522d4",
+    "after_sha256": "525075156195bebce5fb815b336974175d6fb02c3bc51c24899bab7685c1832f",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "| 266 | 增加陪同、按日保与抄本限制写明；亲属诉求仍待旧册核对，不以号数顶替人头数。 |",
+    "new": "| 266 | 陪同改二人与抄本限制写明；来问名单者的身份及人号对应仍待旧册核对，不定亲属组成；退库单天擦黑移交林渡，不以号数顶替人头数。 |",
+    "reason": "266没有核定亲属关系；尾注“亲属诉求”应改为来问者诉求，并注明原实录所缺的退库单交接。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 45,
+    "before_sha256": "525075156195bebce5fb815b336974175d6fb02c3bc51c24899bab7685c1832f",
+    "after_sha256": "ab8e2408fe2747d44095fe54dbe6ce4da7c9f5fa46cec1f612f454884116b75f",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "| 267 | D131拒押后携匣离开，随身载体与个人译页权限有别；核证岗位损失继续。 |",
+    "new": "| 267 | D131白天拒押、凭记忆写观察页并回压石下，傍晚认领夜岗；268后半夜才携匣离开，所缺为夜岗余段，不算整岗未到。 |",
+    "reason": "267与268时段分开；避免末尾校准把同日夜离提早成本章白天即走。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 46,
+    "before_sha256": "ab8e2408fe2747d44095fe54dbe6ce4da7c9f5fa46cec1f612f454884116b75f",
+    "after_sha256": "05d574b6a257ac19138536908f1bee7308e8a3cefeb76c1d3c8893b7f2eaadf3",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "old": "| 270 | D133夜先支危险裂板、日间换第一块后移用同撑石楔；肩伤后改左手撬；D134首信与首夜灯，两夜仍待记。 |",
+    "new": "| 270 | D133天亮前先以回收不顶梁栏柱支危险裂板，借来的梁撑仍留梁下；日间换第一块后移用同柱石楔；肩伤后改左手撬；日实收仍总缺一格底，信使水出杜姨自有份；D134首信与首夜灯，两夜仍待记。 |",
+    "reason": "避免“D133夜”误指日间换板以后的夜晚；270顺序是天亮前先支，且末尾校准同时保留来源、水与首夜边界。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 47,
+    "before_sha256": "05d574b6a257ac19138536908f1bee7308e8a3cefeb76c1d3c8893b7f2eaadf3",
+    "after_sha256": "46572c9c9544b090daaec0b5e5eb7b9421e4eaad730463b27e4c43d19e3c178a",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "内廊门开半扇、清运两日内毕、最后一趟夜里往北",
+    "new": "内廊门开半扇，清运“两日内”期限已到；最后一趟夜里往北据门房口述，不据此确认全部清运完成",
+    "reason": "261实际门开半扇与清运期限到，不能由半开门或门房口述推出全部清运已毕；不借报告给角色新增全局信息。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 48,
+    "before_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "after_sha256": "773594a5b167acac3484a97be0fe34eb5362d940a7c08d92886e8d5b1fb8de3a",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "弥娅不押匣子、带画具上坡；靠海侧白汽",
+    "new": "弥娅不押匣子，独自带画具、借丁字三补送抄页登记上坡，条未发只到门外；靠海侧白汽",
+    "reason": "263行动登记不等于正式核页许可；补单独行动及未发条的门外范围。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 49,
+    "before_sha256": "773594a5b167acac3484a97be0fe34eb5362d940a7c08d92886e8d5b1fb8de3a",
+    "after_sha256": "cb991294dfc5d39a16e6a15a974f0a1fbd0be990ce8361c50cc5c38e08a9fd0e",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "两结一旧一新＝两次开两次系（旧结解过又系回、解了系回不添结；新结是后接的一段新绳）",
+    "new": "两结一旧一新只证绳新旧，“两次开两次系”据门房口述（解开重系不添结，接新绳才多一结），不能凭结数数开门次数",
+    "reason": "263明确否定结数计开门次数；同步时间线原行而非仅尾注。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 50,
+    "before_sha256": "cb991294dfc5d39a16e6a15a974f0a1fbd0be990ce8361c50cc5c38e08a9fd0e",
+    "after_sha256": "8fa18ae494ce95109c1dac14aa6374454aa523cebd21b3dc50602b97c1ae1e44",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "次批两口调序、添“同址两户，先落人，后并号”",
+    "new": "待访门牌依是否见到本人调序，添“同址两户，先落人，后并号”；该语只是待核旧报法，先记露面者，不把三格改已核，仍11口8核3待",
+    "reason": "264待访排序不等于核实身份，更不新增已核家庭组成。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 51,
+    "before_sha256": "8fa18ae494ce95109c1dac14aa6374454aa523cebd21b3dc50602b97c1ae1e44",
+    "after_sha256": "b4880f0932e40cbb138118f4938aeca0ece8e1b8cced16354a6a4c0b725dae63",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "译页“写完押”；库内两排架",
+    "new": "译页“写完押”，当值仅准本次只看不落笔、出门再核原三样；库内两排架",
+    "reason": "265本次只看例外必须保留限定，不将纸笔布未押解释为全局豁免。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 52,
+    "before_sha256": "b4880f0932e40cbb138118f4938aeca0ece8e1b8cced16354a6a4c0b725dae63",
+    "after_sha256": "2b6b9bed1dfa0c6fd6a52e69d526ace878bc612683bc6ec0cd94aa45fb4b1514",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "黑板结盐霜；底册（十九年前誊正、未再动）同一门牌连缺两页（断口齐、一刀、边沿发亮、字接续无跳字）",
+    "new": "黑板结灰白粉末、未判盐；底册同一门牌连缺两页（陪同称十九年前誊正后未再动；断口齐、边沿发亮，缺去内容凭留下的字已找不回）",
+    "reason": "265灰白物未验盐，年代为口述；已删“字接续无跳字”，不能在原时间线继续认定内容连续。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 53,
+    "before_sha256": "2b6b9bed1dfa0c6fd6a52e69d526ace878bc612683bc6ec0cd94aa45fb4b1514",
+    "after_sha256": "35f1e8c95b25efc2e65de9017f1ecad971a3d4e4db554151ca4ec486b1940017",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "页码底册125起、今版127起；陪同“补录归档房",
+    "new": "同门牌条目各自起页底册125、今版127，不能拿起页差抵算缺补数，缺去与补录内容未对上；陪同“补录归档房",
+    "reason": "265数字闭环：两册起页、底册缺两页、今版补两页各自登记，不互作因果。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 54,
+    "before_sha256": "35f1e8c95b25efc2e65de9017f1ecad971a3d4e4db554151ca4ec486b1940017",
+    "after_sha256": "78fc9352ddf1fa96f5990dc24030b46cee183e760ca327024662c3d50067dc5e",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "弥娅拒抄拒押、空手出库（随身件三样一样没少）；退库单新增“随身件”栏、空栏按印",
+    "new": "弥娅拒抄拒押、未带库册或抄本出库，自有笔、两张空白译页、旧布原样带回且多退库单；新增“随身件”栏，先复核原三样并限定“未带”为库册抄本后在空栏按印",
+    "reason": "265未带限库件而非空袋；空印的效力有前置实物核对和范围限定，物权与文书不能互相偷换。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 55,
+    "before_sha256": "78fc9352ddf1fa96f5990dc24030b46cee183e760ca327024662c3d50067dc5e",
+    "after_sha256": "986648a613232229fe020f41fe6bbeba80b7e3ef8d9339c44af61764c4dea783",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "次批五户十一口与同址两户全停；门牌挂两号那家媳妇来问",
+    "new": "次批自报五户十一口仍8核／3待，与旧册相关的人号对应核验及并号全停，“同址两户”仅待核旧报法；报单挂两个号那处来问名单的女人来问",
+    "reason": "266没有核定媳妇／老夫妻身份，冻结旧册核验也不新增已核两户。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 56,
+    "before_sha256": "986648a613232229fe020f41fe6bbeba80b7e3ef8d9339c44af61764c4dea783",
+    "after_sha256": "74839b1c51dc4d555aba14b33bd118f28dc3c63af2db01f5a1c779d944c3bb4c",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "入夜私下问清空袋进出与页码“125对127” | L3：答不上的一句，换回一条死规 |",
+    "new": "天擦黑弥娅将退库单从圈页下抽出交林渡留存；入夜前问清未带库册抄本、原笔纸布仍在且多回执；同门牌起页125／127与缺补各两页分记，内容未对上 | L3：陪同与抄本条件收紧，原因未核；林渡不替弥娅认押 |",
+    "reason": "266实际物件交接和提问范围已改；档房因哪一句话收紧并无已核来源，不能把猜测写成时间线确定因果。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 57,
+    "before_sha256": "74839b1c51dc4d555aba14b33bd118f28dc3c63af2db01f5a1c779d944c3bb4c",
+    "after_sha256": "26e260ecbaf8028c97c0cea02798c8b87318ebb64a1c6f0bf73afc4c881dcf61",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "| 267 | D131晨 | 5层账桌 |",
+    "new": "| 267 | D131日间至夜岗 | 5层账桌 |",
+    "reason": "267含日间、后半晌、傍晚认岗，真正夜离在268；修原时间栏而不是只加尾注。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 58,
+    "before_sha256": "26e260ecbaf8028c97c0cea02798c8b87318ebb64a1c6f0bf73afc4c881dcf61",
+    "after_sha256": "8638397d3b325f2879e3ab7d6acde4c825782f274752001feb41d209a2a54b1d",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "把外库所见抄成一页译页压桌角石子下（只写看见的，不写路线与时辰）",
+    "new": "凭记忆把外库所见写成一页自有译页压桌角石子下，膝上核看后送回再压（只写看见的，不写路线与时辰；旧一人陪同条已被昨日两人新规替代）",
+    "reason": "267明确凭记忆写、纸回石下及陪同新旧口径；不能记录成库内抄出。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 59,
+    "before_sha256": "8638397d3b325f2879e3ab7d6acde4c825782f274752001feb41d209a2a54b1d",
+    "after_sha256": "76271174ff4b56f7543f98719ffb54077531cb44e1e36b6357a1e6608e60708a",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "老陈报一块板中分、“势头不对、撑不过两天”",
+    "new": "老陈后半晌从靠海侧量完板回来，报同块两道贯穿旧裂中分、板背潮湿蒙水光，“势头不对、撑不过两天”",
+    "reason": "267先量后报，裂纹承前而非重置，潮湿板背与冒汽分开。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 60,
+    "before_sha256": "76271174ff4b56f7543f98719ffb54077531cb44e1e36b6357a1e6608e60708a",
+    "after_sha256": "48689190b6e500331a42e53d24a027ad2dbeabdd856cda1fc7890aff225a103e",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "留译页三行＋两句（圈我带走了／保页上别替我认我没做过的事）、退库单搁纸旁露一角",
+    "new": "新写译页三行＋两句（圈我带走了／保页上别替我认我没做过的事），叠在白天观察页上，两张同压石子下；退库单留林渡那头，未再取",
+    "reason": "268两张译页留桌与退库单分处有实际原句；修原时间线物件位置。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 61,
+    "before_sha256": "48689190b6e500331a42e53d24a027ad2dbeabdd856cda1fc7890aff225a103e",
+    "after_sha256": "3b50d4703f00bab4fd708e955b0c0b25e663d6f7c56e0ecb9b5b585af2db9e12",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "她抬闩竖匣送过、布袋布角被门轴刮住一小块、门槛外留两个深印未处理",
+    "new": "外横闩两端搁木托，她抬一端脱托、斜放墙边；先递空袋再送旧布裹匣窄边，包布被门轴刮住一小块，跨入后间后匣再归袋；门槛外留两个深印未处理",
+    "reason": "268实体动作顺序：闩可及且有落点，空袋先过，刮包布不是袋布，入后间归袋而非同物同时内外。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 62,
+    "before_sha256": "3b50d4703f00bab4fd708e955b0c0b25e663d6f7c56e0ecb9b5b585af2db9e12",
+    "after_sha256": "7980a9716b9fe5872560dea7fc955cf7d4bfbdaa9230da4cb5297268f96d99d4",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "林渡读译页三行＋两句；保栏自添“保人自认，头一行未果”、宣布今天起这一头不催涉档事",
+    "new": "林渡读石下两张译页，从自己旧账页旁取退库单；当众核清D129旧保已履行且未续签，D132另页自记“保人自认，头一行未果”，仅记人未归和这头未交代，不认未知夜事、不倒改旧保；宣布今天起这一头不催涉档事",
+    "reason": "269实际已有旧保与本日自认的边界，时间线不能再用“保栏自添”含混串成永久担保；退库单承266持有人。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 63,
+    "before_sha256": "7980a9716b9fe5872560dea7fc955cf7d4bfbdaa9230da4cb5297268f96d99d4",
+    "after_sha256": "e1e6d9159a88d8af891e251b7785f21deba69e5aad066ebe430d35bf2659e5b8",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "钉住本地四样（正门没开、活木头墙那头印挪半指、湿板脚印一进无出、北墙小门有新鲜蹭痕）",
+    "new": "本地仅三项分记（门房口述正门没开；亲见活木头墙端新印错半指；亲见湿板一串北向脚印，仅步态相近、返程未证）；林渡未进缝、转角挡住小门，未见小门蹭痕",
+    "reason": "269没有到小门的视线或行动，不能借268弥娅视角替林渡证第四项；脚印不证一进无出。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 64,
+    "before_sha256": "e1e6d9159a88d8af891e251b7785f21deba69e5aad066ebe430d35bf2659e5b8",
+    "after_sha256": "1708fd941077b4af210e4f683df43d311cda361a3cb562e7468d8adb54d14489",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "老陈教“汽白转黄＝出油，出油就得支，黄要灯下才看得出”",
+    "new": "老陈教灯压低照缝沿油亮线，用干草点看草尖是否沾油，不把手伸进热缝；见木油就先支，不以汽色认油",
+    "reason": "269实际区分汽与木油，关闭旧时间线汽白转黄的物态混写。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 65,
+    "before_sha256": "1708fd941077b4af210e4f683df43d311cda361a3cb562e7468d8adb54d14489",
+    "after_sha256": "66faacb6688aba2267cb490fa4ef00ed2d8e24502c40a7d3d478a1fdbdb98717",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "大热后半夜到、汽根转黄出油；天亮换板：第一块裂穿透抽出成两片、第二块用短撑＋垫石＋两片木楔支住；撬棍滑出、碎木刮伤阿九小臂",
+    "new": "D133天亮前大热到，灯照缝沿黄亮痕，草尖试得黏油；先拦人，用料箱回收的不顶梁实心旧栏柱配垫石、两楔顶危险裂板，原借梁撑仍在梁下；天亮换板，第一块裂穿透抽成两片、换好后同一柱石楔移支第二块；肩顶旧伤致撬棍滑出、碎木刮伤阿九小臂，林渡退步改左手压撬尾、阿九绷绳",
+    "reason": "270实际先支后换与254既有栏柱来源落实，材料不倍增；汽非油、伤后不再肩顶。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 66,
+    "before_sha256": "66faacb6688aba2267cb490fa4ef00ed2d8e24502c40a7d3d478a1fdbdb98717",
+    "after_sha256": "e85aeac2cd69b34dc27d3c3a8c3ad66ca231fc1bcdd0742402e02ad9e2ce2ae0",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "靠海侧凝水布收不上、少一格底；林渡右手抬不过肩",
+    "new": "靠海侧一块凝水布停收，戊字一合各处日实收仍总少一格底，挪班与停布分记原因、不重复加算同一实收差；林渡右手抬不过肩",
+    "reason": "270实际每日总实收已核，仅总缺一格底；不把停布另加一笔或标待核新损失。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 67,
+    "before_sha256": "e85aeac2cd69b34dc27d3c3a8c3ad66ca231fc1bcdd0742402e02ad9e2ce2ae0",
+    "after_sha256": "1f8367037f3f9dee0368c2590feba07b303add88c968219525b1d5d805deb15b",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "D134午后迟信到（挑柴女人捎、走两夜、经三道手）",
+    "new": "D134午后迟信到（挑柴女人捎；信走两夜，第一夜过三道手、第二夜到坡下，全程经手未核；她喝的半平勺由杜姨当班自有未喝份分出）",
+    "reason": "270消息两夜、第一夜三手分清；062水源仅杜姨自有份，不增加公共水。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 68,
+    "before_sha256": "1f8367037f3f9dee0368c2590feba07b303add88c968219525b1d5d805deb15b",
+    "after_sha256": "b622e92cda69c0cacc40af4f65a7824548395086d20e982faefaf04bb49aad0a",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "old": "探查册另起“船”行、三个点",
+    "new": "探查册另起“船”行，只点首夜一点，旁留两夜空位，三夜齐后再对",
+    "reason": "270首夜实记不能写成三个夜点；原时间线的结果必须直接修，不以末尾说明抵消。",
+    "group": "B27",
+    "source_suggestions": "harness/maintenance/R008/B27/recovery-writeback-suggestions-round2.json",
+    "index": 69,
+    "before_sha256": "b622e92cda69c0cacc40af4f65a7824548395086d20e982faefaf04bb49aad0a",
+    "after_sha256": "b14e964ad2ee0ea9f0804eea465e8227d41987e6aa1d842c6d6e12060db99b94",
+    "applied_by": "R008-main",
+    "status": "candidate_applied_pending_independent_recheck"
+  },
+  {
+    "id": "RB28-W001",
+    "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "line": 611,
+    "source_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "old": "| 林渡 | 5层值桌↔6层柜房／靠海侧收签口外／坡口（D135—D144） | 右手抬不过肩持续（杜姨旧布条吊臂）；上坡交账照走 | 账页、探查册、棚区草图、贴身布袋（译页两张＋迟信一张＋A18立的“撤走／留下”两栏纸折两折） | 船行三点记满（D135近处那点整夜未挪、D136—D137由南往北、远处始终时亮时灭无准头）；清运箱签收在六层仓单室、非本支路不得单人入内；挂签＝一个框＋一行数（四百一十几）；坡下清运一夜三趟、一趟四只箱、都往北；底账一页一批、“第几批”往上走、末几页去向为同一个缺角圆记号；去年冬月旧收条与阿九描样同排法、同缺角印；D140迟信三样；D141在收签口看见半张纸背面三行名；D142料场收条背面的半页名三行 | 不追离港船、不擅自公开名单；立“撤走／留下”两栏并自担“不写来处”；老崔改排白班、夜里不排；对弥娅只收信不反推位置，两栏不并她的来处（“线画在纸上，不画在路上”） |",
+    "new": "| 林渡 | 5层值桌↔6层柜房／靠海侧收签口外／坡口（D135—D144） | 右手抬不过肩持续，右臂用杜姨旧布条吊着；只左手扶车、点数，不抬板 | 账页、探查册、棚区草图、贴身布袋（译页两张、迟信原件及折存的“撤走／留下”两栏纸；不以此新定历次信件总持有张数） | 低灯三夜记录已满，站位不同且未确认船或水路；近几夜本地一夜三趟，只清楚过一车四箱。签收室名已知，随搬运只到门外；挂签只认四百一十几，完整字头、年份、末位未对，同类印不证同一实印／同批／同线。冬月旧纸与本地描样分存；D140次信另报北边所见。D141只看清厚底账三页部分与另拿散纸的一姓，圈义和纸源未明；D142两家私认半页名，不证撤离去向 | 不追低灯或递信人反推位置；原信、原收条、核认与证词私存分源不毁，两栏均暂不对外。老崔因证人保护改白班；妹妹只有证词，不列为眼前留下者；明日先核一个待核号的旁证 |",
+    "reason": "删除跨来源互证、当前持信数量臆断、同册全页与两栏已核的误述，保留原伤势、装备类型与实际行动。",
+    "issue_ids": [
+      "B28-002",
+      "B28-004",
+      "B28-005",
+      "B28-006",
+      "B28-020",
+      "RB28-N02",
+      "RB28-N03",
+      "RB28-N11",
+      "RB28-N13",
+      "RB28-N14",
+      "RB28-N16",
+      "RB28-N17"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”"
+      },
+      {
+        "chapter": 277,
+        "quote": "他扶着车把站了一会儿，把看见的几样分开：底账有页头数、件数和去向栏，去向栏里见过缺角圈；收货人手里另有撕开的旧纸，背面留下名字。那半张纸从桌上拿起，不是他看见从厚册里撕下的。"
+      },
+      {
+        "chapter": 280,
+        "quote": "“先列我们现在能见到、接下来要逐户核的人。”林渡说，“值桌三栏、次批五户十一口、同址那两户，照原先的自报、见证、待核状态来，不一笔改成核清。老崔人在这里；他妹妹不在，只有他的证词，留在作证那一项，不写成留下的人。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“这一句我加一条。”祝衡把左手从册页上抬起来，抬得慢，“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 0,
+    "before_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "after_sha256": "da8a2a6cb7dbdfb8391402504671fb2dba158b4525ff6ae201b28e11b963772d",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W002",
+    "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "line": 612,
+    "source_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "old": "| 弥娅 | 栈城北部可交接渠道内（未跨海），本批只以迟信出现 | 腿沉（沿旧）；长距离行走须歇 | 圈页、档片匣（裹旧布）、短炭笔（随身） | — | 单向、只捎所见；末句“还走这一条线” |",
+    "new": "| 弥娅 | 栈城北部可交接渠道内（未跨海），本批只以迟信出现；桌边仅知写信时所报，不由送达反推当前落点 | 腿沉（沿旧）；长距离行走须歇 | 圈页、档片匣（裹旧布）、短炭笔（随身） | D140第二封迟信只报一夜残数范围、三趟车及一次换牌，未报路线或住处 | 单向、只捎所见；末句“还走这一条线”；原信私存，不沿递信人追问 |",
+    "reason": "保留作者固定未跨海事实，但区分角色当前知识与作者位置快照；信路不是货路。",
+    "issue_ids": [
+      "B28-001",
+      "B28-015",
+      "RB28-N13",
+      "RB28-N17"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 276,
+        "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。"
+      },
+      {
+        "chapter": 276,
+        "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”"
+      },
+      {
+        "chapter": 276,
+        "quote": "“不问。”林渡说，“问了，就是拿这一条线去换一句话。这封信只能告诉我她写下这些时还看见了车；纸走到我手里，她此刻在哪儿，谁也不能替她说。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 1,
+    "before_sha256": "da8a2a6cb7dbdfb8391402504671fb2dba158b4525ff6ae201b28e11b963772d",
+    "after_sha256": "6a087dcee809a5e50947b41f78e65075ffb32bc42caabe2704db1ffcf2c8cd0b",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W003",
+    "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "line": 613,
+    "source_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "old": "| 祝衡 | 5层值桌守账（不挪窝） | 左腿伤加重、起身要扶桌；白天坐着写字，翻页翻一页歇一歇 | 数纸、公开册、值桌抽屉（半页名单用干净纸包成一小包、压进空着的那一格） | 半页名三行（两个可核、一个认不清）；名后头的数是册子上的数，既非门牌号也非名册号 | 不贴整页、只私下核认；核对用临时条用后销毁，不另留可散发抄页；半页原纸与私下来源记录仍由祝衡保管；“整张纸到的那天，我头一个签”；给两栏加“不写来处”一条 |",
+    "new": "| 祝衡 | 5层值桌守账（不挪窝） | 左腿伤加重、起身要扶桌；白天坐着写字，翻页翻一页歇一歇 | 数纸、公开册、值桌抽屉（半页原收条用干净纸包成一小包、压进空格） | 背面三行名，两家各认一行、第三仍糊；名后两三位数含义未知，不能凭位数认成或排除门牌／名册号；未核生死去处 | 不贴整页、各家只看自己一行；两家看完实际烧临时抄纸，留原收条两面与已核记录，正面料账出处可查。完整纸也须核人及去处、问家属意愿后才谈公布；两栏均不对外且私存来源不毁 |",
+    "reason": "原“不属门牌或名册号”与“整张就签”超过终稿；明确烧的是抄纸，原件及认名结果保留。",
+    "issue_ids": [
+      "B28-022",
+      "RB28-N12",
+      "RB28-N14"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 278,
+        "quote": "“贴出去，是拿半张纸当整张纸用。”他说，“名后头那个数有什么用还不清楚，不能凭两三位就认成门牌或名册号，也不能先排除。谁认得出来，是认出来的；认得不对，是认错的。半张纸贴出去，认错的一家会跑来问，问一句我们答不出，跑到柜上，柜上顺手就把这一条也拦下——连这半张都留不住。”"
+      },
+      {
+        "chapter": 278,
+        "quote": "两家都看完，祝衡收回抄纸，亲手放进灶里，看着那两行抄字卷黑、烧掉。他留下的是原收条，连同认不清的第三行一起收好。戊字一只记今天两家到桌核认；最坏五家五趟仍是预算，今天没有按五趟扣人手。"
+      },
+      {
+        "chapter": 278,
+        "quote": "“包外不写名，不写数，不写来处。”他说，“原条两面都留着，正面是哪一笔料账也还对得上。问到外头，只说值桌收着一张漏字纸，核过两家，不报是谁家的名。”"
+      },
+      {
+        "chapter": 278,
+        "quote": "“名单若有一天能贴，我先认我核过的那部分。”他说，“可不能只因为凑成整张，就把人家的名挂出去。先把人和去处核明白，再问这些人家肯不肯；没有做到，纸再整也先收着。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 2,
+    "before_sha256": "6a087dcee809a5e50947b41f78e65075ffb32bc42caabe2704db1ffcf2c8cd0b",
+    "after_sha256": "f7461aea7abdb53f11d25e7ab81e8fabfaf30a469ffb39ed266863243ab4297d",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W005",
+    "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "line": 617,
+    "source_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "old": "| 老崔（新） | 5层料场（日班）；D143过坡到六层柜房落名 | 虎口贴黑布（旧伤）、肩上一道旧勒痕 | 当班原工撕给的半张条（折起塞怀里） | 三回夜里抬白漆包铁皮箱、箱盖签上一行数；箱底掉出一页，纸上有他妹妹的名＋一个两位的数；妹妹十年前“往外挪”、挪到哪儿没人告诉他 | 报的那句话落了纸；问“纸上有没有我妹妹”、问“对上了告不告诉我”；林渡答“告诉你一个人” |",
+    "new": "| 老崔（新） | 5层料场（日班）；D143过坡到六层柜房落名 | 虎口贴黑布（旧伤）、肩上一道旧勒痕 | 当班原工撕给的半张条（折起塞怀里） | 三回夜里抬白漆包铁皮箱、箱盖签上一行数；箱底掉出一页，纸上有他妹妹的名＋一个两位的数；妹妹十年前被说“往外挪”，此后失联、去向未明；两位数类型也待核 | 报的那句话落了纸；问“纸上有没有我妹妹”、问“对上了告不告诉我”；林渡答有可核结果先私告，数相同不等于找到妹妹；不将妹妹之名对外传播 |",
+    "reason": "保留具名证人与亲历口述，不把承诺写成数字相同即找到人，不将失联写死亡。",
+    "issue_ids": [
+      "B28-018",
+      "RB28-N12"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 279,
+        "quote": "“有能核的，我先告诉你。”林渡说，“只对上一个数还不算找到人；名、原纸、见到的地方，都得分开问明白。你妹妹这一项，我不拿去给外头传。”"
+      },
+      {
+        "chapter": 279,
+        "quote": "他把灯座底下那几张纸又看了一遍。老崔报的那两个字，他在手头的纸上没有找到。不是不找，是不能把另一行相像的字硬认给老崔。那张箱底掉过的纸仍不在他们手里，原工给的条只记了证词；往后再有能核的字，要先拿来和这份证词对。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 4,
+    "before_sha256": "f7461aea7abdb53f11d25e7ab81e8fabfaf30a469ffb39ed266863243ab4297d",
+    "after_sha256": "009c6bcd7b33b791ffe58100e36bf7885d5feb0541cd2748d387041993dfd471",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W006",
+    "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "line": 619,
+    "source_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "old": "| 裴七 | 5层棚 | 拄左腿 | 棚区草图、炭笔 | 靠海侧能站人三处（栓头、旧栏截、坡口），余者是湿板 | 问“船上那三点问不问”；被答“不问、不硬对” |",
+    "new": "| 裴七 | 5层棚 | 拄左腿 | 棚区草图、炭笔 | 靠海侧能站人三处（栓头、旧栏截、坡口），余者是湿板 | 问低灯三夜记录还问不问；未认成船，林渡不硬接水路与货路 |",
+    "reason": "“三点”是三夜观察记号，非三船或已确船上位置。",
+    "issue_ids": [
+      "RB28-N03"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 280,
+        "quote": "摊开的是这样几样：阿九描的木牌，一个框，框后头四百一十几；小石拓下来的枪件号，字头底下连着一串四百开外的流水；他自己记的车次与箱数，坡下近几夜一夜三趟，阿九数清过一车四只；去年冬月撕回来的半张旧收条，字头在前、数在后，角上一枚缺角的圆印；迟信上那一段数、三趟车、一句换空牌；还有祝衡前天从那摞收条里翻出来的半页名，三行字，名后头各跟着一个两位或三位的数。"
+      },
+      {
+        "chapter": 280,
+        "quote": "“从留下这一栏。”林渡说，“先核眼前还找得到的人，谁差旁证，就从谁那一份问起。撤走那一栏没有能落定的去向，车还在往上走，也不能替那些名字作答。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 5,
+    "before_sha256": "009c6bcd7b33b791ffe58100e36bf7885d5feb0541cd2748d387041993dfd471",
+    "after_sha256": "838b4e80604835b7e777107cbad327d677cece5aa31b355e99b1d609682616bf",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W007",
+    "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "line": 620,
+    "source_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "old": "| 邵萍／邵萍母亲 | 5层靠山侧／6层原屋门牌 | 母亲卧床、认不得号，只认门牌和一双布鞋 | 门禁片、病份牌、挎小罐 | 住址那一栏仍空、门牌号还挂着 | 问“哪天要是不挂了呢”；林渡答“不挂也得你先说” |",
+    "new": "| 邵萍／邵萍母亲 | 5层靠山侧／6层原屋门牌 | 母亲卧床、认不得号，只认门牌和一双布鞋 | 门禁片、病份牌、挎小罐 | 住址那一栏仍空、门牌号还挂着 | 问“哪天要是不挂了呢”；林渡答若那边要销号先告诉他，由他拿母亲病份单去问；不赋予销号否决权 |",
+    "reason": "保留保护诉求而不写不存在的柜上否决权限。",
+    "issue_ids": [
+      "RB28-N02"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 271,
+        "quote": "“哪天那边要销号，你先来告诉我。”林渡说，“你母亲还在这儿，我得拿她的病份单去问，不能让柜上的一个销字把人盖过去。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 6,
+    "before_sha256": "838b4e80604835b7e777107cbad327d677cece5aa31b355e99b1d609682616bf",
+    "after_sha256": "fb04d06742eb6727374ea9f5f01f1ba9aaa3b1c0a99638f1d7c20ff0bda42937",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W008",
+    "file": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+    "line": 621,
+    "source_sha256": "2fb916668ecce3cff1d80d3f13bb3fbd419d48723ef63a9d7055f56379b64e39",
+    "old": "| 麦穗 | 里棚↔柱边凝水布 | — | 收窄半掌的布、小口瓦罐 | 靠海侧一块凝水布仍收不上、一天少一格底；布面盐霜比昨天厚 | 让出的半格水照旧记公开册；建议把布挪半臂避缝口、挪一次记一次 |",
+    "new": "| 麦穗 | 里棚↔柱边凝水布 | — | 收窄半掌的布、小口瓦罐 | 靠海侧一块凝水布仍收不上、一天少一格底；布面盐霜比昨天厚 | 让出的是自己份里的半格水，照旧记公开册，不抵消凝水少掉的一格底；建议把布挪半臂避缝口、挪一次记一次 |",
+    "reason": "个体让份和凝水损失分账，不能互相销掉。",
+    "issue_ids": [
+      "B28-019"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 274,
+        "quote": "林渡把这话记在页边。麦穗中午来报：靠海侧那块凝水布收不上，今天又少了一格底水，布面上一层盐霜比昨天厚。她把半格从自己的份里让出来，先补进照护用水；五个卧床的前半夜、后半夜各翻一回，不能因为凝水少了就少照应一轮。这半格仍是她自己的份，不是收回了那一格底水。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 7,
+    "before_sha256": "fb04d06742eb6727374ea9f5f01f1ba9aaa3b1c0a99638f1d7c20ff0bda42937",
+    "after_sha256": "31347b703550a19300460972da312cdfcdccc270fabc509c86a1ad44f2fffb76",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W009",
+    "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "line": 522,
+    "source_sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+    "old": "| 设备／耗件 | 檐板料剩不足半摞；候料四笔（支板换榫／棚顶两处／斜梯两板＋拉料两趟）；靠海侧第二块板仍只靠短撑一根＋两片木楔；D135、D138各换楔一次（各取楔料两片，候料笔数不动）；换下的旧楔靠在墙根、浸出一道深色 | 再热一天须再换楔；第三副楔就得动棚顶那两处的份 |",
+    "new": "| 设备／耗件 | 檐板料剩不足半摞；候料四笔（支板换榫／棚顶两处／斜梯两板＋拉料两趟）；靠海侧第二块板仍只靠短撑一根＋撑头两片木楔；D135、D138各换楔一次（各取楔料两片，候料笔数不动）；D144仅检查原位两片仍紧而留用，不新增耗楔；墙根旧楔是此前换下，浸出深色 | D135为第一副、D138第二副；第三副才占棚顶两处份。D145两片新楔属A19，不并入本批 |",
+    "reason": "保留C2方案B授权校正整段，前表明确同一边界；不更改D135/D138实际用料及D145另记。",
+    "issue_ids": [
+      "RB28-N01",
+      "B28-021"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 271,
+        "quote": "“换就换。”阿九把锤子挂回腰上，“算上今天这副，不动棚顶的预留料，还能换到第二副。第三副就得动棚顶那两处的份。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "料这一头也没变：檐板料剩不足半摞，候料还剩四笔。靠海侧那块支住的板这两日没再往外顶，垫在底下的两片楔子起了毛，阿九检查了楔尾，两片仍卡得紧，便留在原位。先前换下来的旧楔靠在墙根，边上让水汽浸出一道深色。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 8,
+    "before_sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+    "after_sha256": "81aa43ff446f5a3ebb2189d295f1ad4c4ce22ad7654e86e04c0aa23856806930",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W010",
+    "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "line": 523,
+    "source_sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+    "old": "| 人手／岗位 | 照护三班不抽、凝水不抽；看汽（白班看板、夜班守核证位、回话记祝衡页）仍由林渡自顶；D143老崔过坡作证占半天——照护匀出半天、阿九顶班一班、护送达一人，照护准备活提前到前半夜，三个卧床的前后半夜翻身仍各按原时辰、布卷多领半卷；老崔此后改排白班、夜里不排，缺的夜班从搬运补并记在账上；D142家属私下核认按“最坏五家五趟”算，一趟一人小半天 | 照护与复核两头紧；名单要核、照护就不能满 |",
+    "new": "| 人手／岗位 | 夜间照护三班、凝水原班不抽；林渡白班看板、夜守核证位并回话祝衡页。D143亲护老崔过坡占林渡原白日照护搭手半天，阿九顶老崔搬运一班。五个卧床前后半夜各一次，共十回，仍分原两时段；杜姨接着赶未完白日擦洗，不连做翻身抵销后半夜，布卷实加半卷。老崔此后为证人保护改白班，缺夜班由搬运补并记账。D142实际两家到桌核名；最坏五家五趟、一趟一人小半天只是预算，未据此扣五趟 | 照护白日亏半天是真代价，夜三班与两回照护不取消；核名并非已完成所有核人 |",
+    "reason": "修三个卧床、前半夜集中照护与五趟实耗三项，明确缺岗是林渡白日搭手，不新设人员。",
+    "issue_ids": [
+      "B28-007",
+      "B28-008",
+      "B28-022",
+      "RB28-N16"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 278,
+        "quote": "两家都看完，祝衡收回抄纸，亲手放进灶里，看着那两行抄字卷黑、烧掉。他留下的是原收条，连同认不清的第三行一起收好。戊字一只记今天两家到桌核认；最坏五家五趟仍是预算，今天没有按五趟扣人手。"
+      },
+      {
+        "chapter": 279,
+        "quote": "要过坡，得有人保。林渡没有让老崔一个人去。他把护送占的半天记在自己名下：这半天不能留在照护那边搭手，白日擦洗、照看的活便少一双手。五个卧床的夜里仍排三班，前半夜、后半夜各翻一回，不把其中一班撤去顶这一趟。搬运那头，他让阿九顶老崔原来那一班，老崔这一班算支路出，记在账上。"
+      },
+      {
+        "chapter": 279,
+        "quote": "林渡没有接这个。回到料场，他把这一趟记在班账上：照护匀出半天，阿九顶班一班，护送达一人。照护少掉的半天没有凭空补回来，白日没做完的擦洗还压着。杜姨接着赶这部分活，夜里三班却仍照原排法轮下去：五个卧床的前半夜各翻一次，后半夜再各翻一次，十回分在原来的两个时段，不能连着做完就销掉后半夜。她没多话，只把布卷又多领了半卷，记在这一趟护送的照护亏项下面。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 9,
+    "before_sha256": "81aa43ff446f5a3ebb2189d295f1ad4c4ce22ad7654e86e04c0aa23856806930",
+    "after_sha256": "8dbf3163adebf65cf63e91c5d97a90b4dee9a4f9efd26f5baba3f9c956e71ee0",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W011",
+    "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "line": 524,
+    "source_sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+    "old": "| 代价／维修 | 靠海侧一块凝水布仍收不上、每天凝水少原标记的一格底（未定容积）（记公开册，收回再划）；走道家什按“自家东西自家抬”一天挪一点；坡口柱子后头D143—D144连着有人站着看车（一个高一个矮、中间换过一回，不拦人） | 支路一举一动有人替他们数着 |",
+    "new": "| 代价／维修 | 靠海侧一块凝水布仍收不上、每天凝水少原标记的一格底（未定容积）（记公开册，收回再划）；走道家什按“自家东西自家抬”一天挪一点；坡口柱子后头D143—D144连着有人站着看车（一个高一个矮、中间换过一回，不拦人） | 观察到坡口有人看车；归属与意图未知，不推及支路一切行动 |",
+    "reason": "观察不能转换成已知敌方监控范围或主观意图。",
+    "issue_ids": [
+      "B28-015"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 280,
+        "quote": "“没拦。”阿九说，“是不是故意让我们看见，我不知道。可我们上去下来，他们都在那儿，车走了他们才跟一段。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 10,
+    "before_sha256": "8dbf3163adebf65cf63e91c5d97a90b4dee9a4f9efd26f5baba3f9c956e71ee0",
+    "after_sha256": "29d230d4f44fca17e472e2bd2efdca378fec25e68dd7be26b016800b6defd3d0",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W012",
+    "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "line": 525,
+    "source_sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+    "old": "| 证据／文书 | 车次与箱数（坡下一夜三趟、一趟四只、都往北）；阿九描样（框＋四百一十几＋缺角圆印）；小石拓号（四百开外流水）；去年冬月半张旧收条（字头在前、缺角圆印）；D136呈请（只写车次、签、件数，不写迟信与她）＋半日回条“已受理、压在柜上”（到D144仍未到，林渡不催）＋封蜡一件；D137回话“清运箱的签收在六层仓单室、非本支路不得单人入内”；D139那张钉好的大纸（三处能对的数钉一页，两块留空：箱里是什么／谁签发的）；D140迟信三样（四百一十几／三趟车／换空牌）＋末句“还走这一条线”；D141底账所见（一页一批、末几页去向同一个缺角圆记号）与半张纸背面三行名；D142料场收条背面的半页名三行（核两行、一行压着）；D143当班原工撕给的半张条（“作证”栏头一回写字）；D144两张纸划成“撤走／留下”两栏 | 押存条件仍悬着、核页条仍停发、涉档报文仍冻结待核；两栏只核上两家，先压在册子里 |",
+    "new": "| 证据／文书 | 本地近几夜一夜三趟，仅数清一车四箱；阿九描样（框、四百一十几、缺角印）、小石枪件拓号、去年冬月旧收条各留来源，同类印／残数重叠不证完整同号同批。D136获仓单室名并递呈请，祝衡见证、封蜡一件；受理凭条半日已到，至D144未得实质答复。D139三纸用米浆粘一页，补条不写同批同线，箱内物／签发者仍空。D140次信报北边一夜三趟、残数范围、换牌，原信私存不裁不涂。D141只见厚册三页部分及另拿散纸三行名，不证同册页距或圈指目的地。D142正面销十八根的原收条背面两家认名、第三仍糊；临时抄纸实际烧掉，原条两面和核认来历留。D143原工条只记老崔证词，未核妹妹去向。D144两栏都不对外；原信、原收条、认名记录和证词私存分源不毁 | 押存条件仍悬、核页条停发、涉档报文冻结待核；半页两家认名不等两家撤走。撤走栏暂无能落定去向，留下栏仍按自报／见证／待核逐户问旁证 |",
+    "reason": "同时修受理与答复混淆、D136室名延到D137、钉纸变耗钉、整批同册和家属去向误认；不靠段尾补注掩盖旧实录。",
+    "issue_ids": [
+      "B28-002",
+      "B28-004",
+      "B28-005",
+      "B28-006",
+      "B28-013",
+      "B28-022",
+      "RB28-N11",
+      "RB28-N13",
+      "RB28-N14"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 272,
+        "quote": "呈请由丁字三带上坡。晌午后他回来，把受理回条交给林渡：呈请已受理，压在柜上，等仓单室那边回。受理的凭条半日便到了，仓单室的答复还没有。林渡没有多问，把回条夹进册子里。"
+      },
+      {
+        "chapter": 275,
+        "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。"
+      },
+      {
+        "chapter": 277,
+        "quote": "“我没看见从册子里撕纸。”林渡说，“桌上拿起来的是散页，厚册是后来翻开的。两样隔着这两个动作，不能把它们画成前后两页。”"
+      },
+      {
+        "chapter": 278,
+        "quote": "两家都看完，祝衡收回抄纸，亲手放进灶里，看着那两行抄字卷黑、烧掉。他留下的是原收条，连同认不清的第三行一起收好。戊字一只记今天两家到桌核认；最坏五家五趟仍是预算，今天没有按五趟扣人手。"
+      },
+      {
+        "chapter": 280,
+        "quote": "“这一句我加一条。”祝衡把左手从册页上抬起来，抬得慢，“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 11,
+    "before_sha256": "29d230d4f44fca17e472e2bd2efdca378fec25e68dd7be26b016800b6defd3d0",
+    "after_sha256": "2a8a4cbbe6081cde46743832cb155a8d684f269382ed42c76b258aa0d2ccb0f8",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W013",
+    "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "line": 527,
+    "source_sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+    "old": "| 时间 | D135点第二夜灯＋换楔；D136交账问签＋递呈请；D137阿九送料至收签口；D138旬头；D139比供货批次、钉一页；D140迟信到；D141跟搬运入库看底账；D142祝衡私下核半页名；D143送老崔过坡落名；D144收拢本批、立两栏 | 下一旬头约D148 |",
+    "new": "| 时间 | D135记第二夜低灯并换两楔；D136交账问签、递呈请并得受理凭条；D137阿九送料至收签口并卸十八根；D138旬头、再换两楔、取冬月旧纸；D139比同类印和残数、米浆粘页并交补条；D140第二迟信到（首信D134、离队D131）；D141随送料仅到门外、见三页部分并卸十八根；D142两家到桌私认半页名；D143护老崔过坡记口述证词；D144仅检旧楔留用、分存两栏与来源 | 下一旬头约D148；D145两片新楔另属A19，本批不改 |",
+    "reason": "保留既有日次，去入库、已比供货批次和钉纸的伪事实。",
+    "issue_ids": [
+      "B28-001",
+      "B28-002",
+      "B28-031",
+      "RB28-N11",
+      "RB28-N15"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 276,
+        "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。"
+      },
+      {
+        "chapter": 277,
+        "quote": "两个护卫把已验过的十八根旧板从独轮车上卸下，收到口子这一边。阿九收起送料的回条，确认车板空了，才掉过头来；他在前头拉，林渡在侧面扶，两个人慢慢往回走。走出十几步，林渡回头看了一眼：口子上又来了一辆两轮车，车上还是码着木箱，箱子上一面挂着签。收货的人翻册子的手没有停。"
+      },
+      {
+        "chapter": 280,
+        "quote": "料这一头也没变：檐板料剩不足半摞，候料还剩四笔。靠海侧那块支住的板这两日没再往外顶，垫在底下的两片楔子起了毛，阿九检查了楔尾，两片仍卡得紧，便留在原位。先前换下来的旧楔靠在墙根，边上让水汽浸出一道深色。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 12,
+    "before_sha256": "2a8a4cbbe6081cde46743832cb155a8d684f269382ed42c76b258aa0d2ccb0f8",
+    "after_sha256": "283bd891caf6e36f1fbd837be80483e36f7b5e02b9f5cb6783e34edbc80a8c45",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W014",
+    "file": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+    "line": 528,
+    "source_sha256": "ac1e55d4329adf4abb8afbb94c610efe4261c51f887dc56e381b0a6b25e9515a",
+    "old": "| 下一步压力 | 转运未停（车还在往上走、坡口记数板一日翻两页）；两栏只核上两家，留下那一栏还没一家一家核；老崔妹妹的名在本地纸上仍对不上；船灯三点仍与车次对不上；靠海侧板只靠短撑两片楔 | A19入口：拿两栏去核被留下的人，从待核三栏第一个号开口 |",
+    "new": "| 下一步压力 | 转运未停，当日记录到第五趟不等全天总量；半页两家仅认名，撤走去向仍空，留下栏须按原待核状态逐户问；老崔证词未核，妹妹名在手头纸上未找到，不写已经比对否认；低灯三夜记录未认船，不能硬接车路；靠海板靠短撑及撑头两楔，D144检查留用 | A19入口：从待核三栏第一个号缺的旁证开口；两栏不公开且原件来历私留；D145新耗另记 |",
+    "reason": "核名不等核撤离，未核不等核否；不以本批结尾改动A19耗楔。",
+    "issue_ids": [
+      "B28-005",
+      "B28-006",
+      "B28-013",
+      "RB28-N03",
+      "RB28-N12"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 279,
+        "quote": "“现在核不了。”原工说，“我这张纸上，只有你报的。仓单室那一边的册子，我看不着，不能说已经对过、也不能替你说不相符。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "他翻开册子，把明天要核的头一家写在页头上：是待核那三栏里的第一个号，自报在前，见证在后，还差一份旁证。"
+      },
+      {
+        "chapter": 280,
+        "quote": "“今天我们记到第五趟了。”戊字一在册角添了一行。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 13,
+    "before_sha256": "283bd891caf6e36f1fbd837be80483e36f7b5e02b9f5cb6783e34edbc80a8c45",
+    "after_sha256": "924a95b10bd73a94991a9d91e5b2b732b4b93489386317f6c772061f6022bd32",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W015",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 347,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 271 | D135 | 5层账桌—靠海侧坡口 | 天亮看汽、撑头压窝，取檐板料现锯两片楔（阿九换、敲到第三下停手试板面）；檐板料再薄一层、第三副楔就得动棚顶两处份；邵萍问“住址那一栏还空着”“哪天要是不挂了呢”；待核两户仍压着、问的人比昨天又少一个；岑野报昨夜的过坡记两个（送料、巡夜）、交班那格空着；麦穗报靠海侧凝水布仍收不上、少一格底并请示把布挪半臂避缝口；裴七草图添靠海细线、能站人三处（栓头／旧栏截／坡口）；后半夜守坡口点第二夜灯——近处那点整夜未挪，远处那点仍无准头，第二点落定、第三点空着；车走板道、船贴低处横着挪，两样不在一条线上；问丁字三“签在哪一室收的”，答“柜上不写这个”，定意上坡去问 | L3：车走车的道，船走船的水 |",
+    "new": "| 271 | D135 | 5层账桌—靠海侧坡口 | 天亮检查撑头压窝，逐片退旧跟新，另一片仍留撑头下；缝沿亮线是木油，不裸掌贴热板。D135换两片楔，算今天第一副，不动棚顶预留只能换到第二副，第三副才占棚顶两处份。邵萍母亲实住靠山侧，旧号仍挂；若销号先报林渡，由他拿病份单去问，不新增否决销号权。核人半班挪来照护只添人手，布卷按用量记。岑野报昨夜过坡送料、巡夜两人，交班格空；麦穗报凝水少一格底、请挪布半臂避缝。裴七标栓头、旧栏截、坡口三处可站。后半夜记第二夜低灯，只在丑末至寅初未见近灯移动；三处站位未校准成同灯，第二夜记下、第三夜尚空。低灯未确认为船，不与板道车次硬连；决定次晨交账时问箱签在哪一室收。 | L3：低灯未认船；次晨去问签收室。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-019",
+      "B28-021",
+      "RB28-N01",
+      "RB28-N02",
+      "RB28-N03"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 271,
+        "quote": "他没把两片旧楔一齐抽走。新楔先抵住压扁的那片，旧楔退一点，新楔便跟进一点，另一片仍留在撑头下。撑头轻轻一抖，原先渗过木油的缝沿又泛起一线油光，他立刻停手，等撑头不再下沉才继续。头一片到位后，他再照着换第二片；敲到第三下，进去半寸，楔尾不再往外滑。他停了锤，没把手贴上受热的板面。"
+      },
+      {
+        "chapter": 271,
+        "quote": "“换就换。”阿九把锤子挂回腰上，“算上今天这副，不动棚顶的预留料，还能换到第二副。第三副就得动棚顶那两处的份。”"
+      },
+      {
+        "chapter": 271,
+        "quote": "“哪天那边要销号，你先来告诉我。”林渡说，“你母亲还在这儿，我得拿她的病份单去问，不能让柜上的一个销字把人盖过去。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 14,
+    "before_sha256": "b14e964ad2ee0ea9f0804eea465e8227d41987e6aa1d842c6d6e12060db99b94",
+    "after_sha256": "9a48ec698a4162769da2b0643018a57b5374d6b1c81d09fd64b2f4ec5209b569",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W016",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 275,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 271 | 灯点到第二夜 | D135／5层账桌—靠海侧坡口 | 天亮看汽（汽比昨天矮、贴着板面往横里走）；撑头压窝，从坡下那半摞檐板料现锯两片楔，阿九换上（头一片敲两下到位、第二片敲到第三下停手、用掌心试过板面才算正）；檐板料再薄一层，戊字一提醒“两副是底、第三副就得动棚顶那两处的份”；邵萍问“住址那一栏还空着”“哪天要是不挂了呢”，林渡答“不挂也得你先说”；待核两户仍压着、来问的比昨天又少一个；岑野报昨夜过坡记两个（送料、巡夜）、交班那格照旧空着；麦穗报靠海侧凝水布仍收不上、少一格底，请示把布挪半臂避缝口，林渡“挪一次记一次，别白挪”；裴七草图添靠海细线、能站人三处（栓头／旧栏截／坡口）、中间湿板谁也不能久站；后半夜守坡口点第二夜灯——近处那点整夜未挪、远处那点仍无准头，第二点落定、第三点空着；车走板道、箱挂签随车往北，船贴低处横着挪，车走车的道、船走船的水，两样不在一条线上；问丁字三“签在哪一室收的”，答“柜上不写这个”，定意上坡去问 | 换楔耗檐板料（再薄一层，第三副就要动棚顶两处份）；靠海侧凝水布仍少一格底；看汽一岗林渡自顶（白班看板、夜班守核证位） | F09／F11语境、F02分持；新增“船”行第二点、靠海三处站位 | 发现（近处那点整夜未挪、两点摆不到一处）／行动（把船与清运车次一处看，去找记车次的室） |",
+    "new": "| 271 | 灯点到第二夜 | D135／5层账桌—靠海侧坡口 | 天亮检查撑头压窝，逐片退旧跟新，另一片仍留撑头下；缝沿亮线是木油，不裸掌贴热板。D135换两片楔，算今天第一副，不动棚顶预留只能换到第二副，第三副才占棚顶两处份。邵萍母亲实住靠山侧，旧号仍挂；若销号先报林渡，由他拿病份单去问，不新增否决销号权。核人半班挪来照护只添人手，布卷按用量记。岑野报昨夜过坡送料、巡夜两人，交班格空；麦穗报凝水少一格底、请挪布半臂避缝。裴七标栓头、旧栏截、坡口三处可站。后半夜记第二夜低灯，只在丑末至寅初未见近灯移动；三处站位未校准成同灯，第二夜记下、第三夜尚空。低灯未确认为船，不与板道车次硬连；决定次晨交账时问箱签在哪一室收。 | D135两片楔实耗，第三副将侵棚顶预留；凝水仍少一格，照护挪人不生布。 | F09／F11线索按所见推进、未认整条链；F02迟信与来源分持；具体新增与未解见本行实录 | 低灯未认船；次晨去问签收室。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-019",
+      "B28-021",
+      "RB28-N01",
+      "RB28-N02",
+      "RB28-N03"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 271,
+        "quote": "他没把两片旧楔一齐抽走。新楔先抵住压扁的那片，旧楔退一点，新楔便跟进一点，另一片仍留在撑头下。撑头轻轻一抖，原先渗过木油的缝沿又泛起一线油光，他立刻停手，等撑头不再下沉才继续。头一片到位后，他再照着换第二片；敲到第三下，进去半寸，楔尾不再往外滑。他停了锤，没把手贴上受热的板面。"
+      },
+      {
+        "chapter": 271,
+        "quote": "“换就换。”阿九把锤子挂回腰上，“算上今天这副，不动棚顶的预留料，还能换到第二副。第三副就得动棚顶那两处的份。”"
+      },
+      {
+        "chapter": 271,
+        "quote": "“哪天那边要销号，你先来告诉我。”林渡说，“你母亲还在这儿，我得拿她的病份单去问，不能让柜上的一个销字把人盖过去。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 15,
+    "before_sha256": "46572c9c9544b090daaec0b5e5eb7b9421e4eaad730463b27e4c43d19e3c178a",
+    "after_sha256": "5fd52fa45bed0ff9ac00c04ddc2800eae7e611aa51a07c3415bc6dac3fe209f7",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W017",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 348,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 272 | D136 | 5层值桌—6层柜房 | 辰时上坡交账（坡腰守数记班内人、交班那格仍空）；原工“跟昨天一样”；问“清运箱在哪一室签收”，门房答“清运箱的签收在六层仓单室”“非本支路，不得单人入内”“随搬运班到的只是门外的收签口”；呈请自己起稿三行（车次由两趟改三趟都往北／箱上挂签写一行数非架号／问签收所在以便对件数），不写迟信不写她；祝衡加“见证”并落名、戊字一记日子时辰、点封蜡一件；丁字三带上坡，半日回条“已受理、压在柜上、等仓单室那边回”，半印缺一角；探问“仓单室谁进得去”，丁字三报阿九；定明日阿九上六层送料多看两眼、只记不动；夜里近处那点灯这回由南往北、比头一夜还慢，远处仍无准头，三点各记各的没有并成一句 | L3：一个名字，今天头一回写出来 |",
+    "new": "| 272 | D136 | 5层值桌—6层柜房 | 辰时上坡交账，守数仍只记班内人、交班格空。门房告知清运箱在六层仓单室签收，非本支路不得单人入内，随送料班也只到门外收签口。林渡已当面嘱阿九次日送料只看、不动签，回棚向丁字三说明已有安排，不再首次问人选。呈请仅写近几夜车次由二改三、挂签一行数非架号、问签收处以对件数，不写迟信、弥娅与外库；祝衡具名见证，封蜡实耗一件。丁字三晌午后交回受理凭条，实质答复未到。两天后D138旬头仍按80／60／20，病幼20壶先出、成人60人各两平勺；祝衡拒签扣病幼份或重排下迁顺序。白班半时辰看板，夜班守原核证位不抽凝水及夜班。三夜灯记录各留站位方向，不确认水路；天亮后阿九送料。 | L3：门名已知而权限止于门外；天亮后阿九送料。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-009",
+      "B28-010",
+      "RB28-N06",
+      "RB28-N07"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 272,
+        "quote": "呈请由丁字三带上坡。晌午后他回来，把受理回条交给林渡：呈请已受理，压在柜上，等仓单室那边回。受理的凭条半日便到了，仓单室的答复还没有。林渡没有多问，把回条夹进册子里。"
+      },
+      {
+        "chapter": 272,
+        "quote": "天黑前，他又去看了一趟靠海侧那两块板。支住的那一块，新楔敲进去以后没有再动；缝沿的木油不再往外淌，只留一条浅痕。老陈说过，油出来过的板，别处也会跟着出；白班他仍按半个时辰看一回板；夜班照原先接下的安排守核证位，不往守夜和凝水那边抽人。"
+      },
+      {
+        "chapter": 272,
+        "quote": "天亮后，阿九就要上坡送料。先进那个收签口的，是他。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 16,
+    "before_sha256": "9a48ec698a4162769da2b0643018a57b5374d6b1c81d09fd64b2f4ec5209b569",
+    "after_sha256": "a3a802ed3523b00e14cc559de57a6327d3061023ce3faf7d060c04a372930bc0",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W018",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 276,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 272 | 回条上一个名字 | D136／5层值桌—6层柜房 | 辰时上坡交账（坡面水汽干了、坡腰守数换“辰时”纸、交班那格仍空）；原工“跟昨天一样”；林渡问“清运箱在哪一室签收”，门房答“清运箱的签收在六层仓单室”“靠海那一侧的仓单室，非本支路不得单人入内”“随搬运班到的只是门外的收签口”；门房从木夹里抽出一张纸、纸角盖半印缺一角，只一行字；林渡自己起稿呈请三行（坡下清运自近几夜起由两趟改三趟都往北／箱上挂签写一行数非架号／问签收所在以便对件数），不写迟信、不写弥娅、不写外库缺的两页；祝衡加“见证”并落名、戊字一记日子时辰、点封蜡一件；丁字三带上坡，半日回条“已受理、压在柜上、等仓单室那边回”；探问“仓单室谁进得去”，丁字三报阿九；定明日阿九上六层送料多看两眼、只记不动；楔料是昨日取的两片、笔数不动（不再计料）；午后近处那点灯这回由南往北、比头一夜还慢，远处仍无准头，三点各记各的、没有并成一句 | 封蜡一件；呈请落名（这一头正式在看清运箱的签，纸一递上去人家就知道）；林渡照看汽 | F09／F11、F02（不写她）；新增“六层仓单室”“收签口”“挂签” | 世界（回条只给一个门牌加半印缺角）／选择（他得找一个能进去的人） |",
+    "new": "| 272 | 回条上一个名字 | D136／5层值桌—6层柜房 | 辰时上坡交账，守数仍只记班内人、交班格空。门房告知清运箱在六层仓单室签收，非本支路不得单人入内，随送料班也只到门外收签口。林渡已当面嘱阿九次日送料只看、不动签，回棚向丁字三说明已有安排，不再首次问人选。呈请仅写近几夜车次由二改三、挂签一行数非架号、问签收处以对件数，不写迟信、弥娅与外库；祝衡具名见证，封蜡实耗一件。丁字三晌午后交回受理凭条，实质答复未到。两天后D138旬头仍按80／60／20，病幼20壶先出、成人60人各两平勺；祝衡拒签扣病幼份或重排下迁顺序。白班半时辰看板，夜班守原核证位不抽凝水及夜班。三夜灯记录各留站位方向，不确认水路；天亮后阿九送料。 | 具名呈请暴露问签意图，封蜡一件实耗；交账、白班看板与夜核证原岗继续。 | F09／F11线索按所见推进、未认整条链；F02迟信与来源分持；具体新增与未解见本行实录 | 门名已知而权限止于门外；天亮后阿九送料。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-009",
+      "B28-010",
+      "RB28-N06",
+      "RB28-N07"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 272,
+        "quote": "呈请由丁字三带上坡。晌午后他回来，把受理回条交给林渡：呈请已受理，压在柜上，等仓单室那边回。受理的凭条半日便到了，仓单室的答复还没有。林渡没有多问，把回条夹进册子里。"
+      },
+      {
+        "chapter": 272,
+        "quote": "天黑前，他又去看了一趟靠海侧那两块板。支住的那一块，新楔敲进去以后没有再动；缝沿的木油不再往外淌，只留一条浅痕。老陈说过，油出来过的板，别处也会跟着出；白班他仍按半个时辰看一回板；夜班照原先接下的安排守核证位，不往守夜和凝水那边抽人。"
+      },
+      {
+        "chapter": 272,
+        "quote": "天亮后，阿九就要上坡送料。先进那个收签口的，是他。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 17,
+    "before_sha256": "5fd52fa45bed0ff9ac00c04ddc2800eae7e611aa51a07c3415bc6dac3fe209f7",
+    "after_sha256": "174dd83a2d8d91945f97d53ae06234c7bd3f6f26461ebd246480160e607c9cb4",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W019",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 349,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 273 | D137 | 5层料场—6层收签口 | 阿九送两捆旧板（十八根）到六层靠海一侧收签口：墙上一道门洞、两根横木垫铁皮起薄锈、一个收货人两个护卫、桌下几副空绳套；点数念一只看一只划一笔；口子里送出一辆两轮车，白漆箱角包铁皮、灰是库里存的；一块挂签＝一个木牌＋一行墨写的数，压印是缺一角的圆（与桶底火印、枪件钢印同一模子、缺在同一角）；取牌先撬一角再整块起下，换一块空牌、不解绳；起下的压板子底下；那车顺一道宽坡上去，坡口立杆有人记数、上去是撤离区；护卫“送料的到口子为止”“这道口子上的事，回去别当话说”；阿九回料场把所见画给林渡（一块牌子、一个缺角圆、一行描成框的字），林渡折起压灯座底下 | L3：缺的那一角，三处都在同一个地方 |",
+    "new": "| 273 | D137 | 5层料场—6层收签口 | 阿九天刚亮载两捆十八根旧板到六层门外收签口，伤腿上坡需歇；现场一收货人两护卫，念号、验箱。白漆箱角包铁皮，灰只写所见不判库中来源。木牌钉在箱上，先撬角整块起牌，空牌在原处钉回，没解的是捆箱粗绳。缺角齐整与桶底火印、枪件钢印同类，不推出同一实印或整批。车从口子走上宽转运坡，坡口有人记数；阿九未上坡看撤离区。护卫卸下已验十八根板，阿九收条、空车返，坡腰仍歇。回料场描木牌、缺角印与未认清字头，暂压灯座；不取签、不进室。阿九警告下回会被认脸，林渡承认风险并承担自己让看的部分。 | L3：换签流程初见；再去会被认脸。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-011",
+      "B28-015",
+      "B28-031",
+      "RB28-N09"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 273,
+        "quote": "两轮车推到口子边停下。收货的人拿起记数板，念了一只箱上的号，护卫跟着念一遍，两个人一人看一只箱；看完了，收货的人把木牌从箱上取下来，压在板子底下，另拿一块空牌挂回去。取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。"
+      },
+      {
+        "chapter": 273,
+        "quote": "护卫把验过的十八根旧板从车上卸下，收在口子这一边。阿九等车板空了，才把散开的绳头卷好，收起回料场销账的那半张条。"
+      },
+      {
+        "chapter": 273,
+        "quote": "“看你就会记住你。”林渡说，“这回没碰签、没进室，也不能算没事。下回还得先报送料的条；问到我让你看的这些，我来认。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 18,
+    "before_sha256": "a3a802ed3523b00e14cc559de57a6327d3061023ce3faf7d060c04a372930bc0",
+    "after_sha256": "e8e949f290c8cba7dcfa1343fa73f05d8703221da9fc7a96c466f1f7d3398c6c",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W020",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 277,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 273 | 收签口 | D137／5层料场—6层收签口 | 阿九送两捆旧板（十八根）到六层靠海一侧收签口：矮墙挂白霜、墙根一条盐土、窄板道只容一辆独轮车；口子上无门只有两根横木垫铁皮起薄锈，一个收货人、两个护卫、桌下一堆空绳套；点数念一只、看一只、划一笔；条的一半撕给他、一半压板子底下；口子里送出一辆两轮车——白漆箱角包铁皮、箱顶与合缝一线积灰是库里存出来的；每只箱一面钉一块木牌，牌上一行墨写的数（非架号）；取牌先撬一角再整块起下、换一块空牌、不解绳，起下的压板子底下；那车顺一道宽坡上去、坡口立杆有人记数、上去是撤离区；牌角缺角圆压印与桶底火印、枪件模压钢印同一模子、缺在同一角（磕的缺边乱、模子的缺边齐）；护卫“送料的到口子为止”“这道口子上的事，回去别当话说”；阿九回料场把所见画给林渡（一块牌子、一个缺角圆、一行描成框的字），林渡折起压灯座底下，没有立刻抄进册 | 阿九上坡占一班、左腿拖得更明显；条上按印；口子上“回去别当话说”；描样暂压灯座下未入册 | F11（签上压印与206桶底火印、模压钢印一个路子）、F09；新增“收签口现场”与换牌法 | 危险（口子上点数，少一件就登记、登了记还得有人保）／发现（换下的牌压在板子底下，不是给路上看的） |",
+    "new": "| 273 | 收签口 | D137／5层料场—6层收签口 | 阿九天刚亮载两捆十八根旧板到六层门外收签口，伤腿上坡需歇；现场一收货人两护卫，念号、验箱。白漆箱角包铁皮，灰只写所见不判库中来源。木牌钉在箱上，先撬角整块起牌，空牌在原处钉回，没解的是捆箱粗绳。缺角齐整与桶底火印、枪件钢印同类，不推出同一实印或整批。车从口子走上宽转运坡，坡口有人记数；阿九未上坡看撤离区。护卫卸下已验十八根板，阿九收条、空车返，坡腰仍歇。回料场描木牌、缺角印与未认清字头，暂压灯座；不取签、不进室。阿九警告下回会被认脸，林渡承认风险并承担自己让看的部分。 | 送料占班、腿伤加重需歇，旧板十八根实际卸交；再到口子有认脸风险。 | F09／F11线索按所见推进、未认整条链；具体新增与未解见本行实录 | 换签流程初见；再去会被认脸。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-011",
+      "B28-015",
+      "B28-031",
+      "RB28-N09"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 273,
+        "quote": "两轮车推到口子边停下。收货的人拿起记数板，念了一只箱上的号，护卫跟着念一遍，两个人一人看一只箱；看完了，收货的人把木牌从箱上取下来，压在板子底下，另拿一块空牌挂回去。取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。"
+      },
+      {
+        "chapter": 273,
+        "quote": "护卫把验过的十八根旧板从车上卸下，收在口子这一边。阿九等车板空了，才把散开的绳头卷好，收起回料场销账的那半张条。"
+      },
+      {
+        "chapter": 273,
+        "quote": "“看你就会记住你。”林渡说，“这回没碰签、没进室，也不能算没事。下回还得先报送料的条；问到我让你看的这些，我来认。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 19,
+    "before_sha256": "174dd83a2d8d91945f97d53ae06234c7bd3f6f26461ebd246480160e607c9cb4",
+    "after_sha256": "0d4bc24e8c214262f5aeb5db479e63d6a41260e4cc92597344beb2bb1f45c4e7",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W021",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 350,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 274 | D138（旬头） | 5层值桌 | 旬头账照出：申请80／实到60／欠20＋病幼20壶＋成人各两平勺，墙末“本旬无补，下旬照此”；祝衡不从病幼份里扣、不重排下迁者，两样都不签；次批五户十一口8对／3待核、同址两户并号停着；料收口——檐板料不足半摞、候料四笔；丁字三从收条存根木匣翻出去年冬月的一张旧收条（字头在前、数在后、角上缺角圆印），认出“柜上从去年冬月起改的排法”；算“比今年夏天那批桶早了小半年”；桶、机匣、收条、木牌四样用同一个印；丁字三送转抄页回报“柜房外檐下新钉一颗钉、挂着块空木牌”；船那三点满了第三个、三夜三处三回方向；呈请递上去两天、回话还没到，林渡不催 | L3：去年冬月，今年夏天，中间还差一小截 |",
+    "new": "| 274 | D138（旬头） | 5层值桌 | D138旬头80／60／20与病幼先出、成人各两平勺照旧，旧欠不销，本旬无补；五户十一口8对／3待核、同址并号仍停。拒签的是扣病幼份与重排下迁顺序。檐板料不足半摞、候料四笔，D138再换两楔。麦穗从自己的份里让半格给照护，不抵消凝水少一格。五个卧床前后半夜各翻一次共十回；布已用两卷，人手不能算第三卷，洗晒轮用仍记洗布水，不把布折成棚顶料。丁字三由曾亲抄的存根找到去年冬月旧收条，旧纸只证当时有排法和同类印，不证现箱或连续线路；林渡留存原纸。午后丁字三送转抄页再报檐下空牌。三夜灯记录早已满，但站位不同不能确定同灯；呈请实质答复未到，下一步找中间账。 | L3：冬月纸给较早端点；中间账仍缺。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-002",
+      "B28-007",
+      "B28-012",
+      "B28-019",
+      "RB28-N03",
+      "RB28-N06"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 274,
+        "quote": "林渡把这话记在页边。麦穗中午来报：靠海侧那块凝水布收不上，今天又少了一格底水，布面上一层盐霜比昨天厚。她把半格从自己的份里让出来，先补进照护用水；五个卧床的前半夜、后半夜各翻一回，不能因为凝水少了就少照应一轮。这半格仍是她自己的份，不是收回了那一格底水。"
+      },
+      {
+        "chapter": 274,
+        "quote": "杜姨下午把照护页报上来：卧床五个，夜里每人翻身两回，共十回；擦身的布卷用了两卷。丁字三从核人那半班挪来的只是人手，第三卷若要领，还得另记，不能拿省下的半班当成布。"
+      },
+      {
+        "chapter": 274,
+        "quote": "“能说明去年冬月已有这种排法、这种印。”林渡说，“不能说明眼下这批箱子那时就在走，更不能把两段路接起来。这张纸先按它自己的日期留着。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 20,
+    "before_sha256": "e8e949f290c8cba7dcfa1343fa73f05d8703221da9fc7a96c466f1f7d3398c6c",
+    "after_sha256": "30d72051b91f09349de4edd6ecf443493fadc0d5153d309f25e3395a173edc6a",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W022",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 278,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 274 | 旧收条 | D138旬头／5层值桌 | 值桌早开一个时辰；旬头账照出——申请80／实到60／欠20，病幼20壶照单先出、成人60人各两平勺，戊字一在墙账末尾添“本旬无补，下旬照此”；祝衡不从病幼份里扣、不重排下迁者，两样都不签；次批五户十一口8对／3待核、同址两户并号停着，来问的记在册角、比上旬又少两个；料收口——檐板料不足半摞、候料四笔；靠海侧支住的板汽退半寸、垫楔边起毛，阿九过去换一副、记取楔料两片、笔数不动；丁字三从收条存根木匣翻出去年冬月的一张旧收条（字头在前、数在后、角上缺角圆印），认出“柜上从去年冬月起改的排法”、算“比今年夏天那批桶早了小半年”；桶、机匣、收条、木牌四样用同一个缺角圆印；丁字三送转抄页回报“柜房外檐下新钉一颗钉、挂着块空木牌”；船那三点前天夜里满了第三个、三夜三处三回方向，摆一处仍看不出是一条水路；呈请递上去两天、回话还没到，林渡不催，每天照旧记车次 | 靠海侧再换楔一次（取料两片）；布卷再领就得动棚顶两处候料（先不动、洗了晒再用两天）；丁字三的旧收条存根暂留值桌；柜房外檐下多一块空牌 | F09／F11、配给欠额、F02（船那三点）；新增“去年冬月旧收条”与“柜房外檐下的空牌” | 时间（旬头账80／60／20＋“本旬无补，下旬照此”）／关系（丁字三从一行数里认出一个年头） |",
+    "new": "| 274 | 旧收条 | D138／5层值桌 | D138旬头80／60／20与病幼先出、成人各两平勺照旧，旧欠不销，本旬无补；五户十一口8对／3待核、同址并号仍停。拒签的是扣病幼份与重排下迁顺序。檐板料不足半摞、候料四笔，D138再换两楔。麦穗从自己的份里让半格给照护，不抵消凝水少一格。五个卧床前后半夜各翻一次共十回；布已用两卷，人手不能算第三卷，洗晒轮用仍记洗布水，不把布折成棚顶料。丁字三由曾亲抄的存根找到去年冬月旧收条，旧纸只证当时有排法和同类印，不证现箱或连续线路；林渡留存原纸。午后丁字三送转抄页再报檐下空牌。三夜灯记录早已满，但站位不同不能确定同灯；呈请实质答复未到，下一步找中间账。 | 旧欠20壶不销；D138两片楔；麦穗让个人半格，五卧床十回照护、两卷布及洗布水。 | F09／F11线索按所见推进、未认整条链；具体新增与未解见本行实录 | 冬月纸给较早端点；中间账仍缺。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-002",
+      "B28-007",
+      "B28-012",
+      "B28-019",
+      "RB28-N03",
+      "RB28-N06"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 274,
+        "quote": "林渡把这话记在页边。麦穗中午来报：靠海侧那块凝水布收不上，今天又少了一格底水，布面上一层盐霜比昨天厚。她把半格从自己的份里让出来，先补进照护用水；五个卧床的前半夜、后半夜各翻一回，不能因为凝水少了就少照应一轮。这半格仍是她自己的份，不是收回了那一格底水。"
+      },
+      {
+        "chapter": 274,
+        "quote": "杜姨下午把照护页报上来：卧床五个，夜里每人翻身两回，共十回；擦身的布卷用了两卷。丁字三从核人那半班挪来的只是人手，第三卷若要领，还得另记，不能拿省下的半班当成布。"
+      },
+      {
+        "chapter": 274,
+        "quote": "“能说明去年冬月已有这种排法、这种印。”林渡说，“不能说明眼下这批箱子那时就在走，更不能把两段路接起来。这张纸先按它自己的日期留着。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 21,
+    "before_sha256": "0d4bc24e8c214262f5aeb5db479e63d6a41260e4cc92597344beb2bb1f45c4e7",
+    "after_sha256": "6e298f8b34ea7408388f6b01725414ee61972fdcc964e6ab229810f975899444",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W023",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 351,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 275 | D139 | 5层账桌—6层柜房外 | 三张纸并排（阿九描的木牌／小石拓的枪件号／自记的车次与箱数），看印——四处缺在同一角＝一个模子；看数——木牌号排在枪件流水那一段里，一批批开的；箱数也对上（一趟四只、坡下一夜三趟、一夜十二只；北头同样一夜三趟，十天一百二十只）；丁字三报口子上的叫法：挂签、第几批、转运坡；林渡把三张纸用三点浆粘在一张大纸上，下头空两块（箱里是什么／谁签发的），空着不硬填 | L3：能定位转运，仍不知那条线送什么 |",
+    "new": "| 275 | D139 | 5层账桌—6层柜房外 | 三纸以米浆粘在大纸上：阿九挂签描样、小石枪件拓号、本地车次箱数。缺角只认同类，不认同一实印或一家出印；木牌字头末位与枪号年份未全对，四百上下残数不能认完整同号、同段或同批。只清楚过一车四箱；一夜三趟若趟趟四箱才十二只，十天不变才120，均非实数累计。箱封着，内物、售卖与最终去处未明。丁字三分开柜房叫法、阿九亲见工序和料场纸条；本地只接成收签口验箱换签后上转运坡一小段。补条只报可确认残数及观察数量，不写同批同线；补条收到、实质答复未到。柜房檐下听空牌有近处依据，远处记数板字不辨。两处空白仍保留，吩咐下趟送料回条正反面留全，照旧交料场销账，再核退回纸上的字。 | L3：本地短段可查；留全下趟回条正背面。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-002",
+      "B28-003",
+      "B28-013",
+      "B28-024",
+      "RB28-N09"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "“不能。”林渡说，“字头、年份都可能把数分开。只拿后头这几个数，连完整的号都没对上，更不能把它们排成一批。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "“箱数只能先算一个限着条件的数。”他说，“坡下一夜三趟；若每趟都像阿九数清的那一车，四只，一夜才是十二只。再假定十天都不变，才有一百二十只。这是往后推的数，不是已经数过一百二十只。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 22,
+    "before_sha256": "30d72051b91f09349de4edd6ecf443493fadc0d5153d309f25e3395a173edc6a",
+    "after_sha256": "b547f030d11bf6ce1045f9bbc117061473276afddd71eb864730ca10b6e668c2",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W024",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 279,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 275 | 同一条线 | D139／5层账桌—6层柜房外 | 三张纸并排——阿九描的木牌（框＋四百一十几）、小石拓的枪件号（四百开外流水）、自记的车次与箱数；另有今年夏天“查无此号”的回条作底；先看印，木牌、桶底、机匣、收条四处缺在同一角＝一个模子；再看数，木牌号排在枪件流水那一段里、一批批开的（“批是一批批开的，不是一支一支开的”）；箱数也说——坡下一夜三趟、一趟四只、一夜十二只，北头也是一夜三趟，旬头到今旬末十天一百二十只；丁字三报口子上的叫法：挂签、转运坡、“第几批”（“柜房门房那边，都这么叫”）；林渡把三张纸用三点浆粘在一张大纸上，下头空两块（箱里是什么／谁签发的），“今天填不上，就不填”；补条只写数（木牌号与枪件拓号同段、车次一夜三趟趟各一车），不写“同一批”、不写“一条线”；丁字三带上坡，门房只说“补条收到，压在柜上” | 三张纸粘成一张（米浆稀、撕得下来）；补条不带判断；搬运半天；林渡自担那两句判断不上纸；檐下那块空牌进出都要从底下过 | F11主推进＋F09（教团供货批次与撤离物资同段）；新增“挂签／转运坡／第几批”现场叫法 | 身份（能定位转运，仍不知那条线送什么）／世界（空牌挂在柜房外檐下、进出都要过） |",
+    "new": "| 275 | 同一条线 | D139／5层账桌—6层柜房外 | 三纸以米浆粘在大纸上：阿九挂签描样、小石枪件拓号、本地车次箱数。缺角只认同类，不认同一实印或一家出印；木牌字头末位与枪号年份未全对，四百上下残数不能认完整同号、同段或同批。只清楚过一车四箱；一夜三趟若趟趟四箱才十二只，十天不变才120，均非实数累计。箱封着，内物、售卖与最终去处未明。丁字三分开柜房叫法、阿九亲见工序和料场纸条；本地只接成收签口验箱换签后上转运坡一小段。补条只报可确认残数及观察数量，不写同批同线；补条收到、实质答复未到。柜房檐下听空牌有近处依据，远处记数板字不辨。两处空白仍保留，吩咐下趟送料回条正反面留全，照旧交料场销账，再核退回纸上的字。 | 补条仍未获实质答复，不能用同批同线换方便结论；料场与上坡权限不扩。 | F09／F11线索按所见推进、未认整条链；具体新增与未解见本行实录 | 本地短段可查；留全下趟回条正背面。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-002",
+      "B28-003",
+      "B28-013",
+      "B28-024",
+      "RB28-N09"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "“不能。”林渡说，“字头、年份都可能把数分开。只拿后头这几个数，连完整的号都没对上，更不能把它们排成一批。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "“箱数只能先算一个限着条件的数。”他说，“坡下一夜三趟；若每趟都像阿九数清的那一车，四只，一夜才是十二只。再假定十天都不变，才有一百二十只。这是往后推的数，不是已经数过一百二十只。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 23,
+    "before_sha256": "6e298f8b34ea7408388f6b01725414ee61972fdcc964e6ab229810f975899444",
+    "after_sha256": "0c6a87b1b9ee5466943306c21bd1848421cbe67ecd5b28c25ad6cdd38daac3ef",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W025",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 352,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 276 | D140 | 5层账桌 | 值桌为一封迟信空一页压了两天；晌午拉空桶的车夫捎来一张对折的纸（北头检修棚递下、拣料女人、搬运的手，一道手一道手）；信写三样：一段数四百一十几（北边堆放点外夜里抄签、不敢凑近）、车次（那一夜三趟都往北、每趟一车挂签、数两遍）、一句换空牌（先撬一角再整块起下、换牌不用解绳）；末行小字“还走这一条线”；林渡不追不反推，把信放在那张大纸旁边——两个四百一十几隔着两张纸并在一处，数对上、线接不上（画两道短线、中间空着，不替她编一段路）；祝衡问“抄不抄来处”，林渡“不写，来处我担”；午后靠海侧看记数板与车辙、等近处那点灯从黑里显出来；把信上三样各抄一行进探查册，跟本地三样并排（一页六样：本地三样、外头三样） | L3：两头数到一处，中间的话一句没有 |",
+    "new": "| 276 | D140 | 5层值桌—靠海侧旧栏 | D140晌午后第二封迟信到；D131已离队，六天前D134首信到时人也不在棚内。车夫经北头检修棚、拣料、搬运、坡下捎纸，只知自己一段交接。信报北边堆放点外残数四百一十几（字头末位不清）、那一夜三趟每趟一车向北、一次换空牌且捆箱绳未解；按经过先后记次，不重数静车作车次校验。左手压纸、右臂仍吊；先给林栖、戊字一看，再转桌边阿九、祝衡，林栖低声读给阿九。两边流程相似、残数范围重叠、各三趟，不能证同人同车同批或两头路线相接。摘页匿名，原信不裁不涂由林渡私存，核数先找他、不追递信者。信只证写信时所见，不保当前安全位置。午后白日不等夜灯；定次日跟送料仅到门外对十八根料账，不动册。两张脸均可能被记住，林渡自己开口；只左手扶车点数，不抬板。 | L3：两头相似仍不接线；林渡亲跟下一趟承担盘问。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-001",
+      "B28-002",
+      "B28-014",
+      "B28-015",
+      "B28-016",
+      "RB28-N13",
+      "RB28-N17"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 276,
+        "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。"
+      },
+      {
+        "chapter": 276,
+        "quote": "第二样是车次：那一夜过了三趟车，都往北走，每趟一车，车上都挂着签。她按经过的先后记下三趟，等车歇了，只回看记下的次序，没有拿停在那里的几辆车再算一遍车次。这一夜以外的，她没有往上推。"
+      },
+      {
+        "chapter": 276,
+        "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”"
+      },
+      {
+        "chapter": 276,
+        "quote": "“我抬不动。”林渡说，“你掌把，我在旁边用左手扶车帮、点数。真要抬板，我这只胳膊不能顶上。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 24,
+    "before_sha256": "b547f030d11bf6ce1045f9bbc117061473276afddd71eb864730ca10b6e668c2",
+    "after_sha256": "c3f895f71711be2582c6cf3fc4c87a2f4884424eb4cd8d4b6e3cea98ff7e8147",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W026",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 280,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 276 | 北边捎来的数 | D140／5层账桌 | 旬头账贴上墙两天了、队短了，待核那栏今天不动；靠海侧垫楔边起毛，阿九把那两片楔子又敲实一回、还没换；那一页从旬头起就空着压册子底下，空了两天，今天落了半截；晌午一个拉空桶的车夫捎来一张对折的纸（北头检修棚递下、拣料女人、搬运的手，一道手一道手）；信上无称呼无落款，只写三样——一段数四百一十几（在北边堆放点外夜里抄签、字头没看清、不敢凑近）、车次（那一夜三趟都往北、每趟一车挂签、数两遍）、一句换空牌（先撬一角再整块起下、换牌不用解绳），末行更小一行“还走这一条线”；林渡把信放在那张大纸旁边——两个四百一十几隔着两张纸并在一处，数对上、线接不上（画两道短线、中间空着）；祝衡问写不写来处，林渡“不写”“那就我担”；林渡定亲自跟一趟搬运上收签口、看底账怎么记 | 迟信收下、来处不写、林渡自担；转运坡记数板仍在走；林渡要跟车（抬不动板、只推车点数） | F02分持、F09／F11；新增“迟信只捎所见、不捎来处”的写法 | 时间（她报回的转运数与275钉的那一页对得上）／行动（要进仓单室核一趟） |",
+    "new": "| 276 | 北边捎来的数 | D140／5层值桌—靠海侧旧栏 | D140晌午后第二封迟信到；D131已离队，六天前D134首信到时人也不在棚内。车夫经北头检修棚、拣料、搬运、坡下捎纸，只知自己一段交接。信报北边堆放点外残数四百一十几（字头末位不清）、那一夜三趟每趟一车向北、一次换空牌且捆箱绳未解；按经过先后记次，不重数静车作车次校验。左手压纸、右臂仍吊；先给林栖、戊字一看，再转桌边阿九、祝衡，林栖低声读给阿九。两边流程相似、残数范围重叠、各三趟，不能证同人同车同批或两头路线相接。摘页匿名，原信不裁不涂由林渡私存，核数先找他、不追递信者。信只证写信时所见，不保当前安全位置。午后白日不等夜灯；定次日跟送料仅到门外对十八根料账，不动册。两张脸均可能被记住，林渡自己开口；只左手扶车点数，不抬板。 | 迟信不等于当前安全；林渡与阿九均可能被记脸，吊臂只左手扶车。 | F09／F11线索按所见推进、未认整条链；F02迟信与来源分持；具体新增与未解见本行实录 | 两头相似仍不接线；林渡亲跟下一趟承担盘问。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-001",
+      "B28-002",
+      "B28-014",
+      "B28-015",
+      "B28-016",
+      "RB28-N13",
+      "RB28-N17"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 276,
+        "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。"
+      },
+      {
+        "chapter": 276,
+        "quote": "第二样是车次：那一夜过了三趟车，都往北走，每趟一车，车上都挂着签。她按经过的先后记下三趟，等车歇了，只回看记下的次序，没有拿停在那里的几辆车再算一遍车次。这一夜以外的，她没有往上推。"
+      },
+      {
+        "chapter": 276,
+        "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”"
+      },
+      {
+        "chapter": 276,
+        "quote": "“我抬不动。”林渡说，“你掌把，我在旁边用左手扶车帮、点数。真要抬板，我这只胳膊不能顶上。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 25,
+    "before_sha256": "0c6a87b1b9ee5466943306c21bd1848421cbe67ecd5b28c25ad6cdd38daac3ef",
+    "after_sha256": "d64ac559b0fbf586422a3a5fec3ec9f04e956183ef92b9dde060d13409551b12",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W027",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 353,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 277 | D141 | 5层棚—6层收签口外 | 林渡跟车送两捆旧板（十八根），只搬不签、只记不抄整页；收货的人拿一张一面印过字的旧纸，印字那面朝下扣在桌上，拎起来从中间撕开、一半压在板子底下、另一半印字那面朝上搁回桌上让阿九按印、按完推给阿九带回销账；纸拎起来那一下，林渡看见纸背上的三行字（一行一个名、后头跟数），认清两个字；底账比站册厚、硬壳包铁皮（与箱角同款）、夹布条作书签、一页一笔；看清三页：页头一行数、件数两位数、翻过去那页去向栏里一个缺角圆记号，再往后几页去向都是同一个记号；护卫“看不清就别看”“送料的到口子为止”；口子上又来一辆两轮车，箱码得高过车帮、护卫点数念一只看一只划一笔；下坡在坡腰平板歇一回、阿九捶小腿 | L3：一页一批，人的一页和东西的一页不挨着 |",
+    "new": "| 277 | D141 | 5层棚—6层收签口外 | D141林渡吊右臂、左手扶车，阿九掌把送两捆十八根旧板，仅到收签口。散纸举起时背面见三行名后跟数，只认一姓、另一字未认。厚底账硬壳包铁皮、夹布条；只看清三页一部分，前两页页头数相邻，第三页去向栏有缺角圈，后页未认全。页头数不是去向栏，同类圈不证明目的地；另拿的散纸未见从厚册撕下，不能说人货同册或相隔几页。收货人安排按印，阿九接送料条；两护卫卸下十八根板，空车下坡并歇腿。未替料场获额外查账授权，不动册。回棚请祝衡等料场送条时，找销十八根那张，先对正面料账再认背字；一个姓不填成签发者或撤走者。 | L3：只认一姓不认去向；请祝衡查销十八根那张退回条。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-004",
+      "B28-024",
+      "B28-030",
+      "B28-031",
+      "RB28-N15"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 277,
+        "quote": "后面纸页翻得快，他只瞥见相似的圈，没有再认清整页。能记下栏位的仍只有这三页，不能说后头每页都一样。"
+      },
+      {
+        "chapter": 277,
+        "quote": "两个护卫把已验过的十八根旧板从独轮车上卸下，收到口子这一边。阿九收起送料的回条，确认车板空了，才掉过头来；他在前头拉，林渡在侧面扶，两个人慢慢往回走。走出十几步，林渡回头看了一眼：口子上又来了一辆两轮车，车上还是码着木箱，箱子上一面挂着签。收货的人翻册子的手没有停。"
+      },
+      {
+        "chapter": 277,
+        "quote": "“不知道。”林渡说，“那圈跟箱印像，也只认到这一类。谁定的记号、代表哪里，我都不懂。不能看见同样的缺角，就说找到了目的地。”"
+      },
+      {
+        "chapter": 277,
+        "quote": "“我没看见从册子里撕纸。”林渡说，“桌上拿起来的是散页，厚册是后来翻开的。两样隔着这两个动作，不能把它们画成前后两页。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 26,
+    "before_sha256": "c3f895f71711be2582c6cf3fc4c87a2f4884424eb4cd8d4b6e3cea98ff7e8147",
+    "after_sha256": "3b5d932e67c1830e5f884dd80565f863346da248362f69bae8fe669133e024b7",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W028",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 281,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 277 | 一页一批 | D141／5层棚—6层收签口外 | 天没大亮阿九码车、林渡扶另一头，两人扶一辆独轮车走坡（阿九掌把、林渡左侧用左手顶车帮、右臂吊着）；上六层绕柜房往靠海一侧；口子上收货的人拿一张一面印过字的旧纸，印字那面先朝下扣在桌上，拎起来从中间撕开、一半压在板子底下、另一半印字那面朝上搁回桌上让阿九按印、按完推给阿九带回销账；纸拎起来那一下，林渡看见纸背上的三行字（一行一个名、后头跟数）、认清两个字；底账比站册厚、硬壳包铁皮（与箱角同款）、夹布条作书签、一页一笔；看清三页——页头一行数、件数两位数、翻过去那页去向栏里一个缺角圆记号、再往后几页去向都是同一个记号；护卫“看不清就别看”“送料的到口子为止”；口子上又来一辆两轮车、箱码得高过车帮、护卫点数念一只看一只划一笔；下坡在坡腰平板歇一回、阿九捶小腿；回棚把看见的三页画成格子（不抄字、只画格子），大纸右边那块空处添一行“名在背面，页不挨着” | 林渡跟车占半天、抬不动板只推车点数；看了三页底账、不敢久看；半张纸背面的名只认清两个字；阿九左腿更沉 | F09（箱号对应撤离批次）、F11；新增“名与箱不在一页上” | 世界（底账按批记、一页一批、末几页连着同一个去向）／发现（撤走的与留下的不在同一页） |",
+    "new": "| 277 | 一页一批 | D141／5层棚—6层收签口外 | D141林渡吊右臂、左手扶车，阿九掌把送两捆十八根旧板，仅到收签口。散纸举起时背面见三行名后跟数，只认一姓、另一字未认。厚底账硬壳包铁皮、夹布条；只看清三页一部分，前两页页头数相邻，第三页去向栏有缺角圈，后页未认全。页头数不是去向栏，同类圈不证明目的地；另拿的散纸未见从厚册撕下，不能说人货同册或相隔几页。收货人安排按印，阿九接送料条；两护卫卸下十八根板，空车下坡并歇腿。未替料场获额外查账授权，不动册。回棚请祝衡等料场送条时，找销十八根那张，先对正面料账再认背字；一个姓不填成签发者或撤走者。 | 两人上坡与伤腿停歇、十八根实际卸交；只认三页部分与一姓，不得取册。 | F09／F11线索按所见推进、未认整条链；具体新增与未解见本行实录 | 只认一姓不认去向；请祝衡查销十八根那张退回条。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-004",
+      "B28-024",
+      "B28-030",
+      "B28-031",
+      "RB28-N15"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 277,
+        "quote": "后面纸页翻得快，他只瞥见相似的圈，没有再认清整页。能记下栏位的仍只有这三页，不能说后头每页都一样。"
+      },
+      {
+        "chapter": 277,
+        "quote": "两个护卫把已验过的十八根旧板从独轮车上卸下，收到口子这一边。阿九收起送料的回条，确认车板空了，才掉过头来；他在前头拉，林渡在侧面扶，两个人慢慢往回走。走出十几步，林渡回头看了一眼：口子上又来了一辆两轮车，车上还是码着木箱，箱子上一面挂着签。收货的人翻册子的手没有停。"
+      },
+      {
+        "chapter": 277,
+        "quote": "“不知道。”林渡说，“那圈跟箱印像，也只认到这一类。谁定的记号、代表哪里，我都不懂。不能看见同样的缺角，就说找到了目的地。”"
+      },
+      {
+        "chapter": 277,
+        "quote": "“我没看见从册子里撕纸。”林渡说，“桌上拿起来的是散页，厚册是后来翻开的。两样隔着这两个动作，不能把它们画成前后两页。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 27,
+    "before_sha256": "d64ac559b0fbf586422a3a5fec3ec9f04e956183ef92b9dde060d13409551b12",
+    "after_sha256": "c6ac2c9e179eb369416119db01e50a72ab5dcfb0ff2a09094ee768ed26c1de3d",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W029",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 354,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 278 | D142（祝衡视角） | 5层账桌 | 祝衡比谁都到得早、左腿沉、翻一页歇一歇；对料场送来的收条，翻到第七张销旧板的条，背面有字——原纸被裁过（裁口在上、齐、一刀、留一线毛）、厚纸、中间一道压得很深的折痕（从前是折起来收在本子里的）；底下几行一行一个名、名后跟一个两三位数、一个数被划了一道；戊字一问“是活人还是死人”，祝衡“这张纸不说”；林渡认出其中一行的一个姓跟先前名单上见过的一个写法一样；定“不贴整页”——半页贴出去，认错的一家来问、答不出，柜上顺手把这条也拦下；改一个一个私下核（三行名、最坏跑五家）、从照护里匀跑腿的脚；祝衡写明“两个都要，谁也扛不住”；两个来问的家属各核上一行，看纸条时推过去一寸又按住、看完收回；天黑前把半页名单用干净纸包成一小包压进值桌抽屉的空格，“不写名、不写数、不写来处”“整张纸到的那天，我头一个签” | L3：半页，也比没有强 |",
+    "new": "| 278 | D142 | 5层账桌（祝衡视角） | D142祝衡守账、腿沉翻页要歇，找料场送来的第七张销十八根旧板收条，先对正面料账再看背面。裁口、深折痕不证明来自哪本册；背面三行名后两三位数，一行划过，数的类型、人的生死去处皆未明；两个名字可辨、第三仍糊。选择不贴整页，各家只看自己那一行。最坏五家五趟是预算，实际两家到桌认出了亲人名字，没有按五趟扣人手；五卧床夜三班、前后半夜两回照护不可拿去跑腿。两家看完实际烧掉临时抄纸，原收条两面含糊字仍留，正面料账出处可核；包外匿名，不公开家属身份。完整纸也不能自动公布，须核人与去处并问家属意愿。 | L3：两家认名的局部回报；人的去处、第三名与公开条件未解。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-004",
+      "B28-022",
+      "RB28-N12",
+      "RB28-N14"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 278,
+        "quote": "“贴出去，是拿半张纸当整张纸用。”他说，“名后头那个数有什么用还不清楚，不能凭两三位就认成门牌或名册号，也不能先排除。谁认得出来，是认出来的；认得不对，是认错的。半张纸贴出去，认错的一家会跑来问，问一句我们答不出，跑到柜上，柜上顺手就把这一条也拦下——连这半张都留不住。”"
+      },
+      {
+        "chapter": 278,
+        "quote": "两家都看完，祝衡收回抄纸，亲手放进灶里，看着那两行抄字卷黑、烧掉。他留下的是原收条，连同认不清的第三行一起收好。戊字一只记今天两家到桌核认；最坏五家五趟仍是预算，今天没有按五趟扣人手。"
+      },
+      {
+        "chapter": 278,
+        "quote": "“名单若有一天能贴，我先认我核过的那部分。”他说，“可不能只因为凑成整张，就把人家的名挂出去。先把人和去处核明白，再问这些人家肯不肯；没有做到，纸再整也先收着。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 28,
+    "before_sha256": "3b5d932e67c1830e5f884dd80565f863346da248362f69bae8fe669133e024b7",
+    "after_sha256": "f081ce03c79d6b93be96ee6f1c1134e1da0ed020fa3fccef20e8dfe166c83c7a",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W030",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 282,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 278 | 半页名单 | D142（祝衡视角）／5层账桌 | 祝衡比谁都到得早、左腿沉、翻一页歇一歇；对料场送来的收条，翻到第七张销旧板的条，背面有字——原纸被裁过（裁口在上、齐、一刀、留一线毛）、厚纸、中间一道压得很深的折痕；底下几行一行一个名、名后跟一个两三位数、一个数被划了一道；戊字一问“是活人还是死人”，祝衡“这张纸不说”；林渡认出其中一行的姓跟先前名单上见过的一个写法一样；祝衡定“不贴整页”（半页贴出去、认错的一家来问、答不出，柜上顺势把这条也拦下），改一个一个私下核（三行名、最坏跑五家、从照护里匀跑腿的脚）；祝衡写明“名单要核，照护就不能满，两个都要谁也扛不住”；两个来问的家属各核上一行（看纸条时推过去一寸又按住、看完收回），第三个名认不清仍压着；天黑前把半页名单用干净纸包成一小包压进值桌抽屉的空格，“不写名、不写数、不写来处”“整张纸到的那天，我头一个签” | 少一次舆论爆点；核名耗人力（最坏五家五趟）；照护与复核两头紧；核过的纸条当场收回扔灶里烧了、不留抄页 | F09家属先行、F14（失联空行不抹不发）；新增“半页名单”“私下核认” | 选择（名册公布还是不公布）／关系（来核的家属一个一个排队、人力吃紧） |",
+    "new": "| 278 | 半页名单 | D142／5层账桌（祝衡视角） | D142祝衡守账、腿沉翻页要歇，找料场送来的第七张销十八根旧板收条，先对正面料账再看背面。裁口、深折痕不证明来自哪本册；背面三行名后两三位数，一行划过，数的类型、人的生死去处皆未明；两个名字可辨、第三仍糊。选择不贴整页，各家只看自己那一行。最坏五家五趟是预算，实际两家到桌认出了亲人名字，没有按五趟扣人手；五卧床夜三班、前后半夜两回照护不可拿去跑腿。两家看完实际烧掉临时抄纸，原收条两面含糊字仍留，正面料账出处可核；包外匿名，不公开家属身份。完整纸也不能自动公布，须核人与去处并问家属意愿。 | 少一次公开爆点，私认耗桌边工时；五趟仅预算；烧临时抄纸、不烧原收条。 | F09／F11线索按所见推进、未认整条链；F14失联仍保留；具体新增与未解见本行实录 | 两家认名的局部回报；人的去处、第三名与公开条件未解。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-004",
+      "B28-022",
+      "RB28-N12",
+      "RB28-N14"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 278,
+        "quote": "“贴出去，是拿半张纸当整张纸用。”他说，“名后头那个数有什么用还不清楚，不能凭两三位就认成门牌或名册号，也不能先排除。谁认得出来，是认出来的；认得不对，是认错的。半张纸贴出去，认错的一家会跑来问，问一句我们答不出，跑到柜上，柜上顺手就把这一条也拦下——连这半张都留不住。”"
+      },
+      {
+        "chapter": 278,
+        "quote": "两家都看完，祝衡收回抄纸，亲手放进灶里，看着那两行抄字卷黑、烧掉。他留下的是原收条，连同认不清的第三行一起收好。戊字一只记今天两家到桌核认；最坏五家五趟仍是预算，今天没有按五趟扣人手。"
+      },
+      {
+        "chapter": 278,
+        "quote": "“名单若有一天能贴，我先认我核过的那部分。”他说，“可不能只因为凑成整张，就把人家的名挂出去。先把人和去处核明白，再问这些人家肯不肯；没有做到，纸再整也先收着。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 29,
+    "before_sha256": "c6ac2c9e179eb369416119db01e50a72ab5dcfb0ff2a09094ee768ed26c1de3d",
+    "after_sha256": "c21601c7a7bb9597d09a4503dad9f35f1f363699b4dd846109454731a938efe5",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W031",
+    "file": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+    "line": 355,
+    "source_sha256": "e9e45ccc0b9b7ed04238659ac40b4e81ede609dd6247b0e7d92150293164d1d1",
+    "old": "| 279 | D143 | 5层值桌—6层柜房 | 阿九把搬运老崔领到值桌前：老崔三回夜里抬白漆包铁皮箱、抬进收签口（收货的人点一只看一只）；有一回箱底掉出一页压在他脚底下，纸上有名＋一个两位的数，那一个字是他妹妹的名；妹妹十年前“往外挪”、挪到哪儿没人告诉他；他问“那张纸上有没有我妹妹”；林渡不在这张账桌上答完，改把他送到“肯记的柜上”——当班原工处；过坡要有保人，林渡亲自陪（照护匀出半天、阿九顶班一班、护送达一人；照护准备活提前到前半夜，三个卧床的前后半夜翻身仍各按原时辰、布卷多领半卷）；半路一辆车从坡下跟到半坡、车夫抽一回烟、看见他们又走才又推车跟上，林渡“你走你的，不回头”；当班原工按老崔报的记、不替他说纸上有那一行；念一遍给老崔听、握着他的手按印、撕半张条给他；原工答“仓单室那一边的册子，我看不着”；回程那辆车已不在坡下；丁字三把这一趟记在册角新开的“作证”栏（头一回写字）；天黑前阿九报：坡口那根柱子后头站着一个，上去一班他就在、下来他还在 | L3：这一栏是替那些没等到条的人开的 |",
+    "new": "| 279 | D143 | 5层值桌—6层柜房 | D143阿九带老崔作证，先让本人说：三回夜里抬白漆包铁皮箱，曾有箱底纸落脚下，看见妹妹的两个字和一个两位数。妹妹十年前被说往外挪、去向不明，不写确死；数的类型仍待核。林渡陪过坡请原工照证词记并索条，不事先保证能给条或安全。护送耗林渡原白日照护搭手半天，阿九顶老崔搬运一班；五个卧床夜三班、前后半夜各一回共十回仍保留。中途见车跟随，不知意图，不保证无事。原工回读，老崔自行按印得半张条；原工无仓单室册可看，是未核而非对不上。回程步行无凭空车帮，白日擦洗亏项由杜姨接着赶，夜间十回不集中前半夜抵销，布卷实多领半卷。丁字三记作证栏；老崔的条只有话而非妹妹，林渡承诺有可核结果先私告、不拿相同数当找到人。夜里坡口柱后仍有人。 | L3：证词成条但未找到妹妹；坡口柱后人仍在。 |",
+    "reason": "以实际终稿回写本章事件链；移除旧初稿的越权推论与遗漏，不移动日次或补演未发生事件。",
+    "issue_ids": [
+      "B28-008",
+      "B28-015",
+      "B28-018",
+      "RB28-N10",
+      "RB28-N12"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 279,
+        "quote": "要过坡，得有人保。林渡没有让老崔一个人去。他把护送占的半天记在自己名下：这半天不能留在照护那边搭手，白日擦洗、照看的活便少一双手。五个卧床的夜里仍排三班，前半夜、后半夜各翻一回，不把其中一班撤去顶这一趟。搬运那头，他让阿九顶老崔原来那一班，老崔这一班算支路出，记在账上。"
+      },
+      {
+        "chapter": 279,
+        "quote": "原工把纸写完，念了一遍给老崔听。老崔不会写字，听完确认是自己说的，便自己蘸印泥按了印。原工把半张纸撕给他。"
+      },
+      {
+        "chapter": 279,
+        "quote": "林渡没有接这个。回到料场，他把这一趟记在班账上：照护匀出半天，阿九顶班一班，护送达一人。照护少掉的半天没有凭空补回来，白日没做完的擦洗还压着。杜姨接着赶这部分活，夜里三班却仍照原排法轮下去：五个卧床的前半夜各翻一次，后半夜再各翻一次，十回分在原来的两个时段，不能连着做完就销掉后半夜。她没多话，只把布卷又多领了半卷，记在这一趟护送的照护亏项下面。"
+      },
+      {
+        "chapter": 279,
+        "quote": "“有能核的，我先告诉你。”林渡说，“只对上一个数还不算找到人；名、原纸、见到的地方，都得分开问明白。你妹妹这一项，我不拿去给外头传。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 30,
+    "before_sha256": "f081ce03c79d6b93be96ee6f1c1134e1da0ed020fa3fccef20e8dfe166c83c7a",
+    "after_sha256": "f9e47c8b0c8f9a4570a79dd40de1e0fd553138dd46306a37b7f7025db66ba2e6",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W032",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 283,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "| 279 | 送证人过坡 | D143／5层值桌—6层柜房 | 阿九把搬运老崔领到值桌前：老崔三回夜里抬白漆包铁皮箱、抬进收签口（收货的人点一只看一只）；有一回箱底掉出一页压在他脚底下，纸上有名＋一个两位的数，那一个字是他妹妹的名；妹妹十年前“往外挪”、挪到哪儿没人告诉他；他问“那张纸上有没有我妹妹”；林渡不在这张账桌上答完，改把他送到“肯记的柜上”——当班原工处；过坡要有保人，林渡亲自陪（照护匀出半天、阿九顶班一班、护送达一人，照护准备活提前到前半夜，三个卧床的前后半夜翻身仍各按原时辰、布卷多领半卷）；半路一辆车从坡下跟到半坡、车夫抽一回烟、看见他们又走才又推车跟上，“你走你的、不回头”；当班原工按老崔报的记、不替他说纸上有那一行，念一遍、握着他的手按印、撕半张条给他，答“仓单室那一边的册子，我看不着”；回程那辆车已不在坡下；丁字三把这一趟记在册角新开的“作证”栏；天黑后阿九报：坡口那根柱子后头站着一个，上去一班他就在、下来他还在 | 亲自护送占半天（照护匀半天、阿九顶班一班、护送达一人）；三个卧床翻身挪前半夜连做、布卷多领半卷；半路有人跟车；老崔的条上只有他报的话、没有妹妹 | F09、F11（箱与签）；新增“作证”栏、老崔的证词、坡口柱子后头的人 | 关系（证人问“名单上有没有我妹妹”、问“对上了告不告诉我”）／危险（半路有人跟、坡口柱子后头有人） |",
+    "new": "| 279 | 送证人过坡 | D143／5层值桌—6层柜房 | D143阿九带老崔作证，先让本人说：三回夜里抬白漆包铁皮箱，曾有箱底纸落脚下，看见妹妹的两个字和一个两位数。妹妹十年前被说往外挪、去向不明，不写确死；数的类型仍待核。林渡陪过坡请原工照证词记并索条，不事先保证能给条或安全。护送耗林渡原白日照护搭手半天，阿九顶老崔搬运一班；五个卧床夜三班、前后半夜各一回共十回仍保留。中途见车跟随，不知意图，不保证无事。原工回读，老崔自行按印得半张条；原工无仓单室册可看，是未核而非对不上。回程步行无凭空车帮，白日擦洗亏项由杜姨接着赶，夜间十回不集中前半夜抵销，布卷实多领半卷。丁字三记作证栏；老崔的条只有话而非妹妹，林渡承诺有可核结果先私告、不拿相同数当找到人。夜里坡口柱后仍有人。 | 白日照护少半天、阿九替搬运一班、布加半卷；夜三班十回两时段不撤，证人仍有暴露风险。 | F09／F11线索按所见推进、未认整条链；F14失联仍保留；具体新增与未解见本行实录 | 证词成条但未找到妹妹；坡口柱后人仍在。 |",
+    "reason": "只修A18实际发生实录（不是倒改当时写前计划）；与时间线同据本章，兑现与未解分开。",
+    "issue_ids": [
+      "B28-008",
+      "B28-015",
+      "B28-018",
+      "RB28-N10",
+      "RB28-N12"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 279,
+        "quote": "要过坡，得有人保。林渡没有让老崔一个人去。他把护送占的半天记在自己名下：这半天不能留在照护那边搭手，白日擦洗、照看的活便少一双手。五个卧床的夜里仍排三班，前半夜、后半夜各翻一回，不把其中一班撤去顶这一趟。搬运那头，他让阿九顶老崔原来那一班，老崔这一班算支路出，记在账上。"
+      },
+      {
+        "chapter": 279,
+        "quote": "原工把纸写完，念了一遍给老崔听。老崔不会写字，听完确认是自己说的，便自己蘸印泥按了印。原工把半张纸撕给他。"
+      },
+      {
+        "chapter": 279,
+        "quote": "林渡没有接这个。回到料场，他把这一趟记在班账上：照护匀出半天，阿九顶班一班，护送达一人。照护少掉的半天没有凭空补回来，白日没做完的擦洗还压着。杜姨接着赶这部分活，夜里三班却仍照原排法轮下去：五个卧床的前半夜各翻一次，后半夜再各翻一次，十回分在原来的两个时段，不能连着做完就销掉后半夜。她没多话，只把布卷又多领了半卷，记在这一趟护送的照护亏项下面。"
+      },
+      {
+        "chapter": 279,
+        "quote": "“有能核的，我先告诉你。”林渡说，“只对上一个数还不算找到人；名、原纸、见到的地方，都得分开问明白。你妹妹这一项，我不拿去给外头传。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 31,
+    "before_sha256": "c21601c7a7bb9597d09a4503dad9f35f1f363699b4dd846109454731a938efe5",
+    "after_sha256": "930de70233484b35e444a6d62b7ab0d185094ef845e9b56f40c518f0b935b470",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W035",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 171,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| F09 议会撤离箱（推进） | 46 | 推进：撤走物资走清运线——坡下一夜三趟、一趟四只箱、都往北；箱上一块挂签写一行数（非架号）；底账一页一批、“第几批”往上走；转运坡＝六层靠海一侧上七层平台的斜坡板道、坡口记数、上去是撤离区；末几页的去向栏是同一个缺角圆记号 | 只到“能定位转运”，不写箱里装什么、不写谁签发；A19起用“撤走／留下”两栏核被留下的人 |",
+    "new": "| F09 议会撤离箱（推进） | 46 | 本地近几夜一夜三趟，只数清过一车四箱；阿九亲见收签口验箱、换挂签后车上转运坡这一段。转运坡既定地理仍是六层上七层撤离区，本批角色只到口子。厚底账仅见三页部分，去向栏缺角圈含义不明，不拿后页一瞥当整册同去向 | 局部定位转运段，不知箱内物、签发者、全程或人与货的对应；A19从眼前待核人和旁证继续，不把两家认名写成核撤离 |",
+    "reason": "仅固定地理保留，不把规划地理变角色亲抵；货路与人去向分离。",
+    "issue_ids": [
+      "B28-004",
+      "B28-005",
+      "B28-013",
+      "B28-030"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“先沿阿九亲眼看见的这一小段查。”林渡说，“六层靠海侧，收签口验箱、换挂签，随后车上转运坡。只有这一段相接。枪件从前怎么进来、北边的车怎么走到这里，纸上都还没有。”"
+      },
+      {
+        "chapter": 277,
+        "quote": "后面纸页翻得快，他只瞥见相似的圈，没有再认清整页。能记下栏位的仍只有这三页，不能说后头每页都一样。"
+      },
+      {
+        "chapter": 277,
+        "quote": "“不知道。”林渡说，“那圈跟箱印像，也只认到这一类。谁定的记号、代表哪里，我都不懂。不能看见同样的缺角，就说找到了目的地。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 34,
+    "before_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "after_sha256": "69827cf97b0e4b8cd716f50ff051e9964623da82cde369d69e8557269eb44e98",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W036",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 172,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| F11 制式武器（推进） | 47 | 推进：缺角圆印同模四处（206桶底火印／枪件模压钢印／去年冬月旧收条／清运箱挂签与收签口压印，缺都在同一角、边齐＝模子上的不是磕的）；挂签框外一行数四百一十几，与206枪件流水四百开外同段、与D140迟信所报四百一十几同数 | 只到“教团供货批次与撤离物资同段、同一条线”；不写武器用途、不解释海峡武器站，留到后卷 |",
+    "new": "| F11 制式武器（推进） | 47 | 桶底火印、枪件钢印、冬月旧收条、挂签与口子印记呈同类缺角；不能认同一枚实印、唯一出印者或整批。挂签与D140迟信都只认四百一十几范围，枪件四百开外且带字头年份；未完成完整号与编号体系比对，不能落定同段同批。两地流程、车次相似只构成待核关联 | 本批未证教团供货与撤离物资同一条线；现见仅本地验箱换签到上坡一段。武器用途、海峡武器站及两端路线留后，不为凑原计划补权限或证据 |",
+    "reason": "此为严重过度互证：终稿主动撤下同段同批同线，旧F11不能反向给正文补事实。",
+    "issue_ids": [
+      "B28-002",
+      "B28-013"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "“不能。”林渡说，“字头、年份都可能把数分开。只拿后头这几个数，连完整的号都没对上，更不能把它们排成一批。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。"
+      },
+      {
+        "chapter": 276,
+        "quote": "“车次都是三趟，残数的范围也重了。”林渡说，“两边各自看到这些，值得接着查；可不是同一时刻盯着同一辆车数，不能说货已经从那头数到了这头。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 35,
+    "before_sha256": "69827cf97b0e4b8cd716f50ff051e9964623da82cde369d69e8557269eb44e98",
+    "after_sha256": "bb2ae73334489598b4d93e6a6f630556c10f7b7db90d572dfc145b3f4003e0f8",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W037",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 173,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| F02 测潮仪／载体（分持） | 8、13、18 | 分持：D140迟信一次、单向、只捎所见（四百一十几／三趟车／换空牌），无路线无落脚、末句“还走这一条线”；林渡只收不追、不反推她的位置；两栏不并她的来处，纸上只画一道线——“线画在纸上，不画在路上” | 回捎最早在A19 284条之后，只捎本地已核数（船灯三点、车次、候料） |",
+    "new": "| F02 测潮仪／载体（分持） | 8、13、18 | D131离队、D134首信、D140第二信；本批次信单向只报所见（残数范围、那一夜三趟、一次换空牌），不报路线与落脚。林渡画两道短线，中间未接，不反推当前位置；匿名摘页与原信分持，原信不裁不涂、核数先找林渡，不沿递信人追人。两栏不公开，货路与信路不合并 | 回捎最早在A19 284条之后，只捎本地已核记录（低灯三夜记录、车次、候料）；不因三夜已记满认定船，也不因整理毁私留来源 |",
+    "reason": "原一道线与数已对上的概括过强；保留既定后卷回捎规划日期，不提前回捎。",
+    "issue_ids": [
+      "B28-001",
+      "B28-002",
+      "RB28-N03",
+      "RB28-N13",
+      "RB28-N17"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 276,
+        "quote": "前一份迟信是六天前到的，那时弥娅已经离开棚里，信里捎回了北头的车次、灯点和捆数。这一回，人还是没回来，信又沿北边那条线捎到了值桌——北头检修棚、拣料、搬运、坡下，一道手一道手往下递。上一回的信，末一句是“有事捎这一条线”；这一回，桌边的人仍只能从捎回的纸上知道她看见了什么。"
+      },
+      {
+        "chapter": 276,
+        "quote": "林渡没有马上答。他拿炭笔在纸上画了两道短线，一道从坡下往坡口，一道从北边往北，画完，两道的中间空着，接不上。"
+      },
+      {
+        "chapter": 276,
+        "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”"
+      },
+      {
+        "chapter": 276,
+        "quote": "“不问。”林渡说，“问了，就是拿这一条线去换一句话。这封信只能告诉我她写下这些时还看见了车；纸走到我手里，她此刻在哪儿，谁也不能替她说。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 36,
+    "before_sha256": "bb2ae73334489598b4d93e6a6f630556c10f7b7db90d572dfc145b3f4003e0f8",
+    "after_sha256": "cec9d81998c303fb02f0fb82e390b457ae75302cc2a1dc326d7ca4ada6d8bb69",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W038",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 174,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| F04 无人上城区街道（停摆） | 96—99 | 停摆：涉档报文仍冻结待核、核页条仍停发，次批五户十一口（8对／3待核）与同址两户并号全停；D144仍无回话、林渡不催 | 人在六层多站一天；下迁与实名未解 |",
+    "new": "| F04 无人上城区街道（停摆） | 96—99 | 停摆：涉档报文仍冻结待核、核页条仍停发，次批五户十一口（8对／3待核）与同址两户并号全停；D136受理凭条已到，至D144实质答复仍未到、林渡不催 | 人在六层多站一天；下迁与实名未解 |",
+    "reason": "区分收到受理凭条和没有实质答复，冻结未解除。",
+    "issue_ids": [
+      "B28-009"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 272,
+        "quote": "呈请由丁字三带上坡。晌午后他回来，把受理回条交给林渡：呈请已受理，压在柜上，等仓单室那边回。受理的凭条半日便到了，仓单室的答复还没有。林渡没有多问，把回条夹进册子里。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 37,
+    "before_sha256": "cec9d81998c303fb02f0fb82e390b457ae75302cc2a1dc326d7ca4ada6d8bb69",
+    "after_sha256": "6b40632a4ef8d068c5f65f43203e0ac8d7354351589e29f965bb2e1be824a68f",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W039",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 177,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| 靠海船灯（推进） | 270 | 推进：三点记满——D135近处那点整夜未挪，D136—D137由南往北，远处那点始终时亮时灭无准头；三点摆一处看不出是一条水路；车一直往北、灯一南一北，两条线对不上 | 林渡定“不追灯、不硬对”，记着等它自己走到一处 |",
+    "new": "| 靠海船灯（推进） | 270 | 三夜低灯观察已记满；D135为第二夜，仅丑末至寅初所见近灯未动，不概括整夜。站位有栓头、旧栏截、坡口三处，未经校准不能直接认同灯；近处跨夜方向有变化，远处时亮时灭无准头，尚未确认船或一条水路 | 林渡不把低灯与板道车硬接，转问签收处及退回料条；留灯的原观察记录，不新增船数或船上所见 |",
+    "reason": "“船灯”保旧线索标题，实录明确尚未认船；三点是三夜，不是三盏船灯。",
+    "issue_ids": [
+      "RB28-N03",
+      "RB28-N04"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 271,
+        "quote": "“站在哪儿也得记。”林渡说，“三处的记录不能直接叠。先比时辰和走向；认不准是不是同一点灯，就分开留着。”"
+      },
+      {
+        "chapter": 271,
+        "quote": "他又把旁边的两行对了对。清运车次那一行，北头早是一夜三趟，坡下这一截近几夜起也成了三趟，都往北；车走板道，灯挂在坡上，跟着车走。低处那两点灯不上坡，远近也和车灯不同，中间隔着一大截。他把低处灯点另记一行，没有认成船，也没有接到车道上。"
+      },
+      {
+        "chapter": 274,
+        "quote": "低处灯点的三夜记录，前天夜里记满了。林渡把三夜三处的记录摆在一处看：第一夜近处那点由北往南走，第二夜不动，第三夜又由南往北；三夜换三个地方站，那点灯走的方向却换了两回。远处那一点始终时亮时灭，没有准头。三夜换了站位，远近也不同。三份记录摆在一处，还认不准近处那点是不是同一盏，更算不出几条水路。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 38,
+    "before_sha256": "6b40632a4ef8d068c5f65f43203e0ac8d7354351589e29f965bb2e1be824a68f",
+    "after_sha256": "c838483fefdb2fd8c478e1ddd431249fe62cdb09ab94db7b3819c5201ad695a7",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W040",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 178,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| 清运签与仓单室（新增） | 272、273、275、277 | 已埋：清运箱的签收在六层仓单室（非本支路不得单人入内，随搬运班可到门外）；箱上一块挂签、念一只看一只、换空牌不解绳；底账硬壳包铁皮、一页一批、布条作书签；半张纸背面三行名 | 只给“签总得有个地方收”“收在谁那一页上”这一层；签发人不写 |",
+    "new": "| 清运签与仓单室（新增） | 272、273、275、277 | 室名由D136门房报，非本支路不得单人入内，送料只到门外收签口；箱牌先撬角起钉取下，空牌原处钉回，捆箱绳未解。厚底账硬壳包铁皮、布条作签，只见三页部分；另拿散纸背面三行名，未见从厚册撕下 | 已有收签口与本地上坡工序，签发者、去向圈义、散纸具体来源仍未核；循销十八根的退回条查背字，不增入室权限 |",
+    "reason": "机械过程、纸件来源与观察范围均按实际限知；不消灭固定库房属性。",
+    "issue_ids": [
+      "B28-004",
+      "B28-011",
+      "B28-030",
+      "RB28-N15"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 273,
+        "quote": "两轮车推到口子边停下。收货的人拿起记数板，念了一只箱上的号，护卫跟着念一遍，两个人一人看一只箱；看完了，收货的人把木牌从箱上取下来，压在板子底下，另拿一块空牌挂回去。取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。"
+      },
+      {
+        "chapter": 277,
+        "quote": "他扶着车把站了一会儿，把看见的几样分开：底账有页头数、件数和去向栏，去向栏里见过缺角圈；收货人手里另有撕开的旧纸，背面留下名字。那半张纸从桌上拿起，不是他看见从厚册里撕下的。"
+      },
+      {
+        "chapter": 277,
+        "quote": "“我没看见从册子里撕纸。”林渡说，“桌上拿起来的是散页，厚册是后来翻开的。两样隔着这两个动作，不能把它们画成前后两页。”"
+      },
+      {
+        "chapter": 277,
+        "quote": "“料场的条送来，先把销旧板十八根那一张找出来。”他对祝衡说，“正面的料账照对，背面的字也请你认一认。人若能从那半张纸上对出一点，就从那一点问，别替整本册子说话。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 39,
+    "before_sha256": "c838483fefdb2fd8c478e1ddd431249fe62cdb09ab94db7b3819c5201ad695a7",
+    "after_sha256": "d63f8427b093a5eda442c22f37033cb66859ef5eeb2fde6f035b62b7180989f3",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W041",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 179,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| “撤走／留下”两栏（新增） | 280 | 已埋：林渡把本批几张纸分两摞（左：车、箱、签、批、坡；右：值桌三栏、次批五户十一口、同址两户并号、老崔报的名），在右边那张纸上头划“撤走／留下”两格；祝衡加一条“两栏不写来处” | 撤走栏只写能核上的（眼下两家），留下栏写现成的；A19从此入手去核被留下的人 |",
+    "new": "| “撤走／留下”两栏（新增） | 280 | 林渡分货物记录与人的待核材料，人这边仍分原待核户、半页名和老崔证词；撤走栏暂无能落定去向，两家只认名，不能填撤走；留下栏按原自报／见证／待核列眼前可查的人，老崔在而妹妹不在 | 两栏均暂不对外，栏上不抄牵出人的来历；原收条两面、原信、两家核认与老崔证词私存分源不毁。A19先问第一个待核号缺的旁证，不把整理当全户核清 |",
+    "reason": "修初审核心分类错位，保住家属真实认名和来源保护，不凭归档替代核证。",
+    "issue_ids": [
+      "B28-005",
+      "B28-006",
+      "RB28-N02",
+      "RB28-N13",
+      "RB28-N14"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 280,
+        "quote": "“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“先列我们现在能见到、接下来要逐户核的人。”林渡说，“值桌三栏、次批五户十一口、同址那两户，照原先的自报、见证、待核状态来，不一笔改成核清。老崔人在这里；他妹妹不在，只有他的证词，留在作证那一项，不写成留下的人。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“这一句我加一条。”祝衡把左手从册页上抬起来，抬得慢，“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "他翻开册子，把明天要核的头一家写在页头上：是待核那三栏里的第一个号，自报在前，见证在后，还差一份旁证。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 40,
+    "before_sha256": "d63f8427b093a5eda442c22f37033cb66859ef5eeb2fde6f035b62b7180989f3",
+    "after_sha256": "977b2cdb9763ff6450f2f0ab09ae1a3112897218a4abf0f444e6d73097a71492",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W042",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 180,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| 老崔的证词与那个名（新增） | 279 | 已埋：老崔三回夜里抬箱、箱底掉出一页、纸上有妹妹的名＋一个两位的数；D143过坡到当班原工处落名、得半张条（“作证”栏头一回写字）；D144妹妹的名在本地纸上仍找不到 | 只到“落纸留条”，不核准也不核否；与半页名单的关系留后 |",
+    "new": "| 老崔的证词与那个名（新增） | 279 | 老崔亲述三回夜抬箱、箱底掉页，见妹妹的两个字及一两位数；妹妹十年前被说往外挪而后失联，数的用途未解。D143原工仅按口述回读，老崔自己按印得半条；无原册可看，未核而非核否。D144本地纸未找出妹妹之名，原箱底纸不在手上 | 只到证词落纸，不确认生死去向，不强并半页名单；若有可核结果先私告老崔，数相同不等找到妹妹 |",
+    "reason": "不把手头没找到写成完整名单排除，也不当妹妹在场；保留证词来源。",
+    "issue_ids": [
+      "B28-018",
+      "RB28-N10",
+      "RB28-N12"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 279,
+        "quote": "原工把纸写完，念了一遍给老崔听。老崔不会写字，听完确认是自己说的，便自己蘸印泥按了印。原工把半张纸撕给他。"
+      },
+      {
+        "chapter": 279,
+        "quote": "“现在核不了。”原工说，“我这张纸上，只有你报的。仓单室那一边的册子，我看不着，不能说已经对过、也不能替你说不相符。”"
+      },
+      {
+        "chapter": 279,
+        "quote": "“有能核的，我先告诉你。”林渡说，“只对上一个数还不算找到人；名、原纸、见到的地方，都得分开问明白。你妹妹这一项，我不拿去给外头传。”"
+      },
+      {
+        "chapter": 279,
+        "quote": "他把灯座底下那几张纸又看了一遍。老崔报的那两个字，他在手头的纸上没有找到。不是不找，是不能把另一行相像的字硬认给老崔。那张箱底掉过的纸仍不在他们手里，原工给的条只记了证词；往后再有能核的字，要先拿来和这份证词对。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 41,
+    "before_sha256": "977b2cdb9763ff6450f2f0ab09ae1a3112897218a4abf0f444e6d73097a71492",
+    "after_sha256": "5a3787a15528f6158708cba4b63bcdb3c1d86d2690bba6679738f578c28ebd10",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W043",
+    "file": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+    "line": 181,
+    "source_sha256": "81650312765326e5be9115cebab7bde1be5aeebabbb63e4ab2cf5658dcccbb47",
+    "old": "| 坡口柱子后头的人（新增） | 279、280 | 已埋：D143—D144连着有人站在坡口柱子后头看车，一个高一个矮、中间换过一回，不拦人、不动手 | 只写“让人知道坡口那一格有人替我们数着”，不写归属 |",
+    "new": "| 坡口柱子后头的人（新增） | 279、280 | 已埋：D143—D144连着有人站在坡口柱子后头看车，一个高一个矮、中间换过一回，不拦人、不动手 | 只写看车与跟随的所见，是否故意让人看见、归属和意图皆未知，不推及全支路监控 |",
+    "reason": "不替陌生观察者读心，保留实际风险。",
+    "issue_ids": [
+      "B28-015"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 280,
+        "quote": "“没拦。”阿九说，“是不是故意让我们看见，我不知道。可我们上去下来，他们都在那儿，车走了他们才跟一段。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 42,
+    "before_sha256": "5a3787a15528f6158708cba4b63bcdb3c1d86d2690bba6679738f578c28ebd10",
+    "after_sha256": "edd5c0be3bfd89feb5cb959557c944c8bd3fdc098cf30fa7c9c571b73e73e9a2",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W044",
+    "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "line": 67,
+    "source_sha256": "5c6391b2f6b96ca99687d09816ca4b2c80db0bc8b50ca66f6f71b1fd6b44311b",
+    "old": "| 挂签 | 清运箱一面上钉的木牌：一块牌一行数（非架号），一角有缺角圆压印；口子上念一只看一只、念完起下换空牌、起下的压在板子底下 | 收签口惯例 | 误以为是箱号或地址；它只写一行数，换牌不解绳 | 第273章阿九所见 |",
+    "new": "| 挂签 | 清运箱一面上钉的木牌：一块牌一行数（非架号），一角有缺角圆压印；口子上念一只看一只、念完撬角起下钉牌，空牌在原处钉回、起下的压在板子底下 | 收签口惯例 | 误以为是箱号或地址；它只写一行数，换牌不解的是捆箱粗绳 | 第273章阿九所见 |",
+    "reason": "钉牌动作闭环，防把捆箱绳当悬牌绳而重生机构矛盾。",
+    "issue_ids": [
+      "B28-011"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 273,
+        "quote": "两轮车推到口子边停下。收货的人拿起记数板，念了一只箱上的号，护卫跟着念一遍，两个人一人看一只箱；看完了，收货的人把木牌从箱上取下来，压在板子底下，另拿一块空牌挂回去。取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 43,
+    "before_sha256": "5c6391b2f6b96ca99687d09816ca4b2c80db0bc8b50ca66f6f71b1fd6b44311b",
+    "after_sha256": "f85d0caf899b3e23a7b83f7c76d265fd1541b497a97d234cc2d65f1c41056ca2",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W045",
+    "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "line": 68,
+    "source_sha256": "5c6391b2f6b96ca99687d09816ca4b2c80db0bc8b50ca66f6f71b1fd6b44311b",
+    "old": "| 转运坡 | 六层靠海一侧上七层平台的斜坡板道；坡口记数，上去是撤离区 | 清运线现场叫法 | 误当成检修坡；转运坡更宽、只走运箱的两轮车，送料到收签口为止 | 第275章丁字三作答 |",
+    "new": "| 转运坡 | 六层靠海一侧上七层平台的斜坡板道；坡口记数，上去是撤离区 | 清运线现场叫法 | 误当成检修坡；转运坡更宽、只走运箱的两轮车，本批送料到收签口为止，角色未上七层查看撤离区；既定地理不等于本次目击范围 | 第275章丁字三作答 |",
+    "reason": "不删除世界既定转运坡地理，只约束本批角色观察。",
+    "issue_ids": [
+      "B28-004",
+      "RB28-N15"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 273,
+        "quote": "“往坡上。”阿九说，“顺着一道宽坡上去，坡口立着杆，有人记数。那坡我上不去，送料的到口子为止。”"
+      },
+      {
+        "chapter": 276,
+        "quote": "“我上不去。”林渡说，“只跟下一趟送料到收签口，看他们怎么记这十八根板；再往里，送料的名义也不管用。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 44,
+    "before_sha256": "f85d0caf899b3e23a7b83f7c76d265fd1541b497a97d234cc2d65f1c41056ca2",
+    "after_sha256": "65b56288e2bde18e077e5137ce351394048e74f9579a61fc2659fd4169460663",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W046",
+    "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "line": 69,
+    "source_sha256": "5c6391b2f6b96ca99687d09816ca4b2c80db0bc8b50ca66f6f71b1fd6b44311b",
+    "old": "| 批次／第几批 | 清运底账按“批”记（一页一笔、一笔一号、同批号挨着排）；口上说“第几批”，一个数一个批往上走 | 清运底账排法 | 误以为批等于一次车次；批是一段号，车次是当日几趟 | 第275章丁字三作答 |",
+    "new": "| 批次／第几批 | 清运口头与底账使用的批次叫法；丁字三介绍排法，林渡只看清三页的一部分 | 柜房叫法与有限底账观察，各留来源 | 不等于车次；页头数、件数、去向栏分开，残号相近不证同批，不认所有纸采用同一编号体系或整册均同记法 | 第275章叫法、第277章三页部分 |",
+    "reason": "收窄读者可直接调用的编号规则，不用词典替残数补完批次对应。",
+    "issue_ids": [
+      "B28-002",
+      "B28-030",
+      "RB28-N12"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“不能。”林渡说，“字头、年份都可能把数分开。只拿后头这几个数，连完整的号都没对上，更不能把它们排成一批。”"
+      },
+      {
+        "chapter": 277,
+        "quote": "“只看清三页的一部分。”林渡说，“前两页的页头数挨着，第三页去向栏里有个缺角圈。页头数和去向栏不是一栏，不能拿它们说前后记法变了。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 45,
+    "before_sha256": "65b56288e2bde18e077e5137ce351394048e74f9579a61fc2659fd4169460663",
+    "after_sha256": "3a3bab849bde9c08f6ec720c5dba8e230ddcfaf2b736b6b676c8a35707aac461",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W047",
+    "file": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+    "line": 275,
+    "source_sha256": "5c6391b2f6b96ca99687d09816ca4b2c80db0bc8b50ca66f6f71b1fd6b44311b",
+    "old": "| 两栏不写来处 | 不公开取纸人、核认家属；祝衡私存半页原件和出处 | 不留任何来历而仍声称证据可追溯 |",
+    "new": "| 两栏不写来处 | 两栏本身也暂不对外；不抄能牵出送信、取纸、认名人的来历。私存原信、原收条两面、两家既有核认与老崔证词，来源分开可核，不因整理毁掉 | 不留任何来历而声称证据可追溯；只藏外包装却公开两栏；把两家认名或证词写成撤离去向 |",
+    "reason": "现补释只保半页出处仍不完整；补原信与不同来源、两栏整体不公开，不新造台账或权限。",
+    "issue_ids": [
+      "RB28-N13",
+      "RB28-N14",
+      "B28-005"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 276,
+        "quote": "“那就我担。”林渡说，“摘抄的这一页不写她和递信的人，原信照旧由我收着，不裁、不涂。要核这几个数，先找我对原信；不能顺着送信的人往回追她。”"
+      },
+      {
+        "chapter": 278,
+        "quote": "“包外不写名，不写数，不写来处。”他说，“原条两面都留着，正面是哪一笔料账也还对得上。问到外头，只说值桌收着一张漏字纸，核过两家，不报是谁家的名。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“这一句我加一条。”祝衡把左手从册页上抬起来，抬得慢，“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 46,
+    "before_sha256": "3a3bab849bde9c08f6ec720c5dba8e230ddcfaf2b736b6b676c8a35707aac461",
+    "after_sha256": "370cfb9ab6c1541d3cf80b04e5a0fa2b821532e29c975f0a3898762b75c2c47e",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W048",
+    "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+    "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+    "line": 198,
+    "source_sha256": "55c4de64795167fccac7383bee47037d60d0c32d898005b8c7247c901336ee03",
+    "old": "| 记号 | 挂签 | 清运箱一面上钉的木牌：一块牌一行墨写数（非架号），一角有缺角圆压印；口子上念一只看一只、念完起下来换一块空牌（不解绳），起下的压在板子底下 | 木牌（正式叙述） |",
+    "new": "| 记号 | 挂签 | 清运箱一面上钉的木牌：一块牌一行墨写数（非架号），一角有缺角圆压印；口子上念一只看一只、念完撬角起下钉牌、空牌在原处钉回（不解捆箱粗绳），起下的压在板子底下 | 木牌（正式叙述） |",
+    "reason": "同步词典动作定义，不把未解绳误当挂签固定方式。",
+    "issue_ids": [
+      "B28-011"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 273,
+        "quote": "两轮车推到口子边停下。收货的人拿起记数板，念了一只箱上的号，护卫跟着念一遍，两个人一人看一只箱；看完了，收货的人把木牌从箱上取下来，压在板子底下，另拿一块空牌挂回去。取牌的时候他先撬一角，再把钉着的牌整块起下来。护卫接过空牌，在原处钉回；捆住箱子的粗绳一直没解。"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 47,
+    "before_sha256": "55c4de64795167fccac7383bee47037d60d0c32d898005b8c7247c901336ee03",
+    "after_sha256": "8929e93f468b903d4ff78e7a53d1d6283ae5b7b77873f3cc9cf5c03791186a01",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W049",
+    "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+    "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+    "line": 200,
+    "source_sha256": "55c4de64795167fccac7383bee47037d60d0c32d898005b8c7247c901336ee03",
+    "old": "| 位置 | 转运坡 | 六层靠海一侧上七层平台的斜坡板道；坡口有人记数，上去是撤离区；比检修坡宽、板面有两条车辙，能过两轮车 | 清运坡（正式叙述） |",
+    "new": "| 位置 | 转运坡 | 六层靠海一侧上七层平台的斜坡板道；坡口有人记数，上去是撤离区；比检修坡宽、板面有两条车辙，能过两轮车；此为既定地理，本批送料者止于收签口，未获上七层权限 | 清运坡（正式叙述） |",
+    "reason": "保固定地图而不把条目当角色已抵达七层的证据。",
+    "issue_ids": [
+      "RB28-N15"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 273,
+        "quote": "“往坡上。”阿九说，“顺着一道宽坡上去，坡口立着杆，有人记数。那坡我上不去，送料的到口子为止。”"
+      },
+      {
+        "chapter": 276,
+        "quote": "“我上不去。”林渡说，“只跟下一趟送料到收签口，看他们怎么记这十八根板；再往里，送料的名义也不管用。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 48,
+    "before_sha256": "8929e93f468b903d4ff78e7a53d1d6283ae5b7b77873f3cc9cf5c03791186a01",
+    "after_sha256": "811563d7508f0a961e80839675f9582519573ed9d646ae1a2a145e8f6ec9eb67",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W050",
+    "file": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+    "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+    "line": 201,
+    "source_sha256": "55c4de64795167fccac7383bee47037d60d0c32d898005b8c7247c901336ee03",
+    "old": "| 制度 | 批次／第几批 | 清运底账按“批”记：一页一笔、一笔一号，同一批的号挨着排；口子上不说“批”，说“第几批”，一个数一个批、批连着批往上走 | 组、批号段（正式叙述） |",
+    "new": "| 制度 | 批次／第几批 | 清运口头与底账使用的叫法；批次不等于当天车次。275丁字三介绍排法，277林渡只看清三页部分；页头数、件数与去向栏各自解释，未完整对号，不以四百上下残数认定同一批或同一套编号体系 | 组、批号段（正式叙述）；不得据近似残数补成同批 |",
+    "reason": "删除可被用作残数同批硬证的普遍断言，与终稿三页观察边界一致。",
+    "issue_ids": [
+      "B28-002",
+      "B28-030"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“不能。”林渡说，“字头、年份都可能把数分开。只拿后头这几个数，连完整的号都没对上，更不能把它们排成一批。”"
+      },
+      {
+        "chapter": 277,
+        "quote": "“只看清三页的一部分。”林渡说，“前两页的页头数挨着，第三页去向栏里有个缺角圈。页头数和去向栏不是一栏，不能拿它们说前后记法变了。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 49,
+    "before_sha256": "811563d7508f0a961e80839675f9582519573ed9d646ae1a2a145e8f6ec9eb67",
+    "after_sha256": "ecadd0368595eec401acfab91726a1e8fb6d4fb502ab29c47a7a28ec3736f10b",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W051",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 248,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "## A18批写前执行卡（271—280《撤离者的仓单》）",
+    "new": "## A18批写前执行卡（271—280《撤离者的仓单》）\n\n> R008-B28复核标记：下列写前锁定与拟行表是历史规划，不作已发生证据。原拟“同段／同批／同一条线”、进入仓单室及完整名单等未全部兑现；实际只接成本地验箱换签后上坡一段，送料者止于门外，残数、同类印、半页核名各自待核，具体偏离与代价以下方本次修订实录为准。",
+    "reason": "保持历史规划原文，防其成为终稿事实权威；不倒签计划已经正确。",
+    "issue_ids": [
+      "B28-002",
+      "B28-004",
+      "RB28-N15"
+    ],
+    "severity": "中等",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。"
+      },
+      {
+        "chapter": 277,
+        "quote": "“我没看见从册子里撕纸。”林渡说，“桌上拿起来的是散页，厚册是后来翻开的。两样隔着这两个动作，不能把它们画成前后两页。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 50,
+    "before_sha256": "930de70233484b35e444a6d62b7ab0d185094ef845e9b56f40c518f0b935b470",
+    "after_sha256": "92ef17a8d36bfe100eab2f8fb1e30e1d190f5462d88d3e9b14aa44adb730a0be",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W052",
+    "file": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+    "line": 268,
+    "source_sha256": "5994b8dfa8672a7cde62315f15e0384ee941f5f99511f96ab06659313adf760e",
+    "old": "- 批次与箱号只作实物对照：206枪件流水、清运箱挂签、仓单底账按“批”记；正文只到“同一条线”，不写武器用途、不解释海峡武器站，也不把撤离批次与家属名单合成一句结论。",
+    "new": "- 批次与箱号只作分来源实物对照：206枪件拓号、清运箱挂签及厚底账所见不能仅凭残数和同类印合成同批；正文只接成收签口验箱换签后车上转运坡这一当地短段。枪件来源、北边到本地的路径、完整号、签发者与目的地仍未核；不写武器用途或海峡武器站，不把半页家属核名写成撤离去向。",
+    "reason": "“正文只到同一条线”属于旧实录判断，不是应保留不改的纯历史规划。",
+    "issue_ids": [
+      "B28-002",
+      "B28-004",
+      "B28-005"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“先沿阿九亲眼看见的这一小段查。”林渡说，“六层靠海侧，收签口验箱、换挂签，随后车上转运坡。只有这一段相接。枪件从前怎么进来、北边的车怎么走到这里，纸上都还没有。”"
+      },
+      {
+        "chapter": 275,
+        "quote": "晌午，他把这一页上能确认的数另抄成补条，续交到先前的呈请下。补条写清木牌只认到四百一十几、字头未明，枪件拓号在四百开外，未能确认同段；本地近几夜一夜三趟，趟各一车，箱数只数清过一车四只。他不写“同一批”，也不写“一条线”——这两项都还不是能落定的判断。"
+      },
+      {
+        "chapter": 277,
+        "quote": "“不知道。”林渡说，“那圈跟箱印像，也只认到这一类。谁定的记号、代表哪里，我都不懂。不能看见同样的缺角，就说找到了目的地。”"
+      },
+      {
+        "chapter": 280,
+        "quote": "“半张纸上三个名。”祝衡说，“两家认出了亲人的名，第三行还有字认不清。核上的是名字，不是撤走这件事。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 51,
+    "before_sha256": "92ef17a8d36bfe100eab2f8fb1e30e1d190f5462d88d3e9b14aa44adb730a0be",
+    "after_sha256": "aeda387315bd2c3bb308cea975c58f9cec6dbf0202bb135b2b9f66527b034940",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "RB28-W053",
+    "file": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+    "path": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+    "line": 18,
+    "source_sha256": "508586db4f1e3650605979bb19375cf6213b038fcc51420c996125fd6d06969e",
+    "old": "| A18／271—280／撤离者的仓单 | 建立船、物资和武装之间的链条 | 六层仓单室→七层转运坡；275比供货批次 | 祝衡不公布无法核实名单全页，先让相关家属私下核认 | 少一次舆论爆点，护送证人耗工时 | F11补教团供货中转证据；F09箱号对应撤离批次 | 可以定位转运而不知武器用途；要核清撤走者与被留下者的差别 |",
+    "new": "| A18／271—280／撤离者的仓单 | 原规划追查船、物资与武装的链条；实际取得待核关联，未证整条链 | 六层仓单室门外收签口→亲见车上转运坡的一段；固定地理上七层，但送料者未获上坡权限；275比同类印和残数，未认同批 | 祝衡不公开无法核全的半页，先让两家各私认一行；老崔亲述由原工落纸 | 少一次舆论爆点；护送耗白日照护半天、搬运替班及半卷布，夜三班两回照护仍保留 | F11仅得供货／撤离材料间待核关联；F09定位本地转运短段，不认箱号与人名对应 | 箱内物、签发者、目的地与人的去处未解；两栏均保密且私留分源原件，先核眼前第一个待核号旁证 |",
+    "reason": "篇章卡须区分原承诺与实际局部兑现，不能以F11/F09摘要重新坐实被正文撤回的互证。",
+    "issue_ids": [
+      "B28-002",
+      "B28-005",
+      "B28-008",
+      "RB28-N13",
+      "RB28-N14"
+    ],
+    "severity": "严重",
+    "status": "candidate_applied_pending_independent_recheck",
+    "final_evidence": [
+      {
+        "chapter": 275,
+        "quote": "“先沿阿九亲眼看见的这一小段查。”林渡说，“六层靠海侧，收签口验箱、换挂签，随后车上转运坡。只有这一段相接。枪件从前怎么进来、北边的车怎么走到这里，纸上都还没有。”"
+      },
+      {
+        "chapter": 278,
+        "quote": "两家都看完，祝衡收回抄纸，亲手放进灶里，看着那两行抄字卷黑、烧掉。他留下的是原收条，连同认不清的第三行一起收好。戊字一只记今天两家到桌核认；最坏五家五趟仍是预算，今天没有按五趟扣人手。"
+      },
+      {
+        "chapter": 279,
+        "quote": "林渡没有接这个。回到料场，他把这一趟记在班账上：照护匀出半天，阿九顶班一班，护送达一人。照护少掉的半天没有凭空补回来，白日没做完的擦洗还压着。杜姨接着赶这部分活，夜里三班却仍照原排法轮下去：五个卧床的前半夜各翻一次，后半夜再各翻一次，十回分在原来的两个时段，不能连着做完就销掉后半夜。她没多话，只把布卷又多领了半卷，记在这一趟护送的照护亏项下面。"
+      },
+      {
+        "chapter": 280,
+        "quote": "“这一句我加一条。”祝衡把左手从册页上抬起来，抬得慢，“两栏都不对外摆，栏上也不抄能牵出人的来处。可原收条、原信和已经记下的核认不能毁，私下核对还得找得到：半页名从哪笔料账翻出，哪两家认过，老崔亲口说了什么，不能整理一次就抹成同一个来源。对外来问，先到这张桌子，不让问话顺着送信、认名的人追过去。”"
+      }
+    ],
+    "conditions": [
+      "仅替换当前old唯一命中处；若主笔已改该段，先比较实质内容，不强行套行号。",
+      "不据本建议添加正文未有的材料、日次、权限、核名结果或路线。"
+    ],
+    "group": "B28",
+    "source_suggestions": "harness/maintenance/R008/B28/recovery-writeback-suggested-edits.json",
+    "index": 52,
+    "before_sha256": "508586db4f1e3650605979bb19375cf6213b038fcc51420c996125fd6d06969e",
+    "after_sha256": "9b49e971bab192499e7959c8211fea8432372a34becf86b6243a772e3d84a8f0",
+    "applied_by": "R008-main"
+  }
+]

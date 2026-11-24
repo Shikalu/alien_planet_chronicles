@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "recorded_at": "2026-11-07T00:04:09.403753+08:00",
+  "status": "approved_C04_C05_independent_review_in_progress",
+  "authorization_evidence": {
+    "path": "异星录/06_执行计划/设定决策/R004_C04-C05裁定.md",
+    "sha256": "607ff3d4148155034892f897b250817f70293306340ef4c8bb3ffa54a4b02259"
+  },
+  "validation": {
+    "path": "harness/maintenance/R004/approved-validation.json",
+    "sha256": "a67d96cc6049fe0f8497a6a0ef561d68ebae5e1aa4511ff7ba5ec194fa9d781b"
+  },
+  "prose_patch_count": 180,
+  "writeback_patch_count": 127,
+  "published": false,
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "reviewer_threads": [
+    "01a1b184-cf05-7a53-9516-915d2d03fc59",
+    "01a1b18a-a4d0-7442-b9b6-08ec46ef2568",
+    "01a1b18a-eaa9-7b73-95aa-af5b70f3e35c"
+  ],
+  "next_actions": [
+    "B10正文独读后发第二阶段对照资料",
+    "回填独立复核/既有证据汇编",
+    "处理真问题并复审",
+    "汇总审计与独立追读证据",
+    "候选树verify-repair后才复制正式文件",
+    "真实verify-repair/check及保护检查，不调用close"
+  ]
+}

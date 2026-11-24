@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root",
+  "reviewer": "/root/a39_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 481,
+      "path": "异星录/06_执行计划/工作区/A39/第481章_水先过栏.md",
+      "sha256": "61b9e1a1435c6a088d0f09a6c09ca68631ef5a361fd51e5e30ab2452204f528a"
+    },
+    {
+      "chapter": 482,
+      "path": "异星录/06_执行计划/工作区/A39/第482章_谁来替它作保.md",
+      "sha256": "48476484845ba55ede1f6c558aa25e9bee8a20461f3f3965aeda79098176f9c0"
+    },
+    {
+      "chapter": 483,
+      "path": "异星录/06_执行计划/工作区/A39/第483章_已经付出去的票.md",
+      "sha256": "342d7716b5a12259ec919478468d54b63721190b9b1c2b7b31ecdb18a81e992b"
+    },
+    {
+      "chapter": 484,
+      "path": "异星录/06_执行计划/工作区/A39/第484章_铺底下还有半步.md",
+      "sha256": "fd557fa105169a96299c26462041c59c485536d4957cfff2d5abb876b340b28d"
+    },
+    {
+      "chapter": 485,
+      "path": "异星录/06_执行计划/工作区/A39/第485章_船号写到了人前头.md",
+      "sha256": "c3358e98410466a1cc8c20926ef4997c0dce0f4a330ad8248fcaac4126e559f7"
+    },
+    {
+      "chapter": 486,
+      "path": "异星录/06_执行计划/工作区/A39/第486章_缆从谁手里过.md",
+      "sha256": "3688c0c2558244b012a931ae9a478f8ef6c9b3449d63c752d2d781d1dcebaad3"
+    },
+    {
+      "chapter": 487,
+      "path": "异星录/06_执行计划/工作区/A39/第487章_一处能接手的地方.md",
+      "sha256": "2f8b0a7b99230c21137858ff5e9a146fa15d4f8e266f569ec8eb58ad08b31dd0"
+    },
+    {
+      "chapter": 488,
+      "path": "异星录/06_执行计划/工作区/A39/第488章_有一段路可以走.md",
+      "sha256": "78fe323cc0ebdc3ac68454a2580233f177166cf92ae0037fa225209297eb1d78"
+    },
+    {
+      "chapter": 489,
+      "path": "异星录/06_执行计划/工作区/A39/第489章_包放在哪里.md",
+      "sha256": "5f9b0144ffdf48c3e3872908866a33171fe2c27255c46c94e49a507452f857d9"
+    },
+    {
+      "chapter": 490,
+      "path": "异星录/06_执行计划/工作区/A39/第490章_门口换了谁.md",
+      "sha256": "2e14d1168c9ca14666bfbd22c3ea35449272a10a3aa8dbfb0e5eaa9eb1011db8"
+    }
+  ],
+  "source_digest": "ece225cb7015cd1c8826b4da0e3d8c0beebf0c6d90fa14c49876d1ef59c45c45",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 481,
+      "quote": "收验桌前那只水罐昨夜没动。",
+      "reason": "上一章已付的封罐还是没到船上，第一句把等待变成今天必须处理的事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 481,
+      "quote": "船要离开候绳再走另一道查验。",
+      "reason": "林渡保住接水的路，用现时可验的交付处理眼前用水，留航路待船工另验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 481,
+      "quote": "守栏人把上面那捆交到他手里，下面的重新收进栏里。",
+      "reason": "一捆实领、一捆待认，给同一新桌划出单次验放的先例。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 481,
+      "quote": "原来绑在盖口的纸没有脱。",
+      "reason": "读者和船工同时看见一罐水在压窄的板上送成，上章的等待有结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 481,
+      "quote": "若老货台明日再不肯保，自己这袋货究竟要向哪里写去处。",
+      "reason": "一次用水例外带出下一章货保难题，能追问普通货主还能找谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 482,
+      "quote": "谁来借这份担保，先得把自己让别人不敢碰的那张纸留在台里。",
+      "reason": "上一章还没答的货保条件变成了眼前索要抵押的动作，接下来具体落到印发原签。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 482,
+      "quote": "旧原签还要依约回栈城，不能给别的货做抵。",
+      "reason": "曲荻宁愿等货，也不替原持档人用借来的原签垫一笔风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 482,
+      "quote": "按实做量两小壶，不换两岸通用的数。",
+      "reason": "架脚实修后换来两个沿潮港小壶，病用封罐仍在原路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 482,
+      "quote": "实开过纸夹的记在左边，右面押运仍不落名。",
+      "reason": "小工保护自己的实工和别人来复读的机会，左边有凭，右边不替人签。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 482,
+      "quote": "小工问这回若不给自己续印，老货台还找得到别人替他们看那张副抄么。",
+      "reason": "压力具体到小工的下一班与有人可开副抄，不再只是货保文书如何填。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 483,
+      "quote": "曲荻的定票已入旧账，仓口今天不许退。她只有那张实付回签。",
+      "reason": "开场把已付与无法拿回摆在一起，读者能立刻知道曲荻今天为何堵在仓门。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 483,
+      "quote": "若要找人给已经冻住的钱作保，由付票的人再来问",
+      "reason": "林渡宁愿维持异议，由有权问的人承担，不把码头港工的实工当押运保证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 483,
+      "quote": "已有定票、货未出库、收验后再问三行念过。",
+      "reason": "货与款的状态首次有当场记录，退款仍受新归口制约。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 483,
+      "quote": "她将盒里两枚票拿出来对一下，没拿去给仓里另押一笔。",
+      "reason": "曲荻试着守住仅剩的票，读者从动作看到下一程干粮会少。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 483,
+      "quote": "下一次再来问，他们要先证明那条船仍归谁带出去。",
+      "reason": "旧款已被船号锁住，下一次问票会遇到谁还能说船由谁管的更大压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 484,
+      "quote": "西台的人把一张旧铺板抬起来，底下立刻有人伸脚要占。",
+      "reason": "开场让住宿压力落到一块具体的铺板与已经伸来的脚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 484,
+      "quote": "原铺不用动，只借她刚收回来的旧垫一小段",
+      "reason": "林渡先保住妇人新认的铺，再按受力找能撑稳的临位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 484,
+      "quote": "两人各能借一晚外廊临时矮板，原本那处归妇人自己。",
+      "reason": "一处正式铺与两个临位各有归口，收拾好的护板还换到一小壶工水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 484,
+      "quote": "今晚终于有一处可以放下壶",
+      "reason": "妇人先得到可坐可放壶的地方，才有固定地址按自己的时间复述听到的音。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 484,
+      "quote": "谁还要她说出那一声，她不用再去别人家门前报自己的铺号。",
+      "reason": "读者能追问妇人会在哪个地方给谁认那一声，带出证人怎么继续见人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 485,
+      "quote": "收验桌把第一船的号写在了最上面，下面没有人名。",
+      "reason": "船号压在付票人前面；已冻的钱遇到船务的新手。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 485,
+      "quote": "到时我自己来。",
+      "reason": "曲荻留下问退凭据并自行承担跑腿，拒借两个港工或一条尚未问过的船挂押运。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 485,
+      "quote": "第一张说只此凉停从仓里发新货，第二张要下个值班人来认船的泊位。",
+      "reason": "停发的短纸实贴上，动船仍有下一步，读者知道失去的是哪一种权限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 485,
+      "quote": "曲荻不许他将已经退回的那两格划到她的旧票边",
+      "reason": "两名失工港人的拒绝在当面被维护，曲荻保住的是他们自行选择的权利。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 485,
+      "quote": "明日来填它的人，要先从谁手里拿走一根绳，船上的人看不见。",
+      "reason": "下一章会看到谁实际拿缆，问题比能不能签押运更迫近。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 486,
+      "quote": "第一船的候绳从原柱上拿下去时，船工还站在舷内。",
+      "reason": "兑现上一章的空白，船工实际失去原候绳，移泊是现在进行的事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 486,
+      "quote": "等船里泊实稳了再清那三件。",
+      "reason": "船工选择自己掌舵、请原舵手使桨；林渡认撑脚让人退到干侧，争得实稳以后才交物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 486,
+      "quote": "两根长桨也从原舵手手中交到岸，逐根用旧布围住桨柄。",
+      "reason": "先见两端系留，再见帆桨实交；扣泊从纸面转成实际运力损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 486,
+      "quote": "船首摆了一下，没有碰到后面的石。",
+      "reason": "舵手与船工仍能用经验处理回涌；扣泊的结果无法避免，船上人能保住这一程。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 486,
+      "quote": "要让一句话和一口水过来，接下来先得认人能从哪里过。",
+      "reason": "扣船切断了原来的靠舷递物方式，下一章要找实际还能接人的路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 487,
+      "quote": "候棚后那道墙中午会滴热水。",
+      "reason": "刚确定要送饭，候棚的旧道又漏热水，必须先让人和物各有落处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 487,
+      "quote": "人走内边，空壶放这头。纸在里头，谁问哪一句只在外沿叫人。",
+      "reason": "林渡按实地柱距分走人的板、挂壶和问证位置，给有限人手留可接的差事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 487,
+      "quote": "饭盒隔着一根桩递进去，原船工当面收了",
+      "reason": "里泊实送一盒收回条；候棚三小壶仍分给各在场的人，站点已经能交东西。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 487,
+      "quote": "已经失去的货台工没人补给他，他回头问晚些要从哪里叫来替下一班的那位。",
+      "reason": "小工失去旧工，却有能接续的实岗位可问；新棚位与水来自当班实做。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 487,
+      "quote": "船和人能不能一起用同一条道，还要问新在门口守谁的那一班。",
+      "reason": "站点已经能运作，下一次可追问它能否接住实际从第二船岸侧退回来的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 488,
+      "quote": "第二岸船的帆只拉开半边，原船员便从桅脚放了手。",
+      "reason": "帆的动作直接显出潮候落空，船员下一步只能去找能退的泊位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 488,
+      "quote": "另外两位只在小站实做扶板与守人路。",
+      "reason": "林渡选择让两名港工按本人的实工进入引护，不把同行者填成同船押运。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 488,
+      "quote": "两名护岗在高处带五个人过了旧阶。",
+      "reason": "引护权由任牌、护岗实走、窗口同号实收和每人验联兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 488,
+      "quote": "鞋底没有掀起那一片木皮。",
+      "reason": "先前找不到睡处的小工终于和其他人一起安全通过难走的阶，给保护一个能体会的结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 488,
+      "quote": "这一条以后真要关，名字还会留在哪里。",
+      "reason": "已经到手的本港通路可以被撤，读者知道下一步要保的是谁及哪些手续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 489,
+      "quote": "把原表、纸带和弥娅自己的旧器列到同一个包里。",
+      "reason": "仓岗把分持的不同原件写成一包，触及上一批证人刚保住的独立保管。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 489,
+      "quote": "她愿意另将哪些在自己手里的文字当面说一遍。",
+      "reason": "弥娅让公开复核继续，又用证物归属拒绝仓岗把引护签改成领件授权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 489,
+      "quote": "小工把可校的摹记交给原定的接人岗",
+      "reason": "一份获准移交的摹记到本港窗口干格，两路实走，原件依旧归各原持。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 489,
+      "quote": "他的教学样还揣在身上，能给当班人看遮好的那一面。",
+      "reason": "白礁主动到另一处接人，允许自己承担与旧样相关的复问，把分守变为行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 489,
+      "quote": "明日仓里的人再来问包都放在哪里，窗外已有一个人能答自己亲手收了什么。",
+      "reason": "下一章会碰到新仓岗，先前分持已有活经手可以答物件落处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 490,
+      "quote": "才叫外面的人来见他实交钥匙。",
+      "reason": "开头通过当面交钥匙的动作证明仓门已经换岗。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 490,
+      "quote": "掌心开始发麻，他便压住近处的一头，让小工在远端打紧扣",
+      "reason": "林渡照伤势做能做的部分，亲自留路，让先前受助的小工把新路径试走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 490,
+      "quote": "收验桌原班也从案下交出收验簿，新班当面点过已挂环和待领的记，签实收后把簿放到掌下。",
+      "reason": "仓、候泊与收验的实际归口已经换手；读者也同时看见值守窗原引护仍能执行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 490,
+      "quote": "小工沿干板走完，回身把绳头交给他。",
+      "reason": "普通港工能当见证人和接路的人，这趟走成对照关仓的新钥匙。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 490,
+      "quote": "若明日连这一步也要拿船号来问，他得先给那些仍肯自己说话的人找一处能站住的地。",
+      "reason": "选择已经落实到一线干板，读者下一篇能追证人从哪里、由谁接走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 486,
+      "quote": "两根长桨也从原舵手手中交到岸，逐根用旧布围住桨柄。",
+      "reason": "481候泊用水与一捆绳实领完成第一轮局部兑现。485明日谁来拿绳在486一帆两桨实收与移里泊落地，损失有具体对象。随后送饭实到、五人实走短阶、摹记到干格，兑现保人能行和能复问。冻款与外岩窗口留待实查，人物撤离及保护能否持续留下一篇。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 490,
+      "quote": "开合的钥匙落在已经换过的人掌中。",
+      "reason": "资源压力从一罐水到一笔钱，再到工、铺和出船的能力；保护转成短阶上能引护的人和证物分守。到490新班已实掌仓钥与查验簿，五人可走的路仍有效，接下来必须在本港保护可能撤去前另找接应。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

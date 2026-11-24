@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "kind": "writeback-candidate-freeze",
+  "id": "R008",
+  "compiled_by": "R008-main",
+  "date": "2026-11-10",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716"
+    }
+  ],
+  "note": "主笔整合后冻结；尚不表示独立通过。五位审者只核对应251—300本组原始行及R008范围说明，不签范围外全文。",
+  "revision": 2,
+  "change_from_previous": "仅逐章卡256代价栏：邵家四趟七八天，不误用260两家五六天；其余七文件字节未变。B26正文256同章抬者前一后一及出门方向另有局部改字，待独立复核。"
+}

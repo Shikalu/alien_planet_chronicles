@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B40",
+  "round": "r2",
+  "source_digest": "7327d111e79b906b5a12a4e0f113e7a4012bce9ed71c0879e1bb84b5cb50b7ea",
+  "manuscript_sha256_match": true,
+  "aggregate_match": true,
+  "r1_reconstruction_sha_match": true,
+  "only_changed_chapter": 395,
+  "initial_closures": 13,
+  "new_issue_closures": [
+    "B40-F01"
+  ],
+  "attraction_checks": 52,
+  "all_quote_substrings": true,
+  "per_chapter": [
+    {
+      "chapter": 391,
+      "han_without_title": 2285,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 392,
+      "han_without_title": 2366,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 393,
+      "han_without_title": 2324,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 394,
+      "han_without_title": 2358,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 395,
+      "han_without_title": 2337,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 396,
+      "han_without_title": 2483,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 397,
+      "han_without_title": 2438,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 398,
+      "han_without_title": 2407,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 399,
+      "han_without_title": 2602,
+      "author_markers": [],
+      "like_inference_count": 0
+    },
+    {
+      "chapter": 400,
+      "han_without_title": 2602,
+      "author_markers": [],
+      "like_inference_count": 0
+    }
+  ],
+  "note": "脚本只验字节、引文、覆盖与字数，不生成审读结论。人工先完成实际全文阅读与逐项判断。"
+}

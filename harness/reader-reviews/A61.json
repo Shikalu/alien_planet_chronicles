@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "batch": "A61",
+  "reviewer": "01a1e4dc-d905-7d33-96b6-813558901914",
+  "reviewer_name": "Nash",
+  "writer": "writer-A61",
+  "identity_source": "用户转达调度端核验映射；未自行查询运行环境",
+  "independent": true,
+  "body_first": true,
+  "final_digest": "299186173511477cc2d6da77010bdbab1404d5944d8c2874aee58459b9cd61d2",
+  "kind": "review",
+  "profile": "serial",
+  "manuscripts": [
+    {
+      "chapter": 701,
+      "path": "异星录/06_执行计划/工作区/A61/第701章_没有门的夜.md",
+      "sha256": "05f9a7341abfde2856a44127d5b2b17f3f9d70017d56453c29287798331cd7cd"
+    },
+    {
+      "chapter": 702,
+      "path": "异星录/06_执行计划/工作区/A61/第702章_屋主的半张席.md",
+      "sha256": "d36698a66dfffd6249ff664fdfb143d031ed20a03f62ce837194acce10d8029f"
+    },
+    {
+      "chapter": 703,
+      "path": "异星录/06_执行计划/工作区/A61/第703章_凉时的土.md",
+      "sha256": "b50f0ca7cfd06549efa5489738b3c6b73b26b072ad19f97ce37f9811c8c8acca"
+    },
+    {
+      "chapter": 704,
+      "path": "异星录/06_执行计划/工作区/A61/第704章_床脚不能落地.md",
+      "sha256": "9f158531b0ebdfe3f76ba09f78c76c9e7d5fb4a19582a5f29c3840ffd1cfa7e0"
+    },
+    {
+      "chapter": 705,
+      "path": "异星录/06_执行计划/工作区/A61/第705章_借来的轮子.md",
+      "sha256": "5055577decab814027a964414875d2f2a477abfe03d6ec15e6b9eb68cc93031d"
+    },
+    {
+      "chapter": 706,
+      "path": "异星录/06_执行计划/工作区/A61/第706章_灶口让给谁.md",
+      "sha256": "7abce4e6a250f245edf85ef4eeb7b79c631b23777cbab682905bda75f900cf45"
+    },
+    {
+      "chapter": 707,
+      "path": "异星录/06_执行计划/工作区/A61/第707章_睡过初凉的人.md",
+      "sha256": "a110becc42e7577693e1e3982e6b01c4f72fc86968b45c049032f2e67cb3a07f"
+    },
+    {
+      "chapter": 708,
+      "path": "异星录/06_执行计划/工作区/A61/第708章_水从谁家门前过.md",
+      "sha256": "b8c558c6397c5aee0e10575ae83b344f6724b753cff3c00181fbce915f1333a7"
+    },
+    {
+      "chapter": 709,
+      "path": "异星录/06_执行计划/工作区/A61/第709章_空下来的三件事.md",
+      "sha256": "4541e2e03f819c9b5e270e0fb8ff65d21761ce6a0d6bfecf4f632f9971040c23"
+    },
+    {
+      "chapter": 710,
+      "path": "异星录/06_执行计划/工作区/A61/第710章_桌边还有一个人.md",
+      "sha256": "95cf9c90de8e67e8bab35b6517b382c22ffe5870bdbafd2411a07e73881dbb49"
+    }
+  ],
+  "source_digest": "548f6ea19683947b96db772eb1f0b59b4947f1d4a54aaf252f5ec154dcde3487",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 701,
+      "quote": "高石上的孩子把鞋脱了一半，听见风吹动檐板，又赶紧把脚塞回去。",
+      "reason": "第一句把风声与不敢脱鞋连成无安全落脚处的压力，紧接山门满和伤臂，701不是从规划术语开始。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 701,
+      "quote": "“先看路，不先搬人。”林渡说。",
+      "reason": "林渡先实探两折石径和柱脚而不将灾民直接送进私人屋；选择暴露伤臂与局部判断边界，并转向问主人必须保留何处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 701,
+      "quote": "两名工人用棚内现有的木槌装撑，林栖蹲在旁边看接触面，",
+      "reason": "从只见危险裂柱到疏沟、有限接人并实际装短撑；改变的是今晚可遮蔽的安排，不是整棚永久安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 701,
+      "quote": "唐荻出门后，棚里的孩子终于脱了鞋。",
+      "reason": "开头不敢脱鞋的承诺当章回收，妇人擦泥和罗芹递布给一点亲身可感的安全；林渡自己仍无铺且肩痛，回报有代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 701,
+      "quote": "今晚有了遮蔽，明晚仍没有一扇可以默认属于他们的门。",
+      "reason": "私屋仅借一夜、雨沟须换人看；下一章具体要问续借与四层实报，世界性缺住位与主角明晨动作同时存在。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 702,
+      "quote": "天亮后，罗芹先把自己的席子卷起来。她昨夜睡在母亲床脚，只占了半张席，腿蜷了一夜，起身时扶着木梭架才站稳。",
+      "reason": "上一章的一夜期限立即回到屋主身体负担，新来者无人先收铺；续借的矛盾不是换日期继续安逸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 702,
+      "quote": "林渡请人让出木梭架前的工作面。",
+      "reason": "他先缩借住面积保住屋主生计，而非借灾难威望强占；随后只能用麻手择坏股还工，真正选择承担而不命令旁人忍让。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 702,
+      "quote": "最后一趟抵晾场时，十二壶都在，没人把申请数当成已到数。",
+      "reason": "短借谈成、饮水获得有限授权并完成三趟搬运，空灶变成可煮的新批；旧管仍隔离，缺水没有被总数遮掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 702,
+      "quote": "罗芹终于坐到自己的半张席上，脚尖不必再缩进床底。",
+      "reason": "屋主开头卷起的半席重新成为能坐的空间；裂锅男人让靠背、孩子等热水显示从互逼到小互助，不靠主题旁白兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 702,
+      "quote": "林渡请唐荻今晚休息，明早带他们下四层；灶与铺位交给留下的人照看。",
+      "reason": "遗体实见坏变迫使兄妹次晨行动，留人照灶则付出分工风险；下一章要问能否辨认、用哪处葬地，不是空泛等消息。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 703,
+      "quote": "下到四层上折时，林渡已在两处背岩停过。",
+      "reason": "新目的地伴随伤臂歇脚和旧海路断裂，延续实葬任务的风险，唐荻逐岔指今日石面让读者知道怎么走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 703,
+      "quote": "林渡不再要求掀开更多地方，右臂在吊带里疼得发热。",
+      "reason": "辨衣襟和腕疤已够后主动止额外暴露，不用更多伤害换心理保证；继续问有限葬位，面对受害者也承认父责而不求谅解。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 703,
+      "quote": "旧抬席连同裹布留在坑内。",
+      "reason": "父亲由四层待安置的遗体到岩背实葬，有近户许可、清地欠工与清污去向；原证词、扳手、裂尺继续保有，处理死亡而不清责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 703,
+      "quote": "林栖说：“我收到了你的话。”她的声音很低，停一停，又添道，“没替你销掉。”",
+      "reason": "妹妹既接父亲证词又拒销责，兑现亲属悲伤和受害者质问同时存在的复杂回报；后续兄妹握手没有复活或替他答过去。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 703,
+      "quote": "林渡留在四层过夜，天明由熟路人陪着继续下三层。",
+      "reason": "父亲实葬完成一项承诺，阿九亲见报及医棚损坏提出新目标；兄妹分路补工/探伤者，下一次路必须自己走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 704,
+      "quote": "席角还夹在木头下，污水从脚边的新槽流出去，入口被挤得只够一个人侧身。",
+      "reason": "到三层第一现场就是压席、污水和窄口，上一章的医棚受损消息转成可见阻碍，不先用伤情说明拖开头。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 704,
+      "quote": "他请两人先留下清沟和换床垫脚，自己今晚留棚旁。",
+      "reason": "主动把原护送人手转为床脚排水，自己晚返承担五层续借风险；不挪唯一助手，选择有人员与时间成本。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 704,
+      "quote": "新铺位离入口较近，床边还能容助手站立，通道却因此更窄。",
+      "reason": "阿九换到暂时可照护的位置，但探望通道被挤压；变化救了一床又触发家属异议，工程不等于皆大欢喜。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 704,
+      "quote": "阿九松开被角，说不必为了会认车刹声就给他优先，也别因为他嘴硬就当他不用人扶。",
+      "reason": "阿九保机械责任感却说出需要照护，床头下次移位时间是可见回应；读者得到人仍活着和关系可重新安排的回报，而非伤腿恢复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 704,
+      "quote": "自己留在棚外干角过夜，明日随实到车工查干卸点。",
+      "reason": "上口再堵使医棚仍危险，独立推床需要车工和借具许可；林渡明晨亲查具体轴刹，世界床脚危险与人物下一步连在一起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 705,
+      "quote": "迟棠从车底钻出来时，袖口沾着褐色泥浆。",
+      "reason": "车工泥袖、斜车、短挡和敲锚声将上一章查车任务落现场；不是一见车便得到现成运力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 705,
+      "quote": "林渡没有用救护棚缺床的理由强留这块旧借木。",
+      "reason": "他要求现场原因和替换后验还，不让伤者需求吞没物权；另问独立床架范围并公开征八工，组织选择不是私自修好原车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 705,
+      "quote": "四名成人推到背山更干的半段，照护者跟着，留出一个能移便桶的角。",
+      "reason": "砂袋木板试载之后才四成人移阿九，床离入口并有照护角；仅医棚平段的人力架，三层外坡和原车仍不能用。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 705,
+      "quote": "阿九看到床边终于不是入口，脸上绷着的线缓了一些，说今晚不会再有人从他被角上挤过去。",
+      "reason": "704窄口挤被角的痛苦得到实际空间改善；他依旧不能站，床架要到期还且欠工，回报不是取消永久伤病。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 705,
+      "quote": "她只临时同意等林渡明天返到说明，今夜不代表默认长住。",
+      "reason": "上方借期过而灶口被压，临等到D616并非续借；下一章明确要返坡面对屋主，轮子拿到只解决了下方的一床。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 706,
+      "quote": "锅就放在两人之间，锅底冷着，老人床边那只碗也空着。",
+      "reason": "竹杆挑席但人不动，冷锅和空碗让过期借住如何阻塞灶道一眼能见；四层返程交代随后，不把冲突埋在路况里。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 706,
+      "quote": "“这块先撤。”林渡说。",
+      "reason": "他撤的是为自己预留的休息席并仍坐门外，不先要求病人与主人退；让灶道、日光做索与夜铺各得有限范围。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 706,
+      "quote": "男人把木牌贴回胸前，慢慢将脚收进卷席旁，给罗芹让开捻索的地方。",
+      "reason": "先实际走锅路、答D620期限再回应男人被赶忧虑；从堵灶到保白日工面，产权与借住关系可执行地变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 706,
+      "quote": "两次断股之后，第三次接了起来。",
+      "reason": "罗芹终于重接索，老人拿微温一碗而不被逼倒私水；少席、湿肩垫和两壶耗尽仍在，小恢复来自让位与分工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 706,
+      "quote": "夜里照护的人初凉睡过头，能不能算排在领水的人之前。",
+      "reason": "水用尽后的具体争执是作息与公平，不是泛称明日困难；林渡决定由看火/夜护者议班，并另找赔床架工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 707,
+      "quote": "她的孩子推了两下，没推醒。排在前面的男人把自家的空壶塞进灶道，说轮到谁就是谁，",
+      "reason": "未睡够的夜护妇人与堵道争先直接兑现706末问；水尚未搬到，排队并不等于立即发水，公平问题有身体和物件依据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 707,
+      "quote": "林渡请他们把意见说给当班人，不说给自己。他去招床架赔工的人，今日不坐在壶旁替每个争执做决定。",
+      "reason": "不为妹妹特批也不以离席逃责，承诺傍晚听结果；把留碗交真实当班人，自己征愿补工，使组织成长能观察。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 707,
+      "quote": "晾出夜护者的那一小碗，盖好放在床旁洁板上，孩子回来时没有再被赶去队尾。",
+      "reason": "本人需求从先提一壶修正为留一碗，代取与洁器保存实际执行；四成人下行、索工一日完成也是真变化，不只写新规则。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 707,
+      "quote": "“你没有偷水。”他说，“我晚了这句话。”",
+      "reason": "哥哥承认妹妹当众受指时所欠支持，但不推翻分配；短索接头与麻指承接情绪，得到的回报是关系修正而非家属优先权。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 707,
+      "quote": "棚外旧沟忽然响得急了，排槽又送下一股夹泥的水。",
+      "reason": "新雨沟压力带向708，唐荻未返又将床架到期结果悬着；读者会问料带和铺能否保、四成人实还没有，两个方向都具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 708,
+      "quote": "罗芹一脚踩住自己的料带，另一脚顶着门边空箱，不让人把竹片沟挖进来。",
+      "reason": "雨水已到卷席下沿而屋主挡挖，排水救住位与保护下棚/作业带立即冲突；不是换一场雨重复同一次清沟。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 708,
+      "quote": "修沟的人先不能动侧槽边那道土脊。",
+      "reason": "林渡先看低坳、下棚派人核流才恢复旧沟，不能为晾场把险推给更低户；再缩两湿席及限借料带，实际付出容量和赔工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 708,
+      "quote": "下棚派来的成人站在末端喊侧槽不再漫入门石，仍留在那里看了一阵。",
+      "reason": "排水出口实退，不由上方一人宣布安全；两席仍撤、柴丢、每日复看和六工偿约把变化的负面后果保留。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 708,
+      "quote": "罗芹替他把锅上的雨布盖好，没有问这回是不是可以拿锅赔丢掉的柴。",
+      "reason": "先前争锅的男人护主人木梭，主人反护他的锅，两边因雨中共同动作产生温度；不把互助强换赔偿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 708,
+      "quote": "裂锅男人替她端空箱，问是谁承诺补丢柴，谁又去看下棚沟口。",
+      "reason": "沟通与续借没有让全部活自动有人接；实际缺失岗位逼向709分工，湿席损失、赔柴与雨后查看都是可追问对象。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 709,
+      "quote": "门边来问的人指向林栖，说她父亲欠下的事更多，这一束又算什么。",
+      "reason": "唐荻回报尚未展开，当下逼女儿还父债便先出压力；不是为对账而对账，旧案与新公损怎样分清是本章选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 709,
+      "quote": "林渡答这次不会将他的旧案问题换成义务劳动；",
+      "reason": "不以补沟堵受害者口，也不让私扳手抵共同丢柴；把旧口述来源留下、现处三活分人，责任处理有明确权限而非主角判案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 709,
+      "quote": "唐荻走到下棚门石，回来带那户主人说今日没有新漫水；",
+      "reason": "八工和限期验还实報先回收705承诺，三人接活后马上做一回：路线检查、散木移走、浅箱认回；组织从口头任命变实际结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 709,
+      "quote": "那个受害者没有被列进三户之中，坐在门边听过安排后，把自己的旧纸收回衣内。",
+      "reason": "他仍可问旧事而不被强列补柴工户；林栖也能守私物而偿自己的约。读者得到拒绝集体归罪的具体结果，父案不伪结。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 709,
+      "quote": "下一次要找的，得是可以被住户问住、也可以被换掉的人。",
+      "reason": "三岗位开始拥有让人等的权力，撤湿席者提出再问；下章要看申诉/复看/换人是否真可发生，不只期待一个好听的组织名。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 710,
+      "quote": "问自己的名字还留在这里，为何每晚仍得靠坐。",
+      "reason": "旧住址纸压空碗和门边新父子让有记录却无干铺的冲突先出，既续709问责也把有限空间压力带回人物。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 710,
+      "quote": "林渡把自己的凳子退到旁边，没有作为第四个永远能压过三人的人留在桌后。",
+      "reason": "选择退永久裁决位、让三类代表回答，同时保屋主续借权；他参与讲来源而非以英雄一票盖住异议。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 710,
+      "quote": "新的接班者当场坐下，接过那项尚缺一处干铺的话，林渡没有替原代表保住位置。",
+      "reason": "实际错判后次日只复一铺，再由同类住户换失屋代表；可以再问和可撤换不是抽象权限，剩缺铺也实记。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 710,
+      "quote": "腰伤住户终于能将背靠在干墙上，说自己不是要夺孩子的席，要的是有人看看这一块原本答应过的地。",
+      "reason": "从靠坐檐下到实际复一张干席是可感结果，无字异议真能改变处置；未复另一铺、夜护让睡地与索工欠补使制度回报不免费。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 710,
+      "quote": "这份旧事应去找哪些原经手者、如何让不识字的人也能共同追问，委员会不能答。",
+      "reason": "本篇住处已有接话者、原旧案仍须来源和经手范围；末余一壶、一缺铺与夜班是持续世界压力，林渡下一步讲未交来源，能停710且保留下篇理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 710,
+      "quote": "林渡没再把凳子摆回桌后。门内有人叫换班，他抬起头，新任代表已经应声走过去。",
+      "reason": "701孩子可脱鞋、702新水/半席、703实葬、705阿九移离入口兑现可落脚与不复职救场；706保灶、707夜护留碗、709八工实还、710申诉复铺并真换代表把生存借期推进为能受问的生活安排。父责、损失、持续供水未结是明示未完成，不是偷偷销账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 708,
+      "quote": "这次不存在只撤自己一块席的余地。",
+      "reason": "压力由701一夜有限借住升到702屋主生计/饮水，703死亡旧责、704伤者与探望通道、705限借补工，再到708下棚排水和两铺损失、709分岗权力、710撤换及照护睡地缺口；英雄自身让席不再足够，受影响者和选择难度实际扩大，反复借水承担不同戏剧作用。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "process": "本次当前终稿全10章同一独立复核；正文先读体验先落/private/tmp/A61_final_body_observations.md，后查资料；不参与创作或修订，非diff签字。只覆盖701—710，不倒签开篇或711。",
+  "prior_exposure": "此前审过本批draft及弃稿701，既往接触不隐藏；本次重新完整读当前实际final。",
+  "review_date": "2026-11-17"
+}

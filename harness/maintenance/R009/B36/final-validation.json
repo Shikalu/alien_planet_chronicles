@@ -1,0 +1,78 @@
+{
+  "errors": [],
+  "incomplete_checks": [],
+  "reader_review_passed": true,
+  "verdict": "pass",
+  "chapters": [
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360
+  ],
+  "includes_prologue": false,
+  "profile": "serial",
+  "batch": "R009-B36",
+  "source_digest": "23ee1ab734fa5b00fc87677f144d5190f55a083ff8919d87a64e36f46bd89b3b",
+  "checks_count": 52,
+  "closed_issue_ids": [
+    "B36-01",
+    "B36-02",
+    "B36-03",
+    "B36-04",
+    "B36-05",
+    "B36-06",
+    "B36-07",
+    "B36-08"
+  ],
+  "all_closure_quotes_exact": true,
+  "all_final_hashes_match": true,
+  "pure_han_counts": [
+    {
+      "chapter": 351,
+      "pure_han": 2306
+    },
+    {
+      "chapter": 352,
+      "pure_han": 2243
+    },
+    {
+      "chapter": 353,
+      "pure_han": 2302
+    },
+    {
+      "chapter": 354,
+      "pure_han": 2282
+    },
+    {
+      "chapter": 355,
+      "pure_han": 2239
+    },
+    {
+      "chapter": 356,
+      "pure_han": 2274
+    },
+    {
+      "chapter": 357,
+      "pure_han": 2271
+    },
+    {
+      "chapter": 358,
+      "pure_han": 2318
+    },
+    {
+      "chapter": 359,
+      "pure_han": 2361
+    },
+    {
+      "chapter": 360,
+      "pure_han": 2275
+    }
+  ],
+  "validation_scope": "仅辅助核结构、实际字节与引文，不用脚本产生判断；判断来自本次完整重读。"
+}

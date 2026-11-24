@@ -1,0 +1,795 @@
+{
+  "schema_version": 1,
+  "kind": "writeback-freeze-review",
+  "batch": "R008-B30",
+  "phase": "A20_scoped_frozen_candidate_recheck",
+  "reviewer": "Codex:01a1c2c3-3a1f-73a3-945b-a1be4852c3d1",
+  "reviewer_thread_id": "01a1c2c3-3a1f-73a3-945b-a1be4852c3d1",
+  "writer": "R008-main",
+  "independent": true,
+  "reviewed_at": "2026-11-10T09:36:47+08:00",
+  "verdict": "pass",
+  "scope_chapters": [
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300
+  ],
+  "scope": {
+    "arc": "A20",
+    "scope_text": "原始A20实录行、R008对应291—300说明及必要290→291/300→301接口。",
+    "out_of_scope_full_chapters": [
+      256,
+      290,
+      301
+    ],
+    "other_chapters_certified": false,
+    "full_candidate_files_certified": false,
+    "body_reapproval": false,
+    "body_note": "同一真实审读线程已完成B30先正文后资料独立事实/追读验收；正文实际SHA未变，本次只做回填冻结短复核，不伪装新一轮全文初读。"
+  },
+  "freeze": {
+    "path": "harness/maintenance/R008/writeback-freeze.json",
+    "revision": 2,
+    "sha256": "1bb8fef9622d3276775a9266d73ddd0533bd4f7de73ffd37cb39db48d60dad73",
+    "compiled_by": "R008-main",
+    "all_eight_actual_sha_match": true
+  },
+  "body_digest": "b9a06128408faee466059748c3dddfc03b03ed87c66841330ea41789f90fb527",
+  "body_digest_method": "SHA256(json.dumps(按章排序的chapter/path/sha256十行, ensure_ascii=False, sort_keys=True).encode(\"utf-8\"))；各sha256重新读取工作稿原字节计算。",
+  "manuscripts": [
+    {
+      "chapter": 291,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第291章_装车还要过一道秤.md",
+      "sha256": "32811247004d2f4b051eb54328648e3a9a7c934a5b0c1ef653ee10babcafbaeb"
+    },
+    {
+      "chapter": 292,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第292章_最后一段自己抬.md",
+      "sha256": "e1ae7841be7491c2c9086b10a604ea6434ba6b7b4addef3f60d5056cf600c14f"
+    },
+    {
+      "chapter": 293,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第293章_空车收回去了.md",
+      "sha256": "9b0af0774afb07e46a86a54ef68b4eabd106db8448ca16720747dac164cdc443"
+    },
+    {
+      "chapter": 294,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第294章_水尺下面还有一条线.md",
+      "sha256": "6834174745e185337734961cb1082d6d4054e6a07980feb81a7c19e488b1689c"
+    },
+    {
+      "chapter": 295,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第295章_先把管子托住.md",
+      "sha256": "6ec43fe65b384855910ae903353698fb151b8b69520e7ceac9da6b252936e3a9"
+    },
+    {
+      "chapter": 296,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第296章_沿线走不到海上.md",
+      "sha256": "b7294f495d9992355bf168c7cd6eb913518c6863a1f3dc83a2f92193447bfbe5"
+    },
+    {
+      "chapter": 297,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第297章_这一班我不让了.md",
+      "sha256": "d9287de5b41b125eec1d1f56748d238e2c214277fc4f6ecc5a70889bf92a4a96"
+    },
+    {
+      "chapter": 298,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第298章_他在放行栏签过字.md",
+      "sha256": "74f5245fe2383cb20feedcddb5492908d3eccd1cb6e1464a8ae5f57b4b01b106"
+    },
+    {
+      "chapter": 299,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第299章_先把留守的班填上.md",
+      "sha256": "d488fffb3766ad751f4f03195a3854f1e563db801b4d274a3ea6f3b19fa2362e"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "sha256": "e5fb99cc59d85f5cb0e39f926a42abf77ee8a0169c0f0392aef91fc63ee3327d"
+    }
+  ],
+  "body_unchanged_from_independent_final": true,
+  "writeback_map": {
+    "path": "harness/maintenance/R008/writeback-map.json",
+    "sha256": "04fc509867b79043a08a7372d1367c07c03645e79a13780d698b1a1ed060d133",
+    "eight_source_candidate_pairs_match_freeze": true
+  },
+  "read_sequence": [
+    "既有独立全文审读先通读291—300并保存recovery-body-first.md，再查作者资料/旧报告，修后复读并先交正文结果；本次不改该历史。",
+    "本轮读取冻结八候选的完整A20段及相关R008校准，逐项对照已亲读且SHA未变的B30终稿。",
+    "收到revision2后读取实际冻结文件并重读逐章卡A20与R008290—300；恢复后又逐份重读现八候选A20/相关校准，重点完整重读298、300及299岗位/资源语句和必要接口。",
+    "比对八份映射源A20原字节、原A20专项证据、当前B30 final/manifest和十章实际SHA；脚本只验证字节/引用，不代替阅读判断。"
+  ],
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "freeze_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "matches_freeze": true,
+      "mapped_source_sha256": "22ac601b42e437179468939c2bf2202b25bb5fe431c356fb5e2ee58bc5272303",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 687,
+        "line_end": 710,
+        "bytes": 5118,
+        "sha256": "02e2d213d2bd8401669545db4a8ef97302e24d9a712548faa67cb50c1a351bd8",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## 第291—300章后人物状态（A20；D164；已发生）",
+        "mapped_source_line_start": 687,
+        "mapped_source_line_end": 710,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "67b82ff57505340df45120dd64e61bf2733dd645c7920c05a9ff4dfb18f0ff06",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 939,
+          "line_end": 945,
+          "bytes": 944,
+          "sha256": "663aab77f0a3ad3598ace211431668b018ec4ad5cc1b538e0c4640389b3e45ca",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+          "line_start": 701,
+          "quote": "陶继外堤停岗、长柄扳手原工暂收均不变；支持赫连不取消水份。"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+          "line_start": 703,
+          "quote": "承认自己的放行签记；另日“人未齐先放已到”单留待核，不并本次两笔，不替他注销责任。"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+          "line_start": 944,
+          "quote": "陶继287未遂，阀未开、无失水；本人卸柄不抹责任，停外堤操作不等于停水。300仍沿用处分，不新增一次停岗。"
+        }
+      ],
+      "reason": "原始A20行与映射源文件逐字相同。接运工D162、D164分别登记、原工陪同且当日销领；另一日未齐只留自述。陶继A20写停岗和工具暂收均不变，R008明确287既有处分在300沿用，与300“先前”相合，不把D164当新处分日。林渡吊臂、林栖守柜、祝衡坐守及热岗未交继续有效。R008270改字只核其留下的受伤状态与A20相容，不签270动作全文。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "freeze_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "matches_freeze": true,
+      "mapped_source_sha256": "59bd8fda7fc1b9b5eede9feafc2a37e83dcd726efb287ffab786eace6734b47b",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 570,
+        "line_end": 598,
+        "bytes": 5141,
+        "sha256": "4aa967361d41a156443455e62ff9e5bd189169394e53460ce8ffba8fd4ffab23",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## 第291—300章后资源与时间（A20；D155—D164；已发生）",
+        "mapped_source_line_start": 570,
+        "mapped_source_line_end": 598,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "60ae85930ef737a073591d2f6c032d28fe72f7d192db9117456b4c3ec75b9634",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 847,
+          "line_end": 854,
+          "bytes": 1386,
+          "sha256": "2c6cb20197c1e16b744f00c9127baa6111a439701e81d02235bca9c039c52bca",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+          "line_start": 591,
+          "quote": "工作联D162与D164逐次登记领出，原工陪同，当日归七层原登记处；"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+          "line_start": 574,
+          "quote": "D164是新旬第七日／D157撤常班后第七日，D163为撤后第六日。"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+          "line_start": 853,
+          "quote": "290两旧顶板待装、291核装车联、292实收2、293用于第二漏棚、295首雨检；第一漏棚和其他候料不销。"
+        }
+      ],
+      "reason": "原始A20与源文件相同。D155—164、旧旬D157结束/新旬D158开始、D164许可末日闭合；每约定班83.5/60/23.5及15人各半勺=2.5壶，撤让后补行不增成人总数，不把十章计十班。两板运输/实收/安装/雨检分开，其他候料不销；螺顶托瓦及借梯支杆归还。8封箱属历史实运而非队伍库存。R008现将旧栏柱短撑与另根留梁借撑分开，A20只延续现有短撑和D145两楔，无新耗料，299原句没有反写来源；不据此复签254/270。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "freeze_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "matches_freeze": true,
+      "mapped_source_sha256": "3e97075ed59c7b5fb0fc213ef813fcdf0a38fed49f9e63816ff50ecb3662e37b",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 532,
+        "line_end": 547,
+        "bytes": 3081,
+        "sha256": "55e9d38cb101d4e42ce5a9ceb7a69cf71e47dafee5576bcd3c61a5a1424de95d",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## 第291—300章伏笔回填（A20；D164；已发生）",
+        "mapped_source_line_start": 532,
+        "mapped_source_line_end": 547,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "8c6951a6f544657c0c45d61d4cba8e98937c41ed063f6db944de657acd3dabde",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 743,
+          "line_end": 751,
+          "bytes": 1102,
+          "sha256": "4b6c45a133a2b1cbd8ec98f98a105c7a78afb678dc1837b6f2cf09d5e27646f8",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+          "line_start": 541,
+          "quote": "新增待核：296接运工自述；298确认是不同日期的另一笔，300公开答问时维持单列"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+          "line_start": 541,
+          "quote": "无对应送人者／接续结论，不推人死，不并412／414，不补成老崔妹妹或旧断口伤员。"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+          "line_start": 751,
+          "quote": "站名不是首次发现；封箱内物与到站平安未证，热流武器原理不提前"
+        }
+      ],
+      "reason": "F09只回收两笔优先家属与封箱实装离栈及对应当班军用接运链。原A20“298确认是不同日期的另一笔”必须连同“新增待核/296自述/无对应送人者”整行理解：确认自述所属另日，不是第三件原件或第三名已核；与298、300及R008逐章298一致，无须替换。第三行、两失联者、老崔妹妹及箱内物/到站安全均未兑现，未越级揭武器或双陆全史。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "freeze_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "matches_freeze": true,
+      "mapped_source_sha256": "dc621a02656b2dc25b5c9e00d15422974a6cf6e50529a7b1869fa640b03d9c7b",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 378,
+        "line_end": 395,
+        "bytes": 4158,
+        "sha256": "3cdab29e24a66a319bde0b229dc814d6b184e04cb8322e6bfd93035aaaaace3c",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## 第291—300章时间线（A20；D155—D164；已发生）",
+        "mapped_source_line_start": 378,
+        "mapped_source_line_end": 395,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "c1a5a366b0fb264097403d62c008c0cf10cc9f8900d6434e9dcfb675dfd6d3bf",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 608,
+          "line_end": 619,
+          "bytes": 966,
+          "sha256": "4087dd2ad2a4fdbdef9de3e5b30d11f5ceb6b4d7f2a3d2c258e465abac3e72d2",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+          "line_start": 389,
+          "quote": "另日未齐放行单留自述，核毕工作联当日还七层原登记处"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+          "line_start": 393,
+          "quote": "D164核验在新旬第七日许可内；原件均按当日约定送回。"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+          "line_start": 619,
+          "quote": "D162核两笔离栈、D164核当班路线并待交岗；301仍先补留守，范围外正文不改。"
+        }
+      ],
+      "reason": "原A20逐日行与源文件相同；按291—300终稿核装料、分段搬运、检修失约、限域核图、存根/工作联/附页先后顺序及逐次销领。300仍在五层，核的是对应历史当班附页，不拿现行线路套旧批。290仅提问待装，291不越权入柜；300热岗未交，301开头仍未出发且只是限定跟班。边界仅相邻状态，不签290/301全文。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "freeze_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "matches_freeze": true,
+      "mapped_source_sha256": "0370b6dcb62ab573da5fba399b5653a69bc5cd8605e085ceb1056d8ecc8111f5",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 222,
+        "line_end": 235,
+        "bytes": 1637,
+        "sha256": "453941c27c01d2e9415a08c209564ea27720f451839cc28602d0010bab0042c1",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## 第291—300章新增用语（A20；已随审读正文核实）",
+        "mapped_source_line_start": 222,
+        "mapped_source_line_end": 235,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "79b531b4a659c63dd895d158158ff2b552704217d771e170c6237db32fa6bd38",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 425,
+          "line_end": 427,
+          "bytes": 384,
+          "sha256": "876d262f826be7059b783bf01e6d8e74a6a49e4fd9885f6395a8622872e94510",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+          "line_start": 227,
+          "quote": "工作联不等于远端到站回执"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+          "line_start": 229,
+          "quote": "不是新大陆／新城名，不脱离班次永久指同一路线"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+          "line_start": 427,
+          "quote": "“两栏不写来处”仅指拟示人版本省去敏感来源，不等于销毁私存出处。"
+        }
+      ],
+      "reason": "装车联的待装/实收，转运存根/接运工作联/线路附页的保管和作用各有边界；北二为当班代码，站名旧知而非新增地名。螺顶归原检修间，不增永久工具或动力。R008敏感来源不对外不等于销毁出处，与298盖姓名栏、300只贴核验抄页并保原件相容。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "freeze_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "matches_freeze": true,
+      "mapped_source_sha256": "eb1b64e4f054d84dc4a76c54ff270bd160bba1f33c1eecc397049df01e3bce6e",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 95,
+        "line_end": 107,
+        "bytes": 1544,
+        "sha256": "0501816678f8aa25f0e29536c937c5886aa795b7af0f9ded9d801328286dc02f",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## 第291—300章术语释义补充（A20）",
+        "mapped_source_line_start": 95,
+        "mapped_source_line_end": 107,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "03f1472a64f425d4448ba62d3cea3955f1ed0acdccb2e50d688c799349e24e99",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 266,
+          "line_end": 275,
+          "bytes": 1259,
+          "sha256": "9f5c2d35422b85ee9eebca9b9479808cbdc601e38574e90e35f21f16797b82c8",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+          "line_start": 101,
+          "quote": "代码必须对领用号、日期和适用栏；墙上路线图只给空间骨架"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+          "line_start": 103,
+          "quote": "只有两日同一时段短期下降；不能用一条刻线换算未知总容量、可供天数或新水额"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+          "line_start": 275,
+          "quote": "两栏本身也暂不对外；不抄能牵出送信、取纸、认名人的来历。私存原信、原收条两面、两家既有核认与老崔证词，来源分开可核，不因整理毁掉"
+        }
+      ],
+      "reason": "原A20术语释义与源文件一致，298工作联只能认实装离栈，300须适用日期/领用号，294短读数不可推全库天数。当前R008“两栏本身也暂不对外”所指旧私人两栏，不是300新形成的两笔公开核验抄页；299仍分存迟信与私人纸，300主名遮住/原件归主/公开已核范围，未把源头销毁或把私栏全贴出。不借该判断为A18全文签字。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+      "freeze_sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+      "matches_freeze": true,
+      "mapped_source_sha256": "812fb51b53412d84e97f4108673ab5820e4a0a5422615be6c34080552f416115",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 382,
+        "line_end": 407,
+        "bytes": 6489,
+        "sha256": "7f5f726fb277e2d05ce8e96e32ef9e8172b7b4913613ff4ec5767cdd32dbe7ee",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## 第291—300章实录（A20《站名以外》；D155—D164；已发生）",
+        "mapped_source_line_start": 380,
+        "mapped_source_line_end": 405,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "c03616d68e0f0bbc40701cb7eb37bafc0e8003f474de0e56e813699bf69f28f8",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 427,
+          "line_end": 432,
+          "bytes": 520,
+          "sha256": "38714916e01be573cbe8d336a1aca0a399cd585f88cc39e3a544687e049f6064",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        },
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 472,
+          "line_end": 482,
+          "bytes": 1210,
+          "sha256": "c6992ae4a623ec70fa27955b379be838d9646bc7dbe4819cf8a6cd0f7972e503",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+          "line_start": 395,
+          "quote": "另日未齐放行单留自述，核毕工作联当日还七层原登记处"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+          "line_start": 480,
+          "quote": "只核准领两笔原件；另事只留持联人自述，不假设第三件已核；两家离栈不等于平安到站。"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+          "line_start": 482,
+          "quote": "依当班附页核北二→已知海峡武器站北侧军用接运；停岗沿旧处分；热时班未交，仍未出发。"
+        }
+      ],
+      "reason": "已重读revision2实际A20全部实录及R008290—300行。291待装、292实收、293仅第二漏棚、294限权、295旧件修复失约、296限知找附页、297逐班撤让补行、298另事只自述、299缩首探、300旧处分与未交岗均与终稿一致。256代价格已读作为修订定位，未读/未签256全文；其变化不代替A20实际字节重读。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "freeze_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "matches_freeze": true,
+      "mapped_source_sha256": "e68d0811e7b555c42099a5444cf5c5a7e16b7cfab5c9db6c297cd6466681105a",
+      "certification_scope": "仅A20原始实录、R008对应291—300说明及所列必要接口；整文件SHA只绑定载体，不表示外章/全文件事实审读通过。",
+      "a20_read": {
+        "label": "完整原始A20段",
+        "line_start": 29,
+        "line_end": 33,
+        "bytes": 635,
+        "sha256": "129feb1185ab248a4aec0a650c2b16c0944715881b7aa3471e6fa7de5d0c7b47",
+        "hash_method": "原文件指定行闭区间字节，保留实际换行",
+        "heading": "## A20实际出口（291—300／D155—D164）",
+        "mapped_source_line_start": 29,
+        "mapped_source_line_end": 33,
+        "raw_bytes_equal_to_mapped_source": true,
+        "same_content_as_prior_a20_review": true,
+        "prior_section_sha256": "81286259d2321bc92a4df2c154dc0f4a6394aa14e49458f807fda77c8423ac24",
+        "prior_hash_method": "旧报告以splitlines后LF连接该闭区间（无另加末尾LF）；本报告raw SHA保留末尾LF，不混同两口径"
+      },
+      "calibration_read": [
+        {
+          "label": "R008上下文已读；只判断对A20的影响",
+          "line_start": 40,
+          "line_end": 50,
+          "bytes": 1665,
+          "sha256": "5cb7addce9b807782c3c4fd18392acca7d16f8157f89cda3b5a0d513dcc0d78f",
+          "hash_method": "原文件指定行闭区间字节，保留实际换行"
+        }
+      ],
+      "evidence": [
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+          "line_start": 31,
+          "quote": "林渡仍须先交五层热时看板班，再勘四层；房车未取、工具未领、额外水未拨、三层主隧道未通。"
+        },
+        {
+          "path": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+          "line_start": 48,
+          "quote": "第一漏棚仍欠、车未取；热时替班未成，300未出发，不靠口号跨过301行动"
+        }
+      ],
+      "reason": "A20实际出口与源文件同文，兑现第二漏棚、管托原额供水和两笔运输证据，同时保留第一漏棚/缺水/车未取/热岗未成。R008 A20行与现稿及301入口相合；写前货梯、新梁、完整武装链不当作已发生。A16—A19行虽作为上下文看过，不纳入本次篇章事实通过。",
+      "verdict": "pass",
+      "residual_issues": [],
+      "suggested_edits": []
+    }
+  ],
+  "body_evidence": [
+    {
+      "chapter": 291,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第291章_装车还要过一道秤.md",
+      "line_start": 27,
+      "quote": "左栏已写两块旧顶板，中栏写着待装，右栏空白。"
+    },
+    {
+      "chapter": 298,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第298章_他在放行栏签过字.md",
+      "line_start": 21,
+      "quote": "接运工摇头，解开布袋。他昨日已在七层点完归还项，今日只重新领出准核的两笔。陪同原工把出件登记放在桌角，提醒核完仍回七层原登记处销领，当日还清。工作联由接运工自己摊开。"
+    },
+    {
+      "chapter": 298,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第298章_他在放行栏签过字.md",
+      "line_start": 91,
+      "quote": "接运工又说起前日在七层提过的“有人未齐”，补明那是另一个日期的接运，不属眼前两笔。没有对应送人者在场，这段仍只保留为他的自述，未合进本次两个已核家属。"
+    },
+    {
+      "chapter": 298,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第298章_他在放行栏签过字.md",
+      "line_start": 101,
+      "quote": "“我数箱，验外封。没开箱验里面是哪块铁。”"
+    },
+    {
+      "chapter": 299,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第299章_先把留守的班填上.md",
+      "line_start": 41,
+      "quote": "阿九从原有接头里拣出一件方头尚完整的，放回留守匣。五层检修护板的螺栓还要靠它拆装，不能等他们从四层回来。"
+    },
+    {
+      "chapter": 299,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第299章_先把留守的班填上.md",
+      "line_start": 73,
+      "quote": "短撑不撤，旧楔未松，今日没有从棚顶料再切一副。"
+    },
+    {
+      "chapter": 299,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第299章_先把留守的班填上.md",
+      "line_start": 97,
+      "quote": "弥娅的原迟信仍与自己留的“撤走／留下”纸分开"
+    },
+    {
+      "chapter": 299,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第299章_先把留守的班填上.md",
+      "line_start": 103,
+      "quote": "材料常班撤后的第六日过去，图上的新货路还只有一段待核线。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 45,
+      "quote": "他的留岗旁证另夹在旁边，先前外堤停岗的记录也照旧留着。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 31,
+      "quote": "两笔的出行并未拿今日线路去套过去。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 29,
+      "quote": "主名由祝衡与此前亲属核验页当面比，不向人群念全名"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 57,
+      "quote": "今日许可到期，往后再看原件须重新申请。别的家属住址不贴出去。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 65,
+      "quote": "接运工明确另一次未齐自述不属本次两笔，已另留待核，不能为了答一句质问把两回装成一回。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 69,
+      "quote": "十五行让份已逐个重问，前几日补行的人今日没有被自动续写；新四人的份仍靠当班同意凑足，旧欠不销，回补没有。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 85,
+      "quote": "丁字三回来后，分别补了工作联和附页的当日销领时辰；原送人者的自留件另注本人带回。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 87,
+      "quote": "公开抄页贴到原水账旁，没有盖住欠额。"
+    },
+    {
+      "chapter": 300,
+      "path": "异星录/06_执行计划/工作区/R008-B30/第300章_站名以外.md",
+      "line_start": 95,
+      "quote": "没有接班人，他便不能走。"
+    }
+  ],
+  "boundary_checks": [
+    {
+      "boundary": "290→291",
+      "chapter": 290,
+      "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+      "sha256": "8b5f4e13065cbe7bc5e58cae9a6a18021e4f951c15f892626682712d10194dac",
+      "read_scope": "本轮重读末30行与291开头，仅核待装、收班、具名提问和权限承接，不签290全文或追读。",
+      "evidence": [
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+          "line_start": 89,
+          "quote": "原工只认接了问题，没有给他入柜凭纸。"
+        },
+        {
+          "path": "异星录/06_执行计划/工作区/R008-B29/第290章_车上不写安置.md",
+          "line_start": 99,
+          "quote": "两块顶板待在六层，水也没有第七桶。"
+        }
+      ],
+      "reason": "290递问页不等于授入柜权；291仍在栏外只答本支路，待装不实收。",
+      "verdict": "compatible"
+    },
+    {
+      "boundary": "300→301",
+      "chapter": 301,
+      "path": "异星录/正文/第四卷_房车与封山/第301章_留下来的人先认路.md",
+      "sha256": "cd6d1f57202f3869a55fa84293d619235cf4158eac7af0e051c87d6a423e3280",
+      "read_scope": "本轮重读开头48行及相邻岗位/撑楔语句，仅核留守交班和旧处分，不签301全文或追读。",
+      "evidence": [
+        {
+          "path": "异星录/正文/第四卷_房车与封山/第301章_留下来的人先认路.md",
+          "line_start": 3,
+          "quote": "第二天，林渡没能按原定的凉时出发。"
+        },
+        {
+          "path": "异星录/正文/第四卷_房车与封山/第301章_留下来的人先认路.md",
+          "line_start": 11,
+          "quote": "外堤停岗以后，陶继一直留在棚区，工具收在原工手里。昨天公开桌上的运输记录也没改变这件事。"
+        },
+        {
+          "path": "异星录/正文/第四卷_房车与封山/第301章_留下来的人先认路.md",
+          "line_start": 33,
+          "quote": "只准他坐守看板，不准动护板、松螺栓，更不能凭这里的替班去领外堤工具。"
+        }
+      ],
+      "reason": "300热岗未交/未出发接301先认路与跟班；坐守不是恢复外堤操作，旧工具暂收、短撑两楔延续。",
+      "verdict": "compatible"
+    }
+  ],
+  "revision_transition": {
+    "previous_revision": 1,
+    "bound_revision": 2,
+    "revision1_report_written": false,
+    "revision1_card_sha256_observed": "639cecc8f5abc604e9684797c0202a8fbf56d5ed07cad0f9becbdb32fee7f158",
+    "revision2_card_sha256": "27233e2d10bd99968ffc67a65b833e819cf3d84270ceb04c3ee67d70f66642dc",
+    "other_seven_sha_unchanged_from_revision1_observation": true,
+    "declared_change": "仅逐章卡256代价栏：邵家四趟七八天，不误用260两家五六天；其余七文件字节未变。B26正文256同章抬者前一后一及出门方向另有局部改字，待独立复核。",
+    "actual_new_256_cost": {
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "line_start": 170,
+      "quote": "本班仍按60壶出、欠20壶不动；邵家四趟家什估七八天，门禁片仍留六层家人进出"
+    },
+    "limit": "仅把256新行作为冻结变更定位读到，不与256全文作事实复核，不替B26签字。未保存revision1完整逐章卡字节，不声称已密码学重建全文件唯一diff；本次接受依据是revision2实际A20/R008范围亲读、八候选实际SHA及A20原段内容核同，而非只听“仅改一处”后换SHA。"
+  },
+  "residual_issues": [],
+  "new_issues": [],
+  "blocking_issues": [],
+  "suggested_edits": [],
+  "no_hit_statement": "在本次限定A20/291—300及必要接口内未发现与终稿不一致、需要old/new替换的命中；候选/正文均未修改。伏笔待核和故事未兑现事项不是审读阻断，继续按限定保留。",
+  "preserved_unresolved_story_facts": [
+    "另日未齐放行、第三名、两旧失联者及老崔妹妹仍待核。",
+    "两笔仅证离栈与对应路线，未证到站平安或封箱内容。",
+    "缺水/未修第一漏棚/旧候料/伤病和处分不消；热岗未交，四层车未取，三层路未通。"
+  ],
+  "prior_reports_preserved": [
+    {
+      "path": "harness/maintenance/R008/B30/recovery-body-first.md",
+      "sha256": "100950a05b3383de8cb5dd90b6086e547869b0946c151bec9efa8d2e5812f0ed",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/final.json",
+      "sha256": "e6bf77861bf6f77815fa0e89e5fbd859e3b8f5a16b230ce5f1fe56be98dec24b",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/recovery-final.md",
+      "sha256": "638925198c6a8ce037516f1144c5c05190eca7e607f743a60aa96a9294a2fcfa",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/reader-review.json",
+      "sha256": "7df9d88e12f6ea1e8cf45ad02990779dd8a2f5486e5118cd1df9bd870f9dbe19",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/recovery-writeback-review.md",
+      "sha256": "d9c995d6e1d153223bdaecef26d7cef3eb68767733b4fe76620385f83440ead3",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/recovery-writeback-verification.json",
+      "sha256": "cf83423d0ae3e4b7b48acd6d46fda4311b2c5065db9767490e1424c3dc4d4300",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/recovery-writeback-suggestions.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/initial.json",
+      "sha256": "f269c8b343cb29c33e0ea9c6d4525f4693458fdba75b442b38407170c02c6a86",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/applied-edits.json",
+      "sha256": "60777f0c8d3493d6fe181bd3d1c04f7560f169e44c277ba67e0e9b8afcf42b9b",
+      "unchanged": true
+    },
+    {
+      "path": "harness/maintenance/R008/B30/final-manifest.json",
+      "sha256": "e90d9255109d44303ea97b24c0bee0bec406fb0b4b38fd9c8e31bd7a13047ce0",
+      "unchanged": true
+    }
+  ],
+  "integrity": {
+    "protected_file_count": 43,
+    "protected_files_unchanged_before_write": true,
+    "only_output": "harness/maintenance/R008/B30/writeback-freeze-review.json",
+    "candidate_edit_performed": false,
+    "manuscript_edit_performed": false,
+    "old_report_edit_performed": false,
+    "gate_or_close_run": false
+  },
+  "scope_limitation": "本pass仅供R008-main绑定revision2八候选中B30/A20责任范围；不代表其他组、256或外章全文通过，不推进400/D320导航，不发布或直接回填。工作稿路径为所读字节载体，后续正式路径映射由主笔核同办理。"
+}

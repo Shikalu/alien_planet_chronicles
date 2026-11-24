@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B39-B40",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 381,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第381章_照进去的光要有人背回来.md",
+      "sha256": "760086d0d0ef47fb06d4882e032dad351a4b7668008410092b822d4a9a3fca62"
+    },
+    {
+      "chapter": 382,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第382章_先把不发车写上去.md",
+      "sha256": "acb94c92c0806746cd0d3c7a9b1e4c11f7815b33bd5567d5d59119cdc0e16d8f"
+    },
+    {
+      "chapter": 383,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第383章_第三盏灯停在岔口.md",
+      "sha256": "3062b71b7759419b69812219acdf2e2bae7398daebd0307c9ebfd7a7bb4a671e"
+    },
+    {
+      "chapter": 384,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第384章_坏掉的套管留下来.md",
+      "sha256": "7e6a38a8587eb71006e5f4c1322d1213b27a120da2cd11ec48cc714ea59724bb"
+    },
+    {
+      "chapter": 385,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第385章_板落下来以前.md",
+      "sha256": "b8cc9ca6e1c5771adb1fd2eab59b701f900e2c299aebe46d40234b9bdfe21ee1"
+    },
+    {
+      "chapter": 386,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第386章_门里没有等他们的车.md",
+      "sha256": "ff9934c97f35e685d680acc7b0906392c9e7b109e8c00765e82e6e596f4ca7a5"
+    },
+    {
+      "chapter": 387,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第387章_黑线不能替人作证.md",
+      "sha256": "c64d732b5ffa07981a4c9523dfaa9a5014e924d6f1ec3f74cf0e1cc9d7819c89"
+    },
+    {
+      "chapter": 388,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第388章_图上的叉有先后.md",
+      "sha256": "6f0512a47138329ac8ae179808dbd03027bf6b15a0abed7a08a7ad79833f8016"
+    },
+    {
+      "chapter": 389,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第389章_把会引来人的话念一遍.md",
+      "sha256": "2bbc59af590567d34d12d1904eb125e61cef6e190b8228669fd7c0cd016c7c8d"
+    },
+    {
+      "chapter": 390,
+      "path": "异星录/06_执行计划/工作区/R009-B39/第390章_敲击通向何处.md",
+      "sha256": "d4cb707ed6124d6a2bcef606e16a721dd48d14a01e5f0734dc84896962624826"
+    }
+  ],
+  "source_digest": "64bdf01b785eff76cb9ddcf0fd9f64e5c1b140294186d273a30e0bce17e29830",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 381,
+      "quote": "交货棚的灯灭了一半。",
+      "reason": "开篇即把筹光的困难放在供光者自己也缺灯的现场，不是无条件领取装备。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 381,
+      "quote": "“一趟今凉，一趟下一个认好的凉时。”他说，“没做的不能先勾。”",
+      "reason": "林渡接受背坛分期与工债，不用日后或许完成冒充今天实做；主动让计划服从槐七体力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 381,
+      "quote": "错栏小包实际换回，报损和缺件各有原主接认，闻笛在工记上画了一个实勾。",
+      "reason": "核货有纠错结果，随后三芯实交；劳动同时推进资源与交易关系。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 381,
+      "quote": "他报第一趟已做，第二趟还留着；台岗住户只认下旬第四日半班",
+      "reason": "背坛带来真实半班而非无限跟随，读者得到合作落地的回报，仍看见肩工代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 381,
+      "quote": "“先认到能全数带回来的地方。”他说。",
+      "reason": "深探承诺从多走改成全员能返，下一步要核借期、前后灯和实际到岗者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 382,
+      "quote": "檐主把一根细木条放到孩子托面旁，木条上画着门前能留的宽度。",
+      "reason": "住处侵占日常取水通道形成眼前冲突，续檐不是一笔无代价资源。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 382,
+      "quote": "“这轮不排带载试航。”他说。",
+      "reason": "林渡在债主与居民前主动认停，不以新发现换取无依据候装期待。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 382,
+      "quote": "新约比今日这次原约又隔了两旬",
+      "reason": "旧四包实议延期，同时取消纸随人下行；指向未来约期，不把二十日写成已过。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 382,
+      "quote": "岑野把“没人认下行”也照样转给姨母",
+      "reason": "少年没有用半句求医消息安慰家人，诚实传递失望构成克制的人物回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 382,
+      "quote": "让来核水的人先看见这轮没有船等他们。",
+      "reason": "来访核水与下一凉深探并列，读者要追问工地能否面对真正的质疑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 383,
+      "quote": "裂罩的光在小车断轮旁抖了一下。",
+      "reason": "入口就让照明不稳与坏车同场，三芯到手不等于安全路已成。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 383,
+      "quote": "三粒砂停在已清出的石面，不能据板暂时不落便回去继续。",
+      "reason": "落砂后收钩退人，不拿暂时安静赌结构，选择确实压缩本班目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 383,
+      "quote": "对照墙脚检修盖背图里那种两端接口，先描可见部分。",
+      "reason": "新铁皮接口与可追溯旧物对照，外库位置和旧线有增量而未补残号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 383,
+      "quote": "刚才的光没暗，手指根已酸得伸不直。",
+      "reason": "守光人的小小体力损耗被看见，使成功退回的情绪不只属于前行主角。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 383,
+      "quote": "明天要借的工具，得先能接住它落下来的重量。",
+      "reason": "下一章问题具体到如何承接悬板重量，不是抽象的深处秘密。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 384,
+      "quote": "孔在封皮折边，没有穿透滤料本身。",
+      "reason": "仅两片新料先辨外包装与滤料状态，稀缺和能否使用落在物件上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 384,
+      "quote": "硬粒还不知道。内机先不接回去。",
+      "reason": "残屑未溯清时主动保留隔离，不因售后换套便冒认驱动已修复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 384,
+      "quote": "第一片新滤料才装到与内机分断的外接回路。",
+      "reason": "一入外路一封存，三份脏样分存，资源消耗与故障线索共同推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 384,
+      "quote": "对口短套是邵砺漏检所补。",
+      "reason": "交易之外落实售后责任，给连续维修挫折一份可见而有限的补偿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 384,
+      "quote": "等后天过了悬板，再去找能看见的来路。",
+      "reason": "未知金属声接到已约定的人具班；后天为下板日，不挪到明日短检。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 385,
+      "quote": "这次槐七的手还没碰上去。",
+      "reason": "无触碰也落砂，危险比上回更迫近；工具到场仍必须先托后退。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 385,
+      "quote": "“只下板。”他说。",
+      "reason": "报时后删掉门后清石，林渡在诱惑面前收缩目标而非超班换成果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 385,
+      "quote": "长板最后侧放在门框靠山的地面",
+      "reason": "危险物真正移到不挡人路的位置，悬板障碍解除，门侧全名可读。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 385,
+      "quote": "货工的掌心被绳纹压出红痕",
+      "reason": "紧张工序的成功保留掌红、分束背工具及绳磨损代价，危险不是纸上说说。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 385,
+      "quote": "要先问她肯不肯让出新的一班肩工。",
+      "reason": "门开后追读问题变成人愿不愿再来，资源关系继续约束发现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 386,
+      "quote": "跨过外库低槛，林渡先看见一双没有脚的旧鞋。",
+      "reason": "旧鞋带来短暂人影错觉，很快由灯照墙脚澄清，抓手不依靠虚假遇敌。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 386,
+      "quote": "没有试转，也没把未知盒接到现有点验线上。",
+      "reason": "未知发电装置当前只辨牌，不让发现自动变为能源许可。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 386,
+      "quote": "带走的只有这一套及夹在里面的薄折页",
+      "reason": "铜套与薄页有来源、断带和托运过程，带出证物推进历史线但不搜刮全库。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 386,
+      "quote": "“门里没车。台上有手柄，还没转。”",
+      "reason": "对阿九的期待给朴素实答，失望与真实带回的线索相抵，不用虚假捷径奖励角色。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 386,
+      "quote": "哪一年封哪一条路，仍要等纸真正展开。",
+      "reason": "残图与新纸形成可检验问题，下章要读具体日期与范围。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 387,
+      "quote": "最先到山口的人，没有去看新取出的旧图。",
+      "reason": "访客把宏大新发现放一边先问水，立即改变叙事焦点并施加社会压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 387,
+      "quote": "“有没量准的。请你写下来。”",
+      "reason": "林渡让异议落纸而不以黑线罐替全部历史用量背书，承担公开缺口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 387,
+      "quote": "写“未逐次量”，没有把供货人签记整块抹掉。",
+      "reason": "核查留下真实限制但不抹已知经手，合作和制度边界同时前进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 387,
+      "quote": "“我家也等着一个人回来。”",
+      "reason": "核水者由阻力成为有失联牵挂的人，求讯纸给情绪具体出口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 387,
+      "quote": "明日是三盏灯这一轮最后一班光",
+      "reason": "三芯共同到限逼出最后一次辨线选择，暴露节点争议尚待决定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 388,
+      "quote": "光到地面，已经薄得照不清轨枕。",
+      "reason": "灰光诱人却不足落脚，开篇明确看见亮边不等于有可走车路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 388,
+      "quote": "墙牌底部那行小字仍没描全，回程的光却不能再等。",
+      "reason": "主动放弃最后抄字，留缺而退；新发现也不能压过全员返程。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 388,
+      "quote": "大图的叉与薄页的叉不在同一个位置，也不在同一列日期。",
+      "reason": "两期封闭的证据由不同原纸显现，且主墙内侧可施工观察已实得。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 388,
+      "quote": "“先处理这个。水外面的叉，离得远。”",
+      "reason": "阿九的撬具玩笑被拉回近处工程，宏大历史不吞没眼前能做的一件事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 388,
+      "quote": "就不能再挤在同一个名字上。",
+      "reason": "哪次封闭应由谁负责成为明确历史与人物问题，不提前免林岑责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 389,
+      "quote": "充能架下的回水，热得不能用手去接。",
+      "reason": "热架危险与腾座占用让补能有设备、时间和别人晚换芯的代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 389,
+      "quote": "由决定操作的四人具名，不把外檐住户全写成同意者。",
+      "reason": "林渡等人承担有限播发选择，不通过纸上全体赞同消除真实反对。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 389,
+      "quote": "最多只认三次新短探，见暗仍提前退。",
+      "reason": "原三芯检充实返但寿命有限；筹光和最短双语询问都到可执行状态。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 389,
+      "quote": "“我们的水不够等他误会。”檐主说。",
+      "reason": "檐主用自己的生活代价决定措辞强度，配角语言有独立利益而不只是复述规定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 389,
+      "quote": "她将自己的旧圈页留在袋内，伸手压住被风吹起的播话纸，请他把会引来人的那段再念一次。",
+      "reason": "关系温度通过共同承担暴露风险表达，下一章要实际验证设备和后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 390,
+      "quote": "第一声金属响从台下传上来，槐七的手还在插销外面。",
+      "reason": "未转手柄先发声，开篇让读者立即分辨机械水位声与供电声的来源。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 390,
+      "quote": "改为“本图所列干线与节点”",
+      "reason": "弥娅主动收窄结论，林渡并置本地责任副记；新历史不能洗父责或统括两陆。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 390,
+      "quote": "得一百七十。旧图的修订间隔与不齐的月份仍留少量范围",
+      "reason": "154加16给约170年；后续两种锤、校频和本端播发让长期谜团得到具体局部兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 390,
+      "quote": "阿九看完只问：“下一班从哪头卸？”",
+      "reason": "远方沉默后阿九接住可做的工程，给发现以务实行动回报而非空欢喜。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 390,
+      "quote": "先让我们报出去的这个路口，真的能接住一趟回程。",
+      "reason": "结尾把下组承诺定成可返的近岸交通，同时保留外答未到这一世界问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 390,
+      "quote": "浮木停住，盒里也停住；",
+      "reason": "本篇从第三盏灯、悬板和未知声出发，依次下板、取图、核历、看见水位锤与本地试响；旧声源承诺已有可回看的局部兑现，外答仍如实留空。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 390,
+      "quote": "告知住户外面可能已经听见，也照写尚无回答。",
+      "reason": "压力由换光的劳动和借期，升级到悬板的人身危险，再到公开水耗及播发暴露；成本递增而没有用更大怪物替换问题。",
+      "verdict": "pass"
+    }
+  ]
+}

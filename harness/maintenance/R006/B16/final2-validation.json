@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "batch": "R006-B16",
+  "phase": "final_v2",
+  "reviewer": "01a1b471-4ac2-7ad1-8817-a63b6386ac3e",
+  "source_digest": "038f52b06035e00a2edf2f12463d8cf5d9aaf847c1798b3b95b78c13f5280ca7",
+  "changed_full_read": [
+    151,
+    153,
+    156,
+    158
+  ],
+  "inherited_unchanged_full_read": [
+    152,
+    154,
+    155,
+    157,
+    159,
+    160
+  ],
+  "issue_count": 38,
+  "issue_status_counts": {
+    "pending_author": 11,
+    "closed": 27
+  },
+  "newly_closed": [
+    "R006-B16-002",
+    "R006-B16-006",
+    "R006-B16-014",
+    "R006-B16-037",
+    "R006-B16-038"
+  ],
+  "pending_author_unchanged": true,
+  "checks_total": 52,
+  "checks_status_counts": {
+    "pass": 48,
+    "needs_revision": 4
+  },
+  "all_current_evidence_exact": true,
+  "word_counts": [
+    {
+      "chapter": 151,
+      "han": 2299,
+      "non_whitespace": 2722,
+      "minimum_margin": 99,
+      "pass": true
+    },
+    {
+      "chapter": 152,
+      "han": 2256,
+      "non_whitespace": 2754,
+      "minimum_margin": 56,
+      "pass": true
+    },
+    {
+      "chapter": 153,
+      "han": 2252,
+      "non_whitespace": 2703,
+      "minimum_margin": 52,
+      "pass": true
+    },
+    {
+      "chapter": 154,
+      "han": 2308,
+      "non_whitespace": 2768,
+      "minimum_margin": 108,
+      "pass": true
+    },
+    {
+      "chapter": 155,
+      "han": 2422,
+      "non_whitespace": 2859,
+      "minimum_margin": 222,
+      "pass": true
+    },
+    {
+      "chapter": 156,
+      "han": 2280,
+      "non_whitespace": 2716,
+      "minimum_margin": 80,
+      "pass": true
+    },
+    {
+      "chapter": 157,
+      "han": 2288,
+      "non_whitespace": 2741,
+      "minimum_margin": 88,
+      "pass": true
+    },
+    {
+      "chapter": 158,
+      "han": 2401,
+      "non_whitespace": 2843,
+      "minimum_margin": 201,
+      "pass": true
+    },
+    {
+      "chapter": 159,
+      "han": 2280,
+      "non_whitespace": 2744,
+      "minimum_margin": 80,
+      "pass": true
+    },
+    {
+      "chapter": 160,
+      "han": 2202,
+      "non_whitespace": 2597,
+      "minimum_margin": 2,
+      "pass": true
+    }
+  ],
+  "edit_chain": {
+    "total_operations": 49,
+    "new_operations": 7,
+    "new_operation_ordinals": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "reversible_to_initial": true,
+    "initial_source_digest": "ee726495900734c870168ba72829d04336285103641f822da48d62a4016471ca",
+    "v1_source_digest": "7062ad8293f21c7ebcb7788ea833afa1bf4b1f647d954609388cc8a1cdfcd48b",
+    "terminal_source_digest": "038f52b06035e00a2edf2f12463d8cf5d9aaf847c1798b3b95b78c13f5280ca7",
+    "note": "变更链可复现仅证明修改字节，不证明设定获得批准。"
+  },
+  "format_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "strict_reader_validation": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "history_unchanged": {
+    "harness/maintenance/R006/B16/initial-reader-notes.md": "76c2d28b9972a422a8d140c82f8d366e2f877e2a7f32635903590a7f33c0abee",
+    "harness/maintenance/R006/B16/initial.json": "f3efd409316110f5c6a420b505483b8c277f5bd97c76ad5368d681493adde7d6",
+    "harness/maintenance/R006/B16/initial.md": "44a5d5177f66e32fc9ce20971e035dad2f2779ca0ece38f0804229f9b7851a8f",
+    "harness/maintenance/R006/B16/suggested-edits.json": "4cdf172c7c75f8b7d6a89608fa6a1ab6f3e33d75457e38c887d85dbae1af4f7a",
+    "harness/maintenance/R006/B16/final-body-first-notes.md": "8aecc0de0df7cc180c4f64900ee6918812535a867388750151f21e5c82b72855",
+    "harness/maintenance/R006/B16/final.json": "4a76c9d9d90bfb8663d7f65eae43177487c97c784b9fc650ac320ad14706cdf3",
+    "harness/maintenance/R006/B16/final.md": "ecb93c62666ca6bbccacaa88b42239f9026fe52866cd2db589aff968076328c6",
+    "harness/maintenance/R006/B16/reader-review.json": "c3073dccce9c7885e91762c0481347739821af1d9a6e4d1779fed2e1e0441702",
+    "harness/maintenance/R006/B16/final-validation.json": "42a0919073ead9dbb1ecb6a85a9934d9096a40fdb4542b7ca6237faecd2c15ef"
+  },
+  "output_hashes": {
+    "harness/maintenance/R006/B16/final2.json": "00a1c40d9ee3ca7d2b87309679daba1298578f7c5331a19e5bd457a51c416cdf",
+    "harness/maintenance/R006/B16/final2.md": "b11a6809334afa986fba1fcee757d2785609eaff46fe8875ca6001c1e96cf29f",
+    "harness/maintenance/R006/B16/reader-review2.json": "7456ce55c87028945e0f34a7a2fb26e89d15e3fa74d81c393ba95945c98feec4",
+    "harness/maintenance/R006/B16/final2-body-first-notes.md": "b488ff43d1bd6abd35065c19b0725ffa37e7716ec8baf7375bcbfedcf33a38c9"
+  },
+  "writes_limited_to": "harness/maintenance/R006/B16",
+  "publication_ready": false
+}

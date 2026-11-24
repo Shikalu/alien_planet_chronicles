@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "recorded_at": "2026-11-07T09:13:28.121501+08:00",
+  "status": "independent_final_review_in_progress",
+  "source_trace": "5ab158de6b786defa21197217411a1f1",
+  "source_thread": "01a1b157-10bb-7b91-bafb-e4a08703bbec",
+  "resuming_thread": "01a1b38a-c83e-7372-95f1-36c86e256305",
+  "authorization_evidence": {
+    "path": "异星录/06_执行计划/设定决策/R004_C04-C05裁定.md",
+    "sha256": "607ff3d4148155034892f897b250817f70293306340ef4c8bb3ffa54a4b02259"
+  },
+  "validation": {
+    "path": "harness/maintenance/R004/recovery3-validation.json",
+    "sha256": "6426b37f013f5cc1b160494c33bfab93f0ead123f5897efec4dd1c2c8276b660"
+  },
+  "inherited_evidence": {
+    "path": "harness/maintenance/R004/evidence-B06-B09.json",
+    "sha256": "2bfa4b62f6a679186aafaabf85af7f12c92e171092c2c9fdf1267c394a59fb46"
+  },
+  "reviewers": {
+    "B10": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+    "writebacks": "01a1b38d-1b86-7c03-af8e-960353eaa510"
+  },
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "published": false,
+  "release_eligible": false,
+  "next_actions": [
+    "按实际终稿完成独立B10和九份WB复核；若发现真问题则修后再复核",
+    "汇编原签名证据，不由主笔自签通过",
+    "候选树verify-repair及reader/check/preservation；正式复制后再验",
+    "仅完成返修后清理匹配副本，保持400/D320、401/A31，不运行续写close"
+  ]
+}

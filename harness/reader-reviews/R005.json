@@ -1,0 +1,3943 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "id": "R005",
+  "date": "2026-11-09",
+  "writer": "R005-resume-main",
+  "reviewer": "/root/review_201_220; /root/review_221_240; /root/review_241_250",
+  "independent": true,
+  "body_first": true,
+  "compiled_by": "R005-resume-main",
+  "compilation_note": "透明汇编三位真实独立读者的五组终稿与追读证据，正式路径与独立所读工作稿SHA一致；主笔只汇编和绑定，不自签独立通过。覆盖仅101—150。",
+  "manuscripts": [
+    {
+      "chapter": 101,
+      "path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+      "sha256": "2ab421ab943669d3032cadb3e3b6992f4d04d83abd7c6a4f8e62972d7c3202cc"
+    },
+    {
+      "chapter": 102,
+      "path": "异星录/正文/第二卷_黑暗断阶/第102章_下一根立柱.md",
+      "sha256": "3497cff384a106da7e40c2f38fdc60a22f2349f933c7ef17ee4d54460039ef6b"
+    },
+    {
+      "chapter": 103,
+      "path": "异星录/正文/第二卷_黑暗断阶/第103章_活人在门外.md",
+      "sha256": "c219b1ff1f003a25bf69d0a7997b8952f482f5261319e08a8cc6440a77c0370f"
+    },
+    {
+      "chapter": 104,
+      "path": "异星录/正文/第二卷_黑暗断阶/第104章_柜里装的是什么.md",
+      "sha256": "eb8db0aeafd4be073f58244885dbfd8b4e7ccfbc54d564d2bbaf351f995fd993"
+    },
+    {
+      "chapter": 105,
+      "path": "异星录/正文/第二卷_黑暗断阶/第105章_不把名字交给门.md",
+      "sha256": "bdfd18e0b77db8f4e03ef5fe4adf2b34664f2c3cfb49b1fb9ba485fee006ff01"
+    },
+    {
+      "chapter": 106,
+      "path": "异星录/正文/第二卷_黑暗断阶/第106章_坏尺留在册边.md",
+      "sha256": "84dc51754ae578f103a3f8d86e7df5f9dc8f7f543ed92e38f86e3fd860f492ca"
+    },
+    {
+      "chapter": 107,
+      "path": "异星录/正文/第二卷_黑暗断阶/第107章_这班水.md",
+      "sha256": "3719b20fc86522f406eee66cc20fe0db86168f4ac3e3fe76630e1798410f0671"
+    },
+    {
+      "chapter": 108,
+      "path": "异星录/正文/第二卷_黑暗断阶/第108章_水要有人送.md",
+      "sha256": "38d5981e71fbf65346556a4543d1199baf8ab71f7a2eeca6650ee140885582af"
+    },
+    {
+      "chapter": 109,
+      "path": "异星录/正文/第二卷_黑暗断阶/第109章_缝后的梯脚.md",
+      "sha256": "8dd1d469f3d7f9877ec291cb0f42f3b93be203d5943fc0a882086c00e4bb321f"
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/正文/第二卷_黑暗断阶/第110章_把照护写在交班上.md",
+      "sha256": "d4ff37d207a301fdf543b952fc8051131ccd468a36842d4a223312bd27d471cd"
+    },
+    {
+      "chapter": 111,
+      "path": "异星录/正文/第二卷_黑暗断阶/第111章_不走来时的路.md",
+      "sha256": "f006f8c81e34bf68382aca2405a3163666c7e921da4865c40425883ad2581282"
+    },
+    {
+      "chapter": 112,
+      "path": "异星录/正文/第二卷_黑暗断阶/第112章_梯上没有担架宽.md",
+      "sha256": "b114fc11bce56a6f22bc64c8926a7184801a495ee0730841bddf8640fc2c6edc"
+    },
+    {
+      "chapter": 113,
+      "path": "异星录/正文/第二卷_黑暗断阶/第113章_死人按不亮的灯.md",
+      "sha256": "d698f7e7c505adc72c65c4f516f9dea59f82d19e05cbd744fbeb5aa26ace6ab2"
+    },
+    {
+      "chapter": 114,
+      "path": "异星录/正文/第二卷_黑暗断阶/第114章_把拒绝带回来.md",
+      "sha256": "dfc6887b2b7e10b68a74682cd811428de349886f4f3ff862ac04c976ecd6e9fb"
+    },
+    {
+      "chapter": 115,
+      "path": "异星录/正文/第二卷_黑暗断阶/第115章_空担架先下.md",
+      "sha256": "99b5c85ca6d2c15f0f4680a437d7a75a439595b2c4297ee25c129e8a5e0b1e43"
+    },
+    {
+      "chapter": 116,
+      "path": "异星录/正文/第二卷_黑暗断阶/第116章_只换裂开的那块.md",
+      "sha256": "543f6b2030feab803418c740b4fabe806d7f140406c9612039a0b5a78f3d7167"
+    },
+    {
+      "chapter": 117,
+      "path": "异星录/正文/第二卷_黑暗断阶/第117章_谁留在最后一班.md",
+      "sha256": "c7bf21f4d6447d547522783b42d49e7504abdf4729073e56ec505d225b60d8d6"
+    },
+    {
+      "chapter": 118,
+      "path": "异星录/正文/第二卷_黑暗断阶/第118章_先接水还是先接人.md",
+      "sha256": "7518a6077da6ebedc94185b96bc3f55f42944ce9a29d33119f9b80b743bc52e0"
+    },
+    {
+      "chapter": 119,
+      "path": "异星录/正文/第二卷_黑暗断阶/第119章_盐湾不是口令.md",
+      "sha256": "d6e4287bcd7eb6dd52888d7767a4760fdb054cb9e9846a6112abac9f7356b76f"
+    },
+    {
+      "chapter": 120,
+      "path": "异星录/正文/第二卷_黑暗断阶/第120章_下一处水从哪里来.md",
+      "sha256": "09bfcec4a103b25a6c97cf750e09a50a3a11cbc6e7156f0eefdb85b081f2dc97"
+    },
+    {
+      "chapter": 121,
+      "path": "异星录/正文/第二卷_黑暗断阶/第121章_工班不够两处用.md",
+      "sha256": "8c3a5b59b9efb779a7a78358dc9efe980ef54c6865f1409774ca0588df9381d9"
+    },
+    {
+      "chapter": 122,
+      "path": "异星录/正文/第二卷_黑暗断阶/第122章_滤槽下面.md",
+      "sha256": "afd39152bfc2a7691a12c6cb6b7cdfcbe9abcacc8fab50f63f10814869a16526"
+    },
+    {
+      "chapter": 123,
+      "path": "异星录/正文/第二卷_黑暗断阶/第123章_一班能领多少.md",
+      "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+    },
+    {
+      "chapter": 124,
+      "path": "异星录/正文/第二卷_黑暗断阶/第124章_死者领走的滤件.md",
+      "sha256": "a8658ff0349749fef747293aa868415e794461821bb0523da21016d1ab74fbca"
+    },
+    {
+      "chapter": 125,
+      "path": "异星录/正文/第二卷_黑暗断阶/第125章_旧门牌没有注销.md",
+      "sha256": "7c9ab15c34f3aa1810bb5fa3d09885f34bf83f011188f66819be7027b3b84af9"
+    },
+    {
+      "chapter": 126,
+      "path": "异星录/正文/第二卷_黑暗断阶/第126章_住进去之前.md",
+      "sha256": "e76a8b81e8b787d9ece86c6ee9aa7fa3b106da055eb7667b8ff0a5bb9c7e4d76"
+    },
+    {
+      "chapter": 127,
+      "path": "异星录/正文/第二卷_黑暗断阶/第127章_多出来的那一栏.md",
+      "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112"
+    },
+    {
+      "chapter": 128,
+      "path": "异星录/正文/第二卷_黑暗断阶/第128章_药柜不是赠品.md",
+      "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+    },
+    {
+      "chapter": 129,
+      "path": "异星录/正文/第二卷_黑暗断阶/第129章_槐七只指到转角.md",
+      "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+    },
+    {
+      "chapter": 130,
+      "path": "异星录/正文/第二卷_黑暗断阶/第130章_留在棚里的人.md",
+      "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+    },
+    {
+      "chapter": 131,
+      "path": "异星录/正文/第二卷_黑暗断阶/第131章_向下的一段新路.md",
+      "sha256": "4c6423eaf9e3d74f321e1fd90ca4ec83651b5debb7e127823f4b1620cdba97fb"
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/正文/第二卷_黑暗断阶/第132章_谁在里头换班.md",
+      "sha256": "c17483949310640a5b7526bf4c9e2bdc8b64eef63df4d78f10aa9b0cbe9c6afa"
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/正文/第二卷_黑暗断阶/第133章_孔里先过空气.md",
+      "sha256": "a48b80b8fc5f1bf87fe2aeed842bf9a329e75532e3a666e5a7c9d1bd0cec175a"
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/正文/第二卷_黑暗断阶/第134章_面具后面的名字.md",
+      "sha256": "96f5e7e727bfb788ba67257028e42cc8ed9a3d6959cc1c12430d40476f259a54"
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/正文/第二卷_黑暗断阶/第135章_先听见咳嗽.md",
+      "sha256": "ca27050b24dc8c2fb6de635f933da62ca8b8faf2c7de1700bff57cd5ed84a8e5"
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/正文/第二卷_黑暗断阶/第136章_送水的人要喝水.md",
+      "sha256": "cb5d257ce45eeb70d85ba24be42d2c93052531473a24b578ed04a566923f7b58"
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/正文/第二卷_黑暗断阶/第137章_看见一只手.md",
+      "sha256": "f23fd98487e1b6fbfae402c5654de88a963068d9b946c9850a02a99df6cee496"
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/正文/第二卷_黑暗断阶/第138章_两只匣子.md",
+      "sha256": "084e696b1697ad08a296b465559e55c609d34ad6af0842f1942e04304bf509fb"
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/正文/第二卷_黑暗断阶/第139章_让他们自己报.md",
+      "sha256": "675e40eb045845e30f238160b45efb36e9de2db2f75a7069be8011d840c3341a"
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/正文/第二卷_黑暗断阶/第140章_门还没有开.md",
+      "sha256": "3789cd810bb753e095e014de22f5b2fcc6b4bbbf294b631429e47a0e3e3c3c0a"
+    },
+    {
+      "chapter": 141,
+      "path": "异星录/正文/第二卷_黑暗断阶/第141章_先问活下来的人.md",
+      "sha256": "1e05a551eca225c124144da7dd4adbcb259413d29f09ff759b9a49db59af5242"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/正文/第二卷_黑暗断阶/第142章_谁把门又封上.md",
+      "sha256": "d175e1bcb3cdb9e1c7176aea71be635ec4bcbc06a1c9b5c444d1efa9ae4db00e"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/正文/第二卷_黑暗断阶/第143章_工具也有主人.md",
+      "sha256": "304a04b92aee76afa964b34446c5dc92f391814ed6ea844d918c707a8f66358e"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/正文/第二卷_黑暗断阶/第144章_先卸哪边的重量.md",
+      "sha256": "cc2293f0085eb9385a2cacec68f2ba8c9e6de10d23180563a25d99be07f30c25"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/正文/第二卷_黑暗断阶/第145章_名册和呼吸.md",
+      "sha256": "b0132d55b258e5b98496a73becda8d7445c89a5782c5317983c2e8e7b9f30408"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/正文/第二卷_黑暗断阶/第146章_只够一个人过.md",
+      "sha256": "5c5da8287acf89e90556ed2f2cefabdfafe3a94556f59e69ba889cf581fb0797"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/正文/第二卷_黑暗断阶/第147章_空位不是多余的.md",
+      "sha256": "19fbf6dafce1b2c983c26dd5e92907049fda705ce56b785d1340e02e263e7c55"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/正文/第二卷_黑暗断阶/第148章_没拿到的那一匣.md",
+      "sha256": "571d2651514b1834dcde248dfefa923c2fa4f3137f3a2ba729f2a59afd247651"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/正文/第二卷_黑暗断阶/第149章_同一天两种账.md",
+      "sha256": "a82e10f6ccdce3cdf84de22adb7185c3464597c804d8d458c9712d443ce6377e"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/正文/第二卷_黑暗断阶/第150章_死者的工时.md",
+      "sha256": "1882e4d9c339c9a7e166d06664d83247497ace76201aa49450f51d34cbbf1c37"
+    }
+  ],
+  "source_digest": "7add47ce7a6c23f38ac14c7b7cbabb8751316cb0e23ceaaa890e33325b037462",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 101,
+      "quote": "广播换了词。",
+      "reason": "逐号清场替代泛撤离，第一页给可感知升级。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 101,
+      "quote": "“拆了。”他说，“渗血的先上。”",
+      "reason": "主角用掉稀缺药而保伤员。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 101,
+      "quote": "它开始念编号。",
+      "reason": "广播同序把分组册变成需要追查的证据。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 101,
+      "quote": "“数是门上认的，格子留给你自己。想好了再来填。”",
+      "reason": "自填空格给予被编号孩子一次具体自主权。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 101,
+      "quote": "“灯在找我们站的地方。”他说，“下一根立柱，走背光那面。”",
+      "reason": "背光短移是世界风险指向下一行动。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 102,
+      "quote": "要抬的三副担架还留在木箱区。",
+      "reason": "三副架和四跨脆梁构成即刻难题。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 102,
+      "quote": "“绳不撤。”",
+      "reason": "保绳线是让后来人仍有参照的主动选择。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 102,
+      "quote": "布条底下渗出血来。",
+      "reason": "掌伤再开和固定线占用显出迁移成本。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 102,
+      "quote": "多数人顺着立柱滑坐下去",
+      "reason": "居民倒坐互相扶正是逃过喷流后的身体回报。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 102,
+      "quote": "“先找能开的口。”他说，“别撬。”",
+      "reason": "蓝壶柜把下一章理由聚在可开的检修口。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 103,
+      "quote": "柜体侧面那道检修盖板，阿九拆到第二枚螺栓就停了手。",
+      "reason": "拆板即遇内门识读，行动没有因找柜自动成功。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 103,
+      "quote": "“槽型不对。”",
+      "reason": "钥匙不合即收手，保物件不强开。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 103,
+      "quote": "矮门始终没开。",
+      "reason": "念册赢得交流，仍未拿到通行和水。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 103,
+      "quote": "“记这么细。”",
+      "reason": "替班承认册的细致，情绪回报由声音可见。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 103,
+      "quote": "“当班的在上头。”",
+      "reason": "请当班而非再刷片，下一步具体。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 104,
+      "quote": "槐七顺着柜顶的竖管上去，去了小半盏灯的工夫。",
+      "reason": "槐七短候请回当班，柜影里病幼还渴；等待并不自动打开库存，第一页压力可感。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 104,
+      "quote": "“你给我们续水，我们给你修。",
+      "reason": "提出维修交换而非无限索水。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 104,
+      "quote": "杜姨只接过小锡壶，没有碰待核的瓮。",
+      "reason": "破封瓮隔离并减少实际可分水，个人锡壶只救急；修后来源与成人让份代价同时显出。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 104,
+      "quote": "他想留着这一口在嘴里，多含一会儿。",
+      "reason": "含水不肯咽是缺水后极小且具体的情绪回报。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 104,
+      "quote": "“掂量多久？”",
+      "reason": "丙七迟疑使下一班能否续供成为具体问题。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 105,
+      "quote": "丙七上了检修平台，谈判没有断。",
+      "reason": "谈判由上廊继续，空间与风险承接。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 105,
+      "quote": "“整条线我修不了，也不应你。”",
+      "reason": "主角拒整线空头应承。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 105,
+      "quote": "留下半枚淡红的印。",
+      "reason": "真名血印是不可轻撤的可见新责任。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 105,
+      "quote": "“记我头上。”",
+      "reason": "阿九旧账与林渡认账以短对话落下温度。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 105,
+      "quote": "“下一次喷流之前，必须修好。”",
+      "reason": "两艘喷流使抢修必须立即组织。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 106,
+      "quote": "工班下来三个人，加丙七四个。",
+      "reason": "三工人加丙七四人到场与枚举对上，抢修有有限人力；主管先由绳料临撑。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 106,
+      "quote": "“班给你。”",
+      "reason": "把父亲纳入夜班，同时保留旧责。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 106,
+      "quote": "水流过的时候，整条线只轻轻抖了一下。",
+      "reason": "通水是技术目标的实际变化，非单靠宣告。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 106,
+      "quote": "“旁的照账走。”",
+      "reason": "父子只交班不赦免，压住温情成本。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 106,
+      "quote": "下一班水要照他们方才说定的领，料钱和守夜工时也得一笔一笔认。",
+      "reason": "通水不等饮水，下一班尚待核账兑现。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 107,
+      "quote": "先不碰水，把工班簿摊在小台上",
+      "reason": "先对账再碰水延续上一章未决。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 107,
+      "quote": "“我们排。”",
+      "reason": "主角承担续工组织，又在末分人找路。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 107,
+      "quote": "修支架换来的，是“连续领用”的资格",
+      "reason": "一次工时转为连续领班资格，仍受库存/清场制约。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 107,
+      "quote": "杜姨特意多倒了半口。",
+      "reason": "陶碗转向完整沿和半口水回报具体。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 107,
+      "quote": "“排完班的人，分一半跟我走——去找一条不靠登记的路。”",
+      "reason": "清场使修水不能替代寻出路，下一行动明确。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 108,
+      "quote": "排好的班还没转完第一轮，漏洞就露出来了。",
+      "reason": "当场喝的制度立刻暴露病幼排除。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 108,
+      "quote": "搭手算工时，工时换你们工班认这条送水的路",
+      "reason": "主角用卡箍辅助工谈外送路线。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 108,
+      "quote": "第一趟平安。",
+      "reason": "一趟成功具体兑现饮水服务。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 108,
+      "quote": "“人回去，比罐子回来要紧。”",
+      "reason": "裴七先看人回去，使病患不是被动道具。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 108,
+      "quote": "下一趟的路，得重新报给丙七。",
+      "reason": "第三趟可见投影改变下一趟路线需求。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 109,
+      "quote": "送水才改了线。",
+      "reason": "送水改线把新缝接进前章因果。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 109,
+      "quote": "“开。”林渡说。",
+      "reason": "主角决定开有限护板承担接头代价。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 109,
+      "quote": "那枚接头废了。",
+      "reason": "接头报废为新路付出工具成本。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 109,
+      "quote": "找到一条下去的路，和找到一条全队能走的路",
+      "reason": "找到路并不等全队可过，回报保留阻碍。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 109,
+      "quote": "不能等广播提醒才走",
+      "reason": "全段试载后立即备交班、看实际灯序征兆，未知期限没有被写成系统宽限；下一章为何转人明确。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 110,
+      "quote": "柜口要有人接水，廊口要有人接伤员。",
+      "reason": "接水与接伤员两头都要留人，立刻有组织压力。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 110,
+      "quote": "“我们不造假牌。”",
+      "reason": "拒造假工牌，准备核实际规则。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 110,
+      "quote": "天亮透之前，最后一批人进了廊。",
+      "reason": "天亮前迁入遮蔽廊；健康前后抬手用同一已试好架四趟平托，伤者不自行撑爬，转入落点的变化成立。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 110,
+      "quote": "“先别念。等我能站到门前自己念了，你们再念。”",
+      "reason": "男孩暂不公开名被尊重，接101空格的承诺。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 110,
+      "quote": "“回去睡。”他说，“明天的活，比这块牌子多。”",
+      "reason": "牌子新规则与下一次查路相连，末句可追读。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 110,
+      "quote": "写完他把笔还给林栖，又低声说：“先别念。等我能站到门前自己念了，你们再念。”",
+      "reason": "101空格在110由男孩自填且公开权受尊重；104救急锡壶与成人让份后，107核已处理来水兑现正式一班，物质/人物两线承诺有代价地回收。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 107,
+      "quote": "“清场轮到这里，我这个检修位也要撤。水线封存，账封箱。你们的班，就白排了。”",
+      "reason": "喷流保命→门不认→有限抢修换水→清场取消续班→检修廊工牌限制；每次阶段兑现仍留下更大具体阻碍，未提前解谜。",
+      "verdict": "pass",
+      "action": "保留；本项以实际终稿字节复核通过，不据此签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 111,
+      "quote": "廊里的睡轮换到第二班，林渡就醒了。",
+      "reason": "值守也不能睡，七层压力持续。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 111,
+      "quote": "“走检修段。货井留给货。”",
+      "reason": "主角舍快路、选可核分段路线。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 111,
+      "quote": "中段第三块板吃重发闷，得换。",
+      "reason": "闷板与最短灯隙把下路变成可操作难题。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 111,
+      "quote": "“路划在册子上，”他说，“别划在地上。”",
+      "reason": "槐七抹地面线、留册上路是有用的人格动作。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 111,
+      "quote": "“三十息，取最短”",
+      "reason": "三十息给下一章量宽/搬运的紧迫问题。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 112,
+      "quote": "挪人之前，先量梯。",
+      "reason": "量梯而非直接挪人，马上遇净宽。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 112,
+      "quote": "“孩子的垫子不动。托板从工班借。”",
+      "reason": "保睡板改借工班板，主角承担借债而不让孩子承担。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 112,
+      "quote": "四块板在梯口排开",
+      "reason": "四板一毡经真实往返送到，逐人量身可全身实托、留病者原垫后先试板；借物增加真实赔债。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 112,
+      "quote": "“拆一块，我们也能睡。挤一挤，暖和。”",
+      "reason": "孩子愿意让板、主角保住它，回报具体。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 112,
+      "quote": "先空板三趟",
+      "reason": "空板三趟只查卡碰，下一步还要称真实需托者和配重，不能直接上人；115兑现试验承诺。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 113,
+      "quote": "祝衡出门前，先在廊口把两只手重新缠了一遍布。",
+      "reason": "布条伤手让侦门的每个动作有成本。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 113,
+      "quote": "他没有走官署那条捷径。",
+      "reason": "只放一人的门前转身，选择明确。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 113,
+      "quote": "本人试门两次，无灯、无语音；",
+      "reason": "无灯记录与腕损/死亡登记分记，产生可查信息。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 113,
+      "quote": "从前这段躲巡查的路，他走的是另一头。",
+      "reason": "前巡查成躲灯者的身份落差有情绪重量。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 113,
+      "quote": "窗里看见联杆，老式工具口还在。",
+      "reason": "祝衡带回联杆位置与未验限制，下一章由懂行者有限查门，未知仍具体可追。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 114,
+      "quote": "祝衡的纸摊在梯口的箱顶上",
+      "reason": "带回的纸被逐项核，不是当秘密百科。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 114,
+      "quote": "不进常规路线；是否还在，走前重查。",
+      "reason": "出口仅应急且走前重查，限定承诺。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 114,
+      "quote": "护盖已动、铅印已碎。",
+      "reason": "铅印破碎是查门付出的可见政治成本。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 114,
+      "quote": "纸进了册，祝衡这一趟才算走完。",
+      "reason": "祝衡纸成为公共册证据，回报他的留队。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 114,
+      "quote": "“名册上有我的班，没有我的名。",
+      "reason": "替班有班无名的疑问让名册威胁落在具体人。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 115,
+      "quote": "三趟空托板走稳，试重开始。",
+      "reason": "从三趟空板转实际配重，需借同一秤、付借损并占用人手；开局承接明确。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 115,
+      "quote": "“换板。这一段不过人了，修好了再说。”",
+      "reason": "裂声后主动封路，付出失去凉窗而非硬冲。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 115,
+      "quote": "“咔。”",
+      "reason": "裂板与断股是真变化，伤者没有去试命。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 115,
+      "quote": "那孩子听完，郑重其事地朝沙罐点了下头",
+      "reason": "孩子向沙罐点头，动作小但回报真。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 115,
+      "quote": "“先修板，”他说，“再谈过人。",
+      "reason": "换板材料与所剩时间同时压向下一章。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 116,
+      "quote": "隔棚在井道往里第三个拐角",
+      "reason": "找料必须走窄台而非素材凭空出现。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 116,
+      "quote": "“那根是承重梁。”",
+      "reason": "拒承重梁、只拆隔板，物理代价具体。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 116,
+      "quote": "换板一段，余料一块，隔棚减遮蔽一处。",
+      "reason": "修1留1且失遮蔽是资源闭环。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 116,
+      "quote": "“一截也不行。”",
+      "reason": "一句不能拆承重梁让群体规矩不靠战斗成立。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 116,
+      "quote": "把蓝点细支的位置报给他，先核接口归谁管",
+      "reason": "四板逐板同载全线复试、换板与借还结清后，蓝点管把下一目标指向六层接口当班者。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 117,
+      "quote": "复试过后，岑野先带接手的健康居民到六层落点",
+      "reason": "复试耗尽凉窗，重测夜轮再接首8孩与两需托；新落点扩大睡位也摊薄人手。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 117,
+      "quote": "“那就两本交班。”",
+      "reason": "主角接受两账与杜姨守岗，但保半夜换班。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 117,
+      "quote": "成人饮水减额，先保孩子和发热的。",
+      "reason": "让份逐个问本人，三人为见证而非代所有人减水；两地水账与短缺同时成立。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 117,
+      "quote": "梯口的岗给我。我认人的眼睛比你毒",
+      "reason": "杜姨认人守梯的岗位选择有温度。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 117,
+      "quote": "明天一早，我去跟看表的人谈。",
+      "reason": "次晨找看表人谈孩子行，下一行动明确。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 118,
+      "quote": "六层配水点的门，是林渡敲开的。",
+      "reason": "门开即谈有见证的水，短承接。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 118,
+      "quote": "“接人的手不动。",
+      "reason": "接人岗位不抽，水接力另排，组织成长具体。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 118,
+      "quote": "接满两只桶，丁字三却把龙头拧上了。",
+      "reason": "两桶兑现后新维修条件出现，保持阶段回报。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 118,
+      "quote": "“这边少了半口！”",
+      "reason": "裴七不能扛桶但能发现少半口，保其能动性。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 118,
+      "quote": "弯头一处，浸油待卸。",
+      "reason": "浸油一夜与末批明晨并行，下一章有人与水压力。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 119,
+      "quote": "档片被她从怀里掏出三次，又放回去三次。",
+      "reason": "开篇那天下午显出回118同日午后，档片三取三放都被伤腿/传纸/孩子哭声打断，当前优先级有身体成本。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 119,
+      "quote": "她把话咽了回去。",
+      "reason": "拒由乡音认族属，具体停住一句话。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 119,
+      "quote": "第三回，整只手放了上来",
+      "reason": "孩子自愿递手，人与关系改变可感知。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 119,
+      "quote": "“是我外婆的。”",
+      "reason": "外婆规矩只背书自家经验，情感有边界。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 119,
+      "quote": "明晨我先看他们攥着什么。",
+      "reason": "抱壶孩子睡稳兑现沟通回报；末接明晨新来者照护，杜姨承诺先看而不预画同样壶，具体接120攥袖的选择。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 120,
+      "quote": "末批是晌午前续下来的。",
+      "reason": "末批到来兑现先保接手的承诺。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 120,
+      "quote": "“轮值得先跟五层谈拢了再排。”",
+      "reason": "主角先谈范围人数水额再排轮值，保代价。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 120,
+      "quote": "合成四十八条阶段登记，不是眼前全队的总人口。",
+      "reason": "末批D4抵达且林栖最后下行交账；48只合相同范围阶段条目，三留守仍单列，不升全队总人口。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 120,
+      "quote": "孩子肯跟她走了，她才低头核下一行。",
+      "reason": "杜姨等孩子自己递手，回收119交班。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 120,
+      "quote": "下一处水在五层，路在纸上画着，账在册子里立着，都等天亮。",
+      "reason": "五层谈水把长期工程带入下一十章。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 120,
+      "quote": "末批是晌午前续下来的。",
+      "reason": "舍快货井→借板→真称配重发现裂板→换板逐板复试→D4末批落地，慢路承诺付出耗材/时间后兑现；119交班方法在120由杜姨先看攥袖再等回应回收。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 120,
+      "quote": "长活就得有长活的说法——谁做、做多少、歇不歇，都得白纸黑字。",
+      "reason": "路线安全上升为两地照护与连续饮水，再到长期轮值；主角不再以长工担保互信，而先谈范围、休息和停工水断条件，升级与组织成长一致。",
+      "verdict": "pass",
+      "action": "保留；以实际终稿逐章及本篇兑现/升级复核，不签本组外章节。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 121,
+      "quote": "五层外缘配水站的门，比六层那扇高，也比它旧。林渡带着见证账来，丁字三昨日又描粗了一格下降的水压；若这一趟谈不下抢修，六层借住的人今天还得再减水。",
+      "reason": "供水继续下降迫使今天谈抢修，开门前已见后果。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 121,
+      "quote": "“一笔。”林渡说，“滤槽这一笔。修好了，水通了，我们再议下一笔。我不替你们担保整条线——担保得有人、有料、有工夫，三样我都得先数一数再应。应了做不到，比不应还坏。”",
+      "reason": "只接能数清的一笔，对组织承诺承担责任。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 121,
+      "quote": "“支路一通，六层的水按班下，落点的份额照你们的人头重排。”戊字一说到这里，笔尖在纸上点了两下，“还有一样——五层外缘有口旧棚，原先堆滤料的，早不用了。给你们安人。棚旧，漏，修棚算你们自己的活，不算我们的账。丑话也在前头：棚给你们，是给你们住的，不是给你们占的。往后工班要用，得还。”",
+      "reason": "争得轮值出料/指导与借棚，有返还和自修条件。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 121,
+      "quote": "戊字一低头看名字，看完，手指离开纸面：“账是实的。”",
+      "reason": "实账获得当班者承认，外来者暂有谈判位置。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 121,
+      "quote": "“先保水，”他说，“再查别的。”\n",
+      "reason": "主槽支路仍等人，下一章要把维修兑现。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 122,
+      "quote": "次日，轮值的第一班从拆板开始。",
+      "reason": "首班直接拆板，修棚/救水争同一材料。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 122,
+      "quote": "“滤槽通了水，五层的棚才有得住。”林渡说，“板子先用两块，留两块修棚。换下来的旧枕已经糟了，不往顶上补。还缺哪处，等看了棚再排，不能拿腐木顶孩子头上。”",
+      "reason": "优先救水而少修棚料，选择有可见代价。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 122,
+      "quote": "支路末端的丁字三处传话上来：出水了，比昨日亮。",
+      "reason": "歪槽修正后末端有可见出水改善，未冒认证可饮。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 122,
+      "quote": "传话的是短接力的信使，话传到作业面的时候，已经被转了三道手，可“比昨日亮”四个字一点没走样。正楔着最后一根枕的居民直起腰，抹了把脸上的灰，笑了——四十天的堵，今天通了水，水还是亮的。",
+      "reason": "工班有限胜利通过人当场笑和末端回信兑现。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 122,
+      "quote": "小流养着。主槽的问题查清之前，那道粉笔线不能越。\n",
+      "reason": "主槽未核，小流线须持续守，追读有具体工程限制。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 123,
+      "quote": "支路通水的第二日，交水处排班。",
+      "reason": "通水不等够分，立刻排班和减份。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 123,
+      "quote": "减份的顺序，林渡定的规矩是从他自己减起。他把册子翻到自己那一行，提笔把份额划掉一格。",
+      "reason": "领队先减，促工班共同承担而非只压受助者。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 123,
+      "quote": "“这不是第一次。”林渡说，“这个号在领料，一直有人在领。领的还都是耗材——滤件、垫毡、麻绳，都是养水的活计用的。”",
+      "reason": "供水账转出连续匿名领料，调查目标变化。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 123,
+      "quote": "“我也在里头。”他说，“从今天起，我跟你们喝一个管的水。”",
+      "reason": "工班也减份，关系有具体共同损失。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 123,
+      "quote": "“旧柜在前头。”记账员说，“跟我来。”",
+      "reason": "钥匙已交、旧柜可查，下一章进入明确地点取证。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 124,
+      "quote": "配水旧柜在支路末端的一间旧屋里，锁是老式的，钥匙插进去要顶两下才开。",
+      "reason": "承上查柜，不用背景拖延现有异常。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 124,
+      "quote": "“这条线先不声张。”林渡说，“偷不偷，先不问。要问的是：封存名册上的人，要是还活着，在哪儿领的料，料送到了哪儿，谁来签收。”",
+      "reason": "选择只抄原件保柜、保护未知收料人。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 124,
+      "quote": "“有回执。”他把回执抽出来，“这批滤件，签收了。”",
+      "reason": "出现签收和门牌，匿名领料有可追去向。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 124,
+      "quote": "这句话让屋里又静了一层。林栖的炭笔悬在纸上，落下去的却只有一行：养的谁的水，账上无名。",
+      "reason": "劳动者可能受惠而无名的代价击中人物，仍待核。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 124,
+      "quote": "走到门边，记账员又停了一步，问了一句，声音很轻：“要是墙里头真有人——这十年的料，算谁欠谁的？”",
+      "reason": "账后责任成为可追问的人与制度问题。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 125,
+      "quote": "去五层外围的小队，四个人：林渡、祝衡、槐七、岑野。",
+      "reason": "四人探线承接门牌回执，水从已领扣。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 125,
+      "quote": "“不敲。”槐七拦在前头，“门禁封着的街，我们四个人站在一户人家门口——巡查来了，跑不掉；里头的人看见了，以为我们是清场的。门后若有人，没准也在听我们的脚步。”",
+      "reason": "保护门后未知人并先安置自身群体。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 125,
+      "quote": "“牌面有人擦过，钉也像换过。”祝衡说，“至少说明近期有人照应这处门牌。是住户、递料人还是替人看门的，先不认。”",
+      "reason": "确认近期人迹但不抢认住户身份。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 125,
+      "quote": "“门牌不会跑。”林渡说，“可我们的人还挤在六层落点，孩子的睡位是借的。线等得起，人等不起。”",
+      "reason": "信息诱惑让位孩子睡位，人物优先级可信。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 125,
+      "quote": "“先安人，”他说，“再敲门。”\n",
+      "reason": "门牌未解但下一步搬棚明确，选择造成延后。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 126,
+      "quote": "次日去安置，五层外缘的旧棚，比远看的大，也比远看的破。",
+      "reason": "承上择安置，破棚漏点立即变阻碍。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 126,
+      "quote": "修棚的活排进轮值。林渡把人分了三摊：修棚的一摊，搬家的护送一摊，六层落点收尾一摊——三摊不能断，哪一摊都要人。排班的时候他数了两遍人头，数完在册页边上写了一行：三摊活，两处水，人只一批——轮值的班，谁歇谁顶，不许空。",
+      "reason": "有限人手分修棚/护送/收尾并明确交接。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 126,
+      "quote": "两路错开，谁也没等谁。最后一桶水倒入棚口的缸，末批托板进门，杜姨在支账上把两笔都划了，划完抬头看了一眼棚顶——三处漏点，两处已经糊上了灰泥，最大那处的滴水声还在，慢了，稀了。",
+      "reason": "迁位实际完成，4板/七批/七层支账不同范围闭合。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 126,
+      "quote": "“比巡查所强。”他最后说，“巡查所有门，有锁，有册子。这棚没有。可巡查所里的人各想各的，这棚里的人想的是同一口水。”",
+      "reason": "借棚并不舒适，群体仍有主动共同生活的回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 126,
+      "quote": "棚外，五层外缘的街面安安静静。那块没人注销的门牌在两条街外，夜色里看不见——可林渡知道它在哪儿，门楣干净。\n",
+      "reason": "安置后回到前线索，目标延迟有新行动基础。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 127,
+      "quote": "“系统表上，孩子的号挂在临时安置项下，状态是‘临时’。”工班员说，“戊字一让我把这一栏抄给你们，你们的册上有什么，就照什么对。”",
+      "reason": "空栏/临时身份直接威胁实际分水，不只是册子术语。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 127,
+      "quote": "“那就好。”林栖把这一页推过去，“可我要在册子上添一栏。”",
+      "reason": "林栖为实人在场立栏，只分内账不伪系统授权。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 127,
+      "quote": "工班员在对面看着，看了很久，忽然把自己的抄件翻到孩子那一栏，提笔在那栏的页眉上添了四个字：实人十七。",
+      "reason": "十七儿童当面应到，改变双方抄件。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 127,
+      "quote": "“这行是我。”他说。",
+      "reason": "孩子主动认行是现场情绪回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 127,
+      "quote": "林栖收好公共册，将两名孩子的对应行夹在今日页内。工班员带走抄件，明日交戊字一核；本队仍照这页点名发水，不等于对方已经盖章。她借灯最后看清原片号、册内别号和衔接旧行的日期，便停下摇柄。光暗后，她将灯留在账桌上，没有带回铺位。",
+      "reason": "站方是否认可待次日，棚内先按实人不断水。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 128,
+      "quote": "翌日热时，林渡和林栖去了五层工班的小药柜。柜子挂在配水站里间的墙上，柜门上挂着一块小木牌：用时登记，用后归还。",
+      "reason": "药柜只有2包而需求5包，短缺当场可见。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 128,
+      "quote": "林渡接话：“他捆好的料一件一件验结，过磅和搬码仍归你们成人。坏的是绳结，就当场拆开重捆；料本来就坏，不算他赔。中途伤手停工，已经验过的件数留下，不拿后头没做的抹掉。”",
+      "reason": "林渡以可验劳动为小石争取入工、限定赔责和伤手停工。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 128,
+      "quote": "“一个人做两日，会捆料、认绳结就行。”戊字一说，“先去一日，验过再续第二日；每日做完记已做，没做的记待做。药柜能给多少，罗头儿得回条，我们不能先替他许齐。”她看向小石：“你捆桶的手法，我上回瞧见过。”",
+      "reason": "工日/首条/验工/未交药分明，借绳另有实物到手。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 128,
+      "quote": "“册上没有名字的孩子，昨夜对着你们抄件点了十七个。”他说，“今天一早，水照发。怎么轮到我，就不一样了？”",
+      "reason": "少年以十七实人水账反问门槛，有争取资格的回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 128,
+      "quote": "她朝里间簿子偏头：“那号十年领料都记在‘待销’，没有一笔按人名销。那是账法，不等于每件料今天都没用完，也不能凭这一栏证明领料人还活着。你们若找着去处，得把单、回执和实物分别对。”",
+      "reason": "待销与匿名线长期有因，药未交又留现实任务。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 129,
+      "quote": "当天凉时，林渡来问去四层的路，槐七只肯指到转角。",
+      "reason": "探坡目标清楚，带路者只到转角即生阻碍。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 129,
+      "quote": "“我不问册子。”祝衡说，“我只问一句：这条坡，无面的人还走不走？”",
+      "reason": "不索能暴露家属的名册，改问当前这段能核的路。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 129,
+      "quote": "祝衡把册子摊开，画了三栏空表：来几息、退几息、歇几息——数还没有，栏先立好，守数的人每班来填。",
+      "reason": "热汽分项守数落行动与代价，嗓伤仍在。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 129,
+      "quote": "“两个人轮。”林渡说，“你和一名歇过的居民搭班，小石要去验工，不抽他。每班两个时辰，分着数来、退、歇，各记三轮。两人的数不合就再看，把长短都留着，不能为了合出一个准数抹掉差别。每班交纸，数够也只是观察，不是准许冒汽下去。”",
+      "reason": "领队不把岑野牺牲合理化，轮岗使信任具体。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 129,
+      "quote": "“这一行先搁着。”他说，“等封墙那头见了人，再对号。”\n",
+      "reason": "旧验记/料去向留下可追问对象，下一步数够再议下坡。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 130,
+      "quote": "探查小队的人选，是夜里定下的。",
+      "reason": "核心人员分配与守棚责任承压，不是无代价组队。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 130,
+      "quote": "出发当日晌午，林渡把原拟三日的探查纸交给杜姨，先划去隔日回报两项：“改了，只到看得见的封墙，不往后探，今日入夜前回来。”名单四人，每人领两罐，共八罐，从各自已领份扣；干粮也从自份匀。若今日到时未回，先派接应，再议失联。原三日方案留作未执行，不把没走的两日写成实耗。",
+      "reason": "三日方案主动缩成四人当日短探，留接应/水余量。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 130,
+      "quote": "林渡把册子摊开，添上今天的最后一行：四层封墙一面，浆泥两层，补法相似、施补者待核；外段封存，牌字“勿启”；路，止于墙。写完他把笔搁下，把今天在墙前没有答的那个问题，原样抄在了下一页的页首——料是怎么进去的。",
+      "reason": "墙封/两层浆泥/料如何进形成新的已见线索。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 130,
+      "quote": "验工归来的小石在棚口先交了回条，请林栖将已做的两个工日与未实交的药分栏记下，才走到账桌边听探路的事。林渡照约从头念新记录，没漏掉墙上两层浆泥仍待核是谁补的。",
+      "reason": "兑现给留棚小石完整讲见闻的约定。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 130,
+      "quote": "“领料单上，那个号还在十天一领。”林渡把册子合上，“料从配水旧柜出来，送到五层外围那户有人擦门牌的门牌底下。人要是被封在这面墙里头——料是怎么进去的？”",
+      "reason": "封墙与持续领料矛盾具体，立路/联系由此驱动。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 126,
+      "quote": "两路错开，谁也没等谁。最后一桶水倒入棚口的缸，末批托板进门，杜姨在支账上把两笔都划了，划完抬头看了一眼棚顶——三处漏点，两处已经糊上了灰泥，最大那处的滴水声还在，慢了，稀了。",
+      "reason": "121只接一笔换水/借棚，122通小流、126实搬棚兑现；材料短缺、挤睡和轮班代价仍在。",
+      "verdict": "pass",
+      "action": "保留供水与借住边界。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 130,
+      "quote": "“领料单上，那个号还在十天一领。”林渡把册子合上，“料从配水旧柜出来，送到五层外围那户有人擦门牌的门牌底下。人要是被封在这面墙里头——料是怎么进去的？”",
+      "reason": "水账/抢修升级为匿名养护与封墙；不是重复修管，查线令有限人手与物权付新代价。",
+      "verdict": "pass",
+      "action": "后批沿立路与联系推进，不预支墙后身份。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 131,
+      "quote": "当日稍后，林渡把出发前收齐的三班数纸又铺开。先前那趟已看过封墙，凉时才轮到执行立路。",
+      "reason": "短探回报后当日再立路，人手与料先准备而后执行。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 131,
+      "quote": "立路先查退路。探查四人能空手折返，不等于背料、抬人也能转过弯。今日先清点能落脚的梯段，在够不着旧扶手处加分段扶绳，记下汽来时能退回的高处；没有查过的窄点仍封着，不因添了绳就准人吊过去。料和人能走到哪里，验到哪里再落名。",
+      "reason": "不拿空手探过替载板保通，凸石保待凿。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 131,
+      "quote": "封门侧边的墙面上，挂着一块小牌——木牌，样式跟外头的门牌一族，字是烙的：四层外段，维修段，工程师某，编制四人。末尾的名字被水渍晕开了，只剩一个姓的偏旁。牌子下角另有一行小字：段闸，勿启。",
+      "reason": "第一次读全编制牌，四人只是待核目标。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 131,
+      "quote": "立到墙前平处，已用去大半个凉时。祝衡数到五人在场，才让居民卸料；林渡把各段扶绳的结逐一留在立路单上。居民用短梯板垫过一处湿滑点，试踩确认两端没有翘起才固定，未处理的窄点仍画叉。回去时还得逐段走，不把今日可踩当往后永不松动。",
+      "reason": "同行到齐才卸料，具体分工使有限立路有群体回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 131,
+      "quote": "回到坡口，搭班居民接下今日沿途的汽况，岑野歇过后一起对纸。对得上的并记，对不上的照原话留下，不把新旧数抹成严丝合缝。林渡报了编制牌，岑野问：“四个人里，有没有十天领一次料的那位？”",
+      "reason": "新名单线索与旧匿名料号相连，追问方向清楚。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 132,
+      "quote": "当夜，五人从棚里回到封墙外的短作业点，今日只听墙。当日立路留下的是料和扶绳，没有把伤员或照护班搬到坡底住夜。",
+      "reason": "同日夜听墙，短作业点不偷长成永久营地。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 132,
+      "quote": "“等。”林渡说，“等它三遍。完全一样就把间隔记齐，有出入就记在哪一下，别忙着给它定名。”",
+      "reason": "先记原声，再有知识来源地回非原样码，暴露外侧存在。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 132,
+      "quote": "然后，里头回了两下。一下重，一下轻——跟上头的任何一轮都不一样。",
+      "reason": "回敲之后出现变化，但语义仍未确解。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 132,
+      "quote": "规矩是立好的：回敲一个非原样的问题。里头敲三轻两停，他回的是两轻一重一停——不对着答，只告诉对方：外面听见了，外面不是回声。",
+      "reason": "试探获得互动可能，旧查人手艺转救人付出风险。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 132,
+      "quote": "回棚后，林渡在编制牌的“四人”下添：墙后至少有一处会在外声之后变化的声源，尚未认人。明日查镜片，再试着把话问到孔后；几个人、是否有人能动手，仍等实际应答，不先分配后天的答案。",
+      "reason": "镜片已留可见地角，次日查变化/问话有实际动作。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 133,
+      "quote": "第二日，镜片的朝向变了。",
+      "reason": "变化引发传话目标，未凭移动就认人。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 133,
+      "quote": "往深处掏时，錾尖带出与表面洇水处不同的糊泥。六叔叫停，旧口不再追深，沿眼前砖缝向左挪半砖另探；没有把两块相邻砖同时松开。新位置仍一截一截试，另记多耗的小半班和停手原因，不把改口写成气路已经找准。",
+      "reason": "遇糊泥停原口，转接缝且不同时松两处承压。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 133,
+      "quote": "孔打通了，气的账还没算清。",
+      "reason": "新小口可传问得井字，方向/量仍待核。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 133,
+      "quote": "扩孔排在次晨。六叔隔孔报：“明早先敲三下，再取这半块砖；你们先离砖后，听清就应两下。”孔里应了。六叔把应声也写进交班纸，没有拿彼此从业的年头当成两人从未交接的证明。",
+      "reason": "对动作时间获得应声，救人合作有第一次规矩确认。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 133,
+      "quote": "林渡把字条看了两遍，在册子上记下：孔通了，人手到顶了。\n",
+      "reason": "通口进展立即增加扩孔/送水压力，不能再加岗。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 134,
+      "quote": "当夜，槐七回棚要办一件事：找旧线问一段能送到孔边的管，又不交出沿线的名册。",
+      "reason": "求管又护名册，两难是当章明确行动。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 134,
+      "quote": "“名册不给。”槐七说，“家属的地址不给。人名，也只给该给的。”",
+      "reason": "他为合作限权限，不以获救需求倒卖藏点。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 134,
+      "quote": "“管子的事，我应你一半。”小绳说，“管子我有，路我带。可我有一条：我送完就走，不进你们的棚，不进你们的册。我这个人，从今天起不在你的名册上。”",
+      "reason": "取得有条件的一次送管，不虚填常驻人力。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 134,
+      "quote": "“你本来就不在。”槐七说，“你不肯入册，我不写你的藏点。管子送到，我只记东西和交接。”",
+      "reason": "尊重来者不留名换到协作信任，代价有边界。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 134,
+      "quote": "笔尖没落，他停住，撕下纸条只写：“有旧管，下一凉时交；不记来人名。”接话的四字留着当面说，纸条不写。想到小绳问名册时那一下停顿，他把笔收回衣袋，没再往纸上添人名和藏点。",
+      "reason": "具体物料/时点待兑现，七段滤料口头另交。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 135,
+      "quote": "次晨，阿九与槐七先照六叔的线扩孔：旧布在下侧接屑，半砖取出留在墙边，拿实际扁罐试过，不挤塞旧气路。到凉时刚开，小绳许下的管才送到孔边。",
+      "reason": "先兑扩孔再接管，物料与孔径立即成为压力。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 135,
+      "quote": "“先听见咳嗽，就把他当活人救援办。”",
+      "reason": "核号未齐先救援，临时2罐从既领转移。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 135,
+      "quote": "“水……收着。滤件……先送。”",
+      "reason": "人接水且报料急，线索由猜测转具体需求。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 135,
+      "quote": "第一罐水递进去，罐身擦着孔沿，孔里一只手接住了——那只手很稳，接住之后还轻轻磕了两下罐底，磕的是里头人的规矩，告诉外头：收到了。",
+      "reason": "实交水有近孔手与回声，给外侧有限救援回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 135,
+      "quote": "“墙后有接水人，也急要养水的料，这是今天听到的。”林渡说，“下一班先送合尺寸的滤件；领料号由谁用、旧单谁签，跟救援分开核，不等核完才给料，也不先替十年旧账盖上结清章。”",
+      "reason": "人手紧、尺寸含零头、未核旧号，下一班任务具体。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 136,
+      "quote": "当日夜里，第一班水要下四层，林渡先把昨日数纸交到裴七手边。纸上记的是已见来退歇，不是汽认了人就照班等。今日先看现场变化，再定这一趟何时走；人喝的水和等汽耽误的工，各留实耗。",
+      "reason": "从现场临时水转专门水班，路途水/工必须记。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 136,
+      "quote": "“先排这两日。”林渡说，“谁下过一趟，回来先歇足整班，再接别的活。背水和管灯轮着，照护夜班不抽。歇着的名也在表上，别见人躺下就喊他来顶。”他在自己那一行同样圈出歇班，裴七照着圈，留给接班居民看。",
+      "reason": "领队把自己也列歇班，维持有限劳力。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 136,
+      "quote": "回到转角下湿板段，居民先看见汽丝加密，叫林渡一同退到转角内侧上方两级。两人从较高处数来汽，八息已过，汽头仍向上涌；到十二息才停住。他们没抱罐贴在汽流里等，也没把湿布算成能隔住烫汽的护具。",
+      "reason": "原数被现实拖长打破，回撤和分来退守数改变排班。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 136,
+      "quote": "“你们的账，”那个沙哑的声音说，“比这堵墙还实。”\n",
+      "reason": "里侧对透明实耗的回应形成关系回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 136,
+      "quote": "当晚重排下一趟，仍两人同行、一日一趟，每次只带一只半罐，另一人管灯、看退路。少带的半罐留在棚的未发栏，不计已经送达，也不借第二趟空名补平。孔里原来各自还能领多少，明日问本人；外面只记这半罐是补送，不宣称它够四个人一天。",
+      "reason": "半罐不是全日供水，原线与实际余量需追，压力可问。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 137,
+      "quote": "当日这趟水班下坡，阿九、祝衡和槐七带旧领单随林渡与背水居民一道去，核件的人占了原要继续立路的半日，路上不再加点。五人到孔边，水罐先由原两人交接，孔里随退回的罐递出一张纸，才有了新的要求。",
+      "reason": "核件随水班5人同趟，减少其他工而非幽灵到场。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 137,
+      "quote": "“依你，旧路，旧签收。”林渡说，“先把手边还够几班的量告诉我。”他让祝衡在领料记录旁改记“明账止于外侧核料，墙内去向暂不外传”；旧签收点和家属藏点只进受限页，没再抄到公示页上。",
+      "reason": "接受受限账的政治成本，保护家属线同时追余料。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 137,
+      "quote": "“是我家里人。册上他们不是‘已撤离’——他们是不肯走。清场那年，门一封，他们从检修缝进出，替我把线接在外头。你们看见牌面干净——是我家里人擦的。牌干净，是等人的规矩：牌要是脏了，就是这家出事了。”",
+      "reason": "本人自述解开门牌到投料口线，工具号只作互证。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 137,
+      "quote": "孔里那位又添了一句，声音仍沙哑，说到半截歇过才继续：“你们送料的路上要是出了岔子，别硬闯。料断了，我有法子少养一段——你们的人断了，我这三十年的水就白养了。”",
+      "reason": "被救者反过来关心外侧人命，关系和人物温度真实。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 137,
+      "quote": "林渡在“四班”后记下这一趟的时点，又问：“已经算上昨夜送到的那一对？”孔里应：“算上了，是眼下手边这些。”他把这句写在数旁，后头另开在用、已换、待换三行，交下一班逐次回报；几日能耗几班还没有齐数，日数栏先留空。",
+      "reason": "D13四滤班已含新对，逐次耗料与救门期限成为下一步压力。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 138,
+      "quote": "“我下一趟下去。”",
+      "reason": "伤腿与档案易失冲突，主动下坡有代价。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 138,
+      "quote": "林渡把笔压在册里：“档停，先歇。”他让大家散开孔前的位置，阿九托住管口，六叔查看是否挤了砖沿，原有出气的空隙都让出来。",
+      "reason": "弥娅/林渡先停止问档保喘，腾口不假认风足。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 138,
+      "quote": "林渡把这个区别记在交接纸，护送班沿试过的转弯将弥娅送回棚。杜姨先接她回原睡位，夹板不拆，伤腿垫平；托板空出来，原班再把裴七连原铺垫平移回去，腿照先前顺着放。林渡在借用页请杜姨核回，原板归裴七，借行才销。收好借页，他再将匣位纸夹进册：两匣仍在墙后，今日带回的是位置和受潮的答话。",
+      "reason": "只取得位置/潮况答话未冒实取，同时实际还借板。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 138,
+      "quote": "弥娅在托板上应了一声：“今天不取。匣先在，账先记。”她没再追问塌方那几页写了什么，将笔搁下，等孔里的人喘匀。",
+      "reason": "拒绝急索受潮旧纸，有限克制与风险共担兑现关系。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 138,
+      "quote": "“那就好。”里头的声音说，“档的事，容我想想怎么递。它比水沉，比水脆。”",
+      "reason": "先问黏连/折角与接人先后，档如何过孔问题具体。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 139,
+      "quote": "核人这件事，林渡把它排在了递档前头。",
+      "reason": "在取档之前安排逐人核，救援需真实能力表。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 139,
+      "quote": "可林渡没有照单全收。他把规矩隔着孔说了：“数是你报的，人得一个一个应。怎么应，你们里头自己定——能应声的应声，能敲的敲，起不来的，你代报，报的时候说明白是谁替谁报、为什么替。我们外头只记：哪一声是本人，哪一声是替报。”",
+      "reason": "允许代报且注明，不逼病者为证明活着发声。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 139,
+      "quote": "四行核完，祝衡的纸上仍分三栏：本人应的三人，其中老工师、阿苗口应，老赵敲应；代报的一人，是老陈，凭旧表；听不清的，无。老赵的伤情仍记在老工师代述下，听到他敲应，不等于外头已看清他的伤。",
+      "reason": "口2敲1本人/1代报/未知范围分层，数与类别闭合。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 139,
+      "quote": "收灯之前，老工师在孔里又补了一句，声音已经带着倦：“替我们记着的——阿苗的腿，老陈的糊涂，老赵的耳朵。你们带人出去那天，这几样都要跟着。别让我们出去以后，变成四个只会喘气的号。”",
+      "reason": "个体伤病必须随交接保留，有具体人格回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 139,
+      "quote": "记完他隔着孔说：“明天，图纸的事谈。门的事，谈完就动。”",
+      "reason": "门要开仍须图/实墙/撑顶核，下一章任务确切。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 140,
+      "quote": "次晨，整匣图纸没能隔着孔递出来。",
+      "reason": "图匣过不去迫使裁图并付资料损失。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 140,
+      "quote": "“封门上头还架着梁。”六叔指图，又指实墙露出的梁尾，“接向五层棚区。梁边这排承压砖先留，门口后填的两块，里侧照砖列再认一遍。”工班登记领出的撑顶木在墙外梁尾下立起，阿九扶住，六叔逐个查接触的顶面和支脚；脚下有松板的挪开，落到平处实地，试推没有滑移才离手。居民在老工师指的墙缝两边留炭记，记下当轮汽来与退后的边缘：汽退时仍有细动，回歇后没有继续越出原记。六叔只在当轮记录旁签名，请老工师先用里侧那把旧锤沿可动砖的灰缝轻试一记；居民随即复看炭记，阿九查撑脚，未见新滑移，才让记到这一轮末尾。每换汽、换班仍照这两处复看，锤声随人叫停。",
+      "reason": "只动已对号砖、实立撑顶/当轮验缝后试锤，救内外共同承担。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 140,
+      "quote": "第三日入夜前，林渡把听墙到核人的记录收进册：本人应三行（老工师、阿苗口应，老赵敲应），老陈代报一行；裁图的来处和裁损已记，开凿线由里外对号，起凿是本轮第一日的那一班，今日是第三个施工日。预计七日仍列在计划旁，实进另报；暗补两班已经回了收讫，与旧一对分行。",
+      "reason": "D15起D17末，头班进一寸半/暗补2班实交，尚未开门。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 140,
+      "quote": "从起凿到第三日，外班按表换，里侧咳重便停锤。补发两班从旧柜沿旧签收线送到投料口，收到本人回报才销暗页，与先前明送的一对分行。第二日小石手稳了些，仍只报名称刻号，重件由成人接；第三日班散，他先回棚洗去指缝的灰，掌口没再添破处。棚里晾着孩子的垫布，杜姨等最后一份回报交齐，才让值桌的人歇。",
+      "reason": "小石能做轻岗又被允许歇手，工程不以伤害孩子作回报。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 140,
+      "quote": "老工师说：“上回四班，是那趟手边的数，后来还在用，不能拿它当今天没动过的新料。”林渡请他依原三行报在用、已换、待换，孔里尚未报齐，他就把可撑日数留空。阿九将预计七日的凿墙计划压在旁边；每班还得先听料况、身子和墙缝，再决定动不动锤，不能只等计划那一格到了。",
+      "reason": "七日预排与未齐耗料/病情/墙缝回报共同决定是否续，开放门的下一步。",
+      "verdict": "pass",
+      "action": "保留当前动作、代价与信息边界。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 139,
+      "quote": "四行核完，祝衡的纸上仍分三栏：本人应的三人，其中老工师、阿苗口应，老赵敲应；代报的一人，是老陈，凭旧表；听不清的，无。老赵的伤情仍记在老工师代述下，听到他敲应，不等于外头已看清他的伤。",
+      "reason": "匿名领料线经接水/本人自述/逐行应答得到局部兑现，口应两人、敲应一人均归本人应，老陈单归代报，获救仍欠。",
+      "verdict": "pass",
+      "action": "交接继续按本人/代报/伤情，不以开门抵核问。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 140,
+      "quote": "老工师说：“上回四班，是那趟手边的数，后来还在用，不能拿它当今天没动过的新料。”林渡请他依原三行报在用、已换、待换，孔里尚未报齐，他就把可撑日数留空。阿九将预计七日的凿墙计划压在旁边；每班还得先听料况、身子和墙缝，再决定动不动锤，不能只等计划那一格到了。",
+      "reason": "从听墙/接水到内外承重施工，图裁损、真实料/工/伤病期限叠加；未用新设备或全知解谜化解。",
+      "verdict": "pass",
+      "action": "按实进、料况、症状继续，七日是预排。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 141,
+      "quote": "里头四口，我认得。",
+      "reason": "父亲以熟人工号要求改排序，旧情与病情冲突即现。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 141,
+      "quote": "条件列完，往里递，让里头的人自己认领。",
+      "reason": "条件交内侧认领，主人公有主动排序。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 141,
+      "quote": "工班多担一班送水，换主队腾出备接应的手。",
+      "reason": "一班交换腾接应手，组织目标与资源同时变化。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 141,
+      "quote": "纸呢。",
+      "reason": "父亲开口要纸而非继续争号，反应有克制。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 141,
+      "quote": "父亲正在写的那页证词，明天要由他带下坡，请墙内的人核认。",
+      "reason": "核认父亲证词把下一章必做动作落地。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 142,
+      "quote": "林岑那页纸写到后半夜。",
+      "reason": "夜写证词持续承接父子未结责任。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 142,
+      "quote": "来源一栏，自述人拒填，事由：护线。",
+      "reason": "拒填来源被录而未强逼，公开与护线边界有选择。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 142,
+      "quote": "浆泥两笔。",
+      "reason": "养护新料把旧封门变为仍运行制度线。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 142,
+      "quote": "自述人自认隐瞒十年",
+      "reason": "自认隐瞒不靠叙述洗白，父子代价有效。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 142,
+      "quote": "上油，是里头的人要的，还是外头有人要它封着？",
+      "reason": "养护料用途是具体可核方向。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 143,
+      "quote": "今天要把剩下的号都拓出来。",
+      "reason": "任务一开始报清工具核号，读者知道为何下坡。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 143,
+      "quote": "同号还不能说明谁亲自领、谁亲自换过件",
+      "reason": "主动划掉亲手领料防越证，是学徒真正判断。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 143,
+      "quote": "五件家什看完，只拓出四个号。",
+      "reason": "5件4号1无号有可感知的线索变化。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 143,
+      "quote": "外头那个小的，拓号的——手怎么样。",
+      "reason": "内侧旧工师关心掌伤，以照护形成回报。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 143,
+      "quote": "今天收班。明天的事，明天看撑。",
+      "reason": "撑问题接下章修理，钩子有行动。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 144,
+      "quote": "撑要重打，墙要先卸重。",
+      "reason": "结构险情与物资挪用同时压迫。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 144,
+      "quote": "两根好撑木由六叔和同行居民逐根立到墙肩下",
+      "reason": "材料挪用的代价后实际支撑落位，验裂线再卸，口头选择已执行；伤者不负主重。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 144,
+      "quote": "铸字露全了：段门二字，后头跟着一个编号。",
+      "reason": "实物门号给出新线索，保具体位置。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 144,
+      "quote": "你的记性用在‘当年有过什么’上，是凭据。",
+      "reason": "父亲接受现场复核，关系变化有言行。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 144,
+      "quote": "批的人是谁，单子没写全。",
+      "reason": "批名缺失能指向后续核账，不凭空加敌。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 145,
+      "quote": "缝到一人宽，是第七天头上。",
+      "reason": "口开只完成入口，接人及安全水仍未解决。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 145,
+      "quote": "这页先证明近几旬，往年的页还留在里头",
+      "reason": "个人页随人但证明范围不超页，身份选择与证据责任并在。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 145,
+      "quote": "一人宽的口，黑黢黢的，比看着的深。",
+      "reason": "通道变化明确，承接三天凿墙。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 145,
+      "quote": "他把那页纸塞进怀里，贴着胸口按了按。",
+      "reason": "护住自己页的动作给身份被看见的回报。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 145,
+      "quote": "下一凉时第一个接他",
+      "reason": "今日歇窗耗于退砖/验人，交代夜间恶化监护，下一最早凉时接人既急迫又有风险边界。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 146,
+      "quote": "过缝排在第二天凉时，汽退最长的那一段。",
+      "reason": "凉时单人窄缝明确窗口压力。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 146,
+      "quote": "匣子、工具、别的东西，今天谁也不许提。",
+      "reason": "先人后匣主动承担资料损失。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 146,
+      "quote": "他的头先出来，然后是肩，然后整个人坐在了垫毡上",
+      "reason": "真正一人出墙，十章救人承诺首次兑现。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 146,
+      "quote": "匣子在我手里跑不了。疮在他背上。",
+      "reason": "阿苗让老陈先出，人物温度来自放弃自身资料。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 146,
+      "quote": "接他前还得把窄板逐级试到要承的分量",
+      "reason": "下一载老陈有明确人选、背疮代价与验板前提，读者知道下一行动及未解困难。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 147,
+      "quote": "赶的是同日凉时的后半段",
+      "reason": "明确接146同一趟、过点手势和三处歇点；短暂凉风也在剩余数里，无无代价安全。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 147,
+      "quote": "这两行是别人的。你这一行，是你自己的。账不挪，也不拿谁顶谁。",
+      "reason": "保失联空行又给新人独立行，是公共规则选择。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 147,
+      "quote": "账上第一行，从此是他自己手写的那三个字。",
+      "reason": "新组首行有本人签名，变化可见。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 147,
+      "quote": "他自己走过去，坐下去，用手掌把铺位压了压",
+      "reason": "自己压铺位与向让位者点头，回报充分。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 147,
+      "quote": "第二天的送水班天不亮就要下坡。",
+      "reason": "继续送水同时收紧份额，下一天义务明确。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 148,
+      "quote": "副档未出，匣位复掩。",
+      "reason": "副档缺口与伤腿使资料方无法现场参与，冲突具体。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 148,
+      "quote": "排手位前就问",
+      "reason": "共同决定由事前预案/护纸风险交换来实施，急救例外与变更公开另记，两个人都有实在选择。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 148,
+      "quote": "预排未问，临场未说明变更，责任在渡。",
+      "reason": "认责落到准备和未告变更，弥娅当面核预排二字并继续接译，关系变化有实际文本。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 148,
+      "quote": "我接着译。",
+      "reason": "她保留火气仍接译，关系回报成立。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 148,
+      "quote": "七天后先验撑，看数再定开不开",
+      "reason": "预排检查保留迟延成本，水班先问匣边返潮，问题有具体追问方向而非天气保证。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 149,
+      "quote": "光不够时便停笔，等林渡摇亮了再念",
+      "reason": "同一灯需维护、伤手需接笔、抄字仍待底核，通宵成本可感知。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 149,
+      "quote": "这一个，先挂着。",
+      "reason": "无号不入公开账，选择符合证据权限。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 149,
+      "quote": "工没停。账没停。停的是名字。",
+      "reason": "活工与亡籍并置，制度矛盾清楚。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 149,
+      "quote": "你只管看，念出来，我来写。",
+      "reason": "手伤有人接笔，配合比解释更有温度。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 149,
+      "quote": "贴出去，上头要是来人查账呢。",
+      "reason": "公开招查账，具体风险与分存应对均有。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 150,
+      "quote": "欠了几晚的账，今晚一起算。",
+      "reason": "公开被排险转运拖延，开场清点所欠有压力。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 150,
+      "quote": "送水班，一日一趟，照走。",
+      "reason": "不许争纸切断送水，主动划边界且承担守哨代价。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 150,
+      "quote": "纸的事，明晚两边坐下，一条一条过",
+      "reason": "议纸从禁令转成可谈清单，冲突推动而非收束。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 150,
+      "quote": "他是两页纸中间活着的那个见证。",
+      "reason": "伤员本人在场验证亡籍，兑现身份主题。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 150,
+      "quote": "批单子的那个名字不在纸上，不在账上，不在今晚任何一个开口的人嘴里。",
+      "reason": "批单空框与明晚议纸双线都可追。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 146,
+      "quote": "他的头先出来，然后是肩，然后整个人坐在了垫毡上",
+      "reason": "141排序接人的承诺在146实救、147独立入账、150活人对表连续兑现；支撑、污染损耗和共同急救规则都补足，兑现没有抹代价。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 150,
+      "quote": "每一张出墙的纸都是一根线。",
+      "reason": "从排先后、腾手、结构险、伤员转运与份额紧缩，升级到资料风险/公开账/线上家属暴露；升级有前置两处料线，不靠突然敌人覆盖旧后果。",
+      "verdict": "pass",
+      "action": "保留当前行动/代价与钩子；后续若正文再变，须重核对应证据。"
+    }
+  ],
+  "components": [
+    {
+      "path": "harness/maintenance/R005/resume-20261109/B11/reader-review.json",
+      "sha256": "889117e40c6e6cef61f980f1c738e81ce0416db6718b9053015cebb749bb3289",
+      "reviewer": "/root/review_201_220",
+      "source_digest": "ada42371d8867df096c1785629f02cc9518d7f6572d0376f355e2be0d8a50027"
+    },
+    {
+      "path": "harness/maintenance/R005/resume-20261109/B12/reader-review.json",
+      "sha256": "d12bc985c97a4436549be3a1c0ff5caa95d1dac7a84f0bcc0c6d357ab4f9abf7",
+      "reviewer": "/root/review_201_220",
+      "source_digest": "48226d065c1a599193cfe0ff19ef3974cc7c06332cb2f60c945105d960947598"
+    },
+    {
+      "path": "harness/maintenance/R005/resume-20261109/B13/reader-review.json",
+      "sha256": "634f51e222cb514aaa7f43e0f47d330e7d7af3c67fbeee6d01c57bf03986c87c",
+      "reviewer": "/root/review_221_240",
+      "source_digest": "73bb7c41065bb2c7359daa202964a5a217ef9dd4013eb379d98f123bdfa6efdd"
+    },
+    {
+      "path": "harness/maintenance/R005/resume-20261109/B14/reader-review.json",
+      "sha256": "43350fb8e40d1576d2f9ad98d41401868f6e571471b4fa3ea209fe6e9fc80175",
+      "reviewer": "/root/review_221_240",
+      "source_digest": "ae4f545cb4f1961ba189cf80974dca10b6386e3306a93ff838911704de5f1724"
+    },
+    {
+      "path": "harness/maintenance/R005/resume-20261109/B15/reader-review.json",
+      "sha256": "7620c6d0218aea80daf4669ab4e148fad0a96c42981ad53057ec04ed33e894cd",
+      "reviewer": "/root/review_241_250",
+      "source_digest": "76be474fc8b78e6069fe4016d9bb28fdf07b9bb131d923e5cff013c9d5200573"
+    }
+  ],
+  "check_provenance": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 101,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 101,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 101,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 101,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 101,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 102,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 102,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 102,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 102,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 102,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 103,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 103,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 103,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 103,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 103,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 104,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 104,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 104,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 104,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 104,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 105,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 105,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 105,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 105,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 105,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 106,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 106,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 106,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 106,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 106,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 107,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 107,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 107,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 107,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 107,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 108,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 108,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 108,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 108,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 108,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 109,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 109,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 109,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 109,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 109,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 110,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 110,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 110,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 110,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 110,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 110,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 107,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B11/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 111,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 111,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 111,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 111,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 111,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 112,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 112,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 112,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 112,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 112,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 113,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 113,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 113,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 113,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 113,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 114,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 114,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 114,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 114,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 114,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 115,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 115,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 115,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 115,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 115,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 116,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 116,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 116,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 116,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 116,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 117,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 117,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 117,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 117,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 117,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 118,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 118,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 118,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 118,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 118,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 119,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 119,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 119,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 119,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 119,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 120,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 120,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 120,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 120,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 120,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 120,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 120,
+      "reviewer": "/root/review_201_220",
+      "component": "harness/maintenance/R005/resume-20261109/B12/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 121,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 121,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 121,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 121,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 121,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 122,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 122,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 122,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 122,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 122,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 123,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 123,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 123,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 123,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 123,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 124,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 124,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 124,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 124,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 124,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 125,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 125,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 125,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 125,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 125,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 126,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 126,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 126,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 126,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 126,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 127,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 127,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 127,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 127,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 127,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 128,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 128,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 128,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 128,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 128,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 129,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 129,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 129,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 129,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 129,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 130,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 130,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 130,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 130,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 130,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 126,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 130,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B13/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 131,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 131,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 131,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 131,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 131,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 132,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 132,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 132,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 132,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 132,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 133,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 133,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 133,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 133,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 133,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 134,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 134,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 134,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 134,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 134,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 135,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 135,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 135,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 135,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 135,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 136,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 136,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 136,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 136,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 136,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 137,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 137,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 137,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 137,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 137,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 138,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 138,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 138,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 138,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 138,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 139,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 139,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 139,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 139,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 139,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 140,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 140,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 140,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 140,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 140,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 139,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 140,
+      "reviewer": "/root/review_221_240",
+      "component": "harness/maintenance/R005/resume-20261109/B14/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 141,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 141,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 141,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 141,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 141,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 142,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 142,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 142,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 142,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 142,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 143,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 143,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 143,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 143,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 143,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 144,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 144,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 144,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 144,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 144,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 145,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 145,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 145,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 145,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 145,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 146,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 146,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 146,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 146,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 146,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 147,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 147,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 147,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 147,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 147,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 148,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 148,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 148,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 148,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 148,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 149,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 149,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 149,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 149,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 149,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 150,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 150,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 150,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 150,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 150,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 146,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 150,
+      "reviewer": "/root/review_241_250",
+      "component": "harness/maintenance/R005/resume-20261109/B15/reader-review.json"
+    }
+  ]
+}

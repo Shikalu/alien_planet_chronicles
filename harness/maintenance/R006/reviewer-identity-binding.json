@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "kind": "orchestration-identity-binding-not-review",
+  "author": "R006-main",
+  "group": "B18",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "basis": "当前线程环境中的B18/Russell真实agent ID、实际send_input/wait_agent返回身份及审读者final2亲自确认。旧报告null字段保持原字节；此包装仅补调用身份，不签内容通过。",
+  "reviewer_confirmation": {
+    "path": "harness/maintenance/R006/B18/final2.json",
+    "sha256": "a1bc9683534c28316ca7437de533828230a2811a7289a6a51b0b57556b64c83b",
+    "identity_binding": {
+      "agent_id": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+      "role": "R006-B18独立读者",
+      "source": "主线程实际spawn/调用元数据；用户确认send_input target即此ID，并确认初审、v1与本次v2属于同一独立线程。",
+      "source_visibility": "本会话据用户提供的调用元数据亲自填写，未自行猜测ID，也不声称自行读取过未提供的spawn日志。",
+      "same_independent_thread": true,
+      "same_thread_reviews": [
+        "harness/maintenance/R006/B18/initial.json",
+        "harness/maintenance/R006/B18/final.json",
+        "harness/maintenance/R006/B18/final2.json"
+      ],
+      "historical_records_preserved": "已核initial.json与final.json的reviewer均为null；保持原字节，不补造历史通过签名。主线程另作身份交接包装。",
+      "writer": "R006-main",
+      "reviewer_wrote_manuscripts": false
+    }
+  },
+  "frozen_artifacts": [
+    {
+      "path": "harness/maintenance/R006/B18/initial.json",
+      "sha256": "a2d2efb10863c4d19428a2e85cd630a1e10b1412baa456c2f09f0f087c4a2852",
+      "artifact_reviewer": null
+    },
+    {
+      "path": "harness/maintenance/R006/B18/final.json",
+      "sha256": "cb27678064fecfec735f4e3252a52fa4e7bc7cd227618adf4c64ebfbfe154935",
+      "artifact_reviewer": null
+    }
+  ]
+}

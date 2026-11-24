@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "id": "H003",
+  "date": "2026-11-10",
+  "authorization": "整理所有Harness文档、清理合并重复文档；冲突交由用户判定；不动正文。",
+  "prose_protection": "harness/maintenance/H003/prose-protection.json",
+  "removed": [
+    {
+      "removed": "harness/maintenance/R009/project-check.before.json",
+      "retained": "harness/maintenance/R008/project-check.json",
+      "sha256": "cef2cf8df5defe2a255eb47bd97b246badd2658aaf9b70a09e958f134ea2af6a",
+      "bytes": 104188,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R008/B26/recovery-round3-issue-closure.json",
+      "retained": "harness/maintenance/R008/B26/pre-round4/recovery-round3-issue-closure.json",
+      "sha256": "60fb77da81c46c967b33c2218bd13ae7c63856f93997f55b2bb1b7e81a84c34b",
+      "bytes": 90883,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R006/issue-index.authorized.json",
+      "retained": "harness/maintenance/R006/issue-index.json",
+      "sha256": "db2527542a86b21f42be8b9a2a0bfee6e8ea696ebec27c7d2bb52915f8f84a8d",
+      "bytes": 787368,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R006/B16/authorized-writeback-suggested-edits.applied-input.json",
+      "retained": "harness/maintenance/R006/B16/authorized-writeback-suggested-edits.json",
+      "sha256": "3918c0aefb7e914149275ac60a590ec23ca57e2931215e2ab4b724fea06be01f",
+      "bytes": 4925,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R006/B20/authorized-writeback-followup.applied-input.json",
+      "retained": "harness/maintenance/R006/B20/authorized-writeback-followup.json",
+      "sha256": "731d9da4a69dc48ecb1d28da1e3d28c3641ec7ff4d35f470baf2d4db8ac653e0",
+      "bytes": 29496,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R006/B20/authorized-interface-followup.applied-input.json",
+      "retained": "harness/maintenance/R006/B20/authorized-interface-followup.json",
+      "sha256": "b8ca59556b703c77879f1d8cb1c097f34f3468665e0da1aba8a0a4208be5838f",
+      "bytes": 3555,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R006/B18/final-authorized-suggested-edits.round2-applied-input.json",
+      "retained": "harness/maintenance/R006/B18/final-authorized-suggested-edits.json",
+      "sha256": "f2012d1dab047708843a94aec195c2b1975ac70a6de28a913507166f1808d44b",
+      "bytes": 17223,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R009/B33/r1-reader-review.json",
+      "retained": "harness/maintenance/R009/B33/reader-review-r1.json",
+      "sha256": "5406338ae7eaba715f2fb6caf76f599669068024fad627771e9bdc7e5f0ac8c9",
+      "bytes": 19945,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R009/B33/r1-final.json",
+      "retained": "harness/maintenance/R009/B33/final-r1.json",
+      "sha256": "d0576c0b6636451daa81ac92921914ea6c2441851c78a7e464fe730992896781",
+      "bytes": 9593,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R009/B33/r1-final.md",
+      "retained": "harness/maintenance/R009/B33/final-r1.md",
+      "sha256": "f4cadd5132dbb48073664145c2c5934f263aed1c37ad842ef1c525f6c49052e1",
+      "bytes": 12123,
+      "reason": "逐字节一致的冗余副本；无保留证据的路径、文件名或签名引用，原有效证据保留在retained。"
+    },
+    {
+      "removed": "harness/maintenance/R006/B18/.build-authorized-report.py",
+      "sha256": "f2d38e64f71becbd9a0d5f9a53c55f1d72a4afedf06d7c29de34d1d17e2295b6",
+      "bytes": 37546,
+      "reason": "已完成批次的一次性报告生成/封稿脚本；无保留材料引用，不是正式工具。实际审读报告与签名保留。",
+      "retained_outputs": [
+        "harness/maintenance/R006/B18/final-authorized.json",
+        "harness/maintenance/R006/B18/final-authorized.md",
+        "harness/maintenance/R006/B18/reader-authorized.json"
+      ]
+    },
+    {
+      "removed": "harness/maintenance/R006/B18/.seal-authorized-report.py",
+      "sha256": "de64ffa829c6cee9296ba358c202a680fe8859d94dccde2575ca4da0c3be3331",
+      "bytes": 11099,
+      "reason": "已完成批次的一次性报告生成/封稿脚本；无保留材料引用，不是正式工具。实际审读报告与签名保留。",
+      "retained_outputs": [
+        "harness/maintenance/R006/B18/final-authorized.json",
+        "harness/maintenance/R006/B18/final-authorized.md",
+        "harness/maintenance/R006/B18/reader-authorized.json"
+      ]
+    }
+  ],
+  "removed_file_count": 12,
+  "removed_bytes": 1127944,
+  "modified_documents": [
+    {
+      "path": "README.md",
+      "before_sha256": "267f47555df3cffda67e2a61fb76babdf0f3d56990dbaf0f7891833b03ef8808",
+      "after_sha256": "5353b365f92bd01374691f6522cb26741e3aa08fd2834a87dd0aab8ffb319d22",
+      "reason": "现行入口导航与重复流程整理；旧签名所指历史时点不改写。"
+    },
+    {
+      "path": "异星录/06_执行计划/详细执行计划.md",
+      "before_sha256": "ae326a06aff229d7e1d12762a89815b30641bafc7b986dcbd9b32a878c2e3666",
+      "after_sha256": "1d52f6264485d407e4cd4a848616f713f9551be282da6d8a5931c5caaf2f9213",
+      "reason": "现行入口导航与重复流程整理；旧签名所指历史时点不改写。"
+    },
+    {
+      "path": "异星录/06_执行计划/README.md",
+      "before_sha256": "046f6691017b4d758c2a9ef322929d84ea4d4bcbac5ea491f6b0e63b839475cf",
+      "after_sha256": "6ef3463a691ea42605e91ed5358a5781e27c44b36901ba95457dadf604ce8a50",
+      "reason": "现行入口导航与重复流程整理；旧签名所指历史时点不改写。"
+    },
+    {
+      "path": "harness/README.md",
+      "before_sha256": "23cce15ce9aedad68b636714a69c9318d5bfaac8454bcb38e0484cbb0c20b2ae",
+      "after_sha256": "fc8d85920af6bb886b4a35c54d09b1badee1b2c7f44dd1173c0b4624884c0b68",
+      "reason": "现行入口导航与重复流程整理；旧签名所指历史时点不改写。"
+    }
+  ],
+  "new_documents": [
+    "harness/maintenance/README.md",
+    "harness/maintenance/H003/prose-protection.json",
+    "harness/maintenance/H003/整理报告.md",
+    "harness/maintenance/H003/verification.json"
+  ],
+  "pending_decisions": [],
+  "resolved_decisions": [
+    {
+      "id": "H003-C01",
+      "decision": "approved",
+      "user_response": "同意",
+      "evidence": "harness/maintenance/H003/baseline-switch.json"
+    }
+  ],
+  "approved_followup": {
+    "decision_id": "H003-C01",
+    "config_change": "harness/project.json: preservation_baseline only",
+    "new_files": [
+      "harness/maintenance/H003/preservation.json",
+      "harness/maintenance/H003/baseline-switch.json"
+    ],
+    "details": "harness/maintenance/H003/baseline-switch.json"
+  }
+}

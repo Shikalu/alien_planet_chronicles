@@ -1,0 +1,257 @@
+{
+  "batch": "R005-B15",
+  "review_type": "LOG01_metadata_recheck",
+  "reviewed_at": "2026-11-07T12:40:33+08:00",
+  "reviewer": "01a1b3d1-8a65-75b2-8484-e2414b4db24b",
+  "reviewer_id_source": "主线程转交的本次 subagent roster／工具ID；与本会话实际读取的 CODEX_THREAD_ID 相符。",
+  "writer": "R005-main",
+  "independent": true,
+  "scope": "edit_log_only",
+  "verdict": "closed",
+  "verdict_scope": "仅 R005-B15-LOG01 日志元数据问题关闭，不表示全批正文或吸引力通过。",
+  "manuscripts": [
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7"
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba"
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587"
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4"
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb"
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6"
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88"
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569"
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197"
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0"
+    }
+  ],
+  "input_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+  "source_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+  "digest_algorithm": "sha256(json.dumps(manuscripts, ensure_ascii=False, sort_keys=True).encode(\"utf-8\")); manuscripts 为按章号升序的 chapter/path/sha256 三字段列表，使用默认分隔符。",
+  "manifest_source": {
+    "path": "harness/maintenance/R005/B15/recheck2.json",
+    "sha256": "4360018510039f59386ccd73721cb4cd9df4354125a3ca9602657e8b33106051",
+    "field": "manuscripts",
+    "inherited_without_changes": true,
+    "actual_working_bytes_verified": true
+  },
+  "reviewed_edit_log": {
+    "path": "harness/maintenance/R005/edits.json",
+    "sha256": "ae3618539788b7e8144934771e1d8c7a2c5c5d1cfa09ea68e5d86e7d2727305f",
+    "entry_count": 221,
+    "entry_zero_based_index": 214
+  },
+  "reviewed_log_correction": {
+    "path": "harness/maintenance/R005/log-corrections.json",
+    "sha256": "5c65f74bdd0c3358dbc6320cd5adce5f53fb86311c476c476b5db38ff253e4c1",
+    "recorded_after_log_sha256": "575f2934510b10655da48e6324dc516ba0c331bc1b4c853a6525bb926bb089e8",
+    "recorded_after_entry_count": 219,
+    "note": "该历史 SHA 绑定纠错时219条日志，不绑定随后追加两条后的当前221条日志；不同不代表214.reason改回。"
+  },
+  "issue_resolutions": [
+    {
+      "id": "R005-B15-LOG01",
+      "chapter": 148,
+      "previous_status": "open",
+      "status": "closed",
+      "scope": "edit_log_only",
+      "needs_author_decision": false,
+      "evidence": {
+        "frozen_issue_source": {
+          "path": "harness/maintenance/R005/B15/recheck2.json",
+          "sha256": "4360018510039f59386ccd73721cb4cd9df4354125a3ca9602657e8b33106051",
+          "field": "new_issues[id=R005-B15-LOG01]"
+        },
+        "json_index_zero_based": 214,
+        "before_reason": "B15复核1 C04：认责涵盖预排与执行前，保留后文三口气原记账以承接150引用。",
+        "after_reason": "B15复核1 C04：认责涵盖预排与执行前，保留148自书原句，由相邻预排认责对话限定含义；不以未经正文支持的150引用作依据。",
+        "unchanged_replacement_before": "没给你问话的那三口气，是我的错。",
+        "unchanged_replacement_after": "排手位时没问你，到缝口也没有再问，是我的错。",
+        "unchanged_entry_chapter": 148,
+        "unchanged_entry_path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+        "unchanged_entry_status": "draft_pending_independent_review",
+        "before_correction_log_sha256": "3b6b0743c29212bcb3d18d4f4bfdbfb8b7ed2ca151b80324fa565c06042a984e",
+        "after_correction_log_sha256_219_entries": "575f2934510b10655da48e6324dc516ba0c331bc1b4c853a6525bb926bb089e8",
+        "current_log_sha256_221_entries": "ae3618539788b7e8144934771e1d8c7a2c5c5d1cfa09ea68e5d86e7d2727305f",
+        "verification_method": "先验证 json.dumps(当前221条列表, ensure_ascii=False, indent=2) 加换行与实际日志全部字节一致；同法序列化前219条，所得 SHA 与纠错记录的 after_log_sha256 一致。再在这份219条日志字节中将唯一 JSON 编码 after_reason 替回 before_reason，所得 SHA 与冻结复核2 LOG01 的旧日志 SHA 一致；结构差异仅为 [214].reason。",
+        "current_serialization_byte_identical": true,
+        "first_219_matches_correction_snapshot": true,
+        "reverse_reconstructed_sha256": "3b6b0743c29212bcb3d18d4f4bfdbfb8b7ed2ca151b80324fa565c06042a984e",
+        "reverse_reconstruction_matches_frozen_old_log": true,
+        "correction_changed_json_fields": [
+          "[214].reason"
+        ],
+        "replacement_before_after_unchanged": true,
+        "other_entry_fields_unchanged": true,
+        "other_original_218_entries_unchanged": true,
+        "later_appends_only": [
+          {
+            "json_index_zero_based": 219,
+            "chapter": 133,
+            "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+            "reason": "B14复核2 N01：调整状语位置，保留两下应答，不改变行动。"
+          },
+          {
+            "json_index_zero_based": 220,
+            "chapter": 138,
+            "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+            "reason": "B14复核2 N02：明确已有提醒与记录对象，不新增递档或传话结果。"
+          }
+        ],
+        "later_appends_note": "相对纠错时219条，仅追加索引219/220的133/138章B14日志；未审查其正文或质量，与LOG01理由更正无关。"
+      },
+      "reason": "当前221条日志中214.reason已撤去未经正文支持的“承接150引用”，保留148自书原句并由相邻预排认责对话限定含义。两阶段指纹验证证明纠错仅改reason、替换before/after不变，后续仅有B14两条追加。旧复核2中的LOG01 open保留为历史记录，由本补充报告记录关闭。",
+      "action": "无需再改 LOG01；保留冻结复核2及全部待作者裁定事项。"
+    }
+  ],
+  "byte_verification": {
+    "method": "写报告前后分别计算实际文件字节 SHA-256；不据摘要新增正文质量结论。",
+    "manuscript_count": 10,
+    "manuscript_results": [
+      {
+        "chapter": 141,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+        "expected_sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7",
+        "actual_sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 142,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+        "expected_sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba",
+        "actual_sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 143,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+        "expected_sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587",
+        "actual_sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 144,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+        "expected_sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4",
+        "actual_sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 145,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+        "expected_sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb",
+        "actual_sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 146,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+        "expected_sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6",
+        "actual_sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 147,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+        "expected_sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88",
+        "actual_sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 148,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+        "expected_sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569",
+        "actual_sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 149,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+        "expected_sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197",
+        "actual_sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197",
+        "matches_frozen_recheck2": true
+      },
+      {
+        "chapter": 150,
+        "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+        "expected_sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0",
+        "actual_sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0",
+        "matches_frozen_recheck2": true
+      }
+    ],
+    "pre_write_all_match": true,
+    "post_write_all_match": true,
+    "frozen_recheck2_reports": [
+      {
+        "path": "harness/maintenance/R005/B15/recheck2.md",
+        "sha256": "8a1aaf9fb6a97c6bedab418b19a9de1694f9e5cc8aeb90a405ece26acfaad5a3",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R005/B15/recheck2.json",
+        "sha256": "4360018510039f59386ccd73721cb4cd9df4354125a3ca9602657e8b33106051",
+        "unchanged": true
+      },
+      {
+        "path": "harness/maintenance/R005/B15/reader-review2.json",
+        "sha256": "6a87a6e12204a3eb9f4d5f166ee460fe54791bde84580640349789852b186063",
+        "unchanged": true
+      }
+    ],
+    "current_221_entry_log_unchanged_across_final_write": true,
+    "correction_record_unchanged": true,
+    "observed_concurrent_append": "本轮先观察到219条纠错日志，写入前校验发现变为221条，已停止旧指纹写入。按补充冻结边界重新核验并绑定当前221条实际字节，未把219条指纹冒充当前日志指纹。"
+  },
+  "quality_review_performed": false,
+  "manuscript_full_read_performed": false,
+  "coverage_note": "读取日志、更正记录及冻结复核2的绑定/问题/结论字段；B15十章正文仅读取字节核SHA，未作新的全文首读、文学复核或52项吸引力审读。未读取B14正文、未来章节或额外作者资料。",
+  "manuscript_edits_performed": false,
+  "existing_report_edits_performed": false,
+  "edit_log_edits_performed": false,
+  "quality_verdict_changed": false,
+  "unchanged_quality_conclusions": {
+    "recheck2_verdict": "issues",
+    "reader_review2_verdict": "needs_revision",
+    "pending_author_not_resolved": true,
+    "note": "本次日志关闭不是作者事实裁定，不强关F类等待裁项，不构成正文放行。"
+  },
+  "frozen": true,
+  "freeze_scope": "本次独立日志元数据复核，当前221条日志及B15实际未变稿；以所列SHA为准。",
+  "only_output_path": "harness/maintenance/R005/B15/log-recheck.json"
+}

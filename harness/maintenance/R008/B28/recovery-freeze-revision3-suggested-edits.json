@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "kind": "independent-frozen-writeback-residual-suggestions",
+  "batch": "R008-B28",
+  "date": "2026-11-10",
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+  "independent": true,
+  "body_digest": "b6adf9c6f3870fea941bd3339f5fb8bd9c821c749a90baa927bc3cb20cf3a07a",
+  "freeze_path": "harness/maintenance/R008/writeback-freeze.json",
+  "freeze_revision": 3,
+  "freeze_sha256": "564c141211821358a5851d1f5d9ef13792d1df6f9dd98dd5b4242e5dfb1e5c9f",
+  "scope_chapters": [
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280
+  ],
+  "verdict": "needs_revision",
+  "edits": [
+    {
+      "id": "RB28-W054",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "line": 427,
+      "old": "“两栏不写来处”仅指拟示人版本省去敏感来源，不等于销毁私存出处。",
+      "new": "“两栏不写来处”指两栏本身也暂不对外、栏上不抄能牵出人的来历；原信、原收条、核认与证词私存分源不毁。",
+      "related_issue_ids": [
+        "RB28-N14"
+      ],
+      "reason": "“仅指拟示人版本”把限制缩成一个拟公开版本的脱敏规则；280实际决定是两栏暂不对外且栏上不抄敏感来历，私存原件与来源另留。原始A18行及术语词典已修，摘要仍须同口径，不能据拟字新增版本或授权。",
+      "applied": false,
+      "old_occurrences": 1,
+      "new_occurrences_before_application": 0
+    },
+    {
+      "id": "RB28-W055",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "line": 459,
+      "old": "| 277 | 送料入库只看准许范围；右臂吊着，左手扶车目数；人的页与货物页不合成无缺链。 |",
+      "new": "| 277 | 送料只到仓单室门外收签口，不入室；右臂吊着，左手扶车目数；人的页与货物页不合成无缺链。 |",
+      "related_issue_ids": [
+        "RB28-N15",
+        "RB28-N17"
+      ],
+      "reason": "R008实际校准仍用“送料入库”，会把货送到口子简写成人物获准入室；277实际到口子为止，人物台账和该章原始实录也已限于门外。按已有权限补清地点，不改装卸事实或另加许可。",
+      "applied": false,
+      "old_occurrences": 1,
+      "new_occurrences_before_application": 0
+    },
+    {
+      "id": "RB28-W056",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "line": 462,
+      "old": "| 280 | D144仅验旧楔留用，C2-B不变；两栏对外省敏感来源，私存出处不断；下一步核留下者。 |",
+      "new": "| 280 | D144仅验旧楔留用，C2-B不变；两栏均暂不对外，栏上不抄敏感来历，原信、原收条、核认与证词私存分源不毁；下一步按原自报／见证／待核状态核留下者。 |",
+      "related_issue_ids": [
+        "RB28-N14"
+      ],
+      "reason": "实录摘要“对外省敏感来源”没有保留两栏尚不公开的前提，容易被下次加载当成已经可对外展示；原始280实录已准确，本项只让R008摘要与实际决定一致。留原待核状态以免“核留下者”简化成全部已核。",
+      "applied": false,
+      "old_occurrences": 1,
+      "new_occurrences_before_application": 0
+    },
+    {
+      "id": "RB28-W057",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_original_terminology_and_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "line": 71,
+      "old": "缺角同在一角只证到同模、同类，",
+      "new": "缺角同在一角只证到同模、同类；此处“同模”指所见印样与缺角形制相同，不是已验明同一件实体模具，也不据此认定制印者或供货源；",
+      "related_issue_ids": [
+        "B28-002"
+      ],
+      "reason": "保留正式“同模、同类”及缺角模制非磕损的形制事实；原上下文只列缺角位置/形制并明说不定实印及同源，未记录验明同一件实体模具。按主笔提出并经原行核查的最小澄清，限定本条同模是所见印样与缺角形制相同，不补制印者或供货源；不是用正文把正式同模降为全未定。旧直接删词提案撤回。",
+      "body_evidence": [
+        {
+          "chapter": 275,
+          "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+          "line": 19,
+          "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+          "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”"
+        }
+      ],
+      "applied": false,
+      "old_occurrences": 1,
+      "new_occurrences_before_application": 0,
+      "withdrawn_previous_new": "缺角同在一角只够认到同类印样，",
+      "proposal_revision": 2,
+      "classification": "术语义项歧义澄清，不删除正式形制事实",
+      "fact_priority_review": "harness/maintenance/R008/B28/recovery-stamp-term-priority-review.json",
+      "body_evidence_policy": "正文仅用于核相容性；澄清依据优先取两正式术语及正式A18同模括注。"
+    },
+    {
+      "id": "RB28-W058",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_original_terminology_and_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "line": 199,
+      "old": "各处只写到缺角落在同一角，能证到同模、同类，",
+      "new": "各处只写到缺角落在同一角，能证到同模、同类；此处“同模”指所见印样与缺角形制相同，不是已验明同一件实体模具，也不据此认定制印者或供货源；",
+      "related_issue_ids": [
+        "B28-002"
+      ],
+      "reason": "保留正式“同模、同类”及缺角模制非磕损的形制事实；原上下文只列缺角位置/形制并明说不定实印及同源，未记录验明同一件实体模具。按主笔提出并经原行核查的最小澄清，限定本条同模是所见印样与缺角形制相同，不补制印者或供货源；不是用正文把正式同模降为全未定。旧直接删词提案撤回。",
+      "body_evidence": [
+        {
+          "chapter": 275,
+          "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+          "line": 19,
+          "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+          "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”"
+        }
+      ],
+      "applied": false,
+      "old_occurrences": 1,
+      "new_occurrences_before_application": 0,
+      "withdrawn_previous_new": "各处只写到缺角落在同一角，只够认到同类印样，",
+      "proposal_revision": 2,
+      "classification": "术语义项歧义澄清，不删除正式形制事实",
+      "fact_priority_review": "harness/maintenance/R008/B28/recovery-stamp-term-priority-review.json",
+      "body_evidence_policy": "正文仅用于核相容性；澄清依据优先取两正式术语及正式A18同模括注。"
+    },
+    {
+      "id": "RB28-W059",
+      "status": "open",
+      "severity": "中等",
+      "scope": "A18_original_terminology_and_R008_annotations_only",
+      "path": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "line": 749,
+      "old": "同类或同模印及数号排法提供运输核对方向",
+      "new": "同类或同模印（此处同模仅指所见印样与缺角形制相同，缺角为模制而非磕损；不表示验明同一件实体模具、制印者或供货源）及数号排法提供运输核对方向",
+      "related_issue_ids": [
+        "B28-002"
+      ],
+      "reason": "保留正式“同模、同类”及缺角模制非磕损的形制事实；原上下文只列缺角位置/形制并明说不定实印及同源，未记录验明同一件实体模具。按主笔提出并经原行核查的最小澄清，限定本条同模是所见印样与缺角形制相同，不补制印者或供货源；不是用正文把正式同模降为全未定。旧直接删词提案撤回。",
+      "body_evidence": [
+        {
+          "chapter": 275,
+          "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+          "line": 19,
+          "sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be",
+          "quote": "“只能记到同类。”林渡说，“不能说是同一枚实印，更不能说出印的是一家。印可以照同样的模子做，盖在什么东西上，还得另看。”"
+        }
+      ],
+      "applied": false,
+      "old_occurrences": 1,
+      "new_occurrences_before_application": 0,
+      "withdrawn_previous_new": "同类印样及数号排法提供运输核对方向",
+      "proposal_revision": 2,
+      "classification": "术语义项歧义澄清，不删除正式形制事实",
+      "fact_priority_review": "harness/maintenance/R008/B28/recovery-stamp-term-priority-review.json",
+      "body_evidence_policy": "正文仅用于核相容性；澄清依据优先取两正式术语及正式A18同模括注。"
+    }
+  ],
+  "body_edits": [],
+  "note": "W054—W056不变；W057—W059换成保留正式同模、同类的义项澄清版，旧直接删词提案撤回未应用。共6项仍未应用，正文无需改动。原53/R1与N18闭环另记。",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/人物状态台账.md",
+      "sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "actual_sha256": "8602909c71018e9a5b7a359d134f3a17bb41a89e1347a619753770b5204476fb",
+      "sha_match": true
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/资源与时间台账.md",
+      "sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "actual_sha256": "07cabba18bdf626fc0f10d17a4eef50af6b57a5e2d46a4d951b4c1490eec517e",
+      "sha_match": true
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "actual_sha256": "5a2d2e13b01c59af6ffb77a53ebe31fb507f4a637e285a2da8815fa058e86f01",
+      "sha_match": true
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/事件与地点时间线.md",
+      "sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "actual_sha256": "c47bcd0fc30f2cc27abd6c7fd24619178773bda50b5de0ff9804b205144c0ff2",
+      "sha_match": true
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语与命名表.md",
+      "sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "actual_sha256": "ad5f8938ca64c9ab1f62660b45f02dd6977ae1d27f50f6e679264f550f752735",
+      "sha_match": true
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/术语词典.md",
+      "sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "actual_sha256": "a169ddd188a4c9f4f52a2639db4b5f4b482e781666537d7460c9bb020f6a1239",
+      "sha_match": true
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/逐章卡.md",
+      "sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "actual_sha256": "603aebe06d5c412a89fe449a8d17e3b645a46dab6a002c25885fbf8fe99d1b9e",
+      "sha_match": true
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R008/writeback-candidates/十章篇章卡.md",
+      "sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "actual_sha256": "85b7d8efab69556d01dc2638b5e6a71e5c0c2320614ef5aace0c5b00fee0a716",
+      "sha_match": true
+    }
+  ],
+  "supersedes_delivery": "harness/maintenance/R008/B28/recovery-freeze-revision2-suggested-edits.json",
+  "overlap_note": "本文件前3项就是v2文件W054—W056，非新增重复应用；后3项W057—W059新补。主笔只应用本合并文件6项，不先应用v2再应用v3。与原53项/R1均不重叠；不含正文建议。",
+  "revision3_scope_note": "实核八SHA；逐章卡仅逆换第228行“人手／岗位”为“人手足”即恢复v2 SHA，证明只有A17中性标签差异。A18字句及另7候选不变，不签A17全文。",
+  "delivery_revision": 2,
+  "fact_priority_review": "harness/maintenance/R008/B28/recovery-stamp-term-priority-review.json"
+}

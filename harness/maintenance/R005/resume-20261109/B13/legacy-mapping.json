@@ -1,0 +1,920 @@
+{
+  "reviewer": "/root/review_221_240",
+  "writer": "R005-resume-main",
+  "manuscripts": [
+    {
+      "chapter": 121,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+      "sha256": "8c3a5b59b9efb779a7a78358dc9efe980ef54c6865f1409774ca0588df9381d9"
+    },
+    {
+      "chapter": 122,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+      "sha256": "afd39152bfc2a7691a12c6cb6b7cdfcbe9abcacc8fab50f63f10814869a16526"
+    },
+    {
+      "chapter": 123,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+      "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+    },
+    {
+      "chapter": 124,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第124章_死者领走的滤件.md",
+      "sha256": "a8658ff0349749fef747293aa868415e794461821bb0523da21016d1ab74fbca"
+    },
+    {
+      "chapter": 125,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第125章_旧门牌没有注销.md",
+      "sha256": "7c9ab15c34f3aa1810bb5fa3d09885f34bf83f011188f66819be7027b3b84af9"
+    },
+    {
+      "chapter": 126,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+      "sha256": "e76a8b81e8b787d9ece86c6ee9aa7fa3b106da055eb7667b8ff0a5bb9c7e4d76"
+    },
+    {
+      "chapter": 127,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+      "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112"
+    },
+    {
+      "chapter": 128,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+      "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+    },
+    {
+      "chapter": 129,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+      "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+    },
+    {
+      "chapter": 130,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+      "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+    }
+  ],
+  "source_digest": "73bb7c41065bb2c7359daa202964a5a217ef9dd4013eb379d98f123bdfa6efdd",
+  "issues": [
+    {
+      "id": "B13-I01",
+      "chapter": 121,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "六层赴五层写成上行，回六层又写下行；126沿用同一倒置口径。129又称五层往下两层就是四层。首读只能察觉口径互撞，查固定剖面后确认城市层号不倒排。120边界也有既有方向依赖。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 121,
+          "quote": "弥娅把小凳拖到桌边坐下。她的腿伤未愈，从六层下到五层这段检修道，虽有阿九扶着、沿绳慢挪，腿仍疼得发颤；坐下后，她先把夹板的系带理顺，才翻开见证账，一页一页推到戊字一面前。她照杜姨教的法子念：数目、用途、见证人，三样念完，再推下一页。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+          "sha256": "8c3a5b59b9efb779a7a78358dc9efe980ef54c6865f1409774ca0588df9381d9"
+        }
+      ],
+      "resolution": "六层至五层明确下行、返六层明确目的地；129五层下四层，未新增绕升路线。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I02",
+      "chapter": 123,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "本章开头为“支路通水的第二日”，中段却变成今天才通水。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 123,
+          "quote": "“这一张得另核。”林栖把单子转过去，“滤件两片，前天领的。我们修的滤槽昨天才通水，不能因为此前堵着，就认这两片不该领；先对它填的是哪段管、谁领走、谁验收。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+          "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+        }
+      ],
+      "resolution": "通水第二日查前天领单，昨天/前天口径一致，堵槽不自动指冒领。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I03",
+      "chapter": 130,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "本章三日往返的准备、林渡“不在的这两天”与回棚叙述的实际耗时未分开。对照资料另有硬分歧：时间线121—130记D4至D7，资源台账与一处章卡A03记至D10，章卡另一处又为D7。127夜点名与128昨夜/今早也不能直接套同一D6。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "初探后的第三日晌午，林渡先去了账桌。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "D8初探、D9第二日工/三班数纸回报、D10四人当日短探；原三日方案保留未执行，领耗余分开。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I04",
+      "chapter": 123,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "“十年没人动过”进一步落实成柜门十年未动；124却直接从柜中查近三个月的单据，并约定每月开箱。长期无人核查与物理上无人开柜被混为一事。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 123,
+          "quote": "出发前，林渡安排了两手。明面上，丁字三的排班照旧，短接力照走，不因查旧柜停掉领水的班；暗地里，林栖带上册子和炭笔，只抄不揭——原件留在柜里，抄本带回来，两下分开存。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+          "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+        }
+      ],
+      "resolution": "只保旧号无人追问，不再说柜门十年未开；124可核近期单据并按月开箱。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I05",
+      "chapter": 123,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "冒领讨论已被居民听见，收束却说只有五人知情，且戊字一的获知过程未写。124现场有林渡、林栖、记账员、丁字三、六叔，却把四个点头的人说成全体知情者。不能用“这事”混并听说异常、看过原单、知道门牌三种权限。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 123,
+          "quote": "林渡把刚抄下的七个日期夹进册里，交林栖收着。记账员拿钥匙，丁字三留意门外的领水队。屋里方才有人议论过冒领，话已经不只落在几个人耳朵里；他管不住别人猜什么，只能先管住这份抄件，不让未经核实的工号从自己手里传出去。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+          "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+        }
+      ],
+      "resolution": "取消只有五知情者，居民听过议论与关键抄件权限分开；124具名在场含六叔。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I06",
+      "chapter": 124,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "前面已经锁柜、钥匙别回腰上、林渡出门回看，结尾又钥匙拧到一半，动作重复且倒退。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 124,
+          "quote": "走到门边，记账员又停了一步，问了一句，声音很轻：“要是墙里头真有人——这十年的料，算谁欠谁的？”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第124章_死者领走的滤件.md",
+          "sha256": "a8658ff0349749fef747293aa868415e794461821bb0523da21016d1ab74fbca"
+        }
+      ],
+      "resolution": "钥匙已锁柜回腰，末提问在门边，不再重复拧锁退回动作。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I07",
+      "chapter": 125,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "125、126为四十七，121、123、127及120总册为四十八；更深问题是总册含七层留守三点，资源台账却把48全部写成五层棚安置。R004已把该跨范围混计留待另审，不能按17+31或减3自行解决。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 126,
+          "quote": "林渡收起交接单，记五层借棚沿原承接账暂记四十八份。六层每批勾掉的是原睡位，旁边接上五层新睡位；七层留守仍在支账，来往送水和上工的行逐条相连。尚未当面认到的，他在位置栏圈出，明早请各摊主带单来对。棚中实到的总数那格先不填，等几本册里重叠的行都核清，再请人在格边见证。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+          "sha256": "e76a8b81e8b787d9ece86c6ee9aa7fa3b106da055eb7667b8ff0a5bb9c7e4d76"
+        }
+      ],
+      "resolution": "48为原承接暂份/去重待核，五层迁位与七层支账相连，不造47/45总人口或失人。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I08",
+      "chapter": 125,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "八只罐已经全部灌满，随后又多兑小半罐，额外饮水装在哪里不明。这不是可擅减的水量。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 125,
+          "quote": "出发前林渡向杜姨报清：林渡、祝衡、槐七、岑野四人探线，天黑前回，带水从各自实领份里扣。杜姨记四行：七只罐装满，第八只先装半罐，仍用原来八只，不添容器。她从自己已经领下的凉时存水里量出半罐，把末罐添满：“这一半划我账上。你们各人少出的那一点也记清，别再当作各自领足两罐。”八只满罐分给四人；领出、路上实耗和回来余水各留一栏，返棚再销。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第125章_旧门牌没有注销.md",
+          "sha256": "7c9ab15c34f3aa1810bb5fa3d09885f34bf83f011188f66819be7027b3b84af9"
+        }
+      ],
+      "resolution": "七满一半加杜姨既领半罐至八满，无第九罐；四人出行账和水领耗余分栏。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I09",
+      "chapter": 125,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "同章已经承认十年前的四口如今多少不明，后文却又当成四人持续住十年，并把无声直接判成有人屏息听。人迹支持可能有人，不能确认室内人数、动作和连续居住年限。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 125,
+          "quote": "落笔的时候他想起那扇没敢敲的门。旧册登记四口，门牌没有注销，近来的滤件也有人签收；这几样还缺一个能把它们连起来的人。他在门台上站的那几息，门后没有出一点声。里面的人是否也在听，他不知道，只能先把门前留给人家。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第125章_旧门牌没有注销.md",
+          "sha256": "7c9ab15c34f3aa1810bb5fa3d09885f34bf83f011188f66819be7027b3b84af9"
+        }
+      ],
+      "resolution": "旧册四口不等当前人数，门后无声不替其补屏息动作，保外部人迹。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I10",
+      "chapter": 126,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "先报第七批清空六层，随后重新从首批托板、伤员两波写起，末尾再来最后伤员与托板；林栖先在五层划区却在六层报清，槐七兼修棚与每批领路，轮班交接缺口。七批与每批十人上下也混了成人、物资和担架单位，不能据此重算全队。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 126,
+          "quote": "卧床四人分两波抬入。杜姨沿干墙留四处借板位，首处给裴七，第二处给裹帆布的老人；两人随第一波先落定。第二波的两位尚未能补全姓名，就沿六层原睡位记第三板、第四板，由抬手当面指认对应行。第三板先于末批到，第四板留待最后一趟，四处都各有去向。杜姨听完，把板位与转运行接上，没有给空着的姓名栏另编一个人。棚顶水滴落在门外，她接一滴搓了搓，回头喊修棚的：“灰泥掺稠些，今夜就要顶用。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+          "sha256": "e76a8b81e8b787d9ece86c6ee9aa7fa3b106da055eb7667b8ff0a5bb9c7e4d76"
+        }
+      ],
+      "resolution": "准备/首波2板/第二波第三板与末第四板/交割/报清顺序闭合；林栖回六层后随末批回棚，槐七仅首批探路后归修棚。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I11",
+      "chapter": 127,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "挑芯、剪芯、末段再剪灯芯，把便携冷凝灯变成有灯芯的灯。R004明确随队只有一盏手摇发电冷凝灯，无火焰无灯芯；本时点人物台账仍承接该灯，没有领到新油灯的来源。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 127,
+          "quote": "手摇冷凝灯放在桌角，照两本册子的中缝。工班员停笔摇，林栖口述，听清一行再落笔；换林栖左手摇时，他便念自己的抄件。纸角卷起，先放下笔压平，等光稳了才接着核。灯暗两人就歇片刻，没人举着灯催快，光也只留在册面，没有抬向睡区。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+          "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112"
+        }
+      ],
+      "resolution": "唯一手摇冷凝灯，无芯火；轮手供光、暗时歇与照射范围可见。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I12",
+      "chapter": 127,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "前句把重号来源写成船舱身份片上的数、另一孩子自报，后句却说两个号都由林栖按顺序编出。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 127,
+          "quote": "“号是我记的。”林栖说，“一个照腕片抄，一个听孩子报，记进来没分清来源。如今两个孩子用着同一个号，得在我们的水账上分开。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+          "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112"
+        }
+      ],
+      "resolution": "重号来自记录两种来源，不说两号皆编；只分本队水账别号，不改腕片系统号。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I13",
+      "chapter": 127,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "开头两本是公共册与工班员携来的系统抄件；工班员已收走抄件，结尾却又摞两本，并把公共册内部的今天页变成另一本。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 127,
+          "quote": "林栖收好公共册，将两名孩子的对应行夹在今日页内。工班员带走抄件，明日交戊字一核；本队仍照这页点名发水，不等于对方已经盖章。她借灯最后看清原片号、册内别号和衔接旧行的日期，便停下摇柄。光暗后，她将灯留在账桌上，没有带回铺位。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+          "sha256": "92e135322f0bc89887cae7da45964c0a027857b7266db51fdeb0051610ddb112"
+        }
+      ],
+      "resolution": "工班抄件带走，公共册留棚；今日页仍是册内页，不凭空两本回到林栖手里。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I14",
+      "chapter": 128,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "换药报价“两个工”，凭条只落实小石“捆料工一日”，继而“药换了”；130又已做两天、下一日仍有任务。人头、人日、班次和验工/预支药没有分开，无法确认欠工或到账状态。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 128,
+          "quote": "“一个人做两日，会捆料、认绳结就行。”戊字一说，“先去一日，验过再续第二日；每日做完记已做，没做的记待做。药柜能给多少，罗头儿得回条，我们不能先替他许齐。”她看向小石：“你捆桶的手法，我上回瞧见过。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+          "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+        }
+      ],
+      "resolution": "两个工明确两工日、首条/续日/验工分列；130实际已做仍待实交，不虚写五包到库、不加第三工日。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I15",
+      "chapter": 128,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "正文把碘盐、盐药混近，并给出“伤口洗得再净，水里没盐…照样烂”的绝对因果；本地设定允许盐药处理伤口，却未把这瓶碘盐定义成同一种处理药材。这里核的是小说物质来源与规则，不作现实诊疗意见。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 128,
+          "quote": "林栖隔着瓶壁看旧签，没启封，将它单列作“用途待核，未使用”。裴七换敷料仍只能从原来剩下的盐药和已领细布里扣，不能把这瓶陌生存货算作补齐。戊字一送他们出门，到门槛才压低了声。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+          "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+        }
+      ],
+      "resolution": "碘盐封存待核，与五包盐药需求分开，不洗伤口、不背书药效；原余药照既有实扣。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I16",
+      "chapter": 128,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "124近三个月七次，128扩展为一年七次、十年不断；单靠眼前七张单据不能推出十年同样频率。戊字一可提供新证言，但需明确这是他的任期记忆还是查过逐年账，不宜把几组数写成彼此等价。并非据七次即可判定数字绝不可能共存。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 128,
+          "quote": "“配水站的账，过我的手。”戊字一的声音放得很平，“那个号的领料，从我接班的头一年就在走。你们刚查的三个月里有七次，往前十年的单子也在。我们工班内部不是没人提过，提了三回，三回都没有下文——上头的批语只有一句：按单发货。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+          "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+        }
+      ],
+      "resolution": "三月七单实证与戊字一任内十年单据分别说，不自行年化频次。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I17",
+      "chapter": 129,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "旧验讫刻痕可支持工班曾来过，但现场未给可读日期或已知对应年表，却直接落到三十年前，痕迹判断超出证据。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 129,
+          "quote": "上梯的时候，林渡走在最后。他经过那处齐矮个子抬手高度的刻痕，伸手在“验讫”的两短一长上按了按——石头凉，刻痕的边却磨得光。刻痕没有落年款，林渡没往册上填年代，只记下位置。旧工班留下的验记，还得和活着的人对一次。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+          "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+        }
+      ],
+      "resolution": "旧验讫刻痕不直接定三十年前，记位置待与活人对。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I18",
+      "chapter": 129,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "主语和定语缠在一起，“我到过转角的人少”读不通。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 129,
+          "quote": "“不知道。”槐七说，“我只到过转角。来过这里的人少，正赶上一回涌的更少。要下这道坡，得先有人在这儿看——看它一个完整的来和回，数清楚了，再谈下不下。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+          "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+        }
+      ],
+      "resolution": "纠主语缠结，保槐七到转角的知识范围。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I19",
+      "chapter": 130,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "开头列槐七、祝衡、阿九后称三个，并说“我们仨”；实际林渡也随行并指挥观察，形成四个具名在场者。已读131边界明确探路四人，而130章卡/时间线又抄成三人，这是正文与已登记人数的交叉冲突。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "账桌的灯只照着名单。林渡报出：槐七带路，祝衡核册，阿九看封墙，自己领队，共四人。再添人就要从巡滤槽、守六层口子和护棚的班里抽。杜姨将四行都写进探路栏，留在棚里的人也各在原班上落了名。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "四具名探者固定，八罐同返，人数与131五人立路（加居民）分清。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I20",
+      "chapter": 130,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "129把连续三轮无误差作为放行条件，130只拿两轮且容许三息误差就出发；门槛被无声明地降低。不是加一句“谨慎”即可弥补的危险行动因果。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "岑野和搭班居民已各留过三轮记录，来汽有时八息上下，退三十息上下，歇约五十息，头两轮互差不出三息；第三班交来的原纸也收齐了，并未因此多出一组新的准数。他昨日交纸时仍咳，林渡没让他再连班。今日四人拿的是长短范围，先看现场，不把纸上的数当汽一定准点退去的凭据。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "用131原已给的第三班纸在D9补明交接，不造新第三组数；保两轮互差和现场停退，三班不是危险通行证。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I21",
+      "chapter": 130,
+      "old_status": "open",
+      "status": "closed",
+      "old_problem": "130只写放置蓝色旧扣件，正文未点名是祝衡的；资源台账却明确窗台标记为“祝衡所持那枚”，与R004修后074完整蓝扣留入口不可回取直接冲突。应准确归因于持物链，不把正文未说的物主反写成它已明说。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "临出棚时，林渡向弥娅要过留物。她取出一直保管的完整蓝扣，指给他看接头和旧痕：“那枚留在旧入口了。这枚是我的，放出去未必收得回，记我的损。”林渡当面收下，此刻才放在检修缝外的窗台下，手离开扣件，又看了一眼原先装它的空袋口。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "074祝衡旧扣不可回取；130改合法弥娅扣，正式台账错误归属须按这条正文回填，未声称旧表已发布更新。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I22",
+      "chapter": 130,
+      "old_status": "pending_author",
+      "status": "closed",
+      "old_problem": "排除已丢的祝衡完整扣后，130窗台扣件的合法来源和移交仍未确定。043铁箱夹层与046白箱形成两枚来源，068完整扣分给祝衡/弥娅，074祝衡那枚丢失；073另出现半枚断扣，不能顶替成完整扣。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "祝衡看着蓝扣的两头接口，认出是弥娅交出的那一枚。他没有说它能替谁作保，只在册上写清：弥娅同意留置，林渡经手，完整蓝扣一枚；已不在随身物里，能否取回未知。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "弥娅完整扣明确同意/交付/留置损失，半扣另物，未造第三扣或修复旧扣。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I23",
+      "chapter": 130,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "正文用章号代替人物经历，直接出现“115试重”，打断小说内时间参照。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "出发前每个人都验了一遍随身的绳——用前量毛刺，这是上回试重之后立下的规矩，如今是习惯。三根绳，两长一短，短的拴腰，长的探路。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "正文不含115章号，以人物经历称谓衔接。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I24",
+      "chapter": 130,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "“记在小石给他的那根炭条划的掌心上”修饰链错接，读者需倒读才能分清炭条来源与记号落处。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "阿九沿途看墙，到了砖色不同的交界便停一下，用小石给的炭条把位置记在掌心。撬锁拆件是他的活，可还没到墙前，他没有先把工具抵进哪道缝里。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "炭条来源与落笔掌心分开，指代可追。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I25",
+      "chapter": 121,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "林渡限知视角下叙述直接进入戊字一长期经验，并替其归纳两类谈判者；同章“像是也在掂量”又替他解释翻页。127“他说的不是恶话”则替减水提议辩护。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 121,
+          "quote": "戊字一盯着林渡看了一阵：“来这儿拍胸脯的，我见过。十九笔全答应，回头一个人也交不出。也有人听见欠账就走，一根管子都不肯碰。你只接一笔——明天这张桌前，我能见着上工的人吗？”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+          "sha256": "8c3a5b59b9efb779a7a78358dc9efe980ef54c6865f1409774ca0588df9381d9"
+        }
+      ],
+      "resolution": "戊字一经验改本人谈判对白，不进入她内心；127居民建议由对话回应，不替其辩护。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I26",
+      "chapter": 129,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "读牌对回执后紧接掏册并排再对，若只再次得到“对得上”，没有新证据，验证动作重复且“他”的指代增负担。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 129,
+          "quote": "祝衡把回执的抄样凑到牌边对方向——回执上的送达简记与这道坡指向同一段。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+          "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+        }
+      ],
+      "resolution": "只保一次方向核对；林渡另记缺字，槐七说路线范围，不重复同项得同结论。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I27",
+      "chapter": 130,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "阿九扫砖缝、壁龛、砖色并逐段记录的局部句子接近项目清单，观察项目多，逐项结果未落地；并非本章所有检查都无用。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "阿九沿途看墙，到了砖色不同的交界便停一下，用小石给的炭条把位置记在掌心。撬锁拆件是他的活，可还没到墙前，他没有先把工具抵进哪道缝里。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "观墙缩为已有砖色交界结果，并与两层浆泥待核相接，不添新开孔证据。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I28",
+      "chapter": 128,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "“那影子算盘不响了，笔还在走”把影子、算盘声、笔的动作挤在一个失配主语里，感官对象不清。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 128,
+          "quote": "林渡站在门槛外。天光从他背后照进配水站半开的门，戊字一正伏案记料。算盘声停了，笔还在走。药有了着落，绳借到了手，可戊字一临门那句话，比药和绳都重：",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+          "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+        }
+      ],
+      "resolution": "算盘声、戊字一伏案与光源分别落在真实对象，不把影子当算盘主体。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I29",
+      "chapter": 122,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "孩子被留在拆板小棚门口，却从棚门内看到大人抬槽；随后又到敲滤料处，拆板棚与滤槽作业面的空间关系、允许接近的安全边界未交代。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 122,
+          "quote": "结块的滤料先在槽外砸。砸滤料有讲究——不能搁铁上砸，铁硬，料脆，一砸就碎成面；得垫着旧布，拿木槌隔着布敲。老搬运工边敲边念，留在小棚门侧的两个孩子听见了，跟着学口诀：“布包着，轻着敲，碎了不算好，散了才算好。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+          "sha256": "afd39152bfc2a7691a12c6cb6b7cdfcbe9abcacc8fab50f63f10814869a16526"
+        }
+      ],
+      "resolution": "孩子在拆板棚门侧，搬槽作业区不得进，口诀从邻支路可听见；不穿场景墙看槽。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I30",
+      "chapter": 122,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": "读者知道在槽口铺料，却不知道闭合槽壁哪一处露出侧向分层断面。观察结论建立在尚未交代的可视面上。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 122,
+          "quote": "她把图和六叔刚才报的六层记录并排放着。下面几层已经盖住，不能凭眼前这一层补画；厚度认先前记下的数，槽口图只记此刻看得见的边缘和铺面。往后再拆槽，接手的人也知道哪一项是当场量的，哪一项还得重新验。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+          "sha256": "afd39152bfc2a7691a12c6cb6b7cdfcbe9abcacc8fab50f63f10814869a16526"
+        }
+      ],
+      "resolution": "只看槽口铺面/边缘，分层厚度来自先前六叔口报实记，不设透明壁。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-I31",
+      "chapter": 122,
+      "old_status": "open",
+      "status": "closed",
+      "old_problem": "局部温差直接变成过压成因定论，“支路堵四十天”又被直接等同主槽憋压四十天；六叔先说征兆，后续却不再保留推断边界，泄压阀与引水作用也容易混读。",
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 122,
+          "quote": "通水先试槽前的进水阀。六叔只拧开一点，水沿原进水管进入滤槽，槽里传出闷响。他让人守着末端回话，自己盯槽脚：每加一点开度就停十息，听管响，看楔子是否滑移。第三次试开时，手始终留在阀柄上，有异样便关小进水，不把试水当作已经排掉了主槽的压力。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+          "sha256": "afd39152bfc2a7691a12c6cb6b7cdfcbe9abcacc8fab50f63f10814869a16526"
+        }
+      ],
+      "resolution": "具体器件未在规则/术语定义成泄压阀，按同一原入槽阀操作纠名；温差留异常，限小流依据现场水势槽响，无新旁路。",
+      "closure_maintained_or_updated": "updated_after_current_source_review",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-RN01",
+      "chapter": 121,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 121,
+          "quote": "戊字一把簿子往桌上一顿：“你们知道这十九笔是怎么欠下的么？”不等人答，她自己往下说，“工班十一个人，三班倒，一个萝卜一个坑。上头排的抢修单，永远先紧着泊位和上城的主街——外缘的管子排在最后。排到最后就是排不上。四十一天前丁字三报滤槽，单子我亲自送上去的，送上去就沉了。不是没人看见，是看见了也排不上。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+          "sha256": "8c3a5b59b9efb779a7a78358dc9efe980ef54c6865f1409774ca0588df9381d9"
+        }
+      ],
+      "resolution": "旧已闭谈判承接保留为戊字一本人说欠单制度，不代叙其长期内心。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-RN02",
+      "chapter": 123,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 123,
+          "quote": "“看账行。”记账员说，“可我先把丑话说前头——旧柜里这个号，有人问过，没得到答复。真要追到号后的人，往下查，就得有人担待。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+          "sha256": "987502d4f8122c72a986d62db94670247af332b16c8bdfd8b7c1292ca1179af3"
+        }
+      ],
+      "resolution": "旧已闭追账风险与林渡担责仍由当前对白实现。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-RN03",
+      "chapter": 126,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 126,
+          "quote": "从六层往五层搬，照着杜姨画的单子走：头一批先送托板上的病弱和孩子；后续各批带谁、带哪些铺盖，逐项照单接，不等某一类全部到齐再接下一类。林栖划好棚内的线，便拿着单子回六层协助收尾。此后每过一批，检修道那头传一声“过半”，棚口这头应一声，等人到了，再在名单上勾记。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+          "sha256": "e76a8b81e8b787d9ece86c6ee9aa7fa3b106da055eb7667b8ff0a5bb9c7e4d76"
+        }
+      ],
+      "resolution": "旧已闭分类先后不绝对化，各批按清单接，不重算人口。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-RN04",
+      "chapter": 130,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 130,
+          "quote": "林渡把册子摊开，添上今天的最后一行：四层封墙一面，浆泥两层，补法相似、施补者待核；外段封存，牌字“勿启”；路，止于墙。写完他把笔搁下，把今天在墙前没有答的那个问题，原样抄在了下一页的页首——料是怎么进去的。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+          "sha256": "63494ffc7674162d6994f2a07c1ef5d5a412b33f9a8ea6663c62320e0e5e45df"
+        }
+      ],
+      "resolution": "旧已闭相似补法不等同手，后续续封证据未倒灌。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-RN05",
+      "chapter": 128,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 128,
+          "quote": "“裴七。”林渡说，“外壁摔的，爬断阶加重的。四十一天前丁字三递报，你送单，这两步你已经说过。是不是替裴七报，还得核原单，不能因为都是伤了腿，就认作一个人。”",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+          "sha256": "20d455e51d288fcee52d12608822611fec797adcf8bfbd48dd788c2bc74d6aa1"
+        }
+      ],
+      "resolution": "旧已闭报修/送单/受伤人不混，41天不倒给裴七伤史。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    },
+    {
+      "id": "B13-RN06",
+      "chapter": 129,
+      "old_status": "closed",
+      "status": "closed",
+      "old_problem": null,
+      "source_presence": [
+        "issue-index.json",
+        "record.pending.json"
+      ],
+      "old_reports_unchanged": true,
+      "current_evidence": [
+        {
+          "chapter": 129,
+          "quote": "没人再往下问。祝衡张了张嘴，又停住。",
+          "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+          "sha256": "8983eb32dd0cec03d263038bb20e3c255cf5c7f9352365a76fa6875abfbc767b"
+        }
+      ],
+      "resolution": "旧已闭尊重名册边界保留，未借沉默恢复全知路线。",
+      "closure_maintained_or_updated": "maintained_after_full_current_reread",
+      "scope": "manuscript-and-linked-fact-correction-basis; actual writeback publication separately verified by root"
+    }
+  ],
+  "source_artifacts": [
+    {
+      "path": "harness/maintenance/R005/issue-index.json",
+      "sha256": "45cb9f45e11c4bf215c1988f85f10477f8c8c67b7e5fe92d9a0cfca4d2457ffd"
+    },
+    {
+      "path": "harness/maintenance/R005/record.pending.json",
+      "sha256": "351d65b388582d899dc4c7dffef76d260cc6f8b21b94b756d7fd47ea989f95fe"
+    }
+  ]
+}

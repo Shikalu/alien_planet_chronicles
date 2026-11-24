@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "scope": [
+    51,
+    100
+  ],
+  "status": "verified_and_integrated",
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "batches": [
+    {
+      "id": "B06",
+      "start": 51,
+      "end": 60,
+      "status": "verified_and_integrated",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B06",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B06/resume-recheck2.json",
+        "sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+        "reviewer": "01a1b002-648c-7311-a0a2-647911278770",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "932d4ccba0c1790bf8fcdf36285dace20f19aa2091dcf5c5ed7aa7c5af840d09",
+        "verdict": "pass",
+        "scope": "原独立读者本轮仅054全文、053末10行/055前23行；其余九章SHA相同继承。"
+      },
+      "published": true,
+      "workcopy_status": "removed_after_exact_byte_verification",
+      "formal_path_mapping": "harness/maintenance/R004/release-file-mapping.json"
+    },
+    {
+      "id": "B07",
+      "start": 61,
+      "end": 70,
+      "status": "verified_and_integrated",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B07",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B07/final.json",
+        "sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+        "reviewer": "/root/r004_b08_reader",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "9ee64fdb866df7f30c8f0c3dc63a8f1118747856e0ac465a7f0ea5ae6dd7fd07",
+        "verdict": "pass",
+        "scope": "原报告声明先完整读061—070工作稿，再查资料，并全文核060接口；曾读071—090，非对后续未知的盲读。"
+      },
+      "published": true,
+      "workcopy_status": "removed_after_exact_byte_verification",
+      "formal_path_mapping": "harness/maintenance/R004/release-file-mapping.json"
+    },
+    {
+      "id": "B08",
+      "start": 71,
+      "end": 80,
+      "status": "verified_and_integrated",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B08",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+        "sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+        "reviewer": "01a1b005-2b8a-7563-a88c-e562ee45301e; /root/r004_b06_reader",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "6f54feb6c8aab789ffb9e7db5fbc140a91fac3ed6301a08ed1966dc7c3e6a114",
+        "verdict": "pass",
+        "scope": "071/076新稿补审＋其余八章同SHA原独审；非重新全文审十章。",
+        "inherited_report": {
+          "path": "harness/maintenance/R004/B08/final.json",
+          "sha256": "374698d3f7cbc4f6a128b0a4d1a2b5422966415392b489ec47a304bf6cff13fc"
+        }
+      },
+      "published": true,
+      "workcopy_status": "removed_after_exact_byte_verification",
+      "formal_path_mapping": "harness/maintenance/R004/release-file-mapping.json"
+    },
+    {
+      "id": "B09",
+      "start": 81,
+      "end": 90,
+      "status": "verified_and_integrated",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B09",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B09/resume-recheck2.json",
+        "sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+        "reviewer": "01a1b000-3d2a-7830-9b32-5cfff9a58391",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "59f444a86084be34e99947e85a136b559af0280196625513c631a1526b55490f",
+        "verdict": "pass",
+        "scope": "原独立读者本轮只088全文；其余九章SHA相同继承；091全文仅用于90→91接口，不放行B10。"
+      },
+      "published": true,
+      "workcopy_status": "removed_after_exact_byte_verification",
+      "formal_path_mapping": "harness/maintenance/R004/release-file-mapping.json"
+    },
+    {
+      "id": "B10",
+      "start": 91,
+      "end": 100,
+      "status": "verified_and_integrated",
+      "working_directory": "异星录/06_执行计划/工作区/R004-B10",
+      "latest_review": {
+        "path": "harness/maintenance/R004/B10/approved-v3-recheck.json",
+        "sha256": "73c05766cf11176b2ed588719b56ea4dab36edbc9eeaa8828b0ecf8377d9c2d4",
+        "reviewer": "01a1b38c-ca54-7bf0-894c-84d73c3a1b59",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "0c8177fea94a79633e8528250be1d286d2210a23bb07ef7e2258f951d3f1ac1e",
+        "verdict": "pass",
+        "scope": "v2全十章先正文后资料首读；v3重读091/093/094/095/099/100，其余四章同SHA继承；不是再次全十章首读。",
+        "inherited_report": {
+          "path": "harness/maintenance/R004/B10/approved-v2-final.json",
+          "sha256": "4aa43d3fd2a3eaeae75bdbd787d4dfa863e7559d50ef6e52ee91f0c1759da542"
+        }
+      },
+      "published": true,
+      "workcopy_status": "removed_after_exact_byte_verification",
+      "formal_path_mapping": "harness/maintenance/R004/release-file-mapping.json"
+    }
+  ],
+  "recovery_date": "2026-11-07",
+  "recovery_note": "R004已完成正式集成及清理后五项复验；50章真实独审证据、49章修订、9份回填。历史失败及增量检查点原字节保留；393项保护通过，400/D320不变。",
+  "writeback_status": "nine_files_verified_and_integrated",
+  "latest_checkpoint": "harness/maintenance/R004/final-checkpoint.json",
+  "validation": "harness/maintenance/R004/final-verification.json",
+  "release_eligible": true,
+  "author_decision": {
+    "path": "异星录/06_执行计划/设定决策/R004_C04-C05裁定.md",
+    "sha256": "607ff3d4148155034892f897b250817f70293306340ef4c8bb3ffa54a4b02259"
+  },
+  "completed_at": "2026-11-07T10:18:02.260904+08:00"
+}

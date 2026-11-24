@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "source_digest": "829f170fa2044c9bdb7a3049f6afb27a509de3c9be6720f69250861914d73c96",
+  "scope": {
+    "kind": "targeted_short_rereview_not_new_blind_read",
+    "targeted_chapter_ranges": [
+      {
+        "chapter": 164,
+        "lines": "55—75"
+      },
+      {
+        "chapter": 169,
+        "lines": "1—6、43—67"
+      }
+    ],
+    "full_chapters_reread_this_round": [],
+    "unchanged_chapters_hash_only": [
+      161,
+      162,
+      163,
+      165,
+      166,
+      167,
+      168,
+      170
+    ],
+    "exact_edit_only_verified_by_reverse_hash": [
+      164,
+      169
+    ],
+    "prior_full_read_evidence": [
+      "harness/maintenance/R006/B17/final.json",
+      "harness/maintenance/R006/B17/final2.json"
+    ]
+  },
+  "exact_two_edits_only_reverse_sha_verified": true,
+  "other_eight_chapters_sha_unchanged": true,
+  "all_50_issue_quotes_exact": true,
+  "all_52_reader_quotes_exact": true,
+  "all_15_standard_evidence_exact": true,
+  "initial_v1_v2_frozen": true,
+  "format_and_coverage_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "strict_release_validation": {
+    "errors": [
+      "存在未通过的开篇/追读审读项"
+    ],
+    "incomplete_checks": [],
+    "reader_review_passed": false,
+    "verdict": "needs_revision",
+    "chapters": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "summary": {
+    "total": 50,
+    "initial_issues": 48,
+    "newly_detected_legacy_issues": 2,
+    "new_issues_this_round": 0,
+    "closed": 42,
+    "open": 0,
+    "pending_author": 8,
+    "unresolved_blocking": 8,
+    "newly_closed_from_v2": [
+      "R006-B17-017",
+      "R006-B17-036"
+    ],
+    "checks_total": 52,
+    "checks_pass": 45,
+    "checks_needs_revision": 7,
+    "review_scope": "仅164/169指定两处与上下文定向短复核，其他证据承接v2"
+  },
+  "lengths": {
+    "161": 2347,
+    "162": 2357,
+    "163": 2332,
+    "164": 2347,
+    "165": 2369,
+    "166": 2380,
+    "167": 2314,
+    "168": 2306,
+    "169": 2360,
+    "170": 2434
+  }
+}

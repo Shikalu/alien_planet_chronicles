@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "date": "2026-11-06",
+  "kind": "mechanical_evidence_consistency_not_reader_review",
+  "all_checked_evidence_consistent": true,
+  "results": [
+    {
+      "batch": "B06",
+      "source_report": "harness/maintenance/R004/B06/resume-recheck2.json",
+      "report_sha256": "dda5066a913aac5601d5ff84536a7f43c66063fc65e1c856a802fc998046a3e8",
+      "original_source_digest_valid": true,
+      "working_path_mapping": [
+        {
+          "chapter": 51,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第051章_湿木桩.md",
+          "sha256": "6e73ee6c6bb8fab01d2e7484b1358b160473439b282efcae5852b61ad4328065"
+        },
+        {
+          "chapter": 52,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第052章_身后的平台.md",
+          "sha256": "6a3e4f983b892e66ca2b0a9caf19e7d4ed50c6701dd81ab2976b3c6e455fa648"
+        },
+        {
+          "chapter": 53,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第053章_两条路线.md",
+          "sha256": "31352517f833a094f9c1b54ddfeaede1bfde039317459ba6633ee6658f7384c8"
+        },
+        {
+          "chapter": 54,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第054章_上方截击.md",
+          "sha256": "b20ac706ca3f29adfebefdc4628f3b7b7d516c28c6168184aa33b4ab4a10b6ef"
+        },
+        {
+          "chapter": 55,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第055章_备用缆绳.md",
+          "sha256": "04d786a7da5816a637b504091fc11ac8a2e8027df5ee059bec34012e27b8fe1a"
+        },
+        {
+          "chapter": 56,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第056章_黑暗缺口.md",
+          "sha256": "e2c9382d56540b904c94b721c4732f15579a8451ed87a75da1181d2731df05d2"
+        },
+        {
+          "chapter": 57,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第057章_封锁网.md",
+          "sha256": "3048f08630ef3b159fb71bf6ad299d1ca134ae2000ca23ce3ef0989b614138c5"
+        },
+        {
+          "chapter": 58,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第058章_违令切网.md",
+          "sha256": "69efd14a4b1a15ba5db55fac79661a1784aa94e9febd66358776658110ffb0b6"
+        },
+        {
+          "chapter": 59,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第059章_黑潮遮城.md",
+          "sha256": "b1aa300b6435c9f21bf66a51b4ba101af9679d2bcf7bb43d3a43a07060fb1ab9"
+        },
+        {
+          "chapter": 60,
+          "path": "异星录/06_执行计划/工作区/R004-B06/第060章_断阶下缘.md",
+          "sha256": "d4891a21233d728388b3741d55710511b2cc88b044eb2975baf257d5cda34f69"
+        }
+      ],
+      "native_structure_check": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "pass",
+        "chapters": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ],
+        "includes_prologue": false,
+        "profile": "serial",
+        "schema_quote_sha_complete": true
+      },
+      "scope": "schema/SHA/quote/coverage validation only; not new reading or publication",
+      "aggregation": "existing independent review; path normalized in memory only"
+    },
+    {
+      "batch": "B07",
+      "source_report": "harness/maintenance/R004/B07/final.json",
+      "report_sha256": "ba9a7f58cfddf2ea429200a3bacdccd1bf9e0c90c3dbb4c4b220f3b8f0485c31",
+      "original_source_digest_valid": true,
+      "working_path_mapping": [
+        {
+          "chapter": 61,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第061章_炸药残痕.md",
+          "sha256": "60e935a077e54b5eaea7d8f0ed6ba6aa47d4388169dec0aa2ab14c8496ec6cf6"
+        },
+        {
+          "chapter": 62,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第062章_父亲的手.md",
+          "sha256": "b4db14fc8be4ca0979fd4bf2eded2cbf49b853ca5728b2b954e0a1a2fe8df83d"
+        },
+        {
+          "chapter": 63,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第063章_面具之后.md",
+          "sha256": "538f3ee4931ece6bffad48372c02ee7e269121379385484abee173a5594463bf"
+        },
+        {
+          "chapter": 64,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第064章_仪器指向下方.md",
+          "sha256": "0c382405e4e7d4b7c89983e996a035dd8cb8695b6de8bff91b5600823ddb22dc"
+        },
+        {
+          "chapter": 65,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+          "sha256": "d24db2175f4c263cfb0d20b9a27f8f2aa1ea59a7d4cef6b47513414dc2ea25ca"
+        },
+        {
+          "chapter": 66,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第066章_第一次失败.md",
+          "sha256": "7aef21aea640bf75669c95ba420e5ea0686a9e169a81ec73929fbe5c52536bfb"
+        },
+        {
+          "chapter": 67,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第067章_改算风向.md",
+          "sha256": "e4edf2bf0ac60f200ed30fb0522f3e874add04c0af30e5f8f31b87b3f3508a82"
+        },
+        {
+          "chapter": 68,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第068章_短暂联手.md",
+          "sha256": "cddb9ff46b04e8d98049f149fd8c019c6249c9e975dc5015840e289a37fa70d1"
+        },
+        {
+          "chapter": 69,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第069章_跳过断口.md",
+          "sha256": "28949ee5002a61330f9ea1e4a4d33acf9cdc6c7b44d3cc5918c4960f9a3da87f"
+        },
+        {
+          "chapter": 70,
+          "path": "异星录/06_执行计划/工作区/R004-B07/第070章_父亲口哨.md",
+          "sha256": "44cb85b7b09ba4ebed425e88fac73036c0602d94ade948ef9060a9c4a9c4fc26"
+        }
+      ],
+      "native_structure_check": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "pass",
+        "chapters": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "includes_prologue": false,
+        "profile": "serial",
+        "schema_quote_sha_complete": true
+      },
+      "scope": "schema/SHA/quote/coverage validation only; not new reading or publication",
+      "aggregation": "existing independent review; path normalized in memory only"
+    },
+    {
+      "batch": "B08",
+      "source_report": "harness/maintenance/R004/B08/water-boundary-recheck.json",
+      "report_sha256": "9f9917cd076c01659c5e30d2d5b0da7c1316341d75cdb5987c7adea3954fd463",
+      "original_source_digest_valid": true,
+      "working_path_mapping": [
+        {
+          "chapter": 71,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第071章_试探攻击.md",
+          "sha256": "6b260e4d5f2854e3198c32a2f0dd136f7efe6c303beb47859511d82049051893"
+        },
+        {
+          "chapter": 72,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第072章_父亲的步法.md",
+          "sha256": "744c9149d5a5f04be3d575b1ef595af61bd18d2473fca4172dfcd08d3114ee02"
+        },
+        {
+          "chapter": 73,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第073章_测潮仪被夺.md",
+          "sha256": "1ce202c34d8ed6557eb62e7b26ccd1044f4e68c724b0103fb5931a2c0528463e"
+        },
+        {
+          "chapter": 74,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第074章_封锁命令.md",
+          "sha256": "ec8e30012b8a1bef35ecbe7872e2073c975740a8481d5a8ff8d95177a9394b5e"
+        },
+        {
+          "chapter": 75,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第075章_槐七交换.md",
+          "sha256": "150c4dea4c6a478a7bc26fcfd6772715deb078b9ad67e85beb14bbca0c69fc70"
+        },
+        {
+          "chapter": 76,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第076章_木尺换仪器.md",
+          "sha256": "fec9d5e25a26929c94e480b8b2a7a6df7cb385f00cf9d5bba10fc9f1340b8d60"
+        },
+        {
+          "chapter": 77,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第077章_地底敲击.md",
+          "sha256": "60e909a0e6c7706d717a018ff851a63f5ef87e90c6606bec96bbee802bd5ba0d"
+        },
+        {
+          "chapter": 78,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第078章_人为炸毁.md",
+          "sha256": "9b46967c686b85fab6da145a6765977f694177c6d3b50158c30bbffc49a361aa"
+        },
+        {
+          "chapter": 79,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第079章_林岑现身.md",
+          "sha256": "cb4c972c44dc012cd7a08bc23a782984fdb8113f0d6781ae95dec7ad1a2e1364"
+        },
+        {
+          "chapter": 80,
+          "path": "异星录/06_执行计划/工作区/R004-B08/第080章_百年信号灯.md",
+          "sha256": "efb3ed3cbc219158c6c1246caa942e977b22a7ff40afba39bec6b9b4df445294"
+        }
+      ],
+      "native_structure_check": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "pass",
+        "chapters": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80
+        ],
+        "includes_prologue": false,
+        "profile": "serial",
+        "schema_quote_sha_complete": true
+      },
+      "scope": "schema/SHA/quote/coverage validation only; not new reading or publication",
+      "aggregation": "B08: 2 newly rechecked chapters + 8 unchanged inherited chapters; 2 historical batch checks, no invented new batch verdict"
+    },
+    {
+      "batch": "B09",
+      "source_report": "harness/maintenance/R004/B09/resume-recheck2.json",
+      "report_sha256": "14e1a3094b5b7b039ac309114c749ba6083069d3618fe35123a448abfbfb52cd",
+      "original_source_digest_valid": true,
+      "working_path_mapping": [
+        {
+          "chapter": 81,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第081章_坠城日前.md",
+          "sha256": "0bdec2f836f3713bfc0787bff758a72d6ef2eec3532802954085bb5601c5aa32"
+        },
+        {
+          "chapter": 82,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第082章_失约的重建.md",
+          "sha256": "2d017ef2ad6a12db0046548a74deee22ff1e05547418f661a5552bf1029294f3"
+        },
+        {
+          "chapter": 83,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第083章_为什么抛下家.md",
+          "sha256": "a5717395c5e7d8db6b52f540a8c7650fc18f12582ec884d2e771cae1fadcdb0d"
+        },
+        {
+          "chapter": 84,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第084章_同一处空白.md",
+          "sha256": "220de51362768cc6eca6487009ef5bb5dfcad1b2d3daa0b8c10add69f2c7057e"
+        },
+        {
+          "chapter": 85,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第085章_是否开门.md",
+          "sha256": "7dc590a379333ebc33ceaaeb26814d52229cffc540cab3e639aff7a519fe3a4c"
+        },
+        {
+          "chapter": 86,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第086章_灭口命令.md",
+          "sha256": "1b541e80dab85b0f35797bb8c4b43aefa7dfa9e29be19973f64242af287b31d6"
+        },
+        {
+          "chapter": 87,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第087章_旧维修室.md",
+          "sha256": "a48fe68908cc346c297ccda5fd5ecb354019bc1d966a0fb75b053bea9b1cd3cb"
+        },
+        {
+          "chapter": 88,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第088章_两套刻槽.md",
+          "sha256": "89ed4fd1ed9f4625f124a56a7e0a5f50ed96eb92f6f40b40e75a5a9e3936e0c3"
+        },
+        {
+          "chapter": 89,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第089章_断阶震裂.md",
+          "sha256": "3e4490fe72cade574482c7c99bc7391e19ddeb3a12999e31fee347f651339946"
+        },
+        {
+          "chapter": 90,
+          "path": "异星录/06_执行计划/工作区/R004-B09/第090章_交还木尺.md",
+          "sha256": "c3d4517448b566e0df449a537457f91603238e27dd88c529f8d6860518327f60"
+        }
+      ],
+      "native_structure_check": {
+        "errors": [],
+        "incomplete_checks": [],
+        "reader_review_passed": false,
+        "verdict": "pass",
+        "chapters": [
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90
+        ],
+        "includes_prologue": false,
+        "profile": "serial",
+        "schema_quote_sha_complete": true
+      },
+      "scope": "schema/SHA/quote/coverage validation only; not new reading or publication",
+      "aggregation": "existing independent review; path normalized in memory only"
+    }
+  ],
+  "not_covered": [
+    "B10 pending fixes/author C04",
+    "writeback final closure",
+    "C05 provenance"
+  ],
+  "published": false,
+  "note": "Original independent reports remain unchanged. No gate or verify-repair; normalization and B08 aggregation are transient validation inputs, not self-signed reader reviews."
+}

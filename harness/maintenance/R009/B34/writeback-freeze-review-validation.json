@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B34",
+  "reviewer": "R009-reader-B33-B34",
+  "body_digest": "498fbb294d3b5db1f9112d565e11c22ce95b8491aa3a8ae65cde59f1f1764304",
+  "freeze_sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a",
+  "errors": [],
+  "files_equal_freeze": true,
+  "candidate_sha256_matches": 8,
+  "body_sha256_matches": 10,
+  "checks_count": 8,
+  "pass_count": 8,
+  "quote_and_supporting_quotes_exact": true,
+  "r009_quotes_exact": true,
+  "all_body_closures_closed": true,
+  "reader_review_same_digest": true,
+  "reader_review_pass_count": 52,
+  "not_a_semantic_review_of_all_history": true
+}

@@ -1,0 +1,469 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "phase": "publication_path_binding",
+  "writer": "R006-main",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "identity_binding": {
+    "agent_id": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+    "role": "R006-B18独立读者",
+    "source": "主线程在本会话提供的实际spawn/send_input调用元数据；用户确认target即此ID，初审、v1、v2与本次授权终审属于同一独立线程。",
+    "source_visibility": "本会话据主线程在用户消息提供的实际spawn/send_input调用元数据亲自绑定；非角色标签、非推测；未声称自行看过底层调用日志。",
+    "same_independent_thread": true,
+    "same_thread_reviews": [
+      "harness/maintenance/R006/B18/initial.json",
+      "harness/maintenance/R006/B18/final.json",
+      "harness/maintenance/R006/B18/final2.json",
+      "harness/maintenance/R006/B18/final-authorized.json"
+    ],
+    "historical_records_preserved": "已核initial.json与final.json的reviewer均为null；保持原字节，不补造历史通过签名。主线程另作身份交接包装。",
+    "writer": "R006-main",
+    "reviewer_wrote_manuscripts": false
+  },
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 171,
+      "path": "异星录/正文/第二卷_黑暗断阶/第171章_有人摸到总阀.md",
+      "sha256": "9fc4b757ab9ac17bac9b7708c9052455034fd2079fa6bc6fb88122ebc8a819af"
+    },
+    {
+      "chapter": 172,
+      "path": "异星录/正文/第二卷_黑暗断阶/第172章_先断谁的水.md",
+      "sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3"
+    },
+    {
+      "chapter": 173,
+      "path": "异星录/正文/第二卷_黑暗断阶/第173章_复仇名单上有孩子.md",
+      "sha256": "10bf5cd47b9c9364526e11193d915de0a27d094e68cef01e66802905e4114928"
+    },
+    {
+      "chapter": 174,
+      "path": "异星录/正文/第二卷_黑暗断阶/第174章_父亲要的那一道门.md",
+      "sha256": "941a8ffcd33a1d4d69c261797cb83ade17e53d736f17af09d469425b58878084"
+    },
+    {
+      "chapter": 175,
+      "path": "异星录/正文/第二卷_黑暗断阶/第175章_把队列摆在图旁.md",
+      "sha256": "7e5da27afe9b397f53db7936dabaf66dcbb254639cc57ce5bae7df7743e1c597"
+    },
+    {
+      "chapter": 176,
+      "path": "异星录/正文/第二卷_黑暗断阶/第176章_不再替你解释.md",
+      "sha256": "16c12ac6a648cf840b07d8ab018a4a49804f5f3f4171ff5e737f707e92515570"
+    },
+    {
+      "chapter": 177,
+      "path": "异星录/正文/第二卷_黑暗断阶/第177章_离开的那一班人.md",
+      "sha256": "f5e72bc5b1abcfa15bf46c4824419b79db119c82aba9a66d400f16327e3a0306"
+    },
+    {
+      "chapter": 178,
+      "path": "异星录/正文/第二卷_黑暗断阶/第178章_这一趟不装匣子.md",
+      "sha256": "372e56120b6b857df8fdd6cc8f930b1bbf4760118f5d76dafd97f2c803850337"
+    },
+    {
+      "chapter": 179,
+      "path": "异星录/正文/第二卷_黑暗断阶/第179章_对不上的是哪一笔.md",
+      "sha256": "5c13e84dcebeec57d25d1a373ff9793927c5de010d6de0cfb0bc1a6ef36af6ee"
+    },
+    {
+      "chapter": 180,
+      "path": "异星录/正文/第二卷_黑暗断阶/第180章_谁能带走一份.md",
+      "sha256": "ba0937d6116324ea8e990614e7965b0f43c3d4f2428a9e9e3aed9109ca95779c"
+    }
+  ],
+  "source_digest": "8782c64dcdadd2abdce818213981777efb98fc897df89d4a31d02c8e2fb5638c",
+  "checks": [
+    {
+      "chapter": 171,
+      "criterion": "opening_pressure",
+      "quote": "公开对账定在今晚，账桌却没能安生到晌午。",
+      "reason": "今晚兑现公议前阀位先出事，开头有截止点与失控。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 171,
+      "criterion": "protagonist_choice",
+      "quote": "林渡让学徒站在杆旁，没交班不离位。",
+      "reason": "林渡先保供与人员守杆、不先抓仇人，禁动标记不冒作锁死。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 171,
+      "criterion": "visible_change",
+      "quote": "轮盘从二格往回走了半格，停在二格半",
+      "reason": "恢复可量，仍欠半格把胜利限制住；代价是抢修让班与队列变慢。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 171,
+      "criterion": "emotional_payoff",
+      "quote": "阀上动手，先疼的是排队的人。你家娃要是病着，这话你说不出口。",
+      "reason": "家娃受害的反问使报复冲动撞见代价，没有全场被说服的轻易胜利。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 171,
+      "criterion": "next_question",
+      "quote": "三夜里，拐角过了三回人，回回朝塔。",
+      "reason": "记录有时间与方向，读者会问谁摸阀，人物下一步加岗记数。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 172,
+      "criterion": "opening_pressure",
+      "quote": "复验要走到明早，今晚会上却得先把这道阀掐着谁摆出去。",
+      "reason": "检修未完但公议不能等，限时查实际受水口。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 172,
+      "criterion": "protagonist_choice",
+      "quote": "以管为准，图做参考。",
+      "reason": "选择核实管路而非按上城标签归罪，方法能被现场推翻。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 172,
+      "criterion": "visible_change",
+      "quote": "医疗专线接的是这一管。",
+      "reason": "医疗口受同阀影响已经现场确认，井后待核并不抹消这项发现。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 172,
+      "criterion": "emotional_payoff",
+      "quote": "那我家娃昨儿提心吊胆图什么？",
+      "reason": "老妇的白担心让查线落到一家生活；不是抽象反报复课。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 172,
+      "criterion": "next_question",
+      "quote": "谁想掐阀，先看看阀底下压着的是谁的名字。",
+      "reason": "把核实记录送公议，下一章须面对动阀者，信息将造成选择。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 173,
+      "criterion": "opening_pressure",
+      "quote": "正中一整面，是林渡下午卷回来的那卷纸——水线图、节号纸、领水记录，一张挨一张钉开，钉子不够，用橛子别着。",
+      "reason": "立即兑现在今晚公开的承诺，材料上墙即要当众承认后果。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 173,
+      "criterion": "protagonist_choice",
+      "quote": "按实人，不按来处。下城的孩子这么算，上城的孩子也这么算",
+      "reason": "林渡冒失去支持者的代价统一救济；册条目不冒人口。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 173,
+      "criterion": "visible_change",
+      "quote": "阀是我拧的。",
+      "reason": "拧阀者公开自认带来身份和责任变化，不只重复查线结论。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 173,
+      "criterion": "emotional_payoff",
+      "quote": "轮到队尾时，他朝勺摆了摆手，没有再领。",
+      "reason": "让出已记份且不重领，使悔意有具体资源代价；旧版此项不通过已实际解决。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 173,
+      "criterion": "next_question",
+      "quote": "上城那些孩子，谁去敲他们的门？",
+      "reason": "尚未能进上城与待访任务给出具体下一问，不偷换为已经救到。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 174,
+      "criterion": "opening_pressure",
+      "quote": "林岑的右肩还吊着，只能用左肩背那只旧工具袋",
+      "reason": "受伤父亲与儿子下坡追问，身体与亲情压力都在会面前可见。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 174,
+      "criterion": "protagonist_choice",
+      "quote": "可你要拿它换一条插队的道，这个道，我没有。",
+      "reason": "拒绝拿图换特殊排序，宁可暂失关键图也不豁免父亲。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 174,
+      "criterion": "visible_change",
+      "quote": "复核完，图上桌。",
+      "reason": "父亲从押图要条件变为约明晚交图，尚未冒称本章已完成交割。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 174,
+      "criterion": "emotional_payoff",
+      "quote": "“没分页。”林渡说，“都在一本上。”",
+      "reason": "儿子没有将父亲从共同账中单独剔出，温度与追责一起存在。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 174,
+      "criterion": "next_question",
+      "quote": "图在铺盖里躺着，序在册子上立着。两样东西，明晚上同一张桌。",
+      "reason": "下一晚的具体会面须检验父子承诺，不是泛泛父子尚未和解。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 175,
+      "criterion": "opening_pressure",
+      "quote": "转人的那两天，勺不能停，他们想知道停的会是谁。",
+      "reason": "本章是174明晚复核的到期兑现：开头立板紧接外缘住户质问谁断勺，压力在既有行动里；虽起笔偏缓，不再将承接章一概判无抓手。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 175,
+      "criterion": "protagonist_choice",
+      "quote": "明天这一趟，不装匣子。人先出。",
+      "reason": "人先出、纸留原位，主动接受纸受潮/回取的风险，不两全其美。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 175,
+      "criterion": "visible_change",
+      "quote": "这一行留着，条件后头添四个字——待线交割。",
+      "reason": "第三位不被漏掉却不能立刻排出发日，列表实际改变行动边界。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 175,
+      "criterion": "emotional_payoff",
+      "quote": "灯下位备两格，毡各两床，热水候着。",
+      "reason": "照护空位先备好，让读者盼人坐进去；与179相对坐的回报相接。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 175,
+      "criterion": "next_question",
+      "quote": "他听着汽的动静，在数纸上添了一行：来十一息半。",
+      "reason": "汽班继续变长，次晨首运有期限；0.2格不再被说成连续两日保障。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 176,
+      "criterion": "opening_pressure",
+      "quote": "戊字一在用灯班次旁批了“核证之夜，照点”",
+      "reason": "复核后的当夜父亲图要上桌，照明消耗真实且另账；明确本场要做证词核验。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 176,
+      "criterion": "protagonist_choice",
+      "quote": "框外的，今晚一个字不写。",
+      "reason": "林渡选择保留未知日期、分开三段，不以亲情或对账效率填空。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 176,
+      "criterion": "visible_change",
+      "quote": "今夜见到的是图，不是孔。",
+      "reason": "从以尺猜现场转成知道证据边界，第三孔仍需核，不是一场白费的对表。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 176,
+      "criterion": "emotional_payoff",
+      "quote": "我自己站过去答。",
+      "reason": "父亲自己承担质询而非由儿子解释，给拒交易一条有限但真实的关系进展。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 176,
+      "criterion": "next_question",
+      "quote": "祝衡在三栏纸末行添了日期，抬头问：“质询那天，图上这些——”\n\n“我自己站过去答。”林岑说，“一个字一个字，我自己念。不劳谁替我念，也不劳谁替我圆。”",
+      "reason": "父亲承诺将到质询桌，读者期待公开回答；当夜空框和来历未核把下一步独立查证留下。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 177,
+      "criterion": "opening_pressure",
+      "quote": "点到第三个人，队伍末尾有人开口了。",
+      "reason": "头运临起队伍开裂，已有熟手可能退出，立刻影响谁来抬。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 177,
+      "criterion": "protagonist_choice",
+      "quote": "到时候来不来，随你们。",
+      "reason": "不强留六人却清借物和责任，保留回来的选择而不无成本收拢。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 177,
+      "criterion": "visible_change",
+      "quote": "三人随板逐站换位，不再让几处同时开运。",
+      "reason": "六人退班后调已有三抬手串行，运力实际下降，不凭空补人。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 177,
+      "criterion": "emotional_payoff",
+      "quote": "“来。”应完他自己愣了一下",
+      "reason": "退班者本能应再召而自己意外，有牵挂却未取消退出的复杂性。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 177,
+      "criterion": "next_question",
+      "quote": "人在一处，纸在一处，火来一回，水淹一回，全完。",
+      "reason": "救人与分纸挤同一通路，读者追問现有材料如何保全，180落实调整。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 178,
+      "criterion": "opening_pressure",
+      "quote": "“匣子等得起，人等不起。”她说，“这一趟，不装匣子。”",
+      "reason": "前夜短回叙后紧接天不亮下坡/凉时侧廊，期限与被迫留档直通首运；不再无边界倒回核表。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 178,
+      "criterion": "protagonist_choice",
+      "quote": "阿苗的疮不能再拖，可裂开的那一跨没撑稳，就不能让她过。",
+      "reason": "林渡同时承认救人急和禁跨，先退已验落点再等撑验；不是拿病史推无碍。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 178,
+      "criterion": "visible_change",
+      "quote": "分出来半页，上头记的汽班数已经看不成了",
+      "reason": "知识损失不可补；首运有人抵棚、第二运停裂板也有位置和日夜连续性。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 178,
+      "criterion": "emotional_payoff",
+      "quote": "“上头的天，”她说，“比想的还高。”",
+      "reason": "阿苗暂未上棚仍第一次见露天，局部回报不取消疮痛和夜宿损失。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 178,
+      "criterion": "next_question",
+      "quote": "数纸上，这一夜的汽班记了最长的一笔：来十二息。",
+      "reason": "白天停到夜宿已交代，明晨三验能否过人是具体悬念，数字与行动相联。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 179,
+      "criterion": "opening_pressure",
+      "quote": "阿苗的托板最后过桥",
+      "reason": "立即回答178停运悬念，经空载/沙罐试重才过；随后封同板，非无风险常通。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 179,
+      "criterion": "protagonist_choice",
+      "quote": "缺角留空，缺签留空。这张纸上没有的，我们不猜。",
+      "reason": "实际也不凭口供、同源纸或笔锋填洞；选择与操作如今一致。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 179,
+      "criterion": "visible_change",
+      "quote": "五道岗位签记，号有重复，经手人数还不能据此定死。",
+      "reason": "责任链被拆成可查岗位，而不是宣布五个人；下一步能逐号查。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 179,
+      "criterion": "emotional_payoff",
+      "quote": "老工师从灯下那格挪过来，两个人对着坐了一会儿，谁也没提墙里的事。",
+      "reason": "175空位被活人坐进，安静的相陪兑现救援情绪，不靠旁白再讲苦难。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 179,
+      "criterion": "next_question",
+      "quote": "明天先核接段号，再追领料那一行。",
+      "reason": "明日任务、顺序与责任边界都明确，不以猜总主谋替代行动。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 180,
+      "criterion": "opening_pressure",
+      "quote": "后队因裂板停在坡腰凳那晚，先议分不分纸",
+      "reason": "停运迫使当夜讨论保纸，首句把两晚分层，读者不再误认同晚已核所有材料。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 180,
+      "criterion": "protagonist_choice",
+      "quote": "台上那位还等线交割；纸不能也堆在一处陪着等。分。",
+      "reason": "林渡明示调整177人齐才分的承诺，选择由已发生延误触发而非忘记前文。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 180,
+      "criterion": "visible_change",
+      "quote": "三处各拿一角，谁处也不全。",
+      "reason": "十三类、六张拓片去向、两套全抄和保护页分清，分存真的改变单点损失后果。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 180,
+      "criterion": "emotional_payoff",
+      "quote": "这一页，入公开册。",
+      "reason": "祝衡将自己的八十四行自誊签名，核人者也进入被核位置，责任主题得到人物行动回报。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 180,
+      "criterion": "next_question",
+      "quote": "头一匣纸备好了，出坡前还得把抄页核稳；岑野守着它，等能动身的那一班。",
+      "reason": "同首匣尚未出坡，读者期待核抄与首发；另有祝衡质询等待，未凭空造第二匣。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 180,
+      "criterion": "promise_payoff",
+      "quote": "质询那天，我自己念。",
+      "reason": "171—173先保水再让动阀者自认，174拒插队→176本人答，175灯下空格→179相对坐，177分存风险→180实分；核证只兑现岗位/材料边界，未许诺本篇解决上游缺名。182全抄套数的外部残留另列，不把邻批通过算进本篇。",
+      "verdict": "pass"
+    },
+    {
+      "chapter": 178,
+      "criterion": "progressive_stakes",
+      "quote": "阿苗的疮不能再拖，可裂开的那一跨没撑稳，就不能让她过。",
+      "reason": "危机由一阀误伤到救济失支持、整班退出、串行运力、裂板截停再到保管证据和核人者被核；每次改变选择/关系/资源，不只是再修一根管。半勺来自原份、0.2格分账，升级不靠加人加水。",
+      "verdict": "pass"
+    }
+  ],
+  "reading_provenance": {
+    "full_read_manifest": "harness/maintenance/R006/B18/final-authorized-reading-manifest.json",
+    "body_first_notes": "harness/maintenance/R006/B18/final-authorized-body-first-notes.md",
+    "sequence": "先逐章完整读171—180实际93条实改稿，保存正文先读笔记；再核R006-WB含旧closed对应条目；提27残留后主笔实际应用，再读174/175/176改句上下文及24回填。",
+    "full_read_source_digest": "75d824bdc0ec3466e3434140c21d609c25befe78be50f2dc2e1be67e26d4b37e",
+    "round2_changed_chapters": [
+      174,
+      175,
+      176
+    ],
+    "round2_reverse_reconstruction": "将实际稿3处after逐一逆替回before，10章均还原至本轮全文实读SHA；其余七章SHA不变。此为范围验证，不代替短读。",
+    "review_type": "同一独立读者授权修后复读，不冒充首次接触故事，不自签建议模拟稿。"
+  },
+  "profile": "serial",
+  "verdict": "pass",
+  "scope_note": "已审工作稿与实际正式稿逐文件同字节；仅重绑定正式路径，52项逐字证据及审读判断原样保留，不冒称重新首读。172使用已重命名正式路径，不依赖工作区fallback。",
+  "publication_binding": {
+    "path": "harness/maintenance/R006/B18/publication-binding.json",
+    "original_reader": {
+      "path": "harness/maintenance/R006/B18/reader-authorized.json",
+      "sha256": "62e4632046be9fcc9210419315723d19a1f7804b45bf69bd58d7dccd18d1b36a",
+      "source_digest": "7183d7c971173a6b694489cbcca357ce9a047078ca156c066130540b79c29927"
+    },
+    "checks_identical_to_original": true
+  }
+}

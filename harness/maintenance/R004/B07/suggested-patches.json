@@ -1,0 +1,111 @@
+{
+  "reviewer": "/root/r004_b07_reader",
+  "body_first": true,
+  "input_digest": "87d145dba92d0c5fc9d0c6d5cf8803938aed941fc50349924ba00254e7316980",
+  "patches": [
+    {
+      "issue_id": "R004-B07-I01",
+      "chapter": 61,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第061章_炸药残痕.md",
+      "before": "协助他们的祝衡与无面者另记，不混进这两数。",
+      "after": "阿九、弥娅与祝衡仍在原护送册的核验子集外另列，这时协助他们的无面者也另记，不混进这两数。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I07",
+      "chapter": 66,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第066章_第一次失败.md",
+      "before": "弥娅的布条先离了短杆，随即被门底来的风顶成一条直线。",
+      "after": "弥娅系在短杆上的布条先被掀离杆身，随即被门底来的风顶成一条直线。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I08",
+      "chapter": 63,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第063章_面具之后.md",
+      "before": "梁头继续从孔里退出，里面的人也跟着挪了一步。他把册页上尚未划掉的姓名按住，向槐七问：“那边也要过。哪一处先试？”",
+      "after": "梁头继续从孔里退出。林渡把册页上尚未划掉的姓名按住，向槐七问：“那边也要过。哪一处先试？”",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I09",
+      "chapter": 67,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第067章_改算风向.md",
+      "before": "他用指腹擦去编号边的一点浮灰，留下能看清的部分，便叫阿九继续验梁。",
+      "after": "林渡收回手，叫阿九继续验梁。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I10",
+      "chapter": 63,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第063章_面具之后.md",
+      "before": "没有一个动作能独立完成，松绳也不是松完就好。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I11",
+      "chapter": 64,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第064章_仪器指向下方.md",
+      "before": "林渡删掉自己刚画的连接短线。若他们把两个相邻的变化都当成一个原因，下一次就可能等错风，或把不会承重的设备当成桥桩。",
+      "after": "林渡删掉自己刚画的连接短线，又看了一眼仍在摆动的绳尾。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I12",
+      "chapter": 65,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第065章_临时跳台.md",
+      "before": "其余接头并非凭空没了，是无法替这条受力绳接上。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I13",
+      "chapter": 66,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第066章_第一次失败.md",
+      "before": "杜姨摇头，不是说不会，是她无法回答。",
+      "after": "杜姨望向断口下方，没有答。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I14",
+      "chapter": 68,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第068章_短暂联手.md",
+      "before": "所谓最后一次，说的是这一轮再耗掉剩余绑缆，他们将无从搭回退路；梁未必当场断。",
+      "after": "",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I15",
+      "chapter": 62,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第062章_父亲的手.md",
+      "before": "弥娅没有替他合上腕口，只用指尖压住摇动的灯影：“也能被别人拿来。”",
+      "after": "弥娅望着那只手套：“也能被别人拿来。”",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I16",
+      "chapter": 61,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第061章_炸药残痕.md",
+      "before": "弥娅隔着纸看断面，没有把东西放到灯上烧。",
+      "after": "弥娅隔着纸靠近残渣，嗅了一下，又看断面，没有把东西放到灯上烧。",
+      "fact_change_required": false
+    },
+    {
+      "issue_id": "R004-B07-I17",
+      "chapter": 62,
+      "path": "异星录/06_执行计划/工作区/R004-B07/第062章_父亲的手.md",
+      "before": "可烧伤不能在木墙上留下人的名字。",
+      "after": "",
+      "fact_change_required": false
+    }
+  ],
+  "excluded_issues": [
+    "R004-B07-I02",
+    "R004-B07-I03",
+    "R004-B07-I04",
+    "R004-B07-I05",
+    "R004-B07-I06"
+  ],
+  "note": "仅建议精确局部替换，未执行；任一正文变更后须独立终审。"
+}

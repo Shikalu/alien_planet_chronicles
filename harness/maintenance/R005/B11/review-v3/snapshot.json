@@ -1,0 +1,80 @@
+{
+  "note": "独立复核3真实所读字节原样留存；原报告仍绑定原路径和当时SHA，不改历史结论。",
+  "source_digest": "c3c8b8cc1a53d2feb0e4a0e9b16c56294fffaaf263e7326cc505e981f66856ee",
+  "manuscripts": [
+    {
+      "chapter": 101,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第101章_灯没有灭.md",
+      "sha256": "014cdb954d1846ced0fb2266ffb563e0c108079aee9baceef6a19304d1cdd056"
+    },
+    {
+      "chapter": 102,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第102章_下一根立柱.md",
+      "sha256": "f32a0b5147d8d3c603a4af36d9b9ff5eaba065d75db97dee86a967d19440f964"
+    },
+    {
+      "chapter": 103,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第103章_活人在门外.md",
+      "sha256": "f907ce5153999c2d98f63a0a24837dea2ac81e60270e3a8021d8baf8facd3d7c"
+    },
+    {
+      "chapter": 104,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第104章_柜里装的是什么.md",
+      "sha256": "97d0f9cfec8b8e0cfda5f560bfb72e3d571cd07db1d80b869063d3ec4f9738a2"
+    },
+    {
+      "chapter": 105,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第105章_不把名字交给门.md",
+      "sha256": "5c01acd4ada4b43d42eed69a25033f3e6c072c43616ba33aca5d0267e00ab980"
+    },
+    {
+      "chapter": 106,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第106章_坏尺留在册边.md",
+      "sha256": "3ed59ed36af27c94a4c1f1ee7da957d4c0a21dd3b5d808802270e0fc06aa732e"
+    },
+    {
+      "chapter": 107,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第107章_这班水.md",
+      "sha256": "57b5b82d6f969f051002fa18d02ebea6d6c922e1ac1860c06eab2dcb304f7537"
+    },
+    {
+      "chapter": 108,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第108章_水要有人送.md",
+      "sha256": "4b1fd721146d564ca231b79774f343680905cf9cc65f2ac83e5cf1398c25ea66"
+    },
+    {
+      "chapter": 109,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第109章_缝后的梯脚.md",
+      "sha256": "5508406e887478a2833800d776e6a04434051111b1e78d56f35b7b945ae887a9"
+    },
+    {
+      "chapter": 110,
+      "reviewed_path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "snapshot_path": "异星录/06_执行计划/工作区/R005-B11/历史/复核3/第110章_把照护写在交班上.md",
+      "sha256": "f84b465d91ddc2c59b0610096bdef350747c0a2bb13a0b4d55fcccf5a2002e5d"
+    }
+  ],
+  "reports": [
+    {
+      "path": "harness/maintenance/R005/B11/review-v3/recheck3.md",
+      "sha256": "7505f1c4c18dda7c569d53418fc99e5a26e24639b1ab272b378b4ec4c575659d"
+    },
+    {
+      "path": "harness/maintenance/R005/B11/review-v3/recheck3.json",
+      "sha256": "868b1333e06a69cd8957ae76c26dad3e5a142431efc12f6e49f5e5dd54b006dd"
+    },
+    {
+      "path": "harness/maintenance/R005/B11/review-v3/reader-review3.json",
+      "sha256": "e53f375ea88e8ae1ba20c6a3ae2cba0399f41b31b78e361dff04c2159131e48e"
+    }
+  ]
+}

@@ -1,0 +1,2229 @@
+{
+  "schema_version": 1,
+  "kind": "independent_recovery_final_review",
+  "batch": "R008-B27",
+  "chapters": [
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270
+  ],
+  "writer": "R008-main",
+  "reviewer": "01a1c2c7-005e-7a93-979a-f602b603f2a1",
+  "replaces_failed_reviewer": false,
+  "original_reviewer_preserved": "01a1c0c8-74b2-7203-9cb1-ca0369d7498c",
+  "independent": true,
+  "body_first": true,
+  "body_first_note": "harness/maintenance/R008/B27/recovery-body-first.md",
+  "body_first_disclosure": "先逐章读工作区实际正文并保存初读理解，之后读规则/设定/章卡/台账/旧28项与44修改。已知用户任务边界不伪称绝对盲读；未参与写入正文。",
+  "review_scope": "只审261—270实际工作稿；A16仅做入口边界核对，未对范围外正文签审。候选A17附加复核另报告，不据候选拷贝反改正文。",
+  "manuscripts": [
+    {
+      "chapter": 261,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第261章_廊口开了半扇.md",
+      "sha256": "b3f4bfaf8ab5f8681f2e34f2593097d6b4f48599244c59ef939505e33ff4c856"
+    },
+    {
+      "chapter": 262,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第262章_三行条件.md",
+      "sha256": "6a003ed98ea4ca4b6e217d44b4d775040d2139ae383ebc5996ac8349f7616216"
+    },
+    {
+      "chapter": 263,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第263章_门外的两个结.md",
+      "sha256": "b4c17066e2517fc1fcd290e08e19718fc5ceff6926e0216f7e8c8aff387f7369"
+    },
+    {
+      "chapter": 264,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第264章_旬头账.md",
+      "sha256": "ed4f97d4f438e1378e0668218814aff28d7b392117bdbf569f163d9ddf16714a"
+    },
+    {
+      "chapter": 265,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第265章_底册.md",
+      "sha256": "85a5ae3220d16e960564745305d651ed9a254dea5ae9e46cd0cce5ec70b2f40d"
+    },
+    {
+      "chapter": 266,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第266章_陪同加一人.md",
+      "sha256": "44a35d36ef5b59102d7f0f8a64ae910e12e3ff3258006b0f2e56e4984ac39141"
+    },
+    {
+      "chapter": 267,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第267章_圈是我的.md",
+      "sha256": "7212a0115ab2179148ac70e1833041c9bc253ca6e5bc2e6d8ff48a1834e751f0"
+    },
+    {
+      "chapter": 268,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第268章_后门比前门窄.md",
+      "sha256": "3571bde3307787c2e393b2ddd48e3e18437ee700e28accd957077054007b79b0"
+    },
+    {
+      "chapter": 269,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第269章_人未从正门出.md",
+      "sha256": "14233c396cccd283f9333a99d44fd1e36891259004a5e1c423dc99a510bf7a5a"
+    },
+    {
+      "chapter": 270,
+      "path": "异星录/06_执行计划/工作区/R008-B27/第270章_走了两夜的迟信.md",
+      "sha256": "eb3abce250f6520262ab4338b4fa9195cbc7954a351def9b7a8836c90c87b95b"
+    }
+  ],
+  "source_digest": "10684c9ed573c1298f0b52f39c189e78d3bd6dfd69e00b2e795ad250c2c10c91",
+  "input_digest": "10684c9ed573c1298f0b52f39c189e78d3bd6dfd69e00b2e795ad250c2c10c91",
+  "source_manifest": "harness/maintenance/R008/B27/final-manifest.json",
+  "sha_verification": "10/10 actual files match final-manifest; digest matched",
+  "verdict": "needs_revision",
+  "fact_logic_verdict": "needs_revision",
+  "attractiveness_verdict": "needs_revision",
+  "reader_review": {
+    "path": "harness/maintenance/R008/B27/reader-review.json",
+    "sha256": "e0152490a30ef3ac9702661fcd8b4d723a370a9a3c2126457a6fef8d4b36ae30",
+    "checks": 52,
+    "chapter_checks": 50,
+    "arc_checks": 2,
+    "failed_checks": 11
+  },
+  "issues": [
+    {
+      "id": "B27-001",
+      "initial_severity": "中等",
+      "initial_category": "时间口径／台账与章卡",
+      "initial_quote": "交账改在辰时以后，上坡成了天亮头一件事。",
+      "initial_problem": "正文原句是改时后的概述，并未直说“首日”；真正重复首日的是时间线261、A17资源时间行及A17章卡实录。259附注次日起生效，260/D123—124已经写首日；不能让D125再次成为起点。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "261已改“仍”，不再重启交账首日；D125只是继续。但262仍把照护三班写为头一个整天，时间口径未全闭。旧A17首日记录只列待回填，不要求正文迎合。",
+      "current_evidence": [
+        {
+          "chapter": 261,
+          "quote": "照新时辰，上坡交账仍是天亮头一件事。"
+        },
+        {
+          "chapter": 262,
+          "quote": "照护夜班扩成三班以后头一个整天，里棚那边离不开人。"
+        }
+      ],
+      "standards": [
+        "A6"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-001"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[1]"
+      ]
+    },
+    {
+      "id": "B27-002",
+      "initial_severity": "中等",
+      "initial_category": "时间口径",
+      "initial_quote": "“明天条子就该发了。”她说，“发下来，我先看一遍。”",
+      "initial_problem": "261说旬头还有三天，依D125推到D128正确；262/D126却说次日发条。263/D127又将次日发条与次日入库混成一件事；264已领明日生效条，章末再说明天发。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "262后天发、264明天能用均落地；263仍有明日入库整组对白。D128发条、D129起用不可移。",
+      "current_evidence": [
+        {
+          "chapter": 262,
+          "quote": "“后天条子就该发了。”"
+        },
+        {
+          "chapter": 264,
+          "quote": "“明天条能用了，我上坡。”"
+        },
+        {
+          "chapter": 263,
+          "quote": "“所以我明天进去看。”"
+        }
+      ],
+      "standards": [
+        "A6"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-002",
+        "B27-RE-003",
+        "B27-RE-004"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[2]",
+        "applied-edits.json[3]"
+      ]
+    },
+    {
+      "id": "B27-003",
+      "initial_severity": "严重",
+      "initial_category": "规则因果／物权",
+      "initial_quote": "押了，你抄的那一张，随你带走。",
+      "initial_problem": "同场先说抄本不出库，门口还要求写完押，临到核心交锋却准押另一张纸和笔后带走抄本。没有可辨的改口、例外或人物反应，读者无法判断她拒绝的到底是哪条条件。",
+      "status": "closed",
+      "severity": "严重",
+      "blocking": false,
+      "recheck": "同场允许抄本带走的矛盾已撤：押了才许抄且抄好仍不出库。实际不抄不押、记忆回棚未改。另一个条面/现场执行范围问题单列R02，不混称本条未修。",
+      "current_evidence": [
+        {
+          "chapter": 265,
+          "quote": "押了才许抄，抄好的那张也不出库。"
+        },
+        {
+          "chapter": 265,
+          "quote": "“没抄。”弥娅说，“要抄，得先押。我没押。”"
+        }
+      ],
+      "standards": [
+        "A5",
+        "A3"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "applied-edits.json[4]"
+      ]
+    },
+    {
+      "id": "B27-004",
+      "initial_severity": "中等",
+      "initial_category": "物件物理／随身物边界",
+      "initial_quote": "“真没带。”弥娅说，“空袋子进，空袋子出，退库单上按了印。”",
+      "initial_problem": "265清点明确笔、两张空白纸、布照原样带回，另多退库单；空袋说法把未带库内册页混成没有个人物件。265“照抄页上记的门牌”又凭空调用清点之外的已写抄页。267多人继续说空手也应限定所指。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "265改用记住的门牌、266已分库页与私人三样，回执额外带回也明示；267三人继续说空手，未在首次引用时限定，仍可能抹去私物。",
+      "current_evidence": [
+        {
+          "chapter": 265,
+          "quote": "她照记住的门牌"
+        },
+        {
+          "chapter": 266,
+          "quote": "笔、两张空白译页和擦手布，还是带进去的那三样。多带回来的只有退库单。"
+        },
+        {
+          "chapter": 267,
+          "quote": "陪同的人报了一句‘空手进、空手出’，回话就是这么回的。"
+        }
+      ],
+      "standards": [
+        "A5",
+        "C14"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-005"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[5]",
+        "applied-edits.json[6]"
+      ]
+    },
+    {
+      "id": "B27-005",
+      "initial_severity": "严重",
+      "initial_category": "知识来源／证据强度",
+      "initial_quote": "两次开、两次系，绳上留下两个结；档上就该记着两次开关。她把这一条记在心里，不是要现在对，是要进了门以后对。绳子记得两次，档上写几次，是写字的人记得；两样对不上，就是有一样不准。",
+      "initial_problem": "叙述自己说解系不添结，却让两个结记录开门次数；单条辙也不能排除同轨返程，更不能证明连续两天只往北。此错误被词典、命名表、台账放大为已证事实。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "两处主证明已修：结不计次数、单辙不能排除原辙返程。残余262/263未署口供“两次”、263开门必动页，268两根绳须同步；269门房说法可保留为口供，不倒改为科学证明。",
+      "current_evidence": [
+        {
+          "chapter": 263,
+          "quote": "单凭这两个结，还数不出门开过几次。"
+        },
+        {
+          "chapter": 263,
+          "quote": "板面上没见第二道辙，却不能凭这一点排除车沿原辙回来"
+        },
+        {
+          "chapter": 263,
+          "quote": "门开几回，页就动几回。"
+        }
+      ],
+      "standards": [
+        "A4",
+        "A2"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-006",
+        "B27-RE-007",
+        "B27-RE-008",
+        "B27-RE-009"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[7]",
+        "applied-edits.json[8]"
+      ]
+    },
+    {
+      "id": "B27-006",
+      "initial_severity": "中等",
+      "initial_category": "数字闭环／制度沿革",
+      "initial_quote": "只进一人；档房派一人陪同；随身件登记，非本库器物押存，抄本不出库。",
+      "initial_problem": "266已一人增为二人，267最新限制展示又只列一人。可以是原来印条，但没有指出哪项被新条替代，读者会当规则回退。",
+      "status": "closed",
+      "severity": "中等",
+      "blocking": false,
+      "recheck": "旧一人条款后明确昨日已改两人，读者不会把新限制读成回退；不新增第三陪同。",
+      "current_evidence": [
+        {
+          "chapter": 267,
+          "quote": "一人陪同是旧条上的字，昨日已经改成了两人。"
+        }
+      ],
+      "standards": [
+        "A2",
+        "A6"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "applied-edits.json[9]"
+      ]
+    },
+    {
+      "id": "B27-007",
+      "initial_severity": "中等",
+      "initial_category": "时间口径／人物持有物",
+      "initial_quote": "这两年，这匣子离她身上没有超过一顿饭的工夫。",
+      "initial_problem": "263匣留铺盖下、265上坡入库直到后半晌均未带匣，当前叙述却给两年绝对不离身史。用感情强度覆盖了可见事实。",
+      "status": "closed",
+      "severity": "中等",
+      "blocking": false,
+      "recheck": "删除两年从不离匣的绝对回忆；本场抱匣未解，与263留铺盖、265不带匣相容。",
+      "current_evidence": [
+        {
+          "chapter": 267,
+          "quote": "今天她把它摆在膝上，摆了一晌，也没有解开布。"
+        },
+        {
+          "chapter": 263,
+          "quote": "匣子留在棚里，压在铺盖底下"
+        }
+      ],
+      "standards": [
+        "A5",
+        "A6"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "applied-edits.json[10]"
+      ]
+    },
+    {
+      "id": "B27-008",
+      "initial_severity": "严重",
+      "initial_category": "物件物理／人物位置链",
+      "initial_quote": "她用左肘压住门板，右手把木闩抬开。",
+      "initial_problem": "她在门外，前句明确闩搭在门里侧；没有写可伸手的口、门未合严、闩如何触及。既能看清内闩又能直接抬起，潜入行动靠省略物理障碍完成。",
+      "status": "closed",
+      "severity": "严重",
+      "blocking": false,
+      "recheck": "外侧横闩及木托、肘抵门板、先脱一头斜放，给出从外可触的完整动作；只修本场闩位，不添钥匙、手洞或特能。",
+      "current_evidence": [
+        {
+          "chapter": 268,
+          "quote": "门外侧横搭着一根木闩，两头落在门框的木托上"
+        },
+        {
+          "chapter": 268,
+          "quote": "右手抬起横闩，先让一头脱出木托，再把闩斜放到墙边。"
+        }
+      ],
+      "standards": [
+        "A1",
+        "A5",
+        "B8"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "recovery-applied-edits.json[2]"
+      ]
+    },
+    {
+      "id": "B27-009",
+      "initial_severity": "严重",
+      "initial_category": "人物位置链／信息释放／知识来源",
+      "initial_quote": "水光里有脚印，一进，没有出。脚印一步深一步浅，浅的那一步拖出半寸——是她的走法。",
+      "initial_problem": "268明确不往正门跟前去，269却在正门厚踏板辨出她的进而不出。北缝有弯，林渡明说不进，随后却能看见深处小门底新蹭痕，并把门房口供和痕迹都当亲验。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "已移脚印至实际北缝、删隔弯看小门、四样改三样并分口供/亲见，重大的位置错已修；内心句仍断言正门没开、人却在北头，需与有限证据同步。",
+      "current_evidence": [
+        {
+          "chapter": 269,
+          "quote": "跟她的走法相近；再往里便被转角挡住了。"
+        },
+        {
+          "chapter": 269,
+          "quote": "前一条是回话，后两条是我看见的，分开记。"
+        },
+        {
+          "chapter": 269,
+          "quote": "正门没开，人却在北头"
+        }
+      ],
+      "standards": [
+        "A1",
+        "A3",
+        "A4"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-010"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[11]",
+        "applied-edits.json[12]",
+        "applied-edits.json[13]",
+        "applied-edits.json[14]"
+      ]
+    },
+    {
+      "id": "B27-010",
+      "initial_severity": "严重",
+      "initial_category": "时间口径／担保因果／知识来源",
+      "initial_quote": "“保栏上那三行，是我落的。”他说，“头一行，保她进得去出得来——这一行今天没站住。后两行我看过：她进库那趟空手进、空手出，退库单上按了印，那两行还算数。她进库没抄、没押，今天也没带出库里的东西。这一页上前几天记的字，都不动；今天这一页，我添一行：保人自认，头一行未果。”",
+      "initial_problem": "266规定一天一签，后续未续签；269把D129已回来的核页保证追溯成D131夜行动失保，并无依据保证她今天没带库物。这样牺牲了林渡对责任边界的判断。",
+      "status": "closed",
+      "severity": "严重",
+      "blocking": false,
+      "recheck": "D129当日已回、之后未续签写明；D132自认只记人未归与未交代，不能替昨夜作证。保留原句但不追溯失保，不代弥娅认未知库物。",
+      "current_evidence": [
+        {
+          "chapter": 269,
+          "quote": "那一回核页，她当天回来了。后来没有再落保。"
+        },
+        {
+          "chapter": 269,
+          "quote": "不是把前几天那次核页改成失保，也不是替她认昨夜的事。"
+        }
+      ],
+      "standards": [
+        "A6",
+        "A4"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "applied-edits.json[15]",
+        "applied-edits.json[16]"
+      ]
+    },
+    {
+      "id": "B27-011",
+      "initial_severity": "严重",
+      "initial_category": "信息释放顺序／知识来源",
+      "initial_quote": "信上这两点不上坡，贴着低处横着挪，中间空着一截。",
+      "initial_problem": "信中只有低处灯、比车慢、天未亮最清，没有两点、横向和间隔。林渡把之后本地观察的特征提前装进来信，查船的推理先于证据。",
+      "status": "closed",
+      "severity": "严重",
+      "blocking": false,
+      "recheck": "信上灯数和走向未知，改成本地首次亲见两灯后才记录方向；没有从来信偷取后场信息。",
+      "current_evidence": [
+        {
+          "chapter": 270,
+          "quote": "没有写灯有几盏，也没有写清走向。"
+        },
+        {
+          "chapter": 270,
+          "quote": "黑里有两点灯，一点在近处，走得很慢"
+        }
+      ],
+      "standards": [
+        "A3",
+        "A4"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "applied-edits.json[18]"
+      ]
+    },
+    {
+      "id": "B27-012",
+      "initial_severity": "中等",
+      "initial_category": "方向参照／推理",
+      "initial_quote": "九捆底下的拖痕从南边来，车往北去，进的和出的反着。",
+      "initial_problem": "从南来和向北去方向相接，并非相反。错误方向被当成新线索，会扭转物资线索理解。",
+      "status": "closed",
+      "severity": "中等",
+      "blocking": false,
+      "recheck": "南来北去方向相接而非相反，仍不能认同批货，不据此合并两条线路。",
+      "current_evidence": [
+        {
+          "chapter": 270,
+          "quote": "方向相接，却还不能说明是同一批捆。"
+        }
+      ],
+      "standards": [
+        "A4"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "applied-edits.json[17]"
+      ]
+    },
+    {
+      "id": "B27-013",
+      "initial_severity": "中等",
+      "initial_category": "时间口径／数字闭环",
+      "initial_quote": "写完他在底下点了三个点，一个点算一夜。",
+      "initial_problem": "本章才开始第一夜本地观灯，三个点容易读成三夜已经完成；篇末又把点到第三点写成未来计划。",
+      "status": "closed",
+      "severity": "中等",
+      "blocking": false,
+      "recheck": "仅一夜一个实点，余两夜空位是计划；无三夜跳时，未确认船只性质。",
+      "current_evidence": [
+        {
+          "chapter": 270,
+          "quote": "底下先点一个点，记这一夜；旁边留出两夜的空位。"
+        },
+        {
+          "chapter": 270,
+          "quote": "“船”那一行底下，还欠两夜。"
+        }
+      ],
+      "standards": [
+        "A2",
+        "A6"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "applied-edits.json[19]",
+        "applied-edits.json[20]"
+      ]
+    },
+    {
+      "id": "B27-014",
+      "initial_severity": "中等",
+      "initial_category": "物件位置链",
+      "initial_quote": "退库单从圈页底下抽出来，折好的那一小方摊开，又折回去。",
+      "initial_problem": "266退库单已留林渡手边，268忽回弥娅圈页底；267记忆抄页石下—膝上—石下缺一次归位；270信和译页进怀袋后又说灯座下都没动。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "270译页/迟信在怀袋、收条/条件单在灯下已闭。266把回执交林渡，268却从弥娅圈页下抽回；267膝上纸到石子亦缺过渡，需三章成套交接。",
+      "current_evidence": [
+        {
+          "chapter": 266,
+          "quote": "“这一张留在这儿。”她说"
+        },
+        {
+          "chapter": 268,
+          "quote": "退库单从圈页底下抽出来"
+        },
+        {
+          "chapter": 267,
+          "quote": "她把那张抄纸摊在膝上"
+        },
+        {
+          "chapter": 270,
+          "quote": "她留的两张译页和迟信在怀里的布袋里。"
+        }
+      ],
+      "standards": [
+        "A1",
+        "A5"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-011",
+        "B27-RE-012",
+        "B27-RE-013",
+        "B27-RE-014"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[21]"
+      ],
+      "related_edit_ids": [
+        "B27-RE-011"
+      ]
+    },
+    {
+      "id": "B27-015",
+      "initial_severity": "严重",
+      "initial_category": "数字闭环／待核信息边界",
+      "initial_quote": "下午后半晌，次批那三口待核的摊上了桌。一对老夫妻，一个孩子。",
+      "initial_problem": "260是自报11、8核3待，其中两口牵同址双号；262先定三人身份又另列第二户两人，随后说号二人一。264与266继续将老夫妻孩子和双号户并列，人数、户数和登记/已核混写。主笔提出的保留要求是不得把两老认成一人，后续9核2待、陶家3及陶继补核不改。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "11报/8核/3待的主要身份推断已撤，264登记不等于核过；但262内心仍把同址两户说实，266仍叙称那家的媳妇，未核家组不可先定。264九口七板分配语句不闭；六字写五字、三字写两字另有轻微残留。",
+      "current_evidence": [
+        {
+          "chapter": 262,
+          "quote": "自报十一口，八口对上，余下三格还空着"
+        },
+        {
+          "chapter": 264,
+          "quote": "不凭这一行把三格改成已核。"
+        },
+        {
+          "chapter": 264,
+          "quote": "四个孩子两块拼一块"
+        },
+        {
+          "chapter": 266,
+          "quote": "是次批里那户的媳妇，门牌挂两个号的那家。"
+        }
+      ],
+      "standards": [
+        "A2",
+        "C14"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-015",
+        "B27-RE-016",
+        "B27-RE-017",
+        "B27-RE-018",
+        "B27-RE-019",
+        "B27-RE-020",
+        "B27-RE-021",
+        "B27-RE-022"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[23]",
+        "applied-edits.json[24]",
+        "applied-edits.json[25]",
+        "applied-edits.json[26]",
+        "applied-edits.json[27]",
+        "applied-edits.json[28]",
+        "applied-edits.json[29]",
+        "applied-edits.json[30]",
+        "applied-edits.json[31]",
+        "applied-edits.json[32]"
+      ]
+    },
+    {
+      "id": "B27-016",
+      "initial_severity": "严重",
+      "initial_category": "数字闭环／取证因果",
+      "initial_quote": "底册那一处是第一百二十五页起，今版那一处是第一百二十七页起，两页的差，就是少的与多的。",
+      "initial_problem": "旧册缺两页、新版有两页补录是两种可见现象；门牌起页125/127又是定位信息。缺页但断口前后文字连贯、两页起始差就等于缺加两页的因果没有闭合。不能用漂亮的125对127替代读者可回看的页位关系。",
+      "status": "open",
+      "severity": "严重",
+      "blocking": true,
+      "recheck": "原核心矛盾尚在：缺两页却字完全连续，起页125/127直接等于缺2补2，又将缺补位置等同。只能确认同门牌两册差异，不能推同次进出、补录覆盖删文。",
+      "current_evidence": [
+        {
+          "chapter": 265,
+          "quote": "字是接着上一页写的，没有跳字，没有断句。"
+        },
+        {
+          "chapter": 265,
+          "quote": "两页的差，就是少的与多的。"
+        },
+        {
+          "chapter": 265,
+          "quote": "缺的地方，正对着多的那一处。"
+        }
+      ],
+      "standards": [
+        "A2",
+        "A4"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-023",
+        "B27-RE-024",
+        "B27-RE-025",
+        "B27-RE-026"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-017",
+      "initial_severity": "中等",
+      "initial_category": "制度因果／文书范围",
+      "initial_quote": "“带没带，印说了算。”陪同的人说，“印按下去，你手上带什么，就跟这一页没关系了。”",
+      "initial_problem": "空白“随身件”栏已有笔纸布未记清；按印又被当成未带任何物、甚至与该页无关的免责。264担保反而要求所带与登记对应，弥娅谨慎拒押后却默签空栏，没有体现是否知道所担风险。",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "空“随身件”栏及手印被当成无物出库或与此页无关的绝对证明，和个人三样带回、保栏物件对齐矛盾；须现场限定库物与私物，手印不替代核物。",
+      "current_evidence": [
+        {
+          "chapter": 265,
+          "quote": "空栏上有印，就说明你没带东西出来。"
+        },
+        {
+          "chapter": 265,
+          "quote": "印按下去，你手上带什么，就跟这一页没关系了。"
+        }
+      ],
+      "standards": [
+        "A5",
+        "A4",
+        "C14"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-027"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-018",
+      "initial_severity": "中等",
+      "initial_category": "知识来源／记录交接",
+      "initial_quote": "“档房当班，加陪同。”林渡说，“条上只写这个。”",
+      "initial_problem": "条文没有写押件可由谁查看，林渡凭空引用。261保人要求由门房口说，祝衡却在抄告示看到了那一行；266丁字三断言两处问话并报，未显示是回条说的还是转述来源。",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "三处来源未补：261口头保人条件成了告示一行；262条上无押物查阅者却说条只写这个；266无内线却知两处问话一并上报。建议只保留实际口供/已知事实，未知上报保持未知。",
+      "current_evidence": [
+        {
+          "chapter": 261,
+          "quote": "看到“支路要有人保”那一行"
+        },
+        {
+          "chapter": 262,
+          "quote": "“档房当班，加陪同。”林渡说，“条上只写这个。”"
+        },
+        {
+          "chapter": 266,
+          "quote": "两处一并报上去了。"
+        }
+      ],
+      "standards": [
+        "A3",
+        "A4"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-028",
+        "B27-RE-029",
+        "B27-RE-030",
+        "B27-RE-031"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-019",
+      "initial_severity": "中等",
+      "initial_category": "物件物理／伤损连续性",
+      "initial_quote": "靠海那侧的裂口昨天还浅，今天早上再看，第二道已经出了头。",
+      "initial_problem": "264已裂到底并将一板分开，266回退到昨天浅，267又称头一道往下多一指后再分开。270一块废、一块支的最终状态成立，前面的板与裂缝编号却混了。",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "264已一块中分，266又昨天浅今天出头，267再裂到底；损坏不能复位。267回桌横尺膝上后量板的位置也不清。",
+      "current_evidence": [
+        {
+          "chapter": 264,
+          "quote": "两道把一块板分开"
+        },
+        {
+          "chapter": 266,
+          "quote": "靠海那侧的裂口昨天还浅"
+        },
+        {
+          "chapter": 267,
+          "quote": "把木尺横在膝上，量了两道口子"
+        }
+      ],
+      "standards": [
+        "A1",
+        "A5",
+        "A6"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-032",
+        "B27-RE-033"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-020",
+      "initial_severity": "中等",
+      "initial_category": "资源闭环",
+      "initial_quote": "“照护那一格先记公开册。”林渡说，“哪天收得回来，哪天划。”",
+      "initial_problem": "260增照护班已从凝水挪人，日少一格非饮用擦手水并记公开册。270另写换板使靠海凝水布收不上，又称照护那一格，不能判断是旧缺继续还是新减收。A17同节设备行候料5减4、代价行却候料一笔未销。",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "照护挪班日少一格是旧缺；270维修停收又少一格却记为照护那格，未说明重合还是另增。现有资料不能授权增第二格或冲回旧缺；5销1余4正文已闭，候料一笔未销仅旧记录待修。",
+      "current_evidence": [
+        {
+          "chapter": 270,
+          "quote": "“少一格底。”"
+        },
+        {
+          "chapter": 270,
+          "quote": "“照护那一格先记公开册。”"
+        },
+        {
+          "chapter": 270,
+          "quote": "五笔划掉一笔，还剩四笔。"
+        }
+      ],
+      "standards": [
+        "A2",
+        "B8"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-034"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-021",
+      "initial_severity": "中等",
+      "initial_category": "感官依据／物质状态",
+      "initial_quote": "屋顶漏雨，雨晒干了，盐留下。",
+      "initial_problem": "未给雨带盐或既有盐垢来源，靠涩触感就定盐。261烫味混温度与嗅觉；262口头话被看两遍；263黑汽被当木油释放征兆，容易把已知含矿物腐蚀黑汽与木材出油混为同一机制；多处木板“渗水汽”又与可摸的潮湿混称。",
+      "status": "partial",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "热嗅混写、把口话当字读、雨晒成盐、黄汽等油和裸指捻热油已修。263黑汽→木油仍串为机制；264/266/267/268/269湿板写渗水汽仍须分状态。",
+      "current_evidence": [
+        {
+          "chapter": 261,
+          "quote": "吹得他鼻尖发烫。"
+        },
+        {
+          "chapter": 265,
+          "quote": "指腹沾了一层灰白粉末"
+        },
+        {
+          "chapter": 270,
+          "quote": "草尖沾上一层黄亮的油"
+        },
+        {
+          "chapter": 263,
+          "quote": "黑汽一起，板缝先渗木油，接着呛人。"
+        },
+        {
+          "chapter": 268,
+          "quote": "板背上渗的那层水汽，比昨天厚。"
+        }
+      ],
+      "standards": [
+        "B9",
+        "A5"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-035",
+        "B27-RE-036",
+        "B27-RE-037",
+        "B27-RE-038",
+        "B27-RE-039",
+        "B27-RE-040"
+      ],
+      "applied_evidence": [
+        "applied-edits.json[22]",
+        "recovery-applied-edits.json[1]",
+        "recovery-applied-edits.json[5]",
+        "recovery-applied-edits.json[6]",
+        "recovery-applied-edits.json[7]",
+        "recovery-applied-edits.json[8]",
+        "recovery-applied-edits.json[9]",
+        "recovery-applied-edits.json[12]"
+      ]
+    },
+    {
+      "id": "B27-022",
+      "initial_severity": "轻微",
+      "initial_category": "AI腔／动词悬空与重复动作",
+      "initial_quote": "匣子过去一格，布袋撑出一道棱。",
+      "initial_problem": "“过去一格”没有移动基准，读不出匣在袋中怎样摆。268把两种味分开记却没有区分判断的用途；266解释冻结后由旁白再翻译一次，并重复把林渡推到给说法的位置；267两人反复看同张纸未分验证任务。",
+      "status": "partial",
+      "severity": "轻微",
+      "blocking": false,
+      "recheck": "匣过去一格改实匣角顶袋、266旁白复译已删；267看两遍再看她和268分味记味无新结果仍在。保留护匣/压译页的功能动作，不按词频删全部谨慎表现。",
+      "current_evidence": [
+        {
+          "chapter": 268,
+          "quote": "匣角顶着袋布，撑出一道棱。"
+        },
+        {
+          "chapter": 267,
+          "quote": "林渡把那页抄纸看了两遍，看完看她。"
+        },
+        {
+          "chapter": 268,
+          "quote": "她把这两种味分开记，记完又听了一会儿"
+        }
+      ],
+      "standards": [
+        "C11",
+        "C12",
+        "C13",
+        "精修2.7—2.10"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-041",
+        "B27-RE-042"
+      ],
+      "applied_evidence": [
+        "recovery-applied-edits.json[4]"
+      ]
+    },
+    {
+      "id": "B27-023",
+      "initial_severity": "中等",
+      "initial_category": "人物位置链／制度适用范围",
+      "initial_quote": "“她一个人。”林渡说，“只进一人，不许后换。”",
+      "initial_problem": "只进一人限制外库准入，不自动禁止坡上同行；正文却拿它解释从棚到库都不能陪。前半独自上坡、后半挂丁字三送抄页名下，也易被读成丁字三同行却未在场。",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "只进一人是库内核页限制，不是全坡禁陪；263独行与丁字三名下送页应明示挂任务而非物理同行。264同类对话同步，独行理由用已有人手缺口。",
+      "current_evidence": [
+        {
+          "chapter": 263,
+          "quote": "“她一个人。”林渡说，“只进一人，不许后换。”"
+        },
+        {
+          "chapter": 263,
+          "quote": "跟着丁字三送抄页的名下走。"
+        }
+      ],
+      "standards": [
+        "A1",
+        "A3",
+        "C14"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-043",
+        "B27-RE-044",
+        "B27-RE-045",
+        "B27-RE-046",
+        "B27-RE-047"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-024",
+      "initial_severity": "中等",
+      "initial_category": "时间口径／岗位交接",
+      "initial_quote": "“后半夜那一岗，她没坐。”杜姨说。",
+      "initial_problem": "268开篇守到后半夜，269说整岗没坐，抹掉已完成工作；262天擦黑数纸已换后半夜，未写提前换页。268按半时辰看一次但亥时到子时前的记数也需明确在边界取样，不能模糊成完整半夜。",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "262天擦黑写后半夜；266回条管今天混同一次许可、已贴墙又傍晚再抄、白天看到页码误成本日入库；267称昨日守整夜、269称整岗没坐均应分熬夜/完成岗/余段；核人冻结中只可登记回话。",
+      "current_evidence": [
+        {
+          "chapter": 262,
+          "quote": "她回来的时候天擦黑，坡口的数纸已经换成后半夜那一页。"
+        },
+        {
+          "chapter": 266,
+          "quote": "“条是今天发的，管今天。”"
+        },
+        {
+          "chapter": 266,
+          "quote": "把白天看到的页码一遍一遍在册子上对"
+        },
+        {
+          "chapter": 268,
+          "quote": "那一岗她守到了后半夜。"
+        },
+        {
+          "chapter": 269,
+          "quote": "“后半夜那一岗，她没坐。”"
+        }
+      ],
+      "standards": [
+        "A6",
+        "A1",
+        "A2"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-048",
+        "B27-RE-049",
+        "B27-RE-050",
+        "B27-RE-051",
+        "B27-RE-052",
+        "B27-RE-053",
+        "B27-RE-054",
+        "B27-RE-055",
+        "B27-RE-056",
+        "B27-RE-057",
+        "B27-RE-058"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-025",
+      "initial_severity": "中等",
+      "initial_category": "环境危险／人体常识",
+      "initial_quote": "老陈说过：白转黄，就是出油；出了油就得支，不能等。",
+      "initial_problem": "后半夜已现必须立支的征兆，却到天亮才叫人，中间未见隔离、减载或守险。顶肩旧伤导致撬棍滑出和阿九流血写得具体，但紧接再顶和烫汽下作业缺卸力/防护界限，容易把“有限工程”写成忍着就能做。",
+      "status": "closed",
+      "severity": "中等",
+      "blocking": false,
+      "recheck": "现在夜里拦人并叫阿九支住，天亮同根撑与原石楔移到第二块；左手杠杆+阿九控绳接力，不伤肩换肩硬顶。林渡吊臂、阿九臂伤、旧布防烫和材料亏损均保留。不将临时支住说成彻底修复。",
+      "current_evidence": [
+        {
+          "chapter": 270,
+          "quote": "林渡把人拦在靠山侧的干板上，叫来阿九。"
+        },
+        {
+          "chapter": 270,
+          "quote": "仍用原来的垫石和两片木楔顶紧。"
+        },
+        {
+          "chapter": 270,
+          "quote": "改用左手压棍尾。阿九绷住板头的绳"
+        }
+      ],
+      "standards": [
+        "B10",
+        "A5",
+        "B8"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "recovery-applied-edits.json[10]",
+        "recovery-applied-edits.json[11]"
+      ]
+    },
+    {
+      "id": "B27-026",
+      "initial_severity": "轻微",
+      "initial_category": "物件物理／动作承接",
+      "initial_quote": "门房的人把条递出来的时候，顺手把廊口那半扇门带上了。",
+      "initial_problem": "前面门关着且缝塞布，没有打开过程；领条时直接收回半扇门，读者需替人物补开门。",
+      "status": "open",
+      "severity": "轻微",
+      "blocking": false,
+      "recheck": "廊门起先闭且塞布，后直接合半扇，缺开门动作。可利用原工进门房这一步明示抽布推门，不增新门。",
+      "current_evidence": [
+        {
+          "chapter": 264,
+          "quote": "他身后那扇通往内廊的门关着，门缝里塞着布"
+        },
+        {
+          "chapter": 264,
+          "quote": "顺手把廊口那半扇门带上了。"
+        }
+      ],
+      "standards": [
+        "A1",
+        "A5"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-059"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-027",
+      "initial_severity": "中等",
+      "initial_category": "物件物理／持有链",
+      "initial_quote": "匣子过门框的时候，布袋的布角被刮住了一小块，",
+      "initial_problem": "前句已把匣从袋取出量门，过框却袋角仍附在匣上；后面匣又在肩袋，未区分原包布与布袋。窄门动作是本章抓手，不能让物件形态为过门随时变化。",
+      "status": "closed",
+      "severity": "中等",
+      "blocking": false,
+      "recheck": "空袋先过、旧布裹匣过门、刮的是包布、本人进入后匣回袋完整闭合，与外侧闩成套。",
+      "current_evidence": [
+        {
+          "chapter": 268,
+          "quote": "她把空布袋先放进门里，再将匣子竖起"
+        },
+        {
+          "chapter": 268,
+          "quote": "裹匣的旧布挂住了门轴"
+        },
+        {
+          "chapter": 268,
+          "quote": "跨进后间，把匣子装回布袋，挎到肩上。"
+        }
+      ],
+      "standards": [
+        "A5",
+        "A1"
+      ],
+      "suggested_edit_ids": [],
+      "applied_evidence": [
+        "recovery-applied-edits.json[3]"
+      ]
+    },
+    {
+      "id": "B27-028",
+      "initial_severity": "轻微",
+      "initial_category": "章末钩子／反复解释",
+      "initial_quote": "林渡心里那两道记号还并着：一道是廊子里往北去的轮痕，一道是纸边的断口。两道都指着同一个方向，他还没有把这两道连成一句话。",
+      "initial_problem": "261已得到保人门槛，末尾却退回并排不连的账面动作；265与270又多次同构画短横，角色谨慎是优点，但若总用同一收束，读者拿到的是记录仪式而非下一步选择。264末尾重新等待发条也撤销本章兑现。",
+      "status": "partial",
+      "severity": "轻微",
+      "blocking": false,
+      "recheck": "264重复发条已修，270改为一夜实记/两夜计划，钩子成立；261与265仍并排不连的同构收束，261真开头缺本章压力、263前四句也被整理动作占用。建议借现有待问条件/明日发条承接，不添加敌情。",
+      "current_evidence": [
+        {
+          "chapter": 261,
+          "quote": "两道都指着同一个方向"
+        },
+        {
+          "chapter": 265,
+          "quote": "只在两处中间画了一道短横。"
+        },
+        {
+          "chapter": 270,
+          "quote": "“船”那一行底下，还欠两夜。"
+        }
+      ],
+      "standards": [
+        "黄金:opening_pressure",
+        "黄金:next_question",
+        "精修2.4"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-060",
+        "B27-RE-061",
+        "B27-RE-064"
+      ],
+      "applied_evidence": []
+    },
+    {
+      "id": "B27-R01",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "270给信使半平勺未交代来源。在80/60/20和成人两平勺不变的条件下，不能直接新增公共出水。建议来自杜姨当班未饮个人份，但余量未证，必须主笔确认才可采用；不得从病幼份扣。",
+      "current_evidence": [
+        {
+          "chapter": 270,
+          "quote": "她进棚先要水，杜姨给了半平勺。"
+        }
+      ],
+      "standards": [
+        "A2",
+        "B8"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-062"
+      ]
+    },
+    {
+      "id": "B27-R02",
+      "status": "open",
+      "severity": "中等",
+      "blocking": true,
+      "recheck": "262/264条面非本库器物一律押存，265实际只看不抄、原笔纸布不押仍带回；现场有交易但未明示本趟执行界限。建议人物直接问、陪同限定仅这趟只看，267不再准入仍保留。须主笔确认是既有场景行为的说明，不创造普遍免押权。",
+      "current_evidence": [
+        {
+          "chapter": 262,
+          "quote": "非本库的器物一律押存"
+        },
+        {
+          "chapter": 265,
+          "quote": "陪同的人看了她一眼，没再拦。"
+        },
+        {
+          "chapter": 265,
+          "quote": "袋里那三样一样没少"
+        }
+      ],
+      "standards": [
+        "A3",
+        "A5",
+        "C14"
+      ],
+      "suggested_edit_ids": [
+        "B27-RE-063"
+      ]
+    }
+  ],
+  "summary_counts": {
+    "original_issues": 28,
+    "closed_original": 10,
+    "unclosed_original": 18,
+    "new_issues": 2,
+    "blocking_issues": 17
+  },
+  "normative_checks": [
+    {
+      "id": "A1",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "人物位置链",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 267,
+          "quote": "把木尺横在膝上，量了两道口子"
+        }
+      ],
+      "reason": "回桌后不能用膝上的尺隔空量板；263挂名与同行须分；268外闩/过匣和269不入转角的主要空间链已闭。",
+      "issues": [
+        "B27-008",
+        "B27-009",
+        "B27-019",
+        "B27-023",
+        "B27-027"
+      ]
+    },
+    {
+      "id": "A2",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "数字闭环",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 264,
+          "quote": "四个孩子两块拼一块"
+        }
+      ],
+      "reason": "9口/7板须直接分5+2；125/127不是缺补算术，凝水和信使水未闭；两陪同、6+3捆、一夜点、候料5-1=4已核。",
+      "issues": [
+        "B27-015",
+        "B27-016",
+        "B27-020",
+        "B27-R01"
+      ]
+    },
+    {
+      "id": "A3",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "信息释放顺序",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 266,
+          "quote": "两处一并报上去了。"
+        }
+      ],
+      "reason": "未见来源先宣布档房上报；270先信后实看已改，两灯不再来自空白信文。",
+      "issues": [
+        "B27-018",
+        "B27-011"
+      ]
+    },
+    {
+      "id": "A4",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "知识来源",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 263,
+          "quote": "门开几回，页就动几回。"
+        }
+      ],
+      "reason": "必须由口供/物证/待核三类分记，开门不证明挪页；269仍有内心断定人位置。",
+      "issues": [
+        "B27-005",
+        "B27-009",
+        "B27-016",
+        "B27-018"
+      ]
+    },
+    {
+      "id": "A5",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "物件物理",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 268,
+          "quote": "退库单从圈页底下抽出来"
+        }
+      ],
+      "reason": "已交林渡的回执回到圈页缺交接；空袋/库页边界与回执空栏未闭。外闩与空袋先过的修复可执行。",
+      "issues": [
+        "B27-004",
+        "B27-014",
+        "B27-017"
+      ]
+    },
+    {
+      "id": "A6",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "时间口径",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 263,
+          "quote": "“所以我明天进去看。”"
+        }
+      ],
+      "reason": "D127不能约D128即入；D128发D129起用；D131昼夜守岗同日，次日缺余岗；不靠移动全批日次修词。",
+      "issues": [
+        "B27-001",
+        "B27-002",
+        "B27-019",
+        "B27-024"
+      ]
+    },
+    {
+      "id": "B7",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "光影方向",
+      "result": "retained",
+      "evidence": [
+        {
+          "chapter": 269,
+          "quote": "再往里便被转角挡住了。"
+        }
+      ],
+      "reason": "修后尊重视线遮挡；270灯移旁照缝沿而不是靠黄汽鉴油，未见反向影子或透视能力。",
+      "issues": [
+        "B27-009",
+        "B27-021"
+      ]
+    },
+    {
+      "id": "B8",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "能力与供能边界",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 270,
+          "quote": "仍用原来的垫石和两片木楔顶紧。"
+        }
+      ],
+      "reason": "夜/昼同一套短撑石楔，不增第二套；灯与干草为原物、无新电池仪器。水来源R01与非饮用凝水020未核，不能由程序制造资源。",
+      "issues": [
+        "B27-020",
+        "B27-025",
+        "B27-R01"
+      ]
+    },
+    {
+      "id": "B9",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "感官依据",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 263,
+          "quote": "黑汽一起，板缝先渗木油，接着呛人。"
+        }
+      ],
+      "reason": "黑汽与木油不得串成机制；各章湿板汽状态仍混。已修灰白残留不定盐、热风不称烫味、油迹落缝沿。",
+      "issues": [
+        "B27-021"
+      ]
+    },
+    {
+      "id": "B10",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "人体常识",
+      "result": "closed_hit",
+      "evidence": [
+        {
+          "chapter": 270,
+          "quote": "他这一天右手抬不过肩，抄册子换了左手，字歪。"
+        }
+      ],
+      "reason": "事故、伤后换手、吊臂延续；阿九臂伤包扎不抹，弥娅腿沉在坡腰歇且不追拉车陡坡；祝衡留桌不突然冲现场。",
+      "issues": [
+        "B27-025"
+      ]
+    },
+    {
+      "id": "C11",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "叙述者禁语",
+      "result": "closed_hit",
+      "evidence": [
+        {
+          "chapter": 266,
+          "quote": "林渡把账页翻到待核那一页"
+        }
+      ],
+      "reason": "旧稿解释林渡明白祝衡的旁白已改实际翻账，后段访客诉求表现冻结后果；269的责任纠偏是人物当众限定，不机械删“不是”。",
+      "issues": [
+        "B27-022",
+        "B27-010"
+      ]
+    },
+    {
+      "id": "C12",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "动作—结果闭环",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 268,
+          "quote": "她把这两种味分开记，记完又听了一会儿"
+        }
+      ],
+      "reason": "分味无结果/用途，删掉而保外部绳响；“匣角顶袋撑出棱”已给实接触和结果。",
+      "issues": [
+        "B27-022"
+      ]
+    },
+    {
+      "id": "C13",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "验证动作分工",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 267,
+          "quote": "林渡把那页抄纸看了两遍，看完看她。"
+        }
+      ],
+      "reason": "弥娅核见闻后林渡不再无差别看两遍，宜直接关注未交路线；不同渠道对车时辰属于有效交叉验证。",
+      "issues": [
+        "B27-022"
+      ]
+    },
+    {
+      "id": "C14",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "指代落地",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 265,
+          "quote": "空栏上有印，就说明你没带东西出来。"
+        }
+      ],
+      "reason": "“东西”必须限定库页，不覆盖私人原物；“媳妇/同址两户”不能在待核口数中定家庭。",
+      "issues": [
+        "B27-017",
+        "B27-015"
+      ]
+    },
+    {
+      "id": "C15",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "像是限量",
+      "result": "retained",
+      "evidence": [
+        {
+          "chapter": 265,
+          "quote": "齐得像用尺比着裁的"
+        }
+      ],
+      "reason": "此处比较裁口形状，不自动证明新旧或同一把刀；十章“像是”字面均0，未见连续双明喻堆砌。计数仅作辅助。",
+      "issues": []
+    },
+    {
+      "id": "C16",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "称谓中性",
+      "result": "retained",
+      "evidence": [
+        {
+          "chapter": 268,
+          "quote": "她看了看自己的右手，又看了看那道坡。"
+        }
+      ],
+      "reason": "身体局限用于选择而非蔑称；五个卧床是照护计量，不以伤病侮辱命名。",
+      "issues": []
+    },
+    {
+      "id": "C17",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "用字与统一命名",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 268,
+          "quote": "正门那两根绳还挂在西边墙钉上"
+        }
+      ],
+      "reason": "一道接绳两结不能在后章变两根门绳；术语押条/回执/退库单为有关系的文书，不随意并成新物。",
+      "issues": [
+        "B27-005"
+      ]
+    },
+    {
+      "id": "D18",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "纯汉字字数",
+      "result": "pass",
+      "evidence": [
+        {
+          "chapter": 268,
+          "quote": "那一岗她守到了后半夜。"
+        }
+      ],
+      "reason": "按项目脚本同口径去标题、计3400—4dbf及4e00—9fff，十章2247—2629，全部2200—3200。不是事实或吸引力通过。",
+      "issues": []
+    },
+    {
+      "id": "D19",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "行数与自然段",
+      "result": "retained",
+      "evidence": [
+        {
+          "chapter": 267,
+          "quote": "“我不押。”弥娅说。"
+        }
+      ],
+      "reason": "实际122—163行，自然段与对白分行；无一句一行扩行凑量，不拿行数代替汉字下限。",
+      "issues": []
+    },
+    {
+      "id": "D20",
+      "standard": "异星录/05_写作规范/正文与连载规范.md §9",
+      "criterion": "补字内容",
+      "result": "needs_revision",
+      "evidence": [
+        {
+          "chapter": 270,
+          "quote": "杜姨给了半平勺。"
+        }
+      ],
+      "reason": "全部建议未写正文；补来源只能用既有配额，不能靠“流程修补”添加水/器材/人物。条件建议必须等主笔证据及再审。",
+      "issues": [
+        "B27-R01",
+        "B27-R02",
+        "B27-020"
+      ]
+    }
+  ],
+  "style_checks": [
+    {
+      "id": "精修2.1",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "抽象情绪替代动作",
+      "evidence": [
+        {
+          "chapter": 267,
+          "quote": "说完她咳了两声，拿手背压住嘴"
+        }
+      ],
+      "result": "retained",
+      "reason": "拒押的身体反应落地，不靠“众人紧张”。"
+    },
+    {
+      "id": "精修2.2",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "不是A而是B连续解释",
+      "evidence": [
+        {
+          "chapter": 269,
+          "quote": "不是把前几天那次核页改成失保，也不是替她认昨夜的事。"
+        }
+      ],
+      "result": "retained",
+      "reason": "纠正强制扩大担保的必要范围说明，属人物台词；不为减句式删掉责任边界。"
+    },
+    {
+      "id": "精修2.3",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "明喻堆叠",
+      "evidence": [
+        {
+          "chapter": 265,
+          "quote": "齐得像用尺比着裁的"
+        }
+      ],
+      "result": "retained",
+      "reason": "工艺参照具体；不将齐口升级为必然同一刀，缺页因果另按016修。"
+    },
+    {
+      "id": "精修2.4",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "同构句/匀称段落",
+      "evidence": [
+        {
+          "chapter": 261,
+          "quote": "他还没有把这两道连成一句话。"
+        }
+      ],
+      "result": "needs_revision",
+      "reason": "265再用短横不连线收束，抽象谨慎重复；028改不同的下一步行动。"
+    },
+    {
+      "id": "精修2.5",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "全知动机说明",
+      "evidence": [
+        {
+          "chapter": 266,
+          "quote": "他看的还是末一行"
+        }
+      ],
+      "result": "retained",
+      "reason": "林渡自身的判断可写，来访者只写问话/停顿；不把未核家组变作者全知事实。"
+    },
+    {
+      "id": "精修2.6",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "无功能沉默点头",
+      "evidence": [
+        {
+          "chapter": 261,
+          "quote": "林渡没有立刻答。"
+        }
+      ],
+      "result": "retained",
+      "reason": "这里以不落保栏争取核条件时间，有行动后果；无需删尽沉默。"
+    },
+    {
+      "id": "精修2.7",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "叙述者翻译辩护",
+      "evidence": [
+        {
+          "chapter": 266,
+          "quote": "名单多挂一天，想下迁的人就在六层多等一天"
+        }
+      ],
+      "result": "closed_hit",
+      "reason": "旧重复翻译已删除，剩下这句指明冻结与居民等待的因果；后接上墙与来访，不独立判成新高危。"
+    },
+    {
+      "id": "精修2.8",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "动作罗列流水账",
+      "evidence": [
+        {
+          "chapter": 263,
+          "quote": "她出门前把布掖了三回，掖完站着看了一会儿"
+        }
+      ],
+      "result": "needs_revision",
+      "reason": "护匣功能可保留，但开头只有整理不够，023在真实入口先交代独去看门限制；268分味记味删除无结果动作。"
+    },
+    {
+      "id": "精修2.9",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "动词悬空",
+      "evidence": [
+        {
+          "chapter": 268,
+          "quote": "匣角顶着袋布，撑出一道棱。"
+        }
+      ],
+      "result": "closed_hit",
+      "reason": "“过去一格”已替换，物件接触有结果；仍有分味记味任务不明，列022。"
+    },
+    {
+      "id": "精修2.10",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "验证动作重复",
+      "evidence": [
+        {
+          "chapter": 267,
+          "quote": "林渡把那页抄纸看了两遍，看完看她。"
+        }
+      ],
+      "result": "needs_revision",
+      "reason": "两人重复验同纸未分任务，林渡改问留白/自主范围，不删弥娅必要核所见。"
+    },
+    {
+      "id": "精修2.11",
+      "standard": "异星录/05_写作规范/文风与细节精修规范.md §2、§7",
+      "criterion": "像是堆叠",
+      "evidence": [
+        {
+          "chapter": 263,
+          "quote": "风从缝里出来，是干的"
+        }
+      ],
+      "result": "retained",
+      "reason": "现场直接给触感与风来源；全文“像是”0只证明无该字面超量，未用此计数替真实阅读。"
+    },
+    {
+      "id": "精修7.突然",
+      "criterion": "突然/骤然/猛地替代征兆",
+      "result": "retained",
+      "evidence": [
+        {
+          "chapter": 270,
+          "quote": "出了油就得先支。"
+        }
+      ],
+      "reason": "大热与板裂多章先行，修后先控险再事故；没有突袭作廉价升级。"
+    },
+    {
+      "id": "精修7.对白",
+      "criterion": "人物同声",
+      "result": "retained",
+      "evidence": [
+        {
+          "chapter": 267,
+          "quote": "“板还拉不拉。”"
+        },
+        {
+          "chapter": 264,
+          "quote": "两样我都不替你签。"
+        }
+      ],
+      "reason": "阿九问料与动作代价、祝衡守账界限、弥娅保载体、林渡分工承担可分；未出场的林栖/林岑不在本批编对白签审。"
+    },
+    {
+      "id": "精修7.主题总结",
+      "criterion": "作者总结关系与命运",
+      "result": "retained",
+      "evidence": [
+        {
+          "chapter": 267,
+          "quote": "“圈是我的。”她说，“是我的，我自己去消。”"
+        }
+      ],
+      "reason": "这是角色选择且268行动兑现，不是全知作者替她总结命运；261/265重复谨慎收束按028修。"
+    }
+  ],
+  "body_han_counts": [
+    {
+      "chapter": 261,
+      "han": 2376,
+      "lines": 153,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 262,
+      "han": 2294,
+      "lines": 163,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 263,
+      "han": 2247,
+      "lines": 122,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 264,
+      "han": 2258,
+      "lines": 155,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 265,
+      "han": 2301,
+      "lines": 153,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 266,
+      "han": 2331,
+      "lines": 133,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 267,
+      "han": 2270,
+      "lines": 135,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 268,
+      "han": 2282,
+      "lines": 135,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 269,
+      "han": 2410,
+      "lines": 157,
+      "xiangshi": 0
+    },
+    {
+      "chapter": 270,
+      "han": 2629,
+      "lines": 123,
+      "xiangshi": 0
+    }
+  ],
+  "count_verdict": "pass_only_length_not_content",
+  "applied_edit_verification": [
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 1,
+      "issue_id": "B27-001",
+      "chapter": 261,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 2,
+      "issue_id": "B27-002",
+      "chapter": 262,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 3,
+      "issue_id": "B27-002",
+      "chapter": 264,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 4,
+      "issue_id": "B27-003",
+      "chapter": 265,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 5,
+      "issue_id": "B27-004",
+      "chapter": 265,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 6,
+      "issue_id": "B27-004",
+      "chapter": 266,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 7,
+      "issue_id": "B27-005",
+      "chapter": 263,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 8,
+      "issue_id": "B27-005",
+      "chapter": 263,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 9,
+      "issue_id": "B27-006",
+      "chapter": 267,
+      "new_exact_count": 1,
+      "old_exact_count": 1,
+      "verdict": "present",
+      "note": "旧串为新串前缀；不代表旧版残留"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 10,
+      "issue_id": "B27-007",
+      "chapter": 267,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 11,
+      "issue_id": "B27-009",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 12,
+      "issue_id": "B27-009",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 13,
+      "issue_id": "B27-009",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 14,
+      "issue_id": "B27-009",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 15,
+      "issue_id": "B27-010",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 16,
+      "issue_id": "B27-010",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 17,
+      "issue_id": "B27-012",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 18,
+      "issue_id": "B27-011",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 19,
+      "issue_id": "B27-013",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 20,
+      "issue_id": "B27-013",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 21,
+      "issue_id": "B27-014",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 22,
+      "issue_id": "B27-021",
+      "chapter": 262,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 23,
+      "issue_id": "B27-015",
+      "chapter": 262,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 24,
+      "issue_id": "B27-015",
+      "chapter": 262,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 25,
+      "issue_id": "B27-015",
+      "chapter": 264,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 26,
+      "issue_id": "B27-015",
+      "chapter": 266,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 27,
+      "issue_id": "B27-015",
+      "chapter": 266,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 28,
+      "issue_id": "B27-015",
+      "chapter": 266,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 29,
+      "issue_id": "B27-015",
+      "chapter": 266,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 30,
+      "issue_id": "B27-015",
+      "chapter": 266,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 31,
+      "issue_id": "B27-015",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "applied-edits.json",
+      "index_1_based": 32,
+      "issue_id": "B27-015",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 1,
+      "issue_id": "B27-021",
+      "chapter": 261,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 2,
+      "issue_id": "B27-008",
+      "chapter": 268,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 3,
+      "issue_id": "B27-027",
+      "chapter": 268,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 4,
+      "issue_id": "B27-022",
+      "chapter": 268,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 5,
+      "issue_id": "B27-021",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 6,
+      "issue_id": "B27-021",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 7,
+      "issue_id": "B27-021",
+      "chapter": 269,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 8,
+      "issue_id": "B27-021",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 9,
+      "issue_id": "B27-021",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 10,
+      "issue_id": "B27-025",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 11,
+      "issue_id": "B27-025",
+      "chapter": 270,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    },
+    {
+      "file": "recovery-applied-edits.json",
+      "index_1_based": 12,
+      "issue_id": "B27-021",
+      "chapter": 265,
+      "new_exact_count": 1,
+      "old_exact_count": 0,
+      "verdict": "present",
+      "note": "逐字命中新串；本条落地不等于整项问题全闭"
+    }
+  ],
+  "input_fingerprints": {
+    "initial.json": "128ca2176708be95d82e4c0d7e66194d882f0dd78735a9b8e1ca33e558506e3a",
+    "initial-manifest.json": "7827cdaa5c646ac47326f3a33ac7db1e91f10309f389ee408012691781b5c873",
+    "body-first.md": "0e7bf2ff80b346ef31f8b14343a020f2efc084a9b198acd69a7616aaa25eb50b",
+    "body-first-inputs.json": "cc0616b181b20648b5d822bccf036ad2030a9c01ce4f0ed74e56b6dd0d949fd9",
+    "applied-edits.json": "c7d5535f1b5d47d1580d9ced2441cbacb44d4db45e408d8eb209f6aae3ee0ef3",
+    "recovery-applied-edits.json": "0edde33c5db202208851fc1e08cce3977a222847b569d9c5a341e7433a6c91b8",
+    "final-manifest.json": "26e2b34213c8f9983b4dbc39697c79c1393fd5441a346bca161027a5e12ec824",
+    "recovery-body-first.md": "8aa7bce5a1acbb12b724dc49bac71cc597ff504cf0fa7fd1243753b15ef8dfca"
+  },
+  "suggested_edits": {
+    "path": "harness/maintenance/R008/B27/recovery-suggested-edits.json",
+    "count": 64,
+    "not_applied": true,
+    "conditioned_ids": [
+      "B27-RE-034",
+      "B27-RE-062",
+      "B27-RE-063"
+    ]
+  },
+  "hard_boundaries": [
+    "11自报/8核/3待；两个号不等于已核两户或固定家庭组成。",
+    "80申请/60实到/20旧欠；成人60各两平勺、病幼20壶不挪；非饮用凝水另算但不凭报告增减。",
+    "D123起改时；D125继续，D128发、D129用、D131昼夜分章、D132查痕、D133修板与本地三车、D134收信/看灯。",
+    "黄迹在木纹上而非汽色定油；黑汽不由木油解释；灰白粉末不补盐雨。",
+    "一根短撑及原石楔夜支昼移；旧设备不复活，不增人/水/电池。",
+    "信仅北侧本地接力；北头三趟老数、本地三趟新数分开；灯仅实看一夜；不确认捆内物或双陆史。",
+    "旧D129担保已履行；D132自认不追溯延保，不替弥娅认未知夜事。"
+  ],
+  "author_decisions": [
+    "B27-020：维修停收与既有照护挪班一格是否同项，当前证据不足；建议明确待核实收，不授权增第二格。",
+    "B27-R01：给信使半平勺的既有来源与个人余量，未证不得采用条件建议。",
+    "B27-R02：本次只看不抄的现场免押说明须主笔确认；不创设普遍免押制度。"
+  ],
+  "writeback_status": "8候选此前是拷贝且主笔正在改；A17原行与末尾校准的附加审读待另行交付，不冒认正式回填完成。",
+  "recheck_status": "已对32+12实际修改重新逐章阅读并核字节；建议尚未写正文，不宣称修后关闭。主笔采用后须重新封SHA并重读。",
+  "shared_files_modified": [],
+  "operations_not_run": [
+    "gate",
+    "close",
+    "verify-repair",
+    "全局check"
+  ],
+  "blockers": [
+    "B27-001",
+    "B27-002",
+    "B27-004",
+    "B27-005",
+    "B27-009",
+    "B27-014",
+    "B27-015",
+    "B27-016",
+    "B27-017",
+    "B27-018",
+    "B27-019",
+    "B27-020",
+    "B27-021",
+    "B27-023",
+    "B27-024",
+    "B27-R01",
+    "B27-R02"
+  ]
+}

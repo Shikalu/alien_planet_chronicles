@@ -1,0 +1,571 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "writer": "R006-main",
+  "reviewer": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+  "identity_binding": {
+    "agent_id": "01a1b471-93ab-7fe0-8d74-3e1b635f130f",
+    "role": "R006-B18独立读者",
+    "source": "主线程实际spawn/调用元数据；用户确认send_input target即此ID，并确认初审、v1与本次v2属于同一独立线程。",
+    "source_visibility": "本会话据用户提供的调用元数据亲自填写，未自行猜测ID，也不声称自行读取过未提供的spawn日志。",
+    "same_independent_thread": true,
+    "same_thread_reviews": [
+      "harness/maintenance/R006/B18/initial.json",
+      "harness/maintenance/R006/B18/final.json",
+      "harness/maintenance/R006/B18/final2.json"
+    ],
+    "historical_records_preserved": "已核initial.json与final.json的reviewer均为null；保持原字节，不补造历史通过签名。主线程另作身份交接包装。",
+    "writer": "R006-main",
+    "reviewer_wrote_manuscripts": false
+  },
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 171,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第171章_有人摸到总阀.md",
+      "sha256": "4414acadbb520b537f07fa7754caba0d955d2bb3e6e44116019634eb6496dfc0"
+    },
+    {
+      "chapter": 172,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第172章_流不到议政厅的那一管.md",
+      "sha256": "fa050e6da8048dcda71f790cfe9668e70b69d912428cd3dfa53059728ea53aeb"
+    },
+    {
+      "chapter": 173,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第173章_复仇名单上有孩子.md",
+      "sha256": "d6fea4341551efb6fe4e2eb3449392e0055759c069170cca1358e0bbf47da84e"
+    },
+    {
+      "chapter": 174,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第174章_父亲要的那一道门.md",
+      "sha256": "421f80ba157a2b49fc31b5d352604a93eac3ed8edb02ca851ed7098652128017"
+    },
+    {
+      "chapter": 175,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第175章_把队列摆在图旁.md",
+      "sha256": "26ab32c9daa7cd988578fd1a2565874916e49a00890237a59a20d556db038cb6"
+    },
+    {
+      "chapter": 176,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第176章_不再替你解释.md",
+      "sha256": "5153f0948bf1f06b7d50b65421a823243befc3db90d359924e52a206eeaf7746"
+    },
+    {
+      "chapter": 177,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第177章_离开的那一班人.md",
+      "sha256": "910e5f1ff364d80d393c12d177d6f6b50a9a3f4c6e6adecc7794b526586cfeec"
+    },
+    {
+      "chapter": 178,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第178章_这一趟不装匣子.md",
+      "sha256": "320e80857ffd2884cc113c97b990da54ecaf5c02a2fd0b41f0dbedb59f0959b4"
+    },
+    {
+      "chapter": 179,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第179章_对不上的是哪一笔.md",
+      "sha256": "28a3ab8b1fe2f492b968ce32ea000a104ac2bb446076041bfba9ba72ce62d2de"
+    },
+    {
+      "chapter": 180,
+      "path": "异星录/06_执行计划/工作区/R006-B18/第180章_谁能带走一份.md",
+      "sha256": "4a77c791c6d24c4f3e2742f637183e9bd6403eeaad7ba975143ae31924a9e7fb"
+    }
+  ],
+  "source_digest": "d3b7a59136a615c32f9a8f1ad336bc6cd90f9c4241fe17cb7958fbc48c3ec706",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 171,
+      "quote": "公开对账定在今晚，账桌却没能安生到晌午。",
+      "reason": "对账限在今晚，阀先在晨间出事，未到晌午便撞上公开承诺；首段有时限和失控，不只是摆证物。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 171,
+      "quote": "锁杆不锁人。谁拧的，先不忙找——先弄清这格错得有多深。",
+      "reason": "先保供、查错阀而不先找仇人，是本章具体选择；台词由庚二说出、林渡以疏散和停手实施，非把所有行动冒归主角。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 171,
+      "quote": "于是这一班的抢修，整个让给了这道阀。",
+      "reason": "抢修班让给阀、勺慢和队长是可见代价；但收一格后复一格半仍欠半格，无法核算实际修复变化。流量统一不等于阀位闭合。",
+      "verdict": "needs_revision",
+      "action": "按002裁定阀件及每次开度；保留实际停班和排队代价，不擅补另一次收阀。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 171,
+      "quote": "阀上动手，先疼的是排队的人。你家娃要是病着，这话你说不出口。",
+      "reason": "住户用自家病娃反问报复，排队者退后而非讲道理获全体喝彩；冲突落在一勺水的痛处。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 171,
+      "quote": "三夜里，拐角过了三回人，回回朝塔。",
+      "reason": "三夜朝塔同方向形成可追问的记录，下一步查岗而不是临时冒出敌人；不提前把记录定成身份实锤。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 172,
+      "quote": "今晚的会上，得把那道阀到底掐着谁，一笔一笔摆出去。",
+      "reason": "开头说明查线等不得：当晚要拿受水者证据上会，承接171的既有截止点。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 172,
+      "quote": "以管为准，图做参考。",
+      "reason": "以管为准、旧图参考，使行动有方法与风险；三人沿线抄牌不是只听作者解释旧图。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 172,
+      "quote": "医疗专线接的是这一管。",
+      "reason": "医疗专嘴被找到、十九户得到核名，但旁支/主干关系仍未经足够可见依据说明，无法支撑“断阀完全伤不到上城”的核心新结论。",
+      "verdict": "needs_revision",
+      "action": "按006给主干/旁支拓扑的既有可见依据，区分现场查到与据图判断，不添新设备。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 172,
+      "quote": "那我家娃昨儿提心吊胆图什么？",
+      "reason": "老妇问孩子白守半宿，报复误伤的恐惧落在一户；第九口已统一，情绪不再被户位跳号打断。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 172,
+      "quote": "谁想掐阀，先看看阀底下压着的是谁的名字。",
+      "reason": "纸卷去会场要求当众看名字，下一章要面对动阀者及受损者的回应，问题具体且有行动。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 173,
+      "quote": "正中一整面，是林渡下午卷回来的那卷纸——水线图、节号纸、领水记录，一张挨一张钉开，钉子不够，用橛子别着。",
+      "reason": "下午带回三样纸现在钉开，当晚公开核验直接兑现，不拖成新一轮搜集；D41日夜衔接已修。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 173,
+      "quote": "按实人，不按来处。下城的孩子这么算，上城的孩子也这么算",
+      "reason": "按实人不按来处是有阵营代价的选择，救济制度不再只是仇恨表态；新增份从何出另有012的资源限制，不能据情绪豁免。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 173,
+      "quote": "阀是我拧的。",
+      "reason": "匿名拧阀者当众自认，给公开对账一个不可逆人物变化，随后孩子页扩展规则对象。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 173,
+      "quote": "把自己那勺原封端给了身后抱孩子的妇人，转身又去排了一次。",
+      "reason": "让水仍接重排，读者不知他是否又领一份，稀缺下的悔意代价不能确定；这部分没因日期字词修正而通过。",
+      "verdict": "needs_revision",
+      "action": "按012裁让份后重排用途及是否领水，不能让善举自动获额外配给。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 173,
+      "quote": "上城那些孩子，谁去敲他们的门？",
+      "reason": "明确下一步敲上城孩子的门，待访承认未通的路；没有把未知者直接算成已救到。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 174,
+      "quote": "林岑的右肩还吊着，只能用左肩背那只旧工具袋",
+      "reason": "凉时出行与父亲仍吊着的右肩把会面放在受限身体里，现只用左肩、歇窗托袋，负重矛盾已排除。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 174,
+      "quote": "可你要拿它换一条插队的道，这个道，我没有。",
+      "reason": "林渡拒以父亲的图换插队，即使因此暂拿不到图也守排序；人物选择有损失而非便利宣言。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 174,
+      "quote": "明晚。",
+      "reason": "父亲承诺明晚复核后图上桌，变化是停止私押条件，而不是本章已交图；既有承诺得到保留。",
+      "verdict": "pass",
+      "additional_evidence": [
+        {
+          "chapter": 174,
+          "quote": "复核完，图上桌。"
+        }
+      ],
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 174,
+      "quote": "你审人的样子，不像二十郎当岁的人。",
+      "reason": "父亲对儿子的审问方式生疏，儿子仍把他算进册子，亲情通过规则表现；删内心代言后靠言行成立。",
+      "verdict": "pass",
+      "additional_evidence": [
+        {
+          "chapter": 174,
+          "quote": "你也在册子上。"
+        }
+      ],
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 174,
+      "quote": "图在铺盖里躺着，序在册子上立着。两样东西，明晚上同一张桌。",
+      "reason": "图与排序在下一晚同桌，是此章拒交易引出的明确追问；等待有具体时点与要做的事。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 175,
+      "quote": "复核的板子，傍晚在塔下支起来。",
+      "reason": "仍先介绍板子怎样支起和材料如何排，医疗恶化/芯格两天压力后到，首段抓手弱；安全字词修正未改此结构。",
+      "verdict": "needs_revision",
+      "action": "把本章已有病况或汽十一息/芯格两天的压力前移一句，板子材料介绍后放；不添事故、不灌总结。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 175,
+      "quote": "明天这一趟，不装匣子。人先出。原件留原处，位置填进格子里",
+      "reason": "弥娅自己同意本趟人先、原件留位，不是别人替她放弃资料；位置记录让选择伴随损失控制。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 175,
+      "quote": "这一行留着，条件后头添四个字——待线交割。",
+      "reason": "维修台加待线交割而不虚排已运，队列条件变成执行限制；但实际出发时钟仍不能由这一项替代核验。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 175,
+      "quote": "空着的格子不提前填，人到了，名字自己上。",
+      "reason": "杜姨留空照护格而不先填名字，为到达保留等待感；179两人相对是可回看的局部兑现。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 175,
+      "quote": "照现在的耗法，余量到不了潮头过完。",
+      "reason": "芯格余量撑不过潮头本可形成下一步，但两天红线、后续多夜和177延期没对齐；钩子时钟仍不能追踪。",
+      "verdict": "needs_revision",
+      "action": "按017/022逐夜核灯种、芯格余量与计划/实发时段，保持原两天红线，不靠改数字解决。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 176,
+      "quote": "复核散板之后，证词桌的灯亮了半宿。",
+      "reason": "复核散板后立刻核证到半宿，父亲要在既有公开压力下答图，时段和本场任务明确。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 176,
+      "quote": "图不动。",
+      "reason": "林渡拒父亲就地改原图、口述另记，主动守证据边界；179实际操作违背边界另在其选择项记未通过。",
+      "verdict": "pass",
+      "additional_evidence": [
+        {
+          "chapter": 176,
+          "quote": "画圈留着——回头对现物，差在哪，圈会告诉我们。"
+        }
+      ],
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 176,
+      "quote": "这一栏，你给我记‘知而不问’。",
+      "reason": "林岑主动要求记知而不问，拒记不知情，责任从模糊辩护变成明确自认；具体年代分期仍未裁，非历史事实全通过。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 176,
+      "quote": "你的事，我不替你解释——解释多了，账就不清了。",
+      "reason": "拒绝代言与父亲自行答话形成关系转折；v2删去176的重复旁白并不削弱对白和搁笔动作已经完成的情绪回报。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 176,
+      "quote": "孔位对描图，日子对交接，号对旧册——三样对上了，你的话才算立住。",
+      "reason": "承诺孔位/日期/工号独立核证的下一步清楚，但原图距差当改孔、179口供归位与同源作保破坏兑现方法，需要先修019/020。",
+      "verdict": "needs_revision",
+      "action": "按019/020分原图、描图、口供与独立登记；无证只待核，不让不同持笔者等于独立来源。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 177,
+      "quote": "头一运定在凉时。可转运起点的人没到齐。",
+      "reason": "运人限在凉时而人未到齐，开场直接撞上执行危机；不是事后空说少人了。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 177,
+      "quote": "到时候来不来，随你们。",
+      "reason": "人手紧仍允许退出、结清借据，保留下次自愿来帮的选择，不靠强迫把危机抹平。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 177,
+      "quote": "班表上每批四人改成三人，批数不变，趟数拉长",
+      "reason": "六人整班退出后谁构成三抬手仍不明，四改三与少一班混算；次日原已计划却称延期，可见代价欠可核的数量。",
+      "verdict": "needs_revision",
+      "action": "按021/022核全线/当次组人数及计划/实发日期；阿九仅扶板，不添三名抬手、不静删整班退出。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 177,
+      "quote": "年长的那位应了一声：“来。”应完他自己愣了一下",
+      "reason": "年长者本能应来后愣住，退出与牵挂同时存在；v2留姓名但撤当班记号，把回来的可能与当前缺手分别落实。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 177,
+      "quote": "人在一处，纸在一处，火来一回，水淹一回，全完。",
+      "reason": "集中存纸的风险在救人先后选择后提出，读者会追问何时分纸以及谁承担风险，180能回接此问。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 178,
+      "quote": "出发前一夜，弥娅把那张原件位置记录的表格又核了一遍。",
+      "reason": "仍从177已入侧廊退回前夜核表，既有不装匣子决定又讲一遍，未清晰接回首运现场；开场拖延和回叙边界未改。",
+      "verdict": "needs_revision",
+      "action": "从已有候门或潮黏纸的行动切入，核表回提；若保回叙需明确回到D44首运，不新增出发事件。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 178,
+      "quote": "阿苗的疮不能再拖，可裂开的那一跨没撑稳，就不能让她过。",
+      "reason": "新句同时承认疮急与裂跨未稳，选择先稳落点而不把等待说成无代价。此项由未通过改通过，时间和落点仍在另项阻塞。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 178,
+      "quote": "分出来半页，上头记的汽班数已经看不成了",
+      "reason": "纸页汽班数失去与首运抵棚都是真变化，但阿苗首运出门到第二运之间去处及卯初到夜宿断链，读者不能完整跟随救援变化。",
+      "verdict": "needs_revision",
+      "action": "按022/024/025补作者核定的等待点、接手人和停运时段，保留纸损与人已抵棚，不能倒推路线自然成立。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 178,
+      "quote": "三十年没走外头的道，手生，嘴不生。",
+      "reason": "老工师用旧码回应接手点，熟练记忆与重出墙发生在动作中；三十年沿014待裁，这里只认可应码的局部情绪效果。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 178,
+      "quote": "数纸上，这一夜的汽班记了最长的一笔：来十二息。",
+      "reason": "十二息与次晨三验本有压力，卯初事故却直接写这一夜，缺中间停运和照护时段；不能只报更长数字就当钩子可靠。",
+      "verdict": "needs_revision",
+      "action": "按022分开卯初停运、入夜照护、次晨三验；不加汽班数拔高危险。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 179,
+      "quote": "阿苗的托板最后过桥",
+      "reason": "开头三验后阿苗过桥，立即回应救援风险；v2补明后队到棚后才封同一裂跨，临时过人与常态禁行不再冲突。此项仍不为178时段和等待点自签。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 179,
+      "quote": "缺角留空，缺签留空。这张纸上没有的，我们不猜。",
+      "reason": "嘴上缺签不猜，操作却口供补孔位、同源账称独立、落款不能假，行为没有守住自己选的核证界限。",
+      "verdict": "needs_revision",
+      "action": "按019/020把未经独立核验的孔位/日次/二次封墙标待核或假说，谨慎台词须对应操作。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 179,
+      "quote": "五道签记，号有重复，至少三只手，一道工序。",
+      "reason": "已明确五道签记含重复号、只确认人数下限，新变化是岗位/工号关联，不再虚增五个新人。此项转通过，不替020日期和墨迹证据背书。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 179,
+      "quote": "老工师从灯下那格挪过来，两个人对着坐了一会儿，谁也没提墙里的事。",
+      "reason": "老工师与阿苗相对而不重述苦难，兑现175空位，安静动作足够；无需再加获救主题解释。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 179,
+      "quote": "明天先核接段号，再追领料那一行。",
+      "reason": "新末句落在明天先核接段再追领料，已认责任照记、缺名继续查，不再诱导选一个人替罪。此项转通过。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 180,
+      "quote": "纸刚核完，墨还没干透，放一放再说。",
+      "reason": "纸刚核完要等还是分，开头就有争议；单线和既有支板损失迫使决定，不靠新事故凑紧张。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 180,
+      "quote": "台上那位等线交割，纸不等人。分。",
+      "reason": "林渡主动撤回人齐才分纸的旧排序，先分现有纸，选择来自通路变窄的既有风险；具体保管是否成立另审。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 180,
+      "quote": "三处各拿一角，谁处也不全。",
+      "reason": "留底材料总称、老赵私持原页与清单外待核已清楚；但站柜两拓片类别未裁、对应页存放及号域仍冲突、失联授权未闭合，D47已发与182首批仍冲突，安全分存未完整兑现。",
+      "verdict": "needs_revision",
+      "action": "按034/035/037核保护页、号域、拓片张别和授权，按039裁日次及匣内材料；保留三处、185迁址与私人原件，不添回程或第二匣。",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 180,
+      "quote": "这一页，入公开册。",
+      "reason": "祝衡把自己巡段七年八十四行自誊签名入公开册，核别人者也进入被核位置，责任升级来自自身已有行为。",
+      "verdict": "pass",
+      "additional_evidence": [
+        {
+          "chapter": 180,
+          "quote": "质询那天，我自己念。"
+        }
+      ],
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 180,
+      "quote": "你的行，跟别人的行一样核。核完那天，这张桌给你留位。",
+      "reason": "下篇要按同一规则核祝衡本人，保留清晰行动与人物问题；通过只限此钩子，不表示岑野出发时点或交接口令已合格。",
+      "verdict": "pass",
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 180,
+      "quote": "质询那天，我自己念。",
+      "reason": "误伤供水→自认，拒绝交换→本人答，空照护格→相对坐，集中风险→分纸决定，都有实质回报；v2把照护、禁跨和私持原页补清。但独立核证019/020、安全分存034/035/037及首批039仍未闭合，不能用情绪兑现代替这些承诺。",
+      "verdict": "needs_revision",
+      "action": "保留已有效的认错、自己作答、抵棚和自誊责任；先修证据独立性、盘点与039接口，再确认分纸兑现。不能用感人盖过事实阻塞。",
+      "additional_evidence": [
+        {
+          "chapter": 173,
+          "quote": "阀是我拧的。"
+        },
+        {
+          "chapter": 176,
+          "quote": "我自己站过去答。"
+        },
+        {
+          "chapter": 179,
+          "quote": "两个人对着坐了一会儿，谁也没提墙里的事。"
+        },
+        {
+          "chapter": 180,
+          "quote": "纸已经上路了。"
+        }
+      ],
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；本轮全文实读"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 178,
+      "quote": "数纸上，这一夜的汽班记了最长的一笔：来十二息。",
+      "reason": "危机从误伤十九户/医疗到群体退出与运力损失，再到裂板和证据保管，升级有不同作用，不全靠战斗。但人班、延期、灯耗和D47/D49仍不能回看核算，代价升级未完全落地。",
+      "verdict": "needs_revision",
+      "action": "先裁017/021/022/039的能源、人班和日次，再用已写退出/停运/抄纸劳动表达升级，不新增事故或运次。",
+      "additional_evidence": [
+        {
+          "chapter": 177,
+          "quote": "我们几个，走这条道走不了了。"
+        },
+        {
+          "chapter": 180,
+          "quote": "门就在我手底下，我领了印，走过去，看都不看。"
+        }
+      ],
+      "revision2_evidence_check": "当前字节逐字核验并重新判断；与v1同字节，继承实际全文审读"
+    }
+  ],
+  "profile": "serial",
+  "phase": "revision2_short_review",
+  "verdict": "needs_revision",
+  "reading_provenance": {
+    "initial": "冻结initial-reader-notes.md、initial.json/md；首读认识不回填。",
+    "revision": "本轮完整逐章读171、172、173、175、176、177、179、180当前工作稿，完成final2-body-first-notes.md后重开v1详表与编辑日志。",
+    "unchanged_chapters": "174、178的SHA256与v1完全相同，继承v1真实全文审读；178另定点读13—22行核038，不称本轮全文重读。",
+    "prior_knowledge": "已知上轮资料及主笔在通知中描述的改动；独立修后复核不是重新盲读。body_first记录此次先正文后详表/日志。",
+    "scope": "52项逐项重新判断并核当前引句；174/178继承同字节实读并逐项复核。182只核v1接口证据与指纹未变，无B19全文或吸引力验收声明。",
+    "identity": "本轮亲自绑定真实调用ID，历史null保持不变。"
+  }
+}

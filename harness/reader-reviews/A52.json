@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex /root/draft_a52",
+  "reviewer": "/root/reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 611,
+      "path": "异星录/06_执行计划/工作区/A52/第611章_车在石脊那头.md",
+      "sha256": "86f5302e892387074f2069cea4b4ba534f40c707d829880d3866c5f101358fee"
+    },
+    {
+      "chapter": 612,
+      "path": "异星录/06_执行计划/工作区/A52/第612章_水从墙背上来.md",
+      "sha256": "09b098023d98509a5af4bb08901aaf7fe6be93e4967ce75bd816b0078490194e"
+    },
+    {
+      "chapter": 613,
+      "path": "异星录/06_执行计划/工作区/A52/第613章_三人走了三程.md",
+      "sha256": "d3168d852dc27ed203b4220204c71d77fe04fc24f0db82470c83d16d6cb406e3"
+    },
+    {
+      "chapter": 614,
+      "path": "异星录/06_执行计划/工作区/A52/第614章_背水阶的第三个人.md",
+      "sha256": "4eb7623e8a131e5ebe03bec0cea6cedb3fb5442bbbb5311e0c5e74031d529598"
+    },
+    {
+      "chapter": 615,
+      "path": "异星录/06_执行计划/工作区/A52/第615章_两条线隔了多久.md",
+      "sha256": "da7c90058bf43393ac87234f12ae953b0aae2fcbed8ff48580b5b891cc40144a"
+    },
+    {
+      "chapter": 616,
+      "path": "异星录/06_执行计划/工作区/A52/第616章_走墙干的一边.md",
+      "sha256": "5d5f7e294faff93063ab702711963452ae7b492bb8881c170b293c932383fa76"
+    },
+    {
+      "chapter": 617,
+      "path": "异星录/06_执行计划/工作区/A52/第617章_塔下的旧箭头.md",
+      "sha256": "91798b51c2ba75b8eff6be189f797ba4648d081d6f2c23404b0aeb8ca720a453"
+    },
+    {
+      "chapter": 618,
+      "path": "异星录/06_执行计划/工作区/A52/第618章_把口留给退水.md",
+      "sha256": "3d0a07302132dc924da89f0f4359b93ba0ed379b8b6b7a8df9f5e6e6c6d55aea"
+    },
+    {
+      "chapter": 619,
+      "path": "异星录/06_执行计划/工作区/A52/第619章_布从这头收.md",
+      "sha256": "482eedfc5c20d8cac16271b6209bb565c026a87475c4ca16848f3737c5ac86c8"
+    },
+    {
+      "chapter": 620,
+      "path": "异星录/06_执行计划/工作区/A52/第620章_海向墙里来.md",
+      "sha256": "643f71c9bc08faa7a768f78dc823505f7acfd1c7b38534dfd2d72b4df3fa296e"
+    }
+  ],
+  "source_digest": "3daecc9603dd305fa66b5c9d4d9e602ac6586490b423f1e269c48efd5f952500",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 611,
+      "quote": "三层货场的值桌有人抢着写了个回字。",
+      "reason": "首趟前章只签离点，现在一声似轮响令候车者将盼望当实际，立即要核人和车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 611,
+      "quote": "今日第二趟没定。",
+      "reason": "林渡不许拿第一车已送人许掉第二车，护母子留三层干墙，免再抬回湿处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 611,
+      "quote": "车在石脊那头。",
+      "reason": "卸载端给出人确实入檐的回条，原车在那边另需回手，行动获得和消耗分列。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 611,
+      "quote": "她在这儿看，不在她跟前盖印，只在袋口系原来的线。",
+      "reason": "站不起来的妇人仍用记得的物和归处帮别人支出步行人手，受助者也能出具体力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 611,
+      "quote": "海水晚上是否碰过墙背。",
+      "reason": "旧卸货钩在眼前却还有新声，捎件人最后报疑似木片，给去问岸岗的理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 612,
+      "quote": "干坡底下挂着一片带螺钉的木头。",
+      "reason": "木片逆风转向显出眼下真正拖绳的是水下，把墙背调查立刻变成低处人身风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 612,
+      "quote": "够不到就留下。",
+      "reason": "林渡只许从干栏内收湿细绳，让熟路人保持退脚，宁丢木片也不踩受卷水的台。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 612,
+      "quote": "两人由此同意先移会走的亲眷，自己留下做短接应。",
+      "reason": "原坚持门槛平的人在新证据后同意减少住户人数，守屋与接人第一次有条件分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 612,
+      "quote": "现在挡的是自己每天经过的廊口。",
+      "reason": "住户陈渡生先要求人上门看自己再挡原路，亲自改了会影响亲人的动作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 612,
+      "quote": "他要知道湿痕通的是哪一层承托",
+      "reason": "干鞋不能回应墙脚向上的湿纹，他问的是承托方向和现场同证，没有泛问海有多险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 613,
+      "quote": "把民艇的船首推向外缘。",
+      "reason": "近岔石挡风不挡水，接人一开始就遇相反水向和短漏量不够的时限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 613,
+      "quote": "等水转向再给外头看那面短布",
+      "reason": "弥娅担心误报自己已经停稳，横放短漏，把安全接人的时刻交给真正看得见的水动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 613,
+      "quote": "刚踩稳，窄板就被本地艇抽回去。",
+      "reason": "弥娅完成实转第二船，民艇不能一路送，东船、护送、人证与原件保管都没有跟着跨陆自动恢复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 613,
+      "quote": "这两人没跟船走，民艇上的水、桨、后舵和他们没关系。",
+      "reason": "东船两员的缺岗和破靴给不随行的实际理由，但仍具名寄交温筒与回还的漏，协助有代价也能延续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 613,
+      "quote": "等高石上实见他们有三人，再从那处发话。",
+      "reason": "虽到了西船，换手尚差确切靠岸，对等待的人会看到几个留下可追读的计数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 614,
+      "quote": "外锚一带白成一片。",
+      "reason": "明知第二船已出，望不见水标和船，林渡不能用旧旗孔当成已到信号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 614,
+      "quote": "自己帮忙准确指石孔。",
+      "reason": "右臂吊带左手旧麻照常影响靠岸，他把提绳给熟手而本人站在内侧辨危险槽。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 614,
+      "quote": "第三个人由本岸短艇接到背水阶上。",
+      "reason": "林渡实际亲见弥娅落脚，西第二船两原员留泊，三人由离锚、岔口到实岸的位置依次成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 614,
+      "quote": "你们退了多远？",
+      "reason": "归来的开口是风险和住户处置，互相关心体现在下一次如何行动，装卸工亦得到一个具体可查问件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 614,
+      "quote": "墙背那一面，今天谁还能走到。",
+      "reason": "本岸具体航迹和草线仍待问，弥娅把会合后下一处调查落在能否使人亲眼走到。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 615,
+      "quote": "草梗伏了两次，第二次连着下面漏上来的白雾一起朝山里倒。",
+      "reason": "远海看着退却、贴地有东西向山里，有足够反常先叫停下降。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 615,
+      "quote": "免得以后补一格。",
+      "reason": "温筒偏出岩窝就收回，保留位置失效空栏，在真正想知道热流时拒造好看的数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 615,
+      "quote": "一绺黑泥沿它抬了半节才瘪下去。",
+      "reason": "筒读失败，草梗和泥的动向仍足以区分岸面退摆与贴墙进水，给下一次观察的地点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 615,
+      "quote": "守岸人解下包短钩的旧布",
+      "reason": "有人需要扶筒，守岸人从自己的短钩退一层布且此后少一回可用，现场帮忙有具体支出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 615,
+      "quote": "能从哪几处看明这一滴水的问法。",
+      "reason": "现在需沿三层上四层有干墙的一面找到听见/看见能叠合的位置，引出两人分工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 616,
+      "quote": "她在最短的线头上写了个止字。",
+      "reason": "三层图的一条近路停了，立即压在弟弟回工与找墙背同走的两项需求上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 616,
+      "quote": "林渡没有去踩。",
+      "reason": "挂件错眼而板面干，林渡选择绕内弯，宁失凉时也给后来找兄弟的人做可读封标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 616,
+      "quote": "新水痕却顺着木头向上擦过半道刻印。",
+      "reason": "换路到梁背，上表干而下侧新水有实体印，老排沟与内侧干地须另一张塔图解释。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 616,
+      "quote": "自己把腰带多束了一道",
+      "reason": "亲人请求隐在一块给弟弟好踩的挡板里，发现湿险后又愿意把板留下拦未经眼的人，实在改变工人那班行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 616,
+      "quote": "上面的冷却塔排水往何处下",
+      "reason": "撤离者已见水在靠海梁背，意外来自海还是上层出水是下一章能调查到的一条路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 617,
+      "quote": "站在转角等整箱衣服的妇人就拦住了林渡。",
+      "reason": "封路马上真使住户的物资留在外廊，林渡要说清停牌究竟基于什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 617,
+      "quote": "原图只准在桌前展",
+      "reason": "随成人上五层领见实物和现抄，祝衡及林渡坚持按原值者辨范围，旧图作为待实测的线索。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 617,
+      "quote": "旧箭头从外缘筒座附近往墙下去",
+      "reason": "当场找到向下排的初始参照和方口缺失下游，把海侧反向新湿与内塔原供问题分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 617,
+      "quote": "箱子还留原处，把急用的衣问临近下去的人借一身。",
+      "reason": "妇人能问清停的是哪处，改变自己守险柱的安排，把忍痛放弃贵重冬衣写到眼前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 617,
+      "quote": "她宁肯让林渡带一张留白的纸回去。",
+      "reason": "三个点同批证词尚欠一端；临时帮忙和保原水班的冲突未被自动抹平。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 618,
+      "quote": "一把短锤已经举到胸前",
+      "reason": "工具已经要压方口，林栖手还在槽边，把一个误判立即化成可伤人的选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 618,
+      "quote": "把上眼钉死",
+      "reason": "林渡和弥娅让人看上下两眼及不通的后果，试着保持退水口而不是重复用封阀解决当下恐惧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 618,
+      "quote": "开孔到一半就用原门边两根旧棍托住",
+      "reason": "两枚钉没下，工人留能放水又可回掀的盖，给下一轮观察保留慢而可退的方式。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 618,
+      "quote": "又把凳放回塔口，让等换手的人能坐够一会儿。",
+      "reason": "起初拿锤急着封死的人把自己的凳留给后来者，工序之外交出等待时的一点实物照护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 618,
+      "quote": "方向若反了，谁先见水顶到方口上沿",
+      "reason": "下个外摆只够一个短测，谁能亲见双眼的哪一眼变成具体期待。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 619,
+      "quote": "来收旧檐的人没带梯。",
+      "reason": "借期到、檐脚已软，不再能以旧法安全取回，马上提出可收多少与干路还认不认得的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 619,
+      "quote": "灰布不用跟旧檐寿数一起停",
+      "reason": "林渡保住撤离指向而允许物主收回能碰的帘木，不去碰受力脚，旧借一条绳另作完结。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 619,
+      "quote": "原绳随主人从干坡往内收",
+      "reason": "棚闲退出、干绳实还，灰布易新位，三处轮测每班的水、人手和传法确定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 619,
+      "quote": "另借给他们临时抬老人的托面随人到干卸载点",
+      "reason": "老人没有被错作棚撤即归物，照护物行踪仍有人当面记，与檐主顺利现场收物并行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 619,
+      "quote": "一片黄茎从石牙外钻进旧缝",
+      "reason": "具体漂浮物沿缝上来，读者能带着这个可辨的物性进屋看下一轮塔下的水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 620,
+      "quote": "塔下的人第一次喊水到，林栖手边的上眼还是干的。",
+      "reason": "报与眼前读数不合，一上来就要判断水来自原排还是从墙背下部顶。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 620,
+      "quote": "原班内沟没有开始溢。",
+      "reason": "林栖让工班分上、下眼并坚持以本岗实见留供、搁置封盖，弥娅一轮到即退位，使新证据不破坏原水班。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 620,
+      "quote": "有水推它过这里。",
+      "reason": "局部下沿由眼见试读确证水带热和矿屑，上眼仍干，塔内旧正常排水不承担每个湿痕。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 620,
+      "quote": "她便从袖口解下自家挂屋钥的绳",
+      "reason": "来听塔里消息的人能够用自己熟的窗门认进水证据，把可退住处和暂保水班值牌实际分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 620,
+      "quote": "一车什么时候才能回到原来的肩位。",
+      "reason": "局部危险可据以说服拒撤的人，水能买几班、车尚未返的资源决定下一篇救多少。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 620,
+      "quote": "下眼发热，上眼中间还隔着一条干石。",
+      "reason": "从第612章干鞋/湿墙到第615章筒读失效，再到三处定向观察，读者看到承托低侧向内来热与一般向下排分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 620,
+      "quote": "上头要多少处理过的冷却水才能换来一班撤人。",
+      "reason": "证出危险后问题变成实际冷却水和单车能够支持多少搬运人，调查所得改变下一篇的选择而非只添一个世界解释。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

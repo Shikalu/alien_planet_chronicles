@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "scope": "R002楔子与第1—3章实际修复、章卡首释回填、两处资料导航纠错及独立审读证据",
+  "changes": [
+    {
+      "path": "README.md",
+      "action": "update",
+      "before_sha256": "9249adb41c1b811cbf308962930cdf26f0255832a3274613895655528bf114e4",
+      "after_sha256": "267f47555df3cffda67e2a61fb76babdf0f3d56990dbaf0f7891833b03ef8808"
+    },
+    {
+      "path": "harness/README.md",
+      "action": "update",
+      "before_sha256": "67588422506624e46296804cd03cd8765408391b613d2d6db2d66bc100d57999",
+      "after_sha256": "23cce15ce9aedad68b636714a69c9318d5bfaac8454bcb38e0484cbb0c20b2ae"
+    },
+    {
+      "path": "harness/maintenance/R002/preservation.json",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "bee46ef4aad5ea8a798acb9fd9ec3118db6e9f54c57592729265994b05b3fe6f"
+    },
+    {
+      "path": "harness/maintenance/R002/record.json",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "b7803cbae4b98ae43f0af844ce20757ab74e48c9c4bea1597fb8a47ddc6cef4d"
+    },
+    {
+      "path": "harness/maintenance/R002/verification.json",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "9fb1819838109490a6c5b3ab980969952ba77eecf0421619dc25597e0fa13140"
+    },
+    {
+      "path": "harness/maintenance/R002/修后独立复核.md",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "743473dce63311edd85df4b9f6e66eaab5a70a47e57cac2d0c1074c48bd5f9e0"
+    },
+    {
+      "path": "harness/maintenance/R002/初审_正文首读.md",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "aa03335403486fd09e63fd2616d386424c08f0ac3f9b11b71520bcaf3360f3e9"
+    },
+    {
+      "path": "harness/maintenance/R002/初稿指纹.json",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "4c0c1b70a2cc19199569f68c25ee94fa1599109b4a17046f6df6c0c57c704e1d"
+    },
+    {
+      "path": "harness/maintenance/R002/开篇修复报告.md",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "3e7a8f36ab4fab2d1c91c0d7617fa685a07c9c6e33c54577c2de5042ebcd0732"
+    },
+    {
+      "path": "harness/maintenance/R002/第二轮待修_追读记录.json",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "9481c4512a0fb06410f2956af10b4e96d69ebeb1ed4b924e85eb4944fc6fadc0"
+    },
+    {
+      "path": "harness/maintenance/R002/终核_独立复核.md",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "737ef9c4c993c7264eeb4cf2e84243dcf8785dfbddbe9144ff44a24f92bef23d"
+    },
+    {
+      "path": "harness/maintenance/R002/终稿指纹.json",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "18d3d9613e41f54a967db47b5585adf8617db30558f85a6a5c5b3583c272bea6"
+    },
+    {
+      "path": "harness/project.json",
+      "action": "update",
+      "before_sha256": "6add1526defcd52c662badba08d43595239e6a043709aa3e78430fffc86c5ae7",
+      "after_sha256": "c351d6628dd795f4a4fe064010ca99b30b28b6aa5011c74f37c68e4a4a935dcd"
+    },
+    {
+      "path": "harness/reader-reviews/R002.json",
+      "action": "create",
+      "before_sha256": null,
+      "after_sha256": "a76521ee0831a93e3848999e6b9d725a6ed901dcbe4d92209890800c6683bc13"
+    },
+    {
+      "path": "harness/reports/project-check.json",
+      "action": "update",
+      "before_sha256": "8cc788263fb627f1589d0f686d3e309074e7cc3ec455dcf3cc90d5bd72270390",
+      "after_sha256": "e8e4fd71aec26d4d552725db43890e19ecca88c04e456dcafe040093c175142e"
+    },
+    {
+      "path": "harness/status.json",
+      "action": "update",
+      "before_sha256": "83d04668e251d02c27e693cfe08f46e7a97c0071b5fcd926d5fe7aea1f1e62a0",
+      "after_sha256": "4d1373cdfeb5f33d2096a170dcf19503149e997b98fd2d9b265464b9639de3dd"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/前10章场景拆解.md",
+      "action": "update",
+      "before_sha256": "463aa937615dca260810d4eaaa9625be0dab317c306016f5361d66d680259884",
+      "after_sha256": "e064ade35c52b6abdf6be10cbe5dd39ca3a6281c5c100ac08b3821d2f183302c"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "action": "update",
+      "before_sha256": "e9c659f994a75a9a884b34eed6d3c1c26be1f3c80081eb912c4c1fb105ba8d2e",
+      "after_sha256": "eeff0e0f1394894275a0500b3a0a4a7b7b4b0b2be484447d32d7ad3eee5cb920"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "action": "update",
+      "before_sha256": "bdd594c563411fcd6f6381c10020962149492a2a6b0a4f47c72ea15e3888d2da",
+      "after_sha256": "d6dff1ae602f4f9e0b768fe6f7e5d2a515bb31514edf4abf5bb031d5387f1b0a"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "action": "update",
+      "before_sha256": "64be29c6ef1edb296bfa1457a793bfdd8dd82c2b48402f6ccf8a410bfb053894",
+      "after_sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "action": "update",
+      "before_sha256": "34cabfafc2dc21aa7d29a4f057bacb995cff204cc37258ee569c14d28d8ab6c0",
+      "after_sha256": "3bc8faffc7ce133aa803c9926b0a705745ee6bda1ba349a037ee7ab0bd674aef"
+    },
+    {
+      "path": "异星录/05_写作规范/设定揭示计划.md",
+      "action": "update",
+      "before_sha256": "dda42a8e18fb027a209334a8a43d16913048960279575c8f0fe82f0c46c3bf46",
+      "after_sha256": "83dc70cbf65556a2a41092d22ade7b572b0de4a9906a25e887264568f2f1bd46"
+    },
+    {
+      "path": "异星录/正文/第一卷_热海坠城/楔子_岚岬与栈城.md",
+      "action": "update",
+      "before_sha256": "ebb4aa0c1e08dd3df0d4e8829e213e37434dcc43d86126e7188fecb03001448e",
+      "after_sha256": "171facef4a7a46238ea420b57983c2e96790c2f720478b4abf087e4f286cfb8f"
+    },
+    {
+      "path": "异星录/正文/第一卷_热海坠城/第001章_热海越线.md",
+      "action": "update",
+      "before_sha256": "3d02928b0c86d7f743e5056d895ccade17a9a92efaa6931a378fc085743c2631",
+      "after_sha256": "dd02f17465e619be4a02431309fd6f8ff18f73ceaf58828a5ad909034c8281f3"
+    },
+    {
+      "path": "异星录/正文/第一卷_热海坠城/第002章_第一根断梁.md",
+      "action": "update",
+      "before_sha256": "4b45a9fce55b48882ec85cffcded7ddff96db8278cf3ddebea0cceae63a68d60",
+      "after_sha256": "bb29de2f2a599b3b4c00682de5c5d503c15a1d2b8c1fbd9501431a0095b09e6a"
+    },
+    {
+      "path": "异星录/正文/第一卷_热海坠城/第003章_冷凝站里的人.md",
+      "action": "update",
+      "before_sha256": "f1d7f3dfda676ea81cfb3577103795419e11e716e095eafa7cd667cc314c4022",
+      "after_sha256": "c0d499f1c3c791fb0c427dd0a412853614bdcb9e2f36390f4c8da3bddd2101c6"
+    }
+  ],
+  "deleted": [],
+  "excluded_self": "本清单自身不递归记录；落盘清单另外固定本文件指纹"
+}

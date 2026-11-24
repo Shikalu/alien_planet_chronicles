@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex-A69",
+  "reviewer": "/root/a69_final",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 781,
+      "path": "异星录/06_执行计划/工作区/A69/第781章_床先留在原处.md",
+      "sha256": "3ea0902bdbed34f800ee64c2b6dfd9ffa3d56b1480b99b3aee424f8ff5397e07"
+    },
+    {
+      "chapter": 782,
+      "path": "异星录/06_执行计划/工作区/A69/第782章_桥头先给谁.md",
+      "sha256": "6f74c3808a063e55f52a558310c4d0cf8df6bf74f8e42515c723392e97619b08"
+    },
+    {
+      "chapter": 783,
+      "path": "异星录/06_执行计划/工作区/A69/第783章_屋顶少了两根木.md",
+      "sha256": "da58d17a81024ccf99fd8f89b305f24d8f64feb0928a3197c55c57874aaf24a8"
+    },
+    {
+      "chapter": 784,
+      "path": "异星录/06_执行计划/工作区/A69/第784章_第一辆车往回推.md",
+      "sha256": "9e47b73245b2dfd07db2c924b714e62e5c6b5f4416eac5f91d746565cce7c816"
+    },
+    {
+      "chapter": 785,
+      "path": "异星录/06_执行计划/工作区/A69/第785章_倒掉第一杯.md",
+      "sha256": "3d64d8aef1bc12ea14b5d5ec44ec6e4883f54696b57a5d3d41323605c0289679"
+    },
+    {
+      "chapter": 786,
+      "path": "异星录/06_执行计划/工作区/A69/第786章_门口不用交旧牌.md",
+      "sha256": "fff2e1c98d87ac44f4cd0e9c05053f68cdb285fe642407f4edf09d4ef6926557"
+    },
+    {
+      "chapter": 787,
+      "path": "异星录/06_执行计划/工作区/A69/第787章_先读点火那一行.md",
+      "sha256": "5317f698df89b095f1e37b74e9b70334845ff348a4c9a89ba9e620202251dcb2"
+    },
+    {
+      "chapter": 788,
+      "path": "异星录/06_执行计划/工作区/A69/第788章_从矮处写桥.md",
+      "sha256": "bb016ef9b08d9a5d74f64ee786ec5aa90d64adfd087cc2a3063217802f8671eb"
+    },
+    {
+      "chapter": 789,
+      "path": "异星录/06_执行计划/工作区/A69/第789章_壶底没有门牌.md",
+      "sha256": "42406906bc7c27be2460d82b7b20c68fcf367ab7b3833373d5fb13031ff15c8a"
+    },
+    {
+      "chapter": 790,
+      "path": "异星录/06_执行计划/工作区/A69/第790章_桥通到谁家.md",
+      "sha256": "5de05b0cbe1e076e9094348b3bb28aecb1457adc15c400236c4fbf79037b40bc"
+    }
+  ],
+  "source_digest": "cf500100a7527f719322b3c716c7d2df61f2af76f333cc073d4dd3c2939377ec",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 781,
+      "quote": "板后还跟了一名穿着大人鞋的小孩",
+      "reason": "空床板先于仍被困的男人到三层，借车困难由缺席的人和小孩的鞋具体化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 781,
+      "quote": "他不会为自己挪那卧户的床",
+      "reason": "林渡舍弃署自己名的窄房优先权，照护轮换与是否能真正移入病人交由当事人复看。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 781,
+      "quote": "三户都过了低坡，卧户进了隔风的地方",
+      "reason": "退离热湿处的进展能数清，仍需分辨避险成功与安置完成。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 781,
+      "quote": "孩子沿排开的墙挨个数到三",
+      "reason": "孩子还担心会不会有人回去点灯，男人给出的安全承诺使撤离从图纸变为孩子能转述的话。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 781,
+      "quote": "两头都有人走过，中间少一段桥",
+      "reason": "想绕开湿屋给送水和担架留路，必须先跨过两段旧路间实际断开的地方。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 782,
+      "quote": "两名抬桶人正在门外那道折角互相让肩",
+      "reason": "有人在量未来自家门的宽度，当前的水已被狭角挡住，直接提出桥究竟服务谁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 782,
+      "quote": "他不能把自己的名挂到近路上，再从牌子两侧划谁可过",
+      "reason": "林渡让用水和照护实际走图并否决以工程席为轴的捷径，承担公共端添坡、补础和用工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 782,
+      "quote": "唐荻把旧绕坡在图上重新勾实",
+      "reason": "老人指出自己仍需旧路，最后留下共用桥头、病道与两处歇脚的并行空间。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 782,
+      "quote": "写上实际同走的两个成人",
+      "reason": "抬桶人错过早饭的半时终于计价，普通人的身体经验进入工程账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 782,
+      "quote": "指着桥翼要的两根长料",
+      "reason": "桥位选定后，两根整料从哪里出，直接转入等屋顶的住户与工头当面交涉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 783,
+      "quote": "两个搬工说那是改给桥头的意思",
+      "reason": "原住房牌被蓝墨暗改，木头已拖到坡脚，归还或抢工要立刻决定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 783,
+      "quote": "只同意以两根改作桥翼踏面的实件记",
+      "reason": "林渡据两户分别确认限定移料，拒借药车与停轨设施来抵工，以人肩和新工时承担代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 783,
+      "quote": "原班当面在桥账旁押记两处住宅顶料仍欠",
+      "reason": "两根整料得到来处，临时屏能挡一面风，正式补屋仍有两户可拿牌追问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 783,
+      "quote": "手里还抓着旧门布",
+      "reason": "拦木的住户给搬工让出一步，手里还在攥着自家的临时补偿，局部达成没有抹掉损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 783,
+      "quote": "明日要证明的是实车能从桥上撤回来",
+      "reason": "屋主已在问何时能送柜，工程仍需实车回撤，开放与否有明确的下章核验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 784,
+      "quote": "车上没装一滴水，到桥腰却已经走不动了",
+      "reason": "空车已卡，先问怎么退立刻给第一趟验桥建立失败风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 784,
+      "quote": "林渡请值桥的把常走两头的原住户找来谈时序",
+      "reason": "林渡让实际走桥的住户和值守商量错时，送水的表也要给卧护让位，公共桥承接共同而具体的选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 784,
+      "quote": "头一趟走的是公共水货",
+      "reason": "改栏脚并完成复验才准限定货车过，公共水货和步行成了可见结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 784,
+      "quote": "放她手边，有一脚略短她自己知道",
+      "reason": "此前等爬山送折凳的人终于把它送对人；一长一短的凳脚使通桥兑现落在私人的小事上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 784,
+      "quote": "能不能借一个肯帮我把第一杯倒掉的人",
+      "reason": "第一杯明明出水却需倒掉，桥上的原份与下一章的新来水以一项有反差的选择区分。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 785,
+      "quote": "一圈黄印贴在釉上",
+      "reason": "孩子伸嘴时杯底出现黄痕，让出水与可饮的区别变成必须当场处理的险情。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 785,
+      "quote": "把第一罐都倒进写着清洗的旧桶",
+      "reason": "林栖牺牲好不容易接成的初流，三只盖分位置，人和滤芯都必须实际合格才能开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 785,
+      "quote": "来水稳定，留样与白天重新核对的一次都合工界",
+      "reason": "生水、杂用、待验到有限工况合格有可见证据，本章结束时取得开站前资格。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 785,
+      "quote": "验水若过不了仍付这段工",
+      "reason": "临时短班的女人不用免费押上照料与原工时，技术流程承认真正来上班的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 785,
+      "quote": "别只看见这房子空着",
+      "reason": "邻门拟办学和存档，先让房屋经手人看实际使用限制，下一章将面临如何让空屋真正公共。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 786,
+      "quote": "能不能先拦住不认识字的人",
+      "reason": "钥匙即将插进门眼，谁可以进入还未开张的学校与档室已经受到质问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 786,
+      "quote": "弥娅答应只能先借四十日",
+      "reason": "公开听读和受护原档分开，弥娅写清钥匙、班钱以及期限，拒把有熟人和买租位变成公共资格。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 786,
+      "quote": "家属不交旧闸牌",
+      "reason": "签下暂借与有偿双语班，身份门槛被改为靠实际开放、席位和到岗工来约束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 786,
+      "quote": "也愿站半日教本地写法，要留另一半照料孙女",
+      "reason": "老人能在有价班里教自己会的，又保留照护孙女的半日，给学校一个具体的开端。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 786,
+      "quote": "尤其要把可以公开的那几行留给他们亲耳听",
+      "reason": "首批教学材料涉及亲属和守门旧事，读者能等到下一章真正念哪几行以及怎样念。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 787,
+      "quote": "下面第一行写的却是撤退时怎样把人送上桥",
+      "reason": "读者从首张副页看见救人先于责任落笔，直接进入林渡必须阻止的叙事取舍。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 787,
+      "quote": "点火那句，你想放哪儿",
+      "reason": "林渡把会伤及家人名声的一句话提到桌面，坚持自己的在场记忆不能补出签发人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 787,
+      "quote": "那句“火是我点的”排在本地段首",
+      "reason": "后来的救人承认不抹去早年责任，两个日期和各自证据范围真正进入教学材料。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 787,
+      "quote": "说她看的是用水要过哪层",
+      "reason": "有人想因林姓排除兄妹，林栖既不改父亲的口供，也要求查自己的实际当班，归责本人才受到当场检验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 787,
+      "quote": "走得最慢的那个孩子会在哪里停住",
+      "reason": "可读的公开材料已经备好，孩子能否抵达课堂变成下一章可用双脚证明的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 788,
+      "quote": "自己今天在门外写，能不能也算来上课",
+      "reason": "孩子过完桥却进不了门，以自己的问话给出最切身的当章指标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 788,
+      "quote": "不让能跨的人都往里面挤",
+      "reason": "弥娅把自己懂得的受伤行走经验变成实际分席，找来有条件的矮侧间，保留借住者借晒。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 788,
+      "quote": "此前那名孩子自己沿壁到矮门，不用家人把他抱进来",
+      "reason": "改短课、改错时和处理雨后缓步各有代价，实际成功以孩子自主走入为准。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 788,
+      "quote": "把正确一笔给后来的人另留了一点地方",
+      "reason": "孩子保留擦不掉的第一笔与门外到学证据，让自助和承认先前障碍一同落在课板。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 788,
+      "quote": "他想等新站开后用自己的名字问一次",
+      "reason": "门槛从课室转到分水，有住处变化的人能否以本人情况得到一次可核的回答引出下一章。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 789,
+      "quote": "马上把自己孩子的空壶往里推",
+      "reason": "有人把无需旧牌听成带空壶即领，两种误解在第一段同窗相碰。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 789,
+      "quote": "去请唐荻的换班人与夜间借檐的原人碰一个面",
+      "reason": "林栖用相互补足的实见核借住情形，也让代领申诉可复看，给旧票之外开一条取得资格的路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 789,
+      "quote": "她没进首五户，有自己的复看单",
+      "reason": "容量仍限五户，临住照护份能入首轮，另一位即便没有入选也拿到一个确有指向的追问渠道。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 789,
+      "quote": "自己站在窗边又说了一次",
+      "reason": "申诉者不被一句你家有了推出窗外，仍能拿到下一次实核的答复，回报来自被真正听见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 789,
+      "quote": "如果这八壶只出了七壶，写字的那个人会来把它念给没有水的人听吗",
+      "reason": "决定限量之后读者还要看开站能否凑够八壶，少领如何当面说明也被孩子提到台前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 790,
+      "quote": "没有人敢替他跨过运车线去追",
+      "reason": "首日领水、上学、收车都在一处，滚过运车线的壶让读者立即看规则能否照顾人又挡住风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 790,
+      "quote": "她把两个能查的索引夹到板下",
+      "reason": "弥娅让孩子自己核两岸历史、保留各家私密与未定责任，主动为追问给出下一步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 790,
+      "quote": "头班出的合格份实满八壶",
+      "reason": "实水账闭合，同时高低班和公开阅档已实际接人，学校与站外立规变成可以查证的实际事件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 790,
+      "quote": "原来进不了高槛的孩子坐着自己找到了在门外写过的第一笔",
+      "reason": "此前不得进门并未擦出故事；他坐在课堂对上首笔，见证桥和屋真正服务到这个孩子。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 790,
+      "quote": "先翻到给另一岸记话的空面",
+      "reason": "当初想留住工程私牌的人愿给长故事加别人的一句，下一批要处理普通人从何处发声、如何编定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 790,
+      "quote": "当日真正来用档案的人先后办成了两项问查",
+      "reason": "781把人撤出热湿处，784首趟公共水实际过桥，790实发八壶并开课阅档；搬柜限尺、住户整料欠账与另核的申诉继续存在，下一批仍须维护和续编。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 787,
+      "quote": "原领水份没有凭姓多加",
+      "reason": "由私人房门争桥、两户住房料与人力改用，到让守门历史公开、检验林姓家属是否承受连坐，再到双语、临住取水及低门实进，同一公共选择影响的人逐渐扩大，材料、人力、名声各自付出。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

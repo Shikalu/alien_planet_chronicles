@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R009-B31",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B31-B32",
+  "independent": true,
+  "body_first": true,
+  "phase": "final",
+  "manuscripts": [
+    {
+      "chapter": 301,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第301章_留下来的人先认路.md",
+      "sha256": "b43d668af78600f7d484b1f1ca330dbf59274d5e3373a2a0c04f2d8984bc1ea7"
+    },
+    {
+      "chapter": 302,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第302章_一段走得回来的路.md",
+      "sha256": "66c61e8228f7ca61150e25d8e100fc213136b0cf930aaa9ab83617b3936a60b0"
+    },
+    {
+      "chapter": 303,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第303章_水随原来的名字走.md",
+      "sha256": "791cf5d95eb65f803256fefb962dced4741c59a06e9726b2180806f61523e1eb"
+    },
+    {
+      "chapter": 304,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第304章_门还能认出他.md",
+      "sha256": "4204d30bf48eb255e7c414156e13b8a5750381507b85ab22ecbba320ebc2ddb1"
+    },
+    {
+      "chapter": 305,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第305章_踩下去还会滑.md",
+      "sha256": "d58570eabde953ee4366ca8e7acb241914aca1234564dc10d79247ea48323a22"
+    },
+    {
+      "chapter": 306,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第306章_换来的光.md",
+      "sha256": "74f769823968b8f5e55d8352afa8108c2e50446e895bcec2a16af57610586ab4"
+    },
+    {
+      "chapter": 307,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第307章_这回把去处说清.md",
+      "sha256": "f8ce3363a9a8a8abbec3aa4127c20afc28ee1e05ec29a8824bba93c2c6e313e9"
+    },
+    {
+      "chapter": 308,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第308章_松开的人也要会停.md",
+      "sha256": "fc303c32d67a8e00b8356960eacd4402455fb2147ea6703d8ab9cecc0c7fb193"
+    },
+    {
+      "chapter": 309,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第309章_车只挪了一段.md",
+      "sha256": "2a6bea81f20be5d2446b2d61a75b643501b52342ee24b5663f3929aecd96091e"
+    },
+    {
+      "chapter": 310,
+      "path": "异星录/06_执行计划/工作区/R009-B31/第310章_从塌棚里递出的名字.md",
+      "sha256": "8e7261e56f27a1783306d3331b9b12ec6551463e085b0e478def0f81fe28f2f2"
+    }
+  ],
+  "source_digest": "eb444b6c35c394b4134830f6b493f6c61953f73fec55e11ae4287eca991043ad",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 301,
+      "quote": "第二天，林渡没能按原定的凉时出发。",
+      "reason": "首句就让出行计划受阻，紧接五层热时空岗说明不能一走了之；卷入口不是重讲世界背景。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 301,
+      "quote": "“看不清的时候，也得叫。”",
+      "reason": "林渡选择先训练报告与退路、自己多留一日，而不是把陶继愿意替班当交接完成。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 301,
+      "quote": "林渡把自己的名字划到明日的勘路栏，留下了今天的空白。",
+      "reason": "替班从一句愿意推进到有限跟班，出发日真实顺延，行动和工时都有改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 301,
+      "quote": "姨母把布带收回他掌心，没有替他纠正。",
+      "reason": "亲属相认后仍保留孩子自己的歪结，照护不夺去他的决定；两结也成为后续通信的具体承诺。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 301,
+      "quote": "两人将绳子翻到最磨损的一段，定下明天只走到侧廊中段便回。",
+      "reason": "下一步是有限勘返而非远征豪言；带着伤者和磨绳究竟能走到哪里，足以带入302。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 302,
+      "quote": "这块补板只盖着洞，不承人的脚；空篓压上去不塌，不能拿来证明人也能站。",
+      "reason": "开段刚交完岗便遇不可靠踏面，把去四层的路变成眼前行动难题，延续昨日先认退路的承诺。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 302,
+      "quote": "窄口与人之间还隔一段斜梯，林渡没有因为看见布就把这趟勘路延长。",
+      "reason": "看见目的地并未取消原定回撤范围；主角主动放弃多走一点，避免伤者与接话时限失控。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 302,
+      "quote": "女人背后是住宅走道，旧轨所在的外侧货棚隔着一排封板，从这里看不见房车。",
+      "reason": "第一次确认短门、居民道与外货道不是一条直路；找到了接话人，却仍没到车，地图知识具体增加。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 302,
+      "quote": "“先把这根的命算上。”他说，“车还没碰，绳已经少了一条用途。”",
+      "reason": "阿九拿旧绳自嘲，给勘路的疲惫一个人物化落点；笑意没有抹去真实损耗。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 302,
+      "quote": "四层挂起的白布只留到明日凉时末。",
+      "reason": "下次能否赶上换手者成为有时限的目标；不是仅说远处有一个神秘入口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 303,
+      "quote": "这一班仍只到了六十壶。表上申请的八十三点五壶没有被擦去，缺的二十三点五壶留在旁边。",
+      "reason": "开篇用缺水实数约束修车出发；转移地点不能凭空多一份，资源压力没有随换卷消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 303,
+      "quote": "林渡划掉原先那句含糊的“回来照旧”。",
+      "reason": "他拒绝将返程无限补岗，主动写清人手边界；后面的借宿与回话因而不是临时失踪。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 303,
+      "quote": "三人等雾薄下去才过，终于在凉时后半到达四层短门。",
+      "reason": "302只看到门，本章实际抵达并受借地、原号水限制，完成一段小目标又产生新约束。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 303,
+      "quote": "老人补完鞋，将针收进木盒，盒盖仍留给他们垫纸。",
+      "reason": "修后借盒盖从头到尾只发生一次；老人肯让他们用自己的小物，却仍保有褥子与鞋的空间，是匮乏中的互助。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 303,
+      "quote": "门外两块软板已经浸深了一圈，林渡将明早先看的位置画在水瓶旁。",
+      "reason": "明早看车既有灯借期也有软板在变，下一章有明确先做什么和为何不能拖延。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 304,
+      "quote": "左膝歇过一夜仍僵，弯腿时脚背跟着发胀。",
+      "reason": "见车前先落在阿九不能自然恢复的膝伤上，读者立刻知道今天的运输人手仍不足。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 304,
+      "quote": "他们没有继续拆第二只架子，今天还要沿软板旁边那条路回去。",
+      "reason": "主角一行在拿到可用托盘后主动收手，保留返程能力，不因终于找到旧车而搬空。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 304,
+      "quote": "他们带回短门的，只有一只托盘、两枚螺钉和车损木片。",
+      "reason": "旧车不再是口头记忆，实际产生一组可交付照护件；同时保留无电、霉垫和未核轮挡的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 304,
+      "quote": "“还认门。”阿九说。",
+      "reason": "打开旧门这一微小成功由原物主说出，比宣布车辆恢复更有情感；后续失去杯槽与睡垫让这点欣慰有重量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 304,
+      "quote": "“能拿的不一定都换给你。”他说。",
+      "reason": "托盘换销的诱惑与杜姨可能需要托盘形成具体选择，读者想知道修车物资将从哪里来。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 305,
+      "quote": "轮后那块木头，一碰便掉下半个角。",
+      "reason": "第一句把静止车辆的假安全击破，不需先解释制动系统才知道今天有险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 305,
+      "quote": "林渡让他在车门外写上轮挡未换、制动未成。",
+      "reason": "他不把未看清当查完，将失败状态公开给下一位靠车的人；以不试拖换可控风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 305,
+      "quote": "踩到底时，这一截卡在锈起的导槽，踏板硬了，轮边的制动件并未收紧。",
+      "reason": "从“踩得动/踩不动”推进到虚假制动的具体原因，读者能分开踏板阻力与真正刹住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 305,
+      "quote": "“先前以为不动最省事。”他说，“原来靠块烂木头替我守到今天。”",
+      "reason": "阿九承认被破车侥幸庇护，挫败中有自省而非万能技师姿态；这是本章克制的情绪回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 305,
+      "quote": "要让车能动，得先把坏木头不再挡着的那一刻算进去。",
+      "reason": "下一步不是猛拉试车，而是照明、合销与可靠制动；危险节点明确，足以期待修复。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 306,
+      "quote": "“销钉还要不要？”对方问。\n\n“要。盘不卖。”",
+      "reason": "收到杜姨回话即面对两种真实需求：要修车却不牺牲诊疗盘；开段用交易选择引出材料压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 306,
+      "quote": "“关了。”林渡说。",
+      "reason": "眼前仍有未清簧尾，但林渡选择保住时限和余能，未以探索底架或赶工压过伤势与能源边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 306,
+      "quote": "整条铜件拿下来，饰板失去一边固定，便跟着翘起，露出柜后的斑驳木面。",
+      "reason": "交换不是无损变现：新销、油、芯格有了，旧柜固定却真实失去，为后续事故留下可回看的因。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 306,
+      "quote": "阿九将芯格按回灯匣：“它点灯。想响，敲门。”",
+      "reason": "清楚否定芯格能启动车的误想，又保住阿九的短促幽默；不是用一句希望给旧车虚增动力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 306,
+      "quote": "等芯格用完，他们再想把车看清一次，得另拿东西去换。",
+      "reason": "剩余照明与回位簧未完形成下一班的实在限额；读者知道继续检修会花掉什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 307,
+      "quote": "孩子背着自己的铺卷，布带绕在前面，没有垂到脚边。",
+      "reason": "孩子实到短门让301的寄住选择进入行动；开段随即问旧车床能否睡，过夜安置成为当前压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 307,
+      "quote": "“那就照他能走的速度。”林渡说。",
+      "reason": "林渡否决哥哥求快背走的冲动，依据孩子并未走疼的回答定速度，保留被照护者的表达。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 307,
+      "quote": "岑野这回没有替他全拿走，只将凳子按稳。",
+      "reason": "兄长从全盘替弟弟办变成支住可自己做的动作，关系有可见的小改变，不仅增加交接说明。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 307,
+      "quote": "“这个别改。”岑野说。\n\n“歪了。”\n\n“我认得。”",
+      "reason": "歪结是兄弟独有的辨认，不是手续暗号的生硬介绍；亲情在极短对话中得到回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 307,
+      "quote": "这一轮里，哥哥只能留在门槛这一边等。",
+      "reason": "读者同时等弟弟到达条和岑野能否守住等待；前文他已注意驻车方口，为后续冲动留了行为线索。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 308,
+      "quote": "后者将自己的水瓶放在内墙边，报只接这一短班，下一段要回住宅搬水。",
+      "reason": "孩子出发后，修车立刻受成人借班限制；不是修好了就有无限人员等试车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 308,
+      "quote": "林渡在纸上划掉今日试拖，写下后绳手离班的时辰。",
+      "reason": "人手少一位就取消试拖，主动承受进度损失；没有让少年或槐七一人补两个岗位。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 308,
+      "quote": "车门外那行制动未成改为已作静检，后面仍留未试拖。",
+      "reason": "清簧、两销和停令带来分阶段成功，明确只到静检而非完整修复，有限进展可感。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 308,
+      "quote": "岑野拿炭把错字擦开，在方口旁添了不许擅动。",
+      "reason": "少年一时肯改错的动作提供小幅安慰，同时保留心急，未把一次学习写成性格问题全愈。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 308,
+      "quote": "车已经能试着停，明日能否挪出旧轮窝，还得等两头握绳的人同时站到位。",
+      "reason": "下一章的承诺是有限移动，条件落在两端工班到场，区别于本章等弟弟回话的家庭悬念。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 309,
+      "quote": "车旁的路比昨日窄了半块板。",
+      "reason": "开头先兑现到达条，转场立即以路变窄抬起试拖压力；喜讯没有让现实风险停在昨天。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 309,
+      "quote": "“就到这里。”林渡指车前平段。",
+      "reason": "他缩短既定停位，不用修好的刹车替未验的松枕担保，主动舍弃更远行程。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 309,
+      "quote": "车第一次不再靠那块烂木头停着。",
+      "reason": "从旧车假静止到可靠约束下试移，是305以来检修承诺的可见兑现；只一车身仍足够成为阶段成果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 309,
+      "quote": "阿九把手搭在门沿喘气：“你送水能让桶自己刹住？”",
+      "reason": "有限成功由阿九带喘息的反问承接，幽默里有身体代价，不靠众人欢呼夸大移动距离。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 309,
+      "quote": "图上写的是平日能从屋里走出来，沟水抬高以后会淹过哪一级，没有人标过。",
+      "reason": "短移完成后，热雨把亲属所在棚区变成新的待问风险；下一章想追的是具体沟口与孩子，不是抽象灾难。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 310,
+      "quote": "求援的人到四层时，一只鞋里灌着黄泥。",
+      "reason": "黄泥把309雨水危险化为到门的求援者；迅速带出孩子仍困，开段有清晰新事故。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 310,
+      "quote": "“现在筹。下一凉时人走，车留。”林渡答。",
+      "reason": "他不许未验下坡车直接救棚，选择马上筹具而在完整凉时徒步出发，承受少年责怨而非空许救援。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 310,
+      "quote": "两位成人来了一位，另一位正在找接手门梁的人。",
+      "reason": "求援从口头焦虑变成实际找人、取样与原工交班，虽未出发也有资源与目标双推进。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 310,
+      "quote": "“说哥哥在四层。问两结带回去，哥哥认不认。”",
+      "reason": "此前亲手留的歪结真正传回，读者确认孩子还会说话且记得哥哥；痛感和微小希望同时兑现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 310,
+      "quote": "岑野站起给那人让路，目光越过他的工具袋，停在袋侧一枚露出棱角的方头接头上。",
+      "reason": "哥哥的焦躁有明确工具目标；下一章追的是他会不会擅动已被告诫的部件，钩子不是新敌人突现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 309,
+      "quote": "向前挪足一个车身后，林渡再次压手。阿九踩住踏板，后绳保持，房车缓缓停定，车头离止步线尚有余地。",
+      "reason": "本篇的勘路、到短门、取托盘、换光检刹最终落实为一车身安全停定；309同时兑现弟弟到达条，310新塌不倒销旧成功。主要短承诺均有物理结果，救援大承诺明确转入下一篇。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 310,
+      "quote": "孩子在三层等，能到场的成年人却仍各有一段实际路要走。",
+      "reason": "前段为取回旧车能力付出伤势、借班、私物与能源，后段扩大为照护转住与弟弟受困；301沟图、307旧沟积泥、309热雨铺垫升级，仍受同一套有限人手规则约束。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "scope": "仅301—310本次已封实际字节；50项逐章+2项篇章，非全书开篇/相邻章/回填候选验收。",
+  "body_first_record": "harness/maintenance/R009/B31/reader-first.md"
+}

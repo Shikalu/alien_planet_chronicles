@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch": "R009-B35",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B35-B36",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 341,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第341章_肩膀要回原处.md",
+      "sha256": "a252c06c0c2973cfffb720b911d1531fd8391e60e5ef8d253dd18f5fbd4753e5"
+    },
+    {
+      "chapter": 342,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第342章_盖子不替墙承重.md",
+      "sha256": "5cf810b6d4d5ce37616f73fe8e000a84b871b48b2bc74817877e006911a8c742"
+    },
+    {
+      "chapter": 343,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第343章_图上多出一副托座.md",
+      "sha256": "dde3576977c9ad192af25234dc5448d370f5e935c1df8b06bdaaa7b8f4429b01"
+    },
+    {
+      "chapter": 344,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第344章_借来的东西分别还.md",
+      "sha256": "a61f23db10b2ec7ac4be960e45709ff88e5b1dc49d503b62b067116991424ae7"
+    },
+    {
+      "chapter": 345,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第345章_第一个人只走到光里.md",
+      "sha256": "900371bd5254f4dbeb51425dc4fe9d747af427094cfb62e3c557ef9ea202901e"
+    },
+    {
+      "chapter": 346,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第346章_轮子留在那道缝前.md",
+      "sha256": "fd79c63bf3d07a3bb8e15ae6eb83ec027fb8b48f7288aa282f94e6b87d8c2436"
+    },
+    {
+      "chapter": 347,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第347章_水从闸的另一面来.md",
+      "sha256": "ead2acf9a8ee9c9621bbbec399a53ad15c09b9b427b27a41857566b72def3b55"
+    },
+    {
+      "chapter": 348,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第348章_先去改那张货单.md",
+      "sha256": "0248355f7b6f8d05f80eb78a871ca116b989c5fbd36549f48b7d4f55e2137c97"
+    },
+    {
+      "chapter": 349,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第349章_四包还没有上车.md",
+      "sha256": "5b2b50564fb004f2be4afc709463a9fc275021df573db9abd2f0f37bb536cfe6"
+    },
+    {
+      "chapter": 350,
+      "path": "异星录/06_执行计划/工作区/R009-B35/第350章_路在水里接下去.md",
+      "sha256": "e52d6399477da4b8b3c614a8a548d145f496d0bb2526d3b0b604317b22876ade"
+    }
+  ],
+  "source_digest": "75df2a084286d8c1452f2f34a3f79c9d2187997fd8dbd0936b9023cb36ac2179",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 341,
+      "quote": "第一束工具背起来时，山口还没有照进太阳。",
+      "reason": "开头不是风景铺陈：借工开始背走工具，紧接旧勒印和整束归还，把今日不能再搬重物的资源压力具体化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 341,
+      "quote": "“一起还。老崔借的是一束。”",
+      "reason": "林渡制止为自己方便扣下一根撬棍；伤臂与工具短缺都没有被用作拖欠借物的借口，决定直接缩小本章查验范围。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 341,
+      "quote": "来回这一趟，凉时已少了一截，盖仍扣着，纸上只多出一圈框和两个未认的紧固头。",
+      "reason": "送走工具后仍获得石框和扣头的有限实见，且为居民让路耗时；既有进展又有未打开的硬边界，不是原地讲规则。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 341,
+      "quote": "林渡念完，把自己的名字写得和两位工人的一样大。",
+      "reason": "借工反问空筐后，主角也当面认欠，平等承担不是旁白赞美；送别因此有人情与责任的重量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 341,
+      "quote": "他将这两处画得更大，递给阿九：“先认这个。不能叫走了的人再回来替我们试。”",
+      "reason": "读者知道明日具体要认两只紧固头，也知道不能召回已返岗的人替试；下一章动作由资源退出逼出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 342,
+      "quote": "卡钳合上去，紧固头掉了一层红锈。",
+      "reason": "开篇立即接上扣头查验，锈层脱落让工具能否夹住成为眼前风险，而不是重复宣布去开盖。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 342,
+      "quote": "林渡把退路空出来。“只开一指。看不到就关。”",
+      "reason": "他在未知内挂件前限定可逆试探，清退路和止幅改变了操作，不把勇敢等同于强拉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 342,
+      "quote": "盖顶开到一指宽，缝里没有积水喷出；几片轻絮挂在内缘，被气流往外推，盖内侧似有横向薄链，尚辨不清末端。",
+      "reason": "盖首次打开一指，带出气流方向与横链的新信息；又能关回，探索不被写成已经取得入洞通道。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 342,
+      "quote": "林渡把这件事写到明日最上面，没有将孩子的伤脚排在盖背字以后。",
+      "reason": "新发现没有挤掉孩子住处危机；验柱优先的排程给灾难中的照护一个可见位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 342,
+      "quote": "封墙没有被拆，盖也已重新扣好。林渡将明日验柱、问借期的纸放到最上层，下面压着那几只才露出白角的轮子；如果它们真画在盖背，下一次打开时，就得先弄清图上的轮子究竟压着哪里。",
+      "reason": "章尾兼顾必须履行的生活事务与新图之谜，轮子压在哪里是可查的问题；没有借发现水汽误许新水源。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 343,
+      "quote": "盖背朝向天光时，先露出来的是半只轮子。",
+      "reason": "前章白角兑现为残轮图，半只而非全图让读者立刻面对信息缺失；扶盖、限位链提供具体场面。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 343,
+      "quote": "林渡让她先把眼前两行原样描下来，再另写今日译字。",
+      "reason": "主角选择分开证据与解释，双文字成为可回查线索而不是顺势补全双陆历史；残年不被拿来洗父亲责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 343,
+      "quote": "白色细线画着一辆长车，两只轮子落在平行轨上，车身下又有一副比轮轴宽的托座。再往右，同一副托座被画高了，轮子与轨道之间多出一道间隙，旁边粗线向下倾斜，线下铺着一排短短的波折。",
+      "reason": "宽托座和轮轨间隙建立后续转换的实质新线索，未识字的读者也能跟随图形看出承重方式可能变化。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 343,
+      "quote": "她没替他的图改，另拿一小角纸罩住中间缺口，请他只看两端。",
+      "reason": "弥娅让林渡自己看出误接，而非替他填答案；共同对证中的尊重具体落在两人动作上。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 343,
+      "quote": "“先找脚下。我们得看清，轮子离开平轨之后，下面到底还有没有路。”",
+      "reason": "图提出的问题转成查脚下实物；灯仍在物主手里，下一步不仅是谜底，更是能否借到有限探查资源。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 344,
+      "quote": "新旬第一凉，山口背出去的东西比带进来的多。",
+      "reason": "木鞋离场使上一章的归还承诺变成可见损失，接下来借光必须支付另一个代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 344,
+      "quote": "林渡删掉自己原拟的第二个入洞名字，暂留门外。",
+      "reason": "模拟时吊臂碰框，他接受自己不能进入，而非对别人限岗、给自己例外，风险判断真实约束主角。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 344,
+      "quote": "林渡在纸上将灯壳和芯格分两行，铜铰片当场包走，不再留作修车库存。",
+      "reason": "新的四短班光与应急芯有实付来源，灯壳只是借物；铜料退出库存使下一段探索有不可重复花费。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 344,
+      "quote": "岑野将自己的手翻到掌心朝上，包布下还露着干裂的擦痕。他想了想，把桌上那张允操作的空纸往回推，没有借林渡也被拦在外面讨自己的旧许可。",
+      "reason": "少年看到林渡同受限制，才把求许可纸推回；擅拖后的成长以收手兑现，没有一句训诫代替。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 344,
+      "quote": "门后还没有一个可靠的落脚点，第一枚芯格却已经有了会用完的数；明日点灯以后，他们必须在那些圈涂满之前退到天光里。",
+      "reason": "脚下未知与四次有限光一起限定探查，次章为何必须先找落脚而非冲终点说清了。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 345,
+      "quote": "槐七进去以后，灯光先停在他的鞋上。",
+      "reason": "灯先落鞋而非远方奇观，直接延续首步能否站稳的悬念；窄光把探索压在身体可达范围内。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 345,
+      "quote": "“先处理它。”林渡说。",
+      "reason": "发现翘铁槛会卡退脚后，林渡先处理已经折离的小角并认回脚位置，不为推进距离忽略退路，也不拆承重底框。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 345,
+      "quote": "槐七带出的纸上有五步路，其中三步是整石，两步靠旧石道边。最末一点标着低落处，未见底。",
+      "reason": "第一次照明确认可走人道及五步界线，主轨仍堵；读者获得可量的空间进展，下一处未知也准确落地。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 345,
+      "quote": "另袋里父亲的孔位抄页没动，他的指尖在两张纸之间停了一下。",
+      "reason": "新残缝没有被用来抹去父亲责任，指尖停顿让希望与克制同在；删掉重复注记后这一瞬间更清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 345,
+      "quote": "图上三步之后，主轨旁低下去的地方仍没见底。明天先沿人道认清那道黑缝落在哪里；今夜房车仍停原粉线以内，三只止挡和后绳都留在原位。",
+      "reason": "追问从能进盖口转到低处落点，人物有明确下次动作；车和止挡原位排除了读者误期待马上运货。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 346,
+      "quote": "旧小车的轮缘裂开时，没有发出多大的响声。",
+      "reason": "以一次小声却不可逆的断裂开篇，接着回叙如何到台、如何试空架，读者有追查失败原因的牵引。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 346,
+      "quote": "林渡把外石面那包湿木记在图边，告诉帮搬者，先试空架；空架能在台旁往返，再看这半班是否够取样包，不能把还没验过的轨先算进货路。",
+      "reason": "修后前置了条件式试货计划，读者在裂轮前已知林渡想做什么、什么条件不成就止；没有把湿木实际运入。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 346,
+      "quote": "小车没载东西，两个轮点仍让悬着的轨头略向外翻。",
+      "reason": "空架半掌已暴露缺枕与悬轨，失败否定了只补一只轮就能运货的设想；残损成为下一步查水蚀的依据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 346,
+      "quote": "货没上去，人的工时照实；下次若仍用这份图，就得先看到这里为什么停，不能把灰框填成已经试过一包。",
+      "reason": "没有运成不等于工人白干，失败仍被公开承认；这给有限班次中劳动者的挫败一个具体回应。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 346,
+      "quote": "纸上那条粗轨到了断枕就停，细石道却贴着山岩继续下去。他用指尖沿细线挪向空白，问明日能不能先走人路，把水从哪头来查清。",
+      "reason": "破轮与水掏槽把货路目标转换为查来水，下一章不是换台再推一次，而是换问题继续调查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 347,
+      "quote": "检修台下面传上来的水声，盖住了槐七的后半句话。",
+      "reason": "声音先干扰报位，未知水不只是背景；开头即让接应距离与探查安全受压。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 347,
+      "quote": "“人到这块干石就退。”林渡说。",
+      "reason": "闸件和后路未知，林渡限定干石止点并不摸吊杆，目标从穿过变成记录往复；判断有实际停步。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 347,
+      "quote": "几息以后，缝里的流量变小，贴在下缘的一片旧木屑转了半圈，开始往回靠。",
+      "reason": "水从闸后涌出再回靠给出新的往复证据，但未写成确定潮表；读者可观察到变化而不是只听角色报结论。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 347,
+      "quote": "“车还在这里。人走到里面，有一道闸没过。”",
+      "reason": "面对孩子想去凉地方，林渡没有用传说的车许愿，而是把停线给他看；希望受挫仍有人认真回答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 347,
+      "quote": "闸后那段路尚不能走，先前等货的人，却已经等到该听实话的日子了。",
+      "reason": "危险的新发现必须带回给等货者，钩子从工程未知切换为信用与交代，不靠新敌人催章。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 348,
+      "quote": "林渡走前，把那条划断的运货线留了一张在山口。",
+      "reason": "已失败的路线是出发携带的事实，不是另起旅行；留底还把双方分持资料与预期返回变成可追的责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 348,
+      "quote": "他写到浅海两个字，停了炭，又划去。眼前只确认闸前有水和旧图的波折，海面还没有见。",
+      "reason": "林渡主动收回未经目击的好消息，宁可降低汇报的希望值也不把猜测写进货路，是上返谈判前的关键选择。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 348,
+      "quote": "他们各认的补两趟已有一趟完成，余下一趟跟原替班者另定，没把回来站过桌边算作全还。",
+      "reason": "回到五层真的看见借工返岗并补了一趟，早先债务有有限兑现但未自动全销，使时间经过有结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 348,
+      "quote": "“第三组孔位那张，别并进来。”他说。\n\n“没并。那张还在。”",
+      "reason": "父子对新图的共同克制保留旧责任；两句短答的情绪力量来自不替彼此洗白，不需旁白辩护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 348,
+      "quote": "“明日我在这里。先说没走通的这一段，再问你们肯怎么改。”",
+      "reason": "林渡许的是到场面对条件重议，不是新车次；下一章与料主见面的冲突有确切对象和行动。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 349,
+      "quote": "拆料户带来四根包绳，放在原货单旁边。",
+      "reason": "为等车裁好的包绳把等待成本实体化，主角将说零包时读者先看到了债主的投入。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 349,
+      "quote": "“本旬没有车次。四包还是零包。”",
+      "reason": "在债主带绳准备装货时直接说零，放弃靠含糊延期维持信任；随后才能具体谈误工而非庆功。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 349,
+      "quote": "第二段待下一次实做，不预销；再下一旬第一日，他须再来认，不让补偿只有一串能推迟的字。",
+      "reason": "本章已实做第一段核包，第二段与D218重议绑定；债从含混等待变为有限可核的补工与约日，四货包没有偷换成已兑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 349,
+      "quote": "“原来都想。先看清水后那一段，能做哪一件，分开报。”",
+      "reason": "祝衡追问运货还是带整队走，林渡承认自己原来都想；这次收缩野心是人物自省，不只换账面术语。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 349,
+      "quote": "“明早有这一次光。先去看水后到底接哪一种路。车留这里，别让等货的人又看着空车往墙前走。”",
+      "reason": "实际返山口后剩最后一班光，水后路线必须先认；同时明确车不动，给350一个资源限时内的可兑现目标。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 350,
+      "quote": "过铁页侧上方那道窄口时，弥娅先熄了灯。",
+      "reason": "先熄灯制造即时疑问，紧接裂隙天光和第四班返程预算解答；不是凭空在黑处停灯，资源压力持续到发现前。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 350,
+      "quote": "“这条现路不能直接送整队走。先把人带回去，按有限货路重算。”",
+      "reason": "主角在终于见海时反而否定直接撤整队，发现改变计划并先撤人；不是只获得一张更远的地图。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 350,
+      "quote": "林渡从侧台望出去，终于看见海，不必从结壳颜色或含糊水声里猜。",
+      "reason": "前面一直分开猜测与确认，此刻靠真实海面及同步涨退跨过信息门槛；浅海转换铭板随后提供用途关联。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 350,
+      "quote": "岑野来问弟弟要不要挪到盖边。林渡指外檐：“留在那里。今天问到的是为什么不能走。”",
+      "reason": "回来的答案没有满足撤离愿望，但确切避免带伤孩子白搬；失望与负责同时落在家人的行动上，不是空洞胜利。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 350,
+      "quote": "海水在山后，车停在面前。林渡将新图推给阿九：“先验你的底架。能认出的写出来，不能认的，别替我们把路画完。”",
+      "reason": "路接海的承诺已经兑现，下个问题转为原车底架能否对应，眼前静车和阿九本人提供行动对象；不提前揭359名称。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 350,
+      "quote": "侧台靠岩处有一块旧铭板，底边压进泥壳，顶上两行字尚留。弥娅借天光辨出“陆段止”，下面一行由两种旧字各写一遍，她把能认的那行念给林渡：“浅海转换。”",
+      "reason": "本组问盖后通什么路，343轮子离轨的宽托座图、346残托座和水蚀、347闸前往复均在前；350海面加现场铭板给出可回看的答案，并否定纯陆路整队直撤。兑现范围止于路线，不偷送核心或动力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 350,
+      "quote": "若继续验底盘，私人车内仅余的角落还得腾；若要让一辆改装车经过主洞，封障、轨基、浅海转换都得有人修，灯照到海不会替他们做这些活。",
+      "reason": "341工具和人手退出→344以私人铜料换有限光→346空架也裂轮→349实付核包工→350路接海却须放弃直撤并继续牺牲私角，困难类型逐级改变。没有靠重复加怪或无来源新资源升级。",
+      "verdict": "pass"
+    }
+  ],
+  "actual_reread_scope": "341—350完整十章修后实读；逐章五项50条与本篇两项，合计52条。",
+  "limitations": "非全书黄金开篇验收；非301—350五十章审计；八份回填候选待冻结另核。"
+}

@@ -1,0 +1,357 @@
+{
+  "schema_version": 1,
+  "kind": "scoped-writeback-r3-review",
+  "batch": "R009-B33",
+  "reviewer": "R009-reader-B33-B34",
+  "independent": true,
+  "date": "2026-11-10",
+  "scope_chapters": [
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330
+  ],
+  "body_digest": "ed46ec048c3db6968d1cff0167fe89d127b75d93a65227e8f71ba1154e9e8983",
+  "freeze_path": "harness/maintenance/R009/writeback-freeze-r3.json",
+  "freeze_sha256": "21bdfb84f6c02fc78b636384dfe2dac0b53889bd128669964221407963eb90bf",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f"
+    }
+  ],
+  "verdict": "pass",
+  "blockers": [],
+  "review_method": "本轮先实际读取r3交接、新freeze和精确变更表，核八候选实SHA；以r2时间线完整存档作逐字差异及反向替换等价核验，确认仅394方向词一处，另七份与r2的SHA相同。随后实际重新读取八候选的A23完整相关段、R009本组适用说明和必要接口，逐文件范围见checks.read_ranges，再形成此新报告，并非复制旧报告只改摘要。只校验所属十章正文哈希及既有终审/52项报告的摘要与状态，未重新首读正文、未重做52项。394仅作为全文件差异定位读取，不扩审391—400、不代B40关闭问题。",
+  "scope_limit": "仅签本组十章对应的八候选A段和R009适用说明。哈希校验覆盖完整文件不等于全历史语义审读；320/341等邻章只核接口条件，不扩签正文。未修改候选/正文/旧报告，未运行发布、gate或续写close。",
+  "prior_review": {
+    "path": "harness/maintenance/R009/B33/writeback-freeze-review.json",
+    "sha256": "fb56956253554efd14b6a34cfa2897c6eeb68d069a899befe74f74cbf0a30868",
+    "freeze_sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a",
+    "note": "保留旧冻结下的真实结论；此引用不宣称旧报告已签过r3。"
+  },
+  "version_verification": {
+    "previous_freeze_path": "harness/maintenance/R009/writeback-freeze-r2.json",
+    "previous_freeze_sha256": "10e292e51889a19883988f1b2906a8adeb3835104e7997ecf1b6025024cf24f3",
+    "candidate_files_verified": 8,
+    "unchanged_file_count": 7,
+    "changed_candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+    "history_archive": "harness/maintenance/R009/writeback-history/r2/事件与地点时间线.md",
+    "before_sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44",
+    "after_sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23",
+    "only_replacement": {
+      "chapter": 394,
+      "old": "D292大匣出棚、293/294充、295回",
+      "new": "D292大匣出坪送棚、293/294充、295回"
+    },
+    "full_file_exact_replacement_verified": true,
+    "own_body_manuscripts_verified_unchanged": 10,
+    "out_of_scope_issue": "B40-WB01由B40审者另行核闭；本组不出具其closure。"
+  },
+  "body_review_preserved": {
+    "final_path": "harness/maintenance/R009/B33/final.json",
+    "final_sha256": "6eddd8eb92320e8a6cdab558b3baf5fd00cfae1f07de774e771842c1d9c5057a",
+    "reader_review_path": "harness/maintenance/R009/B33/reader-review.json",
+    "reader_review_sha256": "dca7b0e17c5ddf740e7218847497d284a9358ea0752cc28faf8bd1b5a8898cac",
+    "same_body_digest": true,
+    "existing_final_verdict": "pass",
+    "existing_reader_review_verdict": "pass",
+    "existing_reader_check_count": 52,
+    "new_body_review_performed": false,
+    "new_reader_review_performed": false
+  },
+  "checks": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "scope": "A23人物原段752—772行；R009说明947—951行中的323/325分岗和换袖。",
+      "read_ranges": [
+        [
+          752,
+          772
+        ],
+        [
+          947,
+          951
+        ]
+      ],
+      "quote": "转运末孩子自己由成人衣袖换抓姨母袖口，抬手没有松端。",
+      "supporting_quotes": [
+        "右臂仍吊、不抬梁拉车",
+        "325近端先由接料邻居承接，再由背撬具成人接稳，槐七托腿。",
+        "交口由成人主守，少年只跟班记来人；不独带人进洞、不把自己算成年清障工"
+      ],
+      "reason": "本轮重读A23全部人物行，伤臂不承重、原弟未负重和原号人口、少年跟班限制均仍在。R009明确近端两次接手和孩子自行换袖，未让握端成人腾手，也未新添抬手；与未变正文已关闭的B33-07/F01相合。救出后的姨母照护、阿九短勘后返及半班归期没有被后篇状态覆盖。本文件字节与旧冻结相同，但此结论来自此次实际范围重读。",
+      "verdict": "pass",
+      "current_sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "scope": "A23资源原段637—657行，含331输入；R009第858行日次总述及864行原配水子句，排除该行后篇六包与400事实。",
+      "read_ranges": [
+        [
+          637,
+          657
+        ],
+        [
+          856,
+          858
+        ],
+        [
+          864,
+          864
+        ]
+      ],
+      "quote": "巨石／压住主架／主封墙未拆，轨枕未换；工作面短班成立，不等于主洞通行；班到限停，不用少年替成年岗",
+      "supporting_quotes": [
+        "各A21—A30已发生D锚点保留；正文用相对日与旬头表达，不把十章视作十日。",
+        "D181外残顶卸到可撤后收出，交送瓶者上返，D182原主实收回报",
+        "好后绳及3挡所有权仍四层原主、日借未销",
+        "五层仍按原约定班83.5／60／23.5、回补0记；"
+      ],
+      "reason": "重新逐项核D176余时至D182、原号水和83.5/60/23.5缺口、柜板/睡铺损失、2撑2垫实际归主与3挡1好绳仍借，账项互不吞并。330有限班停后仍需谈新工料，既没有少年补岗也没有车获动力。R009保持D锚点，394方向词没有触及本组物权、日次或入口；后篇六包不倒填为本组已成立的货位承诺。",
+      "verdict": "pass",
+      "current_sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "scope": "A23伏笔原段579—593行；R009第755行中325旧人口旧伤、无新增命名及责任边界；其他节点只核不得提前。",
+      "read_ranges": [
+        [
+          579,
+          593
+        ],
+        [
+          753,
+          757
+        ]
+      ],
+      "quote": "35救出不改，不新开人口；新右踝肿痛不消失、不凭能动判无骨折；棚已危险封禁，外檐有借期",
+      "supporting_quotes": [
+        "本轮无新增命名伏笔。已发生回收顺序不变：325二次救援保留旧人口与旧伤；",
+        "只知曾浸水且承托损坏，来源、年代、精确次数未核；作为343图与350浅海转换前置，不提前认海路"
+      ],
+      "reason": "实际重读本组回收行和钩子摘要，救同一弟弟、柜床代价和伤踝延续仍与已核正文相接；修换袖没有变成救出即痊愈。327高旧水痕与328低沟水仍分层，330只到局部双轨和求料行动，不提前认海路或供能。R009保留旧人口旧伤的说明仍准确；394仅属后篇时间线方向修订，不改本组伏笔状态，亦不据此签后篇回收。",
+      "verdict": "pass",
+      "current_sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "scope": "A23时间线432—449行；R009第623行的323/325与D锚点；320→321只读427—429行接口，不签320。",
+      "read_ranges": [
+        [
+          427,
+          449
+        ],
+        [
+          621,
+          623
+        ]
+      ],
+      "quote": "接料邻居暂持近端，槐七接腿，孩子落稳后背撬具成人接近端；接料邻居交稳到限归家、槐七先清道；支棚人仍守撑不提前抽；",
+      "supporting_quotes": [
+        "R009只修旧章表述与交接顺序，A21—A30全部D锚点保持原值。",
+        "第331章起点仍三层山口，只有图纸在上返途中，不能从五层已开工班或材料已到写起。",
+        "D176结尾柜板仍在准备拆验环节，主隧道封障不动；A23沿棚外支撑与实际拆板接写。"
+      ],
+      "reason": "本次已从321顺读到330并核320出口：准备拆验后才实际拆柜，第二撑按实送到；325远端、暂持近端、肩背落稳后交接和守撑各有人。330到限停，图在路上，未偷换为五层收妥。全文件与r2历史逐字差异仅394“出棚→出坪送棚”；本项A23、R009相关说明和320/331接口字节均未变，重读未见连带冲突。394不在本组，不代B40关闭WB01。",
+      "verdict": "pass",
+      "current_sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23",
+      "reread_this_round": true,
+      "r3_file_change": "394方向词一处改变，本组范围未变",
+      "scoped_bytes_equal_r2_archive": true
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "scope": "A23现场命名264—276行；R009第431行无新增专名/能力的通用说明，后篇护盖/核心内容不签。",
+      "read_ranges": [
+        [
+          264,
+          276
+        ],
+        [
+          429,
+          431
+        ]
+      ],
+      "quote": "不与棚内原床板混同；空板与载人通行按现场宽度、姿态区分；不使孩子竖起过弯",
+      "supporting_quotes": [
+        "323回用原睡铺横条、原螺栓改拼的平抬承接面，325接弟弟、留外檐照护",
+        "不与原2救援成人混算，不自动成为长期工程班；小石只跟班记事",
+        "无新正式专名、机构、能力或计量制度。"
+      ],
+      "reason": "重读当前托面、柜板段、外檐、旧水痕和交口岗位定义：托面仍回用睡铺材料，空板与载人过弯不混；交口两当地成人不是原救援班，更不靠小石补成人。无新正式名称或能力，伤员平托和借檐限制未被术语抽象抹掉。该文件r3未变，394方向修正也未改本组任何物件称谓。",
+      "verdict": "pass",
+      "current_sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "scope": "A23现场词义128—136行；R009第279行的无新增术语与正文相对日/台账D索引说明。",
+      "read_ranges": [
+        [
+          128,
+          136
+        ],
+        [
+          277,
+          279
+        ]
+      ],
+      "quote": "仍受住户取水路、借工半班和工具时限约束；主墙、巨石、主架均未开，不等于主隧道复通",
+      "supporting_quotes": [
+        "将已松动的原车睡铺拆出，保留横条与原连接件改拼，供成人平托孩子；救援后用于外檐暂时平躺",
+        "无新增术语、提前命名或新增揭秘。",
+        "正文作者D编号改为相对日与旬头，作者台账D索引不变；"
+      ],
+      "reason": "当前三个词义仍完成来源、用途和限制：托面接人而非承梁；高位旧水痕只说明受水损；外工作面只供短班，不能当主隧道开放。逐字重读后未见R009补充把日期索引、承重或探知能力升级。394出发方向仅改后篇时间线，本组词义及330受限收班的含义没有变化。",
+      "verdict": "pass",
+      "current_sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "scope": "A23已发生逐章实录121—141行及331输入；R009第302行通则、第308行本组篇内承诺，不用写前规划覆盖实录。",
+      "read_ranges": [
+        [
+          121,
+          141
+        ],
+        [
+          300,
+          302
+        ],
+        [
+          308,
+          308
+        ]
+      ],
+      "quote": "停工后交口成人才来核图，半段到限收班",
+      "supporting_quotes": [
+        "槐七与背撬具成人试压后抬送棚外，林渡报路；",
+        "接料邻居暂持托面近端，槐七接腿，孩子肩背落稳后背撬具成人接近端；",
+        "| 321—330 | 二次救援能否不增伤 | 原成人换手平托救出，露局部双轨 | 私柜睡铺拆失、孩子右踝仍痛 | 缺撑料与守路班，清轨如何续 |"
+      ],
+      "reason": "本轮实际顺读十条实录与收窄说明，323伤臂报路、325近端交接及330停工后核图均仍准确。原07/F01对应的身体承接没有被章卡改回旧问题，人物表还明确换袖不松端。330末只收班与试退，不能按初审条件性建议另补一次复工/恢复清撬岗。篇内兑现保留私柜睡铺代价、伤踝和缺工料出口；394修正不改变这些实录。",
+      "verdict": "pass",
+      "current_sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "scope": "第四卷十章篇章卡A23原第13行；第27行只核325先救后清轨；R009第57、63行本组说明，A24第14行只作相接条件。",
+      "read_ranges": [
+        [
+          13,
+          14
+        ],
+        [
+          27,
+          27
+        ],
+        [
+          55,
+          59
+        ],
+        [
+          63,
+          63
+        ]
+      ],
+      "quote": "D182车仍无动力、主洞未开；2撑2垫已还、3挡1好绳仍借。求料图在上返途、五层未收；本地半班到限，A24另谈长班人水料",
+      "supporting_quotes": [
+        "| 四 | 325：救人后才扩大清轨 |",
+        "| 321—330 | 二次救援能否不增伤 | 原成人换手平托救出，露局部双轨 | 私柜睡铺拆失、孩子右踝仍痛 | 缺撑料与守路班，清轨如何续 |"
+      ],
+      "reason": "重新读原篇行与R009本组行，救援在扩大清轨前兑现，失柜床、伤踝、归还与仍借物件各有保留；330成果仅限墙外工作面，下一篇才谈人水料。R009“原成人换手平托”与当前人物/逐章回填一致，不依靠新抬手消除原07/F01。394改字没有传入篇卡，不能据全文件哈希相同宣称签过A21—A30全历史。",
+      "verdict": "pass",
+      "current_sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f",
+      "reread_this_round": true,
+      "r3_file_change": "与r2冻结整文件字节相同"
+    }
+  ],
+  "retained_body_issue_status": [
+    {
+      "id": "B33-07",
+      "status": "closed",
+      "basis": "原final.json关闭记录及正文未变字节；本轮重读候选人物/时间线/章卡仍保留相同近端和袖口承接，不重签正文。"
+    },
+    {
+      "id": "B33-F01",
+      "status": "closed",
+      "basis": "原final.json关闭记录及正文未变字节；本轮重读候选人物/时间线/章卡仍保留相同近端和袖口承接，不重签正文。"
+    }
+  ],
+  "interface_checks": [
+    {
+      "interface": "320→321",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "quote": "D176结尾柜板仍在准备拆验环节，主隧道封障不动；A23沿棚外支撑与实际拆板接写。",
+      "reason": "320只准备拆验，321才实施；394变化不影响同凉入口，不扩签320。"
+    },
+    {
+      "interface": "330→331",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "quote": "第331章起点仍三层山口，只有图纸在上返途中，不能从五层已开工班或材料已到写起。",
+      "reason": "330限班停后仍需筹替班、人水料；未把求料送达或新班提前。"
+    }
+  ]
+}

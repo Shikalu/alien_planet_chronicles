@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "Codex联合作写（主笔 /root；分章 /root/a31_middle、/root/a31_end）",
+  "reviewer": "Codex独立读者 /root/serial_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 441,
+      "path": "异星录/06_执行计划/工作区/A35/第441章_同一个号两种纸.md",
+      "sha256": "2e777e5880c55ab3688cab3ce47af70de66b10a9e50810ac36ee621bf5607a57"
+    },
+    {
+      "chapter": 442,
+      "path": "异星录/06_执行计划/工作区/A35/第442章_出柜的和留底的.md",
+      "sha256": "7cb6fcd8b14fba5323e69c0cc38f2fc3cba731a83222eb69325d244ce914d676"
+    },
+    {
+      "chapter": 443,
+      "path": "异星录/06_执行计划/工作区/A35/第443章_让他们把这一行也抄走.md",
+      "sha256": "5c1ece311eaec963402f9b396ca58864e7ffe6936bae2dc2b90f4b3a4af271a0"
+    },
+    {
+      "chapter": 444,
+      "path": "异星录/06_执行计划/工作区/A35/第444章_两份回来的纸.md",
+      "sha256": "54f22afa8914fe082e2efe5f4226c173f27c4f6a43867ed7d0b42e073fdcf96b"
+    },
+    {
+      "chapter": 445,
+      "path": "异星录/06_执行计划/工作区/A35/第445章_把借来的桌退回去.md",
+      "sha256": "bd44b34fc3a39076c8e099f3cba8e309af3a2ab9f2a38f25fd8cca4b3b06dbcf"
+    },
+    {
+      "chapter": 446,
+      "path": "异星录/06_执行计划/工作区/A35/第446章_各走一次纸上的路.md",
+      "sha256": "a530a40587dd7fc87bc437a2da15dc46b844d9bd6ef4c98e84d9dfa8d58ee96b"
+    },
+    {
+      "chapter": 447,
+      "path": "异星录/06_执行计划/工作区/A35/第447章_到这里就落笔.md",
+      "sha256": "c59adb0eda54e3a989a12948a2971792965b0ad2cc78a8e45541eec15d1f01b8"
+    },
+    {
+      "chapter": 448,
+      "path": "异星录/06_执行计划/工作区/A35/第448章_放得下绳还要问水.md",
+      "sha256": "9924490075479b818455111ccd22d6d30af29cdd01e8e349b6145296b004e890"
+    },
+    {
+      "chapter": 449,
+      "path": "异星录/06_执行计划/工作区/A35/第449章_两条线只合到这里.md",
+      "sha256": "71601cd80758c129bba6c2b50456e302bb0516cc5f257680d6cbc9056c407785"
+    },
+    {
+      "chapter": 450,
+      "path": "异星录/06_执行计划/工作区/A35/第450章_把两本书摊开.md",
+      "sha256": "d51a013ce8d807bba278e9788e022b477dcecd95b7f9bbba004e95343e8ba676"
+    }
+  ],
+  "source_digest": "45e7eca3f69214caaa75049c2ddf16ca619e0d7c52982128156d7a8b07b066b0",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 441,
+      "quote": "林渡把两张抄纸夹到板上时，外沿的一张短了一截。",
+      "reason": "开场的长短差让人马上想追问是夹坏了还是原档真缺一截，后面不能靠拉平来补。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 441,
+      "quote": "他认的是到哪个发件处领用、谁交给他的，抄的时候有没有看过原表，留空。",
+      "reason": "林渡宁可留下可以问到的人和地方，也不把只从柜口瞥过一次写成见过底稿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 441,
+      "quote": "弥娅在空纸上各描一次，用各自原来横竖的方向放，不把三个圈摞起来。",
+      "reason": "相近符号变成三个有出处的实物，读者知道此后哪些差别要查。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 441,
+      "quote": "自己那张得带回去，他还要找原先的人看。",
+      "reason": "护货人仍能带走垫了多年篓底的页，只借读，不因提供一眼证词失去手上的东西。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 441,
+      "quote": "那个看过柜里底稿的人不用等上面的回信才能开口。",
+      "reason": "五层尚未回联，柜口亲见人给眼下的追索找到一条能马上走的路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 442,
+      "quote": "原看板人将木门撑开一条缝，说他手上还有两个号没交，谁问哪一趟得等他做完。",
+      "reason": "可追旧号的人正在办还具，主角必须等他做完，旧文书的来处先由眼下柜口规则立住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 442,
+      "quote": "留底能证明原定数，人在坡下才知道真正到了多少。",
+      "reason": "林渡只认一联计划、一联出柜和实交三件事各自能证明什么，选择让这几类话留在不同位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 442,
+      "quote": "原先列三根，到了这张外联只剩两根，第三根在换手时没写过去。",
+      "reason": "读者实际看到一联如何少写一件，也知道这只能证明一种抄法而非海边旧页来历。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 442,
+      "quote": "林渡替孩子扶一下歪在门边的扁篓，孩子自己将木牌重新塞回胸前，沿柱后的干边往外跑。",
+      "reason": "孩子为自己该领的东西跑去找交接人，受伤的林渡帮一把但把孩子的行动留给他。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 442,
+      "quote": "他沿货场干墙去找弥娅，请她明凉把自己手里能对的那一份也带过来，先让拿过纸的人各说清自己当时看见了什么。",
+      "reason": "柜口实证让下一步可以请两边经手人讲亲见，读者接着想看弥娅会公开哪一行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 443,
+      "quote": "闻汀在双语桌上摆了两支笔。",
+      "reason": "第二支笔许下一份有人认的港式抄联，后面的争执会让这份实在的帮助随时消失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 443,
+      "quote": "这一行我没教过。现在有人见过它，我得让问的人也看见我少教了什么。",
+      "reason": "弥娅把缺项和自己当年的教法放在同一张桌上，愿意承担追问，不把它归给曲荻。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 443,
+      "quote": "只认自己亲手收阅过的那个时点，不在整张副联下面作见证，也不替他们找港里的抄手。",
+      "reason": "闻汀由拟共同抄写退到只认亲历日期，少一个人手和港内联系人是切实损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 443,
+      "quote": "“那我自己抄。”她说。",
+      "reason": "第二支笔收走后，弥娅担下慢一点写完的责任，读者得到她实践那句承诺的短回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 443,
+      "quote": "从上面回来的纸里，又会有哪一行要由林渡自己来读？",
+      "reason": "沿潮港这头已肯认不利一行，值岗人来报回联已到，马上要看五层回纸里林渡得留下哪一行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 444,
+      "quote": "“准抄的两样都在这里。旁边没许抄的旧册，只能写是从谁手里见的。”",
+      "reason": "等了三日的回件现在能拿到手，但携来哪两样、哪里仍锁在上头已经形成限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 444,
+      "quote": "“明凉拿有岸名的。”他说，“要问到哪一手，让他们照同一行问我。”",
+      "reason": "有人要求缩抄、预告收桌，林渡仍愿让对方看含岸名的节抄并接受追问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 444,
+      "quote": "它没留岸名，段号直接挨着下一道栏线。",
+      "reason": "旧工作页和发件片的版差最终由可见的一栏交付，变成后面能找原持人的明确线索。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 444,
+      "quote": "眼前旧工作页的发货写法另从旧纸来，记不清写于哪一年也不能替父亲减一笔。",
+      "reason": "林渡看到与父亲时代不同的文书仍肯承担已确认的责任，体现他如何处理私人愿望与眼前证据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 444,
+      "quote": "外头那张高案是我借的，叫来搬木的人还在等你的准话。",
+      "reason": "货主把案和工摆到公开选择之前，接着可见林渡答应的那一行会让谁付钱。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 445,
+      "quote": "自己那张高案还靠在柱脚，手里已经攥着能将案脚拢到一起的细绳。",
+      "reason": "借来的东西随时能抬走，昨天说要抄全这行的后果从一段威胁变成眼前动作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 445,
+      "quote": "发件片少写的那一行我照出。若他们不肯先削自己的，我也照出。",
+      "reason": "林渡不把本岸公开范围当成换对方少写一行的筹码，选择因此要付的工桌。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 445,
+      "quote": "案面没落下过一张当天的纸，那一段搬纸的人力也从临排的名册上划掉。",
+      "reason": "借案和轮手护纸真正离场，从下一段只能开矮台和排队看得到交易的损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 445,
+      "quote": "“从来没有人在货签上告诉我最后去哪一头。”",
+      "reason": "旧搬料人第一次在自己岸边看到熟悉发件逻辑的另一面，得到只记经手地点而不把名字贴墙的发言位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 445,
+      "quote": "明凉两边要从同一处岩点往外推，这两张纸先照实留在那里。",
+      "reason": "公开的两份纸终于能支撑下一轮行动，读者要看从同一点出发各方究竟能走多远。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 446,
+      "quote": "有人把工作页上的外段号抄到薄折页旁，末尾已经添了一道叉。",
+      "reason": "两次封闭被好心抄成一处，开头一笔就能让读者追问史料为何不能互补。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 446,
+      "quote": "“都看同一个方向，各先留一份。”林渡说，“别让站过一处的人替另一个人报数。”",
+      "reason": "他提出分头推图并承担可能两张都停的结果，约束本方同样不能拿船数凑答案。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 446,
+      "quote": "曲荻亲手将原来压在一块的两张空纸揭开。",
+      "reason": "原本要串在一起的题记真的各归一张，双方约定将可回问的独算和共同页分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 446,
+      "quote": "已经确认是哪次爆破的证词也管不到它。",
+      "reason": "读者看到林渡能守住父亲已有责任，也拦下把未知旧档责任随手添到同一个名字旁。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 446,
+      "quote": "明凉若哪一边停住，也得让后来的人看到停在哪里。",
+      "reason": "放货计划先收回，下一章必须用实测解释哪一笔画得下、哪一笔停住。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 447,
+      "quote": "林渡伸手按住描线人的炭尖，纸上那条线停在两指宽的白处。",
+      "reason": "近处的线已经有了，开篇压力在于眼前空两指是否会被随手连成真实航路。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 447,
+      "quote": "有人肯抬上船，他也没有一只手能替那人把水量出来。",
+      "reason": "老货主带着两个人和箱来换准用，林渡宁失人力也不以亲自点头填上未测的一截。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 447,
+      "quote": "短横别画成封线。",
+      "reason": "本方实测停点变成可供后来者核的具体标记，和整条线能走或不能走的判定分开。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 447,
+      "quote": "他俯身看过，才用手背将那行空处压平，纸进衣内，自己循原路回交口外的岗。",
+      "reason": "换班人拿到实际能认脚点的图和应继续查的空处，有东西可以带回岗上而不是白等。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 447,
+      "quote": "另一桌能不能越过这段白处，得等那边的人把亲自看过的东西摆完。",
+      "reason": "衡陆的答案已交，接下来不是再听同一条线解释，而是看船方和教学样能否走得更远。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 448,
+      "quote": "“第一根绳从这里下。”白礁在图上指了一个地方。",
+      "reason": "另一桌先给出岸方档里欠缺的放绳端点，紧接着会遇到当时水面到底在哪里的问题。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 448,
+      "quote": "她收掉用作试比的纸条，把空处留回原样。",
+      "reason": "两条可能水线产生两个不同落点之后，弥娅选择把推演留作试比，不把假设写进旧档。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 448,
+      "quote": "每壶三平勺，共量十八平勺，进曲荻自己带来的岸用空桶。",
+      "reason": "外线仍未能推出，但独立的仓内实工确实让暂住者拿到六壶自用水，不靠扩航获利。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 448,
+      "quote": "弥娅照写了，抬眼时看见他把给她留的炭又顺手削出了一点细尖。",
+      "reason": "白礁没有以老师的身份补数字，改而给学生留一支削好的笔，支持她写清未知。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 448,
+      "quote": "她想先看看另一张纸是在哪一格不得不停。",
+      "reason": "两份各有独立结果以后，下一个具体问题是止笔是不是同一格、哪里能互证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 449,
+      "quote": "今日先来的岸测岗成人把干木镇放在宽纸空处，问有没有压到别人的字。",
+      "reason": "两张各自作到一半的纸首次同桌，读者眼前要防的就是用一个共同结论把各自的空处压掉。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 449,
+      "quote": "林渡把三尺下方的一笔收短，叫他写这一次、这处。",
+      "reason": "已经有人想划一整个圈，他选择只记实测支持的一点，保住测量的时间和范围。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 449,
+      "quote": "岸岗只认船位和篙尖的朝向。舵手指实落铅的一小处，报的是拟拓线近侧的三尺。",
+      "reason": "同一个浅点的船位和深数各有经手人，终于能证明拟拓线近侧有一处危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 449,
+      "quote": "她说那回药箱先落到干台，才轮到自己跨下船。",
+      "reason": "旧靠真的送过药也接过人，曲荻把纸上的退出线还给当时先护箱、再上岸的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 449,
+      "quote": "谁的纸没有独自算出那条线，谁自己说为什么停。",
+      "reason": "接下来要把结果说给问货的人听，读者能继续看承运者如何面对两份图都没算完。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 450,
+      "quote": "那人把空货签搁到案边，问今日要是还开不了大船，可否先借白礁来时那条小岸船搬一只轻箱。",
+      "reason": "空签把十章的文书调查拉回现实，来问货的人提出先用小船送轻箱，读者要看为什么连这笔也开不得。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 450,
+      "quote": "林渡请他把两边单独停下的原话也各留半行。",
+      "reason": "林渡不让合看纸盖掉两次独算的限制，公开时愿把无法向前的理由留给提问的人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 450,
+      "quote": "近岸旧短靠只按当班再验的条件保留，今日没有新航令。",
+      "reason": "过去可做的短靠与本次未放行的扩运在公告上分开，有限互证确实变成一种可执行结论。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 450,
+      "quote": "她取自己的那张，却把桌上受过双方核读的一份另拨回来。",
+      "reason": "曲荻在散桌时主动把共同可核的一份留给林渡，信任落实为能向原持人问事的材料。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 450,
+      "quote": "下一次坐到桌前，他得请原来管页的人先把手从纸上挪开。",
+      "reason": "两份问项已经能指到旧柜、印前本和五层原持者，下次要靠实际掌页的人同意开哪一栏。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 449,
+      "quote": "舵手指实落铅的一小处，报的是拟拓线近侧的三尺。浅障多宽、另一侧深到哪儿，两人都不能给数。",
+      "reason": "A34留下谁肯拿自己纸互证、两岸究竟能对到哪里。444五层授权纸实回、445两岸各留不利一行；此处岸方方位与船方三尺对出一次具体险点。450公开两次止笔与无新航令，向原持人追同潮底表仍有清楚的理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 445,
+      "quote": "案面没落下过一张当天的纸，那一段搬纸的人力也从临排的名册上划掉。",
+      "reason": "压力从443失去闻汀代抄升级为把林渡的高案和护纸工真正撤走，447有临时工却须拿准运交换。之后停运影响货主和来问货的人，新的任务还要原持者到场，权限、关系和工程后果都已改变。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

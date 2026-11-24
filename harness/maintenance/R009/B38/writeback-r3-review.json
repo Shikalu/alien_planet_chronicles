@@ -1,0 +1,307 @@
+{
+  "schema_version": 1,
+  "kind": "scoped-writeback-r3-review",
+  "reviewer": "R009-reader-B37-B38",
+  "independent": true,
+  "batch": "R009-B38",
+  "scope_chapters": [
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380
+  ],
+  "body_digest": "d61d58944cc680cd6f929a77657be8ff323acf3dc048a6b6adea874199b8bee8",
+  "freeze_path": "harness/maintenance/R009/writeback-freeze-r3.json",
+  "freeze_sha256": "21bdfb84f6c02fc78b636384dfe2dac0b53889bd128669964221407963eb90bf",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f"
+    }
+  ],
+  "verdict": "pass",
+  "blockers": [],
+  "checks": [
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "scope": "A28人物原行846—864；R009说明947—953只核持续伤势、物权、原号与信息限制；869仅381起日/地点接口，不签后续事件。",
+      "read_ranges": [
+        [
+          846,
+          864
+        ],
+        [
+          869,
+          869
+        ],
+        [
+          947,
+          953
+        ]
+      ],
+      "quote": "D240第一次旧接触件短检、D251第二次止回件短检各半凉时实做，2次工债全销，六包不销。",
+      "scope_quote": "所有原伤势、物权、原号与信息限制继续保留。",
+      "reason": "当前两短检分日各半凉时，不再误读成同一下午；货债不随工债核销。林渡/槐七D247宿四层而非同时在闸端，D248沿途接报；原台岗、外口、交口仍三位成人，不重算台岗。孩子仅同层看护改托位、未诊骨伤且不负重；D255四人分两轮只是候试，原借物主D255实上返，借具与信息权限不扩大。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "scope": "A28资源735—755；R009说明856—864只核369/370归具→380纸上停序及原账原则；763仅核381补新光的入口。",
+      "read_ranges": [
+        [
+          735,
+          755
+        ],
+        [
+          763,
+          763
+        ],
+        [
+          856,
+          864
+        ]
+      ],
+      "quote": "D250两芯已退常用，分包留器具箱待原主认，不排新整班；D252实还闻笛1灯壳、余1壳留原坪续D264。",
+      "scope_quote": "369/370分支字牌、供热断柄已归原主，380只据两张检修纸演练相应停序，不再次持有实具。",
+      "reason": "两新芯各四短探退出常用，两个滤片依次耗用后备用为零；D255不能无新光再入段或据初装电量排热试。人物、资源和章卡同证两短检销清但六包仍0。已归还的供热断柄和分支字牌不因380纸上演练再次持有；原驱动隔离，点验只用独立小电，381必须重新筹光/人而不是接着免费试。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "scope": "A28伏笔656—670；R009说明753—757只核380纸上停序、不提前网络/回应与持续责任。",
+      "read_ranges": [
+        [
+          656,
+          670
+        ],
+        [
+          753,
+          757
+        ]
+      ],
+      "quote": "旧独走圈不全消，候试不等于正式长期班，不能全员同车走；钥匙与载体仍本人",
+      "scope_quote": "380纸上停序不生成实物；",
+      "reason": "当前原行将同轮回读与人为断线停试限定为临时线上的局部证据，不回收全网或早期所有声音来源。只实核并错过一次局部低热窗，下一窗仍需测；伤护只改善压红/托位，不确诊不添人口。纸上停序既不生成已归还借具，也不把候试两轮写成新入洞、永久工班或全员乘车。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "scope": "A28时间线522—538；R009说明621—628只核374相对日与D锚点；543仅380→381。394只核版本改动在范围外。",
+      "read_ranges": [
+        [
+          522,
+          538
+        ],
+        [
+          543,
+          543
+        ],
+        [
+          621,
+          628
+        ]
+      ],
+      "quote": "供能保持隔离、当天未新入洞。下一候选低热需实测，先补新光／有限工勘深段；不从已通主车路或真实牵引试运接",
+      "scope_quote": "374本凉五层，明凉四层宿、后凉返三；",
+      "reason": "D245上四宿、D246五层、D247回程宿四、D248沿途收报顺序仍闭合；375只有弥娅闸侧班，林渡不先收到当日未送达的报。D254原主宿三、D255上返与本组出口一致，D256才筹新光而不入段。全文件唯一r3修改在394，未改本组日次、到达、归还或380→381接口；不据此签B40正文或关闭B40-WB01。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "scope": "A28现场用语337—352；R009说明429—431只核测水记录页、旧仪器未恢复与器件边界。",
+      "read_ranges": [
+        [
+          337,
+          352
+        ],
+        [
+          429,
+          431
+        ]
+      ],
+      "quote": "380第一轮车阿九／闸林渡、第二轮车闻笛／闸弥娅，各有旁岗复问、人水灯退路条件",
+      "scope_quote": "测水记录页不是新仪表，旧测潮仪未恢复；核心、供能件、频率钥匙继续分开。",
+      "reason": "当前候试轮守仍是附条件的四主岗，而非满员永久班。双筒与岸货旧页不替坏仪器提供全海峡预测；两盒、两卷线、短拨片与粗排主杆分别定义。钥匙只给局部验频参照，同轮回读不等于主闸实际开合；新灯归一留一、两芯退班的口径与资源表相同。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "scope": "A28词典184—194；R009说明277—279核无新增术语、提前命名/揭秘和D索引原则。",
+      "read_ranges": [
+        [
+          184,
+          194
+        ],
+        [
+          277,
+          279
+        ]
+      ],
+      "quote": "原闸细排旁短拨片模拟开合；先人工叫位、回读同轮，再动作，失联按停试",
+      "scope_quote": "无新增术语、提前命名或新增揭秘。",
+      "reason": "定义保持叫位→同轮回读→动作的先后，短验位仅模拟细排，不把读字当主手轮已转。便携有线点验与泵/发热/驱动分路，核通临时线不代390旧网。局部低热窗须当次同孔同深实测，坏测潮仪未复活；380条件未齐，只认下一轮候试，不生成供能或政治授权。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "scope": "A28实录233—255；R009通则300—302、本组313行和317纸上停序；262仅核381入口。",
+      "read_ranges": [
+        [
+          233,
+          255
+        ],
+        [
+          262,
+          262
+        ],
+        [
+          300,
+          302
+        ],
+        [
+          313,
+          313
+        ],
+        [
+          317,
+          317
+        ]
+      ],
+      "quote": "原坪断能演练候试轮守：第一轮阿九车／林渡闸、第二轮闻笛车／弥娅闸，旁岗仍待复问，原借物主次凉实上返",
+      "scope_quote": "380停序以检修纸演练。",
+      "supporting_quotes": [
+        "D254原主灯挡绳续D264、宿三",
+        "仍缺新光／热路／清障／真实载荷；两端留人不能全员乘走。"
+      ],
+      "reason": "本次重新读371—380各实录行：湿接头失败后修线、再验同轮和失联停试，未替代真实牵引。380“次凉”承紧前379行D254宿三，同行已有380/D255锚点；对照时间线535和人物860，实上返为D255，不能另推D256。R009明确演练据检修纸，非触达已归还实具；两芯退班、滤料耗尽、六包未兑及381先筹光工均保留。",
+      "verdict": "pass"
+    },
+    {
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "scope": "A28主行18、出口51—53；R009通则55—57及本组68行；A27出口46—48仅371入口。",
+      "read_ranges": [
+        [
+          18,
+          18
+        ],
+        [
+          46,
+          48
+        ],
+        [
+          51,
+          57
+        ],
+        [
+          68,
+          68
+        ]
+      ],
+      "quote": "局部报位、同轮回读与失联停试已验，原驱动与主闸仍隔离，主车路封障在；候试四主岗分两轮，旁岗／新整班光／热路与载荷须再核。",
+      "scope_quote": "窗口错过、滤片耗去、灯退班",
+      "reason": "当前篇卡兑现“有线点验是否可靠”的局部问题，同时保留两端各留人的限制和真实资源消耗。两短检全销不销六包货债，候试不能升级全员乘走。A29入口仍须筹光工、勘深维修路，不倒填旧网已通；与本组资源/时间/逐章卡口径一致，394出发方向改字不改变这一边界。",
+      "verdict": "pass"
+    }
+  ],
+  "review_method": {
+    "order": "先读r3回填复核交接与实际新冻结；校验八SHA、r2历史全文件唯一替换及本组正文摘要；随后逐文件实际重读本组A段、R009对应说明和必要接口，完成后才写本报告。",
+    "actual_reading": "本次工具逐段呈现并实际阅读了checks所列当前候选行；引句与判断来自本次范围重读，不是复制旧报告更换摘要。读到通则中的他组例句只为理解范围，不对其事件放行。",
+    "comparison": "r2时间线历史存档完整字节经唯一old→new替换后与当前文件逐字节相等；另外七项与r1/r2记录SHA及当前实际字节一致。B37/B38各十章实际SHA和manifest摘要不变。",
+    "not_repeated": "未重做首读、initial、正文全文终审或52项吸引力报告；既有正文审读不改，正文仅验当前字节仍与已审封稿一致。",
+    "scope": "只签本组十章回填范围，核360→361、370→371或380→381相关接口而不扩签邻章。394仅确认差异位置与本组无关，不重读391—400、不代B40关闭B40-WB01，不签八文件全历史。"
+  },
+  "version_comparison": {
+    "previous_freeze": {
+      "path": "harness/maintenance/R009/writeback-freeze-r2.json",
+      "sha256": "10e292e51889a19883988f1b2906a8adeb3835104e7997ecf1b6025024cf24f3"
+    },
+    "before_archive": {
+      "path": "harness/maintenance/R009/writeback-history/r2/事件与地点时间线.md",
+      "sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44"
+    },
+    "changed_candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+    "old": "D292大匣出棚、293/294充、295回",
+    "new": "D292大匣出坪送棚、293/294充、295回",
+    "changed_chapter": 394,
+    "changed_line": 563,
+    "before_sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44",
+    "after_sha256": "5b429a15234c1fcf2201e2b62cff52505703fae21fa8d9f730433df91b0f6f23",
+    "full_file_exact_single_replacement": true,
+    "unchanged_candidates": [
+      "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "harness/maintenance/R009/writeback-candidates/十章篇章卡.md"
+    ],
+    "scope_impact": "唯一方向词修订在本组外，A27/A28及本组必要接口字节未改；本次仍已重新阅读当前八候选对应范围，不沿用旧摘要签新版本。"
+  },
+  "prior_review": {
+    "path": "harness/maintenance/R009/B38/writeback-freeze-review.json",
+    "sha256": "9d3dfdf860816b2431510f162672a9cb0521f1d538ff3cfccc062ffc12cf63d1",
+    "note": "只登记历史证据；旧报告不代表已签r3，也不覆盖或改写旧结论。"
+  },
+  "technical_validation": {
+    "frozen_file_count": 8,
+    "frozen_files_match": true,
+    "body_manuscript_count": 10,
+    "body_digest_matches": true,
+    "body_actual_bytes_match": true,
+    "quote_checks_match": true,
+    "scope_quote_checks_match": true,
+    "file_checks_count": 8
+  },
+  "scope_note": "重点重新核实：374五层→次凉四层宿→后凉返三，三名本地成人不重复计台岗；两短检分日销清但六包不销；两芯退常用、滤料耗尽；380只据检修纸复述停序，不重新持有已还的断柄/字牌。380卡中“次凉”承379的D254宿三，实际为D255，不另推D256。"
+}

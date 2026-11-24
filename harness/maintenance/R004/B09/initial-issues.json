@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "id": "R004-B09",
+  "reviewer": "/root/r004_b08_reader",
+  "writer": "/root",
+  "independent": true,
+  "body_first": true,
+  "read_scope": "完整逐章读81—90工作稿，后查该时点台账/章卡；81此前作B08边界读过，80/91只核边界。未参与改写；不声称81为未见过的文本。",
+  "manuscripts": [
+    {
+      "chapter": 81,
+      "path": "异星录/正文/第一卷_热海坠城/第081章_坠城日前.md",
+      "sha256": "651d3439a596c67f58c72571bdf7f909a4682f7a7410cf5d3bc4ac6494b575a1"
+    },
+    {
+      "chapter": 82,
+      "path": "异星录/正文/第一卷_热海坠城/第082章_失约的重建.md",
+      "sha256": "372d7bca2de6ece4cb1b843a95ff8f5d3d7bc47fb3f52058e248b08e8e8370c8"
+    },
+    {
+      "chapter": 83,
+      "path": "异星录/正文/第一卷_热海坠城/第083章_为什么抛下家.md",
+      "sha256": "287e5d996bb05f7828caf2cd8e256d59a2da7b468f21a341ed040108e08ecb8c"
+    },
+    {
+      "chapter": 84,
+      "path": "异星录/正文/第一卷_热海坠城/第084章_同一处空白.md",
+      "sha256": "e2520404cea9b76e25ae072ef38ef0d22bf2077b66bb83c28bafca45e8044c7c"
+    },
+    {
+      "chapter": 85,
+      "path": "异星录/正文/第一卷_热海坠城/第085章_是否开门.md",
+      "sha256": "6228ad769c65be591260cd2559c95cb89d956e5377e386df717732654cba8615"
+    },
+    {
+      "chapter": 86,
+      "path": "异星录/正文/第一卷_热海坠城/第086章_灭口命令.md",
+      "sha256": "9ce5f94c61001dc5910558964e0b0798c394a31cb45fa2dbb19cc05d2975ca62"
+    },
+    {
+      "chapter": 87,
+      "path": "异星录/正文/第一卷_热海坠城/第087章_旧维修室.md",
+      "sha256": "bcd55c8a8af705472a5dee182c73cdbfb86bb621971706a942a755efffd869da"
+    },
+    {
+      "chapter": 88,
+      "path": "异星录/正文/第一卷_热海坠城/第088章_两套刻槽.md",
+      "sha256": "bf5d020290fb8cd2512f71b7b092012c754b4c385b4d7d61c88f6ef2e951bf78"
+    },
+    {
+      "chapter": 89,
+      "path": "异星录/正文/第一卷_热海坠城/第089章_断阶震裂.md",
+      "sha256": "bc0e828646114b34a0a63306c4af3237c6a3eeb6d3e377d4131e828db1f0a22d"
+    },
+    {
+      "chapter": 90,
+      "path": "异星录/正文/第一卷_热海坠城/第090章_交还木尺.md",
+      "sha256": "98b7436969472da3317bed0716c1b21b9134ab308e4ca7b3d2b1625634d1da64"
+    }
+  ],
+  "input_digest": "c12e3a0a03957800a1837cd318ddcc9234c2f33e15d9c6b618b415eb978a3d04",
+  "verdict": "issues",
+  "fact_logic_verdict": "issues",
+  "attraction_verdict": "issues",
+  "issues": [
+    {
+      "id": "R004-B09-I01",
+      "chapter": 81,
+      "quote": "林栖将他先前自报的“槐七”与面具编号并记",
+      "severity": "medium",
+      "problem": "上一句主语祝衡，代词他首先指向祝衡，会被读成祝衡自报槐七。",
+      "suggestion": "直接重复槐七姓名/自报名记录的对象，不改人员身份。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B09-I02",
+      "chapter": 82,
+      "quote": "盒里没有炸药，只有几片泡皱的木牌。",
+      "severity": "minor",
+      "problem": "铁盒取出时无人怀疑装炸药，旁白先反驳一个未建立的猜想，会让读者误以为前文漏了危险。",
+      "suggestion": "直接写盒内材料与受潮状态。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B09-I03",
+      "chapter": 83,
+      "quote": "不是来劝他们和好，是井下的热气正在变厚，父子已经占住通风位置太久。",
+      "severity": "minor",
+      "problem": "林栖叫看伤员湿布已给出行动目的，旁白再替她澄清不是劝和，用虚设误会截住转场。",
+      "suggestion": "保留湿布变干、热气增加和占风口的因果。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B09-I04",
+      "chapter": 84,
+      "quote": "她又恢复方才的斜角，叫林渡看同一处。他照着做了一遍，才确认不是她挑着暗影画出的线。",
+      "severity": "minor",
+      "problem": "林栖正光/斜光已经建立沟痕受照显隐，林渡再做同动作确认同结论；同段其后又口述纠正同一把刀，重复核验堆厚。",
+      "suggestion": "保留正斜光对比与林渡独立的表述纠错，压去第二轮同手法检验。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B09-I05",
+      "chapter": 85,
+      "quote": "指腹还按在回摆的指针上",
+      "severity": "medium",
+      "problem": "指腹压住实体机械针会干预回摆，边按针边用它判断与前文仪器放平观察的物理过程不相容；无必要开表盖的动作。",
+      "suggestion": "只让指腹按仪器壳缘，保留机械针回摆与迟滞。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B09-I06",
+      "chapter": 86,
+      "quote": "祝衡的受伤不让他早先照表办事变成没发生，也正因他做过，林渡才要听他把识别这些标记的办法说清。",
+      "severity": "minor",
+      "problem": "前一句已将水票册里不能报姓名者与祝衡列死并置，后一句又说明受伤不能赦责。读者在等匣子被谁保管，连续辩护使上传追兵压力停住。",
+      "suggestion": "保留林渡追问祝衡识表办法，让既有问答承担责任界限。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B09-I07",
+      "chapter": 87,
+      "quote": "林岑看过，用尺背在台沿轻敲两下。",
+      "severity": "medium",
+      "problem": "残尺上一段仍由槐七送槽试弹片，下一段槐七松力重来并开盖后林岑才取回木尺。父亲此时用尺背敲台，是同一物件同时归两人。",
+      "suggestion": "把父亲认可用其他既有身体动作表达，不提前取回或增加另一把尺。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B09-I08",
+      "chapter": 88,
+      "quote": "弥娅把晶片钥匙举到灯下，边缘三道刻槽映出细线：“所以只试这一处。”",
+      "severity": "medium",
+      "problem": "晶片自87末在槐七手中，下一段才写弥娅从他手中接过。本句提前持物，下一句再交接。",
+      "suggestion": "本句让弥娅指向槐七托着的晶片，保持下一段唯一交接。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B09-I09",
+      "chapter": 89,
+      "quote": "父亲还活着，能搬，就不需要先留下一个人证明他愿意担责。那些应当问的话，死了反而没人能追问。",
+      "severity": "minor",
+      "problem": "拒绝放手和叫杜姨继续救孩子已显示林渡选择，后两句旁白又替救父证明道德资格，把实际协作转成作者辩护。",
+      "suggestion": "保留父亲能搬的具体前提与尚须追问，不虚设必须留下人来证明责任的对照。",
+      "fact_change_required": false,
+      "kind": "language"
+    },
+    {
+      "id": "R004-B09-I10",
+      "chapter": 90,
+      "quote": "把半截工号擦得更花",
+      "severity": "medium",
+      "problem": "林岑在膝上抹灰，工号却未说明刻/印在哪件物上。紧下一段薄木牌才从衣内取出，不能拿它事后补工号位置。",
+      "suggestion": "删无落物的工号结果，保留既有抹灰动作；不能新添衣上工号。",
+      "fact_change_required": false,
+      "kind": "fact_logic"
+    },
+    {
+      "id": "R004-B09-I11",
+      "chapter": 90,
+      "quote": "父亲没有恢复指挥权，也没有因为把尺还了，就能替队伍决定谁先上去。",
+      "severity": "minor",
+      "problem": "尺的交还已明确不是原谅，后面再旁白说明无指挥权、无排人权，主题解释重复；眼前并无人要求恢复父权。",
+      "suggestion": "保留两人距离与林栖继续核木牌的行动，让后续林渡安排狭道体现决定者。",
+      "fact_change_required": false,
+      "kind": "language"
+    }
+  ]
+}

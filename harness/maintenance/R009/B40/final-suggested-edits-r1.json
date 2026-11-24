@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "reviewer": "R009-reader-B39-B40",
+  "source_digest": "852e562fd5cab8cba354d191a32d376494e1e4678782975751e239d78dd8a5dd",
+  "replacements": [
+    {
+      "id": "B40-F01-E1",
+      "issue_id": "B40-F01",
+      "chapter": 395,
+      "old": "等他们退回山口，小匣已用完这两次短班，原货工把它连灯带回棚补能。",
+      "new": "等他们退回山口，小匣已用完这两次短班。原货工连灯点收，待次日送棚补能。",
+      "reason": "仅改395当班点收、待次日送棚；不改396、D索引或收官快照。"
+    }
+  ],
+  "not_applied_by_reviewer": true
+}

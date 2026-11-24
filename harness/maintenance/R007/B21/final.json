@@ -1,0 +1,1517 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reviewer": "/root/review_201_220",
+  "writer": "R007-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 201,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第201章_勺底见了天.md",
+      "sha256": "3925d16760f8f794bc9b72b36e3733ed4e5d059d7353effe65e337faf5ab2bea"
+    },
+    {
+      "chapter": 202,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第202章_领水不领符.md",
+      "sha256": "83f60f8a9c291dc3f07567dd9f982545c7ac67342ed4ddc5f9bb33af8fd03648"
+    },
+    {
+      "chapter": 203,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第203章_水不换人.md",
+      "sha256": "7ad8de0bd4dc2b3b8988a02b8c0f67fa3d4590a1c4c83ec5cd4010332cade12b"
+    },
+    {
+      "chapter": 204,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第204章_车打后墙进来.md",
+      "sha256": "d7555cb701254b8bf4a1e49897cbaa5a399137fda7b563660323f9941b7c6732"
+    },
+    {
+      "chapter": 205,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第205章_报废的桶会走路.md",
+      "sha256": "0942dcbf339a3c5c22b479d3d49692b43786b37b40300f57077dde9d53d52c74"
+    },
+    {
+      "chapter": 206,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第206章_枪件上的新号.md",
+      "sha256": "770f83b470020a27fd3aa16c50d1ddf9ca747860fa2a606e318c029894ee14cb"
+    },
+    {
+      "chapter": 207,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第207章_查无此号.md",
+      "sha256": "2352e0d0ec57a7327294d39a0e4dd140b795dd3c9f7632f3370b75f0a4769f58"
+    },
+    {
+      "chapter": 208,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第208章_牌净得不像空户.md",
+      "sha256": "a0d8e919c9bf78902811b86b6056113bde0acef4ab4f3d4991a8ff7d78d8bd75"
+    },
+    {
+      "chapter": 209,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第209章_水先别断.md",
+      "sha256": "35952b5223a73d93aa5893ef2ce919efabcec0a0ee7e1f6a8cada1404bb1ffa7"
+    },
+    {
+      "chapter": 210,
+      "path": "异星录/06_执行计划/工作区/R007-B21/第210章_空街有人扫.md",
+      "sha256": "8b5c24b3bba478a3329a108a0ace24529334cf4c2056cf8a647a75513f2b8128"
+    }
+  ],
+  "source_digest": "cdd5e6459b6b4c17b88f68da5695ba12e3d3e8580a6eff970fd9139f61ec1d6a",
+  "input_digest": "cdd5e6459b6b4c17b88f68da5695ba12e3d3e8580a6eff970fd9139f61ec1d6a",
+  "verdict": "pass",
+  "fact_verdict": "pass",
+  "reader_verdict": "pass",
+  "chapter_readings": [
+    {
+      "chapter": 201,
+      "location": "5层配水站/受助棚",
+      "goal": "续公共生存份并查空户水",
+      "choice": "增守棚双岗、减转运，分头跟水与账",
+      "cost": "成人停份、24件只续有限班",
+      "advances": [
+        "资源",
+        "线索"
+      ],
+      "information_boundary": "仅见背筐往北巷，未证进施水棚",
+      "hook_type": "发现",
+      "recheck": "承接200撤回暖手：两勺只核封签存；不烤笔。符牌/两户未发生先不写，断供只半日。"
+    },
+    {
+      "chapter": 202,
+      "location": "北巷施水棚→5层棚",
+      "goal": "拒绝交弥娅并弄明施水来路",
+      "choice": "当街拒绝以人换整段水",
+      "cost": "施水者树敌、守棚工时扩大",
+      "advances": [
+        "关系",
+        "规则"
+      ],
+      "information_boundary": "垫桶石/木不能确认水源与安全",
+      "hook_type": "选择",
+      "recheck": "明确D68午后回叙，并删尚未离队两户；支架仍断供前一夜、期限下个旬头。水清不代安全、动作承载掌棚压力。"
+    },
+    {
+      "chapter": 203,
+      "location": "5层棚前/队口",
+      "goal": "接纳信徒、回绝交人勒索",
+      "choice": "不排斥挂符者，留符记日、不记匿名人",
+      "cost": "新来23口，守棚挤占转运",
+      "advances": [
+        "关系",
+        "资源"
+      ],
+      "information_boundary": "来信匿名，只能核其车时线索",
+      "hook_type": "关系",
+      "recheck": "相处时长改这些日子，木色只判新近；压纸石头不再逐物造手续。"
+    },
+    {
+      "chapter": 204,
+      "location": "林渡留棚；阿九岑野小石北巷后墙",
+      "goal": "看站桶与运水路径",
+      "choice": "林渡因脸熟留棚，三人分处观察取落物",
+      "cost": "观察位暴露、阿九膝肿",
+      "advances": [
+        "线索",
+        "资源"
+      ],
+      "information_boundary": "仅见一车四桶一包；铁件用途/布号未核",
+      "hook_type": "危险",
+      "recheck": "地皮旧记不排新管；六一只证旧坡高差。铁件与布角同次拾得，有明确手法；日耗未重启，声记另栏，去叙述者辩护。"
+    },
+    {
+      "chapter": 205,
+      "location": "5层棚账桌",
+      "goal": "把观察桶与报损账对起",
+      "choice": "戊字一递改道与验真两稿，铁件先独立核",
+      "cost": "封蜡20件、查问暴露",
+      "advances": [
+        "线索",
+        "规则"
+      ],
+      "information_boundary": "销号与活桶可对，报损到便门经手尚空",
+      "hook_type": "时间",
+      "recheck": "补述D71夜，戊字一D72上午核桶/两稿，下午核铁件；合作时长为这些日子，不跨夜再说次日。"
+    },
+    {
+      "chapter": 206,
+      "location": "5层棚账桌",
+      "goal": "验铁件与支料号",
+      "choice": "比残枪/拓号/比凭单，库名只写一个字",
+      "cost": "证据不能还原、封蜡19件",
+      "advances": [
+        "线索",
+        "规则"
+      ],
+      "information_boundary": "真实枪件不等于真号码，不能排除伪号",
+      "hook_type": "身份",
+      "recheck": "D72午后验件，戊字一后续再来；真件不等真号，伪号与另账并留。圈页/林渡/叙述也同步有限结论，知识最先归戊字一。"
+    },
+    {
+      "chapter": 207,
+      "location": "5层配水站→棚",
+      "goal": "处理拒改道/查无号与教团停水",
+      "choice": "保护戊字一，明稿暗信分走",
+      "cost": "守棚3岗、转运再减、站吏暴露",
+      "advances": [
+        "规则",
+        "资源"
+      ],
+      "information_boundary": "半日回复证明稿被读，不证明认字或地下账",
+      "hook_type": "世界",
+      "recheck": "林渡祝衡带抄回棚交代空间；半日回条不升级笔迹认人，保护站吏仍有实际理由。"
+    },
+    {
+      "chapter": 208,
+      "location": "北巷门牌段/暮色",
+      "goal": "判空户住址是否仍有人过手",
+      "choice": "亲见与活人推断分栏，准备匿名递话",
+      "cost": "等待耗凉时、两缺牌未核",
+      "advances": [
+        "线索",
+        "世界规则"
+      ],
+      "information_boundary": "门痕可推有人维护，不能确认实名与水量",
+      "hook_type": "发现",
+      "recheck": "第六牌补第三净牌，七处枚举3净2死2缺；D74本旬第7日，候汽分段等暮，年期改近期。"
+    },
+    {
+      "chapter": 209,
+      "location": "5层棚前公开账桌",
+      "goal": "选择拦水或找人",
+      "choice": "表决先不断渠、先寻实名",
+      "cost": "缺水再省，弃权者有怨",
+      "advances": [
+        "关系",
+        "资源"
+      ],
+      "information_boundary": "渠与巷中人关联未全核，不能先断水",
+      "hook_type": "关系",
+      "recheck": "受护册登记不作53人；林岑吊伤缓但布带/旧伤仍在；六一仅背书旧坡。号真与回条认字的复述漏网已改，关系约定才立不久。"
+    },
+    {
+      "chapter": 210,
+      "location": "北巷→空街→北巷第五牌→棚",
+      "goal": "递信给不敢露名者",
+      "choice": "不闯屋不掀缸，只留纸条与手势",
+      "cost": "潮头封山、封蜡16件",
+      "advances": [
+        "线索",
+        "关系"
+      ],
+      "information_boundary": "票新戳能核本旬，不给实名/历史全案",
+      "hook_type": "身份",
+      "recheck": "空街探查后明确退回北巷第五牌，滩语练习只这些日子；不把老人40年居住等于全部住户潜居同年。"
+    }
+  ],
+  "issues": [
+    {
+      "id": "R007-B21-001",
+      "chapter": 201,
+      "original_quote": "头一拨是医疗栏。老工师的咳带哨，一夜两回，医疗专线照走，暖手水两勺——弥娅在格子里签了名。她签名用的是左手，笔尖走得慢，一笔一笔，签完把笔搁下，手僵得并不拢，麦穗替她把袖口拢了拢，又把炭笔头烤热了塞回她掌心。老工师喝了暖手水，咳压下去半个时辰，阿苗坐在他格子边上，拿湿布一遍一遍替他擦手背上的汗。",
+      "severity": "severe",
+      "category": "医疗/能力边界",
+      "status": "closed",
+      "resolution": "承接200撤回暖手：两勺只核封签存；不烤笔。符牌/两户未发生先不写，断供只半日。",
+      "evidence_quote": "头一拨是医疗栏。老工师的咳带哨，一夜两回，阿苗扶他靠坐，等他喘匀。弥娅先核袋里那两勺备用水：封口还在，领出过，尚未耗用。她在存水格旁签了名，没有另添暖手水。左手落笔慢，签完僵得并不拢，麦穗替她拢好袖口，把滑到桌沿的炭笔塞回掌心。阿苗拿照护位原有的湿布替老工师擦手背的汗，布已发温，翻到另一面才贴上去。"
+    },
+    {
+      "id": "R007-B21-002",
+      "chapter": 201,
+      "original_quote": "柱子上昨儿还空着，今儿也没添什么——那枚符牌是后来才有的事。",
+      "severity": "severe",
+      "category": "时间/叙述提前",
+      "status": "closed",
+      "resolution": "承接200撤回暖手：两勺只核封签存；不烤笔。符牌/两户未发生先不写，断供只半日。",
+      "evidence_quote": "柱子上还留着昨日绑班表的绳印，队尾的人扶着柱身，给后来者让出一线位置。"
+    },
+    {
+      "id": "R007-B21-003",
+      "chapter": 202,
+      "original_quote": "棚是昨天夜里支的。",
+      "severity": "severe",
+      "category": "时间口径",
+      "status": "closed",
+      "resolution": "明确D68午后回叙，并删尚未离队两户；支架仍断供前一夜、期限下个旬头。水清不代安全、动作承载掌棚压力。",
+      "evidence_quote": "棚在断供前一夜就支好了。"
+    },
+    {
+      "id": "R007-B21-004",
+      "chapter": 202,
+      "original_quote": "水也验得出清。可这水不犯法，不犯规矩，人家在施——你挑不出错来。",
+      "severity": "moderate",
+      "category": "知识来源/叙述翻译",
+      "status": "closed",
+      "resolution": "明确D68午后回叙，并删尚未离队两户；支架仍断供前一夜、期限下个旬头。水清不代安全、动作承载掌棚压力。",
+      "evidence_quote": "看着也清。可没问过处理来路，不能只凭眼睛担保。施水本身挑不出错，先看他要什么。"
+    },
+    {
+      "id": "R007-B21-005",
+      "chapter": 203,
+      "original_quote": "她左腿这几个月越来越沉",
+      "severity": "moderate",
+      "category": "年龄时间/物性",
+      "status": "closed",
+      "resolution": "相处时长改这些日子，木色只判新近；压纸石头不再逐物造手续。",
+      "evidence_quote": "她左腿这些日子越来越沉"
+    },
+    {
+      "id": "R007-B21-006",
+      "chapter": 204,
+      "original_quote": "那条巷子我十年前走过，地皮没动过。剩下的一条道，就是车。",
+      "severity": "moderate",
+      "category": "知识来源/旧伤/物件链",
+      "status": "closed",
+      "resolution": "地皮旧记不排新管；六一只证旧坡高差。铁件与布角同次拾得，有明确手法；日耗未重启，声记另栏，去叙述者辩护。",
+      "evidence_quote": "那条巷子我十年前走过。若地皮仍是老样子，先看车；如今有没有新管，得由到场的人再认。"
+    },
+    {
+      "id": "R007-B21-007",
+      "chapter": 204,
+      "original_quote": "医疗专线的暖手水照班走",
+      "severity": "severe",
+      "category": "医疗续账",
+      "status": "closed",
+      "resolution": "地皮旧记不排新管；六一只证旧坡高差。铁件与布角同次拾得，有明确手法；日耗未重启，声记另栏，去叙述者辩护。",
+      "evidence_quote": "医疗栏核过备用水封口，既有病份照班走"
+    },
+    {
+      "id": "R007-B21-008",
+      "chapter": 205,
+      "original_quote": "第二天一早，小石把昨夜的事又述了一遍。",
+      "severity": "severe",
+      "category": "时间口径/医疗",
+      "status": "closed",
+      "resolution": "补述D71夜，戊字一D72上午核桶/两稿，下午核铁件；合作时长为这些日子，不跨夜再说次日。",
+      "evidence_quote": "看车这夜，小石把白天的事又述了一遍。"
+    },
+    {
+      "id": "R007-B21-009",
+      "chapter": 206,
+      "original_quote": "机簧带着新油，磨痕是使出来的不是锉出来的。伪造的号，配不上一支真使过的枪。",
+      "severity": "severe",
+      "category": "证据推断/知识归属",
+      "status": "closed",
+      "resolution": "D72午后验件，戊字一后续再来；真件不等真号，伪号与另账并留。圈页/林渡/叙述也同步有限结论，知识最先归戊字一。",
+      "evidence_quote": "机簧带着新油，磨痕也像实用过的。件可以是真的，号另打过没有，还得核账。"
+    },
+    {
+      "id": "R007-B21-010",
+      "chapter": 207,
+      "original_quote": "天擦黑的时候，北巷的方向传来了信儿。",
+      "severity": "moderate",
+      "category": "空间链/推断限度",
+      "status": "closed",
+      "resolution": "林渡祝衡带抄回棚交代空间；半日回条不升级笔迹认人，保护站吏仍有实际理由。",
+      "evidence_quote": "林渡和祝衡把抄下的两条回话带回棚。天擦黑的时候，北巷方向传来了信儿。"
+    },
+    {
+      "id": "R007-B21-011",
+      "chapter": 208,
+      "original_quote": "第六块牌，死牌。第七块，又是没牌的",
+      "severity": "severe",
+      "category": "数字闭环",
+      "status": "closed",
+      "resolution": "第六牌补第三净牌，七处枚举3净2死2缺；D74本旬第7日，候汽分段等暮，年期改近期。",
+      "evidence_quote": "第六块牌也擦得净，木座下沿有新扫出的浅痕，台阶中间一线没灰。第七块，又是没牌的"
+    },
+    {
+      "id": "R007-B21-012",
+      "chapter": 208,
+      "original_quote": "这是她誊了两年账养出来的习惯",
+      "severity": "moderate",
+      "category": "时间/相处时长",
+      "status": "closed",
+      "resolution": "第六牌补第三净牌，七处枚举3净2死2缺；D74本旬第7日，候汽分段等暮，年期改近期。",
+      "evidence_quote": "这是她近来誊账养出来的习惯"
+    },
+    {
+      "id": "R007-B21-013",
+      "chapter": 209,
+      "original_quote": "五十三口在册的、外缘来的、塔上下来的",
+      "severity": "severe",
+      "category": "人口/时间/伤病",
+      "status": "closed",
+      "resolution": "受护册登记不作53人；林岑吊伤缓但布带/旧伤仍在；六一仅背书旧坡。号真与回条认字的复述漏网已改，关系约定才立不久。",
+      "evidence_quote": "受护册登记的、外缘来的、塔上下来的"
+    },
+    {
+      "id": "R007-B21-014",
+      "chapter": 209,
+      "original_quote": "搁笔不是没了话，是话到了要紧处，笔跟不上嘴。",
+      "severity": "moderate",
+      "category": "结构/章末行动",
+      "status": "closed",
+      "resolution": "受护册登记不作53人；林岑吊伤缓但布带/旧伤仍在；六一仅背书旧坡。号真与回条认字的复述漏网已改，关系约定才立不久。",
+      "evidence_quote": "纸上三条路齐了，祝衡把笔递给林渡，让他先说。"
+    },
+    {
+      "id": "R007-B21-015",
+      "chapter": 210,
+      "original_quote": "第五块牌到了。",
+      "severity": "moderate",
+      "category": "空间链/年期",
+      "status": "closed",
+      "resolution": "空街探查后明确退回北巷第五牌，滩语练习只这些日子；不把老人40年居住等于全部住户潜居同年。",
+      "evidence_quote": "三人沿原路退回北巷，在第五块牌前停下。"
+    }
+  ],
+  "supplemental_issue_closures": [
+    {
+      "id": "R007-main-B21-201",
+      "chapter": 201,
+      "original_quote": "这是两年里让坡道上的汽灌出来的本事。",
+      "status": "closed",
+      "resolution": "补修局部时长/新来者路线经验与旧场景起算，旧记不证明现状。；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "这是近来守坡口练出来的本事。",
+      "source_artifact": "harness/maintenance/R007/B21/editor-supplement.json"
+    },
+    {
+      "id": "R007-main-B21-204",
+      "chapter": 204,
+      "original_quote": "他量了三十一年外缘的地面，点头，就是他的话。",
+      "status": "closed",
+      "resolution": "补修局部时长/新来者路线经验与旧场景起算，旧记不证明现状。；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "他从前常量外缘的地面，旧坡的高差还记得；如今管子接到哪里，仍得另核。",
+      "source_artifact": "harness/maintenance/R007/B21/editor-supplement.json"
+    },
+    {
+      "id": "R007-main-B21-209",
+      "chapter": 209,
+      "original_quote": "外缘的地面，我量过三十一年。他记的数，不差。",
+      "status": "closed",
+      "resolution": "补修局部时长/新来者路线经验与旧场景起算，旧记不证明现状。；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "外缘的地面，我从前量过多年。他记的旧坡高差，我也记得；如今接没接新管，还不能靠这笔旧数认。",
+      "source_artifact": "harness/maintenance/R007/B21/editor-supplement.json"
+    },
+    {
+      "id": "R007-B21-final-001",
+      "chapter": 202,
+      "original_quote": "第二天一早，林渡带着祝衡往北巷去。按昨夜商量好的，",
+      "status": "closed",
+      "resolution": "复核新增：按D68午后明确回叙，不预写203D70才发生的离队；衔接203D69—70与204D71。；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "断供这天午后，在与岑野议定分头查之前，林渡已带祝衡到北巷探过一回施水棚。出门时说定了，",
+      "source_artifact": "harness/maintenance/R007/B21/editor-supplement.json"
+    },
+    {
+      "id": "R007-B21-final-002",
+      "chapter": 202,
+      "original_quote": "巳时未到，棚前的队已经排出二十几步，队里一半是熟脸——待通的户，前儿从棚里过去的两户也在，见了林渡，眼神都往边上躲。",
+      "status": "closed",
+      "resolution": "复核新增：按D68午后明确回叙，不预写203D70才发生的离队；衔接203D69—70与204D71。；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "午后，棚前的队已经排出二十几步，队里一半是待通的熟脸，见了林渡，眼神都往边上躲。",
+      "source_artifact": "harness/maintenance/R007/B21/editor-supplement.json"
+    },
+    {
+      "id": "R007-B21-R01",
+      "chapter": 204,
+      "original_quote": "这不是多事——数纸是骨头，口述是肉，骨头肉长齐了，这一条才算站得住。",
+      "status": "closed",
+      "resolution": "去叙述者辩护，验证分工有实际结果；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "麦穗把位置逐个落在数纸旁，听到前后次序对不上就停下来追问，免得拾得的位置在转述里挪了。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R02",
+      "chapter": 204,
+      "original_quote": "按规矩，数纸只记人数车数，声响不入纸。",
+      "status": "closed",
+      "resolution": "此前岑野已记碾缝7响，不能又禁声响入纸；保额外声音另注；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "这一趟预排的是人数车数，临时听见的声得另注，不能混进亲见栏。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R03",
+      "chapter": 205,
+      "original_quote": "下晌的头一班勺过完",
+      "status": "closed",
+      "resolution": "205D72上午收束，不挤到D72夜；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "上午的头一班勺过完",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R04",
+      "chapter": 205,
+      "original_quote": "下午，林栖把两笔账并了并。",
+      "status": "closed",
+      "resolution": "同日核桶后转核枪；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "临近晌午，林栖把两笔账并了并。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R05",
+      "chapter": 205,
+      "original_quote": "守棚岗下晌也捎了话回来",
+      "status": "closed",
+      "resolution": "205上午—午前；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "守棚岗随后也捎了话回来",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R06",
+      "chapter": 205,
+      "original_quote": "掌棚的午里讲了一场，下晌又讲了一场",
+      "status": "closed",
+      "resolution": "对昨日观察归档，不提前见今日午后；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "掌棚的昨日午里讲了一场，下晌又讲了一场",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R07",
+      "chapter": 205,
+      "original_quote": "傍晚岑野从坡口回来",
+      "status": "closed",
+      "resolution": "205D72午前；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "午前岑野从坡口回来",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R08",
+      "chapter": 205,
+      "original_quote": "夜里，戊字一临走前",
+      "status": "closed",
+      "resolution": "205不跨D72夜；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "戊字一临走前",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R09",
+      "chapter": 205,
+      "original_quote": "明儿该问铁件了。",
+      "status": "closed",
+      "resolution": "206D72午后接续；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "下午该问铁件了。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R10",
+      "chapter": 205,
+      "original_quote": "我夜里先跟它聊聊。",
+      "status": "closed",
+      "resolution": "接206昨夜已察铁件；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "我昨夜已经跟它聊过了，下午就把认得的部分摆出来。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R11",
+      "chapter": 205,
+      "original_quote": "明天见着戊字一，我给你说得头头是道。",
+      "status": "closed",
+      "resolution": "当日午后核验；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "下午见着戊字一，我给你说得头头是道。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R12",
+      "chapter": 205,
+      "original_quote": "棚里的灯一盏一盏灭下去。守棚岗的换岗声从门口过，压得极低——潮头前夜，连脚步都得省着力气走。",
+      "status": "closed",
+      "resolution": "上午收夜灯不再夜间熄灯，班表行动承接而非凑总结；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "林渡让人收起昨夜的灯，给下午腾出一块干桌面。守棚岗的换岗声从门口过，裴七把下一班的名字指给来接的人，没再临时抽走一个。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R13",
+      "chapter": 206,
+      "original_quote": "问匠人的班，排在看车次日的上午。",
+      "status": "closed",
+      "resolution": "205上午核桶接206午后核铁；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "问匠人的班，排在看车次日的午后。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R14",
+      "chapter": 206,
+      "original_quote": "天刚亮，阿九就蹲在了账桌边上——他夜里真跟那铁件“聊”了半宿。",
+      "status": "closed",
+      "resolution": "明确D72午后，不回跳天刚亮；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "午后，阿九蹲到了腾空的账桌边——他昨夜真跟那铁件“聊”了半宿。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R15",
+      "chapter": 206,
+      "original_quote": "号是真号，账是假账，两头必有一头活着。",
+      "status": "closed",
+      "resolution": "与本章不判真伪的核验结论一致；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "号在，账未合；伪号还是另账，两头待核。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R16",
+      "chapter": 206,
+      "original_quote": "号活，账死。写字的人，在账外头。",
+      "status": "closed",
+      "resolution": "保持林渡记录的有限结论，不复旧武断；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "号在，账缺。先追凭单，不把猜测当签名。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R17",
+      "chapter": 206,
+      "original_quote": "那本开出四百多号流水的账，就藏在某一个库的门后头。",
+      "status": "closed",
+      "resolution": "正文叙述不在已保两种解释后又断唯一另账；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "若确有另一本开到四百多号的流水账，就得从库的领发凭据里追。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R18",
+      "chapter": 209,
+      "original_quote": "稿子是她的字，回条认得她的字。",
+      "status": "closed",
+      "resolution": "207已改不认定笔迹被认，此处同步；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "稿子由她递上去，站上的经手人名避不过这条路。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    },
+    {
+      "id": "R007-B21-R19",
+      "chapter": 209,
+      "original_quote": "桶是真的，号是真的，刮缸的勺响是真的。",
+      "status": "closed",
+      "resolution": "206未核号真，此处不得升级；已读实际修后段，主笔适配处以当前原句为准。",
+      "evidence_quote": "桶和号都亲见了，号真不真还在等核，刮缸的勺响也有数纸。",
+      "source_artifact": "harness/maintenance/R007/B21/recheck-edits.json"
+    }
+  ],
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 201,
+      "quote": "断供日赶在旬头上。",
+      "reason": "续公共生存份并查空户水进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 201,
+      "quote": "守棚班加成双岗",
+      "reason": "增守棚双岗、减转运，分头跟水与账；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 201,
+      "quote": "勺底朝天。",
+      "reason": "资源/线索有实物/行动/资源变化，承接200撤回暖手：两勺只核封签存；不烤笔。符牌/两户未发生先不写，断供只半日。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 201,
+      "quote": "“记人。”杜姨说，“不记符。”",
+      "reason": "成人停份、24件只续有限班让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 201,
+      "quote": "一头跟巷子，一头跟账。",
+      "reason": "仅见背筐往北巷，未证进施水棚，仍有下一步调查/交班/救济要做，发现钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 202,
+      "quote": "断供这天午后，在与岑野议定分头查之前",
+      "reason": "拒绝交弥娅并弄明施水来路进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 202,
+      "quote": "人不出。",
+      "reason": "当街拒绝以人换整段水；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 202,
+      "quote": "交出那个女人，施水棚包这一段的份",
+      "reason": "关系/规则有实物/行动/资源变化，明确D68午后回叙，并删尚未离队两户；支架仍断供前一夜、期限下个旬头。水清不代安全、动作承载掌棚压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 202,
+      "quote": "人不上秤。",
+      "reason": "施水者树敌、守棚工时扩大让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 202,
+      "quote": "是怕我们查得太快。",
+      "reason": "垫桶石/木不能确认水源与安全，仍有下一步调查/交班/救济要做，选择钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 203,
+      "quote": "那页纸在值桌上过了一夜",
+      "reason": "接纳信徒、回绝交人勒索进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 203,
+      "quote": "留着，记上日子。",
+      "reason": "不排斥挂符者，留符记日、不记匿名人；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 203,
+      "quote": "册上添了七户，二十三口。",
+      "reason": "关系/资源有实物/行动/资源变化，相处时长改这些日子，木色只判新近；压纸石头不再逐物造手续。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 203,
+      "quote": "娃盯着那只摊平的手心看了片刻",
+      "reason": "新来23口，守棚挤占转运让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 203,
+      "quote": "连桶带车，一样一样数清楚。",
+      "reason": "来信匿名，只能核其车时线索，仍有下一步调查/交班/救济要做，关系钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 204,
+      "quote": "旬头后第三日，天没亮透",
+      "reason": "看站桶与运水路径进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 204,
+      "quote": "林渡没去。",
+      "reason": "林渡因脸熟留棚，三人分处观察取落物；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 204,
+      "quote": "铁件滚落篦子缝口",
+      "reason": "线索/资源有实物/行动/资源变化，地皮旧记不排新管；六一只证旧坡高差。铁件与布角同次拾得，有明确手法；日耗未重启，声记另栏，去叙述者辩护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 204,
+      "quote": "小石的手这会儿才抖起来",
+      "reason": "观察位暴露、阿九膝肿让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 204,
+      "quote": "桶问站上，铁件问匠人。",
+      "reason": "仅见一车四桶一包；铁件用途/布号未核，仍有下一步调查/交班/救济要做，危险钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 205,
+      "quote": "看车这夜，小石把白天的事又述了一遍。",
+      "reason": "把观察桶与报损账对起进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 205,
+      "quote": "空户旬份应急改道",
+      "reason": "戊字一递改道与验真两稿，铁件先独立核；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 205,
+      "quote": "回炉的账上，没有这批桶",
+      "reason": "线索/规则有实物/行动/资源变化，补述D71夜，戊字一D72上午核桶/两稿，下午核铁件；合作时长为这些日子，不跨夜再说次日。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 205,
+      "quote": "销了的号，不等于没了的桶。",
+      "reason": "封蜡20件、查问暴露让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 205,
+      "quote": "下午该问铁件了。",
+      "reason": "销号与活桶可对，报损到便门经手尚空，仍有下一步调查/交班/救济要做，时间钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 206,
+      "quote": "铁件在油纸里躺了一夜",
+      "reason": "验铁件与支料号进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 206,
+      "quote": "只写这个字。多一个字都是猜。",
+      "reason": "比残枪/拓号/比凭单，库名只写一个字；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 206,
+      "quote": "这个流水，排到四百开外。",
+      "reason": "线索/规则有实物/行动/资源变化，D72午后验件，戊字一后续再来；真件不等真号，伪号与另账并留。圈页/林渡/叙述也同步有限结论，知识最先归戊字一。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 206,
+      "quote": "他父亲沈乌的名，当年就是让一支笔从册上勾掉的。",
+      "reason": "证据不能还原、封蜡19件让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 206,
+      "quote": "回条要是说号是真的——",
+      "reason": "真实枪件不等于真号码，不能排除伪号，仍有下一步调查/交班/救济要做，身份钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 207,
+      "quote": "回条来得比谁都快。",
+      "reason": "处理拒改道/查无号与教团停水进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 207,
+      "quote": "明线递稿，暗线捎信。",
+      "reason": "保护戊字一，明稿暗信分走；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 207,
+      "quote": "查无此号。",
+      "reason": "规则/资源有实物/行动/资源变化，林渡祝衡带抄回棚交代空间；半日回条不升级笔迹认人，保护站吏仍有实际理由。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 207,
+      "quote": "原件归站柜的防潮格",
+      "reason": "守棚3岗、转运再减、站吏暴露让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 207,
+      "quote": "牌在墙上钉着，钉子做不得假。",
+      "reason": "半日回复证明稿被读，不证明认字或地下账，仍有下一步调查/交班/救济要做，世界钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 208,
+      "quote": "看牌的路，赶在汽前头走了。",
+      "reason": "判空户住址是否仍有人过手进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 208,
+      "quote": "活人两个字，进推断栏。",
+      "reason": "亲见与活人推断分栏，准备匿名递话；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 208,
+      "quote": "三净，两死，两缺。",
+      "reason": "线索/世界规则有实物/行动/资源变化，第六牌补第三净牌，七处枚举3净2死2缺；D74本旬第7日，候汽分段等暮，年期改近期。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 208,
+      "quote": "他们在省着喝。",
+      "reason": "等待耗凉时、两缺牌未核让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 208,
+      "quote": "递到第五块牌底下。",
+      "reason": "门痕可推有人维护，不能确认实名与水量，仍有下一步调查/交班/救济要做，发现钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 209,
+      "quote": "对账的夜，账桌挪到了棚前空地。",
+      "reason": "选择拦水或找人进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 209,
+      "quote": "我主张第三条。",
+      "reason": "表决先不断渠、先寻实名；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 209,
+      "quote": "第三条过半",
+      "reason": "关系/资源有实物/行动/资源变化，受护册登记不作53人；林岑吊伤缓但布带/旧伤仍在；六一仅背书旧坡。号真与回条认字的复述漏网已改，关系约定才立不久。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 209,
+      "quote": "重议的时候",
+      "reason": "缺水再省，弃权者有怨让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 209,
+      "quote": "你们查牌，查到头了么？",
+      "reason": "渠与巷中人关联未全核，不能先断水，仍有下一步调查/交班/救济要做，关系钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 210,
+      "quote": "看窗的老人不给名字，先给话。",
+      "reason": "递信给不敢露名者进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 210,
+      "quote": "塞进牌背的挂钉缝里",
+      "reason": "不闯屋不掀缸，只留纸条与手势；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 210,
+      "quote": "票是旧的。戳是新的。",
+      "reason": "线索/关系有实物/行动/资源变化，空街探查后明确退回北巷第五牌，滩语练习只这些日子；不把老人40年居住等于全部住户潜居同年。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 210,
+      "quote": "可渠那头，有人应了一声。",
+      "reason": "潮头封山、封蜡16件让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 210,
+      "quote": "下一段，从这张票走",
+      "reason": "票新戳能核本旬，不给实名/历史全案，仍有下一步调查/交班/救济要做，身份钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 210,
+      "quote": "票是旧的。戳是新的。",
+      "reason": "空户追水从观察额度兑现为对应票根，实名仍未冒领，拒交人/不断渠的选择获得可信联络。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 209,
+      "quote": "水先别断。",
+      "reason": "自身断供与不能断潜居者命水相抵，资源损失与关系承诺升级。",
+      "verdict": "pass"
+    }
+  ],
+  "context_read": [
+    {
+      "path": "AGENTS.md",
+      "scope": "全文与8.1/13",
+      "read_after_body": true
+    },
+    {
+      "path": "skills/alien-serial-harness/SKILL.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/00_项目总览/项目总纲.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/00_项目总览/资料索引与阅读地图.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/03_剧情架构/分卷总纲.md",
+      "scope": "卷一至四与悬念层级",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/03_剧情架构/README.md",
+      "scope": "卷间接口与时间尺度",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/卷纲.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "scope": "A11—A15及边界",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "scope": "A11/A12实录与A13入口",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/01_世界设定/世界背景总览.md",
+      "scope": "全文，L4+只作防泄露边界",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/01_世界设定/社会生活与文化.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/01_世界设定/势力与制度.md",
+      "scope": "栈城/互助会/身份等级",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/01_世界设定/栈城路线图.md",
+      "scope": "路线参照",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/02_角色档案/角色圣经.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/02_角色档案/角色出场与语气卡.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/02_角色档案/关系与成长线.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "scope": "A10/A11/A12相关定义，未以未来条目授权当前知识",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "scope": "A10—A13用语与旬头/封蜡/汽班/暗页",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "scope": "A10、A11、A12相关历史截点",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "scope": "A10/R006、A11、A12完整条目",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "scope": "200—221逐章时序",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "scope": "A11、A12完整条目",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/05_写作规范/设定揭示计划.md",
+      "scope": "全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "scope": "全文，尤其第九节",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "scope": "全文，尤其第二/七节",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "scope": "全文；本轮非开篇，不重签1—3",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/正文/第二卷_黑暗断阶/第200章_只开这一段.md",
+      "scope": "边界全文",
+      "read_after_body": true
+    },
+    {
+      "path": "异星录/正文/第三卷_上城区无门/第221章_哨音连成了串.md",
+      "scope": "边界全文，仅登记依赖",
+      "read_after_body": true
+    }
+  ],
+  "initial_review": "harness/maintenance/R007/B21/initial.json",
+  "initial_digest": "03a09003112e52621d01b78a4baae5fe757eaac151f24ecc9b4a4ed2f4798b06",
+  "review_process": "初审先单独逐章读正文并保存body-first；其后查资料。主笔改稿后完整复读本组十章，追加问题由主笔修，逐处短复核。主笔不代签独立结论。",
+  "coverage_note": "只签201—210本组实际终稿；未以本报告签1—3或221以后。",
+  "unresolved_issues": [],
+  "pending_author": [],
+  "standards": [
+    {
+      "category": "人物位置链",
+      "initial_hits": [
+        {
+          "chapter": 204,
+          "quote": "那条巷子我十年前走过，地皮没动过。剩下的一条道，就是车。",
+          "issue_id": "R007-B21-006",
+          "suggestion": "林岑十年前见闻不能排除今天新管；号可伪；小石拾布在章末突补且旧伤应持续。"
+        },
+        {
+          "chapter": 204,
+          "quote": "医疗专线的暖手水照班走",
+          "issue_id": "R007-B21-007",
+          "suggestion": "不得把已撤暖手水自动续为日耗；留袋存备用核封、既有病份照走。"
+        },
+        {
+          "chapter": 207,
+          "quote": "天擦黑的时候，北巷的方向传来了信儿。",
+          "issue_id": "R007-B21-010",
+          "suggestion": "前半在站值桌，后半未移动便变棚；半日回条不能推出读者认得戊字一笔迹。"
+        },
+        {
+          "chapter": 210,
+          "quote": "第五块牌到了。",
+          "issue_id": "R007-B21-015",
+          "suggestion": "由北巷七牌走入另一空街后，递第五牌须明确返回；学滩语半年不合；‘这一批’元叙事。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "数字闭环",
+      "initial_hits": [
+        {
+          "chapter": 208,
+          "quote": "第六块牌，死牌。第七块，又是没牌的",
+          "issue_id": "R007-B21-011",
+          "suggestion": "已发生台账七牌3净2死2缺，逐个枚举实际2净3死2缺；第六牌改第三净牌并给物性。"
+        },
+        {
+          "chapter": 208,
+          "quote": "这是她誊了两年账养出来的习惯",
+          "issue_id": "R007-B21-012",
+          "suggestion": "D74为旬头D68后六天，即本旬第七日；凉时等半小时不能直接到暮，应写分段候汽等暮。麦穗共同誊账两年不合。"
+        },
+        {
+          "chapter": 209,
+          "quote": "五十三口在册的、外缘来的、塔上下来的",
+          "issue_id": "R007-B21-013",
+          "suggestion": "53为受护册暂计份，不是全队核人口；D74夜距离D78四日属正确，但看牌D74当夜称听响那晚可直接今晚；林岑旧肩不可全好。相处一年多不合。"
+        },
+        {
+          "chapter": 209,
+          "quote": "搁笔不是没了话，是话到了要紧处，笔跟不上嘴。",
+          "issue_id": "R007-B21-014",
+          "suggestion": "反复译解搁笔/圈使对账节奏缓；章末虽有人来缺林渡明确追问行动。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "信息释放顺序",
+      "initial_hits": [
+        {
+          "chapter": 201,
+          "quote": "头一拨是医疗栏。老工师的咳带哨，一夜两回，医疗专线照走，暖手水两勺——弥娅在格子里签了名。她签名用的是左手，笔尖走得慢，一笔一笔，签完把笔搁下，手僵得并不拢，麦穗替她把袖口拢了拢，又把炭笔头烤热了塞回她掌心。老工师喝了暖手水，咳压下去半个时辰，阿苗坐在他格子边上，拿湿布一遍一遍替他擦手背上的汗。",
+          "issue_id": "R007-B21-001",
+          "suggestion": "200已撤暖手领用并仅保袋存备用；不能重启两勺日耗或无热源烤笔。首段仍需给老工师当日照护依据。"
+        },
+        {
+          "chapter": 201,
+          "quote": "柱子上昨儿还空着，今儿也没添什么——那枚符牌是后来才有的事。",
+          "issue_id": "R007-B21-002",
+          "suggestion": "D68今日断供，不应既写两天；符牌与两户离队尚未发生，不提前解释未来。"
+        },
+        {
+          "chapter": 206,
+          "quote": "机簧带着新油，磨痕是使出来的不是锉出来的。伪造的号，配不上一支真使过的枪。",
+          "issue_id": "R007-B21-009",
+          "suggestion": "真枪件不保证真号；鉴定新油无从强证新出库。格式冲突最先由戊字一说出，不应弥娅夺知识。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "知识来源",
+      "initial_hits": [
+        {
+          "chapter": 202,
+          "quote": "棚是昨天夜里支的。",
+          "issue_id": "R007-B21-003",
+          "suggestion": "202范围D68午后—D69，逐章行动可接D69一早，但棚支架须仍指断供前一夜；期限明确下旬，不把已过旬头作未来期限。"
+        },
+        {
+          "chapter": 202,
+          "quote": "水也验得出清。可这水不犯法，不犯规矩，人家在施——你挑不出错来。",
+          "issue_id": "R007-B21-004",
+          "suggestion": "清澈不等于安全；旁观者不能直接得知掌棚心无恶意和笃定。"
+        },
+        {
+          "chapter": 204,
+          "quote": "那条巷子我十年前走过，地皮没动过。剩下的一条道，就是车。",
+          "issue_id": "R007-B21-006",
+          "suggestion": "林岑十年前见闻不能排除今天新管；号可伪；小石拾布在章末突补且旧伤应持续。"
+        },
+        {
+          "chapter": 204,
+          "quote": "医疗专线的暖手水照班走",
+          "issue_id": "R007-B21-007",
+          "suggestion": "不得把已撤暖手水自动续为日耗；留袋存备用核封、既有病份照走。"
+        },
+        {
+          "chapter": 206,
+          "quote": "机簧带着新油，磨痕是使出来的不是锉出来的。伪造的号，配不上一支真使过的枪。",
+          "issue_id": "R007-B21-009",
+          "suggestion": "真枪件不保证真号；鉴定新油无从强证新出库。格式冲突最先由戊字一说出，不应弥娅夺知识。"
+        },
+        {
+          "chapter": 207,
+          "quote": "天擦黑的时候，北巷的方向传来了信儿。",
+          "issue_id": "R007-B21-010",
+          "suggestion": "前半在站值桌，后半未移动便变棚；半日回条不能推出读者认得戊字一笔迹。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "物件物理",
+      "initial_hits": [
+        {
+          "chapter": 204,
+          "quote": "那条巷子我十年前走过，地皮没动过。剩下的一条道，就是车。",
+          "issue_id": "R007-B21-006",
+          "suggestion": "林岑十年前见闻不能排除今天新管；号可伪；小石拾布在章末突补且旧伤应持续。"
+        },
+        {
+          "chapter": 204,
+          "quote": "医疗专线的暖手水照班走",
+          "issue_id": "R007-B21-007",
+          "suggestion": "不得把已撤暖手水自动续为日耗；留袋存备用核封、既有病份照走。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "时间口径",
+      "initial_hits": [
+        {
+          "chapter": 201,
+          "quote": "头一拨是医疗栏。老工师的咳带哨，一夜两回，医疗专线照走，暖手水两勺——弥娅在格子里签了名。她签名用的是左手，笔尖走得慢，一笔一笔，签完把笔搁下，手僵得并不拢，麦穗替她把袖口拢了拢，又把炭笔头烤热了塞回她掌心。老工师喝了暖手水，咳压下去半个时辰，阿苗坐在他格子边上，拿湿布一遍一遍替他擦手背上的汗。",
+          "issue_id": "R007-B21-001",
+          "suggestion": "200已撤暖手领用并仅保袋存备用；不能重启两勺日耗或无热源烤笔。首段仍需给老工师当日照护依据。"
+        },
+        {
+          "chapter": 201,
+          "quote": "柱子上昨儿还空着，今儿也没添什么——那枚符牌是后来才有的事。",
+          "issue_id": "R007-B21-002",
+          "suggestion": "D68今日断供，不应既写两天；符牌与两户离队尚未发生，不提前解释未来。"
+        },
+        {
+          "chapter": 202,
+          "quote": "棚是昨天夜里支的。",
+          "issue_id": "R007-B21-003",
+          "suggestion": "202范围D68午后—D69，逐章行动可接D69一早，但棚支架须仍指断供前一夜；期限明确下旬，不把已过旬头作未来期限。"
+        },
+        {
+          "chapter": 202,
+          "quote": "水也验得出清。可这水不犯法，不犯规矩，人家在施——你挑不出错来。",
+          "issue_id": "R007-B21-004",
+          "suggestion": "清澈不等于安全；旁观者不能直接得知掌棚心无恶意和笃定。"
+        },
+        {
+          "chapter": 203,
+          "quote": "她左腿这几个月越来越沉",
+          "issue_id": "R007-B21-005",
+          "suggestion": "弥娅相识不足数月；木色无法精确断新钉两个时辰。程序石头备案超载可改成压稳回复纸。"
+        },
+        {
+          "chapter": 205,
+          "quote": "第二天一早，小石把昨夜的事又述了一遍。",
+          "issue_id": "R007-B21-008",
+          "suggestion": "205续D71夜—72：夜补述、当日递两稿，206D72才能同日验枪；相处一年多错误；暖手取消不能续日耗。"
+        },
+        {
+          "chapter": 208,
+          "quote": "第六块牌，死牌。第七块，又是没牌的",
+          "issue_id": "R007-B21-011",
+          "suggestion": "已发生台账七牌3净2死2缺，逐个枚举实际2净3死2缺；第六牌改第三净牌并给物性。"
+        },
+        {
+          "chapter": 208,
+          "quote": "这是她誊了两年账养出来的习惯",
+          "issue_id": "R007-B21-012",
+          "suggestion": "D74为旬头D68后六天，即本旬第七日；凉时等半小时不能直接到暮，应写分段候汽等暮。麦穗共同誊账两年不合。"
+        },
+        {
+          "chapter": 209,
+          "quote": "五十三口在册的、外缘来的、塔上下来的",
+          "issue_id": "R007-B21-013",
+          "suggestion": "53为受护册暂计份，不是全队核人口；D74夜距离D78四日属正确，但看牌D74当夜称听响那晚可直接今晚；林岑旧肩不可全好。相处一年多不合。"
+        },
+        {
+          "chapter": 209,
+          "quote": "搁笔不是没了话，是话到了要紧处，笔跟不上嘴。",
+          "issue_id": "R007-B21-014",
+          "suggestion": "反复译解搁笔/圈使对账节奏缓；章末虽有人来缺林渡明确追问行动。"
+        },
+        {
+          "chapter": 210,
+          "quote": "第五块牌到了。",
+          "issue_id": "R007-B21-015",
+          "suggestion": "由北巷七牌走入另一空街后，递第五牌须明确返回；学滩语半年不合；‘这一批’元叙事。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "光影与能力边界",
+      "initial_hits": [
+        {
+          "chapter": 201,
+          "quote": "头一拨是医疗栏。老工师的咳带哨，一夜两回，医疗专线照走，暖手水两勺——弥娅在格子里签了名。她签名用的是左手，笔尖走得慢，一笔一笔，签完把笔搁下，手僵得并不拢，麦穗替她把袖口拢了拢，又把炭笔头烤热了塞回她掌心。老工师喝了暖手水，咳压下去半个时辰，阿苗坐在他格子边上，拿湿布一遍一遍替他擦手背上的汗。",
+          "issue_id": "R007-B21-001",
+          "suggestion": "200已撤暖手领用并仅保袋存备用；不能重启两勺日耗或无热源烤笔。首段仍需给老工师当日照护依据。"
+        },
+        {
+          "chapter": 201,
+          "quote": "柱子上昨儿还空着，今儿也没添什么——那枚符牌是后来才有的事。",
+          "issue_id": "R007-B21-002",
+          "suggestion": "D68今日断供，不应既写两天；符牌与两户离队尚未发生，不提前解释未来。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "感官依据",
+      "initial_hits": [
+        {
+          "chapter": 203,
+          "quote": "她左腿这几个月越来越沉",
+          "issue_id": "R007-B21-005",
+          "suggestion": "弥娅相识不足数月；木色无法精确断新钉两个时辰。程序石头备案超载可改成压稳回复纸。"
+        },
+        {
+          "chapter": 204,
+          "quote": "那条巷子我十年前走过，地皮没动过。剩下的一条道，就是车。",
+          "issue_id": "R007-B21-006",
+          "suggestion": "林岑十年前见闻不能排除今天新管；号可伪；小石拾布在章末突补且旧伤应持续。"
+        },
+        {
+          "chapter": 204,
+          "quote": "医疗专线的暖手水照班走",
+          "issue_id": "R007-B21-007",
+          "suggestion": "不得把已撤暖手水自动续为日耗；留袋存备用核封、既有病份照走。"
+        },
+        {
+          "chapter": 207,
+          "quote": "天擦黑的时候，北巷的方向传来了信儿。",
+          "issue_id": "R007-B21-010",
+          "suggestion": "前半在站值桌，后半未移动便变棚；半日回条不能推出读者认得戊字一笔迹。"
+        },
+        {
+          "chapter": 208,
+          "quote": "第六块牌，死牌。第七块，又是没牌的",
+          "issue_id": "R007-B21-011",
+          "suggestion": "已发生台账七牌3净2死2缺，逐个枚举实际2净3死2缺；第六牌改第三净牌并给物性。"
+        },
+        {
+          "chapter": 208,
+          "quote": "这是她誊了两年账养出来的习惯",
+          "issue_id": "R007-B21-012",
+          "suggestion": "D74为旬头D68后六天，即本旬第七日；凉时等半小时不能直接到暮，应写分段候汽等暮。麦穗共同誊账两年不合。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "人体常识",
+      "initial_hits": [
+        {
+          "chapter": 201,
+          "quote": "头一拨是医疗栏。老工师的咳带哨，一夜两回，医疗专线照走，暖手水两勺——弥娅在格子里签了名。她签名用的是左手，笔尖走得慢，一笔一笔，签完把笔搁下，手僵得并不拢，麦穗替她把袖口拢了拢，又把炭笔头烤热了塞回她掌心。老工师喝了暖手水，咳压下去半个时辰，阿苗坐在他格子边上，拿湿布一遍一遍替他擦手背上的汗。",
+          "issue_id": "R007-B21-001",
+          "suggestion": "200已撤暖手领用并仅保袋存备用；不能重启两勺日耗或无热源烤笔。首段仍需给老工师当日照护依据。"
+        },
+        {
+          "chapter": 201,
+          "quote": "柱子上昨儿还空着，今儿也没添什么——那枚符牌是后来才有的事。",
+          "issue_id": "R007-B21-002",
+          "suggestion": "D68今日断供，不应既写两天；符牌与两户离队尚未发生，不提前解释未来。"
+        },
+        {
+          "chapter": 204,
+          "quote": "那条巷子我十年前走过，地皮没动过。剩下的一条道，就是车。",
+          "issue_id": "R007-B21-006",
+          "suggestion": "林岑十年前见闻不能排除今天新管；号可伪；小石拾布在章末突补且旧伤应持续。"
+        },
+        {
+          "chapter": 204,
+          "quote": "医疗专线的暖手水照班走",
+          "issue_id": "R007-B21-007",
+          "suggestion": "不得把已撤暖手水自动续为日耗；留袋存备用核封、既有病份照走。"
+        },
+        {
+          "chapter": 209,
+          "quote": "五十三口在册的、外缘来的、塔上下来的",
+          "issue_id": "R007-B21-013",
+          "suggestion": "53为受护册暂计份，不是全队核人口；D74夜距离D78四日属正确，但看牌D74当夜称听响那晚可直接今晚；林岑旧肩不可全好。相处一年多不合。"
+        },
+        {
+          "chapter": 209,
+          "quote": "搁笔不是没了话，是话到了要紧处，笔跟不上嘴。",
+          "issue_id": "R007-B21-014",
+          "suggestion": "反复译解搁笔/圈使对账节奏缓；章末虽有人来缺林渡明确追问行动。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "篇幅口径",
+      "initial_hits": [],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "初稿贴近2200下限，主笔须按实际修后字节复计，不能由本次读者报告替代。"
+    },
+    {
+      "category": "叙述者翻译与辩护",
+      "initial_hits": [
+        {
+          "chapter": 201,
+          "quote": "头一拨是医疗栏。老工师的咳带哨，一夜两回，医疗专线照走，暖手水两勺——弥娅在格子里签了名。她签名用的是左手，笔尖走得慢，一笔一笔，签完把笔搁下，手僵得并不拢，麦穗替她把袖口拢了拢，又把炭笔头烤热了塞回她掌心。老工师喝了暖手水，咳压下去半个时辰，阿苗坐在他格子边上，拿湿布一遍一遍替他擦手背上的汗。",
+          "issue_id": "R007-B21-001",
+          "suggestion": "200已撤暖手领用并仅保袋存备用；不能重启两勺日耗或无热源烤笔。首段仍需给老工师当日照护依据。"
+        },
+        {
+          "chapter": 201,
+          "quote": "柱子上昨儿还空着，今儿也没添什么——那枚符牌是后来才有的事。",
+          "issue_id": "R007-B21-002",
+          "suggestion": "D68今日断供，不应既写两天；符牌与两户离队尚未发生，不提前解释未来。"
+        },
+        {
+          "chapter": 202,
+          "quote": "棚是昨天夜里支的。",
+          "issue_id": "R007-B21-003",
+          "suggestion": "202范围D68午后—D69，逐章行动可接D69一早，但棚支架须仍指断供前一夜；期限明确下旬，不把已过旬头作未来期限。"
+        },
+        {
+          "chapter": 202,
+          "quote": "水也验得出清。可这水不犯法，不犯规矩，人家在施——你挑不出错来。",
+          "issue_id": "R007-B21-004",
+          "suggestion": "清澈不等于安全；旁观者不能直接得知掌棚心无恶意和笃定。"
+        },
+        {
+          "chapter": 203,
+          "quote": "她左腿这几个月越来越沉",
+          "issue_id": "R007-B21-005",
+          "suggestion": "弥娅相识不足数月；木色无法精确断新钉两个时辰。程序石头备案超载可改成压稳回复纸。"
+        },
+        {
+          "chapter": 209,
+          "quote": "五十三口在册的、外缘来的、塔上下来的",
+          "issue_id": "R007-B21-013",
+          "suggestion": "53为受护册暂计份，不是全队核人口；D74夜距离D78四日属正确，但看牌D74当夜称听响那晚可直接今晚；林岑旧肩不可全好。相处一年多不合。"
+        },
+        {
+          "chapter": 209,
+          "quote": "搁笔不是没了话，是话到了要紧处，笔跟不上嘴。",
+          "issue_id": "R007-B21-014",
+          "suggestion": "反复译解搁笔/圈使对账节奏缓；章末虽有人来缺林渡明确追问行动。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "动作罗列流水账",
+      "initial_hits": [
+        {
+          "chapter": 203,
+          "quote": "她左腿这几个月越来越沉",
+          "issue_id": "R007-B21-005",
+          "suggestion": "弥娅相识不足数月；木色无法精确断新钉两个时辰。程序石头备案超载可改成压稳回复纸。"
+        }
+      ],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "命中按实际阅读与问题链列举；不把脚本频次当全文通过。"
+    },
+    {
+      "category": "动词悬空",
+      "initial_hits": [],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "实际逐章未发现该类需要单独立项的阻塞；修后仍重查，不声明词频为零。"
+    },
+    {
+      "category": "验证动作重复",
+      "initial_hits": [],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "实际逐章未发现该类需要单独立项的阻塞；修后仍重查，不声明词频为零。"
+    },
+    {
+      "category": "“像是”堆叠",
+      "initial_hits": [],
+      "recheck": "初审命中逐条关闭见issues；本次实际终稿再逐章核；无新增未关闭阻塞。",
+      "scope_note": "实际逐章未发现该类需要单独立项的阻塞；修后仍重查，不声明词频为零。"
+    }
+  ]
+}

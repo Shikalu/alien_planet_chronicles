@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "batch": "R009-B37",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B37-B38",
+  "independent": true,
+  "body_first": true,
+  "phase": "initial",
+  "input_digest": "9ef88d3563efdb4bbb93f855046a93660ef31a67c950e9c233e801dd4afe3ccb",
+  "source_digest": "9ef88d3563efdb4bbb93f855046a93660ef31a67c950e9c233e801dd4afe3ccb",
+  "verdict": "issues",
+  "issues": [
+    {
+      "id": "B37-01",
+      "chapter": 362,
+      "severity": "轻微",
+      "quote": "明早这个套必须归还。要不要再请电池本人过来，得在这半边悬空处有了答案之后。",
+      "reader_problem": "“电池本人”把货主与整匣设备的指称混在一起；章尾本应留下缺垫后能否验配的问题，读者先被拟人用词绊住。",
+      "suggestion": "直称整匣电池，承接外套缺垫的未完成动作；仍是是否请来验配，不提前认定已配合或成交。",
+      "status": "open"
+    },
+    {
+      "id": "B37-02",
+      "chapter": 363,
+      "severity": "中等",
+      "quote": "檐主把门前的干物箱向里推了半掌，箱底两根柜条发出干涩的摩擦声。他让林渡看箱后，不是嫌孩子占地方，是家里放过冬存料的木槽已经受潮，要挪到檐下晾；孩子若一直留原位，落水就会溅到被褥上。",
+      "reader_problem": "“不是嫌孩子占地方”替非视角人物认证动机，提前替檐主辩白；现有湿槽、落水和门路冲突足以解释为什么必须挪箱。",
+      "suggestion": "把可观察的湿槽与檐主本人提出的安置困难落到动作、对白，不删除现实利益冲突，不把“过冬”无依据判成世界设定错误。",
+      "status": "open"
+    },
+    {
+      "id": "B37-03",
+      "chapter": 364,
+      "severity": "轻微",
+      "quote": "“签完的抄件实际上送。上面先留这份。”",
+      "reader_problem": "“实际上送”搭配不通，读者难以区分真已上送，还是约定签后送来；本段正在谈未来成约后的抄件。",
+      "suggestion": "明确未来由上行者送签后抄件，不写当前已收到；保持后文D233交人、D234五层实阅的消息链。",
+      "status": "open"
+    },
+    {
+      "id": "B37-04",
+      "chapter": 366,
+      "severity": "严重",
+      "quote": "檐下的孩子听见一担一担，问哥哥明天能不能看。岑野先问姨母托面能否保持原处，再告诉他站在檐边就能看一段，不搬去凹台。",
+      "reader_problem": "“他”的先行词是右踝持续肿痛、不许负重的孩子；“站在檐边”与本段保留原托面及已发生伤势相冲突。",
+      "suggestion": "只改视线与指代：孩子留在原托面观看。不得为这句话改台账成能站、伤愈或新增转移。",
+      "status": "open"
+    },
+    {
+      "id": "B37-05",
+      "chapter": 366,
+      "severity": "中等",
+      "quote": "棚方两名成年货工轮肩、槐七认工面，所有人自带路上饮水，林渡不拉料，少年不替成人落担。",
+      "reader_problem": "句内先说棚方两货工，下一句又另说闻笛自来两日，读者可能把闻笛算成第三个运料人；367及已发生台账明确实际两人是闻笛与同一货工。",
+      "suggestion": "点名两位轮肩者，保留槐七分时接应和所有人的自带水，不增加或删去实际工人。",
+      "status": "open"
+    },
+    {
+      "id": "B37-06",
+      "chapter": 368,
+      "severity": "轻微",
+      "quote": "新旁承只承住本次轻抬的轨重，车轮仍在后方的原坪；闻笛将湿痕与落位留在图里，闻笛与货工喝水歇过，便到了原定收工时段。",
+      "reader_problem": "同一长句连续“闻笛……闻笛与……”使承重结果、记录与休息变成机械动作串列。各动作有结果，不把它夸大为整章动作悬空。",
+      "suggestion": "按试验结果、留图、班时届满分句，保留休息计工及当日不能继续施工的实际代价。",
+      "status": "open"
+    }
+  ],
+  "chapters_read": [
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370
+  ],
+  "reader_first": "harness/maintenance/R009/B37/reader-first.md",
+  "manifest_note": "initial-manifest仅有source_digest；它等于manuscripts列表按harness rows_digest算法所得摘要。input_digest绑定同一初始稿件集合，不另造最终封稿摘要。",
+  "final_review_performed": false
+}

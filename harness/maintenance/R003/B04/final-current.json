@@ -1,0 +1,704 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "id": "R003-B04-final-current",
+  "date": "2026-11-06",
+  "writer": "/root",
+  "reviewer": "/root/review_b04",
+  "independent": true,
+  "body_first": true,
+  "body_first_scope": "先完整通读工作区31—40正文并记录读感，后读初审/编辑解释和资料。继承父线程任务约束不冒充未闻任何项目背景。未参与正文编辑。30末、41开头仅边界核。",
+  "manuscripts": [
+    {
+      "chapter": 31,
+      "path": "异星录/正文/第一卷_热海坠城/第031章_积木一样的城.md",
+      "sha256": "c97977fbbe9874475d201a96c6355c5c7d9a4ab7c5db76c59255e77320f93d18"
+    },
+    {
+      "chapter": 32,
+      "path": "异星录/正文/第一卷_热海坠城/第032章_承重点.md",
+      "sha256": "db2220718f540482f6c951b4f864fcd4abcd12919476d6c63589cc6f3caad3ad"
+    },
+    {
+      "chapter": 33,
+      "path": "异星录/正文/第一卷_热海坠城/第033章_提前的喷发.md",
+      "sha256": "984d5eb271bdb8b7d369b2dc8937fcc22ef87cf5e481f89bec0cc90434d7ce4d"
+    },
+    {
+      "chapter": 34,
+      "path": "异星录/正文/第一卷_热海坠城/第034章_车顶的热雨.md",
+      "sha256": "60494aa53a02976f00664fdc649da68fbf4bde9f0d6ddeb9d124e4bc29295493"
+    },
+    {
+      "chapter": 35,
+      "path": "异星录/正文/第一卷_热海坠城/第035章_偷零件的孩子.md",
+      "sha256": "3ae3bb535918708dc7c280eaa949890694845218e509f1ea59ab58e690f21823"
+    },
+    {
+      "chapter": 36,
+      "path": "异星录/正文/第一卷_热海坠城/第036章_自动升降井.md",
+      "sha256": "8161f2c9646ae57201a860420e5a736d9708f1973865ade0b701e19da574b62a"
+    },
+    {
+      "chapter": 37,
+      "path": "异星录/正文/第一卷_热海坠城/第037章_井底回声.md",
+      "sha256": "1a7dadcae64da2e57504d8d941c2a5b5cfa727235344c7d2f1022f1de1758f96"
+    },
+    {
+      "chapter": 38,
+      "path": "异星录/正文/第一卷_热海坠城/第038章_断阶标识.md",
+      "sha256": "24f3f86366eb06ffb9b990217c024e54b3c1ef2893f268cbf7d6d60b8ccdc434"
+    },
+    {
+      "chapter": 39,
+      "path": "异星录/正文/第一卷_热海坠城/第039章_转移冷却水.md",
+      "sha256": "b02067b596416316574ff4037e74dc1849db31ebf8b617767a8d1bec558fd77c"
+    },
+    {
+      "chapter": 40,
+      "path": "异星录/正文/第一卷_热海坠城/第040章_三分之一.md",
+      "sha256": "c93c1534ce9538293362f8942603038f839c30f31bc0cdbfb0a97ad9f339f858"
+    }
+  ],
+  "source_digest": "7bdd9da466e0e516c0cf91e0a129b9e05bfe158613b1f68311112ae777ab8602",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 31,
+      "quote": "这里标作三层坡道上段，却没有连续地面。",
+      "reason": "三层脚下是二层屋顶，柱脚松与索牵屋架立即给出过路压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 31,
+      "quote": "这条梁不能再压了。记我让卸的。",
+      "reason": "林渡主动弃车药并记自己的责任，具体职业判断决定牺牲顺序。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 31,
+      "quote": "药箱随着车身翻下去。",
+      "reason": "人过去，推车与两包盐药不可回收；路径又折断，只能绕井。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 31,
+      "quote": "你也要看。拿账的时候也要。",
+      "reason": "弥娅救册后反向提醒林渡顾支点，共担风险的互信有回报。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 31,
+      "quote": "这一次，得有人空着手走过去，看看旧牌指的地方究竟还剩什么。",
+      "reason": "上行栈道断了，主角下一步空身试承重点，危险与行动都具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 32,
+      "quote": "右侧看起来较宽，却是落在下层残架上的挑板。",
+      "reason": "左绕与右挑板的风险接住旧牌，不停下另讲背景。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 32,
+      "quote": "父亲的刻纹可以等，轿厢里的人不能。",
+      "reason": "林渡暂缓私事，留下安排救队内三伤员。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 32,
+      "quote": "薄薄一片裂齿却从指间落下，掉进井里。",
+      "reason": "妹妹获救、尺齿失去且露出半组记号，又有旧伤员困厢，得失可见。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 32,
+      "quote": "三个人才把她挪回梁面。",
+      "reason": "救妹靠背抵柱、弥娅除木片与工匠托脚协作，有限能力可信。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 32,
+      "quote": "阿九，把拉人的绳留出来。",
+      "reason": "轿厢上撞喷热水，主角明确留绳救人，下一章要看救法。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 33,
+      "quote": "铁门鼓向外面，门缝里的热水沿铆钉淌下",
+      "reason": "开场接住困厢，危险位置与烫水立即显出。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 33,
+      "quote": "我下。你看木梁。",
+      "reason": "弥娅按测热专长下井，林渡接受承重留守，两人都要付旧伤代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 33,
+      "quote": "精确数字被锁住",
+      "reason": "旧三伤员归队，铁箱带出；精读锁死、东墙黑雾截路，局部胜利有后果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 33,
+      "quote": "三名伤员终于爬回柱后。",
+      "reason": "点名待救的人重新可照护，三章救援兑现而非多添获救人数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 33,
+      "quote": "箱子从哪来，得活着离开井口才能问。",
+      "reason": "实体新箱和退路黑雾共同给出未知与下一步撤离。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 34,
+      "quote": "他们绕过井身，沿先前试过的左梁退回旧轨。",
+      "reason": "路线接上33，人力推破车避黑雾的目标随即出现，方向可确认。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 34,
+      "quote": "他把肩膀撤开，让绳先绕紧桩身，不再用旧伤硬扛。",
+      "reason": "林渡改用桩与绳组织协作，没有强行用伤肩解决倒滑。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 34,
+      "quote": "约半壶的余量，薄薄铺开之后连一条沟都填不满",
+      "reason": "破车避雨仍损水，主接头又被拆，资源条件持续改变。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 34,
+      "quote": "那就记损失。别写喝完了。",
+      "reason": "杜姨的水账短句呈现有限救援的失手，比抽象自责更有代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 34,
+      "quote": "至少问清他为什么非拆这辆车不可。",
+      "reason": "林渡追少年却先问动机，下一章期待救人需求怎样改变物权冲突。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 35,
+      "quote": "少年沿旧轨外侧跑，脚底几次在湿板上打滑",
+      "reason": "追接头承上章，主角体重不能走少年的细条限制追法。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 35,
+      "quote": "先救人。东西算他们欠你的。",
+      "reason": "林渡将救弟弟优先但保留维修欠账，阿九不被强制无偿原谅。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 35,
+      "quote": "核过的这一栏增至三十四人。",
+      "reason": "三少年与棚内七人加入，34只核名一栏，阿九弥娅另记，不虚构总人数。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 35,
+      "quote": "欠账的人也不能丢。",
+      "reason": "阿九边追维修责任边让孩子留在视野，冲突转成照管关系。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 35,
+      "quote": "要掀开黑布，至少不能让整辆车先压下来。",
+      "reason": "车下似手物与滑车同时存在，先固定车再查是否藏人，行动钩具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 36,
+      "quote": "黑布下不是人。",
+      "reason": "立即兑现35假人影，随车碰板后垫止，另一声源未定。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 36,
+      "quote": "你看热往哪边进。我看哪里还能压。",
+      "reason": "林渡不让两名关键判断者同时下井，选择亲下救妹，技能分工成立。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 36,
+      "quote": "上去的绳被夹住了。",
+      "reason": "制动厢停但井架未稳，铜片布带到手而提升路线卡死，新状态明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 36,
+      "quote": "你能认，别人认不出。可你不说位置，谁也找不到你。",
+      "reason": "兄妹不是单纯救/被救，林栖判断有用而独行需承担报位责任。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 36,
+      "quote": "他必须看看，声音那边有没有另一条活路。",
+      "reason": "绳卡、水涨，主角探金属板找替代出口，敲声不等于父亲现身。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 37,
+      "quote": "水很快漫上了轿厢顶。",
+      "reason": "接住36涨水和卡绳，实际身体危险先出现。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 37,
+      "quote": "你们沿狭道往山侧走，隔一会儿答我一声。",
+      "reason": "弥娅选井外接应、主队走宽入口；不再把全体挤进一条窄道。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 37,
+      "quote": "上方的人惊呼绳断了。",
+      "reason": "兄妹先退净绳套后厢架落，断回路保留；三人墙后会合发现父号。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 37,
+      "quote": "他张口想问父亲是不是就在后面，先把灯移向妹妹发白的嘴唇。",
+      "reason": "私人渴望被活人伤势打断，主角主动改问路，情绪回报克制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 37,
+      "quote": "告诉我们，门在哪边。",
+      "reason": "父号带来追问，但实际需要出口与伤员通路，接38找门。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 38,
+      "quote": "后面的狭道不可能再回去。",
+      "reason": "回路断、矮门未知，凉意不等于已经安全。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 38,
+      "quote": "确认谁的？这里有伤员，不能只问工号。",
+      "reason": "林渡先挪伤员退缝，再要求门内给通行信息，没被私号牵走。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 38,
+      "quote": "维修室只有半间完整",
+      "reason": "破门团聚却容量不足；短钩折弯，得旧痕与命令残页，未进四层深处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 38,
+      "quote": "“做法是。”",
+      "reason": "旧楔第三浅齿兑现父亲手艺记忆，没把无日期物件写成父亲此刻在场。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 38,
+      "quote": "黑暗里有人用衡陆语说：“工号确认。”",
+      "reason": "未知敲击升级为可懂人声，谁确认及怎样让伤员过门成为具体期待。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 39,
+      "quote": "三层外侧的白汽里，祝衡追上了那辆水车。",
+      "reason": "新章明确另视角、位置和追车目标，必要补给线被接起。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 39,
+      "quote": "我签截留，写我的身份。",
+      "reason": "祝衡担破锁截单的责任但无权改整车调度，制度缝隙行动有界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 39,
+      "quote": "他能带走的只有三壶水、一份配给单",
+      "reason": "水车大半继续上行，有限清水和原单到手、伤加重，胜利不能粉饰。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 39,
+      "quote": "少的水和丢的封签，查我。",
+      "reason": "曾播虚假口径者留下追责签名救有限水，转变落在行为。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 39,
+      "quote": "等着活人决定是否接他进去。",
+      "reason": "把职位催门改成推壶等回应，下一章期待主队接纳与对账。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 40,
+      "quote": "外面三层旧轨已经向海侧倾。",
+      "reason": "刚会合得到三壶也不能停，门外倾轨与下方持续坠落压住开头。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 40,
+      "quote": "先挪离外沿。",
+      "reason": "先安排活人移重，不返走断柱、不盲跟黑布，承担无法返救的损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 40,
+      "quote": "交换市残骸带着半座伤棚一同坠下",
+      "reason": "局部平台失稳扩大为二层海侧片区同坠，物理与制度压力升级。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 40,
+      "quote": "他们还没掉下来。",
+      "reason": "祝衡对庆祝的苦话与杜姨继续搬人并列，不能救回下方的人仍需前行。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 40,
+      "quote": "自己先去摸第一根梁。",
+      "reason": "主角亲验黑布所指轨段，世界坠落压力与下一步选择合流。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 38,
+      "quote": "门外隐约传来杜姨呼叫的声音",
+      "reason": "31为担架寻找可接回旧轨路线，33救回旧三伤员，37—38兄妹出井并接到队伍；父亲线兑现旧工号和手艺，不兑现人在。31弃药、32损齿、33锁精读、34损水、37断绳、38折钩均保留。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 40,
+      "quote": "没有哪栋屋子单独倒完再轮到下一栋",
+      "reason": "平台局部移重→井险与人为接热→救七人后的供水压力→二层片区共坠、原单空置与庆祝广播矛盾；技能任务改变各自戏剧作用，非十次同工序。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass",
+  "fact_logic_verdict": "pass",
+  "attraction_verdict": "pass",
+  "issues": [
+    {
+      "id": "B04-N01",
+      "chapter": 36,
+      "severity": "轻微",
+      "quote": "没有人按开关，车里也没有装上新的动力核心。",
+      "problem": "轿厢说明中的车里可回指前段房车，指代短暂游移。",
+      "action": "明确此处是轿厢，保留下文配重下坠牵厢，不新增电源。",
+      "status": "closed",
+      "resolution": "实际短复读36/38修后段与相邻上下文：36明确轿厢；38收妥带来物件、试支架产生墙板晃但钉未退的结果，松手挪箱让担架，无新能力。"
+    },
+    {
+      "id": "B04-N02",
+      "chapter": 38,
+      "severity": "轻微",
+      "quote": "这是他们自己带出的物件，不是屋里所有东西都能任取。",
+      "problem": "交还布带铜片后，旁白替取物权限作判断；随后多拿金属的概括再次翻译阿九试支架。",
+      "action": "收成带来物件收妥、试支架不拆的可观察结果；改后核不低于2200汉字。",
+      "status": "closed",
+      "resolution": "实际短复读36/38修后段与相邻上下文：36明确轿厢；38收妥带来物件、试支架产生墙板晃但钉未退的结果，松手挪箱让担架，无新能力。"
+    }
+  ],
+  "issue_closures": [
+    {
+      "id": "B04-C01",
+      "chapter": 35,
+      "original_quote": "两边合起来，眼前要带走的已约有三十四人。",
+      "status": "closed",
+      "evidence": "阿九和弥娅不在原登记板内，仍另记在页边。",
+      "resolution": "正文与本批R003-WB相关截点已同口径核：34仅登记子集、阿九弥娅和祝衡另列；车底碰板与异处节拍分开、完整主动机制不定。"
+    },
+    {
+      "id": "B04-C02",
+      "chapter": 36,
+      "original_quote": "他垫住机械臂，让关节不再碰板。车下安静下来，后方却又传来三短一长。那声音不是从护板内发出的，是顺着轨边铁件传到这里，末尾带着井道的空响。",
+      "status": "closed",
+      "evidence": "声音沿轨边铁件传到脚下",
+      "resolution": "正文与本批R003-WB相关截点已同口径核：34仅登记子集、阿九弥娅和祝衡另列；车底碰板与异处节拍分开、完整主动机制不定。"
+    },
+    {
+      "id": "B04-C03",
+      "chapter": 35,
+      "original_quote": "门终于开出一掌宽，热气和潮酸的衣味一齐涌出来。",
+      "status": "closed",
+      "evidence": "直到空隙容得下侧过的胸背",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-C04",
+      "chapter": 37,
+      "original_quote": "她把自己要绕向哪面墙告诉杜姨，约好沿墙找较宽的维修入口；三人若能出声，便往那个方向回应。",
+      "status": "closed",
+      "evidence": "自己接到兄妹后再向队伍报位",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L31",
+      "chapter": 31,
+      "original_quote": "捞不到的东西，再看也不会回到手里。",
+      "status": "closed",
+      "evidence": "林渡只看了一眼便转过头。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L32",
+      "chapter": 32,
+      "original_quote": "拆轻工具箱只是腾出手，不能算这处支点已经修好。",
+      "status": "closed",
+      "evidence": "随后试到担架前后脚都要经过的位置。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L33",
+      "chapter": 33,
+      "original_quote": "他可以先走，林渡却不能用“有人不同意”替自己决定放弃井下的人。",
+      "status": "closed",
+      "evidence": "最终把绳尾交到阿九手里",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L34",
+      "chapter": 34,
+      "original_quote": "林渡没有替他下结论，照着改了结，担架终于不再撞车壁。",
+      "status": "closed",
+      "evidence": "林渡照着改了结，担架终于不再撞车壁。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L35",
+      "chapter": 35,
+      "original_quote": "他不能凭救了人就让反对的人闭嘴，更不能把缺的水说成总会找到。",
+      "status": "closed",
+      "evidence": "水等伤情看过再分。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L36",
+      "chapter": 36,
+      "original_quote": "林渡只能确认图案，不能替它命名，更不可能由此知道整个装置通向哪里。",
+      "status": "closed",
+      "evidence": "“先停，再记。”他说。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L37",
+      "chapter": 37,
+      "original_quote": "同一个字在不同地方可以指不同东西。他不能因为急着往高处走，就把轨号当成已经逃进断阶的证明。",
+      "status": "closed",
+      "evidence": "林栖认出它是岔道上的轨号，不是脚下高度。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L38",
+      "chapter": 38,
+      "original_quote": "这把钥匙曾开过失电维护门，不会因此变成所有旧门的钥匙。",
+      "status": "closed",
+      "evidence": "形制不同，插不到底，便收回衣袋",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L39",
+      "chapter": 39,
+      "original_quote": "那不是故意要一起死，只是他们能想到的每个办法，最后都落回锁在车厢里的签名。",
+      "status": "closed",
+      "evidence": "没有人去解桶上的固定带。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-L40",
+      "chapter": 40,
+      "original_quote": "不是不肯救就把眼睛闭上，是必须先让她看见回头的下一步会落在哪里。",
+      "status": "closed",
+      "evidence": "随即把手转回担架。",
+      "resolution": "原问题句已删除或以实际动作/结果替换，未增加已知事实或撤销损失。"
+    },
+    {
+      "id": "B04-E01",
+      "chapter": 31,
+      "status": "closed",
+      "evidence": "还笔时，后面的木板又响了一次",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    },
+    {
+      "id": "B04-E02",
+      "chapter": 31,
+      "status": "closed",
+      "evidence": "她伏身拖回轴头，退到粗柱旁。",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    },
+    {
+      "id": "B04-E03",
+      "chapter": 31,
+      "status": "closed",
+      "evidence": "指节上沾着血迹和湿木屑",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    },
+    {
+      "id": "B04-E04",
+      "chapter": 34,
+      "status": "closed",
+      "evidence": "最后一副担架进去，弥娅才离开退路口",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    },
+    {
+      "id": "B04-E05",
+      "chapter": 34,
+      "status": "closed",
+      "evidence": "林渡等了一下，铜片并没有跟着那个节拍动。",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    },
+    {
+      "id": "B04-E06",
+      "chapter": 38,
+      "status": "closed",
+      "evidence": "低处的浑水拍着墙脚，气泡从板缝间冒出。",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    },
+    {
+      "id": "B04-E07",
+      "chapter": 40,
+      "status": "closed",
+      "evidence": "先问从哪里装的",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    },
+    {
+      "id": "B04-E08",
+      "chapter": 39,
+      "status": "closed",
+      "evidence": "祝衡从磨破的袖边撕下布条",
+      "resolution": "实读确认编辑补充的来源、移动或物件结果已写在正文，不靠作者解释。"
+    }
+  ],
+  "writeback_pending": [],
+  "han_counts": {
+    "31": 2319,
+    "32": 2347,
+    "33": 2320,
+    "34": 2445,
+    "35": 2440,
+    "36": 2221,
+    "37": 2376,
+    "38": 2211,
+    "39": 2265,
+    "40": 2281
+  },
+  "digest_algorithm": "tools/check_reader_pull.py digest_rows：sha256(json.dumps(rows,ensure_ascii=False,sort_keys=True).encode())，rows按章号升序，path使用发布路径、sha来自实际工作稿。",
+  "revision_recheck": {
+    "reviewer": "/root/review_b04",
+    "body_reread": [
+      36,
+      38
+    ],
+    "boundary_reread": [
+      30,
+      41
+    ],
+    "conclusion": "两处新增正文问题关闭，实际修后段不引入替代问题；本批相关拟回填和术语继承已核，事实/规范与吸引力均通过。",
+    "note": "最初正文读感产生于修正前；报告文件保存时协调者已在修，未独立封存最初问题版本，不伪造该阶段稿件摘要。现manuscripts/source_digest仅绑定此次实际终稿字节。"
+  },
+  "writeback_scope": "仅核本批历史段与本次相应差异及附录；未审未来400章全文件，不把文件哈希解释为全文质量通过。两术语继承不变、未新增专名。",
+  "writeback_snapshot": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/人物状态台账.md",
+      "sha256": "3650705466fd79ac159f89f3bcfa76782cc0daf3433bb14c0affcb90e2700e4d",
+      "scope": "第31—40章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/资源与时间台账.md",
+      "sha256": "6ca294d63a731ea98536729810481a576fe79e4b004d70d0712d129c5b629745",
+      "scope": "第31—40章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/伏笔与悬念台账.md",
+      "sha256": "eb419f384bc55262c7b654594c9130fae1b84cadb9d678dc2651c3c02cb0fb3c",
+      "scope": "第31—40章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/事件与地点时间线.md",
+      "sha256": "190ca97b0ba2fb066bd54d83ac7efd40743c780bcaa2d54ec6f18364b9ba84f0",
+      "scope": "第31—40章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/术语词典.md",
+      "sha256": "9e18ac8ef774c2818d29cb0413a4d32dd1774f6329c7d2266f75acdcf89fa21e",
+      "scope": "第31—40章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/术语与命名表.md",
+      "sha256": "eb59bf3bae5b79152c81a8d6080d935ae64aad6b856a92966472cbd551503aa1",
+      "scope": "第31—40章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/逐章卡.md",
+      "sha256": "f5f71f08fb21068949d7155b26dd59cdf90e0444f71af35a7c3593983bca1ce0",
+      "scope": "第31—40章历史快照、相关补全与本轮差异"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/前10章场景拆解.md",
+      "stage": "异星录/06_执行计划/工作区/R003-WB/前10章场景拆解.md",
+      "sha256": "891a58a737e4ce2e3e839f0fe9f6c337d86b8e704670b4263f89643acd0addea",
+      "scope": "仅记录本轮稳定文件指纹；前10章场景非本审读批次内容，不作质量签署"
+    }
+  ]
+}

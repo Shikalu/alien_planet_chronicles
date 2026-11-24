@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "kind": "scoped-writeback-freeze-review",
+  "batch": "R009-B37",
+  "reviewer": "R009-reader-B37-B38",
+  "independent": true,
+  "scope_chapters": [
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370
+  ],
+  "body_digest": "ccff0ffea83ed5d02bc7f9c7de7ac3e1956cb0e284ad2b1410161bce31368012",
+  "files": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "sha256": "a776c1ccf0f0efa2ed490c5cb92e390a274e33d959c46abf56d5aef6d9f9157d"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "sha256": "11e4a7783b763bfa30c3579fd64a3e7fbc0d773c3b9cd7fcf6dafbec7770e69e"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "sha256": "883e41ea4194ccffd04d4c0f316c4329e0c48d7bdaf8403e7262267c2754570b"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "sha256": "e0ad42fe7654b61c22171594eb2fe16b77e63aec4abaa88b4cc4abda0968cb44"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "sha256": "4accf9b745074b6c274b50ae39320cf2ee7733afbc3cc435b6c3d77c9e7ee20c"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "sha256": "c58f65afa5eef0da77b53e534585dd6685b4fba85e66db92dffd98056d50746f"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "sha256": "03e343ca5580cdf7850efc544abd0746b5d5d75ef728e7ab9c41db4891b3d35b"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "sha256": "5b61956a337d13ad51a0169800f13a6c411e3a8bbb1686c74a588892cfee442f"
+    }
+  ],
+  "verdict": "pass",
+  "blockers": [],
+  "checks": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/人物状态台账.md",
+      "scope": "A27人物行827—845及R009说明947—953中366相关句；不签其他篇段",
+      "quote": "D233—234与同一成年货工轮肩运料",
+      "scope_quote": "366孩子不试站，闻笛与原帮搬成人两人换托，不多出第三抬手。",
+      "reason": "A27人物原行把闻笛搭档明确为同一成年货工；R009说明的两抬手据此指这两位，不能把槐七分时接应算第三位运料工，更不是把A28台岗另抽来。366终稿只留孩子在原托面看，367右腿仍垫，原行不负重与无新增人口相合。邵砺D239工具实带回，阿九限坐工、林渡不承重均保留。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/资源与时间台账.md",
+      "scope": "A27资源715—734；R009说明856—864中的369/370归具与旧D锚点",
+      "quote": "D233—234闻笛与同一成年货工2人轮肩，槐七分时接应",
+      "scope_quote": "369/370分支字牌、供热断柄已归原主，380只据两张检修纸演练相应停序，不再次持有实具。",
+      "reason": "核到2位轮肩工与槐七分时接应，1枕2板已装、余2新枕干存，旧4加新2仍0兑、阿九2短检在D239尚未做。369字牌约随工具还、370供热断柄及负载片表架归邵砺，已售循环件与带回借具分开。R009说明保归还，不为380倒增库存；无新饮水或储能复满。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/伏笔与悬念台账.md",
+      "scope": "A27伏笔641—655及R009说明753—757的无新命名/后篇不前送原则",
+      "quote": "只得供能和外段检修工位，核心牵引未上电、三凹口片不锁／频率不插",
+      "scope_quote": "本轮无新增命名伏笔。",
+      "reason": "361同戳不同物主、366普通货挤后、367/368有限外轨、369循环与370热限均有兑现而不冒牵引成功。旧圈、责任夹与未核名单未因新交易结清。R009范围说明没有给A27补广播回应或新真相；后续节点只作保留边界，未审其本身。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/事件与地点时间线.md",
+      "scope": "A27时间线504—520；R009说明621—628仅旧章日次不改原则",
+      "quote": "邵砺携负载片／表／架及字牌实返。",
+      "scope_quote": "R009只修旧章表述与交接顺序，A21—A30全部D锚点保持原值。",
+      "reason": "361—370从D225至D239为15日，不把十章缩成十天。364分日下四宿再返三；契约D233交人、D234五层阅、D237三层回条与实际正文相合。367两日分运，368两日施工；369/370循环及热试分日，370借具归还。未将角色同一班放在闸侧与车端。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语与命名表.md",
+      "scope": "A27术语321—335；R009说明429—431中物件与能力不改",
+      "quote": "检修负载片／限流表／检修架 | 369邵砺当班自带工具，370外片给核心检修热面模拟低档发热，试毕收回",
+      "scope_quote": "核心、供能件、频率钥匙继续分开。",
+      "reason": "闻笛/邵砺只本地经手，货戳不代表整商团。临借套与成交装配套、黑线设备水与饮水、已售限流检修线与临借表架分清；温片只局部热警线，电池不是核心启动许可。“电池本人”删掉不产生新称谓。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/术语词典.md",
+      "scope": "A27词义172—182；R009说明277—279的无新术语与D索引保留",
+      "quote": "D239为供能及外接验配有限接受，不是399带载运行验收。",
+      "scope_quote": "无新增术语、提前命名或新增揭秘。",
+      "reason": "定义仍是本地旧供能、有限六包与设备水；370外负载模拟热不能报满载值，更非牵引运行。正文语言修订未改变这些定义、技术权限或作者D索引，未以旧圈和钥匙解释新的全网能力。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/逐章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/逐章卡.md",
+      "scope": "A27逐章实录209—230及R009范围说明300—302/本组行312",
+      "quote": "370／D239 | 外接片低档模拟热两试，断热改布、退到可比起点复试；外壁到警线断热、续循环排余热后停泵隔离。双方接受供能规格，工具实带返",
+      "scope_quote": "| 361—370 | 有电是否就能走 | 旧匣实到，外接有限热试与停序 | 六包0兑、短检仍欠、内驱动未验 | 两端如何低功耗报同一轮 |",
+      "reason": "十章实录逐行与最终正文对应，363孩子托面不移、364补工不销旧货、366有限约、367分运、368三成人分岗不等于三人轮肩、369只循环、370两试归具。R009兑现不超出有限供能和热试，下一篇人水灯待筹；不把规划山腹装配反写成车已穿封障。",
+      "verdict": "pass"
+    },
+    {
+      "path": "异星录/03_剧情架构/第四卷/十章篇章卡.md",
+      "candidate": "harness/maintenance/R009/writeback-candidates/十章篇章卡.md",
+      "scope": "A27总行17/出口46—48及R009范围55—57/本组67",
+      "quote": "六包0兑、2短检未做；D242新债／D244借物／D247檐／D248旧债分记",
+      "scope_quote": "| 361—370 | 有电是否就能走 | 旧匣实到，外接有限热试与停序 | 六包0兑、短检仍欠、内驱动未验 | 两端如何低功耗报同一轮 |",
+      "reason": "篇级兑现是本地现物验配、1匣入座、1枕2板实换与热限，非主车路通。无债普通货挤后和短检另欠的代价保留；371入口先筹真实双端人水灯，不把已经归棚的有限工班永占。原总览历史发布声明不在本次审签范围。",
+      "verdict": "pass"
+    }
+  ],
+  "freeze_record": "harness/maintenance/R009/writeback-freeze.json",
+  "freeze_sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a",
+  "method": "正文终审完成后，实际分段读取8候选对应A27/A28原行及R009范围说明；截断处另行补读，最后复核8文件SHA与本组正文SHA。非仅校摘要。",
+  "scope_limits": [
+    "只签本组十章及必要接口，不签301—400全历史。",
+    "其他篇章日次、结局与全卷已发布声明只见其范围，不作独立验收。",
+    "不修改任何共享候选或正文。"
+  ],
+  "technical_validation": {
+    "frozen_files_match": true,
+    "body_matches": true,
+    "quotes_match": true,
+    "file_checks_count": 8
+  }
+}

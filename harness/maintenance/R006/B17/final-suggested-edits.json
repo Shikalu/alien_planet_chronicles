@@ -1,0 +1,134 @@
+[
+  {
+    "issue_ids": [
+      "R006-B17-010"
+    ],
+    "chapter": 163,
+    "before": "借期写死：从借出之日到检修结束，泵复稳为止。",
+    "after": "两块表的借期写死：从借出之日到检修结束、泵复稳后新流路验讫。",
+    "reason": "资源台账A07表/器与175直接借据支持；只校两块表，不延芯格、人员，也不把181迟还写成获准续借。",
+    "scope": "authoritative_contract_alignment_not_renewal",
+    "source_sha256": "9c6150f208fbf1caad492f328094e458d5aaa129abf6ddd1c4845874beda058c",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-017"
+    ],
+    "chapter": 164,
+    "before": "交割上限的数，祝衡随当日的送水班先下塔去了——那份数要进两册，也要给四层转运点的照护位提个醒：旁路的脾气，接手的人得知道。",
+    "after": "祝衡随当日的送水班先下塔去了。六叔先前交给他的那份上限数，由他带回入册；给裴七的那份，照交班时说定的去向送到四层转运点。两份纸各有接手处，不能只在塔上抄完就算交清。",
+    "reason": "承接先前抄出的同两份，而不是再次启动同一交割；把篇幅用于已有去向与接收职责。",
+    "scope": "safe_expression_only",
+    "source_sha256": "693c9a4a0b342d2b6e28be8a3455617da1ba7f9db104aac275ee3b4da7035cca",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-020"
+    ],
+    "chapter": 165,
+    "before": "管里静了一息，回了两下——这两下不在码上，谁也没教过，可两头都听懂了。",
+    "after": "管里静了一息，回了两下——这两下不在码上，守着的人只把轻重和间隔记在原问句后头，没添意思。天亮核人时，连同那半拍一起问。",
+    "reason": "保留回应的温度，未释信号与前段半拍同样留待当面询问，不临造码义。",
+    "scope": "safe_expression_only",
+    "source_sha256": "d64b345fc3d295ebde4c0b5a08cc1d4505340cea6a910b3d3f290e590b4831c3",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-031"
+    ],
+    "chapter": 168,
+    "before": "让外缘的人知道，检修这三天，塔上是谁在守。",
+    "after": "让外缘的人知道，复稳后的试流两日，塔上是谁在守。",
+    "reason": "窗口已在D38—39，不能仍以检修三日作当前班。",
+    "scope": "safe_expression_only",
+    "source_sha256": "34ad2c2a6ffc65961d58ffd9edd1042514ab9e0168a507d5c3ecd4fc407a2482",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-031"
+    ],
+    "chapter": 168,
+    "before": "“这表，检修完了还贴着吗？”",
+    "after": "“这表，试流验完还贴着吗？”",
+    "reason": "提问与后面复稳/试流结束后的常日班接续，不扩能源五日。",
+    "scope": "safe_expression_only",
+    "source_sha256": "34ad2c2a6ffc65961d58ffd9edd1042514ab9e0168a507d5c3ecd4fc407a2482",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-033"
+    ],
+    "chapter": 168,
+    "before": "耗用表贴出去，塔上的人都看懂了：这五日的灯，是用芯格的电点着的——电有多少，灯就有多少。学徒想把值守房的灯换个亮些的芯，被庚二按住了：“表上写着的数，一根灯芯都别越过。越过去的不是亮，是后三日的黑。”",
+    "after": "耗用表贴在轮值表旁。学徒想把值守房的灯弄得亮些，被庚二按住了：“这一班照表用，已经耗了多少，就记多少。剩下的还得留作应急，不能先在灯上用掉。”",
+    "reason": "只收窄零基edit50：不命名电灯、不定灯芯结构、不保证后三日。现有灯与耗用动作足够承接；灯种、照护电源及032仍待裁。",
+    "scope": "partial_expression_fix_does_not_close_pending",
+    "source_sha256": "34ad2c2a6ffc65961d58ffd9edd1042514ab9e0168a507d5c3ecd4fc407a2482",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-036"
+    ],
+    "chapter": 169,
+    "before": "可她没走远——她坐在能看见勺的位置上，补了一下午的衣裳。",
+    "after": "可她没走远——开分时，她仍坐在能看见勺的位置上，一面补衣裳，一面看着照护组怎样起勺、记数。",
+    "reason": "不将傍晚首班伸成整个下午；保留已有补衣/守看两行动。",
+    "scope": "safe_expression_only",
+    "source_sha256": "771742dfc1a7ce799ed595ef9fb6b3f9aa4ff7fc880b6acae36469ab9236779d",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-036"
+    ],
+    "chapter": 169,
+    "before": "不平的话，白天在分口边上还有人说得更冲。",
+    "after": "这一班分水时，在分口边上还有人说得更冲。",
+    "reason": "接回当前首班，不新增白天另一班水。",
+    "scope": "safe_expression_only",
+    "source_sha256": "771742dfc1a7ce799ed595ef9fb6b3f9aa4ff7fc880b6acae36469ab9236779d",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-036"
+    ],
+    "chapter": 169,
+    "before": "傍晚收队的时候，坡口的阴影里站着两个人——戴面的。",
+    "after": "回看当日傍晚收队的时候，坡口的阴影里站着两个人——戴面的。",
+    "reason": "上段已经夜里收摊，补明同一傍晚的回叙，不转到次日。",
+    "scope": "safe_expression_only",
+    "source_sha256": "771742dfc1a7ce799ed595ef9fb6b3f9aa4ff7fc880b6acae36469ab9236779d",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-049"
+    ],
+    "chapter": 163,
+    "before": "这句话落到账桌上，就成了一道算术：上游定的量是死数，泵的耗是活数，管损是可减的数——三数相减，才是外缘这一路能做文章的全部余地。",
+    "after": "这句话落到账桌上，仍得照三本账逐项扣：上游来多少，先留足原住户应得的份，再扣泵耗和没有绕开的管损，剩下的才是外缘这一支能争的余地。旁路省回的是损耗，不能把原住户那份也算进去。",
+    "reason": "只展开162已经给出的计算口径，不添新数、不改六四比例。",
+    "scope": "safe_expression_only",
+    "source_sha256": "9c6150f208fbf1caad492f328094e458d5aaa129abf6ddd1c4845874beda058c",
+    "applied": false
+  },
+  {
+    "issue_ids": [
+      "R006-B17-050"
+    ],
+    "chapter": 168,
+    "before": "双签的规矩，是她跟原值班工当着庚二立的：",
+    "after": "双签的规矩，是她跟庚二当面立的：",
+    "reason": "后文明示原值班工就是庚二，只消除同人在场身份拆分。",
+    "scope": "safe_expression_only",
+    "source_sha256": "34ad2c2a6ffc65961d58ffd9edd1042514ab9e0168a507d5c3ecd4fc407a2482",
+    "applied": false
+  }
+]

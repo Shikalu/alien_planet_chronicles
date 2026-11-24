@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "writer": "R009-main",
+  "reviewer": "R009-reader-B39-B40",
+  "independent": true,
+  "body_first": true,
+  "batch": "R009-B40",
+  "round": "r2",
+  "manuscripts": [
+    {
+      "chapter": 391,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第391章_墙两边都要有人.md",
+      "sha256": "887e169f484c699a62cdb0654630d44a969a9626697b9783a33bae6307e6ed1b"
+    },
+    {
+      "chapter": 392,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第392章_第一道天光穿过来.md",
+      "sha256": "84274abfcda47f772f9c3a1390d5107a7f47b92a64d65a6f84a35d8c7b841893"
+    },
+    {
+      "chapter": 393,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第393章_六根枕木的路.md",
+      "sha256": "a469fce685b8eaca4f8c0aebeffc005b1c4738b0b4e3473201f0468a99bcd50e"
+    },
+    {
+      "chapter": 394,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第394章_热要有退路.md",
+      "sha256": "5f7c4b9a839d5248a76350ad92128423d44ee11d5c06f489f3eb8567e1ef0610"
+    },
+    {
+      "chapter": 395,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第395章_水那头只隔八个车身.md",
+      "sha256": "4c8696ec196c6acb447b33583caf7470f230da98e163480cf9922a9df9a910f5"
+    },
+    {
+      "chapter": 396,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第396章_先把空车送回来.md",
+      "sha256": "a3165c6d0d9d797a220dd36a3d9de30ca3c0b8b3b13d52da8ccd8608f56b4892"
+    },
+    {
+      "chapter": 397,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第397章_第一班不收船钱.md",
+      "sha256": "79d865bf51cdc99cb65e2aa9dcbb4df879cb4e6eda2c5893dea39be30e5d108a"
+    },
+    {
+      "chapter": 398,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第398章_报退的那一格.md",
+      "sha256": "67d6614bb19505ad37699f1dfc4a8f8efa18b2c4f2c484062f95eb0b825c4690"
+    },
+    {
+      "chapter": 399,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第399章_第一船货.md",
+      "sha256": "341d8397ffffa8d6a0a22fc5c67cc58604ec7f3665ef4d27e8c1a3d0511ed366"
+    },
+    {
+      "chapter": 400,
+      "path": "异星录/06_执行计划/工作区/R009-B40/第400章_那边先问有多少水.md",
+      "sha256": "3dd5af09f05991d6c038e5cf7733b1fa0e0c92859454b53807d608dd46395e38"
+    }
+  ],
+  "source_digest": "7327d111e79b906b5a12a4e0f113e7a4012bce9ed71c0879e1bb84b5cb50b7ea",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 391,
+      "quote": "先问哪一头还走得出去。",
+      "reason": "开头倒看图先问退路，把上章发话后的行动拉回仍堵塞的墙；内外是否能撤是立即可理解的危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 391,
+      "quote": "林渡把“里面全撤再开工”那句改掉。",
+      "reason": "他的原方案被勾连受力否定，选择承认错误、保持内侧观察与退路，而不是靠主角命令强拆。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 391,
+      "quote": "螺顶只接一部分可控重量，不把整座拱顶起来。",
+      "reason": "内侧独立支承真正落稳，已知受力关系改变，但主架和石没有被顺手清走；进展具体且有限。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 391,
+      "quote": "“先写今天回来了。”",
+      "reason": "原工受伤后按住少年预填下一班的手，工人的安全和拒绝权落到纸角这一动作，给借工账以人情重量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 391,
+      "quote": "下一次动手的人，必须先听见墙另一边的回答。",
+      "reason": "世界危险是两端勾连，人物下一步是带着实认双端岗退重；有明确工作方向而非泛称深处神秘。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 392,
+      "quote": "父亲没有认那道新墙。",
+      "reason": "拒认新墙立即提出父亲旧证词和新图的责任边界，读者会追问他究竟知道与隐瞒了什么。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 392,
+      "quote": "不拿新图替旧证词换页。",
+      "reason": "林渡坚持把新问答与原责任并列，不借更早封闭史洗父责；面对终于开路的希望仍不删不利事实。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 392,
+      "quote": "填墙中间最后一列碎砖取下来，一道天光从外口穿进主轨。",
+      "reason": "退架、移石、拆填墙的累积动作终于形成可见开口；枕木仍坏，兑现开门而没有虚报可行车。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 392,
+      "quote": "“后来知道没有接。没说。”",
+      "reason": "短而不辩解的自认让父子关系承受真实代价；他不让没问改成受骗，读者得到的不是轻易和解。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 392,
+      "quote": "下一次穿过去的重量，不能靠光来接。",
+      "reason": "天光的视觉回报紧接下陷枕的现实阻碍，自然把下一章期待转成怎样让车轮有实承面。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 393,
+      "quote": "麦穗把那根新枕木拖出来时，只拖动了包在外面的旧布。",
+      "reason": "失败动作和掌痂先出现，既是材料重量的尺度，也是少年想参与但不能顶成人的压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 393,
+      "quote": "重新清平底面，直到木底整片接触才收顶。",
+      "reason": "槐七退掉朽皮不硬凑垫片，角色选择让进度服从承重事实；麦穗辨坏皮实际影响了操作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 393,
+      "quote": "林渡在图上画了六个实勾，原坪外另有早装的一枕两板，彼此没有混算。",
+      "reason": "内六枕与外段分清，四新两干存真正用尽；不是再做一遍同样检修而毫无路径增量。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 393,
+      "quote": "“先认这只。刹车以后单教。”",
+      "reason": "阿九让孩子在明确边界内学会对号件，不把错误扩大为全面禁参与，也不因成长放开危险操作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 393,
+      "quote": "“轮子有地方落了。现在，该问热往哪儿走。”",
+      "reason": "轨路兑现后真正卡住推进的是尚分断冷却管，下一步问题有具体物件，不凭空加敌袭。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 394,
+      "quote": "空供能座露出来，阿九才第一次看清座底那道旧油印。",
+      "reason": "卸掉唯一大匣后才可见的新痕，既引出是否泄漏的悬念，也立即限定不能有备用匣替上继续试热。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 394,
+      "quote": "“能取清先取清。网眼蚀穿才换。别把孔戳大。”",
+      "reason": "阿九依据检查看是否更换而非把堵物随便戳通，有限修复以实际网损和对号件为代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 394,
+      "quote": "次日，三凹口片第一次落到原核心锁位。",
+      "reason": "清硬结、换蚀网、借宽盘管并补能后才发生锁位和内机低档空转，关键技术节点不是凭一次发热跳成能载客。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 394,
+      "quote": "一张写机器的短时限，一张写活人的实接日。",
+      "reason": "医者真正到来、脚跟减少磨擦与机器只获短时限并置，使工程目的落回孩子能否被持续照护。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 394,
+      "quote": "“下一回它要动，先把水那头的人叫齐。”",
+      "reason": "不能只靠机声出发；下一步要核水路与对端接护，人物行动和世界环境限制双重明确。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 395,
+      "quote": "铁页升起一指，闸后的水便从底缝挤出一道暗线。",
+      "reason": "真实开闸第一指便出现水流，立即区别此前短验位操作，危险和当班停止动作都在开头。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 395,
+      "quote": "林渡把未能触到的中间一小段留圈",
+      "reason": "他拒用完整旧图或已有接护意向填掉看不见的承重缺口；承认不知道直接决定下章无人试验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 395,
+      "quote": "她把接护纸上的“待运”压在角下",
+      "reason": "真闸有限开合、单脚干侧路和同陆接货台实际核到，但托面转不过去、中段仍留圈；认识和可行边界都变了。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 395,
+      "quote": "她两手不能同时提重，每回只带一壶",
+      "reason": "伤护者在八个车身间分次运水，让短水路仍值得修车的代价可见；林渡只腾干石休息，不假装伤臂能帮提。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 395,
+      "quote": "“先让没有人的车过去。它回得来，再说谁坐。”",
+      "reason": "下一步明确是无人车回收试验；r2点收后待次日送棚保证这项期待仍受灯的补能时间约束，未靠删空圈催进度。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 396,
+      "quote": "阿九踩下机械制动，车轮在原粉线前停住。",
+      "reason": "能自驱与必须停住同时出现，读者不是先读一页工账才知道今天要让车动；受伤操作脚也随即受考验。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 396,
+      "quote": "阿九没靠加档把它挤过去",
+      "reason": "车阶擦石时选择拆退已经裂的薄片而非强推，进度继续的代价是生活侧阶彻底失去。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 396,
+      "quote": "八个车身的水段，从此有一张真正来回过的记录。",
+      "reason": "从探杆触不到中段到无人车受双缆完成往返，获得实记录；只保小泵且人员全下车，不能冒认带人自驱验收。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 396,
+      "quote": "她本能想捡起来贴回车边。",
+      "reason": "麦穗想把掉下门阶拼回的动作让车损可感；随后包尖留损而不复原，进展仍有居住生活的失去。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 396,
+      "quote": "“先称东西。车空着能回来，不等于装上你弟弟还一样。”",
+      "reason": "空车成功后不是直接接孩子，载重、操作人和热况变成下一步必须解决的新风险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 397,
+      "quote": "四只壶摆上大秤时，谁也没提原先那六包货。",
+      "reason": "公共药水和欠债的先后冲突先通过物件上秤出现，随即交代原物权与不收船钱，不让数字脱离受益者。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 397,
+      "quote": "岑野把包收回，在最后那格旁留了空白，没有抢着写“接回”。",
+      "reason": "岑野承受不能陪弟弟上车的限制，转而学习实际回报；空白不是怯懦，而是拒把想要的回程当结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 397,
+      "quote": "两轮去、其中一轮返，共三次水段",
+      "reason": "净追加试限、全物先往返、合格后174伤药去岸形成可执行方案，放弃第四水段也改变团队留守位置。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 397,
+      "quote": "她没把自己的名字让给岑野。",
+      "reason": "姨母留在照护位置而非给少年让出冒险名额，弟弟抓袖又被接回体位，照护关系比英雄式陪乘更具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 397,
+      "quote": "等的还是候选日实测后的那声出发。",
+      "reason": "称重、补能、医者回条都不能替温线准行，下一章认岗与实测有必要性；孩子此时仍在原檐。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 398,
+      "quote": "小石看着自己刚抄的码，把“到台”念成了“报退”。",
+      "reason": "湿纸缺一划引出可致实运误判的具体异常，停在断能排演里发现问题，紧张感不靠制造真伤亡。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 398,
+      "quote": "“谁看见偏差，谁报。不等我。”",
+      "reason": "林渡将停令权落实到实际看见者，并拒把未来货主和广播口捆给商团，选择有代价且不是万能领导。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 398,
+      "quote": "管事不肯照此先垫更多处理水",
+      "reason": "换来非排他的逐批可查方案，却失去眼前更多水的诱惑；谈判改变了真实条件，不是空口赢了全部利益。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 398,
+      "quote": "小帘布叠着收在袋中，没有再给任何人当设备包布。",
+      "reason": "阿九在丢失生活柜睡铺后保住一个私人小物，下一步载人用途也须算重量，人物并未彻底成为工具人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 398,
+      "quote": "明日若不能走，报退那一格得先让等车的人看见。",
+      "reason": "群众可见的取消承诺与下一日真运紧相连；读者关心是否能出发，也关心谁会先知道失败。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 399,
+      "quote": "壶声他听不见。",
+      "reason": "首句药壶装车与闸侧视角分开，接着缺一尾短码必须重报；此时错认齐货就会影响实运，开篇压力直接。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 399,
+      "quote": "第一轮不卸货，伤护者也不接壶",
+      "reason": "眼看药已到岸仍坚持原物返检，拒把方便的交付冒充同重往返试验，体现对第二轮孩子安全的负责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 399,
+      "quote": "药水由伤护者逐件实收",
+      "reason": "180原物往返通过后174伤药单去，逐件收讫和孩子平抬上低台把几篇工程承诺落成真正交付。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 399,
+      "quote": "阿九朝车壳拍了一下，声音很轻：“那就把这趟记准。”",
+      "reason": "药送成、六包仍欠、新沟停运，轻拍车壳给出有限但真实的满足，不靠利润或喝彩抹去代价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 399,
+      "quote": "等原工明凉取轮套来比。",
+      "reason": "本地下一步是查新沟停运原因，同时398约过次日收听；局部交通不能常跑，外来联络也仍要核。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 400,
+      "quote": "监听口里有人叫了一声栈城。",
+      "reason": "开篇回应兑现旧呼叫悬念，随即声音被沙响冲掉且与水位锤交叠，不能急着当已认身份的正式外答。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 400,
+      "quote": "“本口不承诺来船供水。”",
+      "reason": "林渡在最想争取帮助时仍不夸大能力；与弥娅保原件、不押钥匙的选择一起限定可承诺的合作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 400,
+      "quote": "纸上多了两轮外来回读、一次改错、一组对方潮相、自报权限与尚未谈妥的会面条件。",
+      "reason": "经本端隔离、错点更正和换序复述后得到可重复外部联络；比390自听前进一步，却未变官方认可或来客抵达。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 400,
+      "quote": "这一句说完，弥娅才弯腰拾起折断的炭尖。",
+      "reason": "听到家乡格式先折炭，直到对方承认需双方继续测才拾起，克制动作让异乡联络的情绪与专业信任相连。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 400,
+      "quote": "“按我们真的能给的答。”",
+      "reason": "会面诱惑转为水食、人数、原件与路线怎样谈的具体追问；岸车仍停、借期仍近，结尾不消灭现实压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 399,
+      "quote": "林渡听完，在自己那页第一次划下交付的实勾。",
+      "reason": "391先筹双端退重，392开主口、393换枕、394热路、395真闸、396无人往返、397重设载限，399才以原物往返及伤药实收兑现第一船承诺；400另兑现390外来回应，航线全通与会面仍有明确未定边界。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 400,
+      "quote": "“你们有多少处理水？”",
+      "reason": "前段难度是有限工具与人的撤路，中段变为伤者承托、操作重和水上热况，后段新增公共急用与排他交易选择；运成又带导轮新沟、外来水食及保管权谈判，不是连续十章同一种修理。",
+      "verdict": "pass"
+    }
+  ],
+  "read_scope": "391—400 r2工作正文再次逐章全文阅读；不是只换digest。首读历史保持，r1失败另存。",
+  "scope_note": "52项仅评本十章持续追读，不签全书黄金开篇，不签401。吸引力pass不能替代冻结回填通过；B40-WB01另列。"
+}

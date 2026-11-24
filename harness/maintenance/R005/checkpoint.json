@@ -1,0 +1,888 @@
+{
+  "schema_version": 1,
+  "id": "R005",
+  "kind": "existing-prose-repair-checkpoint",
+  "date": "2026-11-07",
+  "status": "awaiting-author-decisions-and-further-review",
+  "release_allowed": false,
+  "authorization": "按照harness框架继续审核并修改101-150章",
+  "writer": "R005-main",
+  "editor_contributors": [
+    {
+      "editor": "01a1b3e5-2e99-7250-a488-9d8578ae325b",
+      "chapters": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "log": "harness/maintenance/R005/editor-131-150.json"
+    }
+  ],
+  "story_state": {
+    "last_published_chapter": 400,
+    "last_story_day": "D320",
+    "next_chapter": 401,
+    "next_batch": "A31"
+  },
+  "state_file_sha256": "f1206d1181449f2b03c410cfed5a9d0af84557c7db1cd702cbc57a63cc0cb9d3",
+  "baseline": {
+    "path": "harness/maintenance/R005/baseline.json",
+    "sha256": "f58760872455b1a006977d99e3248b46049362492ab5f2322b9ef0e5749a4736"
+  },
+  "context_note": "baseline.context为45项保护指纹，不能用清单长度声称全文件已读；实际阅读范围见各组独立报告及跨范围依赖。",
+  "work_manuscripts": [
+    {
+      "chapter": 101,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第101章_灯没有灭.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第101章_灯没有灭.md",
+      "before_sha256": "72cdca7553436c70ebaffff3862a53e007244991626e976c9a418e44880245bb",
+      "sha256": "014cdb954d1846ced0fb2266ffb563e0c108079aee9baceef6a19304d1cdd056",
+      "han": 2382,
+      "changed": true,
+      "edit_operations": 5
+    },
+    {
+      "chapter": 102,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第102章_下一根立柱.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第102章_下一根立柱.md",
+      "before_sha256": "522088b6c83761a836134a1323dd84b5c1ef393f8efa5ee244571576d4ea5ce2",
+      "sha256": "f32a0b5147d8d3c603a4af36d9b9ff5eaba065d75db97dee86a967d19440f964",
+      "han": 2362,
+      "changed": true,
+      "edit_operations": 4
+    },
+    {
+      "chapter": 103,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第103章_活人在门外.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第103章_活人在门外.md",
+      "before_sha256": "8f148a81b130385e974af62836548cc71e24fdfacdbd48d2d12566ea4b9c88bb",
+      "sha256": "f907ce5153999c2d98f63a0a24837dea2ac81e60270e3a8021d8baf8facd3d7c",
+      "han": 2221,
+      "changed": true,
+      "edit_operations": 8
+    },
+    {
+      "chapter": 104,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第104章_柜里装的是什么.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第104章_柜里装的是什么.md",
+      "before_sha256": "51597c58c9b4738505313b5b94c9aad0be342a9d3c851ef487d3a029855b8844",
+      "sha256": "97d0f9cfec8b8e0cfda5f560bfb72e3d571cd07db1d80b869063d3ec4f9738a2",
+      "han": 2256,
+      "changed": true,
+      "edit_operations": 10
+    },
+    {
+      "chapter": 105,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第105章_不把名字交给门.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第105章_不把名字交给门.md",
+      "before_sha256": "d2dcbbfaa17e0c3f20b2def560a9786d98cf971ad170d8e64b45aa1a46823db1",
+      "sha256": "5c01acd4ada4b43d42eed69a25033f3e6c072c43616ba33aca5d0267e00ab980",
+      "han": 2209,
+      "changed": true,
+      "edit_operations": 8
+    },
+    {
+      "chapter": 106,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第106章_坏尺留在册边.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第106章_坏尺留在册边.md",
+      "before_sha256": "211bc085b31fb26626b0df0b06eb6782e51ab1fd8d218d42c791ed92e9e8f8b3",
+      "sha256": "3ed59ed36af27c94a4c1f1ee7da957d4c0a21dd3b5d808802270e0fc06aa732e",
+      "han": 2284,
+      "changed": true,
+      "edit_operations": 7
+    },
+    {
+      "chapter": 107,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第107章_这班水.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第107章_这班水.md",
+      "before_sha256": "bb7d3a510044858b9f8e5430f8eec9b5248f02b9e7496b70db6d2f3f5a0b0728",
+      "sha256": "57b5b82d6f969f051002fa18d02ebea6d6c922e1ac1860c06eab2dcb304f7537",
+      "han": 2283,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 108,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第108章_水要有人送.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第108章_水要有人送.md",
+      "before_sha256": "93839b9ae17aafcd5cde7777d70c317ac2bb8d5556a2227c70bbeffaa9d649e8",
+      "sha256": "8913021b9fea527aa1c42338873057a44cf0742c784d9a1b03a52234f6c19dc3",
+      "han": 2303,
+      "changed": true,
+      "edit_operations": 14
+    },
+    {
+      "chapter": 109,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第109章_缝后的梯脚.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第109章_缝后的梯脚.md",
+      "before_sha256": "90902dc1d66ade7cba0d155c0b16dfa79b1d8a100788bf0c97f107301f9c729c",
+      "sha256": "5508406e887478a2833800d776e6a04434051111b1e78d56f35b7b945ae887a9",
+      "han": 2406,
+      "changed": true,
+      "edit_operations": 13
+    },
+    {
+      "chapter": 110,
+      "path": "异星录/06_执行计划/工作区/R005-B11/第110章_把照护写在交班上.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第110章_把照护写在交班上.md",
+      "before_sha256": "7dcafbfe43b8a3bea1b8d9a3635576f76a7cfae9680884fc8fff1047fd3c604d",
+      "sha256": "f84b465d91ddc2c59b0610096bdef350747c0a2bb13a0b4d55fcccf5a2002e5d",
+      "han": 2388,
+      "changed": true,
+      "edit_operations": 14
+    },
+    {
+      "chapter": 111,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第111章_不走来时的路.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第111章_不走来时的路.md",
+      "before_sha256": "105f87073c1945f0687f6ee58e73a52572f1323c05dd0f39f2f7e1e79b362e05",
+      "sha256": "51d076c524abce4beb10f8c4c9e1eda64bcf86fadd806473c4745000177c6eda",
+      "han": 2288,
+      "changed": true,
+      "edit_operations": 3
+    },
+    {
+      "chapter": 112,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第112章_梯上没有担架宽.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第112章_梯上没有担架宽.md",
+      "before_sha256": "c966c0151c124d8a29be7bbeab761a739bc18b6bf08b3a28f3e7f1f751a8bbdd",
+      "sha256": "21be1b32a85e4c3ee0f389d8c1db4a7b1569877fc58ce6c21083d8542cfd8523",
+      "han": 2401,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 113,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第113章_死人按不亮的灯.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第113章_死人按不亮的灯.md",
+      "before_sha256": "72de7f529a13fe3c6302333b30068f85578c5259bff444a806246be9654a50e6",
+      "sha256": "bd2dadf7f980c5a963aefc5e01918cb4a4f4c654143bebb759a5dac49005c22c",
+      "han": 2345,
+      "changed": true,
+      "edit_operations": 3
+    },
+    {
+      "chapter": 114,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第114章_把拒绝带回来.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第114章_把拒绝带回来.md",
+      "before_sha256": "d62b709c60e06a131f3ec1af5e7fe9d61d638f53d54fb48819f1db77db722a95",
+      "sha256": "ed00623586a9adefaae1dbf81cc380784d6d1ccf6c026bbcefd028a746a8e79f",
+      "han": 2316,
+      "changed": true,
+      "edit_operations": 10
+    },
+    {
+      "chapter": 115,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第115章_空担架先下.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第115章_空担架先下.md",
+      "before_sha256": "e38f9007a36d48045442b61f3ab08309e0a8660a1164d996f69ab335f55ea929",
+      "sha256": "92d47431ffa1ff0b41a0eb2fd5814581b2464ee7d681bc569b82b2d1bc43059f",
+      "han": 2333,
+      "changed": true,
+      "edit_operations": 11
+    },
+    {
+      "chapter": 116,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第116章_只换裂开的那块.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第116章_只换裂开的那块.md",
+      "before_sha256": "510a96efbfbce6141555bea3f728ea0664d35507b678ecdfc561d0e12dbb82e1",
+      "sha256": "36ca1790252dc5fad941cfae7df350f7ccabb84667e7a2ea66eff560ef6044ff",
+      "han": 2320,
+      "changed": true,
+      "edit_operations": 3
+    },
+    {
+      "chapter": 117,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第117章_谁留在最后一班.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第117章_谁留在最后一班.md",
+      "before_sha256": "67c3aa5d5f999a0e33fdaa957dda8dea91e958a46b3747da4fba411c7399de28",
+      "sha256": "fe3d2842dd4c1ec2556a4c1777a3925b4654cce9a3fc9bcb3cf313bfedba43a1",
+      "han": 2271,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 118,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第118章_先接水还是先接人.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第118章_先接水还是先接人.md",
+      "before_sha256": "087766f137e0109da24306af41a0a5e89ce8ec92b1ed25328bab454ba8727a32",
+      "sha256": "6da5556ced9c869b1adeaacc9a955423e6b81dc5d2a6a0bb626e33b5f55963a8",
+      "han": 2332,
+      "changed": true,
+      "edit_operations": 4
+    },
+    {
+      "chapter": 119,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第119章_盐湾不是口令.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第119章_盐湾不是口令.md",
+      "before_sha256": "2b5a43f354f1943a288a11643302def483a55d32cf78cba69dcc208a74eaf885",
+      "sha256": "dd8244713097b60524a81701a150faaf0160ed2d77ad4bd947456746da548449",
+      "han": 2243,
+      "changed": true,
+      "edit_operations": 3
+    },
+    {
+      "chapter": 120,
+      "path": "异星录/06_执行计划/工作区/R005-B12/第120章_下一处水从哪里来.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第120章_下一处水从哪里来.md",
+      "before_sha256": "3c068e7eabb97880af6ebf1e407ece3b5c427ae98f6f65a249d73525e7921db4",
+      "sha256": "0ab9950e427146b55e99838dc3cb03c3ea95c7c51377846b727ca76da58517c5",
+      "han": 2319,
+      "changed": true,
+      "edit_operations": 9
+    },
+    {
+      "chapter": 121,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第121章_工班不够两处用.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第121章_工班不够两处用.md",
+      "before_sha256": "19adc5d3f3e4526b8b02b712a2f6c4e1ae2b2c734e628a9214a26a16d4371999",
+      "sha256": "bce341062dc946ca208c65d79aa052e68d5915649860fde317693fc469c0d357",
+      "han": 2265,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 122,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第122章_滤槽下面.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第122章_滤槽下面.md",
+      "before_sha256": "df812170b1c080d50b196f3aed2c9910bcc505f417671db72664c43547224763",
+      "sha256": "33b2ef2eace6d08047c1abb6e8505ad3df2bac08669f3e0080946e7f9578152d",
+      "han": 2257,
+      "changed": true,
+      "edit_operations": 7
+    },
+    {
+      "chapter": 123,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第123章_一班能领多少.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第123章_一班能领多少.md",
+      "before_sha256": "ffd476708943b8e2fcd2b1665628e464c2483dcde376b04139f0476307ea99cd",
+      "sha256": "bfd46191b5776e1f8d0338a8941b1f4a51def5db894c2be0e8b891610c36c851",
+      "han": 2224,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 124,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第124章_死者领走的滤件.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第124章_死者领走的滤件.md",
+      "before_sha256": "6e77142c9c89025dc953d4a1a6634a7f45bc4c914f0c4839ab2002bcb4da2e29",
+      "sha256": "e60e3adac84755fd3551db2d131df9900de99b69ccf39760ade292ab65a2b0d9",
+      "han": 2216,
+      "changed": true,
+      "edit_operations": 4
+    },
+    {
+      "chapter": 125,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第125章_旧门牌没有注销.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第125章_旧门牌没有注销.md",
+      "before_sha256": "791648c3f0e1bf85759bf2c714e21316d79e45c888490b6582691e45886f92e6",
+      "sha256": "2ca630e45180ac651744229ce22e3c7f028f6686fa6e295f1f772ad09685bea0",
+      "han": 2236,
+      "changed": true,
+      "edit_operations": 7
+    },
+    {
+      "chapter": 126,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第126章_住进去之前.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第126章_住进去之前.md",
+      "before_sha256": "c47761afa3b8773fa45b6703f61a08a3cf2dda8c17b753606e81413d9f8ec963",
+      "sha256": "132e47164138633d7ec4c9739300b68b8d7726269550d980c8d7328d8bf459b5",
+      "han": 2261,
+      "changed": true,
+      "edit_operations": 7
+    },
+    {
+      "chapter": 127,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第127章_多出来的那一栏.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第127章_多出来的那一栏.md",
+      "before_sha256": "29b048ca48d128489b4600558b301b2294d969a3aa6d6c4c363754d6c3bfe05f",
+      "sha256": "af925b69acfa82ad1e1e3699e00cbaa529bd1d964b1ec30ca1354808a58022e2",
+      "han": 2281,
+      "changed": true,
+      "edit_operations": 4
+    },
+    {
+      "chapter": 128,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第128章_药柜不是赠品.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第128章_药柜不是赠品.md",
+      "before_sha256": "05120aa38d08c8857073209801f4287464d296d7632d4123fd07628253ca5672",
+      "sha256": "a096e27242491d7e3fff3d9bd086f5501bbbb493aa4b838c45d4047940711d5f",
+      "han": 2238,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 129,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第129章_槐七只指到转角.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第129章_槐七只指到转角.md",
+      "before_sha256": "5df9db0f456cabbb7b120c151c91ff0ada0f98a2bd397be5989deec6ef0d7a43",
+      "sha256": "8e543d38830cd4f7a6ee17097756a056f9675b572adf845fe852045157dcca60",
+      "han": 2208,
+      "changed": true,
+      "edit_operations": 8
+    },
+    {
+      "chapter": 130,
+      "path": "异星录/06_执行计划/工作区/R005-B13/第130章_留在棚里的人.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第130章_留在棚里的人.md",
+      "before_sha256": "431f267edee28bed83c724e25b10e84fd4a56bda9a250a8260f596b6ba26c132",
+      "sha256": "341e064418f7c8e69533293d02a8c267d38fac3bf6aa42174408cc2abe59c464",
+      "han": 2265,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 131,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第131章_向下的一段新路.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第131章_向下的一段新路.md",
+      "before_sha256": "e5e00e5a2326023095453cb48dc7cf5fcad4b13cdf0672a4981555109fd512bb",
+      "sha256": "6bae1e5c41f6536d9136eb750fb15d6b91a0590ae106157dc5849d5ee005b9c2",
+      "han": 2252,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 132,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第132章_谁在里头换班.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第132章_谁在里头换班.md",
+      "before_sha256": "f1051b7ef5aa9f588fc8495e503759774d2ab95e6fe5b0948925971e601a2624",
+      "sha256": "57c290c3778b783c46968768cb44bf9a27bdc521e74f42bb5cbd7f8f115e7818",
+      "han": 2236,
+      "changed": true,
+      "edit_operations": 14
+    },
+    {
+      "chapter": 133,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第133章_孔里先过空气.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第133章_孔里先过空气.md",
+      "before_sha256": "eb5a77cccd88fe88126f4b91bc6438fb3d725955d8550b6cb43a8df083031eea",
+      "sha256": "84d49efbbfe44e66e2cc58057df2624d40784377810d746efe5965295e9b5294",
+      "han": 2263,
+      "changed": true,
+      "edit_operations": 14
+    },
+    {
+      "chapter": 134,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第134章_面具后面的名字.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第134章_面具后面的名字.md",
+      "before_sha256": "e84b596568040a6fc20d7e3847873c089f4cd62b1be51616d0f05f1660451021",
+      "sha256": "42d444c55d94e041dc079bd51173fe265188792b3616a31c5c4a63a29dc2793e",
+      "han": 2214,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 135,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第135章_先听见咳嗽.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第135章_先听见咳嗽.md",
+      "before_sha256": "32e6d5738a29ac8c8eed5db67bd588c6d6c57831f9d42bd9f94fd9e8e3f93908",
+      "sha256": "38116bedaafa2ce3f7ed8ef46a51ea87a08dab45ebcef76ea962ab416885b015",
+      "han": 2247,
+      "changed": true,
+      "edit_operations": 8
+    },
+    {
+      "chapter": 136,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第136章_送水的人要喝水.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第136章_送水的人要喝水.md",
+      "before_sha256": "390a6e38352884493bfc6064462abe7ebb4161ab67dd499a40df053db4591574",
+      "sha256": "9ce5d5f9ba74497c232c8623055d4262e940426d131eed58626bb44484535fdb",
+      "han": 2392,
+      "changed": true,
+      "edit_operations": 2
+    },
+    {
+      "chapter": 137,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第137章_看见一只手.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第137章_看见一只手.md",
+      "before_sha256": "203ed903c9027f044763f6994541f03b9830ecf421a53f563682fc97eb30696a",
+      "sha256": "a457210ad2c41eecad18027ac472953102f4bdebe135da198d278ac8be2e7c3e",
+      "han": 2299,
+      "changed": true,
+      "edit_operations": 2
+    },
+    {
+      "chapter": 138,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第138章_两只匣子.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第138章_两只匣子.md",
+      "before_sha256": "dc194fb37da94a0bc035896b46bc0b340975190ba47e3204a6834f55f3a8b72e",
+      "sha256": "e51df388a3bd1bbf0ab5f0140188a0844fe78dbd246343479b8d2c583d9e856c",
+      "han": 2250,
+      "changed": true,
+      "edit_operations": 5
+    },
+    {
+      "chapter": 139,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第139章_让他们自己报.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第139章_让他们自己报.md",
+      "before_sha256": "bc38be24a2f39eb0365c7b3b327b2aa833ebccfdda687db5df84528b44cb14fc",
+      "sha256": "d0b8f5b65a265d56f4bec02b44243c4fd81da513602c327a27d904118ba06d67",
+      "han": 2298,
+      "changed": true,
+      "edit_operations": 2
+    },
+    {
+      "chapter": 140,
+      "path": "异星录/06_执行计划/工作区/R005-B14/第140章_门还没有开.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第140章_门还没有开.md",
+      "before_sha256": "172e7e6307f9917f46d61cb4336a61078c992a613c4789d4c552ed881b2f4800",
+      "sha256": "728b2cfe282f114512a0a098afdcae30f67a8640aa1ae8868104777bd35a3158",
+      "han": 2302,
+      "changed": true,
+      "edit_operations": 10
+    },
+    {
+      "chapter": 141,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第141章_先问活下来的人.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第141章_先问活下来的人.md",
+      "before_sha256": "6c576b4bc35d0f44b2a9ea12a9884c3215842c172b19fec9c149215bae71fb00",
+      "sha256": "924348a341330dc3590a2065ea0cea31c99da3604464e13d368871dd47767df7",
+      "han": 2247,
+      "changed": true,
+      "edit_operations": 1
+    },
+    {
+      "chapter": 142,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第142章_谁把门又封上.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第142章_谁把门又封上.md",
+      "before_sha256": "f07f40df59d527cc590d1d9f813193cef171940ccfa5e335a76da691d00a73be",
+      "sha256": "7d187449cf3e2ed702345c0badb37039086818cddf8a9b5368098be3504221ba",
+      "han": 2325,
+      "changed": true,
+      "edit_operations": 3
+    },
+    {
+      "chapter": 143,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第143章_工具也有主人.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第143章_工具也有主人.md",
+      "before_sha256": "5f6799e6ab6a0f2a0a8edf3705b47cdaafdadea327bfa4870a000a95e134c3c5",
+      "sha256": "4ebf99d378b8217a7e800d700f7c8f4de0c66f655ec1c1bf2ae4cd152cbd3587",
+      "han": 2283,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 144,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第144章_先卸哪边的重量.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第144章_先卸哪边的重量.md",
+      "before_sha256": "e2e8d094b472597bedae4c6c0d677cbe79c77c2b5a86c487533c6f715f8f3660",
+      "sha256": "eb0804e08195603c3529c34c13c1470097d8af3284ae065bbf256a1c1d87bad4",
+      "han": 2231,
+      "changed": true,
+      "edit_operations": 4
+    },
+    {
+      "chapter": 145,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第145章_名册和呼吸.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第145章_名册和呼吸.md",
+      "before_sha256": "36c33bb2c144f24483cd0a1798bfa4d04e78b248cbdeb9dd9068b04f8e213c63",
+      "sha256": "43bcb51079bf77ad7a09aeb1409ae956a8a26242097fc292949cf13aa4e190fb",
+      "han": 2294,
+      "changed": true,
+      "edit_operations": 3
+    },
+    {
+      "chapter": 146,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第146章_只够一个人过.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第146章_只够一个人过.md",
+      "before_sha256": "7c5d0d77a674a62126428feedb91ed6359eccb1a4a1bacbb33f33b7fb1022769",
+      "sha256": "ec17527910d672236ff6d94b80b35bb08ef636502280dc5274e4b740b769fda6",
+      "han": 2261,
+      "changed": true,
+      "edit_operations": 3
+    },
+    {
+      "chapter": 147,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第147章_空位不是多余的.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第147章_空位不是多余的.md",
+      "before_sha256": "0f40518db2e63f667216ae269e4e11972ae486fbc2adcb21f37b7e2589d62b79",
+      "sha256": "a4d949767388a1ad09e9110dae4840e1312c2db1a85dd8b6dd2b259643a3cd88",
+      "han": 2229,
+      "changed": true,
+      "edit_operations": 6
+    },
+    {
+      "chapter": 148,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第148章_没拿到的那一匣.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第148章_没拿到的那一匣.md",
+      "before_sha256": "dac4f98e09d2d50d14b5072b5e07c9c49f8c254fb45075191f1e77ec97fb833f",
+      "sha256": "4293e8a0b822facecdd5594fa53828b5088d3c996fa29fa74302deac2d778569",
+      "han": 2218,
+      "changed": true,
+      "edit_operations": 13
+    },
+    {
+      "chapter": 149,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第149章_同一天两种账.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第149章_同一天两种账.md",
+      "before_sha256": "dd2ade9540d001b05dbd5e166de7f0504a25a9775f98bfadb8cc743196e37ed9",
+      "sha256": "0bb66ee33b399d4d6092667a14942cb09571032b3c862814c6a09e3315f11197",
+      "han": 2324,
+      "changed": true,
+      "edit_operations": 12
+    },
+    {
+      "chapter": 150,
+      "path": "异星录/06_执行计划/工作区/R005-B15/第150章_死者的工时.md",
+      "published_path": "异星录/正文/第二卷_黑暗断阶/第150章_死者的工时.md",
+      "before_sha256": "f8684db4dd8a0f1ae910ada4e5f6337e720d118c8d380590faae2a5b22608138",
+      "sha256": "31f20efbdfc31156628d2c7353af8025cfd6d98a5f93262f776be830a42dacd0",
+      "han": 2345,
+      "changed": true,
+      "edit_operations": 4
+    }
+  ],
+  "work_digest": "2063b573aeacbd71cfa2204622ea3c9f539bd83c43470ef81dc6df2d01d92add",
+  "groups": [
+    {
+      "id": "B11",
+      "chapters": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "initial_digest": "affda7120e44856ce84c061d11fdfbfa4b82a6d0e16565048bd1a569fa4dd673",
+      "initial": {
+        "path": "harness/maintenance/R005/B11/initial.json",
+        "sha256": "716afc5a8edc80730b5cad9a9bac72b6cbaab6d0cfd7c9356ef347991881ec80",
+        "reviewer": "01a1b3d0-dd0f-76f2-9300-fb7115bccc61",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "affda7120e44856ce84c061d11fdfbfa4b82a6d0e16565048bd1a569fa4dd673",
+        "verdict": "issues"
+      },
+      "current_work_digest": "65a711609f94c3d9ece0b12e3d0cada4412269470c463c7f3eca2437c3d711d8",
+      "final_is_current_byte_bound": true,
+      "current_fact_verdict": "issues",
+      "final": {
+        "path": "harness/maintenance/R005/B11/recheck4.json",
+        "sha256": "eb9050a8ad059eb04e8e9665b2f28b30e7e750684cebf295335b1d63862a4237",
+        "reviewer": "01a1b3d0-dd0f-76f2-9300-fb7115bccc61",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "65a711609f94c3d9ece0b12e3d0cada4412269470c463c7f3eca2437c3d711d8",
+        "verdict": "issues"
+      }
+    },
+    {
+      "id": "B12",
+      "chapters": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "initial_digest": "c65101f165b9a3a36708003b958df0356b64a2e85fac8c19563f1c6b83daef19",
+      "initial": {
+        "path": "harness/maintenance/R005/B12/initial.json",
+        "sha256": "b09a72e83bc5484e6b6d461656261ac92cec3a785e75726fe30ca610490cd5f5",
+        "reviewer": "01a1b3d1-09ea-7151-b546-6ae6c92fcffd",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "c65101f165b9a3a36708003b958df0356b64a2e85fac8c19563f1c6b83daef19",
+        "verdict": "issues"
+      },
+      "current_work_digest": "85c1c48a8b48bd4dc9e2abf2011834d6baee2dd594931d93146d09bd0aeda7dc",
+      "final_is_current_byte_bound": true,
+      "current_fact_verdict": "issues",
+      "final": {
+        "path": "harness/maintenance/R005/B12/recheck2.json",
+        "sha256": "f3f688016f08c2e9d5bcd1781d8dca720a3bfe04955d0cafdb0789b886215dea",
+        "reviewer": "01a1b3d1-09ea-7151-b546-6ae6c92fcffd",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "85c1c48a8b48bd4dc9e2abf2011834d6baee2dd594931d93146d09bd0aeda7dc",
+        "verdict": "pending-author"
+      }
+    },
+    {
+      "id": "B13",
+      "chapters": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "initial_digest": "c61f905ebbf2d85e9d41e0da7fcd6d802fdc4fb5811608641ed16a7e94948021",
+      "initial": {
+        "path": "harness/maintenance/R005/B13/initial.json",
+        "sha256": "7147f96bb0f2c5b082bf95241024863465691923ed3a5cb65019093ed8e90a38",
+        "reviewer": "01a1b3d1-3470-7b93-ad0f-a59e85706fee",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "c61f905ebbf2d85e9d41e0da7fcd6d802fdc4fb5811608641ed16a7e94948021",
+        "verdict": "issues"
+      },
+      "current_work_digest": "848fefafafb798545c21c9cff918fabb584fe4a2f010c75cc4369d733a8165b9",
+      "final_is_current_byte_bound": true,
+      "current_fact_verdict": "issues",
+      "final": {
+        "path": "harness/maintenance/R005/B13/recheck3.json",
+        "sha256": "c3ab8d7a947f006b17b99ee1dfea920286a2df49bdb4432263d2897c2442264d",
+        "reviewer": "01a1b3d1-3470-7b93-ad0f-a59e85706fee",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "848fefafafb798545c21c9cff918fabb584fe4a2f010c75cc4369d733a8165b9",
+        "verdict": "issues"
+      }
+    },
+    {
+      "id": "B14",
+      "chapters": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "initial_digest": "f6060d11f191ee23fe388da0c9ad1e2a4d2cc5a2ccda4176547fefbfacc6d91f",
+      "initial": {
+        "path": "harness/maintenance/R005/B14/initial.json",
+        "sha256": "e9ddfac36b05932e5f2a6133bfefac43310269319f86c375e1a1200b09c23c6a",
+        "reviewer": "01a1b3d1-602d-7250-a7b5-639453b5a3f7",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "f6060d11f191ee23fe388da0c9ad1e2a4d2cc5a2ccda4176547fefbfacc6d91f",
+        "verdict": "issues"
+      },
+      "current_work_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed",
+      "final_is_current_byte_bound": true,
+      "current_fact_verdict": "issues",
+      "final": {
+        "path": "harness/maintenance/R005/B14/recheck3.json",
+        "sha256": "4372865d2dd3f721b96945cff0af2397823ddd4eba0dafcb21b63b3c404cb509",
+        "reviewer": "01a1b3d1-602d-7250-a7b5-639453b5a3f7",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed",
+        "verdict": "issues"
+      }
+    },
+    {
+      "id": "B15",
+      "chapters": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "initial_digest": "2c670cc0ea4557a616f05cb5d09d13f5d7d93400b5fe51c5ec6a2e1427bf1da0",
+      "initial": {
+        "path": "harness/maintenance/R005/B15/initial.json",
+        "sha256": "d80a3f5b0d502f10a7696aa3c36b0104b6de76119ff3ba5db4e105b7bcaea71b",
+        "reviewer": "01a1b3d1-8a65-75b2-8484-e2414b4db24b",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "2c670cc0ea4557a616f05cb5d09d13f5d7d93400b5fe51c5ec6a2e1427bf1da0",
+        "verdict": "issues"
+      },
+      "current_work_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+      "final_is_current_byte_bound": true,
+      "current_fact_verdict": "issues",
+      "final": {
+        "path": "harness/maintenance/R005/B15/recheck2.json",
+        "sha256": "4360018510039f59386ccd73721cb4cd9df4354125a3ca9602657e8b33106051",
+        "reviewer": "01a1b3d1-8a65-75b2-8484-e2414b4db24b",
+        "independent": true,
+        "body_first": true,
+        "input_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+        "verdict": "issues"
+      },
+      "supplementary_reviews": [
+        {
+          "path": "harness/maintenance/R005/B15/log-recheck.json",
+          "sha256": "2784b6844777bcf95c4a55ebb326763bd5cd9fa4410b97ecc9d1050ca743b7bf"
+        }
+      ]
+    }
+  ],
+  "reader_review_candidates": [
+    {
+      "group": "B11",
+      "path": "harness/maintenance/R005/B11/reader-review4.json",
+      "sha256": "397b37c9f8e705a7b9cfda45eb741466c572647303722d740eb59cd2d9a6b6ff",
+      "reviewer": "01a1b3d0-dd0f-76f2-9300-fb7115bccc61",
+      "verdict": "needs_revision",
+      "source_digest": "65a711609f94c3d9ece0b12e3d0cada4412269470c463c7f3eca2437c3d711d8",
+      "checks": 52,
+      "check_counts": {
+        "pass": 46,
+        "needs_revision": 6
+      },
+      "not_release_approval": true
+    },
+    {
+      "group": "B12",
+      "path": "harness/maintenance/R005/B12/reader-review2.json",
+      "sha256": "3e9b4b9860cac02a4fa8da48fd069c18677ca66a096854275c974b6190b85215",
+      "reviewer": "01a1b3d1-09ea-7151-b546-6ae6c92fcffd",
+      "verdict": "needs_revision",
+      "source_digest": "85c1c48a8b48bd4dc9e2abf2011834d6baee2dd594931d93146d09bd0aeda7dc",
+      "checks": 52,
+      "check_counts": {
+        "pass": 48,
+        "needs_revision": 4
+      },
+      "not_release_approval": true
+    },
+    {
+      "group": "B13",
+      "path": "harness/maintenance/R005/B13/reader-review3.json",
+      "sha256": "474ebfa05af89e6fedc7cf9a6ee0d8f561534ac4d3608d05fc5e3c040fc24afb",
+      "reviewer": "01a1b3d1-3470-7b93-ad0f-a59e85706fee",
+      "verdict": "needs_revision",
+      "source_digest": "848fefafafb798545c21c9cff918fabb584fe4a2f010c75cc4369d733a8165b9",
+      "checks": 52,
+      "check_counts": {
+        "pass": 46,
+        "needs_revision": 6
+      },
+      "not_release_approval": true
+    },
+    {
+      "group": "B14",
+      "path": "harness/maintenance/R005/B14/reader-review3.json",
+      "sha256": "8eeb1a8569e57dd8117f5db9174edee54df29410adb33d722ebdc52fa0200108",
+      "reviewer": "01a1b3d1-602d-7250-a7b5-639453b5a3f7",
+      "verdict": "needs_revision",
+      "source_digest": "fffee0ff56644a6830b709fb62bb0e09679b86a2a117fe125d2fb9331cdc31ed",
+      "checks": 52,
+      "check_counts": {
+        "pass": 46,
+        "needs_revision": 6
+      },
+      "not_release_approval": true
+    },
+    {
+      "group": "B15",
+      "path": "harness/maintenance/R005/B15/reader-review2.json",
+      "sha256": "6a87a6e12204a3eb9f4d5f166ee460fe54791bde84580640349789852b186063",
+      "reviewer": "01a1b3d1-8a65-75b2-8484-e2414b4db24b",
+      "verdict": "needs_revision",
+      "source_digest": "e0c1fe79ef881a99532adef8eb18cfd806b6d52ebd03b95f85d91bd58fb3c7bd",
+      "checks": 52,
+      "check_counts": {
+        "pass": 48,
+        "needs_revision": 4
+      },
+      "not_release_approval": true
+    }
+  ],
+  "issue_index": {
+    "path": "harness/maintenance/R005/issue-index.json",
+    "sha256": "45cb9f45e11c4bf215c1988f85f10477f8c8c67b7e5fe92d9a0cfca4d2457ffd"
+  },
+  "status_counts": {
+    "closed": 131,
+    "pending_author": 34,
+    "open": 11
+  },
+  "author_decisions": {
+    "path": "异星录/06_执行计划/设定决策/R005_待裁定事项.md",
+    "sha256": "318c1f6e55e39a464812d2b9f9f443fc4f8a14a684b14df4daa28b5b0ae2053f"
+  },
+  "author_approval_received": false,
+  "writebacks_applied": false,
+  "pending_record": {
+    "path": "harness/maintenance/R005/record.pending.json",
+    "sha256": "351d65b388582d899dc4c7dffef76d260cc6f8b21b94b756d7fd47ea989f95fe"
+  },
+  "reports": [
+    {
+      "path": "harness/maintenance/R005/十章连续性报告.md",
+      "sha256": "91f37a82e0986512884aa2fb0549edba530775834b279b72d63a3cc0c17a5d4c"
+    },
+    {
+      "path": "harness/maintenance/R005/五十章人物资源伏笔审计.md",
+      "sha256": "d5ace0d21133a9db8829b55ce78048e3e754392ad354c9e19b78d9eaf26bb141"
+    },
+    {
+      "path": "harness/maintenance/R005/跨范围依赖.md",
+      "sha256": "3ba1e1a5d53b00bc198fc0f6dfcc177fc9d3d8a961d8c1240449650ce7c422cb"
+    },
+    {
+      "path": "harness/maintenance/R005/回填候选.md",
+      "sha256": "40d4223b20525ead26550eb26a66af8937735e1722f550225385b681ddc4e73f"
+    }
+  ],
+  "verification": {
+    "draft_and_preservation": {
+      "path": "harness/maintenance/R005/validation/draft-and-preservation.json",
+      "sha256": "5547d0b042ffb7f296188529a605925ca100f02aa8a50b8326d12e3a78d1307e"
+    },
+    "project_check": {
+      "path": "harness/maintenance/R005/validation/project-check.json",
+      "sha256": "70fc925101e0c685e007f680d4e147f238afb588ff2e71e7cb61dba7f9085fb8"
+    },
+    "official_preservation": {
+      "path": "harness/maintenance/R005/validation/official-preservation-current.json",
+      "sha256": "f5a9f55b7b53b5c209cc43f696e40ec06b3f8391c6aea9f52b19e6783acf716b"
+    },
+    "reader_records": {
+      "path": "harness/maintenance/R005/validation/reader-record-checks.json",
+      "sha256": "377845785c00b50daed9061ab98ccc9cfd1da1644bd3463ac635f47bbee27036"
+    },
+    "pending_repair_rejected": {
+      "path": "harness/maintenance/R005/validation/verify-repair.pending.json",
+      "sha256": "306b5761461d582e74790fb746c2dbaca5fb0830e1b7cb041f9087d4233b0a07"
+    }
+  },
+  "next_steps": [
+    "先核工作稿和独立报告SHA，不沿用旧稿pass",
+    "先区分可按硬事实直接纠错与真正需作者选择的方案，C01—C10未获新批准",
+    "仅修改受影响工作稿并让独立读者读实际新字节；保留问题历史",
+    "事实与吸引力都通过后实际回填六表及章卡、完成repair验证；不调用续写close",
+    "维持400/D320，下一401/A31；未审范围不得补签"
+  ],
+  "editorial_log_corrections": {
+    "path": "harness/maintenance/R005/log-corrections.json",
+    "sha256": "5c65f74bdd0c3358dbc6320cd5adce5f53fb86311c476c476b5db38ff253e4c1"
+  }
+}

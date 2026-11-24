@@ -1,0 +1,133 @@
+{
+  "manuscripts": [
+    {
+      "chapter": 161,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第161章_从四层抬头看塔.md",
+      "sha256": "eeb9d6fdc1f1119d66d9b68769318e3defb6daf70599c2c41a4512d794cae9d7"
+    },
+    {
+      "chapter": 162,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第162章_上去的人少一半.md",
+      "sha256": "ccb892c3fef9a4ce0f275014f13902c5caf8a9ea5659a4171bc20c2cf4da22b4"
+    },
+    {
+      "chapter": 163,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第163章_借表不借答案.md",
+      "sha256": "06d4200d32f0dbc7b34bb8e1194b42f8912e1bcb2a2bca03651bb0f31cedaeff"
+    },
+    {
+      "chapter": 164,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第164章_先让泵停稳.md",
+      "sha256": "08501138d3d226e03a9b5c777668eabe21e10ae3b0137734bf8ce67f488da13c"
+    },
+    {
+      "chapter": 165,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第165章_声音经过两根管.md",
+      "sha256": "b57ae61ebeb32499f61ac27ab9b5f712a19891dc70aa3bc9c0e7f05468440fa0"
+    },
+    {
+      "chapter": 166,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第166章_敲击者.md",
+      "sha256": "a0d735c7220e5c2907cb2b4d1eebdeb8a6d47955300e0ef33a591a3e3cd7773c"
+    },
+    {
+      "chapter": 167,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第167章_他们还在下面.md",
+      "sha256": "e1bc19adeaca5e1a40517a33ab817929ba9e3d4682203d3bc82e58d55edec66d"
+    },
+    {
+      "chapter": 168,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第168章_轮值表贴在哪里.md",
+      "sha256": "dddcfa028365054f9c7456e27a776074b6373096f949f311980602646a481fc9"
+    },
+    {
+      "chapter": 169,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第169章_谁先喝这一班.md",
+      "sha256": "af3259acd8dbfb2cb40148b306d73157091c0eb159e628e5ddccafce4f8fd7ad"
+    },
+    {
+      "chapter": 170,
+      "path": "异星录/06_执行计划/工作区/R006-B17/第170章_塔没有换主人.md",
+      "sha256": "2e1d070ef424c5c2de5d3cf8b6cd0d78821c4b7e2fd8a7da5b5cde21a7ea4f39"
+    }
+  ],
+  "source_digest": "829f170fa2044c9bdb7a3049f6afb27a509de3c9be6720f69250861914d73c96",
+  "previous_source_digest": "189bac9f8f55fd0cbe8946377459481de65a47c8938ef5a2711794a8f8ea0cb1",
+  "reviewer": "01a1b471-6c35-7321-ab02-bfb79da42b6a",
+  "read_scope": {
+    "kind": "targeted_short_rereview_not_new_blind_read",
+    "targeted_chapter_ranges": [
+      {
+        "chapter": 164,
+        "lines": "55—75"
+      },
+      {
+        "chapter": 169,
+        "lines": "1—6、43—67"
+      }
+    ],
+    "full_chapters_reread_this_round": [],
+    "unchanged_chapters_hash_only": [
+      161,
+      162,
+      163,
+      165,
+      166,
+      167,
+      168,
+      170
+    ],
+    "exact_edit_only_verified_by_reverse_hash": [
+      164,
+      169
+    ],
+    "prior_full_read_evidence": [
+      "harness/maintenance/R006/B17/final.json",
+      "harness/maintenance/R006/B17/final2.json"
+    ]
+  },
+  "exact_edits_verified": [
+    {
+      "issue_ids": [
+        "R006-B17-017"
+      ],
+      "chapter": 164,
+      "before": "旁边就是祝衡带回的上限数。",
+      "after": "旁边就是送水班带回的那份上限数。",
+      "reason": "沿用前段送水班给裴七的既有一份，不混成祝衡入册那份；不增抄件。"
+    },
+    {
+      "issue_ids": [
+        "R006-B17-036"
+      ],
+      "chapter": 169,
+      "before": "把白天坡口的事想了一夜",
+      "after": "把前一日坡口的事想了一夜",
+      "reason": "首班明确傍晚；只清理回顾措辞，保留同一次分水、隔夜思考及次日报名。"
+    }
+  ],
+  "frozen_evidence": {
+    "d32-reorder-plan.json": "3bbf77f928712894e4f8726666e2fe83afa8e72960f2d2094a0bd410710216c2",
+    "final2-reader-notes.md": "f60a7af8664b692b42c0fb7a2b0e3cb993b67ae3cd02f45b8270e5920714e1e1",
+    "final-suggested-edits.json": "8a60715c12ba6cd84955bd1642b7927a8a28b036507c0206238576ef3221f539",
+    "initial.md": "a62f730e1dff722f3365e69ca307fe76f2e61c91e5f63c5af8ed0e0a05f57815",
+    "final2-suggested-edits.json": "52683b21038ca4b3291fc2e25aa91d3d975eb0a5f6fc4e6fad02d4b1db7bbce5",
+    "reader-review2.json": "b7171894c6008bf4ea25fa312d34c638f182a4831750b37310395edbc3102fbc",
+    "final-read-manifest.json": "3c2486c52c383769ff7237b773f2171e63d38f19f5d5337ecd9680ee1af443e2",
+    "initial-validation.json": "50326ca1976bbe08f699fb02d799d99fc4d04f5ed7e4f7052f23c95358574636",
+    "d32-reorder-plan.md": "8323f0c4d6e5d15043172cfbb1d493e0a72ca1380fbfb373a53bb288744fcb26",
+    "reader-review.json": "22f6ee025dbcc785f5888d1802b273078d438b78be92c341d7647c86459be5c0",
+    "first-read-manifest.json": "d44315d0ccfd7d674bc51efeef1557151037fa9018e8a28945a90b79e5776297",
+    "final-validation.json": "bb17d49cdeaddf60ace9d33c0a64d0543c24702453a0b940d5a580f3fd031f16",
+    "final2-read-manifest.json": "0aaaaf7bb425a45599cea5f049032290d5ddc0264c1861bc00640b89b3b5f3c9",
+    "final2-validation.json": "1cec4542c63989ce234274b86e161682cfa42c0e9a82f5d9225c1283f1b889d4",
+    "final2.md": "2f22a4be586f3ab1ea7046a978c2a1b5fa273cf9c938baceb391b1421addebc1",
+    "initial-reader-notes.md": "07147bd2bd2c82cf184d6f05448301b07f631fc1a144b08cadd4e25c51023b46",
+    "final.md": "be034a71359be987bc6055d143ffcc1b33277ced6493590fa910c96816ed84d4",
+    "suggested-edits.json": "fa2821956e3fcf75f6a001b54cce041e627e747a1af2a546e6f7f0d0b8ab7667",
+    "final2.json": "a9c7f09740ca6d529531ae0ad68e901541f2128d345624074a1079f98924b8c7",
+    "final.json": "e8aa437f0948211ab3fc5634b058731b833524678996797b5249096f6f322919",
+    "initial.json": "e841c82f9452129adbbfe701df6f059a95f10cfeff535c127c52eb2cab60adac",
+    "final-reader-notes.md": "39efc176d86b346b806cd84cdc7ade8619abffa17ff4c13bab17999094eeac89"
+  }
+}

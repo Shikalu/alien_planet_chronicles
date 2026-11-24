@@ -1,0 +1,878 @@
+{
+  "batch": "R003/B03",
+  "role": "repair_editor_not_independent_reviewer",
+  "editor_id": "01a1a6ed-c354-7a42-834b-384be282fd19",
+  "initial_reviewer": "01a1a6ee-37a2-76e3-87db-4bf9c998072d",
+  "initial_path": "harness/maintenance/R003/B03/initial.md",
+  "initial_issues_path": "harness/maintenance/R003/B03/initial-issues.json",
+  "initial_issues_sha256": "43d475fc2a3f0bebf98eac14b25de2d8a732cd73754586f94c0dc963e740b959",
+  "initial_report_sha256": "b650c11ea036d521c1bda13e8ae8e583929dd63d673974b27ed9da45c0e68cad",
+  "initial_input_digest": "7733bb53f3d2fa4468377c1d3d6a2f8745524b36a5a44f3e26e00b61d6a14916",
+  "chapters": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "initial_issue_count": 19,
+  "working_manuscripts": [
+    {
+      "chapter": 21,
+      "published_path": "异星录/正文/第一卷_热海坠城/第021章_被占的冷凝站.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第021章_被占的冷凝站.md",
+      "before_sha256": "f547eccd1411d6a39879ef71b2722f381d64937f5fc4e6b7aa49f8886bc0f646",
+      "after_sha256": "4af5c2eb6cf23738893dbb49c214f33361b5c8dcd0889d2be19d29d8a2a585d9",
+      "before_han": 2485,
+      "after_han": 2491
+    },
+    {
+      "chapter": 22,
+      "published_path": "异星录/正文/第一卷_热海坠城/第022章_三条街的水票.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第022章_三条街的水票.md",
+      "before_sha256": "36832c95e646e35a9ab28e133e92217ea3ff7079dc2611fb5f5b942a3441b6e4",
+      "after_sha256": "cbbf0e7dc401a9acd64db1f1664582bddec77802e3b80c2e167b705aa48bac4b",
+      "before_han": 2395,
+      "after_han": 2400
+    },
+    {
+      "chapter": 23,
+      "published_path": "异星录/正文/第一卷_热海坠城/第023章_测潮第一次救人.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第023章_测潮第一次救人.md",
+      "before_sha256": "1d16657b17b46cec297e418216f56e111be25287712868aa2f9fcc42d7973c98",
+      "after_sha256": "1d16657b17b46cec297e418216f56e111be25287712868aa2f9fcc42d7973c98",
+      "before_han": 2407,
+      "after_han": 2407
+    },
+    {
+      "chapter": 24,
+      "published_path": "异星录/正文/第一卷_热海坠城/第024章_神罚传单.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第024章_神罚传单.md",
+      "before_sha256": "a8897e89f0c7bed031f160890a3a39bc781320aa87d8857350796b1347132589",
+      "after_sha256": "bdbacaca997f491b6f44759f7da5d09031a0f0f4a2c5995a0450f36eb783898a",
+      "before_han": 2378,
+      "after_han": 2318
+    },
+    {
+      "chapter": 25,
+      "published_path": "异星录/正文/第一卷_热海坠城/第025章_被改过的记录.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第025章_被改过的记录.md",
+      "before_sha256": "fe13da082660be54e6b3b823799d8e819a8e154d019015f4ee96793efff3d928",
+      "after_sha256": "f0a32355ea6de5bab889a9cd397c75359081f547e05e37838ada51713c37b099",
+      "before_han": 2519,
+      "after_han": 2496
+    },
+    {
+      "chapter": 26,
+      "published_path": "异星录/正文/第一卷_热海坠城/第026章_废弃货运坡道.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第026章_废弃货运坡道.md",
+      "before_sha256": "98223d75571cdfe5c8eb040c441837db42b7c463b5ed19fd6f27b29e17db65be",
+      "after_sha256": "74666e85c76fc06e0e5dbbf2aba1ef919fc60347045d592b9002d960fe664e25",
+      "before_han": 2653,
+      "after_han": 2607
+    },
+    {
+      "chapter": 27,
+      "published_path": "异星录/正文/第一卷_热海坠城/第027章_黑布标记.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第027章_黑布标记.md",
+      "before_sha256": "5d34ce4ae47c99e9bea6b2bd65ac303780ffa0078d7b0d65c8cad21c0f52e082",
+      "after_sha256": "001a34090359ac87178dbec73bb105d4ebbc06d8176744bf74a8b31477bb74ae",
+      "before_han": 2588,
+      "after_han": 2585
+    },
+    {
+      "chapter": 28,
+      "published_path": "异星录/正文/第一卷_热海坠城/第028章_暂时放行.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第028章_暂时放行.md",
+      "before_sha256": "446d5347003963b85860687df85ff700b2e393e20d4d9770cfbebc537da32f04",
+      "after_sha256": "53ce0a549faae984dcc3c8372fadcecd0e4aa1c0369320f6d2fc9a7d009c8227",
+      "before_han": 2464,
+      "after_han": 2481
+    },
+    {
+      "chapter": 29,
+      "published_path": "异星录/正文/第一卷_热海坠城/第029章_第二道木闸.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第029章_第二道木闸.md",
+      "before_sha256": "ba22d43e592fe4b98a8db9f8859d3e5fea46ffbde543ae6ef8598367dcbc635f",
+      "after_sha256": "465eb869a5e9273a5f215b444330d06e2a014f12c0f420c94296823e0d2b954d",
+      "before_han": 2616,
+      "after_han": 2618
+    },
+    {
+      "chapter": 30,
+      "published_path": "异星录/正文/第一卷_热海坠城/第030章_水票册.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B03/第030章_水票册.md",
+      "before_sha256": "72ca6b2c495fbe7fb1114528536e0453f77264fb08dd74495674d67b1874dd87",
+      "after_sha256": "d13b2b7227f225b155d1f16f1e38d818b6380f0fad0d5220e63b5bf24ad6668e",
+      "before_han": 2512,
+      "after_han": 2481
+    }
+  ],
+  "changed_chapters": [
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "issues": [
+    {
+      "id": "B03-I01",
+      "chapter": 27,
+      "severity": "严重",
+      "status": "pending_author_decision",
+      "resolution": "继承B04-C01人数范围争议。第27两处及第30二十四人说法逐字保留；不按登记数重定义现场总人数，不入册、减员或改数抵销。等待作者裁定及具名口径审计。",
+      "before_quote": "林渡请杜姨把临时账摊在轨旁。主队二十一人和另三名本地伤员，眼前合计二十四；五名失联者单列在另一边，家属补的是他们的名字，不是又来了五个人。杜姨用一条炭线隔开应答过的人和待找的人，房车另画空圈，不算人头。",
+      "after_quote": "林渡请杜姨把临时账摊在轨旁。主队二十一人和另三名本地伤员，眼前合计二十四；五名失联者单列在另一边，家属补的是他们的名字，不是又来了五个人。杜姨用一条炭线隔开应答过的人和待找的人，房车另画空圈，不算人头。",
+      "requires_decision": true,
+      "initial_fact_change_required": true,
+      "dependencies": [
+        "B04-C01"
+      ],
+      "edits": []
+    },
+    {
+      "id": "B03-I02",
+      "chapter": 21,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "将林栖已有记忆与身份判断落实为当场说给林渡的低声台词，未新增履历或扩大知识权限。",
+      "before_quote": "林栖的手指一紧。这个名字她在黑纸边角见过，教团祭司，能让一条街的人为一句神罚排队。",
+      "after_quote": "林栖的手指一紧，低声对林渡说：“我在黑纸边角见过她的名字。教团祭司，能让一条街的人为一句神罚排队。”",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "林栖的手指一紧。这个名字她在黑纸边角见过，教团祭司，能让一条街的人为一句神罚排队。",
+          "after_quote": "林栖的手指一紧，低声对林渡说：“我在黑纸边角见过她的名字。教团祭司，能让一条街的人为一句神罚排队。”"
+        }
+      ]
+    },
+    {
+      "id": "B03-I03",
+      "chapter": 22,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "明确箱内余水为询问对象、一杯半是向扣水巡查故意虚报；既定三份库存、杯盏和分配不变。",
+      "before_quote": "阿九把刻线铜杯塞到林渡手里：“要是他们问容量，就说一杯半。多一滴都算抢。”",
+      "after_quote": "阿九把刻线铜杯塞到林渡手里：“要是他们问箱里还剩多少，就虚报一杯半。多一滴都算抢。”",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "阿九把刻线铜杯塞到林渡手里：“要是他们问容量，就说一杯半。多一滴都算抢。”",
+          "after_quote": "阿九把刻线铜杯塞到林渡手里：“要是他们问箱里还剩多少，就虚报一杯半。多一滴都算抢。”"
+        }
+      ]
+    },
+    {
+      "id": "B03-I04",
+      "chapter": 24,
+      "severity": "轻微",
+      "status": "edited_pending_final_review",
+      "resolution": "删除连续信任译意与强迫表态辩护，保留送碗、折纸、不要求感谢和不公开指认的动作及居民态度。",
+      "before_quote": "林渡没有叫他谢谁，只让他把碗交给身后坐着的人。信任不是分水时能一并收回的东西；眼下能少一次推搡，就多一点水真正进到伤员嘴里。",
+      "after_quote": "林渡没有叫他谢谁，只让他把碗交给身后坐着的人。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "林渡没有叫他谢谁，只让他把碗交给身后坐着的人。信任不是分水时能一并收回的东西；眼下能少一次推搡，就多一点水真正进到伤员嘴里。",
+          "after_quote": "林渡没有叫他谢谁，只让他把碗交给身后坐着的人。"
+        },
+        {
+          "before_quote": "少年将碗送到伤员手里，又回来捡起地上的传单。他没有当众撕掉，只把带红圈的一面折了进去。林渡看见了，也没有叫大家看他；逼一个刚挨过骂的人表态，并不会使下一个等水的人更敢靠近。",
+          "after_quote": "少年将碗送到伤员手里，又回来捡起地上的传单。他没有当众撕掉，只把带红圈的一面折了进去。林渡看见了，也没有叫大家看他。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I05",
+      "chapter": 24,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "沿用本章已用于抄名单的炭笔，在同一铜杯底画记号，去掉指甲刻铜面的无物性依据写法；不新增工具、附着层、杯子或水量。",
+      "before_quote": "收水壶里的余水继续下降。最后几盏水分完时，抱孩子的女人把空杯还给阿九，杯底多了一道用指甲刻出的短线。她说这是自己家今天的账，不能再让谁替她改。",
+      "after_quote": "收水壶里的余水继续下降。最后几盏水分完时，抱孩子的女人借过炭笔，在杯底画下一道短线，再把空杯还给阿九。她说这是自己家今天的账，不能再让谁替她改。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "收水壶里的余水继续下降。最后几盏水分完时，抱孩子的女人把空杯还给阿九，杯底多了一道用指甲刻出的短线。她说这是自己家今天的账，不能再让谁替她改。",
+          "after_quote": "收水壶里的余水继续下降。最后几盏水分完时，抱孩子的女人借过炭笔，在杯底画下一道短线，再把空杯还给阿九。她说这是自己家今天的账，不能再让谁替她改。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I06",
+      "chapter": 24,
+      "severity": "轻微",
+      "status": "edited_pending_final_review",
+      "resolution": "将漏光指向第25章已存在的仓内应急灯；不新增燃烧、供能或测潮能力。",
+      "before_quote": "林渡看向弥娅。弥娅没有看传单，只是望着电池仓门缝里微弱的热光。她把耳朵贴到门板上。",
+      "after_quote": "林渡看向弥娅。弥娅没有看传单，只是望着电池仓门缝里漏出的应急灯光。她把耳朵贴到门板上。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "林渡看向弥娅。弥娅没有看传单，只是望着电池仓门缝里微弱的热光。她把耳朵贴到门板上。",
+          "after_quote": "林渡看向弥娅。弥娅没有看传单，只是望着电池仓门缝里漏出的应急灯光。她把耳朵贴到门板上。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I07",
+      "chapter": 25,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "仅否定门缝正对的空架存量，不再断言整仓无电池；本机备用蓄电池供锁、小接头用途、废储片来源均未改。",
+      "before_quote": "门只开到半人宽，里面没有电池，只有一排被拆空的金属架。墙面贴着旧维修记录，最上面的日期是七年前，最下面一张却盖着今天的蓝章。",
+      "after_quote": "门只开到半人宽，门缝正对着一排被拆空的金属架，那排架子上没有电池。墙面贴着旧维修记录，最上面的日期是七年前，最下面一张却盖着今天的蓝章。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "门只开到半人宽，里面没有电池，只有一排被拆空的金属架。墙面贴着旧维修记录，最上面的日期是七年前，最下面一张却盖着今天的蓝章。",
+          "after_quote": "门只开到半人宽，门缝正对着一排被拆空的金属架，那排架子上没有电池。墙面贴着旧维修记录，最上面的日期是七年前，最下面一张却盖着今天的蓝章。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I08",
+      "chapter": 25,
+      "severity": "轻微",
+      "status": "edited_pending_final_review",
+      "resolution": "保留林栖核笔线、分纸与不归名决定，林渡只查粉末并记待检；删除再次叠纸分纸和重复结论，观察与未归责状态不变。",
+      "before_quote": "林渡把两张纸叠在一起。蓝章边缘沾着细白粉末，颗粒和先前管槽边见过的析出物相近。他捏着纸角抬到灯下，白色颗粒没有被指腹碰掉，纸背却留下一道短短的湿痕。他把两张纸重新分开，在维修记录背面补了“粉末待检”，没有把沈乌的名字接到同一行。",
+      "after_quote": "林渡把维修记录抬到灯下。蓝章边缘沾着细白粉末，颗粒和先前管槽边见过的析出物相近。白色颗粒没有被指腹碰掉，纸背却留下一道短短的湿痕。他在维修记录背面补了“粉末待检”。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "林渡把两张纸叠在一起。蓝章边缘沾着细白粉末，颗粒和先前管槽边见过的析出物相近。他捏着纸角抬到灯下，白色颗粒没有被指腹碰掉，纸背却留下一道短短的湿痕。他把两张纸重新分开，在维修记录背面补了“粉末待检”，没有把沈乌的名字接到同一行。",
+          "after_quote": "林渡把维修记录抬到灯下。蓝章边缘沾着细白粉末，颗粒和先前管槽边见过的析出物相近。白色颗粒没有被指腹碰掉，纸背却留下一道短短的湿痕。他在维修记录背面补了“粉末待检”。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I09",
+      "chapter": 26,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "前置后文已有汇合点与房车避开最窄闸口的分路理由，区分闸前人行段与闸后积水危险段；不新增道路或窗口。",
+      "before_quote": "林渡把三条线路依次点给众人：“车走靠山铁轨，人走中间木槽；海侧水沟封住，不走人，也不停车。”",
+      "after_quote": "林渡把三条线路依次点给众人：“车走靠山铁轨，人走中间木槽，只到前面并回铁轨的汇合点，不去闸后。房车别占住最窄的闸口；海侧水沟封住，不走人，也不停车。”",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "林渡把三条线路依次点给众人：“车走靠山铁轨，人走中间木槽；海侧水沟封住，不走人，也不停车。”",
+          "after_quote": "林渡把三条线路依次点给众人：“车走靠山铁轨，人走中间木槽，只到前面并回铁轨的汇合点，不去闸后。房车别占住最窄的闸口；海侧水沟封住，不走人，也不停车。”"
+        }
+      ]
+    },
+    {
+      "id": "B03-I10",
+      "chapter": 26,
+      "severity": "轻微",
+      "status": "edited_pending_final_review",
+      "resolution": "保留空试发现悬角、调整再试、运人及膝伤；只删安全选择辩护和第二次横线非路距解释，保留首次比例提醒及描图新信息。",
+      "before_quote": "阿九扶着肿起的膝盖蹲下，挪正那一角，重新拧紧固定的螺栓。林渡试过后才招手让伤员来。少走这一次空路能省几口喘息，真把担架送到半途，才发现承托不实，就得让躺着的人替他们承受这点省下来的力气。",
+      "after_quote": "阿九扶着肿起的膝盖蹲下，挪正那一角，重新拧紧固定的螺栓。林渡试过后才招手让伤员来。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "阿九扶着肿起的膝盖蹲下，挪正那一角，重新拧紧固定的螺栓。林渡试过后才招手让伤员来。少走这一次空路能省几口喘息，真把担架送到半途，才发现承托不实，就得让躺着的人替他们承受这点省下来的力气。",
+          "after_quote": "阿九扶着肿起的膝盖蹲下，挪正那一角，重新拧紧固定的螺栓。林渡试过后才招手让伤员来。"
+        },
+        {
+          "before_quote": "他照着实物描出螺栓缺口，另在旁边记下它被放上轨的位置。纸上的横线只是印好的账栏，不能替他们说明墙后怎么走。",
+          "after_quote": "他照着实物描出螺栓缺口，另在旁边记下它被放上轨的位置。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I11",
+      "chapter": 27,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "回到林渡可见的黑布墙缝与尚未让路；去掉无来源的墙后脸、脚下冷水和透墙姿态，不新增库存或仪器能力；人数争议原句未改。",
+      "before_quote": "前面的人把绳头往回收，后面的人又往前挤了半步。陌生人在墙后，黑布遮住脸，冷水藏在脚下，他看着队伍，没有让开。",
+      "after_quote": "前面的人把绳头往回收，后面的人又往前挤了半步。黑布仍遮着墙缝，林渡看不见里面的人，也不见有人让路。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "前面的人把绳头往回收，后面的人又往前挤了半步。陌生人在墙后，黑布遮住脸，冷水藏在脚下，他看着队伍，没有让开。",
+          "after_quote": "前面的人把绳头往回收，后面的人又往前挤了半步。黑布仍遮着墙缝，林渡看不见里面的人，也不见有人让路。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I12",
+      "chapter": 28,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "补第27章核接应后的返回车边桥接，把车不能留改为惜车追问，承认既有弃车决定；开头陆续送入与I13同一交接链，钥匙鞋帮及最终顶塌不变。",
+      "before_quote": "伤员先被送进去，房车卡在轨道旁，空门框和墙壁之间只剩两指宽。阿九两手扣着方向盘，指节抵在裂开的皮套上，肩膀随车身的小震一下下绷紧。",
+      "after_quote": "伤员正被陆续送进去，房车卡在轨道旁，空门框和墙壁之间只剩两指宽。阿九从转角核完接应位置后返回车边，两手又扣着方向盘，指节抵在裂开的皮套上，肩膀随车身的小震一下下绷紧。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "伤员先被送进去，房车卡在轨道旁，空门框和墙壁之间只剩两指宽。阿九两手扣着方向盘，指节抵在裂开的皮套上，肩膀随车身的小震一下下绷紧。",
+          "after_quote": "伤员正被陆续送进去，房车卡在轨道旁，空门框和墙壁之间只剩两指宽。阿九从转角核完接应位置后返回车边，两手又扣着方向盘，指节抵在裂开的皮套上，肩膀随车身的小震一下下绷紧。"
+        },
+        {
+          "before_quote": "“车不能留。”他说。",
+          "after_quote": "“真把车留这儿？”他说。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I13",
+      "chapter": 28,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "始终指向同一最后担架：头端入缝、半过失接、头端转角、尾端仍由林渡守住，尾端过槛后林渡最后入缝；阿九松杆退入，保留祝衡阻追与遮板逐步合拢，不增伤员。",
+      "before_quote": "光从缝口扫过时，里面先有人缩回了手。担架刚过一半，头端失去接应，抬杆的人差点把伤员磕在门边。林渡先叫他们停住，把人放稳，才看向那张命令纸。",
+      "after_quote": "光从缝口扫过时，里面先有人缩回了手。最后一副担架刚过一半，头端失去接应，抬杆的人差点把伤员磕在门边。林渡先叫他们停住，把人放稳，才看向那张命令纸。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "铁杆顶住车顶，最后一名伤员被送进维修缝。",
+          "after_quote": "铁杆顶住车顶，最后一副担架的头端被送进维修缝，尾端仍留在轨旁。"
+        },
+        {
+          "before_quote": "光从缝口扫过时，里面先有人缩回了手。担架刚过一半，头端失去接应，抬杆的人差点把伤员磕在门边。林渡先叫他们停住，把人放稳，才看向那张命令纸。",
+          "after_quote": "光从缝口扫过时，里面先有人缩回了手。最后一副担架刚过一半，头端失去接应，抬杆的人差点把伤员磕在门边。林渡先叫他们停住，把人放稳，才看向那张命令纸。"
+        },
+        {
+          "before_quote": "等它后面的担架顺利转过角，才有余地再谈那张纸上没写的人。",
+          "after_quote": "等它后面最后一副担架的头端顺利转过角，才有余地再谈那张纸上没写的人。"
+        },
+        {
+          "before_quote": "林渡推弥娅先过，自己最后钻进缝里。阿九松开铁杆，房车车顶立刻下沉，挡住半条轨道。",
+          "after_quote": "林渡推弥娅先过，自己仍守在最后一副担架尾端。阿九松开铁杆退入缝口，房车车顶立刻下沉，挡住半条轨道。"
+        },
+        {
+          "before_quote": "林渡回身托住担架尾端，让它越过门槛，才把脚从遮板底下收回。",
+          "after_quote": "林渡回身托住最后一副担架的尾端，让它越过门槛，才跟着钻进缝里，把脚从遮板底下收回。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I14",
+      "chapter": 28,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "将外面脚印与纸边明确为遮板合拢前所见的回忆，关板后仅听骂声；末句主语落实为林渡，不补视孔。",
+      "before_quote": "林渡没有开口。他把那只刚放下的手重新压回担架尾端。外面祝衡的脚印留在来水那侧，撕下的命令纸折进胸前，只剩一道白边露在制服外。年轻护卫又骂了一声，他没有回头。",
+      "after_quote": "林渡没有开口。他把那只刚放下的手重新压回担架尾端。他想起遮板合拢前的那一眼：祝衡的脚印留在来水那侧，撕下的命令纸折进胸前，只剩一道白边露在制服外。年轻护卫又骂了一声，林渡没有回头。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "林渡没有开口。他把那只刚放下的手重新压回担架尾端。外面祝衡的脚印留在来水那侧，撕下的命令纸折进胸前，只剩一道白边露在制服外。年轻护卫又骂了一声，他没有回头。",
+          "after_quote": "林渡没有开口。他把那只刚放下的手重新压回担架尾端。他想起遮板合拢前的那一眼：祝衡的脚印留在来水那侧，撕下的命令纸折进胸前，只剩一道白边露在制服外。年轻护卫又骂了一声，林渡没有回头。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I15",
+      "chapter": 28,
+      "severity": "轻微",
+      "status": "edited_pending_final_review",
+      "resolution": "删关板后再次推演不带祝衡的辩护，保留灰手套问答及他选择留在外面的回答，不提前确认祝衡站队。",
+      "before_quote": "林渡看向身后的伤员。维修缝已经被黑布遮板压缩到一条窄线，任何多一个人都会让担架卡住。祝衡若进来，年轻护卫也会跟进来，后面还可能有更多人。",
+      "after_quote": "林渡看向身后的伤员。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "林渡看向身后的伤员。维修缝已经被黑布遮板压缩到一条窄线，任何多一个人都会让担架卡住。祝衡若进来，年轻护卫也会跟进来，后面还可能有更多人。",
+          "after_quote": "林渡看向身后的伤员。"
+        }
+      ]
+    },
+    {
+      "id": "B03-I16",
+      "chapter": 29,
+      "severity": "中等",
+      "status": "edited_pending_final_review",
+      "resolution": "将不能同时用限缩为单根不能兼顶两处；两根撑木先后部署、断木与伤员代价均保留，不补第三根。",
+      "before_quote": "阿九拖着肿胀的膝盖去找木料。旧货槽两侧堆着拆船木，很多已经泡软。他挑出两根最直的，敲了敲：“一根撑闸，一根撑人。不能同时用。”",
+      "after_quote": "阿九拖着肿胀的膝盖去找木料。旧货槽两侧堆着拆船木，很多已经泡软。他挑出两根最直的，敲了敲：“一根撑闸，一根撑人。每根只能顶一处。”",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "阿九拖着肿胀的膝盖去找木料。旧货槽两侧堆着拆船木，很多已经泡软。他挑出两根最直的，敲了敲：“一根撑闸，一根撑人。不能同时用。”",
+          "after_quote": "阿九拖着肿胀的膝盖去找木料。旧货槽两侧堆着拆船木，很多已经泡软。他挑出两根最直的，敲了敲：“一根撑闸，一根撑人。每根只能顶一处。”"
+        }
+      ]
+    },
+    {
+      "id": "B03-I17",
+      "chapter": 29,
+      "severity": "轻微",
+      "status": "pending_author_decision",
+      "resolution": "现有已发生材料不足以无歧义指定冷凝站哪道既有设施为第一道；保留原对话，待作者核定所指，不把阀、门或遮板自行映射为木闸，不新造设施。此待核点未写入公共决策文件。",
+      "before_quote": "“第一道呢？”\n\n“你们刚才经过的冷凝站。”",
+      "after_quote": "“第一道呢？”\n\n“你们刚才经过的冷凝站。”",
+      "requires_decision": true,
+      "initial_fact_change_required": false,
+      "dependencies": [
+        "B03-I17-existing-facility"
+      ],
+      "edits": []
+    },
+    {
+      "id": "B03-I18",
+      "chapter": 30,
+      "severity": "轻微",
+      "status": "edited_pending_final_review",
+      "resolution": "将蓝布线触觉、护封动作并入第一次册页摩擦，删除第二次发沉与同向撤走；保留此前追兵逼近、裴叔死亡交册、上段撤离及断阶残句钩子。",
+      "before_quote": "册页在他怀里随步子发沉，蓝布线隔着衣料勒过肋骨。小门外的人声又一次压低，他抬脚向三层坡道上段走，手始终按着封面。",
+      "after_quote": "册页在他怀里发出沉重的摩擦声，蓝布线隔着衣料勒过肋骨。他的手始终按着封面。夹在账页中的旧图滑出一角，露出断阶入口和一行被擦掉一半的字：",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": [
+        {
+          "before_quote": "册页在他怀里发出沉重的摩擦声。夹在账页中的旧图滑出一角，露出断阶入口和一行被擦掉一半的字：",
+          "after_quote": "册页在他怀里发出沉重的摩擦声，蓝布线隔着衣料勒过肋骨。他的手始终按着封面。夹在账页中的旧图滑出一角，露出断阶入口和一行被擦掉一半的字："
+        },
+        {
+          "before_quote": "\n\n册页在他怀里随步子发沉，蓝布线隔着衣料勒过肋骨。小门外的人声又一次压低，他抬脚向三层坡道上段走，手始终按着封面。",
+          "after_quote": ""
+        }
+      ]
+    },
+    {
+      "id": "B03-I19",
+      "chapter": 30,
+      "severity": "中等",
+      "status": "pending_root_writeback",
+      "resolution": "第30正文移动不改。人物截至30快照需要由root把阿九、林栖已随队在市场行动后撤向上段，与旧轨留置房车分栏；本轮仅提出导航写回建议，未执行，不标关闭。",
+      "before_quote": "灰手套将小门撑住，只站在坡道这一边，不随他们进市场。林渡接过临时账，带队跨到交换市后方；若要回到坡道上段，还得从这处窄口退出。",
+      "after_quote": "灰手套将小门撑住，只站在坡道这一边，不随他们进市场。林渡接过临时账，带队跨到交换市后方；若要回到坡道上段，还得从这处窄口退出。",
+      "requires_decision": false,
+      "initial_fact_change_required": false,
+      "dependencies": [],
+      "edits": []
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "B04-C01",
+      "related_issues": [
+        "B03-I01"
+      ],
+      "chapters": [
+        27,
+        30
+      ],
+      "status": "pending_author_decision",
+      "decision_path": "异星录/06_执行计划/设定决策/R003_前50章事实口径待裁定.md",
+      "resolution": "未采纳登记子集或现场全部任一方案；原句保留，不以修辞、入册或减员抵销冲突。"
+    },
+    {
+      "id": "B03-I17-existing-facility",
+      "related_issues": [
+        "B03-I17"
+      ],
+      "chapters": [
+        29
+      ],
+      "status": "pending_author_decision",
+      "decision_path": null,
+      "resolution": "仅待核冷凝站哪道既有阻水设施为第一道；公共资料未登记新事实，原对话未改。"
+    }
+  ],
+  "writeback_recommendations": [
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "chapters": [
+        21,
+        24,
+        25
+      ],
+      "record_section": "第21—30章触碰/新增实录；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "explanation_only",
+      "unchanged_facts": "鸦母自报名后林栖认得；传单来源纸档；维修记录与沈乌关联未确认，粉末待检。",
+      "navigation_or_wording_recommendation": "只同步身份台词来源、已有应急灯漏光与分纸核线/待检分工；不提高伏笔确认层级。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "chapters": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "record_section": "第21—30章触碰/新增实录；001—030补全第027—030章",
+      "kind": "no_fact_change",
+      "unchanged_facts": "黑布后身份未命名；木楔半圆环、第二道闸及断阶残句钩子不变。",
+      "navigation_or_wording_recommendation": "无需改后卷索引/回收状态，不提前命名灰手套成员；第一道设施指称暂不扩释。",
+      "dependencies": [
+        "B03-I17-existing-facility"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "chapters": [
+        28
+      ],
+      "record_section": "第21—30章后状态；001—030补全第028章",
+      "kind": "navigation_only",
+      "unchanged_facts": "阿九膝伤、钥匙鞋帮；最后同一伤员担架过缝；林渡最后入缝；祝衡留外阻追。",
+      "navigation_or_wording_recommendation": "按核接应→返回车边→松杆退入，以及最后担架头端/尾端过槛先后同步导航，不改伤势装备关系。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "chapters": [
+        30
+      ],
+      "record_section": "第21—30章后状态中阿九/林栖落点；001—030补全第030章",
+      "kind": "pending_root_writeback",
+      "unchanged_facts": "阿九与林栖在交换市同行行动后随主队撤向三层坡道上段；房车留旧轨，非二人章末位置。",
+      "navigation_or_wording_recommendation": "将人/车地点分栏，修正跨章最后一次描写混入截至30快照的导航；不推断31或400章状态。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "chapters": [
+        27,
+        30
+      ],
+      "record_section": "第21—30章后状态人数列；001—030补全027/030行",
+      "kind": "hold_for_decision",
+      "unchanged_facts": "在册21与另3本地伤员、不在册阿九/弥娅另列的既有证据保留。",
+      "navigation_or_wording_recommendation": "人数争议列保留B04-C01依赖，不将约24改成现场全部，不自行增减或补入册。",
+      "dependencies": [
+        "B04-C01"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "chapters": [
+        22,
+        24,
+        25,
+        26,
+        29
+      ],
+      "record_section": "第21—30章后资源与时间；001—030补全对应章节行",
+      "kind": "explanation_only",
+      "unchanged_facts": "22余三份；24同一铜杯和已存在炭笔；25本机备用蓄电池供锁、小接头与两废储片来源；26两次短动耗尽；29两根撑木及既有接头/裸钩回收损失不变。",
+      "navigation_or_wording_recommendation": "把一杯半标为向巡查虚报而非库存；铜杯标记采用已有炭笔；空架不等于整仓无电池；两根限制为单根不可兼顶，不改库存或T序。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "chapters": [
+        27,
+        30
+      ],
+      "record_section": "第21—30章后资源与时间人数列；相关第31—40章后人数概括的继承依赖",
+      "kind": "hold_for_decision",
+      "unchanged_facts": "21、3及后续3、7计数与失联/死亡事实均未更改。",
+      "navigation_or_wording_recommendation": "暂不重算24/34现场总数；逐项保留C01依赖，待作者裁定后由root联动审计，非本轮31—40编辑授权。",
+      "dependencies": [
+        "B04-C01"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "chapters": [
+        26,
+        27,
+        28,
+        30
+      ],
+      "record_section": "第一卷时间线21—30表项；与第一卷对应章卡实录交叉导航",
+      "kind": "navigation_only",
+      "unchanged_facts": "26既有汇合避闸后；27阿九先核接应；28返回车边、最后担架头尾过缝、车顶塌与祝衡留外；30人撤坡道上段、房车旧轨留置。",
+      "navigation_or_wording_recommendation": "只细化既有动作空间承接，不动T序、潮相、钟点或事件；人数和第一闸不作未裁定解释。",
+      "dependencies": [
+        "B04-C01",
+        "B03-I17-existing-facility"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "chapters": [
+        21,
+        22,
+        24,
+        25,
+        29
+      ],
+      "record_section": "开篇主表：冷凝站、水票、热能电池、测潮仪相关词条及首次解释位置",
+      "kind": "no_new_term",
+      "unchanged_facts": "杯盏标准未变；应急灯与蓄电池均已有；冷凝站仍同一地点。",
+      "navigation_or_wording_recommendation": "无需新增术语；虚报不构成单位换算；第一道既有设施所指待核，不新增第一木闸定义。",
+      "dependencies": [
+        "B03-I17-existing-facility"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "chapters": [
+        21,
+        24,
+        27,
+        28,
+        29,
+        30
+      ],
+      "record_section": "开篇主表既有人名、物件与地点条目",
+      "kind": "no_new_term",
+      "unchanged_facts": "鸦母在自报后使用；灰手套不命名；铜杯、炭笔、应急灯、木楔、第二道木闸、水票册名称不变。",
+      "navigation_or_wording_recommendation": "无新增专名，不把灰手套改作后卷身份；第一闸别名不登记；不调整后卷条目。",
+      "dependencies": [
+        "B03-I17-existing-facility"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        21
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "占站及鸦母身份既有，林栖台词提供知识来源。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        22
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "分水库存与分配不变，一杯半仅为对巡查虚报。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        23
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "测潮救人、仪器代价与钩子不变，工作稿字节同发布稿。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        24
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "分水、少年送碗折纸、铜杯自记和纸档线索不变；已有炭笔与应急灯明确来源。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        25
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "空架、锁的本机供电、纸档核线及粉末待检均不变；不归沈乌的决定只记一次。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        26
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "既有木槽汇合/铁轨分路、试路调整、两次短动与木楔损失不变。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        27
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "黑布阻路、弃车决定及阿九先核接应不变；人数口径原句保留待裁定。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [
+        "B04-C01"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        28
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "同一最后担架头端入缝→半过失接→尾端过槛→林渡最后入缝，阿九返回/松杆退入；弃车顶塌和祝衡阻追不变。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        29
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "两根撑木部署、折断代价及第二道闸事件不变；第一道所指保留待核。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [
+        "B03-I17-existing-facility"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "chapters": [
+        30
+      ],
+      "record_section": "第21—30章实际发生记录对应章节行；2026-09-28篇幅补全回填：第001—030章对应行",
+      "kind": "navigation_or_no_fact_change",
+      "unchanged_facts": "市场封锁、裴叔死亡交册、主队撤上段与断阶残句不变；人车导航需root分栏。",
+      "navigation_or_wording_recommendation": "仅同步本章已列问题的表达/导航澄清；目标、事件、具体代价、揭谜与钩子方向不变。",
+      "dependencies": [
+        "B04-C01"
+      ],
+      "status": "not_applied",
+      "apply_after": "root集成、相关裁定与原B03读者终审；不得以本建议认定已回填"
+    }
+  ],
+  "scope": {
+    "working_directory": "异星录/06_执行计划/工作区/R003-B03",
+    "metadata_files": [
+      "harness/maintenance/R003/B03/edit-manifest.json",
+      "harness/maintenance/R003/B03/edit-notes.md"
+    ],
+    "published_manuscripts_modified": false,
+    "shared_files_modified": false,
+    "initial_files_modified": false,
+    "reader_review_generated": false,
+    "other_chapter_tasks_started": false
+  },
+  "validation": {
+    "kind": "editor_mechanical_checks_only_not_independent_acceptance",
+    "original_chapters_read_in_full": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "initial_source_digest_verified": true,
+    "working_chapters_present": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "han_count_method": "正文排除首行标题，统计U+4E00—U+9FFF纯汉字",
+    "all_working_han_in_range_2200_3200": true,
+    "unmodified_chapters_copied": [
+      23
+    ],
+    "issue_counts": {
+      "edited_pending_final_review": 16,
+      "pending_author_decision": 2,
+      "pending_root_writeback": 1
+    },
+    "pending_independent_final_review": true,
+    "attractiveness_pass_claimed": false,
+    "repair_gate_or_publish_run": false
+  },
+  "handoff_status": "editor_work_complete_pending_decisions_root_integration_and_original_reader_final_review",
+  "stop_after_current_B03": true
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "B27-R2-RE-001",
+    "issue_id": "B27-R03",
+    "chapter": 261,
+    "path": "异星录/06_执行计划/工作区/R008-B27/第261章_廊口开了半扇.md",
+    "old": "林渡把轮痕和纸边的记号留在账页背面，翻到正面那格空着的保栏。旬头以前，他得问清押进去的东西还能不能拿回来；等落了名，再问就迟了。",
+    "new": "林渡把轮痕和纸边的记号留在账页背面。旬头以前，他得问清保名管到哪一步，随身件又该怎样登记；等落了名，再问就迟了。",
+    "reason": "中等：261告示与门房只说登记、保进出/物件对应；押存条件至262才引入。本句提前知道押存，且把当日柜账正面直接写作尚未领出的保栏。改为对已知担保与登记范围的追问，不补消息、不加制度。",
+    "source_sha256": "ce65f6315a985439c1422e3abaaeb03264676c2bb85bd8a5d0b5b0fdc02bb668",
+    "source_digest": "ca6c0dedbb0263782561740488374100539e476991a0ebc52da528fc4e1120f4",
+    "status": "suggested_not_applied",
+    "reviewer": "01a1c2c7-005e-7a93-979a-f602b603f2a1",
+    "before_sha256": "ce65f6315a985439c1422e3abaaeb03264676c2bb85bd8a5d0b5b0fdc02bb668",
+    "after_sha256": "30279b32f07e8a2a1c0ea995184a053c1f3600821ab9327cdb67529c9300decf",
+    "applied_by": "R008-main"
+  },
+  {
+    "id": "B27-R2-RE-002",
+    "issue_id": "B27-R04",
+    "chapter": 268,
+    "path": "异星录/06_执行计划/工作区/R008-B27/第268章_后门比前门窄.md",
+    "old": "折完她把匣子从布袋里取出来",
+    "new": "她把匣子从布袋里取出来",
+    "reason": "中等：前段现为铺开空白译页、退库单留林渡处，已无折纸动作；后续还要在译页写三行。“折完”没有承接对象，干扰留稿/携纸的持有链。只删悬空承接，不添加无用途的折纸或搬回退库单。",
+    "source_sha256": "80c70519210c91415bbe8188c0d0ae55b8c42555c0add0ba696a2a10b3f7d46f",
+    "source_digest": "ca6c0dedbb0263782561740488374100539e476991a0ebc52da528fc4e1120f4",
+    "status": "suggested_not_applied",
+    "reviewer": "01a1c2c7-005e-7a93-979a-f602b603f2a1",
+    "before_sha256": "80c70519210c91415bbe8188c0d0ae55b8c42555c0add0ba696a2a10b3f7d46f",
+    "after_sha256": "b451213f600e005b26d5db87cac9ed27c5b29c52e0ace1ebb7c8ba7342db1dbf",
+    "applied_by": "R008-main"
+  }
+]

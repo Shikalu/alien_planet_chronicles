@@ -1,0 +1,598 @@
+{
+  "batch": "R003/B05",
+  "role": "safe_repair_editor",
+  "editor_id": "01a1a6ee-64aa-7dd0-ada5-b484693bbf36",
+  "initial_reader_id": "01a1a6ee-a497-7e12-9710-d9df5d21bd54",
+  "created_at": "2026-11-04T23:07:13+08:00",
+  "status": "safe_edits_complete_pending_independent_review_and_author_decisions",
+  "scope": {
+    "chapters": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "authorized_issue_ids": [
+      "R003-B05-001",
+      "R003-B05-002",
+      "R003-B05-003",
+      "R003-B05-004",
+      "R003-B05-005",
+      "R003-B05-006",
+      "R003-B05-007"
+    ],
+    "allowed_write_roots": [
+      "异星录/06_执行计划/工作区/R003-B05"
+    ],
+    "allowed_record_files": [
+      "harness/maintenance/R003/B05/edit-manifest.json",
+      "harness/maintenance/R003/B05/edit-notes.md"
+    ],
+    "published_manuscripts_written": false,
+    "shared_ledgers_or_cards_written": false,
+    "b04_chapters_edited": false,
+    "new_events_or_fact_changes_authorized": false,
+    "pause_after_delivery": true
+  },
+  "review_source": {
+    "report_path": "harness/maintenance/R003/B05/initial.md",
+    "report_sha256": "9c3b0f00109d07a8199069f9eec61441e572b79c811ef24ef74867d18e96e927",
+    "issues_path": "harness/maintenance/R003/B05/initial-issues.json",
+    "issues_sha256": "6b81e353d99e36ad2aff4830846d4a32c7d9edff3af83f7825c9d61484433882",
+    "input_digest": "7d78b5f0bf5ca33cb127a3894948fdc66b2fa0acd567db031aa6e55cb7577544",
+    "all_ten_published_sources_match_initial_sha256": true
+  },
+  "working_manuscripts": [
+    {
+      "chapter": 41,
+      "published_path": "异星录/正文/第一卷_热海坠城/第041章_护送队.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第041章_护送队.md",
+      "before_sha256": "acaa29a0bfb7ff6b65d0b2571a3a853b9a9dde844895bd5ff5cc20e478cfe86f",
+      "after_sha256": "2b97ad3c4f535dad619e146d01ceba9b73bcc46f40e3c531346b8998b4b3a97d",
+      "before_han": 2340,
+      "after_han": 2346
+    },
+    {
+      "chapter": 42,
+      "published_path": "异星录/正文/第一卷_热海坠城/第042章_父亲可能活着.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第042章_父亲可能活着.md",
+      "before_sha256": "ba32d19bbfd78b264722deacecfe31488d6b290183197bd1e9062bbab4fa779e",
+      "after_sha256": "ba32d19bbfd78b264722deacecfe31488d6b290183197bd1e9062bbab4fa779e",
+      "before_han": 2336,
+      "after_han": 2336
+    },
+    {
+      "chapter": 43,
+      "published_path": "异星录/正文/第一卷_热海坠城/第043章_澜陆.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第043章_澜陆.md",
+      "before_sha256": "94eba5d750a3a6a610a2470d9dfdf0a1b2a2706d06527ca1aa5ed3ef58463902",
+      "after_sha256": "94eba5d750a3a6a610a2470d9dfdf0a1b2a2706d06527ca1aa5ed3ef58463902",
+      "before_han": 2277,
+      "after_han": 2277
+    },
+    {
+      "chapter": 44,
+      "published_path": "异星录/正文/第一卷_热海坠城/第044章_异星传言.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第044章_异星传言.md",
+      "before_sha256": "aced8bd5c51acce6e1eda180dfe5c2a8d8cdb35fe5a0332f7a61756bdd7b7d27",
+      "after_sha256": "aae22a9028a610b3c7b74f94c9ef2679fcfcd18774aae443f21a3111cbc9771b",
+      "before_han": 2263,
+      "after_han": 2224
+    },
+    {
+      "chapter": 45,
+      "published_path": "异星录/正文/第一卷_热海坠城/第045章_临时冷却器.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第045章_临时冷却器.md",
+      "before_sha256": "34982451f2197d8bf787a62f3e11bf260411ecc07d2746428560b9b221ed010c",
+      "after_sha256": "39360e4b088c4475271795bc774e7bf8264b83b56397b50cdbb4b641a44e9bee",
+      "before_han": 2313,
+      "after_han": 2298
+    },
+    {
+      "chapter": 46,
+      "published_path": "异星录/正文/第一卷_热海坠城/第046章_议会仓库.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第046章_议会仓库.md",
+      "before_sha256": "3d56d3871e4cc83b068136374024f024b8a963fcdb7523fc804d0e31146a825d",
+      "after_sha256": "91198df3308027a8dd9b0d14d743b0c0e089f7ba19b2d9fd5e3c4d314b68e609",
+      "before_han": 2391,
+      "after_han": 2380
+    },
+    {
+      "chapter": 47,
+      "published_path": "异星录/正文/第一卷_热海坠城/第047章_夜袭.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第047章_夜袭.md",
+      "before_sha256": "d68d825385f50300f94669a1339e7ffa16516566b92ef7e7ec1fdbc37225e10b",
+      "after_sha256": "3848c15e45c56460b74dce94829eada098f2e7c0e55f319b283dea0828447f11",
+      "before_han": 2365,
+      "after_han": 2313
+    },
+    {
+      "chapter": 48,
+      "published_path": "异星录/正文/第一卷_热海坠城/第048章_电池反击.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第048章_电池反击.md",
+      "before_sha256": "a4d447fdbd09ad4e055a59f889bd659fcaf713bc83a8510547995b4cb3ffc1a9",
+      "after_sha256": "8c5aa7963f7af13c824d3f5e80193cb4f355af174c75c860025e8b4ab006116a",
+      "before_han": 2282,
+      "after_han": 2248
+    },
+    {
+      "chapter": 49,
+      "published_path": "异星录/正文/第一卷_热海坠城/第049章_封锁入口.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第049章_封锁入口.md",
+      "before_sha256": "42fab5859123b07e49976e88bf440964e1ce1914781c0f025179753872ff47c4",
+      "after_sha256": "42fab5859123b07e49976e88bf440964e1ce1914781c0f025179753872ff47c4",
+      "before_han": 2304,
+      "after_han": 2304
+    },
+    {
+      "chapter": 50,
+      "published_path": "异星录/正文/第一卷_热海坠城/第050章_外壁决定.md",
+      "working_path": "异星录/06_执行计划/工作区/R003-B05/第050章_外壁决定.md",
+      "before_sha256": "c87b2bb348377c9078e445dfb36dd60d61432dc61e56f29b3ab7bffc316a241d",
+      "after_sha256": "c87b2bb348377c9078e445dfb36dd60d61432dc61e56f29b3ab7bffc316a241d",
+      "before_han": 2337,
+      "after_han": 2337
+    }
+  ],
+  "changed_chapters": [
+    41,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "unchanged_copied_chapters": [
+    42,
+    43,
+    49,
+    50
+  ],
+  "working_digest": "2419f1f109638762a18381d672fde1f5b4033a181614d3b5079b4a4fb8e0d19a",
+  "working_digest_manuscripts": [
+    {
+      "chapter": 41,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第041章_护送队.md",
+      "sha256": "2b97ad3c4f535dad619e146d01ceba9b73bcc46f40e3c531346b8998b4b3a97d"
+    },
+    {
+      "chapter": 42,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第042章_父亲可能活着.md",
+      "sha256": "ba32d19bbfd78b264722deacecfe31488d6b290183197bd1e9062bbab4fa779e"
+    },
+    {
+      "chapter": 43,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第043章_澜陆.md",
+      "sha256": "94eba5d750a3a6a610a2470d9dfdf0a1b2a2706d06527ca1aa5ed3ef58463902"
+    },
+    {
+      "chapter": 44,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第044章_异星传言.md",
+      "sha256": "aae22a9028a610b3c7b74f94c9ef2679fcfcd18774aae443f21a3111cbc9771b"
+    },
+    {
+      "chapter": 45,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第045章_临时冷却器.md",
+      "sha256": "39360e4b088c4475271795bc774e7bf8264b83b56397b50cdbb4b641a44e9bee"
+    },
+    {
+      "chapter": 46,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第046章_议会仓库.md",
+      "sha256": "91198df3308027a8dd9b0d14d743b0c0e089f7ba19b2d9fd5e3c4d314b68e609"
+    },
+    {
+      "chapter": 47,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第047章_夜袭.md",
+      "sha256": "3848c15e45c56460b74dce94829eada098f2e7c0e55f319b283dea0828447f11"
+    },
+    {
+      "chapter": 48,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第048章_电池反击.md",
+      "sha256": "8c5aa7963f7af13c824d3f5e80193cb4f355af174c75c860025e8b4ab006116a"
+    },
+    {
+      "chapter": 49,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第049章_封锁入口.md",
+      "sha256": "42fab5859123b07e49976e88bf440964e1ce1914781c0f025179753872ff47c4"
+    },
+    {
+      "chapter": 50,
+      "path": "异星录/06_执行计划/工作区/R003-B05/第050章_外壁决定.md",
+      "sha256": "c87b2bb348377c9078e445dfb36dd60d61432dc61e56f29b3ab7bffc316a241d"
+    }
+  ],
+  "digest_method": "对仅chapter/path/sha256三字段列表调用json.dumps(ensure_ascii=False, sort_keys=True)，使用默认分隔符，UTF-8编码后SHA256。",
+  "issues": [
+    {
+      "id": "R003-B05-001",
+      "chapter": 41,
+      "status": "edited_pending_independent_review",
+      "resolution": "只补绳梯起止点：低平台在当前旧轨上方，绳梯垂到轨旁，人从旧轨上梯；042两折梯、低平台与外挑台、人车分路及三批转运不变。",
+      "before_quote": "三批人先后过完缆桥，前面却没有平路。旧轨拐弯处，一架绳梯垂到低平台，侧边货运坡道被车辙磨出两条沟，房车只能另沿坡道挪，人先上梯卸开这里的重量。",
+      "after_quote": "三批人先后过完缆桥，前面却没有平路。旧轨拐弯处，一架绳梯从上方的低平台垂到轨旁，侧边货运坡道被车辙磨出两条沟，房车只能另沿坡道挪，人先上梯卸开这里的重量。",
+      "requires_decision": false,
+      "patches": [
+        {
+          "before_quote": "一架绳梯垂到低平台",
+          "after_quote": "一架绳梯从上方的低平台垂到轨旁"
+        }
+      ]
+    },
+    {
+      "id": "R003-B05-002",
+      "chapter": 44,
+      "status": "edited_pending_independent_review",
+      "resolution": "删去抽绳动作后的道德辩护及失亲者泛化心理解释；保留抽绳、教脚位、报不全姓名、抱壶与拒接仪器，不新增道歉或表态。",
+      "before_quote": "弥娅把压在孩子脚下的绳尾抽出来，教他把脚放进绳圈内侧，免得绳一拉就绊倒，没让他替大人的沉默道歉。",
+      "after_quote": "弥娅把压在孩子脚下的绳尾抽出来，教他把脚放进绳圈内侧，免得绳一拉就绊倒。",
+      "requires_decision": false,
+      "patches": [
+        {
+          "before_quote": "弥娅把压在孩子脚下的绳尾抽出来，教他把脚放进绳圈内侧，免得绳一拉就绊倒，没让他替大人的沉默道歉。",
+          "after_quote": "弥娅把压在孩子脚下的绳尾抽出来，教他把脚放进绳圈内侧，免得绳一拉就绊倒。"
+        },
+        {
+          "before_quote": "林渡也没有逼他谢。那人家在坠海区，刚才登记时一直报不全同住者的名字。失去的东西太多，他眼下看见谁伸手，都可能以为是来拿最后一点的。",
+          "after_quote": "林渡也没有逼他谢。那人家在坠海区，刚才登记时一直报不全同住者的名字。"
+        }
+      ]
+    },
+    {
+      "id": "R003-B05-003",
+      "chapter": 45,
+      "status": "edited_pending_independent_review",
+      "resolution": "保留“林栖收好残接头”，删抽象无悔总结；半壶用水疑问、裂边折落及用水代价全部保留。",
+      "before_quote": "林栖收好残接头，没有替这句话记成不会后悔的答案。",
+      "after_quote": "林栖收好残接头。",
+      "requires_decision": false,
+      "patches": [
+        {
+          "before_quote": "林栖收好残接头，没有替这句话记成不会后悔的答案。",
+          "after_quote": "林栖收好残接头。"
+        }
+      ]
+    },
+    {
+      "id": "R003-B05-004",
+      "chapter": 46,
+      "status": "edited_pending_independent_review",
+      "resolution": "只删第二次“不把推测写成结论”的同义解释；保留拆取者及年代未知、封签翻回、两扣分放和铜片回箱，不确认共同工程或物件主使。",
+      "before_quote": "祝衡摇头。箱子在议会仓库，可以留下这一条；拆的人、拆的年月，不能凭眼前几道磨痕补齐。他把封签翻回正面，没有把这句推测写成结论。弥娅把两枚扣分开放好，薄铜片仍收回原箱。",
+      "after_quote": "祝衡摇头。箱子在议会仓库，可以留下这一条；拆的人、拆的年月，不能凭眼前几道磨痕补齐。他把封签翻回正面。弥娅把两枚扣分开放好，薄铜片仍收回原箱。",
+      "requires_decision": false,
+      "patches": [
+        {
+          "before_quote": "他把封签翻回正面，没有把这句推测写成结论。",
+          "after_quote": "他把封签翻回正面。"
+        }
+      ]
+    },
+    {
+      "id": "R003-B05-005",
+      "chapter": 47,
+      "status": "edited_pending_independent_review",
+      "resolution": "用指向门缝可见刀柄与膝盖承接前句的可见影子、右二左四，删重复否定划界；删救人不等于倒戈的旁白，保留被挤推、压梁、持械与被救者离开的行动结果。",
+      "before_quote": "她指的不是仪器屏幕，是那些露出刀柄和膝盖的位置；这只是门缝里能看见的人数，不是整支来敌的总数。",
+      "after_quote": "她指向门缝里露出刀柄和膝盖的位置。",
+      "requires_decision": false,
+      "patches": [
+        {
+          "before_quote": "她指的不是仪器屏幕，是那些露出刀柄和膝盖的位置；这只是门缝里能看见的人数，不是整支来敌的总数。",
+          "after_quote": "她指向门缝里露出刀柄和膝盖的位置。"
+        },
+        {
+          "before_quote": "林渡只得再把梁压回去。救下一个失足者，没让其余人停手，也没有让那人立刻帮他们。",
+          "after_quote": "林渡只得再把梁压回去。"
+        }
+      ]
+    },
+    {
+      "id": "R003-B05-006",
+      "chapter": 48,
+      "status": "edited_pending_independent_review",
+      "resolution": "分别写墙屏仍闪红字、杜姨在纸页林栖记录旁写“仍在仓”；移除跨载体同格及覆盖关系，仍只改纸上实录，不改终端/服务器状态。",
+      "before_quote": "墙上红色的“已离仓”还在闪，杜姨新写的“仍在仓”落在纸页同一格，墨迹没有盖住红字。",
+      "after_quote": "墙上红色的“已离仓”还在闪，杜姨在纸页上林栖的记录旁写下“仍在仓”。",
+      "requires_decision": false,
+      "patches": [
+        {
+          "before_quote": "墙上红色的“已离仓”还在闪，杜姨新写的“仍在仓”落在纸页同一格，墨迹没有盖住红字。",
+          "after_quote": "墙上红色的“已离仓”还在闪，杜姨在纸页上林栖的记录旁写下“仍在仓”。"
+        }
+      ]
+    },
+    {
+      "id": "R003-B05-007",
+      "chapter": 48,
+      "status": "edited_pending_independent_review",
+      "resolution": "删孩子怕添乱与男人怕门合的无来源内心断言；保留嘴巴张开又抿住、脚探门缝后停、接空绳的可见动作，不增加新内心视角或对话。",
+      "before_quote": "岑野背后的孩子想哭，嘴巴张开又抿住。他怕一出声就算添乱。",
+      "after_quote": "岑野背后的孩子嘴巴张开又抿住。",
+      "requires_decision": false,
+      "patches": [
+        {
+          "before_quote": "岑野背后的孩子想哭，嘴巴张开又抿住。他怕一出声就算添乱。",
+          "after_quote": "岑野背后的孩子嘴巴张开又抿住。"
+        },
+        {
+          "before_quote": "一个等在后排的男人想从担架边抢过，脚已探进门缝，见抬杆横在自己胸前才停。他不是想夺杆，只怕门在轮到自己前合上。",
+          "after_quote": "一个等在后排的男人想从担架边抢过，脚已探进门缝，见抬杆横在自己胸前才停。"
+        }
+      ]
+    }
+  ],
+  "writeback_recommendations": [
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "sections": [
+        "第50章后状态（篇幅补全核对版）",
+        "2026-09-28篇幅补全回填：第031—070、081—090章 / 041—050、043—050相关行"
+      ],
+      "unchanged_facts": [
+        "林渡旧伤及047肩侧划伤持续；林栖右掌旧伤、灼伤、割伤叠加，左手签名；弥娅伤腿及手伤持续。",
+        "祝衡049仍留门外，钥匙回林渡，枪撞损并远锁，无新增死亡。",
+        "杜姨暂持公共册和白箱，两枚蓝扣归弥娅，银黑片050取回阿九；父亲可能活着而非确认。"
+      ],
+      "proposed_writeback": "不新增人物状态事件。独立复核后仅补041空间消歧、048限知及纸上实录的正文证据链接，维护返修批次导航；约34的成员边界不改、不签总人数闭环。",
+      "dependencies": [
+        "B04-C01",
+        "B04-C02"
+      ],
+      "condition": "仅为root待独立复核后的集成建议，本轮未写共享文件。"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "sections": [
+        "第41—50章后资源与时间",
+        "2026-09-28篇幅补全回填：第031—070、081—090章 / 041—050、045—050、047—058截至050部分"
+      ],
+      "unchanged_facts": [
+        "041丢一壶；045一壶分作半壶伤员水和半壶清回路水；049伤员半壶及最后一壶分尽，050整壶0、个人水见底。",
+        "八面罩、两卷身份胶带、两长梁、三丈绳损不变；小电池只够下一门亮一次，车动力仍0。",
+        "临时冷却上限一个凉时，050拆管后冷却失效；房车留入口维修廊旧轨；铜管仅护绳导向，由旧环与梁承重。",
+        "沿用既有约34口径，未重新定义谁在册、谁同行。"
+      ],
+      "proposed_writeback": "无新资源消耗或T锚点。独立复核后更新实际工作稿证据链接，不把删旁白记成补水、补电或新增伤亡；沿用截至050补全，不将旧摘要“两壶”带入下一章。人数口径等作者先裁定B04-C01。",
+      "dependencies": [
+        "B04-C01",
+        "B04-C02"
+      ],
+      "condition": "仅建议，未回填；不得凭本manifest签资源和人数全面一致。"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "sections": [
+        "章节：第41—50章《护送队》至《外壁决定》",
+        "2026-09-28篇幅补全回填：第031—070、081—090章 / 039—050相关行"
+      ],
+      "unchanged_facts": [
+        "工号、浅齿楔与新痕仍不足以确认林岑在墙后；两蓝扣及铜片形似/可对槽，不推出整城主人或供货主使。",
+        "046仍不能确定拆取者及年代；049低井敲击者仍可能为人或配重；050灯号不等于安全保证。",
+        "043只公开来处，044旧频率来源未知；教团追箱及武器制式保留，未提前揭两陆全史。"
+      ],
+      "proposed_writeback": "004只减同义解释，不升级半揭为回收，不确认共同工程。复核后可补正文来源指纹/返修导航；涉及机械臂主动回应和同源系统的跨篇强断言仍挂B04-C02，不据本批删句关闭。",
+      "dependencies": [
+        "B04-C02"
+      ],
+      "condition": "待独立复核及作者跨篇裁定，未更改公共悬念台账。"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "sections": [
+        "第一卷时间线 / 41—50行",
+        "第一卷空间硬约束",
+        "2026-09-28篇幅补全路线核对：第031—090章 / 041—050行"
+      ],
+      "unchanged_facts": [
+        "旧轨→缆桥→下段绳梯→低平台→上段梯→外挑台；车另循货运坡道/货轨。",
+        "仓库→短廊→低一尺入口维修廊→外壁第一孔；未进入核心，未完成051攀桩。",
+        "T3黑潮时末至T4凉时、祝衡留门外、分批转移均不改。"
+      ],
+      "proposed_writeback": "001只是把既有路线中低平台相对旧轨的上方位置写清，root复核后可在041—050路线行增加“轨旁梯脚—上方低平台”的证据说明与修稿链接；不改T锚点、人数或行进顺序。",
+      "dependencies": [
+        "B04-C01",
+        "B04-C02"
+      ],
+      "condition": "仅文义/证据导航建议，不更新公共路线和批次进度。"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "sections": [
+        "基础术语表 / 测潮仪、旧维修钥匙、银黑三凹口金属片、绳梯/平台既有称谓"
+      ],
+      "unchanged_facts": [
+        "无新增专有名词、设备或能力；陌生铁箱与白色撤离箱仍是两件，纸水票册与墙终端仍是两载体。",
+        "三凹口片、蓝扣、薄铜片来源不另裁定，不重命名机械信号。"
+      ],
+      "proposed_writeback": "本批无需新增词条。若root有正文证据导航，仅在独立复核后更新出处链接；不把空间消歧或删心理句写成新规则。",
+      "dependencies": [
+        "B04-C02"
+      ],
+      "condition": "无需事实回填；未写共享术语文件。"
+    },
+    {
+      "path": "异星录/03_剧情架构/第一卷/逐章卡.md",
+      "sections": [
+        "26—50章：下城坍塌与去断阶 / 41—50规划行",
+        "第21—30章实际发生记录后连续实录表 / 41—50实录行（当前文件未另设41—50小标题）",
+        "2026-09-28篇幅补全回填：第031—070、081—090章 / 041—050行"
+      ],
+      "unchanged_facts": [
+        "三批护送、父亲线索、澜陆署名、广播失信、有限冷却、入库、夜袭损失、局部开门、祝衡留外、拆冷却弃车及外壁出发不变。",
+        "048纸上更正不等于服务器改正；046拆取者/年代未知；049最后一壶分完；050铜管护绳而非承担主体载荷。"
+      ],
+      "proposed_writeback": "复核后只补041上下参照和048纸/屏证据及R003-B05修稿导航，不重写事件卡。旧049实录摘要“外壁攀行只剩两壶”与截至050补全有差异，建议root引用已发生正文和补全保持原耗减事实，不把它算作本批新增/批准变更，也不在本轮改共享卡。",
+      "dependencies": [
+        "B04-C01",
+        "B04-C02"
+      ],
+      "condition": "只交接建议，须root集成；不得据本manifest更新已发生事实或发布状态。"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "B04-C01",
+      "kind": "cross_batch_pending_author_decision",
+      "source": "继承B04审读发现及用户明确指示；不是已批准后七卷同名C01",
+      "status": "awaiting_author_decision",
+      "requires_decision": true,
+      "affects_chapters": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "problem": "早期在册21+3与不在册阿九/弥娅的同行总数边界，后续24/约34口径及040会合祝衡是否计入尚未统一。",
+      "preserved_in_this_edit": "本批所有三十四/约34、三批转移及七名不能走者等数量维持发布原句；未把043外来居民并入主队，未选择一个所谓正确总数。",
+      "decision_applied": false,
+      "blocks_full_fact_release": true,
+      "safe_edit_impact": "7项局部编辑不改人数，依赖不被本manifest关闭。"
+    },
+    {
+      "id": "B04-C02",
+      "kind": "cross_batch_pending_author_decision",
+      "source": "继承B04审读发现及用户明确指示；不是已批准后七卷同名C02",
+      "status": "awaiting_author_decision",
+      "requires_decision": true,
+      "affects_chapters": [
+        42,
+        43,
+        45,
+        46,
+        48,
+        49,
+        50
+      ],
+      "problem": "036车底机械臂晃碰、垫住后车下静与另处沿轨节拍，和台账“机械臂回应”“井底机械臂双重确认”的主动性/声源地点及同源推定未裁定。",
+      "preserved_in_this_edit": "043蓝扣形似、045频率匹配现象、046物件分放及来源未知、049低井人/配重未知、050灯号/银黑片取回均保持；不确认机械主动回应者，不补同源系统、供货主使或物件来源。",
+      "decision_applied": false,
+      "blocks_full_fact_release": true,
+      "safe_edit_impact": "004仍保留拆取者/年代未知；未删成共同工程已确认。7项修订不替作者裁定此依赖。"
+    }
+  ],
+  "reading_scope": {
+    "published_manuscripts_full": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "working_manuscripts_full_editor_self_check": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "boundary_manuscripts_full": [],
+    "boundary_materials": "章卡040/051及截至040/050边界；本轮未额外阅读040/051正文。",
+    "workflow": [
+      "AGENTS.md",
+      "skills/alien-serial-harness/SKILL.md",
+      "skills/alien-serial-harness/references/editorial.md"
+    ],
+    "initial_review": "B05 initial.md和initial-issues.json完整读取；本轮编辑不是首次读者盲读。",
+    "author_materials": "按AGENTS顺序查项目总纲、索引/阅读地图、第一卷卷纲/架构README、041—050规划卡及实录/补全；世界背景当前信息层及世界规则、社会文化、势力制度、栈城路线；角色圣经、出场语气卡、关系成长线；术语词典/命名表当前词条、四动态台账索引及截至040/050相关实录；设定揭示计划、正文与连载规范（含九节）、文风与细节精修规范（含二/七节）、黄金开篇与持续追读规范。非整套800章作者资料全读。",
+    "future_state_excluded": "未使用第400章/D320收官状态；相关表后续行即使同屏可见，也不用于回推第50章人物、资源或知识。",
+    "role_separation": "此前B04初审角色与本轮B05编辑分离；不编辑B04，不替B05独立读者签复核。"
+  },
+  "self_check": {
+    "type": "editor_self_check_not_independent_review",
+    "actual_post_edit_full_read": true,
+    "authorized_issues": 7,
+    "text_patch_locations": 10,
+    "only_authorized_patch_reconstruction_matches_all_working_bytes": true,
+    "pure_han_method": "剔除以#开头的Markdown标题行后，以[\\u3400-\\u4dbf\\u4e00-\\u9fff]逐字计数；不含标点、数字、拉丁字符。",
+    "after_han_min": 2224,
+    "after_han_max": 2380,
+    "han_range_all_within_2200_3200": true,
+    "natural_paragraph_counts": [
+      {
+        "chapter": 41,
+        "before": 59,
+        "after": 59
+      },
+      {
+        "chapter": 42,
+        "before": 61,
+        "after": 61
+      },
+      {
+        "chapter": 43,
+        "before": 64,
+        "after": 64
+      },
+      {
+        "chapter": 44,
+        "before": 65,
+        "after": 65
+      },
+      {
+        "chapter": 45,
+        "before": 60,
+        "after": 60
+      },
+      {
+        "chapter": 46,
+        "before": 58,
+        "after": 58
+      },
+      {
+        "chapter": 47,
+        "before": 50,
+        "after": 50
+      },
+      {
+        "chapter": 48,
+        "before": 57,
+        "after": 57
+      },
+      {
+        "chapter": 49,
+        "before": 60,
+        "after": 60
+      },
+      {
+        "chapter": 50,
+        "before": 59,
+        "after": 59
+      }
+    ],
+    "all_titles_and_last_two_paragraphs_unchanged": true,
+    "meaningful_numbers_injuries_losses_knowledge_and_hooks_unchanged": "逐章读实际工作稿并核差分：没有转移/移车/战斗/开锁事件重排；保留原数量、旧新伤、损失、来源未知和全部章末方向。人数/机械来源仅保留原口径，不声称已经统一。",
+    "unchanged_chapters_byte_identical": true,
+    "published_sources_still_initial_bytes": true,
+    "scope_only_no_gate_close_or_navigation_advance": true
+  },
+  "release": {
+    "independent_reread": "not_performed_by_editor",
+    "designated_reader_id": "01a1a6ee-a497-7e12-9710-d9df5d21bd54",
+    "full_fact_release": "not_granted",
+    "issue_closure_signed": false,
+    "reason": "7项只完成局部编辑；仍需原B05读者重读实际工作稿。B04-C01/C02待作者裁定，不能签B05完整事实放行。",
+    "next_action": "按用户要求本轮交付后暂停；root/原读者后续处理，不由本编辑开启新任务。"
+  }
+}

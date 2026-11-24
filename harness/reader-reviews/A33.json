@@ -1,0 +1,430 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "batch_id": "A33",
+  "writer": "Codex联合作写（主笔 /root；分章 /root/a31_middle、/root/a31_end）",
+  "reviewer": "Codex独立读者 /root/serial_reader",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 421,
+      "path": "异星录/06_执行计划/工作区/A33/第421章_这次量到浅点.md",
+      "sha256": "c620c5961111efcec66bb243115963f33be2f6c3f6b19dc62b7aa7c1d43b0858"
+    },
+    {
+      "chapter": 422,
+      "path": "异星录/06_执行计划/工作区/A33/第422章_货签留到退潮.md",
+      "sha256": "0271f4d57400fa59e7c6d2e992cd090ce0249f4bad7c9a4b1ce9c1918f641fb8"
+    },
+    {
+      "chapter": 423,
+      "path": "异星录/06_执行计划/工作区/A33/第423章_铅坠碰到了石头.md",
+      "sha256": "c5a418eed406988585c3cdfbe1f2dc1c4810f3543c3fe7b728eb5cfed1a1eec1"
+    },
+    {
+      "chapter": 424,
+      "path": "异星录/06_执行计划/工作区/A33/第424章_船到这里为止.md",
+      "sha256": "e0875a28d0d96cac1288e26c5eeb2dee8b5bc63dfff95c27ae007a45d84b7044"
+    },
+    {
+      "chapter": 425,
+      "path": "异星录/06_执行计划/工作区/A33/第425章_装货号收回去.md",
+      "sha256": "7cc0f8ffbd825b9840a1dbee8a083eb15c621ae44cd37f8d8905821aff289a6f"
+    },
+    {
+      "chapter": 426,
+      "path": "异星录/06_执行计划/工作区/A33/第426章_两张纸各留一处空.md",
+      "sha256": "091b48ce4b985a39b6db85d8ed2b06c18afbfd650feadd99e3d84078761b5be1"
+    },
+    {
+      "chapter": 427,
+      "path": "异星录/06_执行计划/工作区/A33/第427章_把空位留下来.md",
+      "sha256": "a35ff1297bb9b4792b73dcbc480026814a25c17e94a50865537c6d53623a6a26"
+    },
+    {
+      "chapter": 428,
+      "path": "异星录/06_执行计划/工作区/A33/第428章_东西还扣在车上.md",
+      "sha256": "5bee3441ccbc5d549588ae38971908f12c5d239f01913b26ad9dab07bd705c3d"
+    },
+    {
+      "chapter": 429,
+      "path": "异星录/06_执行计划/工作区/A33/第429章_请他认这一划.md",
+      "sha256": "bd684d59f153011333ec48218b8240fdb92ed7eb138bde11139628050367b128"
+    },
+    {
+      "chapter": 430,
+      "path": "异星录/06_执行计划/工作区/A33/第430章_落名的人还没到.md",
+      "sha256": "3499bd2eab3bcf7e6e0fa283b3bcaa75b418cba6608895fc472490ea6e1872a1"
+    }
+  ],
+  "source_digest": "9cb2ed3cf4cd98d2b727126abe0b6788c102b09d5307c41ef2302e44dca2607f",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 421,
+      "quote": "你说有垫料。我先看垫料。",
+      "reason": "第419章仍是问价，这里罐先后挪、管事当面验料，开头便给缺水的曲荻一道实物门槛。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 421,
+      "quote": "林渡请看棚人把这句话和一壶三平勺记在同一块干板上",
+      "reason": "林渡不让来客私下成交变成优先取水，主动把一壶三勺、谁认兑、谁能验料写到货场人也看得见的地方。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 421,
+      "quote": "黑印还高出一截。",
+      "reason": "三平勺实到浅点，来客旧黑印仍高，D334的计量协定变成双方可当面回查的一壶实水。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 421,
+      "quote": "曲荻只给他分一小口",
+      "reason": "舵手囊快空，想给留船的人带水，曲荻也只能从这一小壶先分一口。私水买成了，船端困境仍有真实压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 421,
+      "quote": "先看看最短那条线下面究竟有什么。",
+      "reason": "眼前浮标在浪里动，短线不再能靠纸判断，林渡提出下回要到视点和水边实测。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 422,
+      "quote": "挂上一张空货签",
+      "reason": "一张没有货的签就要提前腾干位，给扩航留多长时间与谁赔备工成为开场压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 422,
+      "quote": "他将看石的名字挪到岸侧，重新空出船上那一格。",
+      "reason": "林渡认伤手不能在晃船上递绳，主动回到有用的岸点，把船上判断留给舵手和船工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 422,
+      "quote": "前两批各六壶，第三批也实到六壶。",
+      "reason": "前章只成交一壶，现用两次各一片合用垫料和一次拆框实工逐笔得水，船工两壶有出处，原返程水保留。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 422,
+      "quote": "脚下第三处能把身子藏到岩后。",
+      "reason": "接缆成人看到报废的断绳，槐七实际带他数退路和可藏人的干石。上次险情使这回站位变得更可控。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 422,
+      "quote": "再看挂在货棚的签还能不能留。",
+      "reason": "候日只够岸船按旧退路试测，实际深度决定空货签能否留下，两边已做的工不能后悔。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 423,
+      "quote": "船还没开到新图上，林渡已经把接货的地方擦掉了半个。",
+      "reason": "开篇石阶被淹，昨天的干位置不能用于今日。候日不是准航，从一块脚位开始撤掉计划。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 423,
+      "quote": "只把它认成上舵手一人用的一次短靠。",
+      "reason": "弥娅复核读数和落脚，林渡把恢复的位置限制为送舵手一人，不替货物或更多乘员作证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 423,
+      "quote": "两边回读确是六。",
+      "reason": "熟水报六尺，外沿实放又报三尺，与当班四尺停线分清。两份纸也让岸见方位与船见刻结各有来源。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 423,
+      "quote": "林渡隔着水听不见坠子撞什么",
+      "reason": "没有凭空共享视听。舵手报硬底，林渡据自己所见给短线记止处，读者能跟着确认最危险的一笔。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 423,
+      "quote": "下一回声响会从哪边来，已经不能由桌上那条旧线决定了。",
+      "reason": "前方仍有未落铅位置，船还浮在水上。读者要看是及时退回还是再冒险确认一个点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 424,
+      "quote": "弥娅却按住了竿上的白布。",
+      "reason": "船头再转就可越过刚测位置，按布和「让他退」使未测风险直接决定当下动作。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 424,
+      "quote": "这班是让人回岸。",
+      "reason": "林渡拒绝为一只箱延长停靠，有限窗口只接舵手并递给留守人已备好的小桶。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 424,
+      "quote": "滞在外面的人今凉有两壶日用水，三层该等的货却仍在原处。",
+      "reason": "船退回原锚位、两壶实交、无箱无客试新段；接驳只完成一趟该做的事。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 424,
+      "quote": "我把摊子托给人，今天连厚布都带来了。",
+      "reason": "误把空签当药到的布摊主人真实下岸跑空，等待的时间与材料都落到具体人，不能用安全退回消掉她的损失。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 424,
+      "quote": "守仓的人等不起一句再看看。",
+      "reason": "测纸上去后要向付过工的仓口公开说停哪一段，下一章不只是重复说危险。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 425,
+      "quote": "你说要停，告诉我停哪一段。",
+      "reason": "装货号在管事手里，仓口有实际等待者，停新段必须有当面范围和实测依据。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 425,
+      "quote": "我们这班先停拟扩那段，也不接它的大箱和搭客。",
+      "reason": "林渡明确拒绝轻箱试行，仍给原背水短接留现场判断，照护干路照旧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 425,
+      "quote": "今天装货号收回，料还得搬一次",
+      "reason": "扩大货位由准备变成撤回，舱和仓的工分别认，没有大箱入账或由共同水给补偿。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 425,
+      "quote": "今凉问明白，我就不托人替我守摊了。",
+      "reason": "布摊主人从等整箱药转回自己的布摊与真正可问药的照护人，给停航的失望一个能行动的结果。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 425,
+      "quote": "下一张抄出去的东西由看见过的人一同认。",
+      "reason": "闻汀要取印、替港方先定哪张图可信，曲荻和舵手各有纸权，下一章要见谁能替哪笔实测落名。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 426,
+      "quote": "闻汀把印往纸上一压，弥娅用一枚薄木片挡在了下面。",
+      "reason": "未量处眼看要因旧印和附页次序被人误认，弥娅当场挡印，承接425暂停后的写法冲突。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 426,
+      "quote": "要我译，你就在这里说。",
+      "reason": "闻汀给进小棚的机会，弥娅选择仍在能找当事人的桌上同译，并让曲荻决定旧页可抄到哪里。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 426,
+      "quote": "只在自己另外那张送文纸上压了收记",
+      "reason": "印只认听过现场回读，岸与船各自抄记未到处，改变了来客可能带回的凭证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 426,
+      "quote": "若把这枚印盖在两边，旁人会问我：那后面是谁替我量的？",
+      "reason": "舵手支持公开限定自己所见，读者看见弥娅的选择从孤立坚持变成实际有人共同承担。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 426,
+      "quote": "量过浮标边的那个人是谁",
+      "reason": "旧航页不借，细签露在折页背后，接下来可以沿收页手续找到谁曾经下铅。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 427,
+      "quote": "问原先让出来的地方还要空多久。",
+      "reason": "借据当日到期，别家肯付工换夜。孩子原檐和来客暂歇棚同时有续位压力。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 427,
+      "quote": "得先让姨母当面说。",
+      "reason": "林渡与檐主下两缝见实际照护人，愿不愿挪、用不用保退位由家属开口，后续仍按换手条件。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 427,
+      "quote": "他说留二十日。",
+      "reason": "原檐得到明确期限；来客用两次搬筐换两夜，理签另兑六壶私水，住位和水各有对价。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 427,
+      "quote": "脚没好不能借这么个日子催它好。",
+      "reason": "孩子听见睡垫还在，姨母把受伤本身和日期分开。回报是退路被保住而没有假写人痊愈。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 427,
+      "quote": "还能不能找到曾亲手按过测绳的人。",
+      "reason": "等工人拿木眼核旧架，林渡从亲手可证的东西转问旧航页。接下来想看谁实际留过测点。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 428,
+      "quote": "他今天原本是来拿绳的。",
+      "reason": "旧缆续借到期，车却未修、轮边有水，拿回一条普通借物会实际影响伤棚与车辆。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 428,
+      "quote": "这一期内若换到可验的停法，送两挡和缆回铺由我认人办。",
+      "reason": "林渡要继续承担留车和日后实送，不拿新接驳索混账；阿九拒强拽损坏导轮。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 428,
+      "quote": "四包继续在原来次序，今天一包未兑。",
+      "reason": "续缆和旧四包同日续二十日，实物、欠货与经手依旧各有纸，海上盐药不能用来补旧货。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 428,
+      "quote": "我左腿伸下去容易，上来得请你把我也吊一遍。",
+      "reason": "阿九的玩笑给停工一个有伤势的身体尺度，让收具人无法把危险想成简单的推一下。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 428,
+      "quote": "纸上还没有一个能叫来问的名字。",
+      "reason": "老料主问到哪块石头叫停，林渡手里的测纸有船位，却没有旧图的经手人，下一章转为查来处。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 429,
+      "quote": "他的掌心正好盖住石阶外头那段水，底下一个数也没有。",
+      "reason": "手拿开也没有新的数，开场就让未知范围可见，追问是从哪里开始量和谁知道。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 429,
+      "quote": "问的就一处记号、一张航页的来处",
+      "reason": "弥娅认识某种培训用短划却不以此认白礁，选择托值守台发可追经手人的短问。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 429,
+      "quote": "过四日可按今凉的短时点再候一次。",
+      "reason": "旧页细签与闻汀收签已见，第一次有一条具体转达渠道及下次可重复时段，原图仍不交。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 429,
+      "quote": "如今纸上划痕还留着，真有人肯来，她想先看看那人肯把什么交到桌上。",
+      "reason": "弥娅有故人可能出现的冲动，仍愿让关系落实到他愿交的物证，情绪和判断都可读。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 429,
+      "quote": "他自己指一指，手往下落的地方为什么没有原测点。",
+      "reason": "问题具体到了缺失的原测点，回话人是否真能指出并带来材料，足以让下一章等一班听口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 430,
+      "quote": "两张旧单都到日子了",
+      "reason": "一人拿来一张、另一张待返，之前欠货仍到时须答；旧债期限与后段候水的时间同步收紧。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 430,
+      "quote": "请她把「带来可验」和「能否带来待答」都译出去。",
+      "reason": "林渡接受预备明凉候船，弥娅把实际可验和请求分开，来客自报名也不能先换成已收物证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 430,
+      "quote": "看着那人在纸尾落了名。",
+      "reason": "值守台这次能报自己当班收件和纸仍存，转答的来源有进展；瞭点只证船到避风处，尚不能证人到本岸。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 430,
+      "quote": "我先听他自报名。",
+      "reason": "终于听到导师名字，弥娅写了两遍却仍要求本人开口及把原样放桌上，读者得到重逢可能和她成长后的反应。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 430,
+      "quote": "今日能写在到岸那一格的，仍只有一处空白。",
+      "reason": "林渡压回第二幅白布，下一凉须先验水和实到，再验人和带来的页，延后的兑现条件十分具体。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 423,
+      "quote": "舵手说只报这一次碰到硬底",
+      "reason": "420两图偏一格，421先在两个望处看见浮标会动，422安排岸船分测。423实报熟水六尺与拟拓线近边三尺，423—424退回旧接位，425实撤大箱的装货号，兑现一格误差足以改变能不能开船。硬底长度、浮标身份和旧页实测者仍未证。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 426,
+      "quote": "两张都得看得见那一笔。",
+      "reason": "先用各自可验的私料和工买水，随后错位让已花的两方备工和大箱货位收回，最后问题扩为谁能给未测地段落印、旧页有无可追原样。保住两份各有空的抄记后，429—430才让白礁答纸接到新一轮实地求证。",
+      "verdict": "pass"
+    }
+  ],
+  "verdict": "pass"
+}

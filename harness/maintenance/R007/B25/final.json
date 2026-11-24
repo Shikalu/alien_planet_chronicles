@@ -1,0 +1,1138 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reviewer": "/root/review_241_250",
+  "writer": "R007-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 241,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第241章_签字后的第一班.md",
+      "sha256": "133eec49a13bc941f5be2016e3c6c953acf11f5bdb298038a59fefe1dd923deb"
+    },
+    {
+      "chapter": 242,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第242章_门牌底下的人.md",
+      "sha256": "3dcbffe5cbd3991d5fd3c82b1ba922c844e049b9cdad9fa72a0a998ef807ddd1"
+    },
+    {
+      "chapter": 243,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第243章_原工坐在旁边.md",
+      "sha256": "d09ebce2c73931c8e7b76f30def8b9d59083a5eb151b15015adf151daa41ce8d"
+    },
+    {
+      "chapter": 244,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第244章_楼上的接水盆.md",
+      "sha256": "d66042f797fed798fed38205d63a137e6fc938f6e1d8e29b00d2de1eac133721"
+    },
+    {
+      "chapter": 245,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第245章_手离开红线.md",
+      "sha256": "b07fdc0f384724c697deeb6b166a02ac9b77c5881afba84474e6c833e8764483"
+    },
+    {
+      "chapter": 246,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第246章_六桶水的分法.md",
+      "sha256": "4e45f02e07875c47cd2d54fec2b4fedb54463a0d0bac8c1e0f168d69458c99bb"
+    },
+    {
+      "chapter": 247,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第247章_放水的人先松手.md",
+      "sha256": "3e09339f8b03ed53d22c642cf2b684b71f1803a992734b0626fd9083328a1503"
+    },
+    {
+      "chapter": 248,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第248章_灯亮了水还没到.md",
+      "sha256": "546b15bc38309f618e814a468745cc66620049164439b99f2450e45441870a6e"
+    },
+    {
+      "chapter": 249,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第249章_灰白片不用换.md",
+      "sha256": "2ddd2c0960b57cac80a2a19d11a5babaa34dd058304f97fdc5a07b6aedd29677"
+    },
+    {
+      "chapter": 250,
+      "path": "异星录/06_执行计划/工作区/R007-B25/第250章_门开以后.md",
+      "sha256": "42e252e67bdfb3041ec782f5d91279b528bbd623369f537accb5d79db020f859"
+    }
+  ],
+  "source_digest": "a7cd8aebc98583f600cf7d8b1e4494f710190301e1af738275662956cd71b764",
+  "verdict": "pass",
+  "fact_verdict": "pass",
+  "reader_verdict": "pass",
+  "chapter_readings": [
+    {
+      "chapter": 241,
+      "location": "五层站—六层泵房—五层棚",
+      "goal": "让当日水有来源并备齐议席",
+      "choice": "只借当班、不挤工人明日份",
+      "cost": "工人当班少喝、林渡肩痛、夜班仍空",
+      "advances": [
+        "资源",
+        "目标",
+        "关系"
+      ],
+      "knowledge_boundary": "借额不当永久水源；未进柜的原则不等于已发",
+      "hook": "时间／人员缺口"
+    },
+    {
+      "chapter": 242,
+      "location": "五层北巷—五层站",
+      "goal": "按活人核名查拒发原因",
+      "choice": "核水与住房争议分开、不用熟人见证",
+      "cost": "借板限时、照护另占上门人力",
+      "advances": [
+        "目标",
+        "规则",
+        "线索"
+      ],
+      "knowledge_boundary": "旧片可读不等于领水；未亲见仍待核",
+      "hook": "身份／拒发机制"
+    },
+    {
+      "chapter": 243,
+      "location": "六层调度房—柜房—排空沟",
+      "goal": "取得先勘先试许可",
+      "choice": "不齐人不切、保护回路不动",
+      "cost": "席牌限路、纸复用、热窗用尽",
+      "advances": [
+        "目标",
+        "规则",
+        "关系"
+      ],
+      "knowledge_boundary": "支路授权不及总库、年度差额不换算今日减量",
+      "hook": "选择／上层住户共担"
+    },
+    {
+      "chapter": 244,
+      "location": "六层邵萍屋—低处水嘴—五层棚",
+      "goal": "找到高处有份无水的原因",
+      "choice": "停重复开关、给个人上工份救急",
+      "cost": "上工份一小壶、停管、搬水未定",
+      "advances": [
+        "线索",
+        "资源",
+        "关系"
+      ],
+      "knowledge_boundary": "压力不足仅局部试验，不断言所有高处故障同因",
+      "hook": "危险／运输欠账"
+    },
+    {
+      "chapter": 245,
+      "location": "六层柜—五层棚",
+      "goal": "分清发放与保护、验证拒发机制",
+      "choice": "伤手报限、原工操作、两端留数",
+      "cost": "午后窗口、林栖右手受限、阿九膝弱",
+      "advances": [
+        "规则",
+        "目标",
+        "线索"
+      ],
+      "knowledge_boundary": "身份原档保留，手动档只改发放，不恢复门禁",
+      "hook": "机制发现／身份"
+    },
+    {
+      "chapter": 246,
+      "location": "五层棚前—核证位",
+      "goal": "定一班真实六桶的分法",
+      "choice": "病幼不减、成人同档、退班不扣水",
+      "cost": "成人每人少1勺、回补暂停、两搬运者退出",
+      "advances": [
+        "资源",
+        "关系",
+        "规则"
+      ],
+      "knowledge_boundary": "80申请与60供给的局部班口径，非全城总产",
+      "hook": "关系／失去支持者"
+    },
+    {
+      "chapter": 247,
+      "location": "六层支路外廊—柜房—五层棚",
+      "goal": "阻止排水报复并保住人",
+      "choice": "先拉人、另立责任页不以水惩罚",
+      "cost": "肩伤加重、外廊封、绕路、搬运缺2人",
+      "advances": [
+        "关系",
+        "资源",
+        "目标"
+      ],
+      "knowledge_boundary": "阀轮未开不可写毁库，私人工具暂存不是没收",
+      "hook": "时间／缺人待修"
+    },
+    {
+      "chapter": 248,
+      "location": "五层站—六层柜与管廊—五层棚",
+      "goal": "查空桶与假灯、实测联动",
+      "choice": "停补第二桶，弃假指示改两端人工",
+      "cost": "半壶损耗、半热时、信使占班、灯缺件",
+      "advances": [
+        "资源",
+        "规则",
+        "线索"
+      ],
+      "knowledge_boundary": "历史实领疑照灯为待核，不是证实造假",
+      "hook": "发现／假灯牵旧簿"
+    },
+    {
+      "chapter": 249,
+      "location": "五层棚值桌",
+      "goal": "核定人、班、许可，备正式切换",
+      "choice": "灰片不换、失联不抹、医疗不挪",
+      "cost": "限期夜班、嗓哑、长期搬运办不到",
+      "advances": [
+        "规则",
+        "目标",
+        "关系"
+      ],
+      "knowledge_boundary": "本次60成人＋20壶病幼非整城人口；原档不销",
+      "hook": "选择／份额与道路"
+    },
+    {
+      "chapter": 250,
+      "location": "六层柜—五层分发口—靠山安置地",
+      "goal": "正式停本支路自动剔除，实发核欠额",
+      "choice": "公开欠20、成人同档、照领退班者",
+      "cost": "回补零、欠额无补期、下迁仍缺梁与人",
+      "advances": [
+        "目标",
+        "资源",
+        "规则",
+        "关系"
+      ],
+      "knowledge_boundary": "只本支路改发水，红灯身份门禁仍旧；不能申报全城",
+      "hook": "世界／下迁新负担"
+    }
+  ],
+  "issues": [
+    {
+      "id": "R007-B25-001",
+      "chapter": 244,
+      "quote": "自己用拾来的干枝把表面的枯叶夹走，不将深处的泥捅进饮水管。",
+      "severity": "minor",
+      "category": "叙述者辩护",
+      "problem": "正在清露天排水槽，枯枝清叶本来接触不到饮水管；额外辩护反而制造两管相通的误解。",
+      "suggestion": "自己用拾来的干枝夹走槽口的枯叶，露出下面通向排沟的窄缝。",
+      "status": "closed",
+      "blocking": false,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "清排水槽的动作有结果，删不通饮水管的悬空辩护",
+      "recheck_quote": "自己用拾来的干枝夹走槽口的枯叶，露出下面通向排沟的窄缝。"
+    },
+    {
+      "id": "R007-B25-002",
+      "chapter": 245,
+      "quote": "掌心那道旧疤被铅笔压出一道白痕，她自己没提，只把笔换到左手里接着抄。",
+      "severity": "moderate",
+      "category": "伤手动作链",
+      "problem": "整章左手持笔、右手试柄报限，回棚未交代换回右手却出现右掌被笔压白；应用持续的试柄受力痕，不补一次未写出的持笔。",
+      "suggestion": "试柄时受力的那道旧疤仍泛着白，她将右手摊在膝上，左手接着抄。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "伤手印来自已写试柄，左手持笔持续",
+      "recheck_quote": "试柄时受力的那道旧疤仍泛着白，她将右手摊在膝上，左手接着抄。"
+    },
+    {
+      "id": "R007-B25-003",
+      "chapter": 246,
+      "quote": "用铁皮勺的人盯着这行字看了半晌，把勺塞回袋底——他家的勺最大，这几年舀出去的水也最多。",
+      "severity": "moderate",
+      "category": "知识来源",
+      "problem": "只测器具容量，尚未确认各户往年一律按相同勺数发水；直接判定历史多领超出证据。",
+      "suggestion": "用铁皮勺的人盯着这行字看了半晌，把勺塞回袋底，问旧账上的勺数要不要也重算。戊字一指着壶线，让他先带原领单来，不能只凭今天这把勺补出过去的水数。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "过去是否多领需原单核证，不因大勺倒推",
+      "recheck_quote": "不能只凭今天这把勺补出过去的水数。"
+    },
+    {
+      "id": "R007-B25-004",
+      "chapter": 247,
+      "quote": "这个人替棚换过小板，昨日还留下来看北巷的册，",
+      "severity": "moderate",
+      "category": "时间口径",
+      "problem": "242北巷核册是D107，247为D110，同一男人不能写昨日；不变更事件日期。",
+      "suggestion": "这个人替棚换过小板，前几日还留下来看北巷的册，",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "D107核册与D110现场不再误写昨日",
+      "recheck_quote": "这个人替棚换过小板，前几日还留下来看北巷的册，"
+    },
+    {
+      "id": "R007-B25-005",
+      "chapter": 247,
+      "quote": "“你今天问我，干活时有没有答应少喝。没有。”",
+      "severity": "minor",
+      "category": "时间口径",
+      "problem": "246同日上午问的是“你自己少，是你自己愿意……没答应一直少”，问题可承接，原句转述过于完整且像替作者辩护；简化直接认其未同意。",
+      "suggestion": "“你今天说，修棚时没答应一直少喝。我记着。”",
+      "status": "closed",
+      "blocking": false,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "当事人当日上午的实际话得到直接承接",
+      "recheck_quote": "“你今天说，修棚时没答应一直少喝。我记着。”"
+    },
+    {
+      "id": "R007-B25-006",
+      "chapter": 247,
+      "quote": "两个送桶者把看见的分开写，写完各按一个手印。原工将这一页夹在停止牌副本后面，写明谁在场、谁没在场。那两名退班者今日的搬运工格空着，工班记零，饮水仍照底数；裴七没有把这两件事并成一格，免得日后有人拿做没做工换水。两个送桶者目睹全程，分别报了看到的动作：搭钳、攀撑、拉人，不能把险些开阀写成已经毁库，也不能把差点跌下去说成故意赴死。",
+      "severity": "moderate",
+      "category": "重复验证与位置链",
+      "problem": "送桶者证词重复两遍；棚内裴七尚未听回报，却在现场段落里填班，造成位置链断裂；后两句作者辩护替代实际记录。",
+      "suggestion": "两个送桶者分别报了搭钳、攀撑、拉人的经过，原工分栏写下，请他们各按手印。阀轮未开、廊架受损列在后面，副页随停止牌送回五层；两名退班者的水册另留在棚里，不与这页合放。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "见证一轮分栏，现场没有尚在五层的裴七",
+      "recheck_quote": "两个送桶者分别报了搭钳、攀撑、拉人的经过，原工分栏写下，请他们各按手印。"
+    },
+    {
+      "id": "R007-B25-007",
+      "chapter": 247,
+      "quote": "照护者把阿九的左膝重新缠过，藤带在膝盖下多绕了一圈。裴七看他这一班的字号，把后半夜的两格先划去；阿九要争，原工在门里说了一句“腿是你自己的”，他才把笔放下。",
+      "severity": "moderate",
+      "category": "位置链",
+      "problem": "原工在柜门，裴七却未出棚先在场划班；不能补裴七奔走作为无依据新事实。",
+      "suggestion": "阿九坐在凳上松开左膝的旧藤带，将滑下去的一圈重新压好，手仍按着膝盖。原工在门里看见，叫他今夜别再回来接班。阿九张口要争，站起来时腿一软，又扶住了凳背。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "重缠与夜两格划去移到回棚后，保留既有代价且位置链闭合",
+      "recheck_quote": "傍晚他们回到棚，裴七听完全部经过，将缺的两格搬运班重新圈出，又加上次日检修占用的工时。照护者替阿九重缠左膝，藤带在膝盖下多绕一圈；裴七看过便划去他后半夜的两格。"
+    },
+    {
+      "id": "R007-B25-008",
+      "chapter": 247,
+      "quote": "管钳与那只阀轮另立一页，明早验过缸里的水，才准把管钳装回原位。",
+      "severity": "moderate",
+      "category": "物件物理",
+      "problem": "私人管钳是工具，不是阀轮装配件；验廊验阀是归还工具的条件，验缸水不能完成结构损伤检查。",
+      "suggestion": "管钳与那只阀轮另立一页。明早原工验过阀口和廊架，再在那页上写清管钳何时能还给持有人。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "私人管钳按验阀验廊后归还，不作设备零件",
+      "recheck_quote": "明早原工验过阀口和廊架，再在那页上写清管钳何时能还给持有人。"
+    },
+    {
+      "id": "R007-B25-009",
+      "chapter": 248,
+      "quote": "柜房原有的安全停泵线仍按昨日单独验过的状态工作，",
+      "severity": "moderate",
+      "category": "时间口径",
+      "problem": "安全线单独试验为245/D109，本章D111，昨日D110只是验廊事故。",
+      "suggestion": "柜房原有的安全停泵线仍按前日单独验过的状态工作，",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "245/D109到248/D111改前日",
+      "recheck_quote": "柜房原有的安全停泵线仍按前日单独验过的状态工作，"
+    },
+    {
+      "id": "R007-B25-010",
+      "chapter": 248,
+      "quote": "梯脚在石台上留下两点白痕——停水后析出的盐。",
+      "severity": "moderate",
+      "category": "感官物质来源",
+      "problem": "停水本身不是盐析出来源，踩梯也不会立刻析盐；白痕应交代旧垢被摩擦或汗水蒸发的具体过程。",
+      "suggestion": "梯脚蹭起石台上原有的干结白垢，留下两点浅痕。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "旧垢摩擦来源具体，停水不再凭空析盐",
+      "recheck_quote": "梯脚蹭起石台上原有的干结白垢，留下两点浅痕。"
+    },
+    {
+      "id": "R007-B25-011",
+      "chapter": 248,
+      "quote": "一天里两次，亮的是灯，空的是桶。",
+      "severity": "moderate",
+      "category": "数字闭环",
+      "problem": "正文只呈现一次报到；伏笔台账A15明确两次为已发生。不能销成一次，须在首轮送话中补第二次照灯复报、下游仍空的现场。建议加入在“岑野喝过自己带来的水，才返身上坡。”之后，同轮原工未补水，少年再回报灯仍报到，戊字一出示空罐，才送林渡上坡查灯。此为补写台账已有事实而非新增试水。",
+      "suggestion": "见问题说明，以既有事实补清现场，不新增已发生事件",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "伏笔与悬念台账A15“往旬实到栏疑照灯填”：已埋当日两次灯报到了、桶里空",
+      "resolution": "岑野同轮两次报到分别记，戊字一第二次举桶仍空；未增水、未增少年额外往返，保持台账两次已发生",
+      "recheck_quote": "我出柜房时，上头又照灯报了一次到水。两声我都记了，没并成一声。"
+    },
+    {
+      "id": "R007-B25-012",
+      "chapter": 248,
+      "quote": "他得把往旬的簿子调来逐页对。对不完，切换那一班的底数就还是旧簿上的数。",
+      "severity": "moderate",
+      "category": "承诺与因果",
+      "problem": "前面当轮十壶已实量且246六桶基数明确；史簿全核写成新班底数的前提，249—250没有兑现，造成新的无形挡板。历史疑账应保留待核，新班按实测可继续。",
+      "suggestion": "他得把往旬的簿子调来逐页对，不能再拿旧簿充作实到证据。切换那一班另从两头实量起记；旧账里那些未核清的数，继续挂在待核页上。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "史账待核与新班实测分开，不假称旧案已结",
+      "recheck_quote": "切换那一班另从两头实量起记；旧账里那些未核清的数，继续挂在待核页上。"
+    },
+    {
+      "id": "R007-B25-013",
+      "chapter": 250,
+      "quote": "林栖念出本支路与本班起止，当班的原工跟着念回一遍，工号对上，她才把发放判断切到人工。",
+      "severity": "severe",
+      "category": "伤势能力与操作权",
+      "problem": "林栖245已明确推不动重柄、只核数；本句代词令她独立完成转柄，与已发生伤势/权限冲突。",
+      "suggestion": "林栖念出本支路与本班起止，当班的原工跟着念回一遍。工号对上，原工将发放判断切到人工，林栖在侧桌记下转换位置。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "原工推重柄、林栖核数，伤势与权限未跳级",
+      "recheck_quote": "工号对上，原工将发放判断切到人工，林栖在侧桌记下转换位置。"
+    },
+    {
+      "id": "R007-B25-014",
+      "chapter": 250,
+      "quote": "丁字三锁好转换处，钥匙仍由原工保管，",
+      "severity": "moderate",
+      "category": "钥匙物权与分工",
+      "problem": "243丁字三只持外盖钥匙，当班原工持操作钥匙；丁字三直接上锁缺交钥匙动作。可以让原工持钥匙、丁字三确认锁位，保留两人共管的既有结果；章卡/时间线中的丁字三上锁也须同步澄清。",
+      "suggestion": "丁字三看住转换位置，由原工用操作钥匙锁好，钥匙仍挂回原工腰间，",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "带查确认锁位，当班原工用并保管操作钥匙",
+      "recheck_quote": "丁字三看住转换位置，由原工用操作钥匙锁好，钥匙仍挂回原工腰间，"
+    },
+    {
+      "id": "R007-B25-015",
+      "chapter": 250,
+      "quote": "昨日退班的两人也在队中。",
+      "severity": "moderate",
+      "category": "时间口径",
+      "problem": "两人247/D110退班，本章D113，应为三日前，不能昨日。",
+      "suggestion": "先前退班的两人也在队中。",
+      "status": "closed",
+      "blocking": true,
+      "source_basis": "AGENTS.md第5、8.1节；正文与连载规范第九节",
+      "resolution": "D110退班在D113领水不再写昨日",
+      "recheck_quote": "先前退班的两人也在队中。"
+    }
+  ],
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 241,
+      "quote": "赫连签字后的第一班水，仍没从五层分发口流下来。",
+      "reason": "纸已签而水未到，冲突立刻出现",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 241,
+      "quote": "“先给病的。”他把空瓢放回原处。",
+      "reason": "优先病幼、承认借水暂时性",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 241,
+      "quote": "六壶进了站里的量壶，逐壶入缸，谁让的、减在哪一班，都念了一遍。",
+      "reason": "当日六壶来历落到人且不伪装固定水源",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 241,
+      "quote": "“你吃。我去念回条。”",
+      "reason": "杜姨得到一顿坐下吃饭的空隙，照护关系有体温",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 241,
+      "quote": "两日后，要让纸上的名字走到出水嘴前，棚里还缺一双肯在柜后守满一班的手。",
+      "reason": "议席前缺守柜者，使下章有具体任务",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 242,
+      "quote": "五层靠山一侧的北巷，第五块门牌下的壶比人先到。",
+      "reason": "壶先到、人不敢露面，压力具体",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 242,
+      "quote": "“核水的时候不收屋。”林渡补了一句。",
+      "reason": "林渡不拿饮水核名趁机判住房",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 242,
+      "quote": "如今纸上有旧户号、现住者自报、亲见和待核四栏，再没有拿一扇门当一家人的整行。",
+      "reason": "核名从空户转为亲见四栏，方式改变",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 242,
+      "quote": "“那为什么不给？”",
+      "reason": "孩子的追问把制度伤害落到个人",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 242,
+      "quote": "柜子已经认出了一个孩子，究竟是哪一步，把这个孩子的水挡了回去。",
+      "reason": "可读旧号却不发水，后续要查哪一环具体",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 243,
+      "quote": "旬头开席，桌上先摆了一把断柄。",
+      "reason": "断柄暗示改手动并非只签字",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 243,
+      "quote": "“先准勘柜、试量。人不齐，不正式切。”",
+      "reason": "不齐人员便不正式切，承担组织难题",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 243,
+      "quote": "正式停用自动剔除的位置仍空着日期，要等试量、名单、交班齐备再填。",
+      "reason": "许可从原则进到局部勘验、仍需条件",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 243,
+      "quote": "“这东西补上也不敢让人拧。你想省新柄，我想省三个班。”",
+      "reason": "阿九以省三个班作玩笑，技术代价可感",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 243,
+      "quote": "得先站到那扇窗下面，让一直以为自己还有整份的人，把问题当面问出来。",
+      "reason": "上层住户将直接质疑减额，冲突对象变化",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 244,
+      "quote": "脚下的板向外倾了一点。",
+      "reason": "窄台向外倾使进入病人家本身有危险",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 244,
+      "quote": "“先隔住这一段。等工班带工具。”",
+      "reason": "停试保护管、承认当天少水",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 244,
+      "quote": "他问她是否愿意请两人进去，把柜前拟减额的事听完。",
+      "reason": "实际查明高处低压、提出低处代领",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 244,
+      "quote": "“孩子在这儿量过身高。”",
+      "reason": "枯树保留孩子身高刻痕，住户不是配额数字",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 244,
+      "quote": "下一班水无论在册上给谁，若仍送不到那条窄台，林渡就得把抬水的人一并带到门前，而不能只送去一张新单。",
+      "reason": "代领需要搬水人员，下一章不能只改表",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 245,
+      "quote": "柜里有两根相邻的拉杆，林栖的手停在中间。",
+      "reason": "两杆相邻、伤手停住，能力边界立刻可见",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 245,
+      "quote": "“手。不是柜卡。”",
+      "reason": "林栖承认手限而非强撑升级",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 245,
+      "quote": "“人的旧记录在。算水的时候跳过去。”",
+      "reason": "自动剔除保旧档却不计需求，制度机制揭开",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 245,
+      "quote": "“少了一行，也得看得见。”她说。",
+      "reason": "少一行也须看见，是孩子号仍在的实际回应",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 245,
+      "quote": "明日若把活人都算进去，柜上那格剩额足还留不留得住，林渡得当着楼上和棚里的两排人，亲手把水量给他们看。",
+      "reason": "完整实人册与剩额数将发生面对面冲突",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 246,
+      "quote": "六只标桶先摆到了棚前。",
+      "reason": "空桶先呈示有法无水，不假装供给增加",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 246,
+      "quote": "“你可以不接搬运班，水还是两勺。”",
+      "reason": "退班仍给水，林渡接受反对者合法存在",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 246,
+      "quote": "成人六十人，共分四十壶。每人两平勺，都是原来三勺中的两勺。",
+      "reason": "六十成人共四十壶可复算，减额真正落地",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 246,
+      "quote": "“搬把凳子。我没说用腿看账。”",
+      "reason": "看窗老人坐凳看账，以有限能力参与",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 246,
+      "quote": "水已经议出分法，下一班开柜时却少了两名抬桶者；",
+      "reason": "少两名搬运让公平分法付出组织代价",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 247,
+      "quote": "借桶还没送回柜房，前面的人便停住了。",
+      "reason": "送桶路被阀口威胁截断",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 247,
+      "quote": "“水册不划你。这里的事另记。”",
+      "reason": "责任另记而不拿水惩罚，原则经行动验证",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 247,
+      "quote": "原工沿原刻线核过，位置未变。水未被排走，检修廊得封一段，擦伤的漆口也要重查。",
+      "reason": "未放水仍封廊停试，危险后果有效",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 247,
+      "quote": "“那一回，我动了。死人没回来。”",
+      "reason": "林岑自认死人不回，没有救人洗白",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 247,
+      "quote": "夜班还空着，抬桶又少两人。",
+      "reason": "夜班与搬运双缺等待补救",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 248,
+      "quote": "六层柜上的到水灯亮了，五层的桶仍是空的。",
+      "reason": "灯已亮、桶仍空，异常清晰",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 248,
+      "quote": "“回话，没到。别补第二桶。”",
+      "reason": "不补第二桶，查证而不扩大损失",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 248,
+      "quote": "半壶留在检修损耗罐，九壶半到五层清洁量具，管路排尽，无另藏的一段留水。",
+      "reason": "十壶分饮水与检修损耗，实际变化可测",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 248,
+      "quote": "林渡划去他后半班的名字，改写待接。",
+      "reason": "信使只跑半班被尊重，组织规则也约束主角",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 248,
+      "quote": "过去那些旬，五层实到栏里的数，有多少是照灯填的，有多少是照量壶填的。",
+      "reason": "旧簿实到栏的疑问仍具体，但新班另从两头实量起记，不以核完史账阻塞当班切换",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 249,
+      "quote": "正式切换定在明日。",
+      "reason": "明日切换，今晚核人接班形成倒计时",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 249,
+      "quote": "“这份不动。”林渡说，“少的两桶写少。”",
+      "reason": "拒挪医疗水，承认两桶缺口",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 249,
+      "quote": "正式准许只及这条支路的发放判断，不及总库、门禁、追责档案，也不许动低水位保护。",
+      "reason": "正式授权限本支路，身份门禁仍存",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 249,
+      "quote": "“它灰着，也留着。”她说。",
+      "reason": "孩子保灰片缺口，不再为像上层人而磨片",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 249,
+      "quote": "明日水嘴一开，他得先把病幼的水亲手送出，再回头处理那些有了份额、依然走不到水边的人。",
+      "reason": "水到了也上不了楼，运输与照护尚欠",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 250,
+      "quote": "灰白身份片送进槽里，拒发的红灯照旧亮起。",
+      "reason": "红灯仍拒，读者立刻等人工是否真正有效",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 250,
+      "quote": "“按班续。少了照记，不再把你的名字划走。”",
+      "reason": "下一班少水仍记欠、绝不删名",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 250,
+      "quote": "二十壶病幼、四十壶成人，六十壶与上游本班送下的数对齐；满份申请八十，欠额二十，原拟回补的一桶没有留下。",
+      "reason": "原工实际转换并持钥匙上锁，林栖核读转换位置；六十壶正式到人、二十欠额公开，能力和权限边界均在",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 250,
+      "quote": "“病幼份今天照单到了。”林渡将空瓢还给他，“你的两勺也在你壶里。”",
+      "reason": "空瓢兑现，仍不给额外特权",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 250,
+      "quote": "林渡把量路用的短绳绕在右手，先往靠山的安置地走去；那根早已送上水库的长梁，棚里还欠着。",
+      "reason": "新申请与高处下迁把胜利变新责任",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 250,
+      "quote": "“病幼份今天照单到了。”林渡将空瓢还给他，“你的两勺也在你壶里。”",
+      "reason": "241签纸未进柜与空瓢未兑，250实际六桶到病幼和成人，兑现局部可问责发水，仍保欠额",
+      "verdict": "pass",
+      "action": ""
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 250,
+      "quote": "林渡把量路用的短绳绕在右手，先往靠山的安置地走去；那根早已送上水库的长梁，棚里还欠着。",
+      "reason": "阻碍从发放资格升级为有份者无法下楼和安置缺料，制度胜利付出分配、人手、搬迁代价",
+      "verdict": "pass",
+      "action": ""
+    }
+  ],
+  "standards": {
+    "人物位置链": {
+      "hits": [
+        {
+          "chapter": 247,
+          "quote": "两个送桶者把看见的分开写，写完各按一个手印。原工将这一页夹在停止牌副本后面，写明谁在场、谁没在场。那两名退班者今日的搬运工格空着，工班记零，饮水仍照底数；裴七没有把这两件事并成一格，免得日后有人拿做没做工换水。两个送桶者目睹全程，分别报了看到的动作：搭钳、攀撑、拉人，不能把险些开阀写成已经毁库，也不能把差点跌下去说成故意赴死。",
+          "issue_id": "R007-B25-006"
+        },
+        {
+          "chapter": 247,
+          "quote": "照护者把阿九的左膝重新缠过，藤带在膝盖下多绕了一圈。裴七看他这一班的字号，把后半夜的两格先划去；阿九要争，原工在门里说了一句“腿是你自己的”，他才把笔放下。",
+          "issue_id": "R007-B25-007"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "数字闭环": {
+      "hits": [
+        {
+          "chapter": 248,
+          "quote": "一天里两次，亮的是灯，空的是桶。",
+          "issue_id": "R007-B25-011"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "信息释放顺序": {
+      "hits": [],
+      "result": "逐章阅读未见需单列修订的命中；不以词频代替审读"
+    },
+    "知识来源": {
+      "hits": [
+        {
+          "chapter": 246,
+          "quote": "用铁皮勺的人盯着这行字看了半晌，把勺塞回袋底——他家的勺最大，这几年舀出去的水也最多。",
+          "issue_id": "R007-B25-003"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "物件物理": {
+      "hits": [
+        {
+          "chapter": 247,
+          "quote": "管钳与那只阀轮另立一页，明早验过缸里的水，才准把管钳装回原位。",
+          "issue_id": "R007-B25-008"
+        },
+        {
+          "chapter": 250,
+          "quote": "丁字三锁好转换处，钥匙仍由原工保管，",
+          "issue_id": "R007-B25-014"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "时间口径": {
+      "hits": [
+        {
+          "chapter": 247,
+          "quote": "这个人替棚换过小板，昨日还留下来看北巷的册，",
+          "issue_id": "R007-B25-004"
+        },
+        {
+          "chapter": 247,
+          "quote": "“你今天问我，干活时有没有答应少喝。没有。”",
+          "issue_id": "R007-B25-005"
+        },
+        {
+          "chapter": 248,
+          "quote": "柜房原有的安全停泵线仍按昨日单独验过的状态工作，",
+          "issue_id": "R007-B25-009"
+        },
+        {
+          "chapter": 250,
+          "quote": "昨日退班的两人也在队中。",
+          "issue_id": "R007-B25-015"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "光影与能力边界": {
+      "hits": [
+        {
+          "chapter": 250,
+          "quote": "林栖念出本支路与本班起止，当班的原工跟着念回一遍，工号对上，她才把发放判断切到人工。",
+          "issue_id": "R007-B25-013"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "感官依据": {
+      "hits": [
+        {
+          "chapter": 248,
+          "quote": "梯脚在石台上留下两点白痕——停水后析出的盐。",
+          "issue_id": "R007-B25-010"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "人体常识": {
+      "hits": [
+        {
+          "chapter": 245,
+          "quote": "掌心那道旧疤被铅笔压出一道白痕，她自己没提，只把笔换到左手里接着抄。",
+          "issue_id": "R007-B25-002"
+        },
+        {
+          "chapter": 250,
+          "quote": "林栖念出本支路与本班起止，当班的原工跟着念回一遍，工号对上，她才把发放判断切到人工。",
+          "issue_id": "R007-B25-013"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "篇幅口径": {
+      "hits": [],
+      "result": "纯汉字初稿10章均2200—3200，共24162，终稿须重核"
+    },
+    "叙述者翻译与辩护": {
+      "hits": [
+        {
+          "chapter": 244,
+          "quote": "自己用拾来的干枝把表面的枯叶夹走，不将深处的泥捅进饮水管。",
+          "issue_id": "R007-B25-001"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "动作罗列流水账": {
+      "hits": [],
+      "result": "逐章阅读未见需单列修订的命中；不以词频代替审读"
+    },
+    "动词悬空": {
+      "hits": [],
+      "result": "逐章阅读未见需单列修订的命中；不以词频代替审读"
+    },
+    "验证动作重复": {
+      "hits": [
+        {
+          "chapter": 247,
+          "quote": "两个送桶者把看见的分开写，写完各按一个手印。原工将这一页夹在停止牌副本后面，写明谁在场、谁没在场。那两名退班者今日的搬运工格空着，工班记零，饮水仍照底数；裴七没有把这两件事并成一格，免得日后有人拿做没做工换水。两个送桶者目睹全程，分别报了看到的动作：搭钳、攀撑、拉人，不能把险些开阀写成已经毁库，也不能把差点跌下去说成故意赴死。",
+          "issue_id": "R007-B25-006"
+        }
+      ],
+      "result": "命中见逐条问题"
+    },
+    "像是堆叠": {
+      "hits": [],
+      "result": "逐章阅读未见需单列修订的命中；不以词频代替审读"
+    }
+  },
+  "context_read": [
+    {
+      "path": "AGENTS.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "skills/alien-serial-harness/references/editorial.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/00_项目总览/项目总纲.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/00_项目总览/资料索引与阅读地图.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/03_剧情架构/分卷总纲.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/03_剧情架构/README.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/卷纲.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/十章篇章卡.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/03_剧情架构/第三卷/逐章卡.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/01_世界设定/势力与制度.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/01_世界设定/世界背景总览.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/01_世界设定/世界规则与地理.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/01_世界设定/社会生活与文化.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/01_世界设定/栈城路线图.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/02_角色档案/角色出场与语气卡.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/02_角色档案/角色圣经.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/02_角色档案/关系与成长线.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语词典.md",
+      "scope": "A14—A15历史截点及相关术语；非全卷全文审计"
+    },
+    {
+      "path": "异星录/04_连续性管理/伏笔与悬念台账.md",
+      "scope": "A14—A15历史截点及相关术语；非全卷全文审计"
+    },
+    {
+      "path": "异星录/04_连续性管理/人物状态台账.md",
+      "scope": "A14—A15历史截点及相关术语；非全卷全文审计"
+    },
+    {
+      "path": "异星录/04_连续性管理/资源与时间台账.md",
+      "scope": "A14—A15历史截点及相关术语；非全卷全文审计"
+    },
+    {
+      "path": "异星录/04_连续性管理/事件与地点时间线.md",
+      "scope": "A14—A15历史截点及相关术语；非全卷全文审计"
+    },
+    {
+      "path": "异星录/04_连续性管理/术语与命名表.md",
+      "scope": "A14—A15历史截点及相关术语；非全卷全文审计"
+    },
+    {
+      "path": "异星录/05_写作规范/黄金开篇与持续追读规范.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/05_写作规范/文风与细节精修规范.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/05_写作规范/正文与连载规范.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    },
+    {
+      "path": "异星录/05_写作规范/设定揭示计划.md",
+      "scope": "第三卷241—250及跨卷边界；全文件或相关章节"
+    }
+  ],
+  "boundary_dependencies": [
+    {
+      "chapter": 251,
+      "quote": "你们棚里那两个，前天退了搬运班。",
+      "problem": "247/D110退班到251/D114相隔4日，应改几日前等；范围外仅登记，不修改",
+      "status": "out_of_scope"
+    }
+  ],
+  "pending_author": [],
+  "read_order": "先241—250工作正文并写body-first.md，再查资料与240/251边界；读取相关历史条目，不以D320倒灌",
+  "input_digest": "a7cd8aebc98583f600cf7d8b1e4494f710190301e1af738275662956cd71b764",
+  "new_issues": [
+    {
+      "id": "R007-B25-final-001",
+      "chapter": 248,
+      "quote": "棚里的问话只能等他把纸条念回来",
+      "problem": "麦穗代词误作他，242及已验收193/199/200用她，初审漏项",
+      "severity": "moderate",
+      "category": "人物指代",
+      "status": "closed",
+      "resolution": "改等她，短复核指代回到麦穗",
+      "recheck_quote": "棚里的问话只能等她把纸条念回来"
+    },
+    {
+      "id": "R007-B25-final-002",
+      "chapter": 247,
+      "quote": "男人靠墙喘了好一会儿，腰带几乎勒进腹里。",
+      "problem": "人物台账A15已有一退班者磨手，原正文只呈现林渡掌茧磨破；缺实际承接，初审漏项",
+      "severity": "moderate",
+      "category": "伤势事实呈现",
+      "status": "closed",
+      "resolution": "承接既有同伴双手抓栏扶人撤脚，补掌根擦皮；无新增伤亡和医疗消耗",
+      "recheck_quote": "撤回墙边后，同伴摊开刚才抓栏的手，掌根蹭破一块皮，便改用手背抵着墙。"
+    }
+  ],
+  "initial_source_digest": "eeb6bd395e7d3bd279dee395417d0dcacfd3be3d82f8ed9d7d6c3dd78d659829",
+  "recheck_method": "收到修稿后完整复读241—250；逐一核14项替换，另核两次报灯同轮、阿九照护重缠和夜班划去回棚后。新增发现麦穗代词、台账已有退班者磨手承接遗漏，主笔修改后再短复读247/248实际句与上下文。",
+  "scope_limitation": "只签241—250终稿，不签201—240、251以后；六台账/章卡的回填候选尚待另行交付审读。范围外251相对日次依赖仍登记。"
+}

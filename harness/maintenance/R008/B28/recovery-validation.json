@@ -1,0 +1,156 @@
+{
+  "stage": "suggestions_complete_not_applied",
+  "reviewer": "01a1c2c7-4130-77d2-95bf-c81f4448241b",
+  "writer": "R008-main",
+  "date": "2026-11-10",
+  "recovery_count": 131,
+  "existing_count": 12,
+  "existing_entries_to_apply_1_based": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+  ],
+  "existing_entries_to_skip_1_based": [
+    2,
+    10
+  ],
+  "supersessions": [
+    {
+      "recovery_id": "RB28-019",
+      "file": "suggested-edits.json",
+      "entry_1_based": 10
+    },
+    {
+      "recovery_id": "RB28-045",
+      "file": "suggested-edits.json",
+      "entry_1_based": 2
+    }
+  ],
+  "apply_order": [
+    "existing suggested-edits.json, entries 1,3,4,5,6,7,8,9,11,12 only",
+    "all recovery-suggested-edits.json entries in file order"
+  ],
+  "combined_replacement_count": 141,
+  "all_original_old_unique": true,
+  "all_remaining_spans_disjoint": true,
+  "sequential_in_memory_replacements_succeeded": true,
+  "manuscripts_written": false,
+  "D144_original_wedge_paragraph_unchanged_in_simulation": true,
+  "D145_out_of_scope": true,
+  "errors": [],
+  "manuscripts": [
+    {
+      "chapter": 271,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第271章_灯点到第二夜.md",
+      "input_sha256": "ec180fadf54e6875eda2c4aefe0ac93198f5e3f8d09235bf5a41b9014cb2fd73",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 10,
+      "original_body_han": 2356,
+      "simulated_body_han": 2478,
+      "simulation_only_sha256": "1e980decc56e0040f845f6427e2dc13a5dfd2538c827dcb2c0820a9df711d422"
+    },
+    {
+      "chapter": 272,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第272章_回条上一个名字.md",
+      "input_sha256": "6e84ac418b37c52ae685a7bdc3ba4c958eb2805906210deaf773e8026429dada",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 10,
+      "original_body_han": 2247,
+      "simulated_body_han": 2277,
+      "simulation_only_sha256": "268b883b4fbb46a54a0db7fa35f1866eba9bbc4abca020fcae7e3a8c674029b4"
+    },
+    {
+      "chapter": 273,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第273章_收签口.md",
+      "input_sha256": "9a652a724e0d42bd30dfd91e601a9de739ce5affae0258aefa6342d1201899ef",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 8,
+      "original_body_han": 2554,
+      "simulated_body_han": 2643,
+      "simulation_only_sha256": "f87e550786c18e57e0daa868cede9f88a48e1be226355c798324a8f85e7b50f3"
+    },
+    {
+      "chapter": 274,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第274章_旧收条.md",
+      "input_sha256": "e31936d6fde9476824443d669c9f19d180a79bbba0cee722ba1aef54936b3467",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 15,
+      "original_body_han": 2387,
+      "simulated_body_han": 2609,
+      "simulation_only_sha256": "74ed367087796774994984d1e542a5236d1f99b895a490a9f762db38345cb51b"
+    },
+    {
+      "chapter": 275,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第275章_同一条线.md",
+      "input_sha256": "5d107f8f29b8485eef9f58fff8897dbf8d93ae96845436a17ff845f19861cc4f",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 14,
+      "original_body_han": 2341,
+      "simulated_body_han": 2650,
+      "simulation_only_sha256": "06c097f2683bd09575b86118a5a3fac2a0019e6080cb2bd506f3f10b23e974be"
+    },
+    {
+      "chapter": 276,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第276章_北边捎来的数.md",
+      "input_sha256": "68a3da69d5a09650ac2c3b958c4fdabbd6ea73d9f582de1ba22dd10c53050fd7",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 21,
+      "original_body_han": 2242,
+      "simulated_body_han": 2483,
+      "simulation_only_sha256": "b8fad54eac74e020bb1234e8b5a0743dd32e1519df374477b490a7618d795f29"
+    },
+    {
+      "chapter": 277,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第277章_一页一批.md",
+      "input_sha256": "660dd45092a7e948b8584e7eec8fe6b29296e87441c32762786701653a56f814",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 13,
+      "original_body_han": 2270,
+      "simulated_body_han": 2547,
+      "simulation_only_sha256": "3fbb028921e9788d1f4a82a6bb9cdb73ab191f70a81ffaeb2f415d0e67d1e42f"
+    },
+    {
+      "chapter": 278,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第278章_半页名单.md",
+      "input_sha256": "eb482650694e4444c38fa1409e038acc2d5d66183b0eab05e11787a0f09718d4",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 13,
+      "original_body_han": 2206,
+      "simulated_body_han": 2480,
+      "simulation_only_sha256": "62d713af40ac94bb4145933878d91cdeb02b176880ea3034f5a41e3890303468"
+    },
+    {
+      "chapter": 279,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第279章_送证人过坡.md",
+      "input_sha256": "c6cab73d13d1baefee4631031e04b28d0402fd982556fcf2b1d1745943440f46",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 17,
+      "original_body_han": 2227,
+      "simulated_body_han": 2503,
+      "simulation_only_sha256": "c784e5f2d79a3df95be3cf663b760df57f240656ffbf1a2aa499844df52c0869"
+    },
+    {
+      "chapter": 280,
+      "path": "异星录/06_执行计划/工作区/R008-B28/第280章_留下的那一栏.md",
+      "input_sha256": "1b7e8d6e751aa94a23047ed42c2228085d6406e71a8d22e0511280f153df6013",
+      "input_matches_body_first": true,
+      "combined_replacement_count": 20,
+      "original_body_han": 2452,
+      "simulated_body_han": 2824,
+      "simulation_only_sha256": "86ae2f5946729fc17bd9d4a918baa4c1a00b4ba27209ea83036a217ecbd8a222"
+    }
+  ],
+  "recovery_suggestions_sha256": "cca05deee0adb84012209d62a0a265a2b4fd2aad44fc68d33c5a6e312a1f9f99",
+  "existing_suggestions_sha256": "6230dfa950c88fc714d67eb3569af55b0840e98b6e38c0e6761806d27695b365",
+  "initial_sha256": "5278f152c9e421fc64f88fe6e009e834b27658ce3bdea5bf0084861e08c91e55",
+  "final_review_status": "not_performed_waiting_for_actual_applied_and_sealed_manuscripts",
+  "reader_pull_signature_status": "not_signed",
+  "note": "模拟摘要不是终稿封稿指纹；所有字数和替换校验仅属于提案干跑，不是事实/吸引力验收。若主笔人工改写，之后必须审实际字节。"
+}

@@ -1,0 +1,48 @@
+{
+  "writer": "R005-resume-main",
+  "source": "harness/maintenance/R005/resume-20261109/B12/final-copy-edits.json",
+  "source_sha256": "ac3b57af4dfb46a264e2e22b90a7da93c546a2de1bc4fbaba68e090b3cca66d2",
+  "edits": [
+    {
+      "issue_ids": [
+        "R005-resume-B12-final-copy-001"
+      ],
+      "chapter": 112,
+      "before": "送板工人把借单翻到赔损栏，又重复了一遍“废了照赔”，“你们这些人，账倒是从不打折。”",
+      "after": "送板工人把借单翻到赔损栏：“废了照赔。你们这些人，账倒是从不打折。”",
+      "reason": "短核发现替换后出现引用片语用逗号悬接另一段台词，合为同一工人完整话语。"
+    },
+    {
+      "issue_ids": [
+        "R005-resume-B12-final-copy-002"
+      ],
+      "chapter": 112,
+      "before": "他又转述丙七一句：“记账上就好办。”“只垫受压的位置，折角摊平，别把软毡当木板用。”",
+      "after": "他又转述丙七的叮嘱：“记账上就好办。只垫受压的位置，折角摊平，别把软毡当木板用。”",
+      "reason": "同一转述人的连续台词不以两组相邻双引号硬断，保缓压功能。"
+    },
+    {
+      "issue_ids": [
+        "R005-resume-B12-final-copy-003"
+      ],
+      "chapter": 114,
+      "before": "六叔跟着回柜交工具，站在护线旁，声音发干：",
+      "after": "六叔站在柜前护线旁，声音发干：",
+      "reason": "前段已交代六叔随行回柜，不再重复一次到场。"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 112,
+      "before_sha256": "e9b51fe2ba6a0942c72383f62e7a182d709d4f4106ee931ba95f44b9b1c90f7d",
+      "after_sha256": "b114fc11bce56a6f22bc64c8926a7184801a495ee0730841bddf8640fc2c6edc",
+      "han": 2774
+    },
+    {
+      "chapter": 114,
+      "before_sha256": "8f05107782a6420020103a00f81abbb1455c9419b744778a97462ed76ff9415c",
+      "after_sha256": "dfc6887b2b7e10b68a74682cd811428de349886f4f3ff862ac04c976ecd6e9fb",
+      "han": 2463
+    }
+  ]
+}

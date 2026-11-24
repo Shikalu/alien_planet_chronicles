@@ -1,0 +1,431 @@
+{
+  "schema_version": 1,
+  "kind": "review",
+  "profile": "serial",
+  "reviewer": "/root/review_201_220",
+  "writer": "R007-main",
+  "independent": true,
+  "body_first": true,
+  "manuscripts": [
+    {
+      "chapter": 211,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第211章_汽里也走水.md",
+      "sha256": "5aefe2ea5da0c2bc92504597e5bed2a3480179e3f78515bfbcf8ab9919fb452f"
+    },
+    {
+      "chapter": 212,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第212章_后窗不问旬.md",
+      "sha256": "6dd65c79a05e9ceb83fed1379769127e2d05fd38a510d2d931c73e3c018f8227"
+    },
+    {
+      "chapter": 213,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第213章_票不动账动.md",
+      "sha256": "4cd7895e1f66069c749d893b1de303e0f3ddf0fa0272fc44dd957b8d5bcf55c9"
+    },
+    {
+      "chapter": 214,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第214章_抄到一半封了册.md",
+      "sha256": "3dcb96cd1cf482da7ff6dc3a84b56cd802b429e010630eaef7f955190daeeb10"
+    },
+    {
+      "chapter": 215,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第215章_底档封了柜没封.md",
+      "sha256": "4228125aaa534c273567874d456c6d5d9a595e85b1fcb24e873b04bf1e674f63"
+    },
+    {
+      "chapter": 216,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第216章_柜上的数夜里走.md",
+      "sha256": "fc16b1226b65a7e4c8f1979841437d52ea13a16b34c4b86a2dcfb24a80b4acf0"
+    },
+    {
+      "chapter": 217,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第217章_缸底.md",
+      "sha256": "82a24578a22789c63b731a395d92c0eb49f208dd2ec024e6e2328cb6fa059e39"
+    },
+    {
+      "chapter": 218,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第218章_同址两户.md",
+      "sha256": "29f60b024170dfa613d9773e8d2312ff3c0be76da30b5417fc9a8932bf502688"
+    },
+    {
+      "chapter": 219,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第219章_棚口的五件水.md",
+      "sha256": "4f758b6161c23e96d65f7696fee1efa21bcd6e29a5717bfbc3b25bfbabd3a26c"
+    },
+    {
+      "chapter": 220,
+      "path": "异星录/06_执行计划/工作区/R007-B22/第220章_开空门开不出水.md",
+      "sha256": "a91ed9862a62c9a494db45b26d062d5c3ce4a2fd996aa5e26d4c61eb319f9fdb"
+    }
+  ],
+  "source_digest": "cbe12107ae90ab753014c37368dad1fbc9fad599f045f9fd19ae3aafb9c77335",
+  "verdict": "pass",
+  "checks": [
+    {
+      "criterion": "opening_pressure",
+      "chapter": 211,
+      "quote": "潮头是后半夜压到外缘的。",
+      "reason": "保棚过潮并守住票持者份进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 211,
+      "quote": "票不动。",
+      "reason": "不拿四口之票换棚水，只听不追夜车；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 211,
+      "quote": "汽里也走水。",
+      "reason": "资源/关系有实物/行动/资源变化，备用两勺不续日耗，湿布不筛热汽，窗灯给夜光源；D77第一夜，数纸仅听方向/停留声，不证末端，53不作全队人口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 211,
+      "quote": "这张票的份，是四口人的命钱。",
+      "reason": "水15件起减、病者加重让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 211,
+      "quote": "明夜再听。",
+      "reason": "隔墙轮声只证方向，不能证卸货终点，仍有下一步调查/交班/救济要做，危险钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 212,
+      "quote": "潮头第二天恰逢旬头，正事只有一件",
+      "reason": "核夜车/旬头后窗发放进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 212,
+      "quote": "下一班汽起，不等车也得回来。",
+      "reason": "限时近观、不跟入巷，伤后撤回；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 212,
+      "quote": "后窗之令，出于话，不出于纸。",
+      "reason": "线索/资源有实物/行动/资源变化，D78旬头观察限低汽空档/撤退路线，烫伤与医疗一盏/空班保留；只见后窗四桶和北巷方向，便门末端未跟到；七号全年与53份月度分清。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 212,
+      "quote": "小石烫伤",
+      "reason": "小石烫伤、医疗水一盏、空岗让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 212,
+      "quote": "棚不是静修了么？",
+      "reason": "后窗无纸亲见，桶源与卸处待核，仍有下一步调查/交班/救济要做，发现钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 213,
+      "quote": "这日仍是旬头，潮头到晌午歇了半个凉时。",
+      "reason": "把额度抄为可核共同证据进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 213,
+      "quote": "抄，就当着居民的面抄。",
+      "reason": "不动他人票，居民当面见证原册；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 213,
+      "quote": "今日始，站册有见证。",
+      "reason": "线索/关系有实物/行动/资源变化，与212同D78，不让伤手小石再出门；票手印未核本人、受赠未发生先不写；见证核数/戊字一核字形页码分工。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 213,
+      "quote": "这一遍按得很实",
+      "reason": "林栖伤手渗血、占班让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 213,
+      "quote": "账动了，票没动。",
+      "reason": "票号能对，手印未核本人；不得借票冒领，仍有下一步调查/交班/救济要做，选择钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 214,
+      "quote": "见证抄账的第二天，补的是批注。",
+      "reason": "补抄漏注、保留证据进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 214,
+      "quote": "抄本两处分持，见证手印齐全",
+      "reason": "封底档后仍分持补页，改查工班柜账；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 214,
+      "quote": "站柜底档，旬内封账。",
+      "reason": "线索/世界规则有实物/行动/资源变化，第三转户之外再核第一/四/五/六共五，回翻顺序明确；持左笔、见证压纸；站柜副本不离站，补页单独送回。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 214,
+      "quote": "怕。",
+      "reason": "核查两班、方向暴露让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 214,
+      "quote": "明儿下柜。",
+      "reason": "转无迁段；批号格式不同不等同一手，仍有下一步调查/交班/救济要做，世界钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 215,
+      "quote": "去六层的队，天不亮就动了身。",
+      "reason": "把空户账与蓝点夜数对起进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 215,
+      "quote": "轻载，慢走，听数。",
+      "reason": "四人轻载慢走、有见证对数不动管；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 215,
+      "quote": "天天夜里走数。",
+      "reason": "线索/资源有实物/行动/资源变化，本泵停只排本泵，另泵/高水头待核，先认图与管路所需压差；没听齿声不等于另一台。时段/旧黑板与回程不夸快。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 215,
+      "quote": "今儿记给见证看——这才算数。",
+      "reason": "往返占凉时、林栖咳沉让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 215,
+      "quote": "柜没封。",
+      "reason": "本泵停不能排别泵；高水头仍待核，仍有下一步调查/交班/救济要做，发现钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 216,
+      "quote": "这天入夜，六层柜的数换了记法。",
+      "reason": "查夜数钟点/管声/里柜进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 216,
+      "quote": "门照旧锁，痕照旧留，数照旧记。",
+      "reason": "守实数后锁回门，不试动水；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 216,
+      "quote": "自今日起，柜账夜数，双签为凭。",
+      "reason": "线索/规则有实物/行动/资源变化，同D80入夜至D81晨，四人分工读数/听记/双见证；一夜节律待下夜验证，口信保待核，丁留守三人回。末四件已昨夜用尽，D81改零接217。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 216,
+      "quote": "这一行，该擦了。",
+      "reason": "丁字三押岗、守夜耗力让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 216,
+      "quote": "得先和杜姨议这半罐还能护住谁。",
+      "reason": "单夜不能验证两夜节律；上行管只图示方向，仍有下一步调查/交班/救济要做，时间钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 217,
+      "quote": "封蜡的最后四件",
+      "reason": "熬水尽并阻私接连坐进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 217,
+      "quote": "今儿还没到。",
+      "reason": "先让医水保娃，记录私接痕迹不抹不报；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 217,
+      "quote": "柜上的数，停了。",
+      "reason": "资源/线索有实物/行动/资源变化，不新增留短节实物，依宽窄勒痕推可能变径件，操作过程和来路待认；D81为断供第14日，不称旬里14天；不预写219恩人。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 217,
+      "quote": "那半罐水往孩子那边挪了挪。",
+      "reason": "公共水零、只有医罐半罐、夜数停让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 217,
+      "quote": "两根线，一个结。",
+      "reason": "痕迹可示尝试，不能全知接法及操作者想法，仍有下一步调查/交班/救济要做，危险钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 218,
+      "quote": "同址两户的事",
+      "reason": "辨五门牌重复额度进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 218,
+      "quote": "所以才不能划。",
+      "reason": "拒删新户，签名分持保罪证；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 218,
+      "quote": "一个门牌，两份额度。",
+      "reason": "线索/关系有实物/行动/资源变化，用重编原册三处原笔比字，抄件只定位；林栖左描字形、见证压页。老新两套额度非一水二分；D82傍晚仅昨夜到今晨未动，不重报算两夜；高水头仍待核。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 218,
+      "quote": "我不想十九年攒下的账",
+      "reason": "占满两核查班、戊字一承担风险让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 218,
+      "quote": "掐住它的人在哪一头，纸上没有。",
+      "reason": "抄本定位原笔，签收人未知，实际水向待核，仍有下一步调查/交班/救济要做，选择钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 219,
+      "quote": "潮头是掌灯时分退净的。",
+      "reason": "接五件匿名水并回条进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 219,
+      "quote": "收。",
+      "reason": "数量明记、疑点暗存、回礼不逼名；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 219,
+      "quote": "五件水，是掌灯后到的。",
+      "reason": "资源/关系有实物/行动/资源变化，实收5件/分饮/回条保留；封口花式和水线不核送者或源头，缺水下公开风险、留样不回医罐。昨日零描深、无来路号不等无花式；回条按实人/实到记，不先许足额。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 219,
+      "quote": "今夜有，明夜也有。",
+      "reason": "欠水人情、来路风险未消让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 219,
+      "quote": "这五件水，不能替它消账。",
+      "reason": "封装相似非水源已核，干痕不能断存放时日，仍有下一步调查/交班/救济要做，关系钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "opening_pressure",
+      "chapter": 220,
+      "quote": "潮头过后的头一个凉时",
+      "reason": "把空户查证转为入调度的行动进入本章开头可见处境，修后时段参照清楚。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "protagonist_choice",
+      "chapter": 220,
+      "quote": "去修堤，是干活。",
+      "reason": "借抢修工班进门，听堤备料等核员；不凭身份或个人神力越过现场限制。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "visible_change",
+      "chapter": 220,
+      "quote": "水在调度里。人，也在。",
+      "reason": "目标/线索有实物/行动/资源变化，D83余2件仅2日，距D88五日缺3日；票只认老笔法不定写年，核7处门牌非开7屋。两套额度/匿名实收/待核压力源并问调度，备活听堤保工程入口。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "emotional_payoff",
+      "chapter": 220,
+      "quote": "门牌后头的人找回来一个，比一勺水沉。",
+      "reason": "两件仅两日、维修与人员受限让兑现有成本，人物反应落在水勺、手印、伤势或职责。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "next_question",
+      "chapter": 220,
+      "quote": "听堤。",
+      "reason": "老式笔法不能断本票年代；D88尚五日，仍有下一步调查/交班/救济要做，世界钩子由行动后果产生。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "promise_payoff",
+      "chapter": 218,
+      "quote": "一个门牌，两份额度。",
+      "reason": "从票根到同址老新双额度兑现排除机制前置，保原笔比对与未核水向。",
+      "verdict": "pass"
+    },
+    {
+      "criterion": "progressive_stakes",
+      "chapter": 220,
+      "quote": "调度在六层核心。",
+      "reason": "缺水仍未解、核对员五日后、外堤哨音逼近，选择实际抢修进门而非重复许诺查账。",
+      "verdict": "pass"
+    }
+  ],
+  "scope_note": "只签211—220本组实际终稿；未以本报告签1—3或221以后。",
+  "fact_review": "harness/maintenance/R007/B22/final.json"
+}

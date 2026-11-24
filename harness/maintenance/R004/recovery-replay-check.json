@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "R004",
+  "date": "2026-11-06",
+  "scope": "recovery of pre-existing changes; not an editorial verdict",
+  "baseline_path": "harness/maintenance/R004/baseline.json",
+  "baseline_sha256": "35638d7e1fd97fe355b697f42467e31d0d629f56462b7bb4cd4cef788f0e939e",
+  "changes_path": "harness/maintenance/R004/changes.json",
+  "changes_sha256": "5e14ba6640f93a3524d3210f18c47a61bd371d76c902cb40ff4f6503d8d70ddb",
+  "patch_count": 111,
+  "changed_chapter_count": 46,
+  "method": "Replay exact before_quote/after_quote substitutions from original published bytes in order; check both SHA values for every patch and compare final work bytes.",
+  "replay_errors": [],
+  "published_baseline_mismatches": []
+}

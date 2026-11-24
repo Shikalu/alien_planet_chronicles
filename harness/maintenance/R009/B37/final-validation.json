@@ -1,0 +1,79 @@
+{
+  "batch": "R009-B37",
+  "source_digest": "ccff0ffea83ed5d02bc7f9c7de7ac3e1956cb0e284ad2b1410161bce31368012",
+  "actual_bytes_match": true,
+  "closure_quotes_match": true,
+  "reader_check_count": 52,
+  "reader_validation": {
+    "errors": [],
+    "incomplete_checks": [],
+    "reader_review_passed": true,
+    "verdict": "pass",
+    "chapters": [
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370
+    ],
+    "includes_prologue": false,
+    "profile": "serial"
+  },
+  "counts": {
+    "361": {
+      "han": 2320,
+      "nonspace": 2629
+    },
+    "362": {
+      "han": 2289,
+      "nonspace": 2591
+    },
+    "363": {
+      "han": 2311,
+      "nonspace": 2597
+    },
+    "364": {
+      "han": 2269,
+      "nonspace": 2531
+    },
+    "365": {
+      "han": 2277,
+      "nonspace": 2567
+    },
+    "366": {
+      "han": 2490,
+      "nonspace": 2793
+    },
+    "367": {
+      "han": 2343,
+      "nonspace": 2615
+    },
+    "368": {
+      "han": 2248,
+      "nonspace": 2508
+    },
+    "369": {
+      "han": 2376,
+      "nonspace": 2625
+    },
+    "370": {
+      "han": 2376,
+      "nonspace": 2651
+    }
+  },
+  "note": "技术检查仅验证字节、覆盖、引句与字数；实际阅读和判断在final.md/reader-review.json，不以脚本代替。",
+  "writeback_freeze_validation": {
+    "freeze_sha256": "9e61feee2b5f156b80f76854b14dcea12b04e2018b454fdf0abd509f99ed314a",
+    "frozen_file_count": 8,
+    "frozen_files_match": true,
+    "report_files_match": true,
+    "scope_quotes_match": true,
+    "scope_only": true,
+    "verdict": "pass"
+  }
+}

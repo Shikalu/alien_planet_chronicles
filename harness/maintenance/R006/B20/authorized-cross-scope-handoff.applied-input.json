@@ -1,0 +1,20 @@
+{
+  "id": "B20-WB-X01",
+  "owner": "R006-main/A11",
+  "path": "异星录/06_执行计划/工作区/R006-WB/资源与时间台账.md",
+  "scope": "201—210资源实录；不是本组正文的新问题",
+  "before": "短门登记电源壳已归还（A10）",
+  "after": "A10末短门登记电源壳装留证袋、候下一班送水带回塔；其后归还进度另据本段实录核记",
+  "target_sha256": "48746b2fa4d2f7db9194bf9d9ac5f66d7c3d92726f474451ff57ccb91d82e59a",
+  "reason": "A10本组最后可证状态是候还而非已还；仅纠正A11对A10的倒引，不推测A11归还动作。",
+  "source_evidence": {
+    "chapter": 197,
+    "path": "异星录/06_执行计划/工作区/R006-B20/第197章_把没听清的留空.md",
+    "sha256": "42bf8546afa70f01d166a9503cff08007b7f3d5edf379c5226be3730d5f8dfaa",
+    "quote": "该落的签记已经落过，格壳还等下一班送水的人带回塔。",
+    "line": 82
+  },
+  "blocking_for_B20": false,
+  "status": "out_of_scope_handoff_not_applied",
+  "before_occurrences": 1
+}

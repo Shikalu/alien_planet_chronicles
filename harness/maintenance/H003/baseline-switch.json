@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "id": "H003-C01",
+  "date": "2026-11-10",
+  "status": "completed",
+  "authorization": {
+    "decision_id": "H003-C01",
+    "user_response": "同意",
+    "approved_scope": "保留R004历史基线；新建当前已验收版本基线，保留原保护对象并补齐全部正文；切换默认配置，不修改正文。"
+  },
+  "prior_validation": {
+    "path": "harness/maintenance/H003/verification.json",
+    "sha256": "0314435474552d756476ddf8b639eb54bc6a88476fe36636ad2efd2a552d7e93",
+    "preservation_errors": 268,
+    "preserved_unchanged": true
+  },
+  "previous_baseline": {
+    "path": "harness/maintenance/R004/preservation.json",
+    "sha256": "d007656e1ca7fa491e1a0c77c8116fe85e262bb4204732de3dafce0de67c98d6"
+  },
+  "new_baseline": {
+    "path": "harness/maintenance/H003/preservation.json",
+    "sha256": "803bf650e1df6a9d9edde1006db49c690fd7970b0e1b7ec993efb4a6972c42eb"
+  },
+  "coverage": {
+    "historical_protected_objects": 393,
+    "published_files_including_indexes": 406,
+    "newly_covered_paths": 55,
+    "total_files": 448,
+    "rule": "原保护对象经已验收重命名映射到现行路径，与全部正文文件集合取并集；不删减保护对象。"
+  },
+  "accepted_path_mappings": {
+    "异星录/正文/第二卷_黑暗断阶/第172章_流不到议政厅的那一管.md": {
+      "current_path": "异星录/正文/第二卷_黑暗断阶/第172章_先断谁的水.md",
+      "chapter": 172,
+      "before_sha256": "ed66e6446498fb2ddd53a7f28a38ec375be0a08c8d89e8514adb0ad58910dfd0",
+      "after_sha256": "11c5e6ed44d6bb89a53d4cb67549f607dbf8d288cee9b1bd03da6e90a5e75fc3",
+      "evidence": {
+        "path": "harness/maintenance/R006/record.json",
+        "sha256": "3bedf6325382e22319b20f3d84f18b832f8920c6168f054d534602dd3425a539"
+      }
+    }
+  },
+  "accepted_historical_difference_counts": {
+    "harness/maintenance/R005/record.json": 52,
+    "harness/maintenance/R006/record.json": 50,
+    "harness/maintenance/R007/record.json": 46,
+    "harness/maintenance/R008/record.json": 45,
+    "harness/maintenance/R009/record.json": 75
+  },
+  "acceptance_records": {
+    "R003": {
+      "path": "harness/maintenance/R003/record.json",
+      "sha256": "761e383bdba50f4aca8c7cdda464c62e93ab244996d7e39a9586c137dd12d3ea"
+    },
+    "R004": {
+      "path": "harness/maintenance/R004/record.json",
+      "sha256": "a852cd4ad10f79c383b26cf4cdc1dc257eed923f066f2beaf87f0f20b9411db3"
+    },
+    "R005": {
+      "path": "harness/maintenance/R005/record.json",
+      "sha256": "6df9ec6faeb855aa45439924d1a8075a9a2038b425efaaebaba083f6fd7e4ca8"
+    },
+    "R006": {
+      "path": "harness/maintenance/R006/record.json",
+      "sha256": "3bedf6325382e22319b20f3d84f18b832f8920c6168f054d534602dd3425a539"
+    },
+    "R007": {
+      "path": "harness/maintenance/R007/record.json",
+      "sha256": "3bf87b384413821ffd706e28dc93a30ec4d2d346e192bb2e0f361ee1d8207cce"
+    },
+    "R008": {
+      "path": "harness/maintenance/R008/record.json",
+      "sha256": "09678952f54fdc1bbb3196b441d084430bd6fe084fe467be26d37f062bd79bf3"
+    },
+    "R009": {
+      "path": "harness/maintenance/R009/record.json",
+      "sha256": "db897f5ca9f703839112acfd72121b1d8e8b696f2394dfb8060333bbb182191c"
+    }
+  },
+  "configuration": {
+    "path": "harness/project.json",
+    "changed_field": "preservation_baseline",
+    "old_value": "harness/maintenance/R004/preservation.json",
+    "new_value": "harness/maintenance/H003/preservation.json",
+    "before_sha256": "a3be6bf45d6d2bd2d43496add711ef1c8bbc9c95313de673ea661294639f382f",
+    "after_sha256": "557f5e92f16f6a7b87a0b75fb782e6f0f34730e5bcb49910fc914f9f3bc2002b",
+    "other_fields_unchanged": true
+  },
+  "commands": [
+    {
+      "command": "python3 tools/novel_harness.py verify-preservation",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0,
+      "protected_files": 448
+    },
+    {
+      "command": "python3 tools/novel_harness.py check --structure-only --json",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "command": "python3 tools/novel_harness.py check --json",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0,
+      "reader_coverage": {
+        "published": 400,
+        "passed_count": 400,
+        "unreviewed_or_not_passed_count": 0
+      }
+    },
+    {
+      "command": "python3 tools/novel_harness.py verify-repair --record harness/maintenance/R009/record.json",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "command": "python3 tools/check_reader_pull.py --coverage --require-complete",
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "command": "python3 -m unittest discover -s tools -v",
+      "exit_code": 0,
+      "summary": "Ran 37 tests in 0.634s; OK"
+    }
+  ],
+  "preservation_guards": {
+    "historical_baseline_unchanged": true,
+    "original_393_objects_all_covered": true,
+    "all_406_prose_paths_and_bytes_unchanged": true,
+    "protection_scope_not_reduced": true,
+    "status_navigation_unchanged": true,
+    "all_other_preexisting_files_unchanged": true
+  },
+  "modified_files": [
+    {
+      "path": "harness/README.md",
+      "before_sha256": "6c967529f28167b76afdac970d9d982f6b231f617ca156036491f4a455a22416",
+      "after_sha256": "fc8d85920af6bb886b4a35c54d09b1badee1b2c7f44dd1173c0b4624884c0b68"
+    },
+    {
+      "path": "harness/maintenance/H003/cleanup.json",
+      "before_sha256": "2f84bdec14b5ca4002a335451122aa0e35a1583952a4105795a62810d8891f03",
+      "after_sha256": "74ae51406709d31d976be3469f5d719f5b4b9b9666c9c4232d6f6824f3d0d5d1"
+    },
+    {
+      "path": "harness/maintenance/H003/整理报告.md",
+      "before_sha256": "7ecb309a6a1cc2cb841af7ba50f32bca39fd24d8adab8686e5a3b65452f0b7f2",
+      "after_sha256": "11a9ec22ed3425394240ea0cd261fdd33633cb9dc607a60597ba6930e36cbe0a"
+    },
+    {
+      "path": "harness/maintenance/README.md",
+      "before_sha256": "f137d39049f3cf4132d8d17ae49d9a6112dd4940adeb5898bdf5e83deec995a2",
+      "after_sha256": "0d055db08c3a22ad20f2724a7719f5b37ec61481fd65e9cfb4ad916a0a918cce"
+    },
+    {
+      "path": "harness/project.json",
+      "before_sha256": "a3be6bf45d6d2bd2d43496add711ef1c8bbc9c95313de673ea661294639f382f",
+      "after_sha256": "557f5e92f16f6a7b87a0b75fb782e6f0f34730e5bcb49910fc914f9f3bc2002b"
+    },
+    {
+      "path": "异星录/06_执行计划/详细执行计划.md",
+      "before_sha256": "4cea9462209d38276252cf65f744471c0e3829efc44446bae2f0b272ffa15390",
+      "after_sha256": "1d52f6264485d407e4cd4a848616f713f9551be282da6d8a5931c5caaf2f9213"
+    }
+  ],
+  "pending_decisions": [],
+  "entry_links": {
+    "documents": 6,
+    "errors": [],
+    "fragments_checked": [
+      "基线裁定与执行"
+    ]
+  },
+  "post_document_update_recheck": {
+    "project_errors": 0,
+    "project_warnings": 0,
+    "preservation_errors": 0,
+    "git_diff_check_exit_code": 0
+  }
+}

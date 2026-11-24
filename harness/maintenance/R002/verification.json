@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "all_expected": true,
+  "note": "全量追读命令预期返回1，因为397章尚未按新标准独立审读；本轮开篇已独立通过。",
+  "checks": [
+    {
+      "name": "tests",
+      "command": "python3 -B -m unittest discover -s tools -q",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "----------------------------------------------------------------------\nRan 37 tests in 0.745s\n\nOK\n"
+    },
+    {
+      "name": "project",
+      "command": "python3 -B tools/novel_harness.py check --json > harness/reports/project-check.json",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": ""
+    },
+    {
+      "name": "repair",
+      "command": "python3 -B tools/novel_harness.py verify-repair --record harness/maintenance/R002/record.json",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{\n  \"scope\": \"existing-prose-repair\",\n  \"chapters\": 4,\n  \"protected\": 397,\n  \"errors\": [],\n  \"warnings\": []\n}\n"
+    },
+    {
+      "name": "preservation",
+      "command": "python3 -B tools/novel_harness.py verify-preservation",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{\n  \"scope\": \"harness-change-preservation-only\",\n  \"files\": 610,\n  \"errors\": [],\n  \"warnings\": []\n}\n"
+    },
+    {
+      "name": "reader_review",
+      "command": "python3 -B tools/check_reader_pull.py --record harness/reader-reviews/R002.json",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{\n  \"errors\": [],\n  \"incomplete_checks\": [],\n  \"reader_review_passed\": true,\n  \"verdict\": \"pass\",\n  \"chapters\": [\n    1,\n    2,\n    3\n  ],\n  \"includes_prologue\": true,\n  \"profile\": \"opening\"\n}\n"
+    },
+    {
+      "name": "all_reader_coverage",
+      "command": "python3 -B tools/check_reader_pull.py --coverage --require-complete",
+      "expected_exit_code": 1,
+      "exit_code": 1,
+      "passed": true,
+      "output": "{\n  \"published\": 400,\n  \"reader_review_passed_chapters\": [\n    1,\n    2,\n    3\n  ],\n  \"passed_count\": 3,\n  \"unreviewed_or_not_passed_count\": 397,\n  \"passed_records\": [\n    \"harness/reader-reviews/R002.json\"\n  ],\n  \"diagnostic_or_not_passed_records\": [\n    \"harness/reader-reviews/opening-baseline.json\"\n  ]\n}\n"
+    },
+    {
+      "name": "all_links",
+      "command": "python3 -B - <<'PY'\nfrom pathlib import Path\nimport sys\nsys.path.insert(0,'tools')\nimport novel_harness as h\nr=Path.cwd();files=[p.relative_to(r).as_posix() for p in r.rglob('*.md')];e=h.markdown_links(r,files)\nprint({'markdown_files':len(files),'errors':e});raise SystemExit(bool(e))\nPY",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{'markdown_files': 597, 'errors': []}\n"
+    },
+    {
+      "name": "whitespace",
+      "command": "python3 -B - <<'PY'\nimport subprocess,json\nfrom pathlib import Path\nr=Path.cwd();o=Path('~/Workspace/alien_planet_chronicles');before=json.loads(Path('../r002-before.json').read_text());errors=[];checked=0\nfor b in sorted(r.rglob('*')):\n if not b.is_file() or b.suffix not in ('.md','.json','.py','.yaml'):continue\n n=b.relative_to(r).as_posix();a=o/n\n if n in before and a.read_bytes()==b.read_bytes():continue\n checked+=1;p=subprocess.run(['git','diff','--no-index','--check','--',str(a) if a.exists() else '/dev/null',str(b)],capture_output=True,text=True)\n if p.returncode not in (0,1) or p.stdout or p.stderr:errors.append({'file':n,'detail':p.stdout+p.stderr})\nprint({'checked':checked,'errors':errors});raise SystemExit(bool(errors))\nPY",
+      "expected_exit_code": 0,
+      "exit_code": 0,
+      "passed": true,
+      "output": "{'checked': 27, 'errors': []}\n"
+    }
+  ]
+}
